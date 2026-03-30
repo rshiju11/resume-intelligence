@@ -37,12 +37,10 @@ def split_sections(text):
                     current_section= key
                     matched= True
                     break
-            if matched:
-                break
 
             # if not a heading, add to current section
-            if not matched and current_section:
-                sections[current_section] += line+" "
+        if not matched and current_section:
+            sections[current_section] += line+" "
             
     return sections
 

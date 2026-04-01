@@ -1,0 +1,138 @@
+paul gestwicki | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+department of computer science
+(https://
+www.bsu.edu/academics/collegesanddepartments/computer-science)
+home > academics > colleges and departments > computer science > about us > faculty and staff
+> faculty > paul gestwicki
+paul gestwicki
+professor of computer science
+(https://www.bsu.edu/-/media/www/departmentalcontent/computerscience/cv/cs-vita- /gestwicki-vita- .pdf?sc_lang=en)
+phone:
+email:
+view email address
+add contact to outlook
+room:
+1 of 5 4/21/25,
+paul gestwicki | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+rb 479
+dr. paul gestwicki is a professor in the computer science department at ball state university. much of dr. gestwicki’s
+teaching, research, and service connect to his interest in game design and development. he has been working with
+multidisciplinary undergraduate teams to create original games with community partners for over fifteen years. past
+partners have included the indiana state museum, the children’s museum in indianapolis, minnetrista museum & gardens,
+and muncie public library. in addition to producing several award-winning games, dr. gestwicki has authored or co-
+authored over a dozen scholarly articles relating to his work in game design and development. when he is not working on
+university business, dr. gestwicki can be found playing board games, participating in game jams, making music, or
+otherwise spending time with his wife and four sons.
+education
+■
+ph.d., computer science and engineering, university at buffalo, .
+■
+m.s., computer science and engineering, university at buffalo, .
+research interests
+■
+serious game design and development
+■
+computer science and interdisciplinary education
+■
+interactive software and hybrid systems
+recognitions
+senior member, association of computing machinery
+sampling of recent scholarship
+publications - refereed
+book chapter
+gestwicki, p. v. ( ). learning the agile way with iterative and incremental projects. it works for me with high-impact
+practices: a step-by-step guide (https://newforums.com/our-titles/better-teaching-learning/classroom-techniques/it-works-for-me-with-high-impact-practices/) (pp.
+39-41). new forums.
+conference proceeding
+design and evaluation of an undergraduate course of software development practices (https://dl.acm.org/citation.cfm?
+doid=3159450.3159542), sigcse '18, proceedings of the 49th acm technical symposium on computer science education, pages
+221-226.
+book chapter
+gestwicki, p. v., largent, d. l. ( ). improving course plans via standardized committee review. in c. sweet, h. blythe, & r.
+carpenter (eds.), it works for me with high-impact practices: a step-by-step guide (https://newforums.com/our-titles/better-teaching-
+learning/classroom-techniques/it-works-for-me-with-high-impact-practices/) (pp. 13-14). stillwater, ok: new forums press.
+abstract
+gestwicki, p. v., stumbaugh, k. ( ). design and evaluation of a cybersecurity education game. proceedings of
+meaningful play (http://meaningfulplay.msu.edu/proceedings2016/). east lansing, mi: michigan state university.
+2 of 5 4/21/25,
+paul gestwicki | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+journal article
+gestwicki, p. v., mcnely, b. ( ). interdisciplinary projects in the academic studio. transactions on computing education,
+6(2), 8:1- .
+journal article
+gestwicki, p. v. ( ). teaching game programming with playn (https://doi.org/10.1145/2732157). journal of computing sciences in
+colleges, 31(1), 90-97.
+conference proceeding
+gestwicki, p. v., stumbaugh, k. ( ). observations and opportunities in cybersecurity education game design (https://
+doi.org/10.1109/cgames. .7272970). proceedings of the 20th international conference on computer games (pp. 7).
+journal article
+dibble, c., gestwicki, p. v. ( ). refactoring code to increase readability and maintainability: a case study (https://
+dl.acm.org/citation.cfm?id=2667378). consortium of computing sciences in colleges, 30(1), 41-51.
+conference proceeding
+gestwicki, p. v., ecenbarger, c. ( ). the bone wars: design and development, social media and community. proceedings
+of the international conference on meaningful play (pp. 23). east lansing, mi: michigan state university.
+meaningfulplay.msu.edu/proceedings2014/mp2014_submission_7.pdf
+conference proceeding
+gestwicki, p. v. ( ). equations squared: combining educational game design theory with an equations learning
+progression to design a mathematics assessment game. aera online paper repository (pp. 5). american educational
+research association. www.aera.net/publications/onlinepaperrepository/aeraonlinepaperrepository/tabid/12720/
+default.aspx
+book chapter
+mcnely, b., gestwicki, p. v. ( ). visualizing knowledge work with google wave. designing web-based applications for 21st
+century writing classrooms. amityville, ny: baywood press.
+conference proceeding
+franklin, l., gestwicki, p. v., morris, r. v. ( ). empirical research on the impact of morgan's raid.
+conference proceeding
+gestwicki, p. v., mcnely, b. ( ). empirical evaluation of periodic retrospective assessment. proceedings of the 44th acm
+technical symposium on computer science education (pp. 699-704)..
+conference proceeding
+ahmad, k., gestwicki, p. v. ( ). studio-based learning and app inventor for android in an introductory cs course
+for non-majors (https://doi.org/10.1145/2445196.2445286). proceedings of the 44th acm technical symposium on computer science
+education (pp. 287-292). acm.
+journal article
+mcnely, b., gestwicki, p. v., gelms, b., burke, a. ( ). spaces and surfaces of invention: a visual ethnography of
+game development (http://enculturation.net/visual-ethnography). enculturation(15).
+external grants
+gestwicki, p. v., "collaboration station: an educational video game about science and engineering aboard the international
+space station," sponsored by indiana space grant consortium (https://insgc.spacegrant.org/), $15,000.00. (april 10, - april 9,
+).
+related links
+faculty-maintained web site (http://www.cs.bsu.edu/homepages/pvgestwicki/)
+3 of 5 4/21/25,
+paul gestwicki | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+youtube video tutorials (https://www.youtube.com/user/paulgestwicki)
+blog (http://paulgestwicki.blogspot.com/)
+google scholar page (https://scholar.google.com/citations?user=mrpwzcbkd_8c&hl=en)
+course schedule
+course no. section times days location
+advanced programming - t r rb, room
+(https://
+1345 104
+banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
+cat_term_in=202420&subj_code_in=cs&crse_numb_in=222)
+game studio - m w rb, room
+(https://banner.bsu.edu/ssbprod/
+1350 f 353
+bwckctlg.p_disp_course_detail?
+cat_term_in=202420&subj_code_in=cs&crse_numb_in=415)
+independent study -
+(https://banner.bsu.edu/
+0000
+ssbprod/bwckctlg.p_disp_course_detail?
+cat_term_in=202420&subj_code_in=cs&crse_numb_in=499)
+department of computer science
+
+robert bell building (rb), room 455
+ball state university
+muncie, in 47306
+
+📠
+4 of 5 4/21/25,
+paul gestwicki | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+(https://www.bsu.edu/)
+ball state university w. university ave. muncie, in and
+copyright © ball state university
+equal opportunity policy (https://www.bsu.edu/about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
+legal information (https://www.bsu.edu/about/administrativeoffices/general-counsel)
+tty numbers (https://www.bsu.edu/about/administrativeoffices/disability-services/about/contact) sitemap (https://www.bsu.edu/sitemap)
+5 of 5 4/21/25,

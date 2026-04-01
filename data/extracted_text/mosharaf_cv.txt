@@ -1,0 +1,635 @@
+mosharaf chowdhury
+computerscienceandengineering
+universityofmichigan
+4820bbb,2260haywardstreet https://www.mosharaf.com
+annarbor,mi ,usa https://www.symbioticlab.org
+research interests
+my research enables application-infrastructure symbiosis across different layers of software and
+hardwarestacksinwide-area,datacenter-scale,andrack-scalecomputinginthecontextofbigdata
+andai/mlapplications.
+education
+ph.d.incomputerscience,
+electricalengineeringandcomputersciences
+universityofcalifornia,berkeley
+dissertationtitle:coflow:anetworkingabstractionfordistributeddata-parallelapplications
+advisor:ionstoica
+masterofmathematics,
+cheritonschoolofcomputerscience
+universityofwaterloo
+bachelorofscienceandengineering,
+departmentofcomputerscienceandengineering
+bangladeshuniversityofengineeringandtechnology(buet)
+employment
+associateprofessor, –present
+assistantprofessor, –
+electricalengineeringandcomputerscience
+universityofmichigan
+visitingresearcher, –
+facebook,inc.
+researchintern,summer2011
+microsoftresearch,redmond
+researchintern,summer2010
+microsoftresearch,cambridge,uk
+softwareengineer, –
+informationengineersandconsultantsbangladeshltd.
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page1of19
+honors & awards
+davide.liddleresearchexcellenceaward,
+googleresearchscholaraward,
+metasystemsresearchaward,
+metanetworkingresearchaward,
+morriswellmanfacultydevelopmentprofessorship,
+nsfcareeraward,
+vmwareearlycareerfacultyaward,
+googlefacultyresearchaward,
+acmsigcommdoctoraldissertationaward,
+facebookfellowship,
+ucberkeleygraduatefellowship,
+outstandingteachingassistantaward,universityofwaterloo,
+cheritonscholarship,
+universityofwaterlooalumnigoldmedal,finalist,
+universityofwaterloograduateentrancescholarship,
+paper awards
+toppicks,honorablemention,ieeemicro,
+featuredarticle,ieeeaccess,
+bestpaperaward,acmsospresilientfl,
+distinguishedartifactaward,usenixosdi,
+bestpaperaward,usenixatc,
+bestpaperaward,acmsigmodgrades-nda,
+bestpaperaward,usenixnsdi,
+communityaward,honorablemention,usenixnsdi,
+awards to students and/or projects
+dennism.ritchiedoctoraldissertationaward,honorablemention, →fanlai
+umcsedeiserviceaward, →jiachenliu
+mozillatechnologyfundaiandenvironmentaljusticeaward, →zeus
+davidj.kuckcsedissertationprize, →fanlai
+machinelearningandsystemsrisingstars, →fanlai
+machinelearningandsystemsrisingstars, →jiachenliu
+richardandeleanortownerprize, →fanlai
+carbonhack22,runner-up, →zeus
+acmsigmodsystemsaward, →apachespark
+metaph.d.fellowship,finalist, →fanlai
+metaph.d.fellowship,finalist, →hasanalmaruf
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page2of19
+nsfgraduateresearchfellowship, →jackkosaian
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page3of19
+impact
+symbioticlab projects are open-source and available via https://symbioticlab.org/
+open-source/.manyhaveledtoadoptionandlarge-scaledeploymentsinacademiaandindustry.
+major research projects
+cornstarch, –present
+cornstarch is the first distributed multimodal ai platform that is designed from the ground up to
+supporttraining,finetuning,andinferenceoflargemultimodalaimodels.
+zeus, –present
+zeus is the first energy optimization software platform for ai workloads that minimizes the energy
+consumptionforagiventimebudget.
+fedscale, –
+fedscaleisafederatedlearningandanalyticsplatformthatenablesdistributedprivacy-preservingai
+withoutcopyingrawuserdataintothecloud.
+salus, –
+multi-scalegpuresourcemanagementsolutionsforinference,training,andhyperparametertuning
+ofaiworkloadsbothforsinglegpusandgpuclusters.
+infiniswap, –
+infiniswap is the first memory disaggregation solution that allows unmodified applications to use
+remotememory(almost)atlinespeedandusheredintheeraofpracticaldisaggregation.
+coflow, –
+coflow generalizes traditional point-to-point flow-based communication in computer networks and
+enablesapplication-awaredata-parallelnetworkingforbigdataandaiworkloads.
+apachespark, –
+apachesparkistheindustry-leadingunifiedcomputationplatformforbigdataandai/mlworkloads
+withmassiveadoption.
+vineyard, -
+vineyardisanextensibleframeworkforallocatingresourcesinsoftware-definednetworking(sdn),
+networkfunctionvirtualtion(nfv),multi-tenantdatacenters,5gnetworkslicing,andedgecomputing.
+prodictionalization in the industry
+oobleck(sosp’23)→googlegemini1.0ultratraining.
+adaembed(osdi’23)→metarecommendationengines.
+zeus(nsdi’23)→pytorchecosystem.
+tpp(asplos’23)→metainfrastructureandlinuxkernelv5.18.
+aequitas(sigcomm’22)→googlecloudnetworkinginfrastructure.
+fedscale(icml’22)→linkedindataandaifoundations.
+oort(osdi’21)→ciscoflameclientselection.
+ec-cache(osdi’16)→amazonawslambdastorageandcachingsystem.
+sinbad(sigcomm’13)→facebookhdfscodebase.
+harp(sigcomm’12)→microsoftbingdatacenterserverprovisioning.
+apachespark(nsdi’12)→leadingsolutioninthe$100bdata+aiindustry.
+orchestra(sigcomm’11)→apachespark’sdefaultbroadcastalgorithm.
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page4of19
+publications
+28,500+citations;h-index=43;32paperswith100+citations[googlescholar,april2025]
+authorsinboldarestudentsadvisedbyme.
+refereed full conference papers
+j. liu, f. lai, d. ding, y. zhang, m. chowdhury, venn: resource management across federated
+learningjobs,mlsys2025.acceptancerate:nn.nn%
+p.tholoniat,k.kostopoulou,m.chowdhury,a.cidon,r.geambasu,m.lécuyer,junfengyang,dpack:
+efficiency-orientedprivacybudgetscheduling,acmeurosys2025.acceptancerate:nn.nn%
+s. srivastava, a. mittal, a. agrawal, v. moskovich, m. brevard, m. chowdhury, infa-finops for cloud
+dataintegration,ieeebigdata2024.acceptancerate:35.19%
+p.t.j.kon,j.liu,y.qiu,w.fan,t.he,l.lin,h.zhang,q.m.park,g.s.elengikal,y.kang,a.chen,
+m.chowdhury,m.lee,x.wang,iac-eval:acodegenerationbenchmarkforinfrastructure-as-code
+programs,neurips2024.acceptancerate:25.3%
+j. chung, y. gu, i. jang, l. meng, n. bansal, m. chowdhury, reducing energy bloat in large model
+training,acmsosp2024.acceptancerate:17.34%
+y.zhong,d.berger,c.waldspurger,i.agarwal,r.agarwal,f.hady,k.kumar,m.hill,m.chowdhury,a.
+cidon,managingmemorytierswithcxlinvirtualizedenvironments,usenixosdi2024.acceptance
+rate:17.38%
+y. zhu, j. liu, m. chowdhury, f. lai, fedtrans: efficient federated learning via multi-model
+transformation,mlsys2024.acceptancerate:22.02%
+y.zhang,x.zhang,g.ananthanarayanan,a.iyer,y.shu,v.bahl,z.m.mao,m.chowdhury,vulcan:
+automaticqueryplanningforlivemlanalytics,usenixnsdi2024.acceptancerate:18.64%
+j.liu,f.lai,y.daia.akella,h.madhyastha,m.chowdhury,auxo:efficientfederatedlearningvia
+scalableclientclustering,acmsocc2023.acceptancerate:31%
+i.jang,z.yang,z.zhang,x.jin,m.chowdhury,oobleck:resilientdistributedtrainingoflargemodels
+usingpipelinetemplates,acmsosp2023.acceptancerate:18.78%
+f.lai,w.zhang,r.liu,w.tsai,x.wei,y.hu,s.devkota,j.huang,j.park,x.liu,z.chen,e.wen,p.rivera,
+j. you, j. chen, m. chowdhury, adaembed: adaptive embedding for large-scale recommendation
+models,usenixosdi2023.acceptancerate:21.18%
+h.a.maruf,y.zhong,h.wang,m.chowdhury,a.cidon,c.waldspurger,memtrade:marketplacefor
+disaggregatedmemoryclouds,acmsigmetrics2023.acceptancerate:16.52%
+e. wang, a. kannan, y. liang, b. chen, m. chowdhury, flint: a platform for federated learning
+integration,mlsys2023.acceptancerate:22%
+y.wang,d.sun,k.chen,f.lai,m.chowdhury,egeria:efficientdnntrainingwithknowledge-guided
+layerfreezing,acmeurosys2023.acceptancerate:16.12%
+j. you*, j. chung*, m. chowdhury (*equal contribution), zeus: understanding and optimizing gpu
+energyconsumptionofdnntraining,usenixnsdi2023.acceptancerate:17.14%
+f. lai, y. dai, h. v. madhyastha, m. chowdhury, modelkeeper: accelerating dnn training via
+automatedtrainingwarmup,usenixnsdi2023.acceptancerate:17.14%
+h.a.maruf,h.wang,a.dhanotia,j.weiner,n.agarwal,p.bhattacharya,c.petersen,m.chowdhury,s.
+kanaujia,p.chauhan,tpp:transparentpageplacementforcxl-enabledtieredmemory,acmasplos
+.acceptancerate:21.4%ieeemicrotoppicks(honorablemention)
+p. das, s. srivastava, v. moskovich, a. chaturvedi, a. mittal, y. xiao, m. chowdhury, cdi-e: an elastic
+cloudservicefordataengineering,vldb2022.acceptancerate:36.67%
+y.zhang,g.kumar,n.dukkipati,x.wu,p.jha,m.chowdhury,a.vahdat,aequitas:admissioncontrol
+forperformance-criticalrpcsindatacenters,acmsigcomm2022.acceptancerate:19.57%
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page5of19
+f. lai, y. dai, s. s. v. singapuram, j. liu, x. zhu, h. v. madhyastha, m. chowdhury, fedscale:
+benchmarkingmodelandsystemperformanceoffederatedlearningatscale,icml2022.acceptance
+rate:21.94%
+y. zhang, y. tan, b. stephens, m. chowdhury, justitia: software multi-tenancy in hardware
+kernel-bypassnetworks,usenixnsdi2022.acceptancerate:19.4%
+y.lee*,h.a.maruf*,a.cidon,m.chowdhury,k.g.shin(*equalcontribution),hydra:resilientand
+highlyavailableremotememory,usenixfast2022.acceptancerate:21.54%
+z.yu,c.hu,j.wu,x.sun,v.braverman,m.chowdhury,z.liu,x.jin,programmablepacketscheduling
+withasinglequeue,acmsigcomm2021.acceptancerate:22.82%
+f. lai, x. zhu, h. v. madhyastha, m. chowdhury, oort: efficient federated learning via guided
+participantselection,usenixosdi2021.acceptancerate:18.79%.distinguishedartifactaward
+j.you,j.wu,x.jin,m.chowdhury,shipcomputeorshipdata?whynotboth?,usenixnsdi2021.
+acceptancerate:15.99%
+p.yu*,j.liu*,m.chowdhury(*equalcontribution),fluid:resource-awarehyperparametertuning
+engine,mlsys2021.acceptancerate:23.53%
+z. yu, y. zhang, v. braverman, m. chowdhury, x. jin, netlock: fast, centralized lock management
+usingprogrammableswitches,acmsigcomm2020.acceptancerate:21.6%
+h. a. maruf, m. chowdhury, effectively prefetching remote memory with leap, usenix atc, .
+acceptancerate:18.68%.bestpaperaward
+t.n.le,x.sun,m.chowdhury,z.liu,allox:computeallocationinhybridclusters,acmeurosys2020.
+acceptancerate:18.38%
+p. yu, m. chowdhury, salus: fine-grained gpu sharing primitives for deep learning applications,
+mlsys2020.acceptancerate:19.2%
+f.lai,j.you,x.zhu,h.v.madhyastha,m.chowdhury,sol:fastdistributedcomputationoverslow
+networks,usenixnsdi2020.acceptancerate:18.36%
+m. uluyol, a. huang, a. goel, m. chowdhury, h. v. madhyastha, near-optimal latency versus cost
+tradeoffsingeo-distributedstorage,usenixnsdi2020.acceptancerate:18.36%
+m.chowdhury,s.khuller,m.purohit,s.yang,j.you,nearoptimalcoflowschedulinginnetworks,
+acmspaa2019.acceptancerate:33%
+j.gu,m.chowdhury,k.g.shin,y.zhu,m.jeon,j.qian,h.liu,c.guo,tiresias:agpuclustermanager
+fordistributeddeeplearning,usenixnsdi2019.acceptancerate:14.76%
+a. p. iyer, l. e. li, m. chowdhury, i. stoica, mitigating the latency-accuracy tradeoff in mobile data
+analyticssystems,acmmobicom2018.acceptancerate:22.46%
+k.mahajan,m.chowdhury,a.akella,schawla,dynamicqueryre-planningusingqoop,usenixosdi
+.acceptancerate:18.29%
+d. y. yoon, m. chowdhury, b. mozafari, distributed lock management with rdma: decentralization
+withoutstarvation,acmsigmod2018.acceptancerate:19.52%
+h.zhang,j.zhang,w.bai,k.chen,m.chowdhury,resilientdatacenterloadbalancinginthewild,
+acmsigcomm2017.acceptancerate:14.4%
+j. gu, y. lee, y. zhang, m. chowdhury, k. g. shin, efficient memory disaggregation with infiniswap,
+usenixnsdi2017.acceptancerate:18.04%
+r. grandl, m. chowdhury, a. akella, g. ananthanarayanan, altruistic scheduling in multi-resource
+clusters,usenixosdi2016.acceptancerate:18.08%
+k. v. rashmi, m. chowdhury, j. kosaian, i. stoica, k. ramchandran, ec-cache: load-balanced,
+low-latencyclustercachingwithonlineerasurecoding,usenixosdi2016.acceptancerate:18.08%
+h.zhang,l.chen,b.yi,k.chen,m.chowdhury,y.geng,coda:towardautomaticallyidentifyingand
+schedulingcoflowsinthedark,acmsigcomm2016.acceptancerate:17.33%
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page6of19
+m. chowdhury, z. liu, a. ghodsi, i. stoica, hug: multi-resource fairness for correlated and elastic
+demands,usenixnsdi2016.acceptancerate:19.74%
+m.chowdhury,i.stoica,efficientcoflowschedulingwithoutpriorknowledge,acmsigcomm2015.
+acceptancerate:15.83%
+m. chowdhury, y. zhong, i. stoica, efficient coflow scheduling with varys, acm sigcomm .
+acceptancerate:18.99%
+m. chowdhury, s. kandula, i. stoica, leveraging endpoint flexibility in data-intensive clusters, acm
+sigcomm2013.acceptancerate:15.83%
+l.popa,g.kumar,m.chowdhury,a.krishnamurthy,s.ratnasamy,i.stoica,faircloud:sharingthe
+networkincloudcomputing,acmsigcomm2012.acceptancerate:13.62%
+p. bodik, i. menache, m. chowdhury, p. mani, d. maltz, i. stoica, surviving failures in
+bandwidth-constraineddatacenters,acmsigcomm2012.acceptancerate:13.62%
+m. zaharia, m. chowdhury, t. das, a. dave, j. ma, m. mccauley, m. j. franklin, s. shenker, i. stoica,
+resilientdistributeddatasets:afault-tolerantabstractionforin-memoryclustercomputing,usenix
+nsdi2012. acceptancerate:17.75%.bestpaperaward|communityaward(honorablemention)
+m.chowdhury,m.zaharia,j.ma,m.i.jordan,i.stoica,managingdatatransfersincomputerclusters
+withorchestra,acmsigcomm2011.acceptancerate:14.35%
+n.butt,m.chowdhury,r.boutaba,topology-awarenessandreoptimizationmechanismforvirtual
+networkembedding,ifipnetworking2010.acceptancerate:23.76%
+n.m.m.k.chowdhury,m.r.rahman,r.boutaba,virtualnetworkembeddingwithcoordinatednode
+andlinkmapping,ieeeinfocom2009.acceptancerate:19.65%
+n. m. m. k. chowdhury, f.-e zaheer, r. boutaba, imark: an identity management framework for
+networkvirtualizationenvironment,ifip/ieeeim2009.acceptancerate:32.8%
+journal articles
+s. qi, c. jin, m. chowdhury, z. liu, x. liu, x. jin, pyxis: scheduling mixed tasks in disaggregated
+datacenters,ieeetransactionsonparallelanddistributedsystems,35(9):1536–1550, .
+n.shi,f.lai,r.kontar,m.chowdhury,fed-ensemble:ensemblemodelsinfederatedlearningfor
+improved generalization and uncertainty quantification, ieee transactions on automation science
+andengineering,21(3):2792–2803, .
+z. wan,x. wang, c. liu,s. alam, y.zheng, j. liu,z. qu, s.yan, y. zhu, q.zhang, m. chowdhury,m.
+zhang,efficientlargelanguagemodels:asurvey,transactionsonmachinelearningresearch,
+k. n. gilley, l. baroudi, m. yu, i. gainsburg, n. reddy, c. bradley, c. cislo, m. l. rozwadowski, c. a.
+clingan, m. s. demoss, t. churay, k. birditt, n. colabianchi, m. chowdhury, d. forger, j. gagnier, r.
+f. zernicke, j. l. cunningham, s. m. cain, m. tewari, and s. w. choi, risk factors for covid-19 in
+college students identified by physical, mental, and social health reported during the fall
+semester: observational study using the roadmap app and fitbit wearable sensors, jmir mental
+health,9(2):e34645, .
+r.kontar,n.shi,x.yue,s.chung,e.byon,m.chowdhury,j.jin,w.kontar,n.masoud,m.noueihed,c.
+e.okwudire,g.raskutti,r.saigal,k.singh,z.ye,theinternetoffederatedthings(ioft),ieeeaccess,
+9:156071–156113, .featuredarticle
+v.gupta,t.m.braun,m.chowdhury,m.tewari,s.w.choi,asystematicreviewofmachinelearning
+techniquesinhematopoieticstemcelltransplantation(hsct),sensors,20(21),6100,
+f. samuel, m. chowdhury, r. boutaba, polyvine: policy-based virtual network embedding across
+multipledomains,journalofinternetservicesandapplications,4(6):1–23,
+m. chowdhury, m. r. rahman, r. boutaba, vineyard: virtual network embedding algorithms with
+coordinated node and link mapping, ieee/acm transactions on networking (ton), 20(1):206–219,
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page7of19
+n. m. m. k. chowdhury, r. boutaba, a survey of network virtualization, computer networks,
+54(5):862–876,
+n.m.m.k.chowdhury,r.boutaba,networkvirtualization:stateoftheartandresearchchallenges,
+ieeecommunicationsmagazine,47(7):20–26,
+d.t.ahmed,n.m.m.k.chowdhury,m.m.akbar,admissioncontrolalgorithmformultimediaserver:
+ahybridapproach,internationaljournalofcomputersandapplications,29(4):414–419,
+refereed workshop papers
+j. lu, y. xiao, s. chakraborty, s. fu, y. ji, a. chen, m. chowdhury, n. rao, s. ratnasamy, x. wang,
+openinfra:aco-simulationframeworkfortheinfrastructurenexus,hotinfra2024.
+s.s.v.singapuram,c.hu,f.lai,c.zhang,m.chowdhury,flamingo:auser-centricsystemforfast
+andenergy-efficientdnntrainingonsmartphones,distributedml2023.
+y. qiu, p. t. j. kon, j. xing, y. huang, h. liu, x. wang, p. huang, m. chowdhury, a. chen, cloudless
+computing:simplifyingcloudmanagementwithinfrastructureclarity,acmhotnets2023.
+h. a. maruf, m. chowdhury, memory disaggregation: open challenges in the era of cxl, hotinfra
+.
+z. yang, l. meng, j. chung, m. chowdhury, chasing low-carbon electricity for practical and
+sustainablednntraining,climatechangeai2023.
+t. anderson, a. belay, m. chowdhury, a. cidon, i. zhang, treehouse: a case for carbon-aware
+datacentersoftware,hotcarbon2022.
+f. lai, y. dai, x. zhu, h. madhyastha, m. chowdhury, fedscale: benchmarking model and system
+performanceoffederatedlearning,acmsospresilientfl2021.bestpaperaward
+h.zhang,k.chen,m.chowdhury,pasdedeux:shapethecircuits,andshapetheappstoo!,acm
+apnet2018.
+f. lai, m. chowdhury, h. madhyastha, to relay or not to relay for inter-cloud transfers?, usenix
+hotcloud2018.
+a. p. iyer, a. panda, m. chowdhury, a. akella, s. shenker, i. stoica, monarch: gaining command on
+geo-distributedgraphanalytics,usenixhotcloud2018.
+x.sun,t.n.le,m.chowdhury,z.liu,fairallocationofheterogeneousandinterchangeableresources,
+acmsigmetricsmama2018.
+a.p.iyer,a.panda,s.venkataraman,m.chowdhury,a.akella,s.shenker,i.stoica,bridgingthegap:
+towardsapproximategraphanalytics,acmsigmodgrades-nda2018.bestpaperaward
+y. zhang, j. gu, y. lee, m. chowdhury, k. g. shin, performance isolation anomalies in rdma, acm
+sigcommkbnets2017.
+l.nguyen*,p.yu*,m.chowdhury(*equalcontribution),no!notanotherdeeplearningframework,
+acmhotos-xvi2017.
+m.chowdhury,i.stoica,coflow:anetworkingabstractionforclusterapplications,acmhotnets-xi
+.
+g.kumar,m.chowdhury,s.ratnasamy,i.stoica,acaseforperformance-centricnetworkallocation,
+usenixhotcloud2012.
+m. chowdhury, f. samuel, r. boutaba, polyvine: policy-based virtual network embedding across
+multipledomains,acmsigcommvisa2010.
+m.zaharia,m.chowdhury,m.j.franklin,s.shenker,i.stoica,spark:clustercomputingwithworking
+sets,usenixhotcloud2010.
+n.m.m.k.chowdhury,m.m.akbar,m.kaykobad,disktrie:anefficientdatastructureusingflash
+memoryformobiledevices,walcom2007.
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page8of19
+invited papers
+t. anderson, a. belay, m. chowdhury, a. cidon, i. zhang, treehouse: a case for carbon-aware
+datacentersoftware,acmsigenergyenergyinformaticsreview,3(3),
+h.a.maruf,m.chowdhury,memorydisaggregation:advancesandopenchallenges,acmsigops
+operatingsystemsreview,57(1):29–37,
+j. gu, y. lee, y. zhang, m. chowdhury, k. g. shin, decentralized memory disaggregation over
+low-latencynetworks,usenix;login:,42(4):42–48,
+m.zaharia,m.chowdhury,t.das,a.dave,j.ma,m.mccauley,m.j.franklin,s.shenker,i.stoica,fast
+andinteractiveanalyticsoverhadoopdatawithspark,usenix;login:,37(4):45–51,
+non-refereed technical reports/arxiv preprints
+i.jang,r.lu,n.bansal,a.chen,m.chowdhury,cornstarch:distributedmultimodaltrainingmustbe
+multimodality-aware,arxiv:2503.11367,march2025
+p. t. j. kon, j. liu, q. ding, y. qiu, z, yang, y. huang, j. srinivasa, m. lee, m. chowdhury, ang chen,
+curie:towardrigorousandautomatedscientificexperimentationwithaiagents,arxiv:2502.16069,
+february2025
+s. he, i. jang, m. chowdhury, mordal: automated pretrained model selection for vision language
+models,arxiv:2502.00241,february2025
+j. lu*, y. zhang*, h. a. maruf, m. park, y. tang, f. lai, m. chowdhury, mercury: qos-aware tiered
+memorysystem,arxiv:2412.08938,december2024
+j. chung, n. talati, m. chowdhury, toward cross-layer energy optimizations in ai systems,
+arxiv:2404.06675,august2024
+j. liu, z. wu, j. chung, f. lai, m. lee, m. chowdhury, andes: defining and enhancing
+quality-of-experienceinllm-basedtextstreamingservices,arxiv:2404.16283,april2024
+y. zhu, j. liu, m. chowdhury, f. lai, fedtrans: efficient federated learning over heterogeneous
+clientsviamodeltransformation,arxiv:2404.13515,april2024
+j. chung, m. chowdhury, toward cross-layer energy optimizations in machine learning systems,
+arxiv:2404.06675,april2024
+j. liu, f. lai, d. ding, y. zhang, m. chowdhury, venn: resource management across federated
+learningjobs,arxiv:2312.08298,december2023
+j. chung, y. gu, i. jang, l. meng, n. bansal, m. chowdhury, perseus: removing energy bloat from
+largemodeltraining,arxiv:2312.06902,december2023
+z. wan,x. wang, c. liu,s. alam, y.zheng, j. liu,z. qu, s.yan, y. zhu, q.zhang, m. chowdhury,m.
+zhang,efficientlargelanguagemodels:asurvey,arxiv:2312.03863,december2023
+i.jang,z.yang,z.zhang,x.jin,m.chowdhury,oobleck:resilientdistributedtrainingoflargemodels
+usingpipelinetemplates,arxiv:2309.08125,september2023
+h. a. maruf, m. chowdhury, memory disaggregation: advances and open challenges,
+arxiv:2305.03943,may2023
+z. yang, l. meng, j. chung, m. chowdhury, chasing low-carbon electricity for practical and
+sustainablednntraining,arxiv:2303.02508,march2023
+e. wang, a. kannan, y. liang, b. chen, m. chowdhury, flint: a platform for federated learning
+integration,arxiv:2302.12862,february2023
+p.tholoniat,k.kostopoulou,m.chowdhury,a.cidon,r.geambasu,m.lécuyer,junfengyang,packing
+privacybudgetefficiently,arxiv:2212.13228,december2022
+j.liu,f.lai,y.dai,a.akella,harshav.madhyastha,m.chowdhury,auxo:heterogeneity-mitigating
+federatedlearningviascalableclientclustering,arxiv:2210.16656,october2022
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page9of19
+p.yu,y.qiu,x.jin,m.chowdhury,orloj:predictablyservingunpredictablednns,arxiv:2209.00159,
+september2022
+j. you*, j. chung*, m. chowdhury (*equal contribution), zeus: understanding and optimizing gpu
+energyconsumptionofdnntraining,arxiv:2208.06102,august2022
+s.s.v.singapuram,f.lai,c.hu,m.chowdhury,swan:aneuralengineforefficientdnntraining
+onsmartphonesocs,arxiv:2206.04687,june2022
+h. a. maruf, h. wang, a. dhanotia, j. weiner, n. agarwal, p. bhattacharya, c. petersen, m.
+chowdhury, s. kanaujia, p. chauhan, tpp: transparent page placement for cxl-enabled tiered
+memory,arxiv:2206.02878,june2022
+j. gu, m. chowdhury, a. akella, k. g. shin, elastic model aggregation with parameter service,
+arxiv:2204.03211,april2022
+y.wang,d.sun,k.chen,f.lai,m.chowdhury,efficientdnntrainingwithknowledge-guidedlayer
+freezing,arxiv:2201.06227,january2022
+t. anderson, a. belay, m. chowdhury, a. cidon, i. zhang, treehouse: a case for carbon-aware
+datacentersoftware,arxiv:2201.02120,january2022
+r.kontar,n.shi,x.yue,s.chung,e.byon,m.chowdhury,j.jin,w.kontar,n.masoud,m.noueihed,c.
+e.okwudire,g.raskutti,r.saigal,k.singh,z.ye,theinternetoffederatedthings(ioft):avisionfor
+thefutureandin-depthsurveyofdata-drivenapproachesforfederatedlearning,arxiv:2111.05326,
+november2021
+h. a. maruf, y. zhong, h. wang, m. chowdhury, a. cidon, c. waldspurger, memtrade: a
+disaggregated-memorymarketplaceforpublicclouds,arxiv:2108.06893,august2021
+n. shi, f. lai, r. a. kontar, m. chowdhury, fed-ensemble: improving generalization through model
+ensemblinginfederatedlearning,arxiv:2107.10663,july2021
+f. lai, y. dai, x. zhu, m. chowdhury, fedscale: benchmarking model and system performance of
+federatedlearning,arxiv:2105.11367,may2021
+f. lai, x. zhu, h. v. madhyastha, m. chowdhury, oort: efficient federated learning via guided
+participantselection,arxiv: .06081,may2021
+y.lee,h.a.maruf,a.cidon,m.chowdhury,k.g.shin,mitigatingtheperformance-efficiencytradeoff
+inresilientmemorydisaggregation,arxiv: .09727,october2020
+t. n. le, x. sun, m. chowdhury, z. liu, bopf: mitigating the burstiness-fairness tradeoff in
+multi-resourceclusters,arxiv: .03523,december2019
+h. a. maruf, m. chowdhury, effectively prefetching remote memory with leap, arxiv: .09829,
+november2019
+m.chowdhury,s.khuller,m.purohit,s.yang,j.you,nearoptimalcoflowschedulinginnetworks,
+arxiv: .06851,june2019
+y. zhang, y. tan, b. stephens, m. chowdhury, rdma performance isolation with justitia,
+arxiv: .04437,may2019
+j.you,m.chowdhury,terra:scalablecross-layergdaoptimizations,arxiv: .08480,april2019
+p. yu, m. chowdhury, salus: fine-grained gpu sharing primitives for deep learning applications,
+arxiv: .04610,february2019
+a.p.iyer,i.stoica,m.chowdhury,l.e.li,fastandaccurateperformanceanalysisoflteradioaccess
+networks,arxiv:1605.04652,may2016
+m. chowdhury, r. agarwal, v. sekar, i. stoica, a longitudinal and cross-dataset study of internet
+latencyandpathstability,ucberkeleytechnicalreportucb/eecs- -172,october2014
+m.chowdhury,i.stoica,coflow:anapplicationlayerabstractionforclusternetworking,ucberkeley
+technicalreportucb/eecs- -184,august2012
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page10of19
+s.agarwal,m.chowdhury,d.joseph,i.stoica,lattice:ascalablelayer-agnosticpacketclassification
+framework,ucberkeleytechnicalreportucb/eecs- -96,august2011
+m. zaharia, m. chowdhury, t. das, a. dave, j. ma, m. mccauley, m. j. franklin, s. shenker, i. stoica,
+resilient distributed datasets: a fault-tolerant abstraction for in-memory cluster computing, uc
+berkeleytechnicalreportucb/eecs- -82,july2011
+m.zaharia,m.chowdhury,m.j.franklin,s.shenker,i.stoica,spark:clustercomputingwithworking
+sets,ucberkeleytechnicalreportucb/eecs- -53,may2010
+theses
+n.m.m.k.chowdhury,coflow:anetworkingabstractionfordistributeddata-parallelapplications,
+doctoraldissertation,universityofcalifornia,berkeley, .acmsigcommdoctoraldissertation
+award
+n.m.m.k.chowdhury,identitymanagementandresourceallocationinthenetworkvirtualization
+environment,master’sthesis,universityofwaterloo, .schoolnomineefortheuniversityof
+waterlooalumnigoldmedal
+n. m. m. k. chowdhury, a study of the hybrid admission control algorithm for multimedia server,
+bachelor’sthesis,bangladeshuniversityofengineeringandtechnology,
+patent
+p.bodik,i.menache,p.winkler,g.foxman,n.m.m.k.chowdhury,managementofdatacentersfor
+faulttoleranceandbandwidth,application#us13/489,207,microsoftcorporation,
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page11of19
+research grants & gifts
+totalraised $10.87m
+pishare $5.12m
+federal grants
+source title role total
+nsf systemssupportforfederatedlearning leadpi 1.200m
+nsf&vmware foundationsofcleanandbalanceddatacenters: co-pi 3.000m
+treehouse
+nsf towardsenablingoptimalperformance-cost co-pi 1.120m
+tradeoffsindistributedstorage
+nsf multi-scalegpuresourcemanagementforai singlepi 463k
+applications
+nsf career:end-to-endnetworkdesignforunified singlepi 578k
+memorydisaggregation
+nsf across-layerapproachtowardlow-latency leadpi 825k
+data-parallelapplicationsinrack-scalecomputing
+nsf enablingapplication-levelperformance leadpi 450k
+predictabilityinpublicclouds
+nsf enablingflexibleandhighperformancebigdata co-pi 800k
+analyticsovergeo-distributedclouds
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page12of19
+other grants & gifts
+source title role total
+google large-scalesystemsformachinelearning singlepi 80k
+umovpr infrastructuremanagementunderthelensof co-pi 135k
+computing
+cisco efficientmulti-modalinference singlepi 150k
+ford federated learning for connected vehicle energy singlepi 200k
+management
+google gemmaacademicprogram singlepi 5k
+mozilla zeus:deeplearningenergymeasurementand singlepi 50k
+optimization
+salesforce gift singlepi 20k
+ummicde resilientdistributedtrainingoflargemodels singlepi 75k
+ford federated learning for connected vehicle energy singlepi 25k
+management
+google fault-tolerantdistributedexecutionoflargednns singlepi 60k
+meta quality-of-service(qos)intieredmemory singlepi 76k
+meta smartnic-drivenschedulinginai/mlclusters singlepi 50k
+umcoe privacy-preservingmachinelearning co-pi 45k
+nvidia equipmentgift singlepi 4k
+cisco mlopsforedgeai singlepi 328k
+umcse morriswellmanfacultydevelopmentprofessorship singlepi 40k
+umbiosciences enhancingmechanismsofhumanresiliencefor co-pi 667k
+studentsuccessandwell-being
+google gift singlepi 50k
+kla gift singlepi 50k
+vmware earlycareerfacultyaward singlepi 50k
+alibaba infinifs:microsecond-latencyi/oover singlepi 100k
+disaggregatedmemory
+alibaba consus:erasure-codedzettabytestorageacross leadpi 100k
+geo-distributeddatacenters
+chelsio equipmentgift singlepi 7k
+google application-networksymbiosisingeo-distributed leadpi 55k
+analytics
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page13of19
+selected presentations
+plenary talks and distinguished lectures
+plenaryspeaker,sustainablecloudcomputingandai,climateweek,columbiauniversity
+“towardenergy-optimalaisystems”,september2024
+colloquiumspeaker,computerandinformationscience,umdearborn
+“energy-efficientaisystems”,december2023
+colloquiumspeaker,computerscienceandengineering,pennsylvaniastateuniversity
+“datasciencewithoutdatacollection”,november2022
+colloquiumspeaker,schoolofcomputerscience,universityofwindsor,canada
+“towardpracticalfederatedlearning”,january2022
+keynote,the2ndworkshopondistributedmachinelearning(distributedml’21)
+“towardpracticalfederatedlearning”,december2021
+keynote,the2021googleworkshoponfederatedlearningandanalytics
+“systemssupportforfederatedcomputation”,november2021
+keynote,the9thieeeinternationalconferenceoncloudnetworking(ieeecloudnet2020)
+“practical memory disaggregation: a case study in network-informed data systems design”, november
+keynote,the2ndworkshoponhottopicsinvideoanalyticsandintelligentedges(hotedgevideo’20)
+“multi-scalegpuresourcemanagementfordeeplearning”,august2020
+panels and fireside chats
+panelist,sustainablecloudcomputingandai,climateweek,columbiauniversity
+“sustainableai”,september2024
+panelist,acesmini-symposium,micde,universityofmichigan
+“algorithms,ai,andadvancedcomputerarchitecturesforefficientscientificapplications”,october2024
+selected recent talks
+towardenergy-optimalaisystems
+november2024:universityoftexas,austin
+october2024:metaopeninnovationairesearchcommunityworkshop,london
+june2024:mozillatechnologyfundsummit,amsterdam
+august2023:bangladeshuniversityofengineeringandtechnology
+practicalfederatedlearning//datasciencewithoutdatacollection
+july2023:simonsworkshoponfederated&collaborativelearning
+may2023:bravesoftware
+april2023:osuaiotseminarseries,ohiostateuniversity
+november2022:midasdatascienceandaisummit,universityofmichigan,annarbor
+november2022:opendatascienceconference(odscwest)
+october2022:qualcommairesearch
+july2022:ieeelanman2022
+july2022:microsoftresearch,redmond
+june2022:ciscoresearchfederatedlearningsummit
+march2022:linkedin
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page14of19
+december2021:mlsysseminar,stanforduniversity
+auxo:heterogeneity-mitigatingfederatedlearningviascalableclientclustering
+november2022:googleworkshoponfederatedlearningandanalytics
+multi-scalegpuresourcemanagement
+april2021:klacorporation
+march2021:csgraduateseminar,kaust
+practicalmemorydisaggregation
+march2021:makiworkshoponemerginguse-casesandtechnologiesforin-networkcomputing
+september2020:csefacultyseminar,universityofmichigan,annarbor
+june2020:buetacmchapterseminar,bangladeshuniversityofengineeringandtechnology
+september2019:waynestateuniversity
+august2018:microsoftresearchasia
+august2018:xidianuniversity,xi’an,china
+july2018:tticsummerworkshop:datacenterschedulingfromtheorytopractice
+july2018:datacenternetworkingworkshop,universityofwisconsin,madison
+june2018:nokiabelllabs
+november2017:riceuniversity
+june2017:nsfcsrpimeeting,orlando,fl
+december2016:universityofsoutherncalifornia
+application-infrastructuresymbiosis
+january2018:google
+may2016:bangladeshuniversityofengineeringandtechnology
+april2016:the60thhpcuserforum,tucson,az
+recentadvancesincoflow-basednetworking
+june2017:dimacsworkshoponalgorithmsfordatacenternetworks
+november2016:eecs589guestlecture,universityofmichigan,annarbor
+july2016:dagstuhlseminar16281onnetworklatencycontrolindatacentres
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page15of19
+professional service
+leadership roles
+workshopco-chair
+nsfnetspimeeting
+nsfworkshoponnextgenerationcloudresearchinfrastructure
+secondasia-pacificworkshoponnetworking(apnet)
+postersco-chair
+usenixnsdi
+publicityco-chair
+thirdasia-pacificworkshoponnetworking(apnet)
+steeringcommitteemember
+hotcarbonworkshoponsustainablecomputersystems
+program committees
+conferenceprogramcommitteemember
+usenixosdi , ,
+usenixnsdi , , ,
+acmsigcomm – , – ,
+mlsys –
+acmconext
+ieeeicdcs ,
+ieeebigdata
+neuripsdatasetsandbenchmarkstrack
+internationalconferenceonnetworking,systemsandsecurity(nsyss) ,
+internationalconferenceoncomputerandinformationtechnology(iccit)
+workshop&symposiaprogramcommitteemember
+workshoponsustainablecomputersystems(hotcarbon) ,
+workshoponresourcedisaggregation(word)
+asia-pacificworkshoponnetworking(apnet) ,
+acmsigcommworkshoponkernel-bypassnetworks(kbnets)
+acmsigcommpostersanddemos
+acmconextstudentworkshop
+referee service
+fundingagencypanelist
+nationalsciencefoundation(nsf) , , , , , ,
+departmentofenergy(doe)
+university service
+steeringcommittee,instituteforenergysolutions,universityofmichigan –
+genaitaskforceresearchcommitteecollegeofengineering,universityofmichigan
+csegraduatestudentorganizationadvising,eecs,universityofmichigan –
+csemastersadvising,eecs,universityofmichigan –
+cs-engundergraduateadvising,eecs,universityofmichigan –
+distinguishedlectureseries/seminarseries,eecs,universityofmichigan –
+nextprofnexusworkshop,collegeofengineering,universityofmichigan –
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page16of19
+k-12outreach,eecs,universityofmichigan –
+csundergraduatehonorsandawards,eecs,universityofmichigan –
+graduateadmissionscommittee,eecs,universityofmichigan –
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page17of19
+teaching
+lead instructor
+universityofmichigan
+term course# coursetitle classsize evaluation
+winter2025 eecs489 computernetworks 143 n.nn/5.00
+fall2024 cse585 advancedscalablesystems 54 4.80/5.00
+winter2024 eecs489 computernetworks 138 4.30/5.00
+winter2024 eecs598 systemsforgenerativeai 37 4.90/5.00
+fall2021 eecs489 computernetworks 132 4.70/5.00
+winter2021 eecs598 systemsforai 34 4.70/5.00
+fall2020 eecs489 computernetworks 121 4.70/5.00
+winter2020 eecs598 systemsforai 18 4.80/5.00
+fall2019 eecs489 computernetworks 116 4.40/5.00
+winter2019 eecs598 bigdatasystemsandapplications 15 4.80/5.00
+fall2018 eecs489 computernetworks 103 4.30/5.00
+fall2017 eecs598 bigdatasystemsandapplications 34 4.80/5.00
+winter2017 eecs489 computernetworks 72 4.61/5.00
+fall2016 eecs582 advancedoperatingsystems 23 4.82/5.00
+winter2016 eecs582 advancedoperatingsystems 18 4.61/5.00
+overallaverage 4.66/5.00
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page18of19
+advising
+current ph.d. students
+jiachenliu –present
+jae-wonchung –present
+insujang –present
+shiqihe –present
+runyulu(w/angchen) –present
+ruofanwu –present
+kevinxue(w/ryanhuang) –present
+jeffma –present
+graduated ph.d. students
+dissertationtitle year
+1 junchenggu efficientresourcemanagementfordeeplearningclusters
+(w/kangg.shin)
+2 peifengyu application-awareschedulingindeeplearningsoftwarestacks
+3 jieyou towardpracticalapplication-awarebigdatasystems
+4 hasanalmaruf practicalmemorydisaggregation
+5 fanlai minimalistsystemsforpervasivemachinelearning
+6 yiwenzhang qualityofserviceforperformance-criticalcloudapplications
+master’s and undergraduate advisees
+i have also worked with 60+ students at master’s, undergrad, and high school levels on various
+researchprojects.15ofthemwentontojointop-tierph.d.programs.
+mosharafchowdhury,ph.d.,curriculumvitae,april6, page19of19

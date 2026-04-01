@@ -1,0 +1,1305 @@
+kwang w. oh, ph.d. last updated: june 21,
+associate professor (w/ tenure), department of electrical engineering
+adjunct associate professor, department of biomedical engineering
+director of small (sensors and microactuators learning laboratory)
+university at buffalo, the state university of new york (suny–buffalo)
+113c davis hall, buffalo, new york , usa
+tel: , fax: ,
+http://small.buffalo.edu, http://microtas.org, http://www.linkedin.com/in/kwang-w-oh-11117221/
+summary
+research interest: biomems, lab-on-chip, microfluidics, microfabrication, test phantom
+droplet-based microfluidics, microfluidic circuits using electric circuits analogy, particle/cell sorting, cell
+study platform/3d model, lab-on-chip/point-of-care micropumping, blood sample preparation devices,
+magnetic bead-based immunoassay, micro sers, micro pcr, innovative microfabrication technology, non-
+invasive/invasive health monitoring, acoustic test phantom arm/finger
+grants
+total fund more than $3 m ( - current) and $1.3 m ( - current)
+own share exceeding $1.4 m ( - current)
+scholarship
+peer-reviewed journal papers: 52, peer-reviewed conf. proceedings: 65, invited talk: 38
+issued us patents: 21, special issues & book chapters: 5, cover-paged journal papers: 3
+google scholar: citation = 3167, h-index = 26, i10-index = 47
+mentorship
+current phd: 6, current ms: 2; graduated phd: 5, graduated ms: 6, postdoc: 1, undergraduate research
+students: 20, k-12 students: 5
+teaching
+ee 203 circuit analysis 2 (spring 07, 08, 09, 10, 11, 12) (average # of students: 71)
+ee 311 electronic devices and circuits 2 (spring 13, 15, 16, 17) (average # of students: 94)
+ee 528 biomems and nanobiosensors (fall 06) (average # of students: 21)
+ee 428/528 biomems & loc (fall 07, 08, 09, 10, 11, 12, 13, 14, 15, 16) (average # of students: 9+17=26)
+ee 526 wearable and implantable sensors (spring 15, 16, 17) (average # of students: 45)
+ue 141 freshman seminar series: nanostructured materials (fall 06), bringing physics and engineering
+life (spring 11, 12) (average # of students: 13)
+award
+emerging investigators , lab chip, royal society of chemistry (rsc) ( )
+honor of ceo, samsung electronics, for development of a micro pcr system ( )
+professional
+guest editor: special issue, "biomedical microfluidic devices", micromachines (if: 1. - current)
+guest editor: special issue, "on-chip sensors", sensors (if: 2. )
+symposium co-chair: micro, nano & bio fluidics, nanotech ( - current)
+editorial board member: biomedical engineering letters, american journal of engineering and applied
+sciences, advanced health care technologies, trans. electr. electron. mater, journal of engineering
+track chair: biosensor, nanotechnology, biomems, world congress on medical physics &
+biomedical engineering
+1/28
+education
+ph.d. in electrical & computer engineering, university of cincinnati, cincinnati, ohio
+advisor: prof. chong h. ahn
+m.s. in electrical & computer engineering, university of cincinnati, cincinnati, ohio
+advisor: prof. chong h. ahn, co-advisor: prof. k. p. roenker
+spring enrolled in a ms program in semiconductor science & tech, chonbuk national university,
+jeonju, korea; studied interdisciplinary graduate courses in semiconductor science & technology
+b.s. in physics (gpa: 3.98/4.0), chonbuk national university, jeonju, korea; focused on
+semiconductor physics and optics
+employment history
+university at buffalo (ub), the state university of new york (suny–buffalo)
+- associate professor, department of electrical engineering
+- adjunct associate professor, department of biomedical engineering
+assistant professor, department of electrical engineering
+visiting assistant professor, department of electrical engineering
+samsung advanced institute of technology (sait), bio lab, korea
+member of technical staff, on-chip sample preparation ( - ); quantitative real-time micro
+pcr ( - ); multifunctional lab-on-a-chip ( - ); a dna-based lab-on-a-chip system
+using mems technology ( - ).
+team leader, lead a small group (consisting of researchers from electrical engineering,
+mechanical engineering, chemical engineering, and biology) for developing on-chip sample
+preparation technologies and microfluidics platforms.
+knowledge manager, managed knowledge systematically and evaluated technical reports
+generated from researchers in the area of micro pcr, bio chip and biomems.
+six-sigma black belt consultant, supported and trained bio lab members as a part-time black belt
+consultant. awarded one of the best practice projects at sait ( ) and samsung group ( ).
+certified as a black belt consultant at samsung group ( ).
+professional research agent, republic of korea army
+university of cincinnati, cincinnati, ohio
+research assistance, a generic microfluidic system for remote sensors (microflumes program,
+darpa, - ); development of a prototype electrophoresis (ce) system on a glass chip
+toward high throughput drug synthesis (procter & gamble, pharmaceutics, - ).
+winter teaching assistance, assisted students in a fabrication lab class (silicon semiconductor fab lab)
+for a silicon-based pressure sensor using a bulk micromachining technology.
+research grants and contracts
+0. (pending) co-pi (%effort: 33%), “optimizing a ribozyme gene therapy for autosomal dominant retinitis
+pigmentosa”, r24 nih national eye institute, 12/ -11/ , $1.5 m, pi: jack sullivan (pharmacology
+and toxicology, ub & va medical center)
+1. (new) pi (%effort: 90%), “creation and implantation of a test target into a test phantom finger for the
+ultrasonic and photoacoustic characterization of a biometric system,” nsf i/ucrc: citer (center for
+identification technology research), 07/ -06/ , $50,000, co-pi: jun xia (bme, ub)
+2/28
+2. pi (%effort: 100%), “microfluidic 3d capillary network test phantom for subdermal vascular imaging,”
+nsf i/ucrc: citer (center for identification technology research), 07/ -06/ , $40,000
+3. pi (100%), “investigation of a microfluidic test phantom for blood pressure simulation and monitoring,”
+qualcomm research, 04/ -03/ , $49,250
+4. co-pi (50%), “therapeutic targeting of circulating tumor cells with self-replicating rna lipid nanoparticles,”
+seed funding program - school of pharmacy at suny-buffalo, 04/ -12/ , $10,000, pi: juliane
+nguyen (department of pharmaceutical sciences)
+5. co-pi (%effort: 15%, 0.25-summer-month), "cell-cell adhesion and stem cell fate commitment," nsf-
+cbet-1403086, 06/ -05/ , $451,130, pi: stelios t. andreadis
+6. co-pi (0.5-month ay effort), "development of an instrument for quantitative characterization of behavior
+of magnetic particles and magnetically-labeled biomaterials in emerging application," nsf-cbet-1337860,
+09/ -08/ , $764,736 = $535,315+$229,421, pi: mark swihart, co-pis: edward furlani and tymish
+ohulchanskyy
+7. pi (%effort: 100%), "droplet-based microfluidic separation technology for high-throughput magnetic bead-
+based immunoassays," nsf-eccs-1002255, integrative, hybrid & complex systems (ihcs) program,
+05/ -04/ , $300,000
+8. co-pi (%effort: 30%), "development of stim and dats for protein and nanosystem," nsf-dbi-0959989,
+02/ -01/ , $1,001,046, pi: andrea markelz, co-pis: john cerne and edward snell
+9. pi (%effort: 100%), "development of combinatorial microfluidic devices for stem cell applications," korea
+institute of science and technology, 04/ -03/ , $47k (including $14k cost share)
+10. pi (0.75-month effort), "design of a micropump using piezoelectric motors," new scale technologies
+(victor, ny)/nystar (new york state office of science, technology and academic research) cat
+(center for advanced biomedical and bioengineering technology)/tcie (the center for industrial
+effectiveness), 07/ -06/ , $57k = $34k (from new scale tech) + $13k (from nystar cat) +
+$9.6k (from tcie)
+11. pi (%effort: 100%), "sger: development of mems based microfluidic devices for biological target
+detection and sorting," nsf-eccs-0736501, electronics, photonics and device technologies (epdt)
+program, 07/ -12/ , $69,710
+12. pi (0.35-month effort), "microvalve investigation and testing," minrad international inc. (orchard park,
+ny)/tcie (the center for industrial effectiveness), 03/ -10/ , $25k
+13. start-up (3-month effort), ub/nystar, 03/ -08/ , $225k
+publications: summary
+citation # h-index
+google scholar (https://scholar.google.com/citations?user=jkrevgwaaaaj) 3167 26
+publications: dissertations
+1. kwang w. oh, "development of magnetically actuated microvalves and micropumps for surface mountable
+microfluidic systems," doctoral dissertation, university of cincinnati,
+2. kwang w. oh, "development of a photodiode and its flip-chip bonding technology for optical mems,"
+master thesis, university of cincinnati,
+publications: special issues / book chapters
+1. kwang w. oh, "special issue: biomedical microfluidic devices" in micromachines (issn -666x),
+(# of published paper in this special issue: 8 papers as of 06/ )
+2. kwang w. oh, "special issue: on-chip sensors" in sensors (issn 1424-8220), (# of published paper
+in this special issue: 22 papers)
+3/28
+3. kwang w. oh, "chapter 8: lab-on-chip (loc) devices and microfluidics" in mems for biomedical
+applications, woodhead publishing, woodhead publishing, isbn-13: , .
+4. dong s. kim and kwang w. oh, "chapter 10: cyclic olefin copolymer (coc) polymer molding for loc"
+in lab on a chip technologies: volume 1, pp. 139-159, isbn: , caister academic press,
+norfolk, uk,
+5. kwang w. oh and chong h. ahn, "2.02: magnetic actuation" in comprehensive microsystems: volume 2,
+pp. 39-68, isbn: , elsevier, oxfordshire, uk,
+publications: journal articles
+(students’ names are underlined)
+peer-reviewed journal articles, under review/under revision (if: impact factor)
+0. phil schneider, liam christie, nicholas eadie, brett bosinski, domin koh, anyang wang and kwang w.
+oh, "a novel approach to low cost, rapid prototyping of microfluidic devices using wax," lab chip, to
+be submitted ( )
+0. phil schneider, brett bosinski, liam christie and kwang w. oh, "microfluidic 3d capillary network test
+phantom for subdermal vascular imaging," lab chip, to be submitted ( )
+1. phil schneider, brett bosinski, evan breloff, domin koh, anyang wang, and kwang w. oh, "creation of
+ultrasonically equivalent test phantom arm for vascular compliance testing," sensors, under review ( )
+(if: 2.287)
+2. a. wang, y. zhai, d. koh, p. schneider and kwang w. oh, "a hand-held microfluidic mixing under the
+vacuum-driven power-free pumping", microfluidics nanofluidics, under review ( )
+3. domin koh, anyang wang, phil schneider, brett bosinski and kwang w. oh*, "introduction of a simple
+method to create strong bonding between various metals and polydimethylsiloxane and its possible
+applications," micromachines, under review ( )
+4. kangsun lee, choong kim, ji yoon kang and kwang w. oh, "single-layered microfluidic network-based
+combinatorial dilution with a standard simplex-lattice design", lab chip, under review ( )
+5. bendong liu, domin koh, anyang wang, phil schneider and kwang w. oh*, "the encapsulation of
+negative-pressure-driven pdms microfluidic devices using paraffin wax," microfluidics nanofluidics, under
+revision ( )
+peer-reviewed journal articles, published (if: impact factor, gsc#: google scholar citation number)
+6. bendong liu, jianchuang sun, desheng li, jiang zhe and kwang
+w. oh, "a high flow rate thermal bubble-driven micropump with
+induction heating," microfluidics and nanofluidics, 20 (155),
+(if: 2.537, gsc#:_)
+7. hun lee, domin koh, linfeng xu, sindhu row, stelios t.
+andreadis and kwang w. oh*, "a simple method for fabrication
+of microstructures using pdms stamp," micromachines, 7 (10),
+173, (if: 1.269, gsc#:_)
+8. w. d. mojica,*, k. w. oh, h. lee, e. p. furlani, d. sykes and a. m.
+sands, "microfluidics enables multiplex evaluation of the same cells for
+further studies," cytopathology, 27, 277-283, (if: 1.761, gsc#:
+2)
+4/28
+9. wilfrido d. mojica*, kwang w. oh, hun lee, edward furlani, and
+amy m. sands, "maximizing derivable information from cytologic
+specimens for pathologic and molecular diagnostics," journal of the
+american society of cytopathology, 4, 141-147, (gsc#: 2)
+10. linfeng xu, hun lee, deekshitha jetta and kwang w. oh*,
+"vacuum-driven power-free microfluidics utilizing the gas solubility
+or permeability of polydimethylsiloxane (pdms)", lab chip, 15,
+3962-3979, (if: 5.586, gsc#: 13)
+11. linfeng xu, hun lee, mariana vanderlei brasil pinheiro, phil
+schneider and kwang w. oh*, "phaseguide-assisted blood
+separation microfluidic device for point-of-care (poc)
+applications," biomicrofluidics 9, pages), (if:
+3.357, gsc#: 9)
+12. linfeng xu, hun lee, kwang w. oh*, "syringe-assisted point-of-
+care micropumping utilizing the gas permeability of
+polydimethylsiloxane," microfluidics and nanofluidics, 17, 745-750,
+(if: 2.537, gsc#: 7)
+13. hun lee, linfeng xu, domin koh, nikhila nyayapathi and kwang w. oh*, "various on-chip sensors with
+microfluidics for biological applications," sensors, 14, , (invited paper) (if: 2.537, gsc#:
+19)
+14. hun lee, linfeng xu, and kwang w. oh*, "droplet-
+based microfluidic washing module for magnetic particle-
+based assays," biomicrofluidics, 8, pages),
+(if: 3.357, gsc#: 10)
+15. krishna prasad bhat, kwang w. oh, and douglas c. hopkins*, "feasibility of a mems sensor for gas
+detection in hv oil-insulated transformer," ieee transactions on industry applications, 49, 316 - 321,
+(if: 2.537, gsc#: 2)
+5/28
+16. namhyun choi, kang sun lee, dong woo lim, eun kyu lee, soo-ik chang, kwang
+w. oh* and jaebum choo*, "simultaneous detection of duplex dna
+oligonucleotides using a sers-based micro-network gradient chip," lab chip, 12,
+5160-5167, ; featured on the cover of lab chip journal (if: 6.115, gsc#: 23)
+17. hun lee, linfeng xu, byungwook ahn, kangsun lee, and
+kwang w. oh*, "continuous-flow in-droplet magnetic particle
+separation in a droplet-based microfluidic platform," special
+issue: magnetic-based microfluidics in microfluidics and
+nanofluidics, 13, 613-623, (invited paper) (if: 2.537,
+gsc#: 24)
+18. kangsun lee, choong kim, jae young yang, hun lee,
+byungwook ahn, linfeng xu, ji yoon kang, and kwang w.
+oh*, "gravity-oriented microfluidic device for cell spheroid
+formation," biomicrofluidics, 6, 014114 (7 pages), (if:
+3.357, gsc#: 20)
+19. linfeng xu, hun lee, rajagopal panchapakesan and kwang
+w. oh*, "fusion and sorting of two parallel-trains of droplets
+by using a railroad-like channel network and guiding tracks,"
+special issue on emerging investigators , lab chip, 12,
+3936-3942, (invited paper); featured on the cover of
+lab chip journal (if: 6.115, gsc#: 20)
+20. moonkwon lee, kangsun lee, kwang w. oh*, jaebum
+choo*, "sers based immunoassay using a gold-array
+embedded gradient chip," special issue on optofluidics, lab
+chip, 12, 3720-3227, (invited paper) (if: 6.115, gsc#:
+58)
+hydraulicelectriccircuit analogy
+hagenpoiseuille’slaw ohm’s law
+21. kwang w. oh*, kangsun lee, byungwook ahn, edward p.
+pp p qr v v v ir
+furlani, "design of pressure-driven microfluidic networks   h   e
+using electric circuit analogy," lab chip, 12, 515-545, ; pressure‐driven microfluidic networks
+concentration‐dependent flow‐dependent
+listed as one of top ten most accessed articles
+proportional flow division
+(http://blogs.rsc.org/lc/ /03/06/top-ten-most-accessed- (distribution, shear stress)
+pyramidal
+articles-in-january/) (if: 6.115, gsc#: 198) serial flow fraction
+(focusing, spreading, filtering)
+combinatorial
+dynamic flow change
+t‐type (hydrodynamic trapping)
+6/28
+22. jing xu, byungwook ahn, kangsun lee, hun lee, rajagopal
+panchapakesan, linfeng xu, and kwang w. oh*, "droplet-based
+microfluidic device for multiple-droplet clustering," lab chip, 12,
+725-730, ; highlighted on the loc blog ("hot articles on
+bubble removal, microfluidic wound-healing assays, multiplexed
+screening and more") at http://blogs.rsc.org/lc/ (if: 6.115, gsc#:
+19)
+23. hun lee, kangsun lee, byungwook ahn, and kwang w. oh*, "a
+new fabrication process for su-8 thick photoresist structures by
+simultaneously removing edge-bead and air bubbles," journal of
+micromechanics and microengineering, 21, paper 125006,
+(if: 1.731, gsc#: 17)
+24. byungwook ahn, kangsun lee, hun lee, rajagopal
+panchapakesan, linfeng xu, jing xu, and kwang w.
+oh*, "guiding, distribution, and storage of trains of
+shape-dependent droplets," lab chip, 11, 3915-3918,
+(if: 6.115, gsc#: 13)
+25. kangsun lee, c. kim, y. kim, byungwook ahn,
+rajagopal panchapakesan, j. bang, jungkwun kim, y. k.
+yoon, j. y. kang, and kwang w. oh*, "microfluidic
+concentration-on-demand combinatorial dilutions,"
+microfluidics and nanofluidics, 11, 75-86, (if:
+2.537, gsc#: 14)
+26. byungwook ahn, kangsun lee, rajagopal panchapakesan, preethi
+gopalan, and kwang w. oh*, "on-demand electrostatic droplet
+charging and sorting," biomicrofluidics, 5, paper 024113, (if:
+3.357, gsc#: 39)
+27. deepu k. george, rohit singh, chejin bae, byungwook ahn, kwang
+oh, andrea markelz, "dynamical alignment of solution phase proteins
+for structural measurements," biophysical journal, ; doi:
+10.1016/j.bpj. .12.1434
+7/28
+28. byungwook ahn, kangsun lee, hun lee, rajagopal panchapakesan, and kwang
+w. oh*, "parallel synchronization of two trains of droplets using a railroad-like
+channel network," lab chip, 11, 3956-3962, ; featured on a cover page of
+lab chip issue of 11 (23), (if: 6.115, gsc#: 37)
+29. choong kim, kangsun lee, jae hoon bang,
+young eyn kim, min-cheol kim, kwang w.
+oh, soo hyun lee and ji yoon kang, "3-
+dimensional cell culture for on-chip
+differentiation of stem cells in embryoid body,"
+lab chip, 11, 874-882, (if: 6.115, gsc#:
+53)
+30. choong kim, seok chung, young eun kim,
+kangsun lee, soo hyun lee, kwang w. oh,
+and ji yoon kang, "generation of core-shell
+microcapsules with three-dimensional focusing
+device for efficient formation of cell spheroid,"
+lab chip, 11, 246-252, (if: 6.115, gsc#:
+80)
+31. kangsun lee, choong kim, youngeun kim,
+keunhui jung, byungwook ahn, ji yoon kang,
+and kwang w. oh*, "2-layer based microfluidic
+concentration generator by hybrid serial and
+volumetric dilutions," biomedical microdevices,
+12, 297-309, (if: 2.924, gsc#: 19)
+32. kangsun lee, choong kim, geunhui jung, tae song kim, ji
+yoon kang, and kwang w. oh*, "microfluidic network-
+based combinatorial dilution device for high throughput
+screening and optimization," microfluidics and nanofluidics,
+8, 677-685, (if: 2.537, gsc#: 19)
+33. byungwook ahn, kangsun lee, romain louge, and
+kwang w. oh*, "concurrent droplet charging and
+sorting by electrostatic actuation," biomicrofluidics, 3,
+044102, (if: 3.357, gsc#: 31)
+8/28
+34. kangsun lee, choong kim, byungwook ahn, ji yoon kang,
+and kwang w. oh*, "hydrodynamically focused particle
+filtration using an island structure," biochip journal, 3, 275-
+280, (if: 1.211, gsc#: 4)
+35. kangsun lee, choong kim, byungwook ahn,
+rajagopal panchapakesan, anthony r. full, ledum
+nordee, ji yoon kang, and kwang w. oh*,
+"generalized serial dilution module for monotonic and
+arbitrary microfluidic gradient generators," lab chip,
+9, 709-717, (if: 6.115, gsc#: 93)
+36. y.-k. cho, j. kim, y. lee, y.-a. kim, k.
+namkoong, h. lim, kwang w. oh, s. kim,
+j. han, c. park, y. e. pak, c. ko, c.-s. ki,
+j. r. choi and h.-k. myeong, "clinical
+evaluation of micro-scale chip-based pcr
+system for rapid detection of hepatitis b
+virus," biosensors and bioelectronics, 21,
+2161-2169, (if: 7.47, gsc#: 91)
+37. kwang w. oh* and chong h. ahn, "a review of microvalves," journal of micromechanics and
+microengineering, 16, r13-r39, (if: 1.731, gsc#: 728)
+38. d. s. yoon, y.-k. cho, k. w. oh, s. h. kim, y. a. kim, j. i. han and g. lim, "a microfluidic gel valve
+device using reversible sol-gel transition of methyl cellulose for biomedical application," microsystem
+technologies, 12, 238-246, (if: 0.931, gsc#: 11)
+39. k. w. oh*, r. rong, c. h. ahn, "miniaturization of pinch-type valves and pumps for practical micro total
+analysis system integration," journal of micromechanics and microengineering, 15, 2449-2455, (if:
+1.731, gsc#: 36)
+40. k. w. oh*, c. park, k. namkoong, j. kim, k.-s. ock, s.
+kim, y.-a. kim, y.-k. cho, and c. ko, "world-to-chip
+microfluidic interface with built-in valves for
+multichamber chip-based pcr assays," lab chip, 5, 845-
+850, (if: 6.115, gsc#: 61)
+41. y. -k. cho, j. -t. kim, s. kim, k. namkoong, k. w. oh, c. park, y. lee, y. -a. kim, j. han, h. lim, k.
+-s. ock, k .yoo, s. kim, j. -j hwang, y. e. pak, and c. ko, "development of a novel real time micro pcr
+system and its statistical evaluation for rapid detection of hepatitis b virus," samsung journal of
+innovative technology, 1, 203-214,
+42. s. bhansali, h. benjamin, v. upadhyay, n. okulan, k. w. oh, h. t. henderson, and c. h. ahn, "modeling
+multilayered mems-based micro-fluidic systems," jom (journal of the minerals, metals, and materials
+society), 56 (3), 57-61, (if: 1.798, gsc#: 4)
+43. j. h. cha, j. i. han, y. choi, d. s. yoon, k. w. oh, g. b. lim, "dna hybridization electrochemical sensor
+using conducting polymer," biosensors and bioelectronics, 18, 1241-1247, (if: 7.47, gsc#: 106)
+44. d. s. yoon, y.-s. lee, y. lee, h. j. cho, s. w. sung, k. w. oh, j. cha and g. lim, "precise temperature
+9/28
+control and rapid thermal cycling in micromachined dna polymerase chain reaction chips," journal of
+micromechanics and microengineering, 12, 813-823, (if: 1.731, gsc#: 173)
+45. d. s. yoon, k. w. oh, y. k. cho, j. cha, g. lim, "microactuators in bio-mems," icase magazine,
+volume 8, number 1, 22-31,
+46. k. w. oh*, a. han, s. bhansali and c.h. ahn, "a low-temperature bonding technique using spin-on
+fluorocarbon polymers to assemble microsystems," journal of micromechanics and microengineering, 12,
+187-191, (if: 1.731, gsc#: 95)
+47. w. r. heineman, j. h. thomas, a. wijayawardhana, h. b. halsall, t. h. ridgway, j. w. choi, k. w. oh,
+c. ahn, s. dharmatilleke, p. medis, t. h. henderson, "biomems: electrochemical immunoassay with
+microfluidic systems," analytical sciences, 17, i281-i283, (if: 1.174, gsc#: 11)
+48. j.-w. choi, k. w. oh, j. h. thomas, w. r. heineman, h. b. halsall, j. h.
+nevin, a. j. helmicki, h. t. henderson, and c. h. ahn, "an integrated
+microfluidic biochemical detection system for protein analysis with
+magnetic bead-based sampling capabilities," lab chip, 2, 27-30, (if:
+5.586, gsc#: 379)
+49. j.-w. choi, k. w. oh, a. han, c.a. wijayawardhana, c. lannes, s.
+bhansali, k. t. schlueter, w. r. heineman, h. b. halsall, j. h. nevin, a. j.
+helmicki, h.t. henderson, c. h. ahn, "development and characterization of microfluidic devices and
+systems for magnetic bead-based biochemical detection," biomedical microdevices, 3, 191-200, (if:
+2.924, gsc#: 136)
+50. h. j. cho, k. w. oh, c. h. ahn, p. boolchand, and t.-c. nam, "stress analysis of silicon membranes with
+electroplated permalloy films using raman scattering," ieee transactions on magnetics, 37, 2749-2751,
+(if: 1.213, gsc#: 32)
+51. k. w. oh and c. h. ahn, "a new flip-chip bonding technique using micromachined conductive polymer
+bumps," ieee transactions on advanced packaging, 22, 586-591, (if: 1.276, gsc#: 33)
+52. k. w. oh, c. h. ahn, and k. p. roenker, "flip-chip packaging using micromachined conductive polymer
+bumps and alignment pedestals for moems," ieee journal of selected topics in quantum electronics on
+micro-opto-electro-mechanical systems (moems), 5, 119-126, (if: 3.465, gsc#: 35)
+publications: conference papers
+(students’ names are underlined)
+peer-reviewed conference proceedings (with presentation)
+1. a. wang, d. koh, p. schneider, y. zhai, b. bosinski and k. w. oh, "backflow-assisted sequential injection
+in vacuum-driven power-free microfluidic device," microtas , submitted
+2. y. zhai, a. wang and k.w. oh, "a simple pressure balancer for increasing mixing performance in passive
+driven microfluidic system,"microtas , submitted
+3. phil schneider, brett bosinski, adam trimper, and kwang w. oh, "microfluidic 3d capillary network
+test phantom for subdermal vascular imaging," micro & bio fluidics, lab-on-chip, nanotech ,
+washington dc, may 14-17,
+4. phil schneider, brett bosinski, domin koh, anyang wang, adam trimper, and kwang w. oh, "low cost,
+rapid prototyping, wax based microfluidics- serial dilution," micro & bio fluidics, lab-on-chip,
+nanotech , washington dc, may 14-17,
+5. phil schneider, brett bosinski, adam trimper and kwang w. oh, "an acoustically equivalent test phantom
+arm for ultrasonic imaging and sensing," micro & bio fluidics, lab-on-chip, nanotech , washington
+10/28
+dc, may 14-17,
+6. domin koh, anyang wang, phil schneider, and kwang. w. oh, "a simple metal transfer method for
+fabricating flexible electrodes," printed & flexible electronics, nanotech , washington dc, may 14-
+17,
+7. anyang wang, domin koh, phil schneider, and kwang w. oh, "3-d electrode configuration for
+electrochemical impedance spectroscopy of bulk solution," diagnostics & bio imaging, nanotech ,
+washington dc, may 14-17,
+8. phil schneider, brett bosinski, adam trimper, kwang w. oh, "microfluidic 3d capillary network test
+phantom for subdermal vascular imaging," nsf i/ucrc: citer (center for identification technology
+research), fall program review , new york, ny, november 13-15, (best poster award)
+9. byungwook ahn, hun lee, linfeng xu, jing xu, kangsun lee, rajagopal panchapakesan, preethi goplan,
+and kwang w. oh*, "continuous-flow passive/active manipulation of droplet trains and its application
+for in-droplet magnetic particle separation," lab on a chip international symposium: droplet-based
+microfluidics, november 12-13, , zhejiang university, hangzhou, china (invited talk)
+10. deekshitha jetta, hun lee, nikhila nyayapathi and kwang w. oh, "vaccum-assisted, phaseguide-assisted
+blood typing device for point-of-care (poc) diagnostics," proc. in microtas , gyeongju, s. korea,
+octover 25-29 (poster)
+11. hun lee, domin koh, and kwang w. oh, "a simple method for fabrication of microarrays and microfluidic
+device using pdms stamp,” proc. in nanotech , washington dc, june 14-17 (oral presentation)
+12. wilfrido d. mojica, kwang oh, xiaozheng xue and edward furlani, "microfluidics for multiplexing of
+core needle biopsies," proc. in nanotech , washington dc, june 14-17 (oral presentation)
+13. linfeng xu and kwang w. oh, "on-chip blood plasma separation using vacuum-assisted micropumping
+for point-of-care application," world congress on medical physics & biomedical engineering, toronto,
+canada, june 7-12, (invited talk)
+14. linfeng xu, hun lee and kwang w. oh, "study of phaseguide-assisted blood separation microfluidic
+device using gas permeable pdms," proc. in microtas , san antonio, texas, oct 26-30, , pp.
+330-332 (oral presentation).
+15. hun lee, linfeng xu and kwang w. oh, "droplet-based microfluidic arrays creating tunable concentration
+gradients for immunoassay applications using magnetic particles," proc. in microtas , san antonio,
+texas, oct 26-30, , pp. 1211-1213
+16. hun lee, linfeng xu, and kwang w. oh, "a journey of trains of droplets in droplet-based microfluidic
+devices," proceedings of the 36th annual international conference of the ieee engineering in medicine
+and biology society (ieee embc ), august 26-30, , chicago, illinois, usa, pp. 778-781,
+(invited talk)
+17. hun lee, sindhu row, linfeng xu, stelios t. andreadis, and kwang w. oh, "a simple and robust
+fabrication of microwell array by pdms on a glass substrate for cell-to-cell adhesion," proc. in nanotech
+, vol. 2, pp. 145-148, (oral presentation)
+18. hun lee, linfeng xu and kwang w. oh, "a single particle encapsulation within droplet in array-based
+microfluidic platform," proc. in microtas , freiburg, germany, oct 27-31, (poster presentation).
+19. linfeng xu, hun lee and kwang w. oh, "hand-held blood separation microfluidic chip," proc. in
+microtas , freiburg, germany, oct 27-31, (poster presentation).
+20. linfeng xu, hun lee and kwang.w. oh, "syringe-assisted point-of-care pumping," proc. in nanotech
+, vol. 2, pp. 305-309, washington dc, 05/13-14/ (oral presentation).
+21. hun lee, linfeng xu and kwang.w. oh, "a microfluidic platform for parallel synchronization of multiple
+droplets by ladder-like fluidic network," proc. in nanotech , vol. 2, pp. 318-321, washington dc,
+05/13-14/ (oral presentation).
+22. hun lee, linfeng xu and kwang w. oh, "on-chip procedures for magnetic particle-based assay in
+droplets," proc. in microtas , pp. 347-349, okinawa, japan, oct 28-nov 1, (poster presentation).
+23. deepu k. george, byungwook ahn, kwang oh, and andrea markelz, "mems cell for dynamical
+orientation of bio molecules in solution," proc. in frontiers in optics, pp. fth4c.6, rochester, new york,
+october 14-18, (poster presentation)
+24. linfeng xu , hun lee , rajagopal panchapakesan and kwang w. oh, "fusion and sorting of two parallel
+trains of droplets using a rail-road-like channel network and guiding tracks," proc. in microtas , pp.
+920-922, okinawa, japan, oct 28-nov 1, (poster presentation)
+11/28
+25. linfeng xu, rajagopal panchapakesan, kangsun lee, byungwook ahn, hun lee, jing xu, and kwang w.
+oh, "structure-enhanced self-powered microfluidic pumps and stickers," micro & nano fluidics, nanotech
+, june 18-21, , santa clara, california (oral presentation).
+26. byungwook ahn, kangsun lee, rajagopal panchapakesan, hun lee, and kwang w. oh, "guiding and
+distribution of a train of droplets employing side flows and guiding tracks," proc. in microtas , pp.
+674-676 (accept rate: 6.8% for oral presentation)
+27. byungwook ahn, kangsun lee, hun lee, rajagopal panchapakesan, and kwang w. oh, "droplet
+synchronization of two parallel trains of droplets using a ladder-like channel network," proc. in microtas
+, pp. 1639-1641 (accept rate: 44% for poster presentation)
+28. hun lee, byungwook ahn, kangsun lee, and kwang w. oh, "continuous-flow in-droplet magnetic particle
+separation in a droplet-based microfluidic platform," proc. in microtas , pp. 948-950 (accept rate: 44%
+for poster presentation)
+29. jing xu, byungwook ahn, hun lee, kangsun lee, rajagopal panchapakesan, linfeng xu, and kwang w.
+oh, "droplet-based microfluidic devices for multiple-droplet trapping, storing, and clustering employing
+guiding tracks and forward/backward flows," proc. in microtas , pp. 257-259 (accept rate: 44% for
+poster presentation)
+30. kangsun lee, choong kim, byungwook ahn, hun lee, rajagopal panchapakesan, linfeng xu, jing xu, ji
+yoon kang, and kwang w. oh, "single-layer microfluidic network-based combinatorial dilution for a
+standard simplex-lattice combinatorial design," proc. in microtas , pp. 939-941 (accept rate: 44% for
+poster presentation)
+31. preethi gopalan, byungwook ahn, and kwang w. oh, "serial microfluidic device for microdroplet trapping
+and pairing," proc. in asme-imece , paper imece (with an oral presentation) (gsc#: 1)
+32. rajagopal panchapakesan, g. venugopal, kwang w. oh and n. m. litchinister, "beam steering in
+anisotropic metamaterials," proc. in frontiers in optics (fio) , optical society of america technical
+digest, paper jtua03 (with a poster presentation) (gsc#: 1)
+33. kangsun lee, choong kim, jaehoon bang, youngeun kim, seungha lee, byungwook ahn, ji yoon kang
+and kwang w. oh, "gravity-oriented microfluidic device for cell spheroid formation," proc. in microtas
+, pp. 857-859 (accept rate: 64% for poster presentation)
+34. kangsun lee, choong kim, youngeun kim, jaehoon bang, byungwook ahn, ‘jk’ jungkwun kim, ‘yk’
+yong-kyu yoon, ji yoon kang and kwang w. oh, "microfluidic network-based combinatorial dilution
+device with an initial concentration controller," proc. in microtas , pp. 1787-1789 (accept rate: 64%
+for poster presentation)
+35. byungwook ahn, kangsun lee, rajagopal panchapakesan, preethi gopalan, and kwang w. oh, "robust
+on-demand electrostatic droplet charging and sorting in a droplet-based microfluidic device," proc. in
+microtas , pp. 1115-1117 (accept rate: 64% for poster presentation)
+36. krishna prasad bhat, kwang w. oh, and douglas c. hopkins, "a mems sensor for gas detection in high
+voltage oil filled equipment," proc. in ieee – industry application society (ias) annual meeting, houston,
+tx, 3-7 october , pp. 1-5
+37. 'jk' jungkwun kim, kangsun lee, h. jee, kwang w. oh, and 'yk' yoon, "fabrication of multiple height
+microstructures using uv lithography on timed-development-and-thermal-reflowed photoresist," proc. in
+mems , pp. 376-379 (accept rate: 34% for poster presentation) (gsc#: 1)
+38. kangsun lee, byungwook ahn, and kwang w. oh, "hydrodynamic focusing based particle filtration using
+an island structure with built-in valves," proc. in asme-imece , paper imece (with an
+oral presentation) (gsc#: 4)
+39. rajagopal panchapakesan and kwang w. oh, "streaming potential measurement in live plants for energy
+harvesting applications," proc. in asme-imece , paper imece (with an oral presentation)
+40. k. lee, c. kim, y. kim, k. jung, b. ahn, j. y. kang and k. w. oh, "2-layer based microfluidic dilution
+generator for drug screening," proc. in microtas , pp. 1264-1266 (accept rate: 58% for poster
+presentation) (gsc#: 1)
+41. k. lee, c. kim, k. jung, j. y. kang and k. w. oh, "microfluidic network based combinatorial device for
+high throughput screening and optimization," proc. in microtas , pp. 1394-1396 (accept rate: 58% for
+poster presentation)
+42. j. kim, k. lee, k. w. oh, and y.-k. yoon, "microfabrication of rounded channel and waveguide integrated
+microlens using timed development and thermal reflow process," proc. in microtas , pp. 1365-1367
+12/28
+(accept rate: 6.5% for oral presentation)
+43. kangsun lee, choong kim, ji yoon kang and kwang w. oh, "double layer based microfluidic dilution
+generator for drug screening," proc. in mmb , the fifth international conference on microtechnologies
+in medicine and biology, québec city, canada, april 1-3, , pp. 92-93 (with a poster presentation)
+44. byungwook ahn, rajagopal panchapakesan, kangsun lee, romain louge and kwang w. oh, "fast, robust
+and simultaneous sorting with droplet generation by synchronized high switching frequency of electrostatic
+actuation," proc. in microtas , pp. 119-121 (accept rate: 59% for poster presentation) (gsc#: 1)
+45. byungwook ahn, rajogopal panchapakesan, kangsun lee and kwang w. oh, "simultaneous sorting with
+water droplet formation using an electric field," proc. in asme-imece , paper imece
+(with an oral presentation)
+46. k. w. oh, k. namkoong, and c. park, "a phase change microvalve using a meltable magnetic material:
+ferro-wax," proc. in microtas , pp. 554-556 (accept rate: 65% for poster presentation) (gsc#: 11)
+47. k. w. oh, k. namkoong, and c. park, "ferro-wax phase change microvalve for lab-on-a-chip (loc)
+applications," proc. in the 2nd samsung tech conference , sait, giheung, korea, pp. 334 (with an oral
+presentation)
+48. k. w. oh, c. s. park, and k. namkoong, "a world-to-chip microfluidic interconnection technology with
+dual functions of sample injection and sealing for a multichamber micro pcr chip," proc. in ieee mems
+, pp. 714-717 (with a poster presentation) (gsc#: 12)
+49. k. w. oh, y. k. cho, j. t. kim, s. h. kim, k. s. ock, k. namkoong, k. t. yoo, c. s. park, y. s. lee, y.
+a. kim, j. i. han, h. k. lim, j. j. kim, d. s. yoon, g. b. lim, s. h. kim, j. j. hwang, and y. eugene pak,
+"a rapid micro polymerase chain reaction system (genspector® micro pcr) for hepatitis b virus dna
+detection," proc. in microtas , pp. 150-152 (with a poster presentation) (gsc#: 2)
+50. k. w. oh, c. park, and k. namkoong, "a world-to-chip microfluidic interconnection technology with dual
+functions of sample injection and sealing for a multichamber micro pcr chip," proc. in the 1st samsung
+tech conference , sait, giheung, korea, pp. 115 (with a poster presentation)
+51. y. -k. cho, j. -t. kim, s. kim, k. namkoong, k. w. oh, c. park, y. lee, y. -a. kim, j. han, h. lim, k.
+-s. ock, k .yoo, s. kim, j. -j hwang, y. e. pak, and c. ko, "development of a novel real time micro pcr
+system and its statistical evaluation for rapid detection of hepatitis b virus," proc. in the 1st samsung tech
+conference , sait, giheung, korea, pp. 116 (with a poster presentation)
+52. k. w. oh, r. rong, and c. h. ahn, "in-line micro ball valve through polymer tubing," proc. in microtas
+, pp. 407-408 (with a poster presentation) (gsc#: 11)
+53. j. -w. choi, k. w. oh, t. m. liakopoulos, d. j. sadler, h. j. cho, a. han, and c. h. ahn, "innovative
+magnetic, biochemical, and optical mems devices for intelligent microsystems," proc. in the 1st intelligent
+microsystem symposium, ims , seoul, korea, pp. 1-7 (invited, with an oral presentation)
+54. j. -w. choi, k. w. oh, j. h. thomas, w. r. heineman, h. b. halsall, a. j. helmicki, j. h. nevin, h. t.
+henderson, and c. h. ahn, "an integrated microfluidic biochemical detection system with magnetic bead-
+based sampling and analysis capabilities," proc. in ieee mems , interlaken, switzerland, pp. 447-450
+(with a poster presentation) (gsc#: 12)
+55. j.-w. choi, a. a. wijayawardhana, n. okulan, k. w. oh, a. han, s. bhansali, v. govind, k. t. schlueter,
+j. h. nevin, a. j. helmicki, w. r. heineman, h. b. balsall, h. t. henderson, and c. h. ahn, "development
+of a generic microfluidic subsystem toward portable biochemical detection systems," proc. in microtas
+, pp. 327-330 (with a poster presentation) (gsc#: 7)
+56. a. han, k. w. oh, s. bhansali, h. t. henderson, and c. h. ahn, "a low temperature biochemically
+compatible bonding technique using fluoropolymers for biochemical microfluidic systems," proc. in ieee
+mems , miyazaki, japan, pp. 414-418 (with a poster presentation) (gsc#: 50)
+57. n. okulan, s. bhansali, a. han, s. dharmatilleke, j.-w. choi, m. patel, k. w. oh, h. t. henderson, and c.
+h. ahn, "development of planar microfluidic systems using conventional and low temperature assembling
+schemes for components," proc. in asme the international mechanical engineering conference and
+exposition (imece), winter annual meeting of asme, nashville, tn ( ) (with a poster presentation)
+(gsc#: 6)
+58. s. bhansali, a. han, m. patel, k. w. oh, c. h. ahn and h. t. henderson, "resolving chemical/bio-
+compatibility issues in microfluidic mems systems," proc. in spie conference on microfluidic devices and
+systems ii, vol. 3877, santa clara, california, pp. ) (with an oral presentation) (gsc#: 9)
+59. d. j. sadler, k. w. oh, c. h. ahn, s. bhansali, and h. t. henderson, "a new magnetically actuated
+13/28
+microvalve for liquid and gas control applications," proc. in transducers , sendai, japan, pp. 1812-
+1815 (with a poster presentation) (gsc#: 51)
+60. k. w. oh and c. h. ahn, "flip-chip packaging with micromachined conductive polymer bumps," proc. in
+adhesives in electronics , binghamton, ny, pp. 224-228 (with an oral presentation) (gsc#: 4)
+61. k. w. oh, c. h. ahn, and k. p. roenker, "optical characteristics of gaas msm photodiodes flip-chip
+bonded upon micromirrors using micromachined conductive polymer bumps," proc. in spie
+symposium on microelectronic structures and mems for optical process iv, vol. 3513, santa clara, ca,
+pp. 50-58 (with an oral presentation) (gsc#: 1)
+62. k. kramer, k. w. oh, c. h. ahn, j. j. bao, and k. r. wehmeyer, "optical mems-based fluorescence
+detection scheme with applications to capillary electrophoresis," proc. in spie symposium on
+micromachining and microfabrication, vol. 3515, doi:10.1117/12.322098, santa clara, ca (with an oral
+presentation) (gsc#: 14)
+63. k. w. oh, and c. h. ahn, "development of an innovative flip-chip bonding technique using micromachined
+conductive polymer bumps," proc. in ieee solid-state sensor and actuator workshop , hilton head,
+sc, pp. 170-173 (with an oral presentation) (gsc#: 19)
+64. c. h. ahn, k. w. oh and k. p. roenker, "micromachined optical i/o couplers for optoelectronic multichip
+modules (oe-mcms)," proc. in electronic and photonic packaging , vol. eep-19-1, pp. 447-453 (with
+an oral presentation) (gsc#: 6)
+65. s. koh, k. w. oh, k. p. roenker, c. h. ahn, "design and fabrication of optoelectronic multichip module
+prototypes using mems fabrication techniques," proc. in spie optoelectronics , vol. 3008-05 (with
+an oral presentation) (gsc#: 4)
+peer-reviewed conference papers (presentation only w/o proceedings)
+66. kwang w. oh, “creation and implantation of a test target into a test phantom finger for the ultrasonic and
+photoacoustic characterization of a biometric system,” nsf i/ucrc: citer (center for identification
+technology research), spring program review , saratoga springs, ny, may 17-18, (oral
+presentation)
+67. kwang w. oh, “microfluidic 3d capillary network test phantom for subdermal vascular imaging,” nsf
+i/ucrc: citer (center for identification technology research), spring program review , niagara
+falls, ny, may 31-june 2, (oral presentation)
+68. kwang w. oh, "droplet-based microfluidics," micro & nano fluidics, techconnect world
+(nanotech/microtech/biotech/cleantech ), santa clara, california, june 18-21, (invited talk)
+69. linfeng xu, rajagopal panchapakesan, kangsun lee, byungwook ahn, hun lee, jing xu, and kwang w.
+oh, "structure-enhanced self-powered microfluidic pumps and stickers," micro & nano fluidics,
+techconnect world (nanotech/microtech/biotech/cleantech ), june 18-21, , santa clara,
+california (oral presentation).
+70. deepu george, rohit singh, chejin bae, byungwook ahn, kwang w. oh, and a. g. markelz, "thz
+measurements of molecular solution phase dynamical alignment," international workshop on otst (optical
+terahertz science and technology) , march 13 , , santa barbara, ca, usa
+71. rajagopal panchapakesan and kwang w. oh, "smart autonomous energy harvesting from live plants,"
+nanotechnology in biology and medicine, the 2nd integrated nanostructured systems (ins) workshop, may
+13, , ub, ny, usa (poster)
+72. kangsun lee, choong kim, byungwook ahn, yongeun kim, ji yoon kang, and kwang w. oh,
+"microfluidic network based micro-reactor platforms for biological assay," nanotechnology in biology and
+medicine, the 2nd integrated nanostructured systems (ins) workshop, may 13, , ub, ny, usa (poster)
+73. byungwook ahn, rajagopal panchapakesan, kangsun lee, kwang w. oh, "two phase droplet; generation,
+sorting and droplet charge with e-field," nanotechnology in biology and medicine, the 2nd integrated
+nanostructured systems (ins) workshop, may 13, , ub, ny, usa (poster)
+74. rajagopal panchapakesan and kwang w. oh, "label-free real-time micro pcr using surface acoustic wave,"
+multifunctional nanomaterials and nanodevices, the 1st annual integrated nanostructured systems (ins)
+workshop, may 18 – 19, , ub, ny, usa (poster)
+75. byungwook ahn and kwang w. oh, "a novel braille device using meltable magnetic nanoparticles,"
+multifunctional nanomaterials and nanodevices, the 1st annual integrated nanostructured systems (ins)
+workshop, may 18 – 19, , ub, ny, usa (poster)
+14/28
+76. d. j. sadler, k. w. oh, c. h. ahn, s. bhansali, and h. t. henderson, "a new magnetically actuated
+microvalve for gas and liquid control applications," symposium on nano-, micro-, and mesoscale
+technologies in science and engineering, may 13, , university of cincinnati, cincinnati, oh, usa
+(poster)
+77. k. w. oh, c. h. ahn, and k. p. roenker, "optical characteristics of gaas msm photodiodes flip-chip
+bonded upon micromirrors using micromachined conductive polymer bumps," symposium on nano-, micro-
+, and mesoscale technologies in science and engineering, may 13, , university of cincinnati,
+cincinnati, oh, usa (poster)
+78. k. w. oh and c. h. ahn, "flip-chip packaging with micromachined conductive polymer bumps,"
+symposium on nano-, micro-, and mesoscale technologies in science and engineering, may 13, ,
+university of cincinnati, cincinnati, oh, usa (poster)
+79. c. h. ahn, h. t. henderson, w. r. heineman, h. b. halsall, j. h. nevin, a. j. helmicki, s. bhansali, k. t.
+schlueter, j.-w. choi, k. w. oh, a. han, n. okulan, m. patel, s. dharmatilleke, c. lannes, a.
+wijayawardhana , s. purushothama, "a generic microfluidic system for remote sensors," symposium on
+nano-, micro-, and mesoscale technologies in science and engineering, may 13, , university of
+cincinnati, cincinnati, oh, usa (poster)
+invited talks
+invited talks (off campus)
+1. byungwook ahn, hun lee, linfeng xu, jing xu, kangsun lee, rajagopal panchapakesan, preethi goplan,
+and kwang w. oh, "continuous-flow passive/active manipulation of droplet trains and its application
+for in-droplet magnetic particle separation," lab on a chip international symposium: droplet-based
+microfluidics, november 12–13, , hangzhou, china (invited talk)
+2. linfeng xu and kwang w. oh, "on-chip blood plasma separation using vacuum-assisted micropumping
+for point-of-care application," biosensor, nanotechnology, biomems in world congress on medical
+physics & biomedical engineering, toronto, canada, june 7-12, (invited talk)
+3. kwang w. oh, "biomedical microfluidic devices: promising tools for lab-on-chip (loc)/point-of-care
+(poc) and high-throughput/cell study applications," bioengineering department, university of texas at
+dallas, march 2,
+4. hun lee, linfeng xu, and kwang w. oh, "a journey of trains of droplets in droplet-based microfluidic
+devices," proceedings of the 36th annual international conference of the ieee engineering in medicine
+and biology society (ieee embc ), august 26 – 30, , chicago, illinois, pp. 778-781, (invited
+talk)
+5. biomedical it convergence center, gumi, korea, june 25,
+6. chonbuk national university, korea, june 24,
+7. advanced institutes of convergence technology, seoul national university, korea, june 19,
+8. sungkyunkwan university, korea, june 12,
+9. korea advanced institute of science and technology, korea, june 11,
+10. pohang university of science and technology, korea, june 5,
+11. hanyang university, korea, june 2,
+12. kyunghee university, korea, may 29,
+13. unist, korea, may 28,
+14. mechanical engineering, chonbuk national university, korea, may 22,
+15. department of biomedical engineering, chung-ang university, korea, may 21,
+16. new business division (healthcare), sk telecom, korea, may 19,
+17. department of electrical engineering, kwangwoon university, korea, may 13,
+18. center for biomicrosystems, korea institute of science and technology (kist), korea, may 13,
+19. "active and passive manipulation of microdroplets in droplet-based microfluidics platform," university of
+toronto, canada, september 27,
+20. "droplet-based microfluidics," micro & nano fluidics, techconnect world
+(nanotech/microtech/biotech/cleantech ), santa clara, california, june 18-21, (invited talk)
+15/28
+21. "microvalves for drug delivery," johnson & johnson vision care, jacksonville, fl, august 06,
+22. "microfluidic circuits, devices, and applications," gwangju institute of science and technology (gist),
+korea, november 16,
+23. "microfluidic systems and droplet-based microfluidics," physics department, chonbuk national university,
+korea, november 5,
+24. "biomems and droplet-based microfluidics," department of electrical engineering, ub, september 25,
+25. "droplet-based microfluidics and biomems," department of mechanical engineering, university of akron,
+oh, november 21,
+26. "miniaturization of polymerase chain reaction (pcr) devices and systems," siloam biosciences, biostart
+incubator complex on the university of cincinnati medical campus, cincinnati, oh, october 24,
+27. "advanced biomems and microfluidics research at department of electrical
+engineering, kwangwoon university, korea, august 12,
+28. "small technology: the tools to answer biological questions," dean's council meeting, school of engineering
+and applied sciences, ub, april 27 & 28,
+29. "biomems & microfluidics: the tools to answer biological questions," department of electrical engineering,
+university of south florida, tampa, fl, april 13,
+30. "biomems & microfluidics," department of mechanical engineering, pohang science and technology
+university (post), pohang, korea, february 17,
+31. "world-to-chip microfluidic interfacing for pcr assay chips," symposium for microfluidics in biotech
+industry applications, the korean society for biotechnology and bioengineering, jinju city hall, korea,
+october 27-29,
+32. "biochips & microfluidics," center for applied nanobioscience, biodesign institute, arizona state
+university, pheonix, az, january 28,
+33. "microfluidics," biochip t/f at samsung electronics, giheung, korea, july 21, .
+34. "biochips: lab-on-a-chip," pediatric department, samsung medical center, seoul, korea, december 28,
+35. "lab-on-a-chip using mems (biomems)," the korean intellectual property office, seoul, korea,
+december 7,
+36. "lab-on-a-chip using mems," the 33rd international symposium for 10-year-anniversary of korean society
+of life science, busan, korea, september 14,
+37. "biomems and moems," sait, samsung electronics, suwon, korea, october,
+38. "mems for biomems and moems," lg corporate institute of technology, lg electronics, seoul, korea,
+october,
+invited talks (on campus)
+39. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, ub, october 25,
+40. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, ub, october 20,
+41. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, ub, october 7,
+42. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, ub, september 26,
+43. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, ub, october 2,
+44. "small (sensors and microactuators learning lab): what we do is micro plumbing," ins winter
+workshop, ub, january 12,
+45. "biosensors for lab-on-a-chip (loc) and point-of-care-test (poct)," dms604 large-scale sensing systems,
+department of media study, ub, september 19,
+46. "microfabrication technologies and applications in cell culture and tissue engineering," ce 564 tissue
+engineering, department chemical/biological engineering, ub, march 8,
+47. "inr seminar series: small (sensors and microactuators learning lab)," internships in nanomaterials
+research summer seminar, ub, july 20,
+16/28
+48. "sample delivery: microfluidics,” idex day on campus, seas, ub, january 21,
+49. "inr seminar series: small (sensors and microactuators learning lab)," internships in nanomaterials
+research summer seminar, ub, july 28,
+50. "small for big things," ub nanoscale science and technology club (ub nano club), ub, november 11,
+51. "inr seminar series: small (sensors and microactuators learning lab),” internships in nanomaterials
+research summer seminar, ub, july 29,
+52. "biomems based microfluidic cell sorting system - enjoy a happy marriage between biomedical problems
+and engineering tools to find creative multidisciplinary solutions," integrated nanostructed systems (ins)
+nano/biotechnology workshop, ub, june 11,
+53. "small (hybrid nano & micro) technology: biomems, microfluidics, nanobiosensors, microactuators - the
+tools to answer biological questions," the new york state center of excellence in bioinformatics & life
+sciences (coe), ub, december 18,
+54. "small technology: the tools to answer biological questions," dean's council meeting, school of engineering
+and applied sciences, ub, april 27 – 28,
+55. "the tools to answer biological questions: biomems, microfluidics, and nanobiotech," administrative
+council meeting, department of electrical engineering, ub, march 21,
+patents
+1. linfeng xu and kwang w. oh, "a blood separation microfluidic device for point-of-care (poc)
+applications," us r-6891 (filed: 05/01/ )
+2. linfeng xu and kwang w oh, "syringe assisted microfluidic pumping for point-of-care applications," us
+r-6694 (filed: 11/18/ )
+3. k. w. oh, k. namkoong, c.s. park, "microvalve having magnetic wax plug and flux control method using
+magnetic wax," us 8,167,265 (05/01/ )
+4. k. s. ock, k. w. oh, s. h. kim, and j. t. kim, "multi-channel fluorescence measuring optical system and
+multi-channel fluorescence sample analyzer," us 7,928,408 (04/19/ ) (gsc#: 4)
+5. k. w. oh, and yoojin seo, "semiautomatic operating device for microchip," us 7,892,490 (02/22/ )
+6. k. w. oh, j. s. park, and k. namkoong "microvalve having magnetic wax plug and flux control method
+using magnetic wax," us 7,874,305 (01/25/ )
+7. k. w. oh, j. t. kim, y. k. cho, k. namkoong, c. s. park, and y. -k. cho, "polymerase chain reaction
+(pcr) module and multiple pcr system using the same," us 7,799,557 (09/21/ ) (gsc#: 4)
+8. k. w. oh, j. t. kim, k. namkoong, and c. s. park, "real-time pcr monitoring apparatus and method," us
+7,767,439 (08/03/ ) (gsc#: 8)
+9. j. t. kim, k. w. oh, y. j. seo, c. s. park, and k. namkoong, "polymerase chain reaction module and
+multiple-polymerase chain reaction system including the module," us 7,754,452 (07/13/ ) (gsc#: 1)
+10. c. s. park, j. h. kim, k. namkoong, and k. w. oh, "fluid mixing device using cross channels," us
+7,736,050 (06/15/ )
+11. k. namkoong, y. s. lee, k. w. oh, c. h. ko, and j. i. han, "handheld centrifuge," us 7,645,223
+(01/12/ )
+12. y. s. lee, j. i. han, h. y. lee, k. w. oh, and k. namkoong, "isolation and purification method of
+biomolecules using hydrogel," us 7,579,151 (08/25/ ) (gsc#: 4)
+13. j. i. han, y. s. lee, k. w. oh, and k. namkoong, "cell lysis using free radicals," us 7,517,690 (04/14/ )
+14. k. w. oh, j. s. park, and k. namkoong, "microvalve having magnetic wax plug and flux control method
+using magnetic wax," us 7,478,792 (01/20/ ) (gsc#: 12)
+15. k. w. oh, and k. namkoong, "valve," us 7,424,995 (09/16/ )
+16. k. w. oh and yoojin seo, "microchip assembly," us 7,413,707 (08/19/ ) (gsc#: 1)
+17. j. i. han and k. w. oh, "micro pcr device, method for amplifying nucleic acids using the micro pcr
+device, and method for measuring concentration of pcr products using the micro pcr device," us
+7,371,530 (05/13/ )
+18. k. w. oh, y. s. lee, y. k. cho, and g. b. lim, "apparatus for circulating carrier fluid," us 7,329,535
+17/28
+(02/12/ ) (gsc#: 2)
+19. g. ok, j. t. kim, k. w. oh, and s. kim, "optical detection apparatus for multi-channel multi-color
+measurement and multi-channel sample analyzer employing the same," us 7,274,455 (09/25/ ) (gsc#:
+52)
+20. g. ok, k. w. oh, and j. t. kim, "optical system for analyzing multi-channel samples and multi-channel
+sample analyzer employing the same," us 7,209,237 (04/24/ ) (gsc#: 1)
+21. y. k. cho, s. h. kim, k. w. oh, d. s. yoon, and g. b. lim, "method and sensor for detecting the binding
+of biomolecules by shear stress measurement," us 7,112,452 (09/26/ ) (gsc#: 6)
+mentorship
+students’ names are underlined
+visiting scholar/post-doc/visiting student
+bendong liu, phd (mechanical engineering, beijing university of technology, china, )
+current position: associated professor, college of mechanical engineering and applied
+electronics technology，beijing university of technology, beijing, china. ( -current)
+spring christopher steven (phd, international visiting student from prof. duncan graham’s lab, pure
+and applied chemistry university of strathclyde, glasgow, uk)
+doctoral (phd) students, in progress
+fall - zhonghang zhang, ms (ee, ub, ), bs (ee, )
+expected graduation date: spring
+fall - phil schneider, ms (ee, ub, ), bs (ee, ub, )
+expected graduation date: spring
+spring - evan breloff, bs (ee, ub, )
+expected graduation date: spring
+fall - anyang wang, ms (ee, tohoku university, ), bs (ee, tohoku university, )
+expected graduation date: spring
+fall - nikhila nyayapathi, bs (electronics and instrumentation eng., birla institute of technology &
+science-pilani, india, )
+expected graduation date: spring
+sum. - domin koh, bs (ee, ub, )
+expected graduation date: fall
+doctoral (phd) students, graduated
+fall 10 - hun lee, phd (ee, ub, ); ms (ee, dankook university, korea, ), bs (electronic
+and computer eng., dankook university, korea, )
+phd thesis title: droplet-based microfluidic platform for immunoassay applications using
+magnetic particles (defense date: 03/10/ )
+committee member: prof. edward p. furlani, prof. qiaoqiang gan, prof. wayne anderson
+current position: sk hynix, korea
+sum 11 - linfeng xu, phd (ee, ub, ), ms (ee, ub, ), bs (informatics and control eng.,
+shanghai university of electric power, china, )
+phd thesis title: study of point-of-care microfluidics pumping and blood sample preparation
+(defense date: 12/22/ )
+committee member: prof. edward p. furlani, prof. qiaoqiang gan, prof. wayne anderson
+current position: intuitive biosciences, madison, wisconsin
+spr. 07 - rajagopal panchapakesan, phd (ee, ub, ), ms (mechanical eng., ub, ), bs
+(mechanical eng., anna university, india, )
+phd thesis title: droplet feedback mechanisms on a digital microfluidic platform and
+development of hyperbilirubinemia panel (defense date: 01/09/ )
+committee member: prof. edward p. furlani, prof. qiaoqiang gan
+current position: illumina, san diego, ca
+18/28
+spr. 08 - kangsun lee, phd (ee, ub, ), ms (ee, dankook university and kist, korea, ),
+bs (ee, dankook university, korea, )
+phd thesis title: pressure-driven microfluidic networks using electric circuit analogy for on-
+chip cell assay applications (defense date: 08/17/ )
+committee member: prof. alexander n. cartwright, prof. edward p. furlani
+current position: lg electronics advanced institute of technology, korea
+fall 06 - byungwook ahn, phd (ee, ub, ), bs (ee, aju university, korea, )
+phd thesis title: dynamic control of water-in-oil droplets in a continuous flow by active and
+passive methods (defense date: 08/15/ )
+committee member: prof. esther s. takeuchi, prof. edward p. furlani
+current position: lg electronics; former position: post-doc at emory university school of
+medicine and georgia institute of technology (advisor: wilbur a. lam, md, phd)
+m.s. students, in progress
+spring 16 - yaguang zhai, bs (physics, jilin university, china, )
+expected graduation date: spring
+spring 16 - rittick banerjee, bs (ee, )
+expected graduation date: spring
+ms students with thesis, graduated
+spr. 15 - emily oakley, ms (ee, ub, ), bs (bme, the george washington university, )
+ms thesis title: surface markers for image-guided interstitial photodynamic therapy (defense
+date: 05/05/ )
+committee member: prof. edward p. furlani, prof. gal shafirstein, d.sc. (supervisor,
+photodynamic therapy center, roswell park cancer institute (ub/rpci))
+current position: phd student at ub/rpci (under prof. gal shafirstein)
+fall 14 - phil schneider, ms (ee, ub, ), bs (ee, ub, )|
+ms thesis title: a feasibility study of an acoustic test phantom arm (defense date:
+04/28/ )
+committee member: prof. edward p. furlani, prof. jennifer zirnheld
+current position: phd student at ub (under prof. kwang w. oh)
+sum. 13 - deekshitha jett, ms (ee, ub ), bs (electronics & communication eng., jawaharlal
+nehru technological university, india, )
+ms thesis title: vacuum-assisted and phaseguide-assisted blood typing device for point-of-
+care diagnostics (defense date: 05/19/ )
+committee member: prof. qiaoqiang gan, prof. wayne anderson
+current position: phd student at ub (under prof. susan hua, mechanical engineering)
+spr. 10 - jing xu, ms (ee, ub, ), bs (communication eng., nanjing university of information
+science and technology, china, )
+ms thesis title: development of droplet-based microfluidic devices for microdroplet trapping,
+storing and clustering (defense date: 07/28/ )
+committee member: prof. edward p. furlani, prof. albert titus)
+current position: cec huada electronic design co., ltd, san francisco, ca
+spr. 10 - linfeng xu, ms (ee, ub, ), bs (informatics and control eng., shanghai university of
+electric power, china, )
+ms thesis title: vacuum-assisted self-powered microfluidic pumping for lab-on-chip (loc)
+application (defense date: 05/26/ )
+committee member: prof. wayne anderson, prof. edward p. furlani
+current position: intuitive biosciences, madison, wisconsin
+sum 09 - preethi gopalan, bs (ee, srm university, india, ), ms (ee, ub, )
+ms thesis title: development of droplet-based microfluidic devices for microdroplet trapping
+and pairing (defense date: 06/28/ )
+committee member: prof. wayne anderson, prof. yk yoon
+current position: intel
+19/28
+ms students without thesis
+spr. 13 - rahul prakash k moodbidri, bs (electronics and telecommunication eng., k j somaiya
+institute of engineering and it, mumbai, india, )
+graduation date: summer
+fall 11 deepika kalra, b. tech. (ee, doon valley institute of eng. & tech., india, )
+graduation date: spring
+current position: cad engineer at intel corporation
+fall 09 - nicholis geile, bs (ee, ub, ), ms (ee, ub, )
+current position: engineer at moog
+fall 07 - paul kay, bs (part-time, ee, ub, )
+current position: district environmental coordinator at ups
+international exchange students (ms)
+fall 08 - spr. 09 imene ben hassan (african woman), exchange ms students (ee, ensea, france, ),
+ship–ensea intern program
+current position: engineer - bureau veritas, france
+fall 07 - spr. 08 romain louge, exchange ms students (ee, ensea, france, ), ship-ensea intern
+program
+* ship (small honors internship program) is oh's outreach program.
+undergraduate research students
+winter 16 - liam christie (freshmen, ee, ub ), ship-undergraduate intern program
+summer 16 - adam trimper (freshmen, ee, ub ), ship-undergraduate intern program
+spr. 16 – spr. 17 alexander villalta (senior, ee, ub ), ship-undergraduate intern program
+fall 15 - brett bosinski (sophomore, ee, ub ), ug research fellowships recipient, ship-
+undergraduate intern program
+fall 14 beom jin oh (senior, ee, ub ), ug research fellowships recipient, ship-
+undergraduate intern program
+spring 14 phil schneider (senior, ee, ub ), ub engineering senior scholarship recipient, ship-
+undergraduate intern program, ee 499 independent study (topic: ultrasonic display, spring
+)
+fall 13 - mariana vanderlei brasil pinheiro (junior, woman, international exchange student,
+scholarship recipient from brazil scientific mobility program, universidade federal do rio
+grande do norte-ufrn, brazil), ship-undergraduate intern program, ee 499 independent
+study (topic: droplet-based microfluidics, spring )
+spr.13 - danilo sulino silveira pinto (junior, international exchange student, scholarship recipient
+from brazil scientific mobility program, universidade federal de goias: ufg), ship–
+undergraduate intern program, ee 499 independent study (topic: microfluidic device for cell
+immune-staining, spring )
+current position: estagiário na redutep soluções industriais, brazil
+summer 13 vinicius abreu (junior, international exchange student, scholarship recipient from brazil
+scientific mobility program, centro universitario da fei), ship-undergraduate intern
+program
+current position: edison engineering development at ge power conversion, brazil
+spring 13 christopher adams, bs (ee, ub, ), ship-undergraduate intern
+current position: application engineer at inncom by honeywell
+summer 12 frank a segui (puerto rican), bs (ee, ub, ), ship-cstep (collegiate science &
+technology entry program)
+fall 11 ailin lin, bs (ee, ub, ), ship–undergraduate intern program
+spring 11 miguel gadea, bs (ee, ub, ), ship-undergraduate intern program, ee 499 independent
+study (topic: hydrodynamic microfluidic circuits, spring )
+spring 11 seongeun jin, bs (ee, ub, ), ship-undergraduate intern program, ee 499 independent
+study (topic: flow cytometry, spring )
+20/28
+current position: engineer at cisco systems
+sum 10 - yen jen chen (woman), bs (ee, ub, ), ship-undergraduate intern, ee 499
+independent study (topic: microfluidic circuits, fall )
+current position: equipment engineer at globalfoundries
+spr. 10 - patrick smith, bs (ee, ub, ), ship-undergraduate intern program, ee 499 independent
+study (topic: microfluidic circuits, fall )
+current position: marine student naval aviator -north whiting field - vt3
+summer 10 anirudh venugopal, international bs summer intern (ee, anna university, chennai, india
+), ship-undergraduate intern program
+current position: device engineer at vibrant sciences llc
+spring 08 anthony r. full, bs (ee, ub), ship-undergraduate intern program, ee 499 independent
+study (topic: universal microfluidic gradients, spring 08)
+fall 07 - ledum nordee, bs (ee, ub, ), ship-cstep (collegiate science & technology entry
+program), african american
+current position: power systems engineer, eaton corp., franklin, ma
+fall 06 - william cuthbert, ub honors students, bs (ee, ub, ), ship-undergraduate intern
+program, ee 499 independent study (topic: magnetics-based bidirectional non-invasive
+brain-computer interfacing, spring 08)
+current position: technical support and sales at ant-neuro
+k-12
+07/06 - 08/12/11 david kulczyk, 12th grader from st. francis in buffalo, ship-inr intern program
+07/07 - 08/13/10 eric birdsong (african american), 12th grader from the math, science, and technology
+preparatory school at seneca in buffalo, ship-inr intern program
+07/06 - 08/14/09 andrew clark (african american), 12th grader from the math, science, and technology
+preparatory school at seneca in buffalo, ship-inr intern program
+07/09 - 08/15/08 david walker (african american), 12th grader from the east high school in buffalo, ship-
+inr intern program
+07/07 - 08/08/08 ryan glover, 12th grader from the st. joseph's collegiate institute high school, ship-beam
+intern program
+6-sigma black belt (bb) mentor
+fall 07 - shrideep sadhale, ms (mechanical eng., ub, )
+project with tapecon, buffalo, ny through tcie
+current position: operational excellence consultant at glaxosmithkline
+fall philip john, ms (industrial eng., ub, )
+project with winfield industries, buffalo, ny through tcie
+doctoral dissertation committee
+12/ ye jia, “interface characterization of atomic layer deposited dielectrics on novel iii-nitride
+semiconductors” (advisor: dr. uttam singisetti)
+10/ hong liying, nanyang tech university, singapore, “biomedical applications of nanoparticles
+synthesized using miniaturized devices” (advisor: dr. yong ken tye) (as an external appraiser)
+10/ xie zeng, “plasmonic interferometers: from physics to biosensing applications” (advisor: dr.
+qiaogianq gan)
+09/ song peiyi, nanyang tech university, singapore, “engineering of mems based microfluidics
+devices for individualised biomedical applications” (advisor: dr. yong ken tye) (as an
+external appraiser)
+02/ jing xu, “microfabricated flow calorimeter for rf power measurement” (advisor: dr. albert
+titus)
+01/ zhiyong zhan, “cmos spectrum evaluation device” (advisor: dr. albert titus)
+12/ bile neji, “microfabricated dc substitution calorimeter for rf power measurement” (advisor:
+dr. albert titus)
+08/ chong tong, “plasmonic nanostructures for enhanced zno/si heterojunction optoelectronic
+21/28
+devices” (advisor: dr. wayne anderson)
+02/ mahyar nasabi, “surface tension assisted lithography” (advisor: dr. arnan mitchell), rmit
+university, melbourne, australia (as an external appraiser)
+12/ eric kozarsky, “metal induced growth of thin si films for photovoltaics: new approaches and
+applications” (advisor: dr. wayne anderson)
+09/ steve shih, university of toronto, “automating digital microfluidics: towards high-throughput
+screening” (advisor: dr. aaron wheeler) (as an external appraiser)
+08/ lien tu, “custom cmo integrated sensor systmes” (advisor: dr. alber titus)
+08/ gayatri venugopal, “nonlinear and tunable metamaterials for optics on a chip devices” (advisor:
+dr. natasha litchinitser)
+07/ bin qu, “an emccd-array, high-resolution imaging system for fluoroscopy and angiography”
+(advisor: dr. alexander n. cartwright)
+05/ yongwoo jeong, “bio-inspired hardware/software motion sensor system” (advisor: dr. albert
+titus)
+11/ jungkwun kim, "advanced multidirectional uv lithography for three dimensional (3-d) micro-
+/nano structures" (advisor: dr. yk yoon)
+master thesis committee
+05/ ajeya anand, "electrical stimulation therapy for wound healing" (advisor: dr. ed. furlani)
+07/ yanbo guo, "improved portable spr sensor for heavy metal detection" (advisor: dr. qiaogianq
+gan)
+05/ jordan radice, "decentralized digital electrode design for non-contact biopotential applications"
+(advisor: dr. albert h. titus)
+05/ chu wang, "thin-film interference for surface plasmon resonance system and ultra-thin film
+ultraviolet super absorber structure" (advisor: dr. qiaogianq gan)
+12/ young hwa kim, "metasurfaces for plasmon-enhanced birefringence and optical rotation"
+(advisor: dr. edward p. furlani)
+08/ yen jen chen, "fabrication and evaluation of mis junctions on zno" (advisor: dr. wayne
+anderson)
+05/ qian xie, "plasmonics analysis of nanostructures for bioapplications" (advisor: dr. edward
+furlani)
+05/ ratna reddy chada, "theoretical and experimental characterization of plasmonic materials and
+grating based spr sensing" (advisor: dr. edward furlani)
+10/ manoj devendhiran, "a microfabricated dc-substitution calorimeter for low power measurement"
+(advisor: dr. albert h. titus)
+05/ krishna prasad bhat, "power transformer monitoring using embedded mems gas sensor"
+(advisor: dr. douglas c. hopkins)
+05/ chong tong, "zno/si heterojunction solar cell simulation and experimental evaluation"
+(advisor: dr. wayne anderson)
+12/ pitfee jao, "micromachined polymeric scaffold with neuron factor gradient for guided spiral
+ganglion neuron growth" (advisor: dr. yk yoon)
+12/ guotang pan, "modeling organic thin film transistor for integrated circuit design" (advisor:
+dr. albert titus)
+07/ madjid semah, "digital signal processing of an electrocardiogram measured with non-touching
+electrodes" (advisor: dr. darold c. wobschall)
+07/ sofien elouni, "measure of the electro-cardiogram at a distance in a car environment: analog
+part" (advisor: dr. darold c. wobschall)
+07/ sungyong cha, "air-lifted reflector antennas driven by a cbcpw fed monopole for 2.4 ghz
+applications" (advisor: dr. yk yoon)
+01/ apra pandey, "development of set-up for biopotential measurement on surface of fertilized
+eggs" (advisor: dr. alexander verevkin)
+08/ andrew kucharski, "preparation and structure analysis of thin graphene flakes for nanodevice
+fabrication" (advisor: dr. jonathan p. bird)
+01/ troy mckay, "investigation of thermal impedance and stress in direct attached ceramic-alsic
+22/28
+structures for use in power packaging" (advisor: dr. douglas hopkins)
+08/ avarachan cherian, "a simple wirelss electro cardiogram for home use" (advisor: dr. darold c.
+wobschall)
+08/ chiou-yi lee, "the prototype of ieee 14514 teds conversion software" (advisor: dr. darold c.
+wobschall)
+teaching
+graduate courses
+spring ee 526 wearable & implantable sensors, ppt updates, 58 graduates (evaluation: 4.5/5.0)
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 22 graduates (evaluation: 4.69/5.00)
+spring ee 526 wearable & implantable sensors, ppt updates, 44 graduates (evaluation: 4.57/5.00)
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 28 graduates (evaluation: 4.77/5.00)
+spring ee 526 wearable & implantable sensors, new course, 40 graduates (evaluation: 4.70/5.00)
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 14 graduates (evaluation: 4.67/5.00)
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 22 graduates
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 10 graduates
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 18 graduates
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 9 graduates
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 20 graduates (evaluation: 3.50/4.00)
+fall ee 528 biomems and lab-on-a-chip, ppt updates, 8 graduates
+fall ee 528 biomems and lab-on-a-chip, course major modification, 10 graduates (evaluation:
+3.74/4.00)
+fall ee 528 biomems and nanobiosensors, new course, 21 graduates (evaluation: 3.64/4.00)
+undergraduate courses
+spring ee 311 electronic devices and circuits 2, lecture (3 hr/week) and laboratory (5 sessions x 2
+hr/week x 13 labs), ppt updates, 84 undergraduates (evaluation: 4.6/5.0)
+fall eas 198 sem: the places you will go (session: d), seminar (1 hr/week), new course for transfer
+student (offered based on a new ub curriculum), 29 undergraduates
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 19 graduates
+spring ee 311 electronic devices and circuits 2, lecture (3 hr/week) and laboratory (5 sessions x 2
+hr/week x 13 labs), major course modification, 107 undergraduates (evaluation: 4.85/5.00)
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 8 undergraduates
+spring ee 311 electronic devices and circuits 2, lecture (3 hr/week) and laboratory (4 sessions x 2
+hr/week), ppt updates, 80 undergraduates (evaluation: 4.68/5.00)
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 10 undergraduates
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 10 undergraduates
+spring ee 311 electronic devices and circuits 2, lecture (3 hr/week) and laboratory (5 sessions x 2
+hr/week), major course modification, 103 undergraduates
+fall ee 203 circuit analysis 2, ppt updates, 43 undergraduates
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 8 undergraduates
+fall ue 141 freshman seminar series - bringing physics and engineering to life, 1 credit, offered 3
+lectures and 2 labs (with prof. markelz and prof. snell), 1 credit, 20 undergraduates
+spring ee 203 circuit analysis 2, ppt updates, 58 undergraduates
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 7 undergraduates
+spring ue 141 freshman seminar series - bringing physics and engineering to life, 1 credit, offered 3
+lectures and 2 labs (with prof. markelz and prof. snell), 1 credit, 5 undergraduates
+spring ee 203 circuit analysis 2, ppt updates, 50 undergraduates
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 7 undergraduates
+spring ee 203 circuit analysis 2, ppt updates, 67 undergraduates (evaluation: 2.97/4.00)
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 6 undergraduates
+23/28
+spring ee 203 circuit analysis 2, ppt updates, 52 undergraduates (evaluation: 3.32/4.00)
+fall ee 428 biomems and lab-on-a-chip, ppt updates, 11 undergraduates
+spring ee 203 circuit analysis 2, major course modification, 70 undergraduates
+fall ee 428 biomems and lab-on-a-chip, course major modification, 4 undergraduates
+spring ee 203 circuit analysis 2, lecture, major course modification, 86 undergraduates (evaluation:
+3.33/4.00)
+guest lectures
+fall ce 564 tissue engineering, "microfabrication technologies and applications in cell culture and
+tissue engineering" (10/20/ )
+fall ce 564 tissue engineering (10/07/ )
+fall ce 564 tissue engineering (9/26/ )
+fall ce 564 tissue engineering (10/02/ )
+fall dms 604 large-scale sensing systems, "biosensors for lab-on-a-chip (loc) and point-of-care-
+test (poct)" (09/19/ )
+spring ce 564 tissue engineering, "microfabrication technologies and applications in cell culture and
+tissue engineering" (03/08/ )
+fall ue 141 freshman seminar series - nanostructured materials, "nano/microfluidics for biomedical
+applications" (11/01/ )
+awards and honors
+emerging investigators , lab chip, royal society of chemistry. "this newest cohort of
+emerging investigators is, in a word, a group of control freaks: controlling fluids, controlling
+forces, controlling fields" (from editorial: mission impossible to mission control, lab chip, 12,
+3851-3852); featured on the cover page of lab chip journal (lab chip, 12, 3936-3942, ).
+03/ professional development award, uup, suny$354)
+05/ professional development award, uup, suny611)
+05/ professional development award, uup, suny$520)
+02/ research initiatives travel award, seas, ub500)
+11/ research initiatives travel award, seas, ub008)
+06/ professional development award, uup, suny
+08/ outstanding researcher award, bio lab, sait
+outstanding paper award, in samsung journal of innovative technology
+knowledge management best practice award, sait
+six sigma best practice award, samsung group
+six sigma best practice award, sait
+honor of ceo, samsung electronics, for the commercialization of a micro pcr system
+conference travel award, adhesives in electronics '98, binghamton, ny
+conference travel award, solid-state sensor and actuator workshop '98, hilton head island, sc
+university graduate scholarship, university of cincinnati
+university graduate scholarship, chonbuk national university
+02/ honor of dean, college of natural sciences, chonbuk national university
+yangback foundation fellowship (full tuition scholarship), daenong group
+university tuition scholarship, chonbuk national university
+recognition of work, in press/news
+a recent research activity (“bioelectrical engineering at ee:
+with funding from the nsf, professor kwang oh's project,
+microfluidic 3d capillary network test phantom for
+subdermal vascular imaging will create a physiologically
+accurate model of the human finger…”) has been featured on
+ub electrical engineering newsletter (a newsletter for
+24/28
+students, alumni and friends of the ub ee, 11/29/ )
+(http://engineering.buffalo.edu/electrical/research/research_news/kwang-oh-nsf.html,
+http://myemail.constantcontact.com/ub-electrical-engineering-
+news.html?soid= &aid=nyndnoktwcw )
+an online news (“microfluidics made easy” by eleanor hall, chemistry world, rsc)
+regarding a paper (by grover, lab chip, , doi: 10.1039/c6lc00758a)
+(http://www.chemistryworld.com/1017561.article)
+a paper ("simultaneous detection of duplex dna oligonucleotides using a sers-based micro-
+network gradient chip," lab chip, 12, 5160-5167, ) has been featured on the cover of lab
+chip journal.
+a paper ("design of pressure-driven microfluidic networks using electric circuit analogy," lab
+chip, 12, 515-545, ) has been listed as one of top ten most accessed articles in december
+. one of “lab on a chip review articles” (http://pubs.rsc.org/en/journals/
+articlecollectionlanding?sercode=lc&themeid=98c80633-4b70-41f3-947e-47c20869cad3)
+a paper ("droplet-based microfluidic device for multiple-droplet clustering," lab chip, 12, 725-
+730, ) has been listed as one of top ten most accessed articles in december . it has been
+highlighted on the loc blog ("hot articles on bubble removal, microfluidic wound-healing assays,
+multiplexed screening and more") at http://blogs.rsc.org/lc/ /12/23/hot-articles-on-bubble-
+removal-microfluidic-wound-healing-assays-multiplexed-screening-and-more/.
+a paper ("a new fabrication process for uniform su-8 thick photoresist structures by
+simultaneously removing edge bead and air bubbles," journal of micromechanics and
+microengineering (jmm), vol 21, pp125006, ) has been downloaded more than 250 times
+within 1.5 month period after online publication (from 11/03/ to 12/20/ ). to put this into
+context, across all iop (institute of physics) journals only 10% of articles were accessed over 250
+times at the 4th quarter of .
+on the cover of lab chip journal our work (byungwook ahn, kangsun lee, hun lee, rajagopal
+panchapakesan and kwang w. oh, "parallel synchronization of two trains of droplets using a
+railroad-like channel network," lab chip, 11, 3956-3962, ) has been highlighted with an
+image describing our method for droplet combination in microfluidic devices that allows passive
+parallel synchronization.
+“ee’s oh researches droplet manipulation,” buffalo engineer, spring , ub
+(http://www.eng.buffalo.edu/newsletter- ubengineering_ pdf/spring2011_newsletter.pdf)
+“equipped to succeed: federal instrumentation grants stimulate research and the economy,”
+research navigator (office of the vice president of research quarterly newsletter), spring ,
+ub, by lauren n. maynard (http://www.research.buffalo.edu/ovpr/navigator/)
+jmm highlights of , selected to highlight the quality of research published in journal of
+micromechanics and microengineering (jmm). the chosen 25 articles showcase top recent
+contributions and have been selected for being the most downloaded or of the highest quality
+according to the referees (kwang w. oh and chong h ahn, "a review of microvalves," jmm, 16,
+r13-r39, ).
+“new faculty builds on ub’s strategic strengths: the big picture on nano- and microtechnology,”
+ub engineering today (one of publications heralding important faculty/staff achievements and/or
+organizational developments), dec. , ub (http://www.eng.buffalo.edu/images/newhire.pdf)
+recognition of work, with advisee
+may brett bosinski, western new york prosperity scholarship ( - ).
+april phil schneider, the 1st place winner of ub's first annual three
+minute thesis (3mt) competition, ub's graduate school and
+blackstone launchpad
+dec. adam trimper, barbara and jack davis scholarship, seas, ub
+dec. brett bosinski, matthew r. grappone scholarship, seas, ub
+nov. phil schneider, brett bosinski, adam trimper, best posters
+awards, nsf i/ucrc: citer (center for identification
+technology research), fall program review , new york,
+25/28
+ny, november 13-15,
+sum. brett bosinski's interview was featured on ub ee website. he said that "engineering is about
+making things work, and i needed to find the major that was going to work for me. i chose
+electrical engineering because i wanted a better understanding of how modern technology works
+in order to be able to develop new technologies that will help shape society for a better future."
+sum. rittick banerjee, internship, apple inc.
+spr. phil schneider, internship, qualcomm
+fall phil schneider, western new york prosperity scholarship ( - )
+fall linfeng xu, microtas cbms travel grant
+spr. phil schneider, senior scholarship, seas, ub
+fall linfeng xu, mark diamond research award, gsa, ub
+- rajagopal panchapakesan, internship at advanced liquid logic inc., research triangle park, nc
+sum. yen jen chen, arthur a. schomburg fellowship for her graduate study at ub, summer intern at
+e-sensors, buffalo
+spr. kangsun lee, mark diamond research award, gsa, ub
+fall byungwook ahn, mark diamond research award, gsa, ub
+nicholis geile, nasa/new york space grant summer research program through cornell
+university at moog inc.
+spr. rajagopal panchapakesan, mark diamond research award, gsa, ub
+professional membership
+ieee member, institute of electrical and electronics engineers
+asme member, american society of mechanical engineers
+ksea member, korean-american scientists and engineers association
+professional activity and service to scientific community
+editorship
+– guest editor, special issue: "biomedical microfluidic devices", micromachines, mdpi (if:
+1.295).
+– editorial board member, american journal of engineering and applied sciences, science
+publications
+– editorial board member, biomedical engineering letters, springer
+– editorial board member, advanced health care technologies, dove medical press
+– guest editor, special issue: "on-chip sensors", sensors, mdpi (if: 2.245).
+– editorial board member, journal of engineering (a peer-reviewed, open access journal that
+publishes original research articles as well as review articles in chemical, civil, computer,
+electrical, industrial and mechanical engineering), hindawi publishing
+– editorial specialist, the global network of korean scientists & engineers (kosen)
+– editorial board member (international editor), an international journal, transactions on electrical
+and electronic materials (trans. electr. electron. mater.), published by the korean institute of
+electrical and electronic material engineers
+conference chair/organizer
+workshop instructor: micro & bio fluidics, lab-on-chip, may 14, , - ,
+gaylord national convention center, washington, dc (the topics in the lecture course include:
+micro- and nano-fluidics, micro- and nano-fluidic devices, biofluidics, microfluidic platform
+technologies, modeling and simulation, lab-on-a-chip, future directions)
+- symposium co-chair: micro & bio fluidics, lab-on-chip
+(http://www.techconnectworld.com/nanotech2017/sym/micro_bio_fluidics_lab-on-chip.html);
+26/28
+nanotech , washington dc, may 14-17, ;
+nanotech , washington dc, may 22-25, ;
+nanotech , washington dc, june 14-18, ;
+nanotech , washington dc, june 15-19, ;
+nanotech , washington dc, may 12-15, ;
+nanotech , santa clara, california, june 18-21,
+- scientific advisory committee, international electronic conference on sensors and applications
+ecsa , mdpi & journal sensors, november 15-30, ;
+ecsa , mdpi & journal sensors, june 1-16,
+track chair: biosensor, nanotechnology, and biomems, world congress on medical
+physics & biomedical engineering, toronto, canada, june 7-12, .
+co-organizer: energy and power in micro and nano systems, asme imece (international
+mechanical engineering congress & exposition), vancouver, canada, nov. 12-18,
+co-organizer: nanotechnology in biology and medicine, the 2nd annual integrated nanostructured
+systems (ins) workshop, ub, may
+co-organizer: energy and power in micro and nano systems, asme imece (international
+mechanical engineering congress & exposition), lake buena vista, florida, nov. 13-19,
+co-organizer: multifunctional nanomaterials and nanodevices, the 1st annual integrated
+nanostructured systems (ins) workshop, ub, may 18-19,
+grant proposal review panel
+nsf-ccss
+nsf-ccss
+nsf-epmd, nsf-ccss, swiss national science foundation
+nsf-epmd
+orau
+nsf-ccss
+nsf-career, nsf-mri, nsf-ihcs, nsf-idr
+nsf-efri
+nsf-ihcs
+european young investigators awards (euryi), consiglio nazionale delle ricerche & european
+science foundation
+nsf-epdt
+nsf-epdt
+journal/conference/book referee
+journal reviewer: analytical chemistry, analytical methods, applied physics letters, biomedical engineering
+letters, biomicrofluidics, sensors, biotechnology journal, chemcomm, lab chip, microelectronics
+engineering, microfluidics and nanofluidics, samsung journal of innovative technology, ieee sensors
+journal, sensors and actuators a & b, journal of mems, journal of micromechanics and microengineering,
+journal of micro/nanolithography, mems, and moems (jm3), physics of fluids, small
+conference proceeding reviewer: ecsa , ecsa , nanotech , nanotech , nanotech ,
+nanotech , nanotech , imece , imece , imece , imece , world congress
+on medical physics & biomedical engineering
+book proposal reviewer: introduction to nanobiosensors, artech house, inc. (12/ )
+academic service activities
+department (ee)
+- ee representative in the tenure and promotion committee of seas
+- member of graduate financial aid, reviewed policy for ta & scholarship arrangement
+- member of graduate admission committee, reviewed applicants for graduate admission
+27/28
+03/ judge, graduate student poster contest
+10/ member of publicity committee, published a two-page flyer of bs in ee department
+member of new eng. building committee (clean room, research space)
+fall member of graduate seminar
+school (seas)
+- tenure and promotion committee of seas, made recommendations for tenure and promotion of
+faculty to the rank of associate professor
+07/13/ participation, to a ub-tapecon meeting, discussed potential research opportunity between tapecon
+and ub
+01/21/ participation, to idex day on campus
+-sigma black belt mentor, mentored two students, the center for industrial effectiveness (tcie)
+05/14/ participation, to ub alumni event, "building the path to success: ub and moog, inc."
+05/12/ participation, ub engineering commencement marshals
+university (ub)
+05/ value-add (for a team “micro fluidic bubble fuse”), pre-seed workshop (05/17, 05/19,
+05/26), ub center of excellence, bioinformatics and life sciences
+04/06/ judge, ub's annual sigma xi student research poster contest
+04/01/ judge, ub's annual sigma xi student research poster contest
+co-organizer and section chair, nanotechnology in biology and medicine, the 2nd annual
+integrated nanostructured systems (ins) workshop, ub, may
+nano club advisor, nanoscale science and technology student club
+co-organizer and section chair, multifunctional nanomaterials and nanodevices, the 1st annual
+integrated nanostructured systems (ins) workshop, ub, ny, may 18-19,
+03/ - member, ub strategic strength in integrated nanostructured systems (ins)
+03/ - member, the new york state center of excellence in bioinformatics & life sciences (nys coe)
+28/28

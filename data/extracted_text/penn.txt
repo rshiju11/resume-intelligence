@@ -1,0 +1,549 @@
+nadia figueroa
+department of mechanical engineering and applied mechanics
+270 towne building, 220 s. 33rd street, philadelphia, pa 19104
+(cid:66) (cid:84)
+(cid:109) https://nbfigueroa.github.io/
+last updated: april 3,
+education
+swiss federal institute of technology lausanne (epfl) oct. – dec.
+ph.d. robotics, control and intelligent systems lausanne, switzerland
+thesis: “from high-level to low-level robot learning of complex tasks: leveraging priors, metrics
+and dynamical systems”
+advisor: aude billard
+committee: jamie paik, julie shah (mit), katherine kuchenbecker (mpi), melanie zeilinger (eth)
+tu dortmund university oct. – may
+m.sc. automation and robotics (robotics major) dortmund, germany
+∗thesis conducted at the german aerospace center (dlr)
+monterrey institute of technology (itesm) oct. – dec.
+b.sc. mechatronics (robotics minor) monterrey, mexico
+academic positions
+university of pennsylvania jan. –present
+shalini and rajeev misra presidential assistant professor philadelphia, usa
+mechanical engineering and applied mechanics (primary)
+computer and information science (secondary)
+electrical and systems engineering (secondary)
+primary faculty of grasp laboratory
+massachusetts institute of technology jan. –dec.
+postdoctoral associate cambridge, usa
+computer science and artificial intelligence lab (csail)
+department of aeronautics and astronautics
+awards and honors
+ieee transactions on robotics king-sun fu memorial best paper award march
+∗honorable mention for paper [j3].
+outstanding program committee member for acm/ieee hri march
+nominated by the technical theme chair based on the high-quality of meta-reviews and contributions to
+the program committee meeting that were insightful, constructive, and thorough.
+finalist for the agilent early career professor award may
+for early career professors with significant original research contributions and outstanding potential for
+future research enabling technologies of importance to agilent technologies and the world.
+outstanding associate editor for ieee ra-l may
+the ieee robotics and automation letters (ra-l) annually recognizes associate editors for their dis-
+tinguished service. candidates are nominated by the editor-in-chief and senior editors.
+finalist for the eurobotics georges giralt phd award march
+sponsored by eurobotics. this award is a european scientific prize for extraordinary contributions in
+robotics. it is yearly awarded at the european robotics forum.
+finalist for the epfl doctoral program distinction award june
+each year, a distinction is granted to a selection of very high quality theses, in order to highlight the
+doctoral candidates’ research work and their scientific merit.
+nominated for the abb (asea brown boveri) phd award june
+the prize is awarded, every two years, for particularly excellent doctoral work in the fields of energy and
+information technology and automation technology.
+finalist for the kuka innovation award april
+sponsored by kuka. this award is given to the top 5 finalists in a world-wide robotics innovation
+competition. our team developed an application of multiple robot arms in collaboration with a human,
+spotlight video here.
+best student paper award at robotics: science and systems june
+sponsoredbyspringer. ourworkoncoordinatedmulti-armmotionplanningwasalsoselectedasfinalist
+for best conference paper award and best systems award. spotlight video here.
+human-robot interaction (hri) pioneer march
+hri pioneers identifies and empowers the world’s top student researchers early in their careers.
+publications (1159 citations, h-index: 20)
+books
+[b1] billard, a., mirrazavi salehian, s. s. and figueroa, n. “learning for adaptive and reactive robot
+control: adynamicalsystemsapproach.”intelligent robotics and autonomous agents series, mit
+press, . https://mitpress.mit.edu/ /
+refereed journals and transactions
+[j1] sun, s., gao, h., li, t. and figueroa, n. “directionality-aware mixture model parallel sampling
+forefficientlinearparametervaryingdynamicalsystemlearning.” ieee robotics and automation
+letters (ra-l), may .
+[j2] koptev,m.,figueroa, n.andbillard,a.“reactivecollision-freemotiongenerationinjointspace
+via dynamical systems and sampling-based mpc.” the international journal of robotics research
+(ijrr), march .
+[j3] fourie, c., figueroa, n. and shah, j. “on-manifold strategies for reactive dynamical system
+modulation with non-convex obstacles.”ieee transactions on robotics (tro). march
+[j4] jin, l., yang, y., maldonado, b.o.t., lee, s.d., figueroa, n., full, r.j. and yang, s., “ultra-
+fast, programmable, and electronics-free soft robots enabled by snapping metacaps.” advanced
+intelligent systems, feb. . https://doi.org/10.1002/aisy.202300039.
+[j5] koptev, m., figueroa, n., billard, a. “neural joint-space implicit distance functions for reactive
+robot manipulator control”. ieee robotics and automation letters (ra-l), vol. 8, no. 2, pp.
+480-487, feb.
+[j6] figueroa, n., billard, a. “locally active globally stable dynamical systems: theory, learning
+and experiments.” the international journal of robotics research (ijrr), 41(3):312-347,
+[j7] koptev, m., figueroa, n. and billard, a. “real-time self-collision avoidance in joint space for
+humanoid robots.”ieee robotics and automation letters (ra-l), 6(2): 1240-1247. .
+[j8] shavit, y., figueroa, n., et al. “learning augmented joint-space task-oriented dynamical sys-
+tems: a linear parameter varying and synergetic control approach”. ieee ra-l. .
+[j9] mirrazavi salehian, s. s., figueroa, n. and billard, a. “a unified framework for coordinated
+multi-arm motion planning.” the international journal of robotics research, 37(10), 1205-1232,
+.
+[j10] figueroa, n., et al. “a combined approach toward consistent reconstructions of indoor spaces
+based on 6d rgb-d odometry and kinectfusion”. acm tist, 6(2):14, .
+[j11] dong. h., figueroa, n. and el saddik, a. “elicitation study on gesture preferences and memora-
+bility towards a practical hand-gesture vocabulary for smart tvs”. ieee access, .
+[j12] dong. h., figueroa, n. and el saddik, a. “load balance control for a humanoid musculoskeletal
+arm in table tennis”. intl. journal of control, automation and systems, 4:887-896, .
+[j13] dong, h., figueroa, n., el saddik, a. “adaptive load-distributed muscle coordination method for
+kinematically redundant musculoskeletal humanoid systems”. ras, -69, .
+[j14] dong, h., ugalde, i., figueroa, n. and el saddik, a. “towards whole body fatigue assessment of
+human movement”. sensors, 14(2): - , .
+[j15] ali, h., shafait, h., giannakidou, e., vakali, a., figueroa, n., varvadoukas, t. and mavridis, n.
+“contextual object category recognition for rgb-d scene labeling”. ras, 62(2):241-256, .
+[j16] dong, h., giakoumidis, n., figueroa, n. and mavridis, n. “approaching behaviour monitor and
+vibration indication in developing a general moving object alarm system”. jars, 10, .
+[j17] figueroa, n., schmidt, f., etal. “jointoriginidentificationofarticulatedrobotswithmarker-based
+multi-camera optical tracking systems”. robotics and autonomous systems, 61(6):580-592, .
+refereed conference proceedings
+[c1] srikanthan, a.∗, xue, y.∗, kumar, v., matni, n. and figueroa, n., “admm-mcbf-lca: a
+layered control architecture for safe real-time navigation” accepted at at ieee international
+conferences on robotics and automation (icra) , atlanta, usa. ∗equal contribution.
+[c2] unger, g., shenoy, s., li, t., figueroa, n., and sung, c., “morf: magnetic origami folding
+system for repeatably reconfigurable structures with enhanced fold angle control”. accepted at
+ieee international conferences on robotics and automation (icra) , atlanta, usa
+[c3] sun,s.andfigueroa, n.“se(3)linearparametervaryingdynamicalsystemsforgloballyasymp-
+totically stable end-effector control”. ieee/rsj iros , abu dhabi, uae.
+[c4] nawaz, f., peng, s., lindemann, l., figueroa, n. and matni, n. “reactive temporal logic-based
+planning and control for interactive robotic tasks”. ieee/rsj iros , abu dhabi, uae.
+[c5] martini, e., parekh, h., peng, s., bombieri, n., and figueroa, n. “a robust filter for marker-less
+multi-person tracking in human-robot interaction scenarios”. ieee ro-man , usa.
+[c6] shao, y., li, t., keyvanian, s., chaudhari, p., kumar, v., and figueroa, n. “constraint-aware
+intent estimation for dynamic human-robot object co-manipulation.” rss , netherlands.
+[c7] peng, s., wang, x. m. wang, shah j.a., and figueroa n. “object permanence filters for robust
+tracking with interactive robots”. ieee icra , yokohama, japan.
+[c8] nawaz, f., li, t., matni, n. and figueroa, n. “learning complex motion plans using neural
+odes with safety and stability guarantees”. ieee icra , yokohama, japan.
+[c9] zhang, z., li, t. and figueroa n. “constrained passive interaction control: leveraging passivity
+and safety for robot manipulators”. ieee icra , yokohama, japan.
+[c10] choi, h., and figueroa n. “towards feasible dynamic grasping: leveraging gaussian process
+distance fields, se(3) equivariance and riemannian mixture models”. ieee icra , japan.
+[c11] choi, h., das, s., peng, s., bajcsy, r. and figueroa n. “on the feasibility of eeg-based motor
+intention detection for real-time robot assistive control”. ieee icra , yokohama, japan.
+[c12] beik-mohammadi, h., hauberg, s., arvanitidis, g., figueroa, n., neumann, g., and rozo, l.
+“neural contractive dynamical systems”. spotlight (5% acc. rate) at iclr .
+[c13] keyvanian, s., johnson, m. j. and figueroa, n. “learning realistic joint space boundaries for
+range of motion analysis of healthy and impaired human arms.” in proc. of the ieee-ras
+22nd international conference on humanoid robots (humanoids), austin, usa,
+[c14] li, t. and figueroa, n. “task generalization with stability guarantees via elastic dynamical
+system motion policies”. in proc. of the 7th conference on robot learning (corl), nov
+[c15] wang, y., figueroa, n., li, s., shah, a. and shah, j. “temporal logic imitation: learning plan-
+satisficing motion policies from demonstrations.” in proc. of the 6th conference on robot learning
+(corl), pmlr 205:94-105, dec
+[c16] zhou, y., booth, s., figueroa, n. and shah, j. “rocus: robot controller understanding via
+sampling.” in proc. of the 5th conference on robot learning, pmlr 164:850–860, nov .
+[c17] li, s., figueroa, n., shah, a. and shah, j. “provably safe and efficient motion planning under
+uncertainty for human-robot collaboration.” in proceedings of rss xvii, virtual, july .
+[c18] figueroa, n., faraji, s., et al. “a dynamical system approach for adaptive grasping, navigation
+and co-manipulation with humanoid robots.” in proc. of the ieee icra,
+[c19] figueroa, n. and billard, a. “a physically-consistent bayesian non-parametric mixture model
+for dynamical system learning”. in proc. of the 2nd corl. zu¨rich, switzerland. october .
+[c20] mirrazavi salehian, s. s., figueroa, n. and billard, a. “dynamical system-based motion planning
+for multi-arm systems: reaching for moving objects” in proc. of the ijcai. australia.
+[c21] mirrazavi salehian, s. s., figueroa, n. and billard, a. “coordinated multi-arm motion planning:
+reaching for moving objects in the face of uncertainty.” in proc. of rss xvi, michigan, usa, .
+∗[winner of best student paper award, finalist for best conference paper & best systems paper]
+[c22] beetz, m., bessler, d., winkler, j., bartels, g., billard, a., figueroa, n., et al. “open robotics
+research using web-based knowledge services.” in proc. of the ieee icra, sweden, .
+[c23] dong, h., figueroa, n. and el saddik, a. “an elicitation study on gesture attitudes and prefer-
+ences towards an interactive hand-gesture vocabulary”. in mm ’15 proceed., .
+[c24] dong, h., figueroa, n. and el saddik, a. “towards consistent reconstructions of indoor spaces
+based on 6d rgb-d odometry and kinectfusion”. in ieee iros, pages 1796-1803, .
+[c25] dong, h., yazdkhasti, s., figueroa, n. and el saddik, a.“anti-fatigue control for over-actuated
+bionic arm with muscle force constraints”. in ieee iros, pages 335-342, .
+[c26] figueroa, n., dong, h. and el saddik, a. “from sense to print: towards automatic 3d printing
+from 3d sensing devices”. in ieee smc, pages 4897-4904, .
+[c27] dong, h., figueroa, n. and el saddik, a. “muscle force control of a kinematically redundant
+bionic arm with real-time parameter update”. in ieee smc, pages 1640-1647, .
+[c28] ali, h.andfigueroa, n.“segmentationandposeestimationofplanarmetallicobjects”. inninth
+conf. on computer and robot vision (crv), pages 376-382, .
+[c29] figueroa, n., ali, h. and schmidt, f. “3d registration for verification of humanoid justin’s upper
+body kinematics”. in ninth conference on crv, pages 276-283, .
+workshop papers and poster presentations
+[w1] gao, g., li, t., and figueroa, n., “object-centric out-of-distribution recovery with keypoint
+inverse policy for visuomotor imitation learning” presented at the corl workshop on
+lifelong learning for home robots, selected for spotlight presentation. november .
+[w2] lee, s. and figueroa, n., “towards real-time muscle-in-the-loop robotic assistants via ai-
+driven wearable ultrasound processing” presented at the northeastern robotics colloquium
+(nerc), selected for spotlight presentation. september .
+[w3] zhang, c., shao, y., parekh, h., shi, j., chaudhari, p., kumar, v., and figueroa, n. “don’t yell
+at your robot: physical correction as the collaborative interface for language model powered
+robots” presented at rss generative ai for hri (genai-hri) workshop. july .
+[w4] shao,y.,li,t.,keyvanian,s.,chaudhari,p.,kumar,v.,andfigueroa, n.“adynamicalsystem
+approach to intent estimation and co-manipulation”. in proc. of the icra workshop
+towards collaborative partners: design, shared control, and learning for physical human-robot
+interaction.
+[w5] wang, f., figueroa, n., li, s., shah, a. and shah, j. “learning plan-satisficing motion poli-
+cies from demonstrations” in proc. of the iros workshop on learning meets model-based
+methods for manipulation and grasping. ∗[winner of agile robots best student paper award]
+[w6] wang, f., figueroa, n., li, s., shah, a. and shah, j. “temporal logic imitation: learning
+ltl-satisficing dynamical systems from demonstration”. in proc. of the rss workshop on
+overlooked aspects of imitation learning: systems, data, tasks, and beyond.
+[w7] koptev, m., figueroa, n., billard, a. “implicit distance functions: learning and applications
+in control.” in proc. of the ieee icra workshop on motion planning with implicit neural
+representations of geometry.
+[w8] mirrazavi salehian, s. s., lin, h.c., figueroa, n., smith, j., mistry, m. and billard, a. “tran-
+sitioning with confidence during contact/non-contact scenarios.” in proc. of the ieee iros
+workshop on human-robot cooperation and collaboration in manipulation.
+[w9] figueroa, n. and billard, a. “modeling compositions of impedance-based primitives via dynam-
+ical systems.” in proc. of the ieee icra workshop on cognitive whole-body control for
+compliant robot manipulation (cowb-comp).
+[w10] figueroa, n. and billard, a. “multi-arm self-collision avoidance: a sparse solution for a big
+data problem.” in proc. of the third machine learning in planning and control of robot
+motion (mlpc) workshop at ieee icra.
+[w11] figueroa, n. and billard, a.“learning complex manipulation tasks from heterogeneous and
+unstructured demonstrations.” in proc. of the ieee/rsj iros workshop on synergies
+between interaction and learning.
+[w12] figueroa, n.,pais,a.l.andbillard,a.“learningcomplexsequentialtasksfromdemonstration:
+a pizza dough rolling case study.” in proc. of the acm/ieee intl. conf. on human-robot
+interaction (hri). hri pioneers.
+manuscripts under review or in preparation
+[m1] weakly, j., gong, v., kang, t., li, t., figueroa, n. and sung, c. “kgripper: a push-on twist-
+off passive perching mechanism”. under review at ieee/asme transactions on mechatronics.
+[m2] li,t.,sun,s.,aditya,s.,andfigueroa, n.“elasticmotionpolicy: real-timeadaptiveone-shot
+imitation learning with stability guarantees in full pose”. under review at iros .
+[m3] gao, j., li, t. and figueroa, n. “out-of-distribution recovery with object-centric keypoint
+inverse policy for visuomotor imitation learning ”. under review at iros .
+[m4] zhang, z., xue, y., figueroa, n. and akesson, k. “gradient field-based dynamic window ap-
+proach for collision avoidance in complex environments”. under review at iros .
+[m5] das, s., xue, y., li, h. and figueroa, n. “rnbf: real-time rgb-d based neural barrier
+functions for safe robotic navigation”. under review at iros .
+[m6] xue, y.andfigueroa, n., “nominima, nocollisions: combiningmodulationandcontrolbarrier
+function strategies for feasible dynamic collision avoidance”. in preparation for tro.
+[m7] martini, e., bombieri, n., and figueroa, n. “a lightweight and low-bandwidth aggregator for
+multi-view 3d human pose tracking”. in preparation for information fusion.
+grants and funding
+[g1] penn engineering ai-enabled systems: safe, explainable, and trustworthy (asset) center and
+institute for biomedical informatics (ibi) collaborative research in trustworthy ai for medicine.
+from thought to action: deciphering neuromuscular control via non-invasive biosignal tracking
+for real-time personalized robotic assistants,
+pi [co-pis: flavia vitale, ruzena bajcsy], 05/01/ –05/30/ , $100,000
+[g2] national science foundation - foundational research in robotics (nsf-frr) #2328476,
+travel: inclusion at robotics: science and systems ; daegu, republic of korea; 10-14 july ,
+pi [co-pi: leonardo bobadilla (florida international university)], 8/01/ –7/01/ , $30,000.
+invited talks, seminars and lectures
+human-centric robot learning and control for physical interaction:
+a dynamical systems approach
+special seminar at amazon robotics research labs. westborough, massachusetts jan
+special seminar at tu darmstadt. darmstadt, germany dec
+a layered control architecture for safe, reactive, and useful
+physical human-robot interaction
+control architectures theory (cat) workshop - ieee cdc , milan, italy dec
+from motion to interaction: a dynamical systems approach for human-centric
+robot learning and control
+autonomy talks seminar series, youtube nov
+a 2-day workshop on “learning for adaptive and reactive robot control”
+imparted four 2-hour lectures across 2 days on foundational topics related to my research.
+chalmers university of technology, g¨othenberg, sweden may
+debates on the future of robotics research
+debate 3: generative ai will make a lot of traditional robotics approaches obsolete.
+debated against this thesis @ icra yokohama, japan may
+safety, adaptation and efficient learning in physical human-robot interaction:
+a dynamical systems approach
+chalmers university of technology, g¨othenberg, sweden may
+boston dynamics ai institute robotics seminar, cambridge, massachusetts april
+oregon state university robotics seminar, corvallis, oregon feb
+caltech mechanical and civil engineering department seminar, pasadena, california feb
+5th learning for dynamics and control conference (l4dc), philadelphia, pa [keynote] june
+towards flexible human-centric automation via efficient learning of adaptive skills with
+control-theoretic guarantees
+iros workshop on robotics & ai in future factory, detroit, usa oct
+collaborative robots in the wild: challenges and future directions from a human-centric
+perspective
+princeton robotics seminar series, princeton university dec.
+illinois robotics seminar series, university of illinois urbana-champaign nov.
+seminar at the center for cognition, action, and perception, university of cincinnati oct.
+the international symposium on robotics research (isrr), geneva, switzerland sept
+multi-arm robots and human cooperation
+us-eu workshop on intelligent manufacturing, prague, czech republic june
+towards safe and efficient learning and control for physical human robot interaction
+iclr workshop on generalizable policy learning in the physical world. april
+iros workshop on from human-robot interaction to collaborative control. sept.
+nyu courant computer science spring colloquium. april
+university of pennsylvania grasp/meam department seminar. mar.
+mit eecs department special seminar. mar.
+yale mems department research seminar. feb.
+efficient learning and adaptive motion planning for and from physical human robot
+interaction
+mit aeroastro humans interacting with autonomy virtual workshop. jan.
+from high-level to low-level robot learning of complex tasks: leveraging priors, met-
+rics and dynamical systems
+robotics research seminar, university of washington, seattle, usa. aug.
+robotics research seminar, mit csail, cambridge, usa. july
+teaching robots complex manipulation tasks from demonstrations
+swiss ai machine learning meetup, lausanne, switzerland dec
+a physically-consistent bayesian non-parametric mixture model for dynamical system
+learning
+swiss machine learning day , lausanne nov
+invariant and weakly-parameterized algorithms for efficient robot learning: tackling the
+micro-data challenge
+iros’17 workshop on micro-data: the next frontier in robot learning? sept
+discovering primitive motions from unstructured heterogeneous demonstrations
+swiss machine learning day , lausanne oct
+3d computer vision and applications in robotics and multimedia
+seminar for nyu ad research rounds june
+teaching experience
+university of pennsylvania philadelphia, usa
+meam-6230: learning and control for adaptive and reactive robots
+∗new advanced graduate-level course, technical elective for robotics tracks. spring
+meam-3200: introduction to mechanical and mechatronic systems
+∗undergraduate-level, compulsory for dynamics, control and robotics concentration fall
+meam-5200: introduction to robotics
+∗graduate-level, compulsory for robotics masters program spring
+fall
+spring
+spring
+e´cole polytechnique f´ed´erale de lausanne (epfl) lausanne, switzerland
+micro-570: advanced machine learning (head ta) spring
+spring
+micro 401: machine learning programming (head ta) fall
+fall
+micro-455: applied machine learning (ta) fall
+tu dortmund university dortmund, germany
+object oriented programming for automation and robotics (ta) fall
+student & researcher supervision
+(⋄) = current, (⋆)=graduated, (→)=next position
+phd students
+⋄ ho jin choi (mechanical engineering and applied mechanics) -present
+⋄ farhad nawaz (electrical and systems engineering) -present
+∗co-advised with nikolai matni
+∗∗internship at honda research institute usa during fall -spring .
+⋄ yifei simon shao (computer and information science) -present
+∗co-advised with vijay kumar and pratik chaudhari
+∗∗internship at amazon lab126 during fall .
+⋄ shafagh keyvanian (mechanical engineering and applied mechanics) -present
+∗co-advised with michelle johnson
+⋄ yifan xue (mechanical engineering and applied mechanics) -present
+⋄ tianyu li (mechanical engineering and applied mechanics) -present
+∗∗internship at amazon robotics during fall .
+research engineers
+⋄ sunan sun (m.s. in robotics, -present
+⋆ harshil parekh (m.s. in robotics,
+→ robotics software engineer at botbuilt, started fall
+visiting students
+⋆ ze zhang (automation, chalmers university of technology, sweden) fall
+∗phd candidate and visiting research scholar advised by knut ˚akesson
+⋆ enrico martini (computer science, university of verona, italy) spring
+∗phd candidate and visiting research scholar advised by nicola bombieri
+masters theses
+⋄ paul [sanghyub] lee (m.s. in robotics) -present
+thesis: “towards real-time muscle health monitoring and muscle-in-the-loop robotic
+assistants via ai-driven wearable ultrasound processing”
+⋄ george [jiayuan] gao (m.s. in robotics) -present
+thesis: “visuomotor object-centric out-of-distribution recovery policy”
+⋆ ho jin choi (m.s. mechanical engineering and applied mechanics) -
+thesis: “gaussian process-based active exploration strategies in vision and touch”
+committee: michael posa and cynthia sung
+⋆awarded outstanding master’s researcher award in mechanical engineering and applied mechanics
+→ summer internship at mitsubishi electric research labs (merl) cambridge, ma
+→ ph.d. candidate in mechanical engineering and applied mechanics (penn), started fall
+⋆ zhiquan zhang (m.s. electrical and systems engineering) -
+thesis:“real-timesafety-criticalpassivetorquecontrolwithanalyticandlearning-basedconstraints”
+⋆awarded best master’s thesis in electrical and systems engineering
+→ ph.d. candidate at university of illinois urbana-champaign (uiuc), started fall
+⋆ haihui gao (m.s. electrical and systems engineering) -
+thesis: “advancing dynamical systems in learning from demonstration: a novel approach for mod-
+eling self-crossing trajectories” ⋆dual m.s. in mechanical engineering and applied mechanics
+→ ph.d. candidate at university of montreal, started spring
+⋆ satyajeet das (m.s. electrical and systems engineering) -
+thesis: “towards vision-based safety: a real-time approach for generating barrier functions using
+depth sensors”
+→ ph.d. candidate at university of southern california (usc), started fall
+⋆ haoming li (m.s. electrical and systems engineering) -
+thesis: “towards robust slam with neural implicit representations”
+→ reserch engineer at the university of pennsylvania
+⋆ dain kim (m.eng. in electrical engineering and computer science @ mit) -
+thesis: “imitation learning for sequential manipulation tasks: leveraging language and perception”
+https://dspace.mit.edu/handle/1721.1/139416
+massachusetts institute of technology, co-advisor: julie shah (mit)
+→ software engineer at academia.edu
+non-thesis masters research
+⋄ jalaj shukla (m.s. in meam, -present
+⋆independent study spring
+⋄ jingshuo li (m.s. in meam, -present
+⋆independent study spring
+⋄ natey kim (m.s. in robotics, -present
+⋆independent study spring
+⋄ felix [yuchen] zheng (m.s. in robotics, -present
+∗independent study spring
+⋄ zizhe zhang (m.s. in ese/robotics, -present
+⋆research intern spring
+⋄ mateusz jaszczuk (m.s. in meam, -present
+⋆research intern spring
+⋄ ekaterina skorniakova (m.s. in robotics, -present
+∗research intern fall - spring
+⋄ davin tjandra (m.s. in meam, -present
+∗research intern fall - spring
+⋄ yi-hsuan cheng (m.s. in robotics, -present
+∗research intern fall , independent study spring
+⋄ shubhodeep shiv aditya (m.s. in robotics, -present
+∗research intern summer - fall , independent study spring
+⋄ yihan li (m.s. in robotics, -present
+∗independent study fall
+⋆ yuxin li (m.s. in meam,
+∗independent study fall
+⋆ shaoting peng (m.s. in robotics,
+∗independent study fall , research intern spring -spring
+→ ph.d. candidate at university of illinois urbana-champaign (uiuc), starting fall
+⋆ atharva makarand pradhan (m.s. in meam,
+∗independent study fall , research intern spring
+→ software engineer at noah medical, started fall
+⋆ lance tan (m.s. in dats,
+∗independent study spring
+⋆ parth sanghavi (m.s. in meam,
+∗independent study spring
+⋆ qi xue (m.s. in cis,
+∗independent study fall
+⋆ vaibhav wanere (m.s. in meam,
+∗independent study summer
+undergraduate research
+⋆ natey kim (bioengineering)
+⋆ purm summer scholarship recipient
+⋆ michael north (bioengineering)
+⋆ purm summer scholarship recipient
+external collaborations
+⋆ dr. mikhail koptev (swiss federal institute of technology lausanne) -
+advisor: aude billard
+⋆external advisory role in thesis and collaborative publications [j2,j5,j7,w7]
+⋆ dr. christopher fourie (massachusetts institute of technology) -
+advisor: julie shah
+⋆direct advisory and collaborative publication [j3]
+⋆ dr. hadi beik-mohammadi (bosch ai/kit, germany) -
+advisors: leonel rozo, søren hauberg, gerard neumann
+⋆collaborative publication [c12]
+doctoral dissertation committees
+⋄ anusha srikanthan (electrical and systems engineering) -present
+∗reader role. university of pennsylvania, advisor: nikolai matni and vijay kumar
+⋄ sittinon ‘non’ nuethong (bioengineering) -present
+∗reader role. university of pennsylvania, advisor: josh baxter
+⋄ francis (olaoluwaotan) sowande, (mechanical engineering and applied mechanics) -present
+∗reader role. university of pennsylvania, advisor: michelle johnson
+⋄ erica waters, (mechanical engineering and applied mechanics) -present
+∗chair role. university of pennsylvania, advisor: michelle johnson
+⋄ elizabeth “bibit” bianchini (mechanical engineering and applied mechanics) -present
+∗chair role. university of pennsylvania, advisor: michael posa
+⋄ tuan anh nguyen (bioengineering) -present
+∗reader role. university of pennsylvania, advisor: michelle johnson
+⋄ victoria edwards (mechanical engineering and applied mechanics) -present
+∗chair role. university of pennsylvania, advisor: m. ani hsieh
+⋄ christopher kim (mechanical engineering and applied mechanics) -present
+∗reader role. university of pennsylvania, advisor: cynthia sung
+⋆ william yang (mechanical engineering and applied mechanics) -present
+∗chair role. university of pennsylvania, advisor: michael posa
+⋆ maria-elisabeth tzes (electrical and systems engineering)
+∗reader role. university of pennsylvania, advisor: george pappas
+⋆ christopher fourie (aeronautics and astronautics)
+∗external reader role. massachusetts institute of technology, advisor: julie shah
+professional memberships
+ieee member -present
+ieee robotics and automation society (ras) member -present
+service
+(⋄) = current role, (⋆)=past
+leadership
+⋄ workshop chair for the ieee-ras international conference on humanoid robots (humanoids
+) at coex, seoul, south korea, from september 30 to october 2,
+⋄ industry chair for the ieee/sice international symposium on system integration (sii), january
+in cancun, mexico
+⋄ interim-chair of ieee women in engineering (ieee-wie) at robotics and automation society.
+appointed january . have been co-chair since . spearheading the idea: inclusion, diversity,
+equity & accessibility travel support program for ras conferences. site: here.
+⋄ wie representative of the ieee-ras diversity, equity, and inclusion initiatives committee
+⋆ bridge programs chair for the 39th annual aaai conference on artificial intelligence, february
+25 - march 4, in philadelphia, pennsylvania, usa.
+⋆ edi chair of equity, diversity, and inclusion for the ieee-ras international conference on
+humanoid robots (humanoids), november 22-24, in nancy, france.
+⋆ edi chair of equity, diversity, and inclusion for the ieee-ras international conference on
+humanoid robots (humanoids), december 12-13, in austin, usa.
+⋆ co-chair of the fellowship program for the 19th edition of robotics: science and
+systems, jul 10 – jul 14, in daegu, republic of korea. raised $42k usd from nsf, google
+andtriforanall-expensesincludedtravelfellowshipto16studentsfromunderrepresentedbackground
+in robotics. website: here
+⋆ treasurer, communitydevelopment co-chair(2020fy)andinnovation co-chair(fall2021)
+for the mit researchers and postdocs association of aeronautics and astronautics (rpa3).
+⋆ postdoc representative in the inaugural csail postdoc and graduate student council (cpgsc)
+at mit csail led by prof. daniela rus. site: https://www.csail.mit.edu/cpgsc
+⋆ postdoc representative in the csail culture committee led by prof. daniel jackson focused on
+improving community and culture at csail.
+⋆ part of the team of mit postdocs that conducted and analyzed results on the “postdoc hiring and
+recruitment at mit survey”. the full report can be found here.
+⋆ organized and moderated the “picture a scientist” virtual film screening and panel discussion in
+january . event details here.
+⋆ mentor within the minds matter boston (mmb) program for the junior class of - .
+editorial roles
+⋄ area chair for robotics: science and systems (rss) conference to be held june 21 – june 25,
+in los angeles, california
+⋄ associate editor for acm transactions in human-robot interaction (thri), start october .
+⋄ associate editor for the “robot learning 2” area of the ieee robotics and automation letters
+(ra-l), appointed july - to date, began second 3-year term in july .
+⋄ area chair for the 7th annual learning for dynamics & control conference (l4dc) to be held in
+the university of michigan, ann arbor on june 4-6, .
+⋆ associate editor for the ieee international conference on robotics & automation (icra) to
+be held on 19–23 may in atlanta, usa.
+⋆ area chair of systems theme for the acm/ieee international conference on human robot
+interaction (hri) to be held from march 4-6, in melbourne, australia
+⋆ associate editor for international symposium on robotics research (isrr) to be held from
+december 8-12 in long beach, california.
+⋆ area chair for the 5th annual learning for dynamics & control conference (l4dc). university of
+pennsylvania june 14-16, in philadelphia, pennsylvania.
+⋆ area chair of technical theme for the acm/ieee international conference on human robot
+interaction (hri) held from march 13-16, in stockholm, sweden.
+⋆ associate editor for the the international symposium on robotics research (isrr) held from
+september 26-20 in geneva, switzerland.
+workshop & tutorial organization
+⋄ co-organizer workshop on “structured learning for efficient, reliable, and transparent robots” at
+international conference on robotics and automation (icra) to be held in atlanta, usa may .
+⋆ co-organizer workshop on “generative modeling meets hri (genai-hri)” at robotics science
+and systems (rss) conference. july 15, . delft, netherlands, website here
+⋆ co-organizer workshop on “geometry, physics, and human knowledge as inductive bias in robot
+learning” at the conference on robot learning (corl). auckland, new zealand. website here
+⋆ co-organizer“2ndworkshoponbi-manualmanipulation”atthe2022ieeeinternationalconference
+on robotics and automation (icra). philadelphia, usa. website here
+⋆ co-organizer “workshop on collaborative robots and the work of the future” at the ieee
+international conference on robotics and automation (icra). philadelphia, usa. website here
+⋆ co-chair of the ieee ras technical committee on collaborative automation for flexible manufac-
+turing (since august ).
+⋆ co-organizer“workshoponjointaction,adaptationandentrainment”atthevirtual2022acm/ieee
+international conference on human-robot interaction (hri). website here.
+⋆ co-organizer “tutorial on dynamical system-based learning from demonstration” at the in-
+ternational conference on robotics and automation (icra) in montreal, canada. website here.
+⋆ co-organizer “tutorial on dynamical system-based learning from demonstration” offered at the
+robotics: science and systems conference (rss) conference. [tutorial cancelled due to us im-
+migration policy. materials presented at epfl and available here]
+journal reviews
+• international journal of robotics research
+• ieee transactions on robotics
+• ieee robotics and automation letters
+• ieee robotics and automation magazine
+• acm transactions in human-robot interaction
+• ieee transactions on cognitive and developmental systems
+• international journal of social robotics
+conference reviews
+• ieee/rsj international conference on intelligent robots and systems
+• ieee international conference on robotics and automation
+• robotics: science and systems
+• conference on robot learning
+• ieee-ras international conference on humanoid robots
+grant proposal reviews
+• national science foundation (frr)
+departmental service
+meam phd admissions committee , ,
+member of 6 meam phd dissertation committees (reader and chair roles) -present
+member of 2 bioengineerring phd dissertation committees (reader roles) -present
+member of 2 ese phd dissertation committee (reader role)
+member of 5 meam phd qualifying exam committees (math examiner) ,
+member of 1 cis wpe-ii exam committee
+press coverage
+• featured quotes in “mit engineers aim to advance household robots with ai integration” by pym-
+nts. april 8, .
+• featured quotes in “what are industrial robots?” by brooke becher. builtin. november 13, .
+• “getting dressed with the help from robots,” by rachel gordon. mit news. july 12, .
+mentioned in ieee spectrum, techcrunch, fastcompany, the next byte podcast, etc.
+• “more transparency and understanding into machine behaviors,” by rachel gordon. csail and mit
+news. march 22, .

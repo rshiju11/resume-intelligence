@@ -1,0 +1,302 @@
+grigory fedyukovich
+current assistant professor (tenure track): computer science department
+position at florida state university
+automated program verification:
+• solving constrained horn clauses, (quantified) invariant synthesis, specification
+synthesis, ranking function synthesis
+• verification of security properties such as non-interference
+research regression/incremental verification:
+interests • program equivalence and program simulation
+• function summarization based on craig interpolation
+program synthesis:
+• functional (skolem) synthesis via lazy quantifier elimination
+• enumerative synthesis for automatic parallelization of loops
+email / web www.cs.fsu.edu/~grigory
+affiliation history
+assistant professor (tenure track): computer science department at florida state
+aug - …
+university
+postdoc: computer science department at princeton university;
+oct - supervised by: prof. aarti gupta;
+aug projects: syntax-guided techniques in automated formal verification, verification and
+synthesis for security
+postdoc: paul g. allen school of computer science & engineering at university of
+washington (uw), seattle, usa;
+jan –
+supervised by: prof. rastislav bodík;
+oct
+projects: automatic parallelization of single pass array-handling programs; horn-based
+verification of functional programs, probabilistic sygus-based invariant synthesis
+phd: faculty of informatics, università della svizzera italiana (usi), lugano, switzerland;
+oct –
+supervised by: prof. natasha sharygina;
+dec
+thesis: automated incremental software verification
+apr – internship: school of computing, national university of singapore, singapore;
+oct project: verification of quantified properties over lists in coq
+jun – internship: logic and semantics group at tallinn institute of cybernetics, estonia;
+mar project: a coq formalization of an analysis and optimization of while
+specialist degree (diplom): department of computer science, faculty of mathematics and
+–
+mechanics, saint petersburg state university, russia
+collaboration
+topic: solving constrained horn clauses using syntax and data
+collaboration with: prof kumar madhukar, sumanth prabhu, tcs research, pune, india
+– …
+publications: fmcad , cav , pldi
+tool development: freqhorn, hornspec
+topic: environment invariants for hardware verification
+collaboration with: prof aarti gupta, prof sharad malik, princeton university, usa
+publication: vmcai
+tool development: grain
+topic: fold/unfold transformations for fixpoint logic
+collaboration with: prof naoki kobayashi, university of tokyo, japan
+publication: tacas
+tool development: mu2chc
+topic: synthesis from skolemized proofs of realizability
+collaboration with: dr. michael w. whalen, university of minnesota, usa
+–
+publication: tacas , ase
+tool development: ae-val, jsyn
+topic: smt-based incremental bounded model checking
+collaboration with: dr. hana chockler, king’s college, london, uk
+– … and prof. natasha sharygina, usi, switzerland
+publications: tacas , sat , lpar , fmcad , sas
+tool development: hifrog, upprover
+topic: chc-based model checking
+collaboration with: prof. arie gurfinkel, university of waterloo, canada
+– …
+publications: nfm , lpar , cav , iccad
+tool development: niagara, spacer
+topic: partial interpolation framework
+collaboration with: prof. jan kofroň, charles university, czech republic
+–
+publication: fase
+tool development: evolcheck, pvair
+eu project pincette: number 257647, supported by european community under the call
+fp7-ict- -5;
+topic: validating changes and upgrades in networked software;
+– collaboration with: university of oxford, ibm israel, university of milano bicocca, vtt
+finland, israel aerospace industries ltd., abb schweiz, and abb germany
+publications: fmcad , tacas , lpar , issta
+tool development: evolcheck, funfrog
+grants and fellowships
+amazon research award: “applying freqhorn to verification of aws c common programs”, 60 000
+usd
+university of tokyo – princeton strategic partnership grant, 10 000 usd to support a new research
+collaboration with prof naoki kobayashi
+postdoc award, university of washington, 23 000 usd for a project on horn-based symbolic model
+checking
+early postdoc.mobility fellowship, swiss national science foundation, ~100 000 usd for 18 months
+at university of washington
+service
+program committee member: conference on formal methods in computer-aided design
+(fmcad), workshop on horn clauses for verification and synthesis (hcvs), workshop on
+verification and program transformation (vpt), working conference on verified software:
+theories, tools, and experiments (vstte), symposium on model checking of software (spin),
+conference on automated software engineering (ase, tool demonstrations track)
+grant proposal reviewer: israel science foundation (isf)
+journal reviewer: transactions on software engineering (tse), acm transactions on programming
+languages and systems (toplas)
+sub-reviewer: conference on computer aided verification (cav), symposium on logic in computer
+science (lics)
+program committee member: conference on formal methods in computer-aided design
+(fmcad), workshop on horn clauses for verification and synthesis (hcvs), working conference on
+verified software: theories, tools, and experiments (vstte), conference on verification, model
+checking, and abstract interpretation (vmcai )
+grant proposal reviewer: national science foundation (nsf)
+journal reviewer: journal of logical and algebraic methods in programming (jlamp), transactions
+on software engineering (tse)
+sub-reviewer: conference on computer aided verification (cav), conference on tools and
+algorithms for the construction and analysis of systems (tacas )
+program chair: workshop on horn clauses for verification and synthesis (hcvs), student forum at
+the conference on formal methods in computer-aided design (fmcad), competition on
+satisfiability of constrained horn clauses (chc-comp)
+program committee member: conference on computer aided verification (cav), seventh
+workshop on verification and program transformation (vpt)
+journal reviewer: acm transactions on software engineering and methodology (tosem, two
+times), software quality journal
+sub-reviewer: nasa formal methods symposium (nfm), conference on tools and algorithms for
+the construction and analysis of systems (tacas )
+program chair: workshop on verification and synthesis for software evolution (vsse)
+program committee member: symposium on automated technology for verification and analysis
+(atva)
+artifact evaluation committee member: conference on computer aided verification (cav)
+organization committee member: competition on satisfiability of constrained horn clauses (chc-
+comp)
+journal reviewer: acm transactions on programming languages and systems (toplas), acm
+transactions on software engineering and methodology (tosem)
+sub-reviewer: conference on formal methods in computer-aided design (fmcad), symposium on
+model checking of software (spin), conference on computer aided verification (cav)
+local organization chair: conference on runtime verification (rv)
+program committee member: conference on runtime verification (rv), workshop on horn
+clauses for verification and synthesis (hcvs)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas ), haifa verification conference (hvc), conference on formal methods in computer-
+aided design (fmcad), static analysis symposium (sas), conference on software engineering and
+formal methods (sefm), conference on computer aided verification (cav)
+program chair: workshop on verification and synthesis for software evolution (vsse)
+program committee member: journal on software tools for technology transfer (sttt, selected
+papers at tacas), journal of automated reasoning (jar, selected papers at vstte)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas ), symposium on formal methods (fm), conference on formal methods in computer-
+aided design (fmcad), conference on verified software: theories, tools, and experiments (vstte),
+conference on computer aided verification (cav), workshop on horn clauses for verification and
+synthesis (hcvs)
+sub-reviewer: conference on formal methods in computer-aided design (fmcad), journal of
+automated reasoning (jar, special issue on interpolation techniques for program verification and
+synthesis), conference on computer aided verification (cav), symposium on formal methods
+(fm), nasa formal methods symposium (nfm)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas ), conference on formal methods in computer-aided design (fmcad), ershov
+informatics conference (psi), conference on computer aided verification (cav)
+organization committee member: workshop on validation strategies for software evolution
+(vsse)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas ), conference on formal methods in computer-aided design (fmcad), workshop on
+validation strategies for software evolution (vsse)
+organization committee member: conference on computer aided verification (cav)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas ), conference on formal methods in computer-aided design (fmcad), conference on
+design, automation and test in europe (date), symposium on games, automata, logics and
+formal verification (gandalf), working conference on verified software: theories, tools, and
+experiments (vstte), conference on computer aided verification (cav)
+sub-reviewer: conference on formal methods in computer-aided design (fmcad), conference on
+formal methods and models for system design (memocode)
+sub-reviewer: conference on tools and algorithms for the construction and analysis of systems
+(tacas )
+organization committee member: conference on formal methods in computer-aided design
+(fmcad), alpine verification meeting (avm)
+software
+–
+adtind, smt-based theorem prover
+…
+– freqhorn / freqterm/hornspec, sygus-based constrained-horn-clause solver, termination / non-
+… termination prover, specification synthesizer
+– ae-val, functional synthesizer for linear arithmetic (via lazy quantifier elimination and extracting
+… skolem functions)
+– rosette/unbound, constrained-horn-clause-based invariant synthesizer for functional programs in
+racket
+–
+niagara, constrained-horn-clause-based incremental model checker for c
+hifrog / funfrog / evolcheck, incremental sat/smt-based bounded model checker for c with
+–
+function summarization, automated detection of recursion depth, checking assertion dependencies,
+support for flexible interpolation, and upgrade checking capabilities
+journal publications and book chapters
+grigory fedyukovich, samuel j. kaufman, rastislav bodík:
+learning inductive invariants by sampling from frequency distributions. formal methods syst. des.
+56(1): )
+pavel jancík, jan kofroň, leonardo alt, grigory fedyukovich, antti e. j. hyvärinen, natasha
+sharygina:
+exploiting partial variable assignment in interpolation-based model checking. fmsd 55(1): 33-71
+grigory fedyukovich, ondrej sery, natasha sharygina:
+flexible framework for incremental upgrade checking. sttt, 19(5): 517-534
+hana chockler, daniel kroening, leonardo mariani, natasha sharygina (editors)
+validation of evolving software. (4 chapters)
+peer reviewed conference publications
+yurii kostyukov, dmitry mordvinov, grigory fedyukovich:
+beyond the elementary representations of program invariants over algebraic data types. pldi
+: 451-465
+sumanth prabhu s, grigory fedyukovich, kumar madhukar, deepak d'souza:
+specification synthesis with constrained horn clauses. pldi (distinguished): 1203-1217
+grigory fedyukovich, gidon ernst:
+bridging arrays and adts in recursive proofs. tacas (2) : 24-42
+lauren pick, grigory fedyukovich, aarti gupta:
+unbounded procedure summaries from bounded environments. vmcai : 291-324
+sepideh asadi, martin blicha, antti e. j. hyvärinen, grigory fedyukovich, natasha sharygina:
+incremental verification by smt-based summary repair. fmcad : 77-82
+hari govind v. k., grigory fedyukovich, arie gurfinkel:
+word level property directed reachability. iccad : 107:1-107:9
+andreas katis, grigory fedyukovich, jeffrey chen, david a. greve, sanjai rayadurgam, michael w.
+whalen:
+synthesis of infinite-state systems with random behavior. ase : 250-261
+sepideh asadi, martin blicha, antti e. j. hyvärinen, grigory fedyukovich, natasha sharygina:
+farkas-based tree interpolation. sas : 357-379
+naoki kobayashi, grigory fedyukovich and aarti gupta:
+fold/unfold transformations for fixpoint logic, tacas (2), 195-214
+hongce zhang, weikun yang, grigory fedyukovich, aarti gupta and sharad malik:
+synthesizing environment invariants for modular hardware verification, vmcai, 202-225
+dmitry mordvinov and grigory fedyukovich:
+property directed inference of relational invariants, fmcad: 152-160
+grigory fedyukovich and aarti gupta:
+functional synthesis with examples, cp: 547–564
+weikun yang, grigory fedyukovich, and aarti gupta
+lemma synthesis for automating induction over algebraic data types, cp: 600-617
+grigory fedyukovich, sumanth prabhu, kumar madhukar, aarti gupta:
+quantified invariants via syntax-guided synthesis, cav: 259-277
+grigory fedyukovich, arie gurfinkel and aarti gupta
+lazy but effective functional synthesis, vmcai: 92-113
+sepideh asadi, martin blicha, grigory fedyukovich, antti hyvärinen, karine even-mendoza, natasha
+sharygina and hana chockler:
+function summarization modulo theories, lpar: 56-75
+grigory fedyukovich, sumanth prabhu, kumar madhukar, aarti gupta:
+solving constrained horn clauses using syntax and data, fmcad: 170-178
+grigory fedyukovich, yueling zhang, aarti gupta:
+syntax-guided termination analysis. cav (1): 124-143
+lauren pick, grigory fedyukovich, aarti gupta:
+exploiting synchrony and symmetry in relational verification. cav (1) : 164-182
+andreas katis, grigory fedyukovich, huajun guo, andrew gacek, john backes,
+arie gurfinkel, michael whalen:
+validity-guided synthesis of reactive systems from assume-guarantee contracts. tacas (2): 176-
+193
+grigory fedyukovich, rastislav bodík:
+accelerating syntax-guided invariant synthesis. tacas (1): 251-269
+grigory fedyukovich, samuel kaufman, rastislav bodík:
+sampling invariants from frequency distributions. fmcad: 100-107
+antti eero johannes hyvärinen, sepideh asadi, karine even-mendoza,
+grigory fedyukovich, hana chockler, natasha sharygina:
+theory refinement for program verification. sat: 347-363
+grigory fedyukovich, maaz bin safeer ahmad, rastislav bodík:
+gradual synthesis for static parallelization of single-pass array-processing programs. pldi: 572-
+585
+dmitry mordvinov, grigory fedyukovich:
+synchronizing constrained horn clauses. lpar: 338-355
+leonardo alt, sepideh asadi, hana chockler, karine even-mendoza,
+grigory fedyukovich, antti eero johannes hyvärinen, natasha sharygina:
+hifrog: smt-based function summarization for software verification. tacas (2): 207-213
+grigory fedyukovich, rastislav bodík:
+approaching symbolic parallelization by synthesis of recurrence decompositions. 55-
+66
+grigory fedyukovich, arie gurfinkel, natasha sharygina:
+property directed equivalence via abstract simulation. cav (2): 433-453
+pavel jancík, leonardo alt,
+grigory fedyukovich, antti eero johannes hyvärinen, jan kofroň, natasha sharygina:
+pvair: partial variable assignment interpolator. fase: 419-434
+grigory fedyukovich, arie gurfinkel, natasha sharygina:
+automated discovery of simulation between programs. lpar: 606-621
+leonardo alt, grigory fedyukovich, antti eero johannes hyvärinen, natasha sharygina:
+a proof-sensitive approach for small propositional interpolants. vstte: 1-18
+grigory fedyukovich, andrea callia d'iddio, antti eero johannes hyvärinen, natasha sharygina:
+symbolic detection of assertion dependencies for bounded model checking. fase: 186-201
+grigory fedyukovich, natasha sharygina:
+towards completeness in bounded model checking through automatic recursion depth
+detection. sbmf: 96-112
+fabrizio pastore, leonardo mariani, antti eero johannes hyvärinen, grigory fedyukovich, natasha
+sharygina, stephan sehestedt, ali muhammad:
+verification-aided regression testing. issta: 37-48
+grigory fedyukovich, arie gurfinkel, natasha sharygina:
+incremental verification of compiler optimizations. nfm: 300-306
+simone fulvio rollini, leonardo alt, grigory fedyukovich, antti eero johannes hyvärinen, natasha
+sharygina:
+periplo: a framework for producing effective interpolants in sat-based software verification.
+lpar: 683-693
+grigory fedyukovich, ondrej sery, natasha sharygina:
+evolcheck: incremental upgrade checker for c. tacas: 292-307
+ondrej sery, grigory fedyukovich, natasha sharygina:
+incremental upgrade checking by means of interpolation-based function summaries. fmcad:
+114-121
+ondrej sery, grigory fedyukovich, natasha sharygina:
+funfrog: bounded model checking with interpolation-based function summarization. atva: 203-
+207
+ondrej sery, grigory fedyukovich, natasha sharygina:
+interpolation-based function summaries in bounded model checking. hvc: 160-175
+teaching
+fsu: software engineering, compiler construction, special topics (automated reasoning about
+programs)
+fsu: compiler construction
+fsu: special topics (computer aided verification)
+students
+phd ameer hamza (fsu, expected graduation - )
+phd daniel riley (fsu, expected graduation - )
+ms ilia zlatkin (fsu, expected graduation - )

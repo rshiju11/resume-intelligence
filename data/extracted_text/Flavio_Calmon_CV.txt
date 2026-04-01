@@ -1,0 +1,701 @@
+flavio du pin calmon
+john a. paulson school of engineering and applied sciences
+150 western avenue, sec 3.306 e-mail:
+allston, ma 02134 https://people.seas.harvard.edu/~flavio/
+research interests
+information theory, privacy, fairness, trustworthy machine learning, signal processing.
+appointments
+associateprofessorofelectricalengineering (07/ — present)
+john a. paulson school of engineering and applied sciences
+harvard university
+assistantprofessorofelectricalengineering1 (07/ — present)
+john a. paulson school of engineering and applied sciences
+harvard university
+inauguraldatascienceforsocialgoodpost-doctoralfellow ( — )
+ibm t.j. watson research center
+yorktown heights, ny
+education
+massachusettsinstituteoftechnology(mit), cambridge, ma
+ph.d. in electrical engineering and computer science,
+universidadeestadualdecampinas(unicamp), s˜ao paulo, brazil
+m.sc. in electrical engineering,
+universidadedebras´ılia, distrito federal, brazil
+b.e. in communications engineering,
+1harvard’sfacultyofartsandsciencesgrantsappointmentextensionsandteachingrelieftotenure-trackfaculty,inkeeping
+withpoliciesrelatedtothecovid-19pandemic,medicalleave,andparentalleave. accordingly,harvarddelayedmyassociate
+reviewby3yearsandgaveme2coursesofteachingrelief.
+flavio p. calmon — cv (june ) 1/20
+selected honors and awards
+clark award, awarded by the harvard faculty of arts and sciences, .
+james l. massey research & teaching award for young scholars,awardedbytheieee
+informationtheorysocietyinrecognitionofoutstandingachievementinresearchandteachingby
+young scholars in the information theory community.
+lemann brazil research fund award, harvard university. also awarded in and .
+inaugural t´ıtulo de honra ao m´erito (honor to the merit title) from the universidade
+de bras´ılia. the award is given to alumni who have achieved national and/or international recog-
+nition. i was the first alumni chosen in the area of computer science, engineering, statistics, and
+mathematics.
+bias2 fund award, harvard data science initiative
+gift from oracle research
+special commendation for extraordinary teaching in extraordinary times, harvard
+amazon research award
+google faculty research award in machine learning and data mining
+nsf faculty early career development program (career) award
+ibm open collaborative research award
+ibm inaugural social good post-doctoral fellowshipforresearchindatascience projects
+that promote social good
+avery alan ashdown leadership award for outstanding service and leadership to the mit
+community
+irwin mark jacobs and joan klein jacobs presidential fellowship for graduate studies
+at mit
+honor of merit award from the brazilian council of engineers for best academic per-
+formance in the communications engineering graduating class of the university of brasilia
+selected student honors and awards
+apple scholar aiml fellowship for ethics and fairness in ai, lucas monteiro paes
+funda¸c˜ao estudar leadership fellowship, lucas monteiro paes
+only 30 selected of 33k applicants
+meta research ph.d. fellowship, hsiang hsu
+teaching
+es156: signals&communications (harvard seas, undergraduate)
+thiscourseisrequiredforalleemajorsatharvardseas.itprovidesacomprehensivefoundationofsignal
+processing and digital communications. i designed this class after joining harvard.
+spring course rating: 4.1/5 instructor rating: 4.6/5
+spring course rating: 4.5/5 instructor rating: 4.7/5
+spring course rating: 4.1/5 instructor rating: 4.8/5 (co-taught with todd zickler)
+spring received commendation for “extraordinary teaching in extraordinary times”
+from dean of undergraduate education (ratings not collected)
+spring course rating: 4.6/5 instructor rating: 4.8/5
+flavio p. calmon — cv (june ) 2/20
+teaching (continued)
+spring course rating: 4.1/5 instructor rating: 4.9/5
+es250: informationtheory (harvard seas, graduate)
+this graduate-level course prepares students for research in information theory. students learn lossy and
+losslesscompression,channelcodingandcapacity,andapplicationsofinformationtheorytomachinelearning
+andstatistics. asacapstoneproject,studentswriteanisit-stylepaperandpresentitinamockconference
+session in class. i re-designed this class at harvard
+fall course rating: 4.7/5 instructor rating: 4.9/5
+fall course rating: 4.6/5 instructor rating: 5/5
+fall course rating: 4.9/5 instructor rating: 4.9/5
+fall course rating: 4.6/5 instructor rating: 4.8/5
+cs290b: seminaroneffectiveresearchpractices&academicculture (harvard seas, graduate)
+thiscourseistargetedforfirst-yearcsgraduatestudentsatharvardseas.itfocusesonsoftskillbuilding,
+academicculture,andresearchandprofessional-orienteddiscussion. cs290wasdevelopedbyyanivyacoby,
+john girash, and david parkes.
+spring course rating: 4.3/5 instructor rating: 4.75/5
+(co-taught with yaniv yacoby, eura shin, martin wattenberg, and john girash)
+theharvardbusinessanalyticsprogram (harvard seas and hbs, professional education)
+hbap is a hybrid on-line and in-person program organized by harvard seas and the business school
+(hbs).theprogramequipsmid-careerprofessionals—mostinmanagementpositions—withskillsinanalyt-
+ics, machine learning, artificial intelligence, and digital strategy.
+– present lecturer for the on-campus “immersion” program (2 to 4 yearly lectures)
+lecturer for data-driven marketing program (12 yearly lectures)
+tutorials and short courses
+tutorial speaker at the north american summer school of information theory (nasit,
+july )
+information-theoretic tools for responsible machine learning, tutorialtaughtattheieeeinter-
+national symposium on information theory, helsinki, finland
+mini-symposium on theoretical and applied aspects of machine learning, at congresso nacional
+de matem´atica aplicada e computacional (cnmac), unicamp, brazil. in addition to organizing
+and lecturing at the event, i raised funds for speaker travel.
+privacy and fairness in data science: an information-theoretic perspective, tutorial taught at
+the ieee international symposium on information theory, paris, france
+flavio p. calmon — cv (june ) 3/20
+tutorials and short courses (continued)
+dados, inferˆenciaeaprendizagem(data, inference, andlearning),2-weekshortcoursetaught(in
+portuguese) at at the faculdade de engenharia el´etrica e da computa¸c˜ao (feec), universidade
+de campinas (unicamp), brazil
+professional service
+program co-chair for the acm conference on fairness, accountability, and trans-
+parency (acm facct), rio de janeiro, brazil
+isit student travel award committee member
+guest editor for the ieee journal on selected areas in information theory, spe-
+cial issue on information-theoretic methods for trustworthy and reliable machine
+learning
+technical program committee for the ieee information theory workshop (itw)
+-present ieee information theory society diversity and inclusion committee member
+–present area chair for the international conference on machine learning (icml)
+organizer of the workshop on information-theoretic methods for trustworthy ma-
+chine learning at the simons institute for the theory of computing, berkeley, cal-
+ifornia
+organizer of an invited session at the ieee conference on information sciences and
+systems (ciss), johns hopkins university
+organizerofaninvitedsessionattheinformationtheoryandapplicationsworkshop
+(ita), san diego, california
+area chair for the international conference on learning representations (iclr)
+area chair for the acm conference on fairness, accountability, and transparency
+(acm facct)
+organizeroftheicml’21workshoponinformation-theoreticmethodsforrigorous,
+responsible, and reliable machine learning
+– present area chair for the conference on neural information processing systems (neurips)
+– , technicalprogramcommitteefortheinternationalsymposiumoninformationthe-
+ory (isit)
+publicitychairfortheieeenorthamericanschoolofinformationtheory(boston,
+july ).
+– present nsf cise panelist
+flavio p. calmon — cv (june ) 4/20
+professional service (continued)
+programcommitteefortheacmconferenceonfairness,accountability,andtrans-
+parency (acm fat*).
+data jam organizer at the kdd broadening participation in data mining
+workshop for underrepresented students.
+– mentor for the mit undergraduate research opportunities program (urop)
+journal and conference reviewing: ieee trans. on info. theory, journal of machine learning re-
+search, icml, neurips, acm facct conference, acm www conference, ieee trans. on wireless
+communications, ieee trans. on info. forensics and security, ieee international symposium on info.
+theory, ieeeinfo. theoryworkshop,ieeeinternationalconferenceoncommunications, ieeevehicular
+technology conference
+institute service at harvard
+served on the harvard seas ai working group
+speaker at harvard’s global advisory committee, cambridge, ma
+speaker at the harvard brazil collaboration: working together to advance knowledge
+and education event, museu do amanh˜a, rio de janeiro, brazil
+speaker at the harvard brazil alumni event, rio de janeiro, brazil
+– present computational science and engineering (cse) steering committee
+– ee seminar series organizer
+– ee faculty search committee
+– present hosting brazilian alumni donors for tours and meetings at the new seas building
+– harvard seas graduate admissions and scholarship diversity committee
+– present harvard brazil studies program faculty steering committee
+– present harvard seas engineering sciences committee on higher degrees
+– ee faculty search committee
+speaker at the harvard brazil alumni summit, s˜ao paulo, brazil
+– harvard seas ee graduate admissions committee
+harvard brazil studies program faculty advisory committee
+– present committee member for phd student qualification exams and defenses, on average 4+
+per year
+– present undergraduate concentration advisor in electrical engineering
+current advising
+graduatestudents
+– present joel rakhamimov, electrical engineering (incoming)
+– present elena ghazi, computer science (incoming)
+– present hadi khalaf, electrical engineering (incoming)
+– present rodrigo cruz, applied math
+– present alex oesterling, computer science (co-advised with hima lakkaraju)
+– present juan felipe gomez, physics
+– present carol long, applied math
+– present lucas monteiro paes, applied math
+flavio p. calmon — cv (june ) 5/20
+current advising (continued)
+post-docsupervision
+claudio verdun, graduation school: technical university of munich
+sajani vithana, graduation school: ece at university of maryland
+undergraduateresearchadvisees
+joel rakhamimov, harvard ee
+alex glynn, harvard cs
+ph.d.thesiscommittee
+eric mibuari, harvard cs, thesis title tbd
+past advising
+graduatestudents
+– hao wang, ph.d. in applied math, harvard seas
+thesis title: information theory for trustworthy machine learning
+next stop: research scientist at mit-ibm watson ai lab, cambridge ma
+– hsiang hsu, ph.d. in computer science, harvard seas
+thesis title: information-theoretic tools for machine learning beyond accuracy
+next stop: research scientist at j.p. morgan ai research, new york ny
+– wael alghamdi, ph.d. in applied math, harvard seas
+thesis title: estimation and optimization of information measures with applications to
+fairness and differential privacy
+next stop: post-doc at harvard university
+– madeleine barowsky, m.sc. in computer science, harvard seas
+(madeleine was a ph.d. candidate who chose not to remain in the program in part due to
+challenges posed by the pandemic.)
+next stop: software engineer at etsy
+post-docsupervision
+– haewon jeong
+next stop: assistant professor of ece, uc santa barbara, ca
+– shahab asoodeh
+next stop: assistant professor of cs, mcmaster university, canada
+– berk ustun (crcs post-doc)
+nextstop: assistantprofessoratthehalıcıo˘gludatascienceinstitute, ucsandiegoca
+– mario diaz (joint post-doc with asu)
+flavio p. calmon — cv (june ) 6/20
+past advising (continued)
+next stop: investigador asociado c (tenure-track), instituto de investigaciones en
+matem´aticas aplicadas y en sistemas, universidad aut´onoma de m´exico
+– javier zazo (crcs and iacs affiliate, co-supervised with demba ba)
+next stop: microsoft research, cambridge uk
+juwendo denis
+next stop: parallel wireless, nashua nh
+undergraduateseniorthesisanddesignprojects
+joel rakhamimov, harvard electrical engineering and mathematics
+thesis title: information theory for vector databases.
+alex glynn, harvard applied math
+thesistitle: leveraginglatentspacesforfairresultsinvectordatabaseimageretrieval.
+lucy he, harvard cs
+thesis title: aleatoric and epistemic discrimination: fundamental limits of fairness-
+intervention algorithms in classification
+raymond feng, harvard cs
+thesis title: adapting fairness-intervention algorithms to missing data
+ethan cobb, harvard am
+thesis title: signal processing approaches to musical tuning system detection in audio
+peter winston michalak, harvard ee
+thesis title (es 100): an on-line algorithm for battery characterization and parameter
+estimation
+alex mariona, harvard ee
+thesis title (es 100): jazzmaster: an automated accompaniment system for jazz music
+jamie caines and daniela villafuerte, harvard ee
+thesis title (es 100, joint thesis): an automated non-contact screening system
+marguerite basta, harvard cs and ee
+thesis title: convolutional neural networks for the automated segmentation and recur-
+rence risk prediction of surgically resected lung tumors
+zachary mohamed, harvard cs
+thesis title: studies in early modern social networks, 1400-1750
+miles wang, harvard ee
+thesis title (es 100): automated detection of pathologies in knee mri scans
+david xu, harvard ee
+thesis title (es 100): machine learning for flavor development
+anne raheem, harvard ee
+flavio p. calmon — cv (june ) 7/20
+past advising (continued)
+thesis title (es 100): lpwan safety device
+ph.d.thesiscommittee
+he sun, harvard cs
+thesis title fidelity, fairness and responsibility through the lens of sequential decision
+making
+maarten buyl, ghent university
+thesis title fairness regularization in machine learning: methods and limitations
+oussama dhifallah, harvard am
+thesistitle: estimationandlearningviaconvexoptimization: asymptotics,phasetran-
+sitions, and new algorithms
+jefferson da costa, institutio fio cruz, brazil
+thesistitle: desafiosparaaado¸c˜aodeinteligˆenciaartificialpelosistemau´nicodesau´de
+(sus): ´etica, transparˆencia e interpretabilidade
+salman salamatian, mit eecs
+thesis title: statistical privacy and security
+rohit agrawal, harvard cs
+thesistitle: deriving indistinguishability from unpredictability: tools and applications in
+pseudorandomness
+alexandre campos moraes, ee at universidade estadual de campinas (unicamp), brazil
+thesis title: pol´ıticas pu´blicas de telecomunica¸c˜oes: regula¸c˜ao setorial brasileira e gov-
+ernan¸ca da internet
+surat teerapittayanon, harvard cs
+thesis title: intelligence distribution network
+wangyu luo, harvard am
+thesis title: analysis and generalization of several information processing methods re-
+lated to stein’s lemma
+otherundergraduateresearchadvising
+michael wu, harvard cs
+jessica edward, harvard cs
+charlie marx, summer research internship, haverford college
+joesphine simmons, summer research internship, cmu
+lisa vo, harvard cs
+long-termvisitingstudentsandresearchers
+dr. fernando almeida, unicamp, brazil
+bogdan kulynych, epfl, switzerland
+prof. taesup moon, seoul national university
+prof. jos´e cˆandido silveira santos filho, unicamp, brazil
+flavio p. calmon — cv (june ) 8/20
+past advising (continued)
+behrooz razeghi, university of geneva, switzerland
+research support
+current
+nsf cif: medium: fundamental limits of privacy-enhancing technologies (co-pi),
+– . pis: oliver kosut (asu), lalitha sankar (asu). amount (total/pi share):
+$1.2m/$425k
+nsf fai: foundations of fair ai in medicine: ensuring the fair use of patient at-
+tributes (lead pi), – . co-pis: elena glassman (harvard), berk ustun (ucsd).
+amount (total/pi share): $1m/$625k
+nsf cif: small: approximate coded computing - fundamental limits of precision,
+fault-tolerance and privacy (co-pi), – . pi: viveck cadambe (penn state).
+amount (total/pi share): $600k/$250k
+nsf cif: medium: collaborative research: information-theoretic guarantees on pri-
+vacy in the age of learning (co-pi), – pis: lalitha sankar (asu), oliver kosut
+(asu). amount (total/pi share) $1.2m/$380k.
+nsf career: information-theoretic foundations of fairness in machine learning
+(sole pi), – . amount: $540k
+google gift from google, $10k,
+harvard lemann brazil research fund award: information-theoretic foundations of fair-
+ness in machine learning (sole pi), – . amount: $150k
+oracle gift from oracle research, $100k,
+amazon amazon research award, $80k,
+harvard dean’s competitive fund for promising scholarship (sole pi), awarded in ,
+, and . total amount awarded: $158k
+past
+nsf nsf eager: ai-dcl: collaborative research: understanding and overcom-
+ing biases in stem education using machine learning (lead pi), – . co-
+pis: muriel m´edard (mit), nilanjana dasgupta (umass amherst). amount (total/pi share):
+$300k/$250k.
+hdsi harvard data science initiative (hdsi) bias2 fund award, $48k,
+google google faculty research award, $58k,
+ibm ibm open collaborative research award, $50k,
+harvard lemann brazil research fund award, awarded in the and funding cycles.
+total amount across awards: $110k
+flavio p. calmon — cv (june ) 9/20
+invited seminars and lectures
+note: selected talks since .
+featured speaker at the event “impactos da inteligˆencia artificial no constitucionalismo contem-
+porˆaneo” (impacts of artificial intelligence on contemporary constitutionalism) held at the brazilian
+supreme court (supremo tribunal federal), august
+north american school of information theory, university of ottawa, canada, july (3-hour tuto-
+rial)
+munich workshop on coding and cryptography, tum school of computation, information and
+technology, munich, germany, april
+nsf-amazon fairness in ai pi meeting, washington d.c., january
+msri slmath workshop: randomization, neutrality, and fairness, october
+minds seminar at johns hopkins university, september
+cloudia (brazilian ai startup, in portuguese), june
+stanford information theory forum, may
+simons institute workshop on information-theoretic methods for trustworthy ml, may
+simons institute toc4 fairness seminary, may
+microsoft research new england, april
+ieee ciss conference, march
+nsf-ieee workshop at university of maryland, march
+school of public health of the university of s˜ao paulo, march
+information theory and applications workshop, february
+meeting of the behring community (organized by the behring foundation), mit, february
+harvard data science initiative conference, november
+pub boston meeting (pesquisadores universit´arios brasileiros em boston, in portuguese), november
+lecture at funda¸c˜ao serrapilheira (in portuguese), october
+lions seminar at arizona state university, september
+flavio p. calmon — cv (june ) 10/20
+invited seminars and lectures (continued)
+science foundation ireland centre for research training in foundations of data science, september
+congresso nacional de matem´atica aplicada e computacional, campinas, brazil, september
+panelist at the harvard brazil collaboration event at the museu do amanh˜a in rio de janeiro, brazil
+(in portuguese), august
+speaker at the harvard brazil alumni event in rio de janeiro, brazil (in portuguese), august
+dcl seminar at georgia tech, april
+seminario de probabilidad para estudiantes de posgrado, imas/unam (mexico), april
+lecture at mit 6.s076 – special subject in electrical engineering and computer science, march
+simons institute data privacy: foundations and applications reunion workshop, march
+(on parental leave – )
+f´orumpermanente: estrat´egiasparaainteligˆenciaartificialatunicamp,brazil(inportuguese),april
+fundac¸˜ao estudar 30 year anniversary event (in portuguese), march
+carnegie mellon ece seminar, september
+oracle research (burlington, ma), february
+information theory and applications workshop (ita), san diego, february
+invited speaker at mit’s special topics on signal processing course, march
+invited speaker at carnegie mellon university’s information theory course, march
+harvard seas dean’s advisory board, january
+shannon channel (youtube), november
+new york university ece seminar series, october
+universidade estadual de campinas (unicamp), campinas, brazil, august
+invited session on fairness and privacy, ieee international symp. on info. theory, july
+insper learning insitution, sa˜o paulo, brazil, june
+harvard alumni summit, s˜ao paulo, brazil, june
+flavio p. calmon — cv (june ) 11/20
+invited seminars and lectures (continued)
+new england machine learning day, may
+hamilton institute seminar, nui maynooth, ireland, may
+brown university data science colloquium, april
+anheuser-busch inbev board annual, april
+microsoft research seattle, march
+google research, march
+simons institute symposium on information-theoretic methods for privacy , march
+northeastern university spiral seminar series, march
+boston university cise, february
+information theory and applications workshop (ita), san diego, february
+harvard iacs seminar, november
+seminar at arizona state university, november
+worcester polytechnic institute, electrical engineering seminar, november
+stanford isl information theory forum, september
+harvard statistics seminar, may
+mitsubishi electric research laboratories, april
+umass amherst information theoretic privacy workshop, april
+information theory and applications workshop (ita), february
+machine learning for creativity workshop at sigkdd’17, halifax, ca, august
+nsf workshop, university of delaware, april
+flavio p. calmon — cv (june ) 12/20
+clarification on authorship: i publish and collaborate across areas. each field has its own conventions
+for ordering authors. authorship lists can be alphabetical, represent the order of contribution (usually with
+studentsfirst),haveseniorpisorderedbycontribution,orhaveasingleleadseniorpiaslastauthor. below,
+bold and starred publications, such as [j1]*, highlight publications where i am lead senior author,
+co-lead senior author, or first author.
+journal publications
+[j27] v.r. cadambe, a. devulapalli, h. jeong, f. p. calmon, “differentially private secure mul-
+tiplication: hiding information in the rubble of noise,” arxiv:2309.16105, under review.
+[j26]* l. m. paes, a. t. suresh, a. beutel, f. p. calmon, and a. beirami, “multi-group fairness
+evaluationviaconditionalvalue-at-risktesting,”ieee j. sel. areas inf. theory,accepted,
+.
+[j25]* w. alghamdi and f. p. calmon, “measuring information from moments,” ieee trans. on
+inf. theory, vol. 70, no. 2, pp. 763–802, .
+[j24]* h. wang, r. gao, and f. p. calmon, “generalization bounds for noisy iterative algorithms
+using properties of additive noise channels,” j. mach. learn. res., vol. 24, pp. 26–43, .
+[j23] b. razeghi, f. p. calmon, d. gunduz, and s. voloshynovskiy, “bottlenecks club: unifying
+information-theoretictrade-offsamongcomplexity, leakage, andutility,” ieee transactions on
+information forensics and security, vol. 18, pp. – , .
+[j22] f.r.a.parente,f.p.calmon,andj.c.s.santosfilho,“unifiedframeworkfordiversityand
+coding gains over a broad gaussian class of fading channels,” ieee transactions on vehicular
+technology, .
+[j21]* h.wang,h.hsu,m.diaz,andf.p.calmon,“tosplitornottosplit: theimpactofdisparate
+treatment in classification,” ieee trans. inf. theory, vol. 67, no. 10, pp. 6733–6757, .
+[j20]* s. asoodeh, j. liao, f. p. calmon, o. kosut, and l. sankar, “three variants of differential
+privacy: lossless conversion and applications,” ieee j. sel. areas inf. theory, vol. 2, no. 1,
+pp. 208–222, .
+[j19] d.wei,k.n.ramamurthy,andf.p.calmon,“optimizedscoretransformationforconsistent
+fair classification,” j. mach. learn. res., vol. 22, pp. 258–1, .
+[j18]* h. hsu, s. salamatian, and f. p. calmon, “generalizing correspondence analysis for applica-
+tionsinmachinelearning,”ieeetrans. onpatternanalysisandmachineintelligence, vol.44,
+no. 12, pp. 9347–9362, .
+[j17]* h. jeong, a. devulapalli, v. r. cadambe, and f. p. calmon, “ϵ-approximate coded matrix
+multiplication is nearly twice as efficient as exact multiplication,” ieee j. sel. areas inf.
+theory, vol. 2, no. 3, pp. 845–854, .
+[j16]* h.hsu,n.l.martinezgil,m.bertran,g.sapiro,andf. p. calmon,“asurveyonstatistical,
+information, and estimation—theoretic views on privacy,” ieee bits the information theory
+magazine, vol. 1, no. 1, pp. 45–56, .
+flavio p. calmon — cv (june ) 13/20
+journal publications (continued)
+[j15]* m.diaz, h.wang, f. p. calmon, andl.sankar, “ontherobustnessofinformation-theoretic
+privacy measures and mechanisms,” ieee trans. inf. theory, vol. 66, no. 4, pp. – ,
+april .
+[j14]* s.asoodehandf.p.calmon,“bottleneckproblems: aninformationandestimation-theoretic
+view,” entropy (invited paper), vol. 22, no. 11, p. 1325, .
+[j13] f. r. a. parente, f. p. calmon, and j. c. s. santos filho, “asymptotic system perfor-
+mance over generalized fading channels with application to maximal-ratio combining,” journal
+of communication and information systems, vol. 35, no. 1, pp. 171–180, .
+[j12] j. liao, o. kosut, l. sankar, and f. p. calmon, “tunable measures for information leakage
+and applications to privacy-utility tradeoffs,” ieee trans. inf. theory, vol. 65, no. 12, pp.
+8043–8066, dec .
+[j11]* h. wang, l. vo, f. p. calmon, m. m´edard, k. r. duffy, and m. varia, “privacy with
+estimation guarantees,” ieee trans. inf. theory, vol. 65, no. 12, pp. 8025–8042, dec .
+[j10] s. majumdar, b. han, f. p. calmon, b. glicksberg, r. horesh, a. kumar, a. perer, e. v.
+marschall, d. wei, a. mojsilovi´c, and k. varshney, “confronting data sparsity to identify
+potential sources of zika virus spillover infection among primates,” epidemics, vol. 27, pp. 59–
+65, june .
+[j9]* f. p. calmon, d. wei, b. vinzamuri, k. n. ramamurthy, and k. varshney, “data pre-
+processing for discrimination prevention: information-theoretic optimization and analysis,”
+ieee j. sel. topics signal proces, vol. 12, no. 5, pp. 1106–1119, oct. .
+[j8]* f. p. calmon, y. polyanskiy, and y. wu, “strong data processing inequalities for input
+constrained additive noise channels,” ieee trans. inf. theory, vol. 64, no. 3, pp. 1879–1892,
+march .
+[j7] j. liao, l. sankar, v. y. f. tan, and f. p. calmon, “hypothesis testing under mutual infor-
+mation privacy constraints in the high privacy regime,” ieee trans. inf. forensics security,
+vol. 13, no. 4, pp. 1058–1071, .
+[j6]* f. p. calmon, a. makhdoumi, m. m´edard, m. varia, m. christiansen, and k. r. duffy,
+“principal inertia components and applications,” ieee trans. inf. theory, vol. 63, no. 8, pp.
+5011–5038, .
+[j5]* f. p. calmon, a´. a. m. de medeiros, and m. d. yacoub, “mutual outage probability,” ieee
+trans. wireless commun., vol. 16, no. 5, pp. 3138–3150, .
+[j4] m. m. christiansen, k. r. duffy, f. p. calmon, and m. m´edard, “multi-user guesswork and
+brute force security,” ieee trans. inf. theory, vol. 61, no. 12, pp. 6876 – 6886, dec .
+[j3] s. salamatian, a. zhang, f.p. calmon, s. bhamidipati, n. fawaz, b. kveton, p. oliveira,
+and n. taft, “managing your private and public data: bringing down inference attacks against
+your privacy,” ieee j. sel. topics signal proces, vol. 9, no. 7, pp. 1240–1255, .
+flavio p. calmon — cv (june ) 14/20
+journal publications (continued)
+[j2] a. rezaee, f. p. calmon, l. m. zeger, and m. m´edard, “speeding multicast by acknowledg-
+mentreductiontechnique(smart)enablingrobustnessofqoetothenumberofusers,”ieee
+j. sel. areas commun., vol. 30, no. 7, pp. 1270 –1280, aug. .
+[j1]* f. p. calmon and m. d. yacoub, “mrcs – selecting maximal ratio combined signals: a
+practical hybrid diversity combining scheme,” ieee trans. wireless commun., vol. 8, no. 7,
+pp. 3425–3429, jul. .
+selective peer-reviewed computer science conference publications
+[cs20]* j. f. gomez, c. v. machado, l. m. paes, f. p. calmon, “algorithmic arbitrariness in
+content moderation,” in proc. of the acm conference on fairness, accountability, and
+transparency (acm facct), , pp. 2234-2253 .
+[cs19] a. oesterling, j. ma, f. p. calmon, and h. lakkaraju, “fair machine unlearning: data
+removal while mitigating disparities,” accepted to the int. conf. on artificial intelligence
+and statistics (aistats’24), arxiv:2307.14754.
+[cs18]* c.long,h.hsu,w.alghamdi,andf.p.calmon,“individualarbitrarinessandgroupfair-
+ness,” advances in neural information processing systems (neurips), vol. 36, pp. 68602–
+68624, .
+[cs17]* r. feng, f. p. calmon, and h. wang, “adapting fairness interventions to missing values,”
+advances in neural information processing systems (neurips), vol. 36, pp. 59388–59409,
+.
+[cs16]* h. wang, l. he, r. gao, and f. p. calmon, “aleatoric and epistemic discrimination:
+fundamental limits of fairness interventions,” advances in neural information processing
+systems (neurips), vol. 36, pp. 59388–59409, .
+[cs15]* w. alghamdi, j. f. gomez, s. asoodeh, f. p. calmon, o. kosut, and l. sankar, “the
+saddle-point method in differential privacy,” int. conf. on machine learning (icml), .
+[cs14]* b.kulynych,h.hsu,c.troncoso,andf. p. calmon,“arbitrarydecisionsareahiddencost
+ofdifferentiallyprivatetraining,”inproc. oftheacmconferenceonfairness,accountability,
+and transparency (facct), , pp. 1609–1623.
+[cs13]* w. alghamdi, h. hsu, h. jeong, h. wang, p. w. michalak, s. asoodeh, and f. p. calmon,
+“beyond adult and compas: fair multi-class prediction via information projection,” ad-
+vances in neural information processing systems (neurips), oralpresentation, vol. 35, pp.
+38747–38760, .
+[cs12]* h. hsu and f. p. calmon, “rashomon capacity: a metric for predictive multiplicity in
+classification,” advances in neural information processing systems (neurips), vol. 35, pp.
+28988–29000, .
+[cs11]* l. m. paes, c. long, b. ustun, and f. p. calmon, “on the epistemic limits of personal-
+ized prediction,” advances in neural information processing systems (neurips), vol. 35, pp.
+– , .
+flavio p. calmon — cv (june ) 15/20
+selective peer-reviewed computer science conference publications (continued)
+[cs10]* h. jeong, h. wang, and f. p. calmon, “fairness without imputation: a decision tree ap-
+proachforfairpredictionwithmissingvalues,”inproc. of the aaai conference on artificial
+intelligence, oralpresentation, vol. 36, no. 9, , pp. 9558–9566.
+[cs9]* h. wang, y. huang, r. gao, and f. p. calmon, “analyzing the generalization capability
+of sgld using properties of gaussian channels,” advances in neural information processing
+systems (neurips), vol. 34, pp. 24222–24234, .
+[cs8] d. wei, k. n. ramamurthy, and f. p. calmon, “optimized score transformation for fair
+classification,” in int. conf. on artificial intelligence and statistics (aistats), ser. pro-
+ceedings of machine learning research, vol. 108. online: pmlr, 26–28 aug , pp.
+1673–1683.
+[cs7]* c.t. marx., f. p. calmon, and b. ustun, “predictive multiplicity in classification,” int.
+conf. on machine learning (icml), .
+[cs6]* h.hsu,s.asoodeh,andf.p.calmon,“obfuscationviainformationdensityestimation,”in
+int. conf. on artificial intelligence and statistics (aistats), ser. proceedings of machine
+learning research, vol. 108. pmlr, , pp. 906–917.
+[cs5] s. cha, h. hsu, t. hwang, f. p. calmon, and t. moon, “cpr: classifier-projection reg-
+ularization for continual learning,” in international conference on learning representations
+(iclr), .
+[cs4]* h. wang, b. ustun, and f. p. calmon, “repairing without retraining: avoiding disparate
+impactwithcounterfactualdistributions,”inint. conf. on machine learning (icml), ,
+pp. 6618–6627.
+[cs3]* h.hsu,s.salamatian,andf.p.calmon,“correspondenceanalysisusingneuralnetworks,”
+in int. conf. on artificial intelligence and statistics (aistats), .
+[cs2]* f. p. calmon, d. wei, b. vinzamuri, k. n. ramamurthy, and k. r. varshney, “optimized
+pre-processing for discrimination prevention,” in advances in neural information processing
+systems (nips), , pp. 3995–4004.
+[cs1] m. riemer, a. vempaty, f. p. calmon, f. heath, r. hull, and e. khabiri, “correcting
+forecasts with multifactor neural attention,” in int. conf. on machine learning (icml),
+.
+peer-reviewed conference publications
+[c48]* s. vithana, m. cardone, f. p. calmon, “private approximate nearest neighbor search for
+vector database querying” accepted to the ieee int. symp. on inf. theory (isit).
+[c47]* w.alghamdi,s.asoodeh,f.p.calmon,o.kosut,l.sankar,“differential-privacycapacity”
+accepted to the ieee int. symp. on inf. theory (isit).
+[c46]* b. zamanlooy, s. asoodeh, m. diaz, f. p. calmon, “e -mixing time” accepted to the
+γ
+ieee int. symp. on inf. theory (isit).
+flavio p. calmon — cv (june ) 16/20
+peer-reviewed conference publications (continued)
+[c45]* w.alghamdi,s.asoodeh,f.p.calmon,j.f.gomez,o.kosut,andl.sankar,“schr¨odinger
+mechanisms: optimaldifferentialprivacymechanismsforsmallsensitivity,”inproc. ieee int.
+symp. on inf. theory (isit). ieee, , pp. 2201–2206.
+[c44]* w. alghamdi, s. asoodeh, f. p. calmon, j. f. gomez, o. kosut, and l. sankar, “optimal
+multidimensional differentially private mechanisms in the large-composition regime,” in proc.
+ieee int. symp. on inf. theory (isit). ieee, , pp. 2195–2200.
+[c43]* l. m. paes, r. cruz, f. p. calmon, and m. diaz, “on the inevitability of the rashomon
+effect,” in proc. ieee int. symp. on inf. theory (isit). ieee, , pp. 549–554.
+[c42] v. r. cadambe, h. jeong, and f. p. calmon, “differentially private secure multiplication:
+hiding information in the rubble of noise,” in proc. ieee int. symp. on inf. theory (isit).
+ieee, , pp. 2207–2212.
+[c41] a. devulapalli, v. r. cadambe, f. p. calmon, and h. jeong, “differentially private dis-
+tributedmatrixmultiplication: fundamentalaccuracy-privacytrade-offlimits,” inproc. ieee
+int. symp. on inf. theory (isit). ieee, , pp. – .
+[c40]* w. alghamdi, s. asoodeh, f. p. calmon, o. kosut, l. sankar, and f. wei, “cactus mech-
+anisms: optimal differential privacy mechanisms in the large-composition regime,” in proc.
+ieee int. symp. on inf. theory (isit). ieee, , pp. 1838–1843.
+[c39]* h. wang, m. diaz, and f. p. calmon, “the impact of split classifiers on group fairness,”
+proc. ieee int. symp. on inf. theory (isit), pp. 3179–3184, .
+[c38] b. razeghi, s. ferdowsi, d. kostadinov, f. p. calmon, and s. voloshynovskiy, “privacy-
+preserving near neighbor search via sparse coding with ambiguation,” in ieee international
+conference on acoustics, speech and signal processing (icassp). ieee, , pp. 2635–
+2639.
+[c37]* m.barowsky,a.mariona,andf. p. calmon,“predictivecodingforlosslessdatasetcompres-
+sion,”inieeeinternationalconferenceonacoustics, speechandsignalprocessing(icassp).
+ieee, , pp. 1545–1549.
+[c36]* w. algahmdi and f. p. calmon, “polynomial approximations of conditional expectations in
+scalar gaussian channels,” proc. ieee int. symp. on inf. theory (isit), pp. 420–425, .
+[c35]* s.asoodeh,m.a.aliakbarpour,andf.p. calmon,“localdifferentialprivacyisequivalentto
+contraction of an f-divergence,” proc. ieee int. symp. on inf. theory (isit), pp. 545–550,
+.
+[c34]* v. cadambe, f. p. calmon, a. devulapalli, and h. jeong, “ϵ-approximate coded matrix
+multiplication is nearly twice as efficient as exact multiplication-approximate coded matrix
+multiplication is nearly twice as efficient as exact multiplication,” proc. ieee int. symp. on
+inf. theory (isit), pp. 1582–1587, .
+[c33]* s. asoodeh, w.-n. chen, f. p. calmon, and a. ozgur, “differentially private federated
+learning: an information-theoretic perspective,” proc. ieee int. symp. on inf. theory
+(isit), pp. 344–349, .
+flavio p. calmon — cv (june ) 17/20
+peer-reviewed conference publications (continued)
+[c32] s. ferdowsi, b. razeghi, t. holotyak, f. p. calmon, and s. voloshynovskiy, “privacy-
+preserving image sharing via sparsifying layers on convolutional groups,” in ieee interna-
+tional conference on acoustics, speech and signal processing (icassp). ieee, , pp.
+2797–2801.
+[c31]* s. asoodeh, m. diaz, and f. p. calmon, “privacy amplification of iterative algorithms via
+contractioncoefficients,”inproc. ieee int. symp. on inf. theory (isit), , pp. 896–901.
+[c30]* w.algahmdi, s.asoodeh, h.wang, f. p. calmon, d.wei, andk.n.ramamurthy, “model
+projection: theory and applications to fair machine learning,” in proc. ieee int. symp. on
+inf. theory (isit), , pp. 2711–2716.
+[c29] j. liao, l. sankar, o. kosut, and f. p. calmon, “maximal α-leakage and its properties,” in
+ieee conference on communications and network security (cns). ieee, , pp. 1–6.
+[c28] f. r. a. parente, f. p. calmon, and j. c. s. santos filho, “high-snr performance in
+gaussian-class fading,” in ieee international conference on communications (icc), ,
+pp. 1–7.
+[c27]* s.asoodeh,j.liao,f. p. calmon,o.kosut,andl.sankar,“abetterboundgivesahundred
+rounds: enhanced privacy guarantees via f-divergences,” in proc. ieee int. symp. on inf.
+theory (isit), , pp. 920–925.
+[c26] j. liao, l. sankar, o. kosut, and f. p. calmon, “robustness of maximal α-leakage to side
+information,” proc. ieee int. symp. on inf. theory (isit), .
+[c25]* w.algahmdiandf.p.calmon,“mutualinformationasafunctionofmoments,”proc. ieee
+int. symp. on inf. theory (isit), .
+[c24]* h. hsu, s. asoodeh, and f. p. calmon, “information-theoretic privacy watchdogs,” proc.
+ieee int. symp. on inf. theory (isit), .
+[c23]* h. wang, m. diaz, j. c. s. s. s. filho, and f. p. calmon, “an information-theoretic view of
+generalization via wasserstein distance,” proc. ieee int. symp. on inf. theory (isit), .
+[c22]* h. wang, m. diaz, f. p. calmon, and l. sankar, “the utility cost of robust privacy guaran-
+tees,” proc. ieee int. symp. on inf. theory (isit), pp. 706–710, .
+[c21] j.liao, o.kosut, l.sankar, andf. p. calmon, “privacyunderharddistortionconstraints,”
+ieee information thoery workshop, .
+[c20]* h. wang, b. ustun, and f. p. calmon, “on the direction of discrimination: an information-
+theoretic analysis of disparate impact in machine learning,” proc. ieee int. symp. on inf.
+theory (isit), pp. 1216–1220, .
+[c19]* h. hsu, s. asoodeh, s. salamatian, and f. p. calmon, “generalizing bottleneck problems,”
+proc. ieee int. symp. on inf. theory (isit), pp. 531–535, .
+[c18] j.liao,o.kosut,l.sankar,andf.p.calmon,“atunablemeasureforinformationleakage,”
+proc. ieee int. symp. on inf. theory (isit), pp. 701–705, .
+flavio p. calmon — cv (june ) 18/20
+peer-reviewed conference publications (continued)
+[c17] j.liao, l.sankar, f. p. calmon, andv.y.tan, “hypothesistestingundermaximalleakage
+privacy constraints,” in proc. ieee int. symp. on inf. theory (isit), , pp. 779–783.
+[c16]* h. wang and f. p. calmon, “an estimation-theoretic view of privacy,” in proc. 55th annual
+allerton conference on communication, control, and computing, .
+[c15] j. liao, l. sankar, v. y. f. tan, and f. p. calmon, “hypothesis testing in the high privacy
+limit,”inproc. 54thannualallertonconferenceon communication, control, and computing,
+.
+[c14]* f. p. calmon, y. polyanskiy, and y. wu, “strong. data processing inequalities in power-
+constrained gaussian channels.” proc. ieee int. symp. on inf. theory (isit), pp. 2558–
+2562, .
+[c13]* f.p.calmon,a.makhdoumi,andm.m´edard,“fundamentallimitsofperfectprivacy,”proc.
+ieee int. symp. on inf. theory (isit), pp. 1796–1800, .
+[c12] a.makhdoumi,f.p.calmon,andm.m´edard,“forgotyourpassword: correlationdilution,”
+proc. ieee int. symp. on inf. theory (isit), pp. 2944–2948, .
+[c11]* f. p. calmon, m. varia, and m. m´edard, “an exploration of the role of principal inertia
+components in information theory,” in proc. ieee inf. theory workshop, nov. .
+[c10]* f. p. calmon, m. varia, and m. m´edard, “on information-theoretic metrics for symmetric-
+key encryption and privacy,” in proc. 52nd annual allerton conference on communication,
+control, and computing, .
+[c9] j.cloud,f.p.calmon,w.zeng,g.pau,l.m.zeger,andm.m´edard,“multi-pathtcpwith
+network coding for mobile devices in heterogeneous networks,” in proc. ieee 78th vehicular
+technology conference, , pp. 1–5.
+[c8] s. salamatian, a. zhang, f. p. calmon, s. bhamidipati, n. fawaz, b. kveton, p. oliveira,
+and n. taft, “how to hide the elephant-or the donkey-in the room: practical privacy against
+statistical inference for large data,” in proc. ieee globalsip, .
+[c7] m. m. christiansen, k. r. duffy, f. p. calmon, and m. m´edard, “guessing a password over
+a wireless channel (on the effect of noise non-uniformity),” in proc. asilomar conference on
+signals, systems and computers, , pp. 51–55.
+[c6] m. m. christiansen, k. r. duffy, f. p. calmon, and m. m´edard, “brute force searching,
+the typical set and guesswork,” in proc. ieee int. symp. on inf. theory (isit), , pp.
+1257–1261.
+[c5]* f. p. calmon, m. varia, m. m´edard, m. m. christiansen, k. r. duffy, and s. tessaro,
+“boundsoninference,”inproc. 51st annual allerton conference on communication, control,
+and computing, .
+[c4]* f. p. calmon, m. m´edard, l. zeger, j. barros, m. m. christiansen, and k. r. duffy, “lists
+thataresmallerthantheirparts: acodingapproachtotunablesecrecy,” inproc. 50th annual
+allerton conference on communication, control, and computing, .
+flavio p. calmon — cv (june ) 19/20
+peer-reviewed conference publications (continued)
+[c3]* f. p. calmon and n. fawaz, “a framework for privacy against statistical inference,” in proc.
+50th annual allerton conference on communication, control, and computing, .
+[c2]* f. p. calmon, m. m´edard, and m. effros, “equivalent models for multi-terminal channels,”
+in proc. ieee inf. theory workshop, oct. .
+[c1]* f. p. calmon and m. yacoub, “a general exact formulation for the outage probability in
+interference-limitedsystems,”inproc. ieee global telecommunications conference (globe-
+com), nov. .
+patents
+[p11] d. wei, k. n. ramamurthy, and f. p. calmon “optimized score transformation for fair clas-
+sification,” oct. , us patent 11,797,870.
+[p10] f. p. calmon, r. heath iii, r. b. hull, e. khabiri, m. d. riemer, and a. vempaty, “time
+series forecasting to determine relative causal impact,” dec. , us patent 11,537,847.
+[p9] f. p. calmon, m. m´edard, and k. fouli, “method and apparatus for coded multipath network
+communication,” nov. , us patent 11,489,761.
+[p8] f. p. calmon, m. m. franseschini, a. jagmohan, and s. sahu, “learning service blockchain,”
+jun. , us patent 11,157,833.
+[p7] f. p. calmon,r.t.goodwin,a.jagmohan,k.c.ratakonda,anda.vempaty,“data-driven
+models for improving products,” oct. , us patent 10,817,799.
+[p6] f. p. calmon, r. kokku, and a. vempaty, “automatic learning curriculum generation,” aug.
+, us patent 10,373,511.
+[p5] f. p. calmon and k. r. varshney, “accelerating data-driven scientific discovery,” aug. ,
+us patent 10,388,039.
+[p4] f. p. calmon, m. medard, l. m. zeger, m. m. christiansen, and k. r. duffy, “method and
+apparatus for secure communication,” jun. , us patent 10,311,243.
+[p3] f. p. calmon,j.m.cloud,m.medard,andw.zeng,“multi-pathdatatransferusingnetwork
+coding,” jun. , us patent 10,009,259.
+[p2] f. p. calmon,j.m.cloud,m.medard,andw.zeng,“multi-pathdatatransferusingnetwork
+coding,” jan. , us patent 9,537,759.
+[p1] m.m´edard,f. p. calmon,andw.zeng,“methodandapparatusforimplementingdistributed
+content caching in a content delivery network,” jun. , us patent 9,369,541.
+flavio p. calmon — cv (june ) 20/20

@@ -1,0 +1,403 @@
+devinj.balkcom
+contact
+information web: rlab.cs.dartmouth.edu/devin
+research efficientdesignsandalgorithmsforrobotlocomotionandmanipulation.
+interests howcanroboticsproblemsbesolvedinsimple,effectiveways?
+education carnegiemellonuniversity,roboticsph.d. . advisormatthewmason.
+johnshopkinsuniversity,b.a.
+appointments departmentchair,dartmouthcomputerscience –present
+professor,dartmouthcollege –present
+associateprofessor,dartmouthcollege -
+facultyco-directorofacademiccomputing,dartmouthcollege –
+assistantprofessor,dartmouthcollege –
+awards dartmouthdeanoffacultyawardforoutstandingmentoringandadvising,
+dartmouthmclanefamilyfellowship, .
+johnm.manleyhuntingtonawardfornewlytenuredfaculty, .
+nsfcareeraward, .
+departmentofenergycomputationalsciencegraduatefellowship,
+funding ascalableandaccessiblesystemforautomatedcoachingofhumanmotion –
+co-pi.totalfunding$849k,withpidavidkraemer.
+collab. research: ri:medium: robustassemblyofcompliantmodularrobots –
+pi.totalfunding$750k,withbekris(rutgers),kramer(yale),wang(albany).
+nsfmri:acq. ofmarinemultirobotsystemsfor
+underwatermonitoringandconstruction –
+co-pi.totalfunding$400k,withquattrinili,casana,zhou,zhu.
+riitrack-2fec:computationalmethodsandautonomousroboticssystems
+formodelingandpredictingharmfulcyanobacterialblooms –
+totalfunding$2.9m,renewableto$5.9m,p.i.quattrinili
+(seniorpersonnel;singleinvestigatorperinstitution)
+nsfcyberlearning: teachinghumanmotionatpopulationscale –
+pi.totalfunding$750k,withkraemer,zhou,wang.
+nsfri:computationaljoinery –
+pi.totalfunding$500k,withwhiting,wang.
+mbrspacesettlementchallenge
+$16,000.
+adoberesearchgift
+$10,000.
+neukomcomp-xgrant: computationaldesignofdeployablestructures
+$15,000. withemilywhiting.
+nsfeager:computingcompactroadmapsformotionplanning –
+p.i.$150k.
+nsfri:practicaltechniquesforroboticmanipulationofstringandwire –
+p.i.$482k.
+neukomcomp-xgrant: efficientrepresentationsforrobotmotionplanning
+$20k. withamitchakrabarti.
+nsfinfrastructuregrant: digitalimaginglaboratoryatdartmouth –
+$480k. withhanyfarid,fabiopellacini,lorieloeb.
+nsfcareeraward –
+$400k.
+departmentofjustice(ists):mobilityassessmentforemergencyresponserobots –
+$250k. co-piwithlauraray.
+departmentofjusticebyrnegrant: automatedassistancefordisasterresponse –
+$181k. co-piwithlauraray.
+departmentofenergycomputationalsciencegraduatefellowship –
+fullgraduatestudentsupport;approximately$220k.
+ph.d.students julienblanchet september2019–present
+luyangzhao september2018–present
+samlensgraf(coadvisedbya.quattrinili) september2018–present
+qijiashao(coadvisedbyxiazhou) november2018–june2022
+amysniffen november2018–present
+yinanzhang ph.d.june2019
+yu-hanlyu ph.d.june2016
+weifuwang ph.d.june2016
+andreifurtuna ph.d.june2011
+paritoshkavathekar ph.d.june2011
+matthewbell ph.d.february2010
+m.s.students yijiawu current
+evanhonnold july2019
+fahadhamid july2019
+changjokim september2013
+zhongli june2013
+wenyulu august2011
+govindkrishnan september2009
+weizhang(coadvisedbypaulthompson) june2007
+anneloomis june2006
+coursestaught tuckfwp:fundamentalsofwebprogramming –
+with hany farid, designed, developed, and taught a new course for tuck students interested in
+the intersection of technology and business. this hands-on-course covers web development in
+javascript,html,css,withaparticularemphasisonbusinessapplications.
+tuckdsa:datastructuresandanalytics
+withhanyfarid,designed,developed,andtaughtanewcoursefortuckstudentsinterestedinthe
+intersectionoftechnologyandbusiness. thishands-on-coursefollowsthepriorfwpcourse,and
+coversmanagingdataindatabases,representingdataforcomputationindatastructures,anddata
+analysisusingtechniquesfromcomputerscienceandmachinelearning,withaparticularemphasis
+onbusinessapplications.
+cs1: introductiontoprogrammingandcomputation –present
+i designed and developed a new introductory undergraduate course, intended for both majors
+andnon-majors. thecourseisprogrammingintensive, andteachesfundamentalsofpythonpro-
+gramming, introductory object-oriented design, and topics from algorithms and data structures,
+includinglinkedlists,trees,graphs,breadth-firstsearch,andfiniteautomata.
+cs10: problemsolvingwithobjectorientedprogramming
+oursecond-levelcourseintheintroductorysequence;implementationofdatastructuresandalgo-
+rithms.
+cs81: principlesofrobotdesignandprogramming –present
+this advanced undergraduate course that i developed covers robot design and programming.
+therearetwoprimaryfoci: asequenceoflabs,andarigorousintroductiontomathematicaltech-
+niquesforanalysis.thelabsinvolvefourmobilerobotsthatthestudentsprogramtoautonomously
+exploreamaze,andarealindustrialrobotarmthatthestudentprogramformanipulationandas-
+sembly tasks. the mathematical analysis side covers kinematics, dynamics, the basics of modern
+control,andanalysisofthestabilityofrobotgrasping.
+cs76: artificialintelligence variousyears, –present
+thisseniorundergraduatecourseintroducesbasicapplicationsandtechniquesinthefieldofar-
+tificial intelligence. topics include knowledge representation, a* and iterative deepening search,
+scheduling, logicandtheoremproving, competitiveandcooperativegames, optimization, proba-
+bilistic inference, with applications to robotics, natural language processing, and computer game
+development.
+cs50: softwaredesignandimplementation ,
+this course is an intermediate course in software development and design. students who have
+completedthefirsttwointroductorycoursesbuildateamprojectinthiscourse,usingcandunix
+development tools. in the version of the course i developed and taught, students built a multi-
+player,networked,threadedimplementationofamusic-teachinggamealongthelinesofthewell-
+knowncommercialguitarherogame.
+cs89: roboticsseminar –
+this undergraduate/graduate course presents basic techniques for modeling, simulation, plan-
+ning, and control of robotic systems. topics covered include configuration space, kinematics of
+openandclosedchains,representationsofrotationsin2dand3d,homogeneouscoordinates,con-
+strained dynamics, the dynamics of friction and contact. lab work includes programming an in-
+dustrialrobotarm.
+cs98: seniordesignproject , , ,
+thiscourserepresentsaculminatingexperienceforgraduatingseniorundergraduates. aspartof
+ateam,studentsdesign,develop,test,andreleaseapieceofsoftware.
+cs69: designprojectscourse
+this course is a team-project course along the lines of cs 98, but targeted at first-, second-, and
+third-yearstudents.
+undergraduate ihavesupervisedmorethan80undergraduatesonindividualresearchprojects,throughthedart-
+research mouthwomeninscienceproject,presidentialfellowshipprogram,e.e.justminorityresearchpro-
+advising gram,andforseniortheses.
+professional ieeeroboticsandautomationlettersassociateeditor –
+committees
+nsfproposalreviewpanels , , , , ,
+workshoponthealgorithmicfoundationsofrobotics(wafr)programcommittee , , ,
+ieee/rsjinternationalconferenceonintelligentrobotsandsystemsassociateeditor. , , ,
+, , ,
+ieeeinternationalconferenceonroboticsandautomationassociateeditor. , , ,
+robotics: scienceandsystemsprogramcommittee. , , , , ,
+reviewerfortheinternationaljournalofroboticsresearch,theieeetransactionsonroboticsandau-
+tomation,andotherinternationaljournals.judgeforfirstlegoroboticscompetition,andforasme
+nationalstudentmechanicaldesigncompetition. programcommitteememberforaaaiandin-
+telligentautonomoussystems. areaandpublicitychairforrobotics: scienceandsystems( ).
+undergraduates numbersinparenthesisindicatenumberoftermssupervisedonresearchordevelopmentproject.
+advisedsince
+1. maxine perroni-scharf (3) senior honors 34. ellaryan(3)presidentialscholar
+thesis 35. justinchan(3)presidentialscholar
+2. xingranzhuang(2)seniorthesis 36. ajaykannan(3)seniorthesis
+3. shoshanageller(1)labra 37. richardaddo(1)coursecredit
+4. gregoryhunter(1)labra 38. hannakim( ,1)coursecredit
+5. andreajenkins(1)labra 39. yiningchen(4)presidentialscholar
+6. xingran.zhuang(1)labra 40. justinmurray(3)seniorthesis
+7. christinalu(1)presidentialscholar 41. jonathanguinter(3)seniorthesis
+8. karimitani(1)labra 42. deloschang(2)seniorthesis
+9. jenniferjain(2)labra 43. willjackson(2)seniorthesis
+10. davidmena(1)labra 44. jordan kunzika (8) sophomore science,
+11. geoffrywang(4)labra labra
+12. lisaoh(5)seniorthesis 45. george boateng (6) sophomore science,
+13. josiahputman(4)neukomfellow labra
+14. madeleinegenereux(1)labra 46. charles pastuzenski (2) presidential
+15. davidperezgonzalez(1)e.e.justfellow scholar
+16. janvikalra(2)labra 47. kelseyharris(3)seniorthesis
+17. eitanvilker(1)labra 48. emcneil(3)seniorthesis
+18. bradenpellowski(1)seniorthesis 49. divyagunasekaran(3)seniorthesis
+19. caravanuden(1)labra 50. parkerphinney(3)seniorthesis
+20. magdalenepizzo(1)labra 51. ambrosegranizo-mackenzie(4)hanover
+21. robertlivaudis(1)labra high,labra
+22. evanhonnold(4)seniorthesis 52. stephenmalina(2)labra
+23. galenbrown(3)seniorthesis 53. dancarter(2)labra
+24. anthonyaddo(2)seniorthesis 54. callenvotzke(10),labra
+25. yusufolokoba(6)e.e.justfellow 55. xandereisensten(1),labra
+26. ping-jungliu(1)labra 56. peterstein(2),readingcourse
+27. zacharyjohnson(2)labra 57. kevinniparko(2),readingcourse
+28. yichenke(2)presidentialscholar 58. davidrogg(2),readingcourse
+29. hangqi(4)presidentialscholar 59. carla galarza (1) summer robotics camp
+instructor/developer
+30. pritikavg(2)seniorthesis
+60. sucharita jayanti (1) summer robotics
+31. michael li (5) senior thesis, neukom
+campinstructor/developer
+scholar
+61. maxdiebel(1)summerroboticscampin-
+32. kaya thomas (2) independent study for
+structor/developer
+credit
+62. danielmott(2)labra
+33. nanhu(3)presidentialscholar
+63. jenniferlure(2)labra
+journalarticles [1] meysameffati,krzysztofskonieczny,anddevinj.balkcom.“energy-optimaltrajectoriesfor
+skid-steerrovers”.in:int.j.roboticsres.43.2( ),pp.171–202.
+[2] luyang zhao, yijia wu, wenzhong yan, weishu zhan, xiaonan huang, joran w. booth,
+ankurmehta,kostase.bekris,rebeccakramer-bottiglio,anddevinj.balkcom.“starblocks:
+soft actuated self-connecting blocks for building deformable lattice structures”. in: ieee
+roboticsautom.lett.8.8( ),pp.4521–4528.
+[3] luyang zhao, yijia wu, julien blanchet, maxine perroni-scharf, xiaonan huang, joran w.
+booth,rebeccakramer-bottiglio,anddevinj.balkcom.“softlatticemodulesthatbehave
+independentlyandcollectively”.in:ieeeroboticsautom.lett.7.3( ),pp.5942–5949.
+[4] yinanzhang,yottokoga,anddevinj.balkcom.“interlockingblockassemblywithrobots”.
+in:ieeetransautom.sci.eng.18.3( ),pp.902–916.
+[5] luyang zhao, yijia wu, julien blanchet, maxine perroni-scharf, xiaonan huang, joran w.
+booth, rebecca kramer-bottiglio, and devin j. balkcom. “soft lattice modules that behave
+independentlyandcollectively”.in:roboticsandautomationletters( ).toappear.
+[6] qijiashao,amysniffen,julienblanchet,megane.hillis,xinyushi,themistoklisk.haris,
+jason liu, jason lamberton, melissa malzkuhn, lorna c. quandt, james mahoney, david
+j.m.kraemer,xiazhou,anddevinj.balkcom.“teachingamericansignlanguageinmixed
+reality”.in:proc.acminteract.mob.wearableubiquitoustechnol.4.4( ),152:1–152:27.
+[7] ruiboliu,qijiashao,siqiwang,christinaru,devinbalkcom,andxiazhou.“reconstruct-
+inghumanjointmotionwithcomputationalfabrics”.in:proc.acminteract.mob.wearable
+ubiquitoustechnol.3.1( ),19:1– .
+[8] yinan zhang, emily whiting, and devin balkcom. “assembling and disassembling planar
+structureswithdivisibleandatomiccomponents”.in:ieeetransactionsonautomationscience
+andengineering15.3(july2018),pp.945–954.
+[9] weifuwanganddevinbalkcom.“knotgrasping,folding,andre-grasping”.in:international
+journalofroboticsresearch37.2-3(feb. ),pp.378–399.
+[10] yu-hanlyuanddevinbalkcom.“optimaltrajectoriesforplanarrigidbodieswithswitching
+costs”.in:internationaljournalofroboticsresearch35.5( ),pp.454–475.
+[11] yu-han lyu, yining chen, and devin balkcom. “k-survivability: diversity and survival of
+expendable robots”. in: robotics and automation letters 1.2 ( ). also published as icra
+articlebythesamename.,pp.1164–1171.
+[12] weifuwanganddevinbalkcom.“towardsarrangingandtighteningknotsandunknotswith
+fixtures”. in: ieee transactions on automation science and engineering 12.4 ( ), pp. 1318–
+1331.
+[13] weifu wang, devin balkcom, and amit chakrabarti. “a fast online spanner for roadmap
+construction”.in:internationaljournalofroboticsresearch34.11( ),pp.1418–1432.
+[14] matthew p. bell, weifu wang, jordan kunzika, and devin balkcom. “knot-tying with four-
+piecefixtures”.in:internationaljournalofroboticsresearch33.11( ),pp.1481–1489.
+[15] paritosha.kavathekar,brucea.craig,alanm.friedman,chrisbailey-kellogg,anddevin
+balkcom.“characterizingthespaceofinteratomicdistancedistributionfunctionsconsistent
+withsolutionscatteringdata”.in:journalofbioinformaticsandcomputationalbiology8.2( ),
+pp.315–335.
+[16] matthewp.bellanddevinbalkcom.“graspingnon-stretchableclothpolygons”.in:interna-
+tionaljournalofroboticsresearch29.6( ),pp.775–784.
+[17] andrei a. furtuna and devin balkcom. “generalizing dubins curves: minimum-time se-
+quences of body-fixed rotations and translations in the plane”. in: international journal of
+roboticsresearch29.6( ),pp.703–726.
+[18] hamidrezachitsaz,stevenm.lavalle,devinbalkcom,andmatthewt.mason.“minimum
+wheel-rotationpathsfordifferential-drivemobilerobots”.in:internationaljournalofrobotics
+research28.1( ),pp.66–80.
+[19] devinbalkcomandmatthewt.mason.“roboticorigamifolding”.in:internationaljournalof
+roboticsresearch27.5( ),pp.613–627.
+[20] devin balkcom, paritosh a. kavathekar, and matthew t. mason. “time-optimal trajecto-
+riesforanomni-directionalvehicle”.in:internationaljournalofroboticsresearch25.10( ),
+pp.985–999.
+[21] devinbalkcomandjeffreyc.trinkle.“computingwrenchconesforplanarrigidbodycon-
+tacttasks”.in:internationaljournalofroboticsresearch21.12( ),pp.1053–1066.
+[22] devinbalkcomandmatthewt.mason.“timeoptimaltrajectoriesforboundedvelocitydif-
+ferentialdrivevehicles”.in:internationaljournalofroboticsresearch21.3( ),pp.199–218.
+conference [23] samuellensgraf,devinj.balkcom,andalbertoquattrinili.“buoyancyenabledautonomous
+papers underwaterconstructionwithcementblocks”.in:ieeeinternationalconferenceonroboticsand
+automation.ieee, ,pp.5207–5213.
+[24] julienblanchet,megane.hillis,yeongjilee,qijiashao,xiazhou,davidj.m.kraemer,and
+devin j. balkcom. “learnthatdance: augmenting tiktok dance challenge videos with an
+interactivepracticesupportsystempoweredbyautomaticallygeneratedlessonplans”.in:
+adjunctproceedingsofthe36thannualacmsymposiumonuserinterfacesoftwareandtechnol-
+ogy,uist.acm, ,84:1–84:4.
+[25] julien blanchet, megan e. hillis, yeongji lee, qijia shao, xia zhou, david j. m. kraemer,
+anddevinj.balkcom.“automaticgenerationandteachingofdancelessonsfromvideo”.
+in:proceedingsofthe24thinternationalworkshoponmobilecomputingsystemsandapplications,
+hotmobile2023.acm, ,p.145.
+[26] meganehillisanndbriannaaubrey,julienblanchet,qijiashao,xiazhou,devinbalkcom,
+anddavidjmkraemer.“overlappingsemanticrepresentationsofsignandspeechinnovice
+sign language learners”. in: proceedings of the annual meeting of the cognitive science society.
+,pp.3346–3353.
+[27] samuel lensgraf, amy sniffen, alberto quattrini li, and devin balkcom. “extended ab-
+stract: towards the autonomous underwater construction of cement block structures with
+free-floatingrobots”.in:icra2022constructionroboticsworkshop. .
+[28] meysameffati,krzysztofskonieczny,timfreiman,anddevinj.balkcom.“anequivalent
+time-optimal problem to find energy-optimal paths for skid-steer rovers”. in: ieee/rsj
+international conference on intelligent robots and systems, iros, . ieee, , pp. 13341–
+13346.
+[29] samuel e. lensgraf, amy sniffen, zachary zitzewitz, evan honnold, jennifer jain, weifu
+wang,albertoquattrinili,anddevinj.balkcom.“droplet:towardsautonomousunder-
+waterassemblyofmodularstructures”.in:robotics:scienceandsystemsxvii,virtualevent,
+july12-16, . .
+[30] amy sniffen, zezhou sun, samuel e. lensgraf, emily whiting, alberto quattrini li, and
+devin balkcom. “falling into place: drop assembly of interlocking puzzles”. in: robotics:
+scienceandsystemsxvii,virtualevent,july12-16, . .
+[31] pmeng,wwang,dbalkcom,andkebekris.“proof-of-conceptdesignsfortheassemblyof
+modular,dynamictensegritiesintoeasilydeployablestructures”.in:asceearthandspace
+conference2021.seattle,wa, .
+[32] samuellensgraf,karimitani,yinanzhang,zezhousun,yijiawu,albertoquattrinili,bo
+zhu, emily whiting, weifu wang, and devin j. balkcom. “puzzleflex: kinematic motion of
+chains with loose joints”. in: ieee international conference on robotics and automation,
+icra2020.ieee, ,pp.6730–6737.
+[33] luyangzhao,josiahputman,weifuwang,anddevinj.balkcom.“plrc*:apiecewiselin-
+earregressioncomplexforapproximatingoptimalrobotmotion”.in:ieee/rsjinternational
+conferenceonintelligentrobotsandsystems,iros2020. ,pp.6681–6688.
+[34] josiahputman,lisaoh,luyangzhao,evanhonnold,galenbrown,weifuwang,anddevin
+j. balkcom. “piecewise linear regressions for approximating distance metrics”. in: corr.
+vol.abs/ .12466. .eprint: .12466.
+[35] josiahputman,lisaoh,luyangzhao,evanhonnold,galenbrown,weifuwang,anddevin
+j.balkcom.“lldm:locallylineardistancemapsforrobotmotionplanning:extendedab-
+stract”.in:2019internationalsymposiumonmulti-robotandmulti-agentsystems,mrs. .
+[36] yinanzhanganddevinbalkcom.“interlockingblockassembly”.in:algorithmicfoundation
+ofrobotics(wafr).dec. .
+[37] weifuwanganddevinbalkcom.“time-optimalmotionofspatialdubinssystems”.in: al-
+gorithmicfoundationofrobotics(wafr).dec. .
+[38] devinbalkcom,andreifurtuna,andweifuwang.“thedubinscarandotherarm-likemo-
+bilerobots”.in:ieeeinternationalconferenceonroboticsandautomation(icra).may2018.
+[39] yinan zhang, xiaolei chen, hang qi, and devin balkcom. “rearranging agents in a small
+space using global controls”. in: ieee/rsj international conference on intelligent robots and
+systems(iros). .
+[40] paritoshkavathekaranddevinbalkcom.“atactileshirtforteachinghumanmotiontasks”.
+in:ieee/rsjinternationalconferenceonintelligentrobotsandsystems(iros). .
+[41] yinan zhang, emily whiting, and devin balkcom. “assembling and disassembling planar
+structures with divisible and atomic components”. in: algorithmic foundations of robotics
+(wafr). .
+[42] weifuwanganddevinbalkcom.“re-configuringknotstosimplifymanipulation”.in:algo-
+rithmicfoundationsofrobotics(wafr). .
+[43] yinanzhanganddevinbalkcom.“interlockingstructureassemblywithvoxels”.in:ieee/rsj
+internationalconferenceonintelligentrobotsandsystems(iros). .
+[44] weifu wang and devin balkcom. “grasping and folding knots”. in: ieee international con-
+ferenceonroboticsandautomation(icra). .
+[45] weifuwanganddevinbalkcom.“towardstyingknotsprecisely”.in:ieeeinternationalcon-
+ferenceonroboticsandautomation(icra). .
+[46] yu-han lyu, yining chen, and devin balkcom. “k-survivability: diversity and survival of
+expendablerobots”.in:ieeeinternationalconferenceonroboticsandautomation(icra).also
+publishedasraljournalarticlebythesamename. .
+[47] devin balkcom, ajay kannan, yu-han lyu, weifu wang, and yinan zhang. “metric cells:
+towards complete search for optimal trajectories”. in: ieee/rsj international conference on
+intelligentrobotsandsystems(iros). .
+[48] weifu wang, dmitry berenson, and devin balkcom. “an online method for tight-tolerance
+insertiontasksforstringandrope”.in:ieeeinternationalconferenceonroboticsandautoma-
+tion(icra). .
+[49] yu-hanlyu,andreia.furtuna,weifuwang,anddevinbalkcom.“thebenchmover’sprob-
+lem:minimum-timetrajectories,withcostforswitchingbetweencontrols”.in:ieeeinterna-
+tionalconferenceonroboticsandautomation(icra). ,pp.106–112.
+[50] weifu wang, matthew bell, and devin balkcom. “towards arranging and tightening knots
+andunknotswithfixtures”.in:algorithmicfoundationsofrobotics(wafr). .
+[51] yu-hanlyuanddevinbalkcom.“optimaltrajectoriesforplanarrigidbodieswithswitching
+costs”.in:algorithmicfoundationsofrobotics(wafr). .
+[52] weifu wang, devin balkcom, and amit chakrabarti. “a fast streaming spanner algorithm
+forincrementallyconstructingsparseroadmaps”.in:ieee/rsjinternationalconferenceonin-
+telligentrobotsandsystems(iros). ,pp.1257–1263.
+[53] zhongli,devinbalkcom,andaaronm.dollar.“rigid2dspace-fillingfoldsofunbrokenlin-
+earchains”.in:ieeeinternationalconferenceonroboticsandautomation(icra). ,pp.551–
+557.
+[54] andreia.furtuna,weifuwang,yu-hanlyu,anddevinbalkcom.“structureandgeometry
+ofminimum-timetrajectoriesforplanarrigidbodies”.in:allertonconferenceoncommunica-
+tion,control,andcomputing. ,pp.1584–1591.
+[55] weifu wang and devin balkcom. “sampling extremal trajectories for planar rigid bodies”.
+in:algorithmicfoundationsofrobotics(wafr). ,pp.331–347.
+[56] weifuwanganddevinbalkcom.“analyticaltime-optimaltrajectoriesforanomni-directional
+vehicle”.in:ieeeinternationalconferenceonroboticsandautomation(icra). ,pp.4519–
+4524.
+[57] andrei a. furtuna, wenyu lu, weifu wang, and devin balkcom. “minimum-time trajec-
+toriesforkinematicmobilerobotsandotherplanarrigidbodieswithfinitecontrolsets”.in:
+ieee/rsjinternationalconferenceonintelligentrobotsandsystems(iros). ,pp.4321–4328.
+[58] andreia.furtuna,devinbalkcom,hamidrezachitsaz,andparitosha.kavathekar.“gen-
+eralizingthedubinsandreeds-sheppcars:fastestpathsforbounded-velocitymobilerobots”.
+in:ieeeinternationalconferenceonroboticsandautomation(icra). ,pp.2533–2539.
+[59] matthewp.bellanddevinbalkcom.“knottyingwithsinglepiecefixtures”.in:ieeeinter-
+nationalconferenceonroboticsandautomation,(icra). ,pp.379–384.
+[60] lauraray,jamesjoslin,johnmurphy,jonbarlow,devinbrande,anddevinbalkcom.“dy-
+namic mobile robots for emergency surveillance and situational awareness”. in: ieee inter-
+nationalworkshoponsafety,security,andrescuerobotics. .
+[61] devin balkcom, erik demaine, martin demaine, john ochsendorf, and zhong you. “fold-
+ing paper shopping bags”. in: international meeting of origami science, math, and education
+(osme). ,pp.315–334.
+[62] devin balkcom, paritosh a. kavathekar, and matthew t. mason. “the minimum-time tra-
+jectories for an omni-directional vehicle”. in: algorithmic foundation of robotics (wafr). su-
+percededbyijrrarticle. ,pp.343–358.
+[63] anneloomisanddevinbalkcom.“computationreuseforrigid-bodydynamics”.in:ieee/rsj
+internationalconferenceonintelligentrobotsandsystems(iros). ,pp.4181–4186.
+[64] hamidrezachitsaz,stevenm.lavalle,devinbalkcom,andmatthewt.mason.“minimum
+wheel-rotationpathsfordifferential-drivemobilerobots”.in:ieeeinternationalconferenceon
+roboticsandautomation(icra).supercededbyijrrpaper. ,pp.1616–1623.
+[65] devin balkcom and matthew t. mason. “introducing robotic origami folding”. in: ieee in-
+ternationalconferenceonroboticsandautomation. ,pp.3245–3250.
+[66] devin balkcom and matthew t. mason. “extremal trajectories for bounded velocity mobile
+robots”. in: ieee international conference on robotics and automation (icra). , pp. 1747–
+1752.
+[67] devinbalkcom,e.j.gottlieb,andjeffreyc.trinkle.“asensorlessinsertionstrategyforrigid
+planarparts”.in:ieeeinternationalconferenceonroboticsandautomation(icra).superceded
+byijrrarticle. ,pp.882–887.
+[68] devin balkcom, jeffrey c. trinkle, and e. j. gottlieb. “computing wrench cones for pla-
+narcontacttasks”.in:ieeeinternationalconferenceonroboticsandautomation(icra). ,
+pp.869–875.
+[69] devinbalkcomandmatthewt.mason.“progressindesktoprobotics”.in:theeleventhyale
+workshoponadaptiveandlearningsystems. .
+[70] devinbalkcomandmatthewt.mason.“timeoptimaltrajectoriesforboundedvelocitydif-
+ferential drive robots”. in: ieee international conference on robotics and automation (icra).
+,pp.2499–2504.
+[71] devinbalkcomandmatthewt.mason.“extremaltrajectoriesforboundedvelocitydifferen-
+tial drive robots”. in: ieee international conference on robotics and automation (icra). ,
+pp.2479–2484.
+techreportsand [72] yinanzhang,devinj.balkcom,andhaoxiangli.towardsphysicallysafereinforcementlearn-
+onlinetexts ingundersupervision.arxiv. .arxiv: .06576.
+[73] samuellensgraf,karimitani,yinanzhang,zezhousun,yijiawu,albertoquattrinili,bo
+zhu,emilywhiting,weifuwang,anddevinbalkcom.puzzleflex:kinematicmotionofchains
+withloosejoints.arxiv. .arxiv: .08708[cs.ro].
+[74] devinbalkcom.projectpython:aninteractiveintroductiontocomputerscience.on-lineatpro-
+jectpython.net.170pages. .
+[75] devinbalkcomandtomcormen.algorithmstutorials.on-lineatkhanacademy.60pages.
+.
+[76] devinbalkcom.javaforcoders.on-lineatwww.educative.io.22pages. .
+ph.d.theses [77] matthewp.bell.“flexibleobjectmanipulation”.phdthesis.hanover,nh:dartmouthcom-
+supervised puterscience, .
+[78] paritosha.kavathekar.“assistinghumanmotion-taskswithminimal,real-timefeedback
+”.phdthesis.hanover,nh:dartmouthcomputerscience, .
+[79] andreia.furtuna.“minimumtimekinematictrajectoriesforself-propelledrigidbodiesin
+theunobstructedplane”.phdthesis.hanover,nh:dartmouthcomputerscience, .
+[80] yu-hanlyu.“implicationsofmotionplanning:optimalityandk-survivability”.phdthesis.
+hanover,nh:dartmouthcomputerscience, .
+[81] weifu wang. “constraint-based robot knot tying”. phd thesis. hanover, nh: dartmouth
+computerscience, .
+[82] yinanzhang.“interlockingstructuredesignandassembly”.phdthesis.hanover,nh:dart-
+mouthcomputerscience, .

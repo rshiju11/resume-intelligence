@@ -1,0 +1,171 @@
+ceren budak
+contact 4322 north quad |
+information 105 s. state street | e-mail:
+ann arbor, mi 48109 | website: cbudak.com
+mobile: |
+research my research interests lie in the area of computational social science, a discipline at the
+interests intersection of computer science, statistics, and the social sciences. i am particularly
+interestedinapplyinglargescaledataanalysistechniquestostudyproblemswithsocial,
+political, and policy implications.
+education phd. in computer science september to december
+computer science department, university of california, santa barbara
+• supervisors: professor amr el abbadi, professor divyakant agrawal
+• focus: information diffusion in online social networks
+• cgpa: 3.98/4.00
+bachelor in computer science september to june
+department of computer science, bilkent university, turkey
+• graduated ranking 1st
+• cgpa: 3.96/4.00, major cgpa: 4.00/4.00
+employment assistant professor november to - present
+university of michigan, school of information ann arbor, mi
+postdoctoral researcher july to - july
+microsoft research new york, ny
+research area: computational social science. below are three specific examples:
+• quantifying selection bias and slant in u.s. news media (collaborators: sharad
+goel and justin m. rao)
+• pluralismandsolidarityduringthegeziuprising(collaborator: duncanj.watts)
+• estimating the economics of third-party advertising and the potential impact of
+do-not-track on online advertising (collaborators: sharad goel, justin m. rao,
+and giorgos zervas)
+research assistant september to december
+university of california, santa barbara santa barbara, ca
+mainresearcharea: socialnetworksresearch,withaparticularfocusoninformation
+diffusion. other research problems include data management solutions for develop-
+ing regions and solving path problems on the gpu. (advisors: professors amr el
+abbadi and divyakant agrawal)
+research intern may to august
+microsoft research mountain view, ca
+group dynamics in twitter education chats; more particularly in capturing the
+factors for a twitter user to become a member of a particular chat group. (advisor:
+rakesh agrawal)
+1 of 4
+research intern may to august
+microsoft research mountain view, ca
+inferring user interests in online social networks through graphical and diffusion
+models. (advisors: rakesh agrawal, anitha kannan)
+teaching assistant september to june , march-may
+university of california, santa barbara santa barbara, ca
+graduate (advanced topics in databases) and undergraduate (data structures, algo-
+rithms, programming and scientific computing) courses. responsible for discussion
+sessions and labs
+summer intern, google june-september ,new york, ny
+worked in the deepweb team on the problem of non-numerical value prediction for
+discovering new urls. supervisor: jeff cox
+summer intern, yahoo june-september , sunnyvale, ca
+worked in data systems group (strategic data solutions, sds) on the problem of
+capacity modeling. supervisor: partha saha
+summer intern, tom sawyer software july-september , oakland, ca
+created constraint, accuracy, memory and cpu usage tests for tom sawyer prod-
+ucts. supervisor: wendy feng
+summer intern, havelsan inc. june-july , ankara, turkey
+implemented a ui to view/edit a db, and convert data to xml format.
+publications
+in progress [1] cerenbudak, sharadgoel, justinm.rao, giorgoszervas. do-not-trackandthe
+economics of third-party advertising available at ssrn 250564
+[2] ceren budak, anitha kannan (microsoft research), rakesh agrawal (microsoft
+research), jan pedersen (microsoft). inferring user interests in online social
+networks. working paper, msr-tr- -68, may
+published
+conference & [3] cerenbudak,sharadgoel,justinm.rao. fairandbalanced? quantifyingmedia
+journal papers bias through crowdsourced content analysis, public opinion quarterly.
+[4] ceren budak, duncan j. watts. dissecting the spirit of gezi: influence vs. selec-
+tion in the occupy gezi movement. sociological science.
+[5] divyakantagrawal,amrelabbadi,vaibhavarora,cerenbudak,theodoregeor-
+giou, hatem a. mahmoud, faisal nawab, cetin sahin, shiyuan wang. mind
+your ps and vs: a perspective on the challenges of big data management and
+privacy concerns. bigcomp : 1-6
+[6] cerenbudak,theodoregeorgiou,divyakantagrawal,amrelabbadi. geoscope:
+online detection of geo-correlated information trends in social networks pro-
+ceedings of vldb endowment (pvldb)
+[7] divyakant agrawal, ceren budak, amr el abbadi, theodore georgiou, xifeng
+yan. big data in online social networks: user interaction analysis to model
+user behavior in social networks. dnis : 1-16
+[8] ceren budak, rakesh agrawal (microsoft research). on participation in group
+chatsontwitter. 22ndinternationalconferenceonworldwideweb(www’13)
+2 of 4
+[9] ceren budak, divyakant agrawal, amr el abbadi. diffusion of information in
+social networks: is it all local? international conference on data mining
+(icdm) .
+[10] ceren budak, divyakant agrawal, amr el abbadi. structural trend analy-
+sis for online social networks proceedings of vldb endowment (pvldb),
+4(10):646656, july .
+[11] ceren budak, divyakant agrawal, amr el abbadi. limiting the spread of misin-
+formationinsocialnetworksproceedings of the 20th international conference on
+worldwideweb(www’11)pages665-674, newyork, ny,usa, . acm.
+[12] cerenbudak,divyakantagrawal,amrelabbadi. wheretheblogstip: connec-
+tors, mavens, salesmen and translators of the blogosphere proceedings of the
+first workshop on social media analytics (soma ’10) pages: 106-114, new
+york, ny, usa, . acm.
+[13] aydin buluc, john r. gilbert, ceren budak. solving shortest path problems on
+the gpu parallel computing 36(5-6): )
+tutorials [14] divyakantagrawal,cerenbudak,amrelabbadi. informationdiffusioninsocial
+networks: observing and affecting what society cares about proceedings of
+the 20th acm conference on information and knowledge management (cikm
+) pages: 2609-2610
+[15] divyakantagrawal,cerenbudak,amrelabbadi. informationdiffusioninsocial
+networks: observing and influencing societal interests proceedings of vldb
+endowment (pvldb), 4(12): )
+workshop [16] cerenbudak,sharadgoel,justinm.rao. fairandbalanced? quantifyingmedia
+presentations & bias through crowdsourced content analysis, social science track at icwsm
+book chapters
+[17] ceren budak, duncan j. watts. dissecting the spirit of gezi: influence vs. selec-
+tion in the occupy gezi movement. social science track at icwsm
+[18] ceren budak, divyakant agrawal, amr el abbadi. the fallacy of pigeonholing
+global users into local models workshop for information and decisions in
+social networks (wids ).
+[19] cerenbudak,divyakantagrawal,amrelabbadi. informationdiffusioninsocial
+networks: is friendship the dominant force? workshop on information in
+networks (win )
+[20] ceren budak, divyakant agrawal, amr el abbadi. structure-aware trend de-
+tection in online social networks workshop on information in networks (win
+)
+[21] divyakantagrawal,bassambamieh,cerenbudak,amrelabbadi,andrewj.flanagin,
+stacy patterson: data-driven modeling and analysis of online social networks
+web-age information management, volume 6897 of lecture notes in computer
+science, pages 317. springer berlin / heidelberg,
+3 of 4
+invited talks • quantifying pluralism and solidarity in social movements: a case study of gezi
+park uprising in turkey. the center for middle east studies distinguished lecture
+series, university of california santa barbara, november
+• fairandbalanced? quantifyingu.s.newsmediabiasthroughcrowdsourcedcon-
+tent analysisdepartment of computer science, university of california santa bar-
+bara, november
+• quantifyingpoliticalslantandselectionbiasofu.s.newsmedia. cosn commit-
+tee members workshop, microsoft research mountain view, july
+• understanding and managing the diffusion of information in online social net-
+works. nec japan, march,
+• understanding and managing the diffusion of information in online social net-
+works. kyoto university, march,
+• big data in online social networks: user interaction analysis to model user be-
+havior in social networks. keynote speaker, 9th annual workshop on databases in
+networked information systems, march,
+• thefutureofsocialscienceresearch: acomputationalsocialscienceperspective.
+womensphere 5th annual emerging leaders global summit, january,
+• navigatingthroughthevastspaceofonlinesocialnetworksresearch. technicolor
+labs, palo alto, ca,
+• useofonlinesocialnetworksinbusiness: acaseforviralmarketingandredefin-
+ing influentials. istanbul chamber of commerce, istanbul, turkey,
+• informationdiffusioninonlinesocialnetworks-exploringthevastproblemspace.
+istanbul sehir university, istanbul turkey,
+• informationdiffusioninonlinesocialnetworks-exploringthevastproblemspace.
+koc university, istanbul turkey,
+• information diffusion in social networks: observing and influencing societal in-
+terests tutorial presentation with profs. divyakant agrawal and amr el abbadi in
+vldb (international conference on very large databases),
+• information diffusion in social networks: observing and affecting what society
+caresabout. tutorial presented single-handedly in cikm (conference on informa-
+tion and knowledge management),
+professional • registration chair for cosn (acm conference on online social networks)
+activities • program committee member for:
+• www (international conference on world wide web) ,
+• icwsm (international aaai conference on web and social media)
+• hcomp (conference on human computation and crowdsourcing)
+• wsdm(internationalacmconferenceonwebsearchanddatamining) ,
+• cosn (acm conference on online social networks) ,
+• icdm (ieee international conference on data mining)
+• sigmod (acm special interest group on management of data conference)
+• organizer for msr nyc data science seminar series (for more info, please visit
+research.microsoft.com/en-us/events/msrnycdss/default.aspx)
+• instructorformicrosoftresearchdatasciencesummerschool(formoreinfo,please
+visit https://ds3.research.microsoft.com)
+4 of 4

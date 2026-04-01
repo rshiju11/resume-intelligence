@@ -1,0 +1,326 @@
+alexander rodríguez
+˘
+( • • (cid:140)alrodri.engin.umich.edu
+alexanderrodríguez
+research interests
+machinelearning,timeseries,uncertaintyquantification,multi-agentsystems,aiforscience,aiforsocial
+impact,publichealth,computationalepidemiology,communityresilience
+appointments
+assistantprofessor aug. –present
+universityofmichigan annarbor,mi
+divisionofcomputerscienceandengineering
+–facultyaffiliate,michiganinstitutefordatascience(midas)
+–facultyaffiliate,e-health&artificialintelligence(e-hail)
+researchaffiliate aug. –june2024
+mayoclinic rochester,mn
+divisionofepidemiology
+researchintern summer2022
+googleresearch,healthai paloalto,ca
+public&environmentalhealthgroup
+machinelearningintern summer2019,summer2020
+walmartlabs sunnyvale,ca
+machinelearningrankinggroup
+education
+ph.d.incomputerscience august2023
+georgiainstituteoftechnology atlanta,ga
+–distinction: sigkdddissertationawardrunnerup
+georgiatechcocoutstandingdissertationaward
+–committee: prof. b.adityaprakash(chair),prof. polochau(georgiatechcse),
+prof. pengchen(georgiatechcse),prof. rameshraskar(mitmedialab)
+prof. gregorywellenius(bostonuniv.,publichealth)
+m.s.indatascience may2018
+universityofoklahoma norman,ok
+b.s.inmechatronicsengineering(robotics) dec.
+nationaluniversityofengineering lima,peru
+publications
+note: †denotesstudentauthorsadvisedbyme;*denotesequalcontribution
+highlyrefereedvenues.................................................................................................
+1. r. li†, a. rodríguez. neural conformal control for time series forecasting. proceedings of the aaai
+conferenceonartificialintelligence(aaai).february2025. acceptancerate: 23.4%.
+1/8
+2. a.rodríguez*,h.kamarthi*,p.agarwal,j.ho,m.patel,s.sapre,andb.a.prakash. machinelearning
+fordata-centricepidemicforecasting. naturemachineintelligence. 2024impactfactor: 23.8.
+3. s. mathis et al. [collaborative effort of the cdc’s flusight project]. evaluation of flusight influenza
+forecastinginthe2021-22and2022-23seasonswithanewtargetlaboratory-confirmedinfluenzahospi-
+talizations. naturecommunications. . impactfactor: 14.7.
+4. a.chopra,a.rodríguez,b.a.prakash,r.raskar,t.kingsley. usingneuralnetworkstocalibrateagent
+basedmodelsenablesimprovedregionalevidenceforvaccinestrategyandpolicy. vaccine–specialissue
+inml-drivenvaccinedevelopmentagainstemerginginfections. september2023. impactfactor: 5.5
+5. h.kamarthi,l.kong,a.rodríguez,c.zhang,b.a.prakash. whenrigidityhurts: softconsistency
+regularizationforprobabilistichierarchicaltimeseriesforecasting. proceedingsofthe29thacmsigkdd
+conferenceonknowledgediscoveryanddatamining(kdd).august2023. acceptancerate(researchtrack):
+22%.
+6. a.chopra*,a.rodríguez*,j.subramanian,b.krishnamurthy,b.a.prakash,r.raskar. differentiable
+agent-based epidemiology. proceedings of the 22th international conference on autonomous agents and
+multiagentsystems(aamas).may2023. acceptancerate(fullpaper): 23.3%.
+7. a.rodríguez. ai&multi-agentsystemsfordata-centricepidemicforecasting. proceedingsofthe22th
+international conference on autonomous agents and multiagent systems (aamas). may . (doctoral
+consortium).
+8. a.rodríguez,j.cui,n.ramakrishnan,b.adhikari,b.a.prakash. einns: epidemiologically-informed
+neuralnetworks. proceedingsoftheaaaiconferenceonartificialintelligence(aaai).february2023(oral
+presentation). acceptancerate: 19%.
+9. a.rodríguez,h.kamarthi,b.a.prakash. epidemicforecastingwithadata-centriclens. proceedingsof
+the28thacmsigkddconferenceonknowledgediscoveryanddatamining(kdd).august2022. (lecture-style
+tutorial)
+10. h.kamarthi,a.rodríguez,b.a.prakash. back2future: leveragingbackfilldynamicsforimproving
+real-timepredictionsinfuture. internationalconferenceonlearningrepresentations(iclr).april2022.
+11. e.cramer,etal. [collaborativeeffortofthecdc’scovid-19forecasthub]. evaluationofindividual
+andensembleprobabilisticforecastsofcovid-19mortalityintheus.proceedingsofthenationalacademy
+of sciences (pnas). . impact factor: 11.2. – our model deepcovid was ranked top 5 in the cdc
+covid-19forecasthub
+12. e.cramer,etal. [collaborativeeffortofthecovid-19forecasthub]. theunitedstatescovid-19forecast
+hubdataset. scientificdata. . impactfactor: 6.4.
+13. h.kamarthi,l.kong,a.rodríguez,c.zhang,b.a.prakash. camul: calibratedandaccuratemulti-view
+time-seriesforecasting. theacmwebconference2022(webconf). april2022. acceptancerate: 17%.
+14. h.kamarthi,l.kong,a.rodríguez,c.zhang,b.a.prakash. whenindoubt: neuralnon-parametric
+uncertainty quantification for epidemic forecasting. neural information processing systems (neurips).
+december2021. acceptancerate: 26%.
+15. a.rodríguez*,n.muralidhar*,b.adhikari,a.tabassum,n.ramakrishnan,b.a.prakash. steeringa
+historicaldiseaseforecastingmodelunderapandemic: caseoffluandcovid-19. proceedingsofthe
+aaaiconferenceonartificialintelligence(aaai).february2021. acceptancerate: 21%.
+16. a.rodríguez,a.tabassum,j.cui,jiajiaxie,j.ho,p.agarwal,b.adhikari,b.a.prakash. deepcovid:
+anoperationaldl-drivenframeworkforexplainablereal-timecovid-19forecasting. proceedingsofthe
+aaaiconferenceonartificialintelligence(aaai).february2021.
+17. a.rodríguez,b.adhikari,a.gonzález,c.d.nicholson,a.vullikanti,b.a.prakash. mappingnetwork
+states using connectivity queries. ieee international conference on big data (big data), atlanta, ga.
+december2020(longpaper). acceptancerate: 15.5%.
+18. c.d. nicholson and a. rodríguez. a hybrid machine learning approach to the stochastic network
+2/8
+designproblemformitigationstrategies. 2018informsannualmeeting,phoenix,az.november2018.
+19. a.rodríguezandc.d.nicholson. adata-basedparadigmformitigationdecision-makingincritical
+infrastructure. iiseannualconference&expo2018,orlando,fl.may2018.
+20. a. khosrojerdi, j. allen, f. mistree, and a. rodríguez. sustainable design of plug-in hybrid electric
+vehiclechargingstationsconsideringservicelevel. 2014informsannualmeeting,sanfrancisco,ca.
+november2014.
+refereedworkshoppapers.............................................................................................
+23. s.sinha,h.kamarthi,a.rodríguez,j.arulrajandb.a.prakash. frents: probabilisticforecastingby
+frequencyenhancedneuralprocesses. kddworkshoponminingandlearningfromtimeseries(milets@
+kdd).august2024.
+24. h. kamarthi, l. kong, a. rodríguez, c. zhang, b.a. prakash. learning latent graph structures for
+accurateandcalibratedtime-seriesforecasting. kddworkshoponuncertaintyreasoningandquantification
+25. a.chopra*,a.rodríguez*,j.subramanian,b.krishnamurthy,b.a.prakash,r.raskar. differentiable
+agent-basedepidemiologicalmodelingforend-to-endlearning. icml2022workshopaiforagent-based
+26. a.rodríguez,b.adhikari,a.gonzález,c.d.nicholson,a.vullikanti,b.a.prakash. usingconnectivity
+queriestomapnetworkstates. neuripsworkshoponartificialintelligenceandhumanitariananddisaster
+27. a.rodríguez*,n.muralidhar*,b.adhikari,a.tabassum,n.ramakrishnan,b.a.prakash. steeringa
+historicaldiseaseforecastingmodelunderapandemic: caseoffluandcovid-19. neuripsworkshopon
+28. s.e.amiri,b.adhikari,j.wenskovitch,a.rodríguez,m.dowling,c.north,b.a.prakash. netreact:
+interactivelearningfornetworksummarization. neuripsworkshoponhumanandmachinein-the-loop
+29. a.rodríguez,b.adhikari,n.ramakrishnan,b.a.prakash. incorporatingexpertguidanceinepidemic
+forecasting. kddworkshoponepidemiologymeetsdataminingandknowledgediscovery(epidamik@
+kdd),sandiego,ca.august2020.
+manuscriptsinsubmission.............................................................................................
+1. c.liu,j.macedo,a.rodríguez. leveragingphysics-informedneuralnetworksingeotechnicalearth-
+quakeengineering: anassessmentonseismicsiteresponseanalyses. ssrn:5017825
+2. h.kamarthi,l.kong,a.rodríguez,c.zhang,b.a.prakash. learninggraphstructuresanduncertainty
+foraccurateandcalibratedtime-seriesforecastingarxiv:2407.02641
+3. z.zhao,a.rodríguez,andb.a.prakash. performativetime-seriesforecasting. arxiv:2310.06077
+honors and awards
+1. invitedparticipant[nationalacademies.org]
+u.s.nationalacademyofsciencessymposiumon"connectionstosustainscienceinlatinamerica."
+2. acmsigkdddissertationawardrunnerup[kdd.org]
+3. outstandingdoctoraldissertationaward
+georgiatechcollegeofcomputing[cc.gatech.edu]
+4. risingstarinml&ai
+oneofthe17phdstudentsandpostdocsselectedbytheuniversityofsoutherncalifornia(usc).
+5. bestpaperaward
+3/8
+6. selectedparticipanttotheheidelberglaureateforum[heidelberg-laureate-forum.org]
+oneofthe200youngresearchersworldwideselectedtomeetwithlaureatesincsandmathematics.
+7. risingstarindatascience[datascience.uchicago.edu/rising-stars]
+oneofthe30phdstudentsandpostdocsselectedbytheuniversityofchicagodatascienceinstitute.
+8. 1stplaceatthecovid-19symptomdatachallenge[symptomchallenge.org]
+outof35teams(115participants, 10+countries). organizedbycatalysthealth, facebookandcmu.
+awarded$50000.
+9. 2ndplaceatthec3.aicovid-19grandchallenge[c3.ai/c3-ai-covid-19-grand-challenge]
+amongdatascienceteamswith700+participantsfrom40+countries. awarded$25000.
+10. studentconferencetravelawards –
+richardtapia2019(ibmscholar),acmsigkdd2020& ,aaai2023. awardedupto$800.
+11. broadeningparticipationindatamining(bpdm)scholarship
+workshopco-locatedwiththesigkddconference. awarded$650.
+12. honoredbythecongressoftherepublicofperu[media]
+commissionforscienceandtechnology. inrecognitiontowinninganinternationalacademiccompetition.
+13. 1stplaceattheasmeoldguardoralpresentationcompetition
+hostedforlatinamericabytheamericansocietyofmechanicalengineers(asme).awarded$500.
+14. perulngscholarship[media]
+awarded$13000tostudyattheuniversityofoklahomaasanexchangestudentforoneyear.
+15. dean’slistformechatronicsengineeringatnationaluniversityofengineering
+16. designatedaspresidentoftheartificialintelligencestudentresearchgroupgiscia
+selectedbasedonmyactiveinvolvementinresearchandleadership.
+17. 4thplaceinthenationaluniversityofengineeringentranceexam
+bestengineeringschoolinperu(<10%acceptancerate).
+research funding and grants
+1. usdepartmentofhealthandhumanservices,centersfordiseasecontrolandprevention. michigan-
+publichealthintegratedcenterforoutbreakanalyticsandmodeling. duration: - .
+–role: co-leadinaicore
+–totalfunds: $6m;rodríguezpart: ∼$120k
+presentations and public engagement
+tutorialsandworkshops................................................................................................
+1. data-drivendecision-makinginpublichealthanditsreal-worldapplications. tutorialataaai(half-day),
+philadelphia,pa,upcominginfebruary2025.
+2. integrating scientific modeling and machine learning in critical applications. tutorial at the midas
+schmidtaiinsciencepostdoctoralbootcamp,universityofmichigan,september2024.
+3. aifordata-centricepidemicforecasting. tutorialataaai(half-day),washington, d.c.,february2023.
+[materials]
+4. data-centricepidemicforecasting. tutorialatkdd(lecture-style),washington,d.c.,august2022. [materials]
+5. data-drivencomputationalmethodsfordiseaseforecastingforresearchersandpractitioners. invitedtuto-
+rialsessionbyforecastingforsocialgoodresearchnetwork,cardiffuniversity. november2021. [materials][video]
+4/8
+invitedtalksandpaneldiscussions................................................................................
+1. ai&multi-agentsystemsfordata-centricepidemicforecasting. invitedkeynotespeakeratautonomous
+[link]
+2. aiforpublichealthprediction. invitedposterpresentationatu.s.nationalacademyofsciencessymposiumon
+"connectionstosustainscienceinlatinamerica,"lima,peru,march2025(upcoming). [link]
+3. publichealthpredictionbyintegratingai,data,andscientificmodelsinepidemiology. invitedspeakerat
+columbiauniversitybiomedicalinformaticsseminarseries. march2025(upcoming). [link]
+4. bridgingaiandscientificmodelsinepidemiology: harnessingthebestofbothworlds. invitedspeakerat
+aaai2025bridgeon"knowledge-guidedmachinelearning: bridgingscientificknowledgeandai",philadelphia,
+pa,february2025(upcoming).
+5. aivs. theflu: cantechnologypredictandpreventepidemics? invitedpanelist(w/prof. adamlauringand
+prof. radamihalcea)atannarbordistrictlibrary,annarbor,mi,december2024. [link][video]
+6. deeplearningmethodsforpublichealthprediction. invitedtalkatmitinstitutefordata,systems,and
+society(idss),cambridge,ma,december2024. [link]
+7. ai for public health: bridging ai, data, and epidemiological models. invited talk at the northeastern
+universitynetworkscienceinstitute(prof. mauriciosantillana’slab),november2024.
+8. real-timediseaseoutbreakresponsebybridgingai,data,andscientificmodels. invitedlightningtalkat
+thensfworkshopondata-drivenmodelingandpredictionofrareandextremeevents,universityofchicago,
+november2024. [link][video]
+9. ai:thegood,thebad,andtheugly. invitedspeaker(w/prof. jjpark)andpanelistatdexterdistrictlibrary,
+november2024. [link]
+10. aiforsocialimpact: bridgingmethodologicalprogressandreal-worlddeployment. sessionspeaker(w/
+prof. elizabethbondi-kelly)atthe2024academicdatascienceallianceannualmeeting,universityofmichigan,
+october2024. [link]
+11. aiforpublichealth: bridgingai,data,andepidemiologicalmodels. invitedguestlectureatcse498
+machinelearningresearchexperience,universityofmichigan,october2024.
+12. artificial intelligence and your future career. invited panelist at health system sciences branch launch.
+universityofmichigan,october2024.
+13. artificial intelligence for data-centric surveillance and forecasting of epidemics. invited talk at acm
+sigkdddissertationawardpresentation,barcelona,spain,august2024. [video]
+14. integratingmachinelearningandscientificmodelingincriticalapplications. invitedtalkatnational
+universityofengineering,departmentofmechanicalengineering,june2024. [video]
+15. reportingbiasinpublichealth: adata-drivencomputationalperspective. invitedtalkatuniversityof
+michiganschoolofpublichealth,epibayesgroup(prof. jonzelner’slab),april2024.
+16. epidemicforecastingwithadata-centriclens. invitedkeynotespeakerattheneuripslatinxinairesearch
+workshop,neworleans,la,december2023. [link]
+17. slowsciencepanel. invitedpanelistattheneuripsnewinmlworkshop,neworleans,la,december2023.
+[link]
+18. personalizing population health through machine learning. invited talk at the university of michigan
+e-hailseminar,december2023.
+19. bridging ai, data, and epidemiological models. invited talk at the university of michigan ai seminar,
+november2023.
+20. aiforpublichealth: epidemicforecastingthroughadata-centriclens. invitedtalkattheuniversityof
+michiganaisymposium,october2023.
+5/8
+21. facultypanelongraduatestudies. panelistatexploregradstudiesincseworkshop,universityofmichigan,
+september2023.
+22. unlockingthebenefitsofaiforsmallbusinesses. invitedspeakeratthelatinamericanassociationacciona
+businesscenter,june2023.
+23. differentiableagent-basedmodelingforepidemiology. invitedtalkattheuniversityofvirginiabiocomplexity
+institute(prof. anilvullikanti’slab),may2023.
+24. mlforepidemicforecasting. invitedtalkatthemitmedialab,cameraculture(prof. rameshraskar’slab),
+january2023.
+25. aifordata-centricsurveillanceandforecastingofepidemics. invitedtalkattheuniversityofsouthern
+california,symposiumfrontiersofmachinelearningandartificialintelligence,november2022.
+26. dataandaiforpublichealth: frameworksfordata-centricepidemicforecasting. invitedtalkatgoogle
+healthai,june2022.
+27. deeplearningframeworksforepidemicforecasting. risingstarsindatascienceworkshop,universityof
+chicagodatascienceinstitute(dsi),november2021.
+28. ai/mlforpandemicresponse. invitedtalkatpathcheckglobalhealthinnovatorstalkseries,may2021.
+[video]
+29. lifeduringgradschool. [link]
+30. deepoutbreak: adeeplearningframeworkforimprovedsituationalawarenessofthespreadofcovid-
+19andflu. covid-19symptomdatachallengewinnersshowcase,december2020. [video]
+31. 5minutesoffame: studentresearchers. invitedpanelistattechsuyo2020,october2020. [video]
+32. covid-19forecastingwithdeeplearning. speakeratthecdc/midascovidforecastingmeeting,august
+.
+mediacoverage.............................................................................................................
+1. capabilities,limitations,anddispellingmyths&fearsofai.interviewattheartlewisshowfromwsgw(a
+saginawradiostation),june2024
+2. data-centricepidemicforecasting. latinxinai(lxai)podcast,december2023[video]
+advising
+postdoctoralresearchers:
+•haotianchen(schmidtaiinsciencepostdoctoralfellow),co-mentoredwithprof. venkatviswanathan.
+fall2024–present.
+phdstudents:
+•dianagomez,csphd.fall2024–present.
+•wenhaomu,csphd.fall2024–present.
+•ruipuli,csms+phd.fall2023–present.
+msandundergraduatestudents:
+•mehmeduludag,csbs.winter2024–present.
+•zhicao,csbs.winter2024–present.
+•victoriabronstein,csbs.summer2024–present.
+•facundoyan,csbs.summer2024–present.
+•anikmumssen,csbs.summer2024–present.
+•sonikapotnis,csbs.fall2024–present.
+•danielmenacho,researchintern. summer2024–present.
+6/8
+•hershvora,csbs.fall2023–winter2024.
+•katherinetomashevsky,csbs.fall2023–winter2024.
+•yuhanzhang,csbs.fall2023–winter2024.
+doctoralandmscommitteemembership:
+•artemabzaliev,phdadvisor: prof. radamihalcea,cs,univ. ofmichigan-annarbor.
+•danielebaccega,phdadvisor: prof. matteosereno,cs,universityofturin,italy.
+mentoring:
+•zhiyuanzhao,csphd.fall2022–spring2023.
+•rishiraman,csbs.summer2022–spring2023.
+•srikarbalusu,csbs.spring2022–spring2023.
+•gauthamgururajan,csms.fall2021–spring2022.
+•suchetsapre,csbs.fall2021.
+•mirapatel,aebs.summer2021.
+•juancarlosbarbaran-meza,visitingstudent. fall2020–spring2021.
+•pulakagarwal,csbs.summer2020–fall2022.
+•javenho,ecebs.summer2020–spring2021.
+service
+academic.......................................................................................................................
+co-organizerandlocalco-chair
+aamas2025[aamas2025.org] -25
+programcommitteechairandco-organizer
+–
+leadingworkshopindatascienceforepidemiologyandpublichealth
+conferenceprogramcommitteemember
+kdd,neurips,aaai,iclr,webconf,ijcai,icml,mlhc,uai,bigdata,asonam multiple
+reviewer,ai/mljournals
+journalofmachinelearningresearch(jmlr),journalofartificialintelligenceresearch(jair)
+workshopprogramcommitteemember
+multiple
+invitedparticipantincomputingresearchassociation(cra)visioningworkshop
+futureofpandemicresponseandpreventionworkshop,hostedbythecra[cra.org]
+reviewer
+masonidiapredoctoralfellowship june2023
+reviewer,domain-specificjournals
+ploscomputationalbiology,plosdigitalhealth,sustainableandresilientinfrastructure,epidemics multiple
+publicrelationsandtechnicalsupport
+preventsymposium(nsffunded)[prevent-symposium.org]
+nationalsymposiumonpredictingemergenceofvirulententitiesbynoveltechnologies
+co-organizer(fundraisingcommittee)
+,
+datascienceworkshopco-locatedwithkddforunderrepresentedminorities. tofundthetravelcostsof
+participants,ibuiltpartnershipswithlargetechnologycompanies.
+7/8
+president
+artificialintelligence&controlsystemsstudentgroup[giscia.github.io]
+organizedworkshopsandtalksintroducingartificialintelligencetoundergraduates.
+communityengagement...............................................................................................
+leadorganizer
+explorecsresearch[girlsencoded.eecs.umich.edu] aug. –present
+mentor
+explorecsresearch[girlsencoded.eecs.umich.edu] sep. –april2024
+researchmentorshipfortwouniversityofmichiganundergraduatestudents.
+datathonjudge
+hacklytics2022[hacklytics.io] feb.
+datasciencehackathonorganizedbydatascienceatgeorgiatech.
+mentor,computerscience
+researchexperienceforperuvianundergraduates(repu)[repuprogram.org] sept. –april2021
+mentoredaprospectivegraduatestudentincstocompleteasmallresearchproject.
+mentor
+sisaymentoring[sisay-mentores.org] oct. –march2018
+mentoredexceptionalundergraduatestudentsfromperutostartacareerasresearchers.
+technicalleader
+datakindsanfrancisco–bayarea[datakind.org/chapters/datakind-sf] dec. –jul.
+leddatavisualizationeffortstodevelopanecologyanalyticssystemforconservationinternational.
+projectmanager
+projectmanagementchapteratnationaluniversityofengineering[facebook.com/proyectauni] –
+ledteamsof∼10peopleontwoprojects: (1)achristmascharityeventforchildreninneed,and(2)aproject
+managementtrainingcost-freecourseforundergraduatestudents.
+lastupdate: february2025
+8/8

@@ -1,0 +1,526 @@
+may2024 page1of13
+mahdi cheraghchi
+curriculumvitae
+mailingaddress: 2260haywardst.,room3603 phone:
+departmentofeecs fax:
+universityofmichigan email:
+annarbor,mi48109 web: http://mahdi.ch
+usa orcid:
+researcherid: n-1367-
+mainresearchinterests
+• interconnectionsbetweentheoreticalcomputerscienceandinformationandcodingtheory,
+• sparserecovery(e.g.,compressedsensing,sparsefouriertransforms,combinatorialgroup
+testing),highdimensionalgeometryandtheirapplicationstoalgorithmsformassivedata,
+• information-theoreticprivacyandcryptography,
+• explicitconstructionofcombinatorialobjectsandderandomizationtheory.
+education
+• swissfederalinstituteoftechnology(epfl),lausanne,switzerland. (november2005–july2010)
+ph.d.incomputerscience.
+dissertationtitle: applicationsofderandomizationtheoryincoding.
+supervisor: aminshokrollahi,professor.
+• swissfederalinstituteoftechnology(epfl),lausanne,switzerland. (october2004–july2005)
+m.sc.incomputerscience.
+dissertationtitle: locallytestablecodes. (availableonlineinecccthesisarchive.)
+supervisor: aminshokrollahi,professor.
+• sharifuniversityoftechnology,tehran,iran. (september2000–july2004)
+b.sc.insoftwareengineeringandb.sc.incomputerhardwareengineering.
+workexperience/affiliations
+• (june2019–present)universityofmichigan,annarbor:
+– (09/ –present)associateprofessorofcomputerscienceandengineering(cse)withtenure,
+electricalengineeringandcomputerscience(eecs)department.
+– (09/ –08/ )assistantprofessorofcse.
+– (06/ –08/ )visitingassistantprofessorofcse.
+– serviceassignments:master’sprogramcommitteememberandfacultyadvisor,mission/vision/values
+committeechair,csedeicommitteemember,tenuretrackfacultysearchcommitteemem-
+ber,graduateadmissionscommitteemember.
+• (july2015–present)imperialcollegelondon:
+mahdicheraghchi page2of13
+– (09/ –present)visitingreader,departmentofcomputing.
+– (09/ –08/ )honoraryseniorlecturer,departmentofcomputing.
+– (07/ –08/ )lecturer(equivalentusterm: assistantprofessor),departmentofcomput-
+ing. promotiontoseniorlecturerapprovedin04/ .
+– (07/ –06/ )memberofacademiccentreofexcellenceincybersecurityresearch(ace-
+csr,epsrcgrantep/r007063/1)
+– serviceassignments:undergraduateadmissionscommitteemember,ph.d.mentor,ph.d.schol-
+arshipscommitteemember,academichiringcommitteemember.
+• (april2015–present)
+casewesternreserveuniversity,clevelandoh:adjunctassociateprofessor( –),adjunctas-
+sistantprofessor( - ),departmentofcomputeranddatasciences(previouslydepartmentof
+electricalengineeringandcomputerscience).
+• (january2019–april2019)
+carnegiemellonuniversity:visitingfaculty,computersciencedepartment(hostedbyprof.venkate-
+sanguruswami).
+• (april2015–june2015)
+qualcomm,inc. (qualcommresearchberkeley): technicalconsultant(engineerii).
+• (january2015–may2015)
+university of california, berkeley: visiting assistant project scientist at simons institute for the
+theoryofcomputing.
+• (july2013–december2014)
+massachusettsinstituteoftechnology: post-doctoralfellowatthecomputerscienceandartificial
+intelligencelab(csail)(hostedbyprof.piotrindyk).
+• (september2011–june2013)
+carnegiemellonuniversity: post-doctoralfellowatthecomputersciencedepartment(hostedby
+prof.venkatesanguruswami).
+• (october2010–august2011)
+universityoftexasataustin:post-doctoralassociateatthedepartmentofcomputerscience(hosted
+byprof.davidzuckerman).
+honors,awardsanddistinctions
+• (january2023)vulcanseducationexcellenceaward,universityofmichigancollegeofengineering.
+• (january2023)nsfcareeraward.
+• (winter2021)“honoredinstructor”bytheuniversityofmichiganhousing.
+• (september2016–)acmseniormember.
+• (april2016–)ieeeseniormember.
+• (october2014)qualcommresearchfellowship.
+• (june2012)swissnationalsciencefoundationadvancedresearcherfellowship.
+• (march ) top 7 doctoral dissertations of the year at epfl, switzerland (best theses are
+recognizedannuallybytheepflresearchcommission).
+• (october2010)patrickdenantesmemorialprizeforthebestdissertationintheschoolofcomputer
+andcommunicationsciences,epfl,switzerland.
+mahdicheraghchi page3of13
+• (may2010)swissnationalsciencefoundationprospectiveresearcherfellowship.
+• (february2005)bestb.sc.graduateawardincomputerengineering, sharifuniversityoftechnol-
+ogy.
+grants
+totalamounttodate: usd1,487,392.
+• (09/ –08/ )nationalsciencefoundationccf-2236931: “career:efficiencyconsiderations
+inlistdecodingandpseudorandomnesstheory”(solepi,usd655,033).
+• (10/ –09/ ) national science foundation (nsf cise core programs) ccf-2107345: “collab-
+orative research: cif: medium: group testing for real-time polymerase chain reactions: from
+primerselectiontoamplificationcurveanalysis”(usd1,200,000,um’sshareusd200,000).
+principal investigators: mahdi cheraghchi (university of michigan), ryan gabrys (ucsd), nigel
+goldenfeld(uiuc),venkatesanguruswami(cmu),olgicamilenkovic(uiuc).
+• (10/ –09/ )nationalsciencefoundation(nsfcisecoreprograms)ccf-2006455: “cif:af:
+small: dataprocessingagainstsynchronizationerrors”(solepi,usd489,159).
+• (june2012)swissnationalsciencefoundationadvancedresearchersgrant(no.pa00p2-141980)for
+theproject“codingtheoryandsparserecovery”(usd76,700).
+• (may ) swiss national science foundation prospective researchers grant (no. pbelp2-133367)
+fortheproject“pseudorandomness,extractortheory,andcoding”(usd66,500).
+patents
+1. olgicamilenkovic,ryangabrys,joa˜oribeiro,mahdicheraghchi. codedtracereconstruction. united
+statespatentapplication17/069,247,filedonoctober13, (provisionalapplicationno.62/925,332,
+filedonoctober24, ),publishedonapril29, .
+2. thomas richardson, michael luby, mahdi cheraghchi, lorenz minder. (qualcomm, inc.) systems
+and methods for verification of code resiliency for data storage. united states patent 10,003,357, june 19,
+.
+studentsupervisionandmentorship
+• ph.d.students:
+1. nikhilshagrithaya(september2021–).
+2. saminriasat(september2021–).
+3. alexandraveliche(september2020–).
+4. dimitriosmyrisiotis(october2017–october2021),imperialcollegelondon.
+thesistitle: “thecomplexityandapplicationsofcircuitminimization”.
+first placement: post-doctoral associate at the national university of singapore (cs depart-
+ment).
+5. joa˜oribeiro(october2017–june2021),imperialcollegelondon.
+thesistitle: “codingagainstsynchronisationandrelatederrors”.
+subsequentpositions: post-doctoralassociateatcarnegiemellonuniversity(csdepartment);
+assistantprofessor,newuniversityoflisbon,portugal.
+• visitingph.d.students:
+mahdicheraghchi page4of13
+1. thach van bui from sokendai (the graduate university for advanced studies, japan), fall
+.
+• mastersstudents:
+1. shahrokhshahi,imperialcollegelondon, .
+thesistitle: “algorithmsforgraphpartitioning”
+2. liuwingsangvincent,imperialcollegelondon, .
+thesistitle: “problemsandreductionsinlattice-basedcryptography”.
+researchpublications
+allpublicationsareavailableonlineathttp://mahdi.cheraghchi.info/writings/.
+*fiveselectedpublicationsaremarkedwithasterisks.
+journalpapers
+[1]a.nambiar,c.pan,v.rana,m.cheraghchi,j.ribeiro,s.maslov,o.milenkovic.semi-quantitativegroup
+testingforefficientandaccurateqpcrscreeningofpathogenswithawiderangeofloads.bmcbioinformatics
+25(1): pp.1–18,doi:10.1186/s , .
+[2] h. bennett, m. cheraghchi, v. guruswami, j. ribeiro. parameterized inapproximability of the min-
+imum distance problem over all fields and the shortest vector problem in all ℓ . siam journal on
+p
+computing,toappear(sicomp), .
+[3]m.cheraghchi,j.ribeiro.simplecodesandsparserecoverywithfastdecoding.siamjournalondiscrete
+mathematics(sidma)37(2): pp.612–631. doi:10.1137/21m1465354, .
+[4]m.cheraghchi,j.downs,j.ribeiro,a.veliche. mean-basedtracereconstructionoveroblivioussynchro-
+nizationchannels. ieeetransactionsoninformationtheory68(7): pp.4272–4281. doi:10.1109/tit.
+.3157383, .
+[5] m. cheraghchi, s. hirahara, d. myrisiotis, and y. yoshida. one-tape turing machine and read-once
+branchingprogramlowerboundsformcsp.theoryofcomputingsystems: pp.1–32, doi:10.1007/
+s , .
+[6]m.cheraghchi. j.ribeiro. non-asymptoticcapacityupperboundsforthediscrete-timepoissonchannelwith
+positive dark current. ieee communications letters 25(12): pp. 3829–3832, doi:10.1109/lcomm.
+.3120706, .
+[7]t.v.bui,m.cheraghchi,i.echizen. improvednon-adaptivealgorithmsforthresholdgrouptestingwitha
+gap. ieeetransactionsoninformationtheory67(11),pp.7180–7196,doi:10.1109/tit. .3104670,
+.
+[8]m.cheraghchi. j.ribeiro. anoverviewofcapacityresultsforsynchronizationchannels. ieeetransac-
+tionsoninformationtheory67(6): pp.3207–3232. doi:10.1109/tit. .2997329, .
+[9] m. cheraghchi, v. kabanets, z. lu, d. myrisiotis. circuit lower bounds for mcsp from local pseudo-
+randomgenerators. acmtransactionsoncomputationtheory(toct)12(3), doi:10.1145/3404860,
+(extendedversionof[40]), .
+[10] m. cheraghchi, r. gabrys, o. milenkovic, j. ribeiro. coded trace reconstruction. ieee transactions
+on information theory 66(10): 6084–6103 (extended version of [39]), doi:10.1109/tit. .2996377,
+.
+[11]m.cheraghchi. j.ribeiro. sharpanalyticalcapacityupperboundsforstickyandrelatedchannels. ieee
+transactionsoninformationtheory65(11),pp.6950–6974,doi:10.1109/tit. .2920375(extended
+versionof[44]), .
+mahdicheraghchi page5of13
+[12]t.v.bui,m.kuribayashi,m.cheraghchi,i.echizen.efficientlydecodablenon-adaptivethresholdgroup
+testing.ieeetransactionsoninformationtheory65(9),pp.5519–5528,doi:10.1109/tit. .2907990
+(extendedversionof[47]), .
+*[13]m.cheraghchi. capacityupperboundsfordeletion-typechannels. journaloftheacm(jacm)6(2):9,
+doi:10.1145/3281275(extendedversionof[48]), .
+[14]m.cheraghchi. expressionsfortheentropyofbasicdiscretedistributions. ieeetransactionsoninfor-
+mationtheory65(7),pp.3999–4009,doi:10.1109/tit. .2900716(extendedversionof[46]), .
+[15]m.cheraghchi,j.ribeiro. improvedupperboundsandstructuralresultsonthecapacityofthediscrete-
+time poisson channel. ieee transactions on information theory 65(7), pp. 4052–4068, doi:10.1109/
+tit. .2896931(extendedversionof[45]), .
+[16] m. cheraghchi. nearly optimal robust secret sharing. designs, codes and cryptography 87(8), pp.
+1777–1796,doi:10.1007/s -y(extendedversionof[51]), .
+[17]m.cheraghchi, e.grigorescu, b.juba, k.wimmer, n.xie. ac0 ◦mod lowerboundsfortheboolean
+2
+inner product, journal of computer and system sciences (jcss) vol. 97, pp. 45–59, (extended
+versionof[50]).
+[18] k. chandrasekaran, m. cheraghchi, v. gandikota, e. grigorescu. local testing of lattices. siam
+journalondiscretemathematics(sidma)32(2),pp.1265-1295, (extendedversionof[49]).
+*[19]m.cheraghchi,p.indyk. nearlyoptimaldeterministicalgorithmforsparsewalsh-hadamardtransform.
+acmtransactionsonalgorithms(talg)13(3):34, (extendedversionof[52]).
+*[20]m.cheraghchi,v.guruswami. non-malleablecodingagainstbit-wiseandsplit-statetampering. jour-
+nalofcryptology30(1),pp.191–241, (extendedversionof[53]).
+*[21] m. cheraghchi, v. guruswami. capacity of non-malleable codes. ieee transactions on information
+theory62(3),pp.1097–1118, (extendedversionof[54]).
+*[22] m. cheraghchi, v. guruswami, a. velingker. restricted isometry of fourier matrices and list decod-
+ability of random linear codes. siam journal on computing (sicomp) 42(5), pp. 1888– , .
+arxiv:1207.1140(extendedversionof[55]).
+[23] m. cheraghchi. improved constructions for non-adaptive threshold group testing. algorithmica 67(3),
+pp.384–417, . arxiv:1002.2244,doi:10.1007/s . (extendedversionof[60]).
+[24]m.cheraghchi. noise-resilientgrouptesting: limitationsandconstructions. discreteappliedmathe-
+matics161(1–2),pp.81–95, . doi:10.1016/j.dam. .07.022,arxiv:0811.2609(extendedversion
+of[63]).
+[25]m.cheraghchi,j.ha˚stad,m.isaksson,o.svensson. approximatinglinearthresholdpredicates. acm
+transactionsoncomputationtheory(toct)4(1),article2,march2012. eccctr10-132(extended
+versionof[59]).
+[26]m.cheraghchi,f.didier,a.shokrollahi. invertibleextractorsandwiretapprotocols. ieeetransactions
+oninformationtheory58(2),pp.1254–1274, . arxiv:0901.2120(extendedversionof[65]).
+[27]m.cheraghchi,a.karbasi,s.mohajer,v.saligrama. graph-constrainedgrouptesting. ieeetransac-
+tionsoninformationtheory58(1),pp.248–262, . arxiv:1001.1445(extendedversionof[61]).
+[28] m. cheraghchi, a. hormati, a. karbasi, m. vetterli. compressed sensing with probabilistic tests: the-
+ory, design and application. ieee transactions on information theory 57(10), pp. 7057–7067, .
+(arxiv:1009.3186,extendedversionof[62]).
+mahdicheraghchi page6of13
+conferencepapers
+[29]h.bennett, m.cheraghchi, v.guruswami, j.ribeiro. parameterizedinapproximabilityofthemini-
+mumdistanceproblemoverallfieldsandtheshortestvectorprobleminallℓ . inproceedingsofthe
+p
+55thannualacmsymposiumontheoryofcomputing(stoc), .
+[30] e. allender, m. cheraghchi, d. myrisiotis, h. tirumala, i. volkovich. one-way functions and a condi-
+tionalvariantofmktp.inproceedingsofthe41stconferenceonfoundationsofsoftwaretechnology
+andtheoreticalcomputerscience(fsttcs), .
+[31] m. cheraghchi, r. gabrys, o. milenkovic. semiquantitative group testing in at most two rounds. in
+proceedingsoftheieeeinternationalsymposiumoninformationtheory(isit), .
+[32]t.v.bui,m.cheraghchi,t.d.nguyen. improvedalgorithmsfornon-adaptivegrouptestingwithcon-
+secutivepositives. inproceedingsoftheieeeinternationalsymposiumoninformationtheory(isit),
+.
+[33] m. cheraghchi, j. downs, j. ribeiro, a. veliche. mean-based trace reconstruction over practically any
+replication-insertion channel. in proceedings of the ieee international symposium on information
+theory(isit), .
+[34]m.cheraghchi, e.grigorescu, b.juba, k.wimmer, andn.xie. listlearningwithattributenoise. in
+proceedingsoftheinternationalconferenceonartificialintelligenceandstatistics(aistats), .
+[35] m. cheraghchi, s. hirahara, d. myrisiotis, and y. yoshida. one-tape turing machine and read-once
+branching program lower bounds for mcsp. in proceedings of the 38th international symposium on
+theoreticalaspectsofcomputerscience(stacs), .
+invitedtothespecialissueoftheoryofcomputingsystems.
+[36]m.cheraghchiandv.nakos. combinatorialgrouptestingschemeswithnear-optimaldecodingtime. in
+proceedingsofthe61stannualieeesymposiumonfoundationsofcomputerscience(focs), .
+[37]t.v.bui,m.cheraghchi,i.echizen. improvednon-adaptivealgorithmsforthresholdgrouptestingwitha
+gap. inproceedingsoftheieeeinternationalsymposiumoninformationtheory(isit), .
+[38]f.lin,m.cheraghchi,v.guruswami,r.safavi-naini,h.wang.leakage-resilientsecretsharinginnon-
+compartmentalizedmodels. inproceedingsoftheconferenceoninformation-theoreticcryptography
+(itc), .
+[39]m.cheraghchi,r.gabrys,o.milenkovic,j.ribeiro. codedtracereconstruction. inproceedingsofthe
+ieeeinformationtheoryworkshop(itw),arxiv: .09992, .
+[40]m.cheraghchi,v.kabanets,z.lu,d.myrisiotis. circuitlowerboundsformcspfromlocalpseudoran-
+dom generators. in proceedings of the 46th international colloquium on automata, languages and
+programming(icalp), .
+[41]m.cheraghchi. j.ribeiro. simplecodesandsparserecoverywithfastdecoding. inproceedingsofthe
+ieeeinternationalsymposiumoninformationtheory(isit), .
+[42] f. lin, r. safavi-naini, m. cheraghchi, h. wang. non-malleable codes against active physical layer
+adversary. inproceedingsoftheieeeinternationalsymposiumoninformationtheory(isit), .
+[43] f. lin and m. cheraghchi and v. guruswami and r. safavi-naini and h. wang. secret sharing with
+binary shares. in proceedings of the 10th innovations in theoretical computer science conference
+(itcs),arxiv:1808.02974, .
+[44] m. cheraghchi. j. ribeiro. sharp analytical capacity upper bounds for sticky and related channels. in
+proceedings of the 56th annual allerton conference on communication, control, and computing,
+.
+mahdicheraghchi page7of13
+[45] m. cheraghchi. j. ribeiro. improved capacity upper bounds for the discrete-time poisson channel. in
+proceedingsoftheieeeinternationalsymposiumoninformationtheory(isit), .
+[46] m. cheraghchi. expressions for the entropy of binomial-type distributions. in proceedings of the ieee
+internationalsymposiumoninformationtheory(isit), .
+[47]t.v.bui,m.kuribayashi,m.cheraghchi,i.echizen.efficientlydecodablenon-adaptivethresholdgroup
+testing. inproceedingsoftheieeeinternationalsymposiumoninformationtheory(isit), .
+[48] m. cheraghchi. capacity upper bounds for deletion-type channels. in proceedings of the 50th acm
+symposiumontheoryofcomputing(stoc).arxiv:1711.01630, .
+[49]k.chandrasekaran,m.cheraghchi,v.gandikota,e.grigorescu. localtestingformembershipinlat-
+tices. in proceedings of the 36th foundations of software technology and theoretical computer
+scienceconference(fsttcs), .
+[50]m.cheraghchi, e.grigorescu, b.juba, k.wimmer, n.xie. ac0 ◦mod lowerboundsfortheboolean
+2
+inner product, in proceedings of the 43rd international colloquium on automata, languages and
+programming(icalp), .
+[51]m.cheraghchi. nearlyoptimalrobustsecretsharing. inproceedingsoftheieeeinternationalsympo-
+siumoninformationtheory(isit), .
+[52]m.cheraghchi,p.indyk. nearlyoptimaldeterministicalgorithmforsparsewalsh-hadamardtransform.
+in proceedings of the acm-siam symposium on discrete algorithms (soda). eccc tr15-076,
+.
+[53] m. cheraghchi, v. guruswami. non-malleable coding against bit-wise and split-state tampering. in
+proceedingsoftheoryofcryptographyconference(tcc).eccctr13-121, .
+[54] m. cheraghchi, v. guruswami. capacity of non-malleable codes. in proceedings of innovations in
+theoreticalcomputerscience(itcs).eccctr13-118, .
+[55]m.cheraghchi,v.guruswami,a.velingker. restrictedisometryoffouriermatricesandlistdecodabil-
+ity of random linear codes. in proceedings of the acm-siam symposium on discrete algorithms
+(soda).arxiv:1207.1140, .
+[56]m.cheraghchi,a.klivans,p.kothari,h.k.lee. submodularfunctionsarenoisestable. inproceedings
+oftheacm-siamsymposiumondiscretealgorithms(soda), . arxiv:1106.0518.
+[57]m.cheraghchi. coding-theoreticmethodsforsparserecovery. inproceedingsof49thallertonconfer-
+enceoncommunication,controlandcomputing, (invitedpaper).
+[58] m. cheraghchi. derandomization and group testing. in proceedings of 48th allerton conference on
+communication,controlandcomputing, (invitedpaper).
+[59] m. cheraghchi, j. ha˚stad, m. isaksson, o. svensson. approximating linear threshold predicates. in
+proceedings of the 13th international conference on approximation algorithms for combinatorial
+optimizationproblems(approx), .
+[60]m.cheraghchi. improvedconstructionsfornon-adaptivethresholdgrouptesting. inproceedingsofthe
+37thinternationalcolloquiumonautomata,languagesandprogramming(icalp), .
+[61]m.cheraghchi,a.karbasi,s.mohajer,v.saligrama. graph-constrainedgrouptesting. inproceedings
+of ieee international symposium on information theory (isit), (nominated for the best student
+paperaward.
+[62]m.cheraghchi,a.hormati,a.karbasi,m.vetterli.compressedsensingwithprobabilisticmeasurements:
+agrouptestingsolution.inproceedingsof47thallertonconferenceoncommunication,controland
+computing, .
+mahdicheraghchi page8of13
+[63] m. cheraghchi. noise-resilient group testing: limitations and constructions. in proceedings of 17th
+internationalsymposiumonfundamentalsofcomputationtheory(fct), .
+[64]m.cheraghchi. capacityachievingcodesfromrandomnessconductors. inproceedingsofieeeinterna-
+tionalsymposiumoninformationtheory(isit), .
+[65]m.cheraghchi,f.didier,a.shokrollahi. invertibleextractorsandwiretapprotocols. inproceedingsof
+ieeeinternationalsymposiumoninformationtheory(isit), .
+[66] e. ardestanizadeh, m. cheraghchi, a. shokrollahi. bit precision analysis for compressed sensing. in
+proceedingsofieeeinternationalsymposiumoninformationtheory(isit), .
+[67] m. cheraghchi, a. shokrollahi. almost-uniform sampling of points on high-dimensional algebraic va-
+rieties. inproceedingsof26thinternationalsymposiumontheoreticalaspectsofcomputerscience
+(stacs), .
+[68] m. cheraghchi, a. shokrollahi, a. wigderson. computational hardness and explicit constructions of
+errorcorrectingcodes. inproceedingsof44thallertonconferenceoncommunication, controland
+computing, (invitedpaper).
+technicalreportsandpreprintsinsubmission
+[69]r.gabrys,s.pattabiraman,v.rana,j.ribeiro,m.cheraghchi,v.guruswami,o.milenkovic.ac-dc:
+amplificationcurvediagnosticsforcovid-19grouptesting. arxiv: .05223, .
+[70] t. v. bui, m. kuribayashi, m. cheraghchi and i. echizen. efficient and error-tolerant schemes for non-
+adaptivecomplexgrouptestinganditsapplicationincomplexdiseasegenetics. arxiv: .00349, .
+[71]t.v.bui,m.kuribayashi,m.cheraghchi,i.echizen. improvedencodinganddecodingfornon-adaptive
+thresholdgrouptesting. arxiv: .02283, .
+[72]t.v.bui,m.kuribayashi,m.cheraghchiandi.echizen. aframeworkforgeneralizedgrouptestingwith
+inhibitorsanditspotentialapplicationinneuroscience. arxiv:1810.01086, .
+[73] m. cheraghchi, a. ga´l, a. mills. bounds on correctness and corruption for locally decodable codes.
+eccctr12-172, .
+[74]m.cheraghchi. onmatrixrigidityandthecomplexityoflinearforms. eccctr05-070, .
+teaching(asaninstructor)
+• attheuniversityofmichigan–annarbor:
+– (fall2022)eecs572: randomnessandcomputation.
+– (fall2021,fall2023,winter2025)eecs574: computationalcomplexity.
+– (fall2020)eecs598: randomnessandcomputation.
+– (winter2020,winter2021,winter2022,winter2023,fall2023,winter2025)eecs475:introduc-
+tiontocryptography.
+– (fall2019)eecs498/598: codingtheoryfortheoreticalcomputerscience.
+• atimperialcollegelondon,departmentofcomputing:
+– (autumn2018)co-202: algorithmsii.
+– (autumn2016,autumn2017)co-484: quantumcomputing. jointwithdr.herbertwiklicky.
+– (autumn , autumn , autumn , autumn ) co-349: information and coding
+theory. jointwithdr.herbertwiklicky.
+mahdicheraghchi page9of13
+– (autumn , autumn , autumn ) co-145: mathematical methods. joint with dr.
+marcdeisenroth.
+• atmiteecs:
+– (fall2014)6.006: introductiontoalgorithms. jointwithprofs.silviomicaliandvinodvaikun-
+tanathan.
+– (spring2014)6.045: automata,computability,andcomplexity. jointwithprof.madhusudan.
+• atcmucomputersciencedepartment:
+– (spring :introductiontoinformationtheoryanditsapplicationsintheoryofcom-
+putation. jointwithprof.venkatesanguruswami.
+academicservice
+• (02/ –present)editorialboardmember,ieeebitstheinformationtheorymagazine.
+• technicalprogramcommitteemember:
+1. the international conference on the theory and application of cryptology and informa-
+tionsecurity(asiacrypt2024).
+2. the2024ieeeinternationalsymposiumoninformationtheory(isit2024).
+3. the27thinternationalconferenceonrandomizationandcomputation(random2023).
+4. the4thconferenceoninformationtheoreticcryptography(itc2023).
+5. the2023ieeeinternationalsymposiumoninformationtheory(isit2023).
+6. the2022ieeeinformationtheoryworkshop(itw2022).
+7. the25thinternationalconferenceonrandomizationandcomputation(random2021).
+8. the2021ieeeinternationalsymposiumoninformationtheory(isit2021).
+9. the2021imainternationalconferenceoncryptographyandcoding.
+10. the2020ieeeinformationtheoryworkshop(itw2020).
+11. the2020ieeeinternationalsymposiumoninformationtheory(isit2020).
+12. the45thmathematicalfoundationsofcomputerscience(mfcs2020).
+13. thefirstconferenceoninformationtheoreticcryptography(itc2020).
+14. the2019ieeeinternationalsymposiumoninformationtheory(isit2019).
+15. the2018ieeeinternationalsymposiumoninformationtheory(isit2018).
+16. the20thinternationalconferenceonrandomizationandcomputation(random2016).
+• localorganizerchair,computationalcomplexityconference(ccc2024),july2024.
+• (07/ –present)treasurer,thecomputationalcomplexityfoundation(ccf).
+• usanationalsciencefoundation(nsf)panelist: , (twice).
+• (06/ –present)reviewerforamericanmathematicalsociety(ams)mathematicalreviews.
+• (10/ –present)epsrc(engineeringandphysicalsciencesresearchcouncil)collegemember,uk
+(10/ –02/2018associatecollegemember). responsibilitiesincludepeer-reviewofproposalsfor
+researchfundingandservingonprioritizationpanels.
+• (03/ )co-organizerofthedimacsworkshopon“codingtheoreticmethodsfornetworksecu-
+rity”(apartofthedimacsspecialfocusoncybersecurity),march25–27, .
+mahdicheraghchi page10of13
+• (11/ –03/ )editorialboardmember,internationaljournalofinformationandcodingtheory,
+issn1753-7703/1753-7711.
+• servedasreviewerfor
+– journals: journal of the acm (jacm), siam journal on computing (sicomp), ieee transac-
+tionsoninformationtheory(ieeeit),acmtransactionsonalgorithms,computationalcom-
+plexity, journal of fourier analysis and applications (jfaa), communications on pure and
+applied mathematics, ieee transactions on signal processing, discrete applied mathematics
+(dam),ieeejournalonselectedareasincommunications(jsac),acmtransactionsonsen-
+sornetworks,optimizationletters(springer),signalprocessing,informationprocessingletters
+(ipl),informationsciences,scientiairanica.
+– conferences: ieee symposium on foundations of computer science (focs , , ,
+, , ),acmsymposiumonthetheoryofcomputing(stoc2014, , ),acm-
+siam symposium on discrete algorithms (soda , , , , , ), interna-
+tionalcryptologyconference(crypto2015, ), ieeeconferenceoncomputationalcom-
+plexity(ccc2012), annualinternationalconferenceonthetheoryandapplicationsofcryp-
+tographic techniques (eurocrypt , ), theory of cryptography conference (tcc ,
+),internationalcolloquiumonautomata,languagesandprogramming(icalp2016),sym-
+posium on theoretical aspects of computer science (stacs , ), innovations in theo-
+reticalcomputerscience(itcs2019),internationalconferenceonrandomizationandcompu-
+tation(random2011, , ),internationalconferenceonapproximationalgorithmsfor
+combinatorial optimization problems (approx ), ieee international symposium on in-
+formation theory (isit , , , , , , , , , , , ),
+siamsymposiumonsimplicityinalgorithms(sosa2021),iacrinternationalconferenceon
+practiceandtheoryofpublic-keycryptography(pkc2017),internationalconferenceoncryp-
+tology and information security in latin america (latincrypt ), international symposium
+onalgorithmsandcomputation(isaac2012),ieeeinformationtheoryworkshop(itw2016,
+, ), international symposium on turbo codes and related topics (turbo ), ima
+conferenceoncryptographyandcoding( ).
+– fundingschemes:swissnationalsciencefoundation( ),bsf( ),isf( ),engineering
+and physical sciences research council (epsrc uk, , ), european research council
+(erc).
+• invitedparticipantinthe“tcsvisioningworkshop”ofthecommitteefortheadvancementofthe-
+oreticalcomputerscience(catcs), .
+• faculty mentor in the “rising stars ” workshop (an academic career workshop for women in
+eecs)organizedbyucberkeley,november2020.
+• ph.d.defensecommittee: zacharypepin(u.ofmichiganece),chin-jenpang(08/ ,u.ofmichi-
+ganece),neophytoscharalambides(06/ ,u.ofmichiganece),touheedanwaratif(02/ ,
+u. of michigan ece), james wilson (08/ , imperial college london), mohammad vahid jamali
+(06/ ,u.ofmichiganece),mahdisoleymani(04/ ,u.ofmichiganece),adityamodi(11/ ,
+u.ofmichigancse),daweihuang(03/ ,u.ofmichigancse).
+• panelistforthe“adviceonacademicjobsearch”sessionatthe“studentsinacmmobisys(sms)”
+workshop,acmmobisys2021conference.
+invitedresearchtalks
+• plenary speaker at the information theory and applications (ita) workshop, san diego, ca
+(02/ ).
+• invitedtalksatthe2020, , , , , , , ,2011informationtheoryandappli-
+cations(ita)workshop,sandiego,ca(februaryeachyear).
+mahdicheraghchi page11of13
+• invited speaker at workshop on coding and information theory, center of mathematical sciences and
+application,harvarduniversity(04/ ).
+• “capacity upper bounds for deletion-type channels”. invited talk at case western reserve uni-
+versity(04/ ,hostedbyprof.haroldconnamacher)andcentrefordiscretemathematicsandits
+applicationsattheuniversityofwarwick(10/ ).
+• colloquiumspeakeratschoolofmathematics,instituteforresearchinfundamentalsciences(ipm),
+tehran,iran(09/ ).
+• keynote speaker at the second international conference on topics in theoretical computer science
+(ttcs2017),tehran,iran(09/ ).
+• invitedtalkatworkshoponmathematicsofinformation-theoreticcryptography,instituteformath-
+ematicalsciences,nationaluniversityofsingapore(09/ ).
+• “nearlyoptimalrobustsecretsharing”. atsimonsinstituteforthetheoryofcomputing,univer-
+sityofcalifornia,berkeley(06/ ).
+• “nearly optimal deterministic algorithm for sparse walsh-hadamard transform”. invited talks
+at ibm t.j. watson research center (09/ , hosted by dr. krzysztof onak), university of oxford
+(05/ , hostedbydr.standazˇivny´), universityoftoronto(02/ ), casewesternreserveuni-
+versity(05/ ,hostedbyprof.haroldconnamacher),andtheicoreinformationsecuritylabo-
+ratory,universityofcalgary(08/ ,hostedbyprof.reisafavi-naini).
+• “non-malleablecodes: applicationsandconstructions.” invitedtalksatcasewesternreserveuni-
+versity(11/ ,hostedbyprof.haroldconnamacher),andtheicoreinformationsecuritylabo-
+ratory,universityofcalgary(08/ ,hostedbyprof.reisafavi-naini).
+• “capacity and constructions of non-malleable codes”, invited talk at the ams/maa joint
+mathematicsmeetings(jmm),sanantonio,tx(01/ ).
+• invitedspeakeratthe52ndallertonconferenceoncommunication,controlandcomputing,aller-
+tonretreatcenter,monticello,illinois(09/ ).
+• “new faces of error-correcting codes”. invited talks at university of central florida (02/ ),
+ethz(02/ ),imperialcollegelondon(03/ )anduniversityofcalifornia,davis(04/ ).
+• “non-malleable coding against bit-wise and split-state tampering”. invited talks at new york
+university(11/ , hostedbyprof.yevgeniydodis), northeasternuniversity(11/ , hostedby
+prof.danielwichs),andethz(02/ ,hostedbyprof.uelimaurer).
+• “capacityandconstructionsofnon-malleablecodes”. invitedtalksatthemittheoryofcompu-
+tation (toc) seminar (12/ ), carnegie mellon university (11/ , hosted by prof. venkatesan
+guruswami), newyorkcitycryptoday(11/ , heldinnewyorkuniversityandhostedbydr.
+talrabinanddr.sanjamgarg),ibmt.j.watsonresearchcenter(11/ ,hostedbydr.krzysztof
+onak), and bell laboratories (11/ , hosted by dr. emina soljanin), mcgill university (01/ ,
+hostedbyprof.hamedhatami),purdueuniversity(10/ ,hostedbyprof.elenagrigorescu).
+• “restricted isometry of fourier matrices and list decodability of random linear codes”. invited
+talkatcoordinatedsciencelaboratory,universityofillinoisaturbana-champaign(02/ ,hosted
+byprof.olgicamilenkovic).
+• “restricted isometry of fourier matrices and list decodability of random linear codes”. invited
+talkatbelllaboratories,murrayhill,nj(10/ ,hostedbydr.eminasoljanin).
+• invitedlectureattheuniversityofmichigan,annarborfor“coding,complexity,andsparsitywork-
+shop”(07/ ).
+mahdicheraghchi page12of13
+• invitedlectureattheinstituteformathematicsanditsapplications(ima)attheuniversityofmin-
+nesotaforworkshop“grouptestingdesigns,algorithms,andapplicationstobiology”(02/ ).
+• invitedtalkatthedepartmentofcomputerscienceandengineering,pennsylvaniastateuniversity
+(11/ ,hostedbyprof.martinfu¨rer).
+• invitedspeakeratthe49thallertonconferenceoncommunication,controlandcomputing,allerton
+retreatcenter,monticello,illinois(09/ ).
+• “derandomizationandgrouptesting”. invitedtalkatthe48thallertonconferenceoncommunica-
+tion,controlandcomputing,allertonretreatcenter,monticello,illinois(09/ ).
+• “noise-resilient group testing: limitations and constructions” at institute for advanced study,
+princeton(01/ );mitcsail(01/ );ucberkeley(01/ ).
+• “invertibleextractorsandwiretapprotocols”atprincetonuniversity(01/ );ucsandiego(01/
+).
+studentprojectsupervision
+undergraduatestudentprojectssupervisedattheuniversityofmichigan( –):
+1. “a structural study of good error-correcting codes”: urop project by yuxuan chen, yiwen ding,
+jonahnan( – ).
+2. “haskellimplementationoflattice-cryptographickey-homomorphicpseudorandomfunction”hon-
+orscapstoneprojectbybogdanmanga( – ).
+3. vinodramanandsanjanakolisetty(summerandfall2020): researchonsubmodularoptimization.
+studentindividualandgroupprojectssupervisedatimperialcollegelondon( - ):
+1. “securetwo-partycomputationusinggarbledcircuits”byignacionavarro. mengindividualproject,
+spring2018.
+2. “shareroom” by oana ciocioman, cristian matache, silvia sapora, alexandru toma, andrei puiu,
+vladhadarean. softwareengineeringgroupproject,autumn2017.
+3. “mapnotes: happenings in real time” by dennis tsiang, harry moore, thomas allerton, tanmay
+khanna,adannaakwataghibe,shirazbutt. softwareengineeringgroupproject,autumn2017.
+4. “cross-platformmobileapplication: platformforborrowingandlendingitems”byashwithabingu-
+malla, srikrishna subrahmanyam murali, timan noel, krishi shah, nikhita vasani, masturah wan
+mohdazmi. benggroupproject,autumn2016.
+5. “dether: aplatformforincentive-drivensharingofsmartcontractsontheethereumblockchain”by
+mateuszdyda(meng),spring2016.
+6. “howtoflipcoins”byjasonyu(beng,spring2017),adamhosier(beng,spring2017).
+7. “extractingrandomnessfromindependentsources”byxinchen(meng),spring2016.
+8. “cellularautomata”bymiguelmarques(beng),spring2016.
+9. “data structure visualizations” by yuliya gitlina (beng, spring ), andrea janoscikova (beng,
+spring2017),rositarodrigues(beng,spring2017).
+10. “extractinginformationfromcryptocurrency”bylimzunyuan(beng),spring2016.
+11. “sharify: an online sharing platform” by georg grob, kunal wagle, andrew poor, krish de souza,
+mazenel-turk. 3rdyeargroupproject,autumn2015.
+mahdicheraghchi page13of13
+membershipofsocieties
+1. sigmaxi( –).
+2. ieee(studentmember: – ,member: – ,seniormember: –).
+3. acm(studentmember: – ,member: – ,seniormember: –).
+4. eatcs( – ).
+5. siam( – ).
+outreachactivities
+1. facultyrepresentativeoftheuniversityofmichigancollegeofengineeringat:
+• the 50th annual convention of the national society of black engineers (nsbe), atlanta, ga
+(03/24).
+• cmd-it/acmrichardtapiaconference,dallas,tx(09/23).
+• the 49th annual convention of the national society of black engineers (nsbe), kansas city,
+mo(03/23).
+2. (october2018)interviewwithfacultiwebsiteoninformationtheoryresearch
+(availableathttps://faculti.net/capacity-upper-bounds-deletion-type-channels).
+3. support of prospective students worldwide applying to the graduate programs at the university of
+michiganwhoareinfinancialneedandarenoteligibleforapplicationfeewaivers,bypersonallypay-
+ingtheirapplicationfees(10applicantsforthe2021-22admissionscycle). moreinformationavailable
+athttps://mahdi.ch/fees.

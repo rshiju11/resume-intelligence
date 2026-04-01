@@ -1,0 +1,267 @@
+rachit agarwal
+cornelluniversity
+email:
+www.cs.cornell.edu/~ragarwal
+appointments cornelluniversity,departmentofcomputerscience
+associateprofessor, –
+assistantprofessor, –
+ucberkeley,departmentofcomputerscience
+postdoc, –
+education universityofillinoisaturbana-champaign,il,usa
+phd,electricalandcomputerengineering
+lowlatencyqueriesonbiggraphdata
+advisors: p.brightengodfrey,matthewcaesar
+indianinstituteoftechnology(iit)kanpur,india
+bacheloroftechnology,electricalengineering
+awards & recognitions
+irtfappliednetworkingresearchprize
+for“hostcongestioncontrol”
+sigcommbeststudentpaperaward
+for“understandingthehostnetwork”
+kavlifellow,nationalacademyofsciences
+jamesandmarytienteachingaward
+(thehighestawardforteachingincornellcollegeofengineering)
+for“sustainedexcellenceandinnovationinengineeringeducation”
+sloanresearchfellowship
+googleresearchscholaraward
+for“datacentertransportdesignforterabitethernet”
+nsfcareeraward
+for“communicationsynchrony”
+usenixsecuritydistinguishedpaperaward
+for“pancake: frequencysmoothingforencrypteddatastores”
+sigcommbeststudentpaperaward
+for“sincronia: near-optimalnetworkdesignforcoflows”
+googlefacultyresearchaward
+forresearchon“buildinginteractivequerysystemsfordisaggregateddatacenters”
+rambusresearchfellowship,uiuc
+foroutstandingperformanceincomputerscienceandengineeringresearch
+yi-minwangandpi-yuchungresearchaward,uiuc
+forexcellenceinresearchincomputerengineering
+1
+listofteachersrankedasexcellentbytheirstudents,uiuc
+forexcellenceinteaching;jefferickson’s(undergraduate)algorithmscourse: cs473
+allindiarank142iniit-jeeentranceexamination
+teaching
+cs4450 introductiontocomputernetworks
+[spring’25,200students][fall’22,104students][spring’21,227students][spring’20,
+156students][spring’19,98students][spring’18,55students]
+cs6450 advancedcomputernetworks
+[spring’23,12students][fall’19,10students][fall’18,5students][fall’17,7stu-
+dents]
+cs7420 buildingdisaggregatedsystems
+[spring’22,5students]
+cs7490 systemsresearchseminar
+[spring’22,11students][fall’21,11students]
+cs4410/5410 operatingsystems
+[fall’21,236students][fall’16,306students]
+cs7450 computernetworksinadecadefromnow
+[fall’20,10students]
+cs6453 bigdatasystems: trendsandchallenges
+[spring’17,7students]
+cs4411 operatingsystemspracticum
+[fall’16,77students]
+recent publications
+tieredmemorymanagement: accesslatencyisthekey!
+m.vuppalapati,r.agarwal
+sosp
+fast&safeiomemoryprotection
+b.rubin,s.agarwal,q.cai,r.agarwal
+sosp
+understandingthehostnetwork
+m.vuppalapati,s.agarwal,h.schuh,b.kasikci,a.krishnamurthy,r.agarwal
+sigcomm(beststudentpaperaward)
+harmony: acongestion-freedatacenterarchitecture
+s.agarwal,q.cai,r.agarwal,d.shmoys,a.vahdat
+nsdi
+high-throughputandflexiblehostnetworkingforacceleratedcomputing
+a.skiadopoulos,z.xie,m.zhao,q.cai,s.agarwal,j.adelmann,d.ahern,c.contavalli,m.gold-
+flam,v.mayatskikh,r.raja,d.walton,r.agarwal,s.mukherjee,c.kozyrakis
+osdi
+2
+lengthleakageinobliviousdataaccessmechanisms
+g.jia,r.agarwal,a.khandelwal
+usenixsecurity
+exploitingleakageinpasswordmanagersviainjectionattacks
+a.fabrega,a.namavari,r.agarwal,b.nassi,t.ristenpart
+usenixsecurity
+injectionattacksagainstend-to-endencryptedapplications
+a.fabrega,c.o.pereza.namavari,b.nassi,r.agarwal,t.ristenpart
+s&p(oakland)
+incentivesindominantresourcefairallocationunderdynamicdemands
+g.fikioris,r.agarwal,e´.tardos
+sagt
+hostcongestioncontrol
+s.agarwal,a.krishnamurthy,r.agarwal
+sigcomm(irtfappliednetworkingresearchprize)
+karma: resourceallocationfordynamicdemands
+m.vuppalapati,g.fikioris,r.agarwal,a.cidon,a.khandelwal,e´.tardos
+osdi
+formalmethodsfornetworkperformanceanalysis
+m.arashloo,r.beckett,r.agarwal
+nsdi
+dcpim:near-optimalproactivedatacentertransport
+q.cai,m.arashloo,r.agarwal
+sigcomm
+towardsµstaillatencyandterabitethernet: disaggregatingthehostnetworkstack
+q.cai,m.vuppalapati,j.hwang,c.kozyrakis,r.agarwal
+sigcomm
+shortstack: distributed,fault-tolerant,obliviousdataaccess
+m.vuppalapati,k.babel,a.khandelwal,r.agarwal
+osdi
+optimalobliviousreconfigurablenetworks
+d.amir,t.wilson,v.shrivastav,h.weatherspoon,r.kleinberg,r.agarwal
+stoc
+fromswitchschedulingtodatacenterscheduling: matching-coordinatedgreedisgood
+r.agarwal,s.rajakrishnan,d.shmoys
+podc
+jiffy: statisticalmultiplexingofdisaggregatedmemory
+a.khandelwal,y.tang,r.agarwal,a.akella,i.stoica
+eurosys
+understandinghostinterconnectcongestion
+s. agarwal, r. agarwal, b. montazeri, m. moshref, k. elmeleegy, l. rizzo, m. kruijf, g. kumar,
+s.ratnasamy,d.culler,a.vahdat
+hotnets
+understandinghostnetworkstackoverheads
+q.cai,s.chaudhary,m.vuppalapati,j.hwang,r.agarwal
+sigcomm
+3
+rearchitectinglinuxstoragestackforµslatencyandhighthroughput
+j.hwang,m.vuppalapati,s.peter,r.agarwal
+osdi
+inter-datacenterbulktransferswithcodedbulk
+s.tseng,s.agarwal,r.agarwal,h.ballani,a.tang
+nsdi
+pancake: frequencysmoothingforencrypteddatastores
+p.grubbs,a.khandelwal,m.lacharit´e,l.brown,l.li,r.agarwal,t.ristenpart
+usenixsecurity(distinguishedpaperaward)
+tcp rdma:cpu-efficientremotestorageaccesswithi10
+⇡
+j.hwang,q.cai,a.tang,r.agarwal
+nsdi
+buildinganelasticsqlengineondisaggregatedstorage
+m.vuppalapati,j.miron,r.agarwal,d.truong,a.motivala,t.cruanes
+nsdi
+shoal: anetworkarchitecturefordisaggregatedracks
+v.shrivastav,a.valadarsky,h.ballani,p.costa,k.s.lee,h.wang,r.agarwal,h.weatherspoon
+nsdi
+confluo: distributedmonitoringanddiagnosisstackforhigh-speednetworks
+a.khandelwal,r.agarwal,i.stoica
+nsdi
+sincronia: near-optimalnetworkdesignforcoflows
+s.agarwal,s.rajakrishnan,a.narayan,r.agarwal,d.shmoys,a.vahdat
+sigcomm(beststudentpaperaward)
+obladi: obliviousserializabletransactionsinthecloud
+n.crooks,m.burke,s.harel,e.ceccetti,r.agarwal,l.alvisi
+osdi
+distributednetworkmonitoringanddebuggingwithswitchpointer
+p.tammana,r.agarwal,m.lee
+nsdi
+zipg:memory-efficientgraphstoreforinteractivequeries
+a.khandelwal,r.agarwal,i.stoica
+sigmod
+minicrypt: reconcilingcompressionandencryptionforbigdatastores
+w.zheng,f.li,r.popa,i.stoicar.agarwal
+eurosys
+networkrequirementsforresourcedisaggregation
+p.gao,a.narayan,s.karandikar,j.carreira,r.agarwal,s.ratnasamy,s.shenker
+osdi
+simplifyingdatacenternetworkdebuggingwithpathdump
+p.tammana,r.agarwal,m.lee
+osdi
+blowfish: dynamicstorage-performancetradeoffindatastores
+a.khandelwal,r.agarwal,i.stoica
+nsdi
+4
+universalpacketscheduling
+r.mittal,r.agarwal,s.ratnasamy,s.shenker
+nsdi
+succinct: enablingqueriesoncompresseddata
+r.agarwal,a.khandelwal,i.stoica
+nsdi
+phost: distributednear-optimaldatacentertransportovercommoditynetworkfabric
+p.gao,a.narayan,g.kumar,r.agarwal,s.ratnasamy,s.shenker
+conext
+cherrypick: tracingpackettrajectoryinsoftware-defineddatacenternetworks
+p.tammana,r.agarwal,m.lee
+sosr
+fastlane: makingshortflowsshorterwithagiledropnotification
+d.zats,a.iyer,g.ananthanarayanan,r.agarwal,r.katz,i.stoica,a.vahdat
+socc
+universalpacketscheduling
+r.mittal,r.agarwal,s.ratnasamy,s.shenker
+hotnets
+onthescalabilityofroutingwithpolicies
+a.gulyas,g.retvari,z.heszberger,r.agarwal
+ton
+thespace-stretch-timetradeoffindistanceoracles
+r.agarwal
+esa
+distanceoraclesforstretchlessthan2
+r.agarwal,p.b.godfrey
+soda
+briefannouncement: asimplestetch-2distanceoracle
+r.agarwal,p.b.godfrey
+podc
+debuggingthedataplanewithanteater
+h.mai,a.khurshid,r.agarwal,m.caesar,p.b.godfrey,s.t.king
+sigcomm
+approximatedistancequeriesandcompactroutinginsparsegraphs
+r.agarwal,p.b.godfrey,s.har-peled
+infocom
+slickpackets
+g.nguyen,r.agarwal,j.liu,m.caesar,p.b.godfrey,s.shenker
+sigmetrics
+current group
+phd midhulvuppalapati
+shreyaskharbanda
+shouxulin
+5
+group alumni
+sakshamagarwal(phd, ) assistantprofessor,universityofillinoisaturbana-champaign
+!
+qizhecai(phd, ) assistantprofessor,universityofvirginia
+!
+sujayamaiyya(postdoc, ) assistantprofessor,universityofwaterloo
+!
+minatahmasbiarashloo(postdoc, -22) assistantprofessor,universityofwaterloo
+!
+jaehyunhwang(postdoc, -21) assistantprofessor,sungkyunkwanuniversity
+!
+alimunir[postdoc, -20] researcher,huaweicanadaresearchcenter
+!
+anuragkhandelwal[postdoc, ] assistantprofessor,yaleuniversity
+!
+katherinegioioso[ms, -21] phdstudent,stanford
+!
+conference program committee
+ismm [ ]
+osdi [ ][ ][ ]
+nsdi [ ][ ][ ][ ]
+sigmetrics [ ][ ][ ]
+sigcomm [ ]
+atc [ ][ ][ ]
+apocs [ ]
+sosr [ ]
+conext [ ]
+hotcloud [ ]
+icdcs [ ]
+hotos [ (co-chair)]
+community service
+co-organizer nsfcommunityworkshoponlong-termresearchdirectionsinwirednetworking
+panelspeaker [nsfnetsearlycareerworkshop, ]
+cccworkshop [co-organizer, ]
+sigmetrics [conferencedevelopmentcommittee, - ]
+nsfpanel [ 3][ 2][ ][ ][ ][ ]
+⇥ ⇥
+nsdi [posterchair, ]
+hotos [generalco-chair, ]
+department service
+itcommittee [fall2023]
+6
+chair,colloquiumcommittee [fall2022]
+phdadmissionscommittee [ , , , , ]
+colloquiumcommittee [fall2021]
+systemslunchorganizer [spring2022,fall2021]
+lunch&learnorganizer [fall2020]
+seminars [fellowshipapplications, ][phdapplicationreview, ]
+7

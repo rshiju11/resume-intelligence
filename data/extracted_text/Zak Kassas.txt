@@ -1,0 +1,1976 @@
+zak m. kassas
+contact neil ave., office 420 office: (
+information electrical & computer engineering e-mail:
+electroscience laboratory (esl) web: http://ece.osu.edu/people/kassas.2
+the ohio state university lab: http://ece.osu.edu/aspin
+columbus, oh 43210, usa center: http://utc.engineering.osu.edu
+research navigation systems, low earth orbit satellites, cognitive sensing and software-defined
+interests radio, intelligent transportation systems, autonomous vehicles, cyber-physical systems
+capsule bio prof. kassas is the trc endowed chair in intelligent transportation systems and
+a full professor of electrical & computer engineering at the ohio state university
+(osu).heisalsothedirectorofu.s.departmentoftransportationcenter: carmen
+(center for automated vehicles research with multimodal assured navigation), fo-
+cusingonnavigationresiliencyandsecurityofhighlyautomatedtransportationsystems.
+he received from president biden the presidential early career award for scientists
+and engineers (pecase), the highest honor bestowed by the u.s. government on out-
+standing scientists and engineers early in their careers. he is a fellow of the ieee and
+the institute of navigation (ion) and a distinguished lecturer of ieee aerospace &
+electronic systems society and ieee intelligent transportation systems society. he
+authored 200+ peer-reviewed journal and conference papers, 12 magazine articles, 3
+invited book chapters, and 24 u.s. patents. he was ranked by scholargps as the top
+scholar in the world in the field of navigation. his awards include ieee harry rowe
+mimno award, ieee signal processing society grand prize for beamforming research,
+ion col. thurlow award, ion burka award, ieee walter fried award, air force of-
+fice of scientific research (afosr) young investigator program (yip) award, office of
+naval research (onr) yip award, and national science foundation (nsf) career
+award. his students have won several awards, including three best ph.d. dissertation
+awards (from ieee, ion, osu); two us dot graduate student of the year awards;
+and 35+ best paper, student paper, and paper presentation awards.
+hestartedhisacademiccareerin2014atuniversityofcalifornia,riverside;thenwasan
+associate professor at university of california, irvine; then was very early promoted to
+full professor and joined the ohio state university in . his research has attracted
+$27+ million in competitive grants from onr, nsf, afosr, nasa, dot, nist,
+sandianationallabs,aerospacecorporation,amongothers. hehasgiven120+invited
+presentations, keynotes, and plenaries, and served as a subject matter expert to dod,
+gao,dot,andnsf.hisresearchwasfeaturedindozensofinternationalmediaoutlets
+(science,bbc,forbes, ieee,acm,amongothers)andappearedon7magazinecovers.
+heisasenioreditorofieeet-itsandassociateeditorofieeet-aes.heorganized
+andchairednumerousconferences,workshops,andspecialsessions: ieee/ionplans,
+ieee vtc, ieee icassp, ieee itsc, ion gnss+, ion itm, fusion, and acc.
+priortohisacademiccareer,hewasaresearch&developmentengineerwiththecontrol
+design & dynamical systems simulation group at national instruments (ni), where
+he contributed to the full-development cycle (research, implementation, and testing)
+of 6 major and minor releases of: labview control design & simulation module,
+labview system identification toolkit, and labview pid & fuzzy logic toolkit.
+1 of 45
+education the university of texas at austin, austin, tx
+ph.d., electrical & computer engineering, may
+dissertation: analysis and synthesis of collaborative opportunistic navigation
+systems
+advisors: todd e. humphreys (primary) and ari arapostathis (co-advisor)
+the university of texas at austin, austin, tx
+m.s.e., aerospace engineering, august
+report: optimal h and h control of large segmented telescopes
+2 ∞
+advisor: robert h. bishop
+the ohio state university, columbus, oh
+m.s., electrical & computer engineering, december
+thesis: an optimal nonlinear bayesian filter design and combined hospitability
+and synthetic inclination approach for tracking
+advisor: u¨mit o¨zgu¨ner
+lebanese american university, byblos, lebanon
+b.e. with honors, electrical engineering, march
+finalproject: apowermatchingapproachforusinggpsasareliablestandalone
+positioning system
+advisor: samer s. saab
+current trc endowed chair in intelligent jul. – present
+employment transportation systems
+the ohio state university
+full professor jul. – present
+the ohio state university
+department of electrical & computer engineering
+center director sep. – present
+us department of transportation (usdot) tier 1 university transportation cen-
+ter (utc) – carmen: center for automated vehicles research with multimodal
+assured navigation
+past assistant/associate professor (tenured) jan. – jun.
+employment university of california, irvine
+department of mechanical & aerospace engineering
+department of electrical engineering & computer science
+institute of transportation studies
+assistant professor jul. – dec.
+university of california, riverside
+department of electrical & computer engineering
+graduate research assistant jun. – jun.
+the university of texas at austin
+radionavigation laboratory
+wireless networking & communications group (wncg)
+adjunct professor jan. – may, –
+texas state university, san marcos, tx
+ingram school of engineering
+2 of 45
+research and development (r&d) engineer oct. – dec.
+national instruments corp., austin, tx
+control design & dynamical systems simulations group
+graduate research associate apr. – sep.
+the ohio state university
+collaborative center of control science (cccs)
+laboratory research assistant mar. – may
+lebanese american university, byblos, lebanon
+gps laboratory
+research total: $27,775,150; conductedaspi:$24,585,450; kassas’share: $10,157,075
+grants
+federal grants
+• title: development and demonstration of gps alternative for enhanced security
+of the national airspace
+sponsor: nasa
+amount: $963,000
+period: –
+pi: z. kassas
+• title: icarus: high altitude opportunistic radio frequency navigation
+sponsor: sandia national laboratories
+amount: $150,000
+period: –
+pi: z. kassas
+• title: centerforautomatedvehiclesresearchwithmultimodalassurednavigation
+(carmen+) – tier 1 university transportation center (utc)
+sponsor: us department of transportation (usdot)
+amount: $10,000,000(costshare: $5,000,000);kassas’share: $1,463,345(cost
+share: $767,610)
+period: –
+pi: z. kassas; co-pis: q. ahmed (osu), c. chen (osu), d. grejner-brzezinska
+(osu), z. lin (osu), u¨. o¨zgu¨ner (osu), f. o¨zgu¨ner (osu), k. redmill (osu), c.
+toth (osu), a. yener (osu), c. bhat (ut-austin), t. humphreys (ut-austin),
+a. chen (uci), v. deguzman (uci), r. jayakrishnan (uci), s. ritchie (uci), a.
+homaifar (ncat), m. mahmoud (ncat)
+• title: alternative pnt using signals of opportunity navigation
+sponsor: aerospace corporation
+amount: $350,000
+period: –
+pi: z. kassas
+• title: cognitive opportunistic navigation with unknown leo and meo satellite
+signals
+sponsor: office of naval research (onr)
+amount: $750,000
+period: –
+pi: z. kassas
+3 of 45
+• title: smac-fire:closed-loopsensing, modelingandcommunicationsforwild-
+fire
+sponsor: national science foundation (nsf)
+amount: $1,199,087, kassas’ share: $269,600
+period: –
+pi: a. swindlehurst (uci), co-pi: z. kassas, h. jafarkhani (uci), t. banerjee
+(uci), and j. coen (national center for atmospheric research)
+• title: young investigator program (yip): dynamic data driven c-span: cogni-
+tive sensing, perception, autonomy, and navigation
+sponsor: air force office of scientific research (afosr)
+amount: $450,000
+period: –
+pi: z. kassas
+• title: harnessingterrestrialandspace-basedmillimeter-wavesignalsforresilient
+and accurate positioning, navigation, and timing
+sponsor: office of naval research (onr)
+amount: $457,000
+period: –
+pi: z. kassas
+• title: aircraft navigation via opportunistic radio frequency simultaneous local-
+ization and mapping
+sponsor: sandia national laboratories
+amount: $300,000
+period: –
+pi: z. kassas
+• title: assured navigation and timing engineering for automated transportation
+education and research – tier 1 university transportation center (utc)
+sponsor: us department of transportation (usdot)
+amount: $1,925,000 (cost share: $962,500); kassas’ share: $480,966 (cost
+share: $190,604)
+period: –
+pi: z. kassas; co-pis: d. grejner-brzezinska (osu), c. toth (osu), k. redmill
+(osu), u¨. o¨zgu¨ner (osu), a. o’brien (osu), q. ahmed (osu), g. rizzoni (osu),
+t.humphreys(ut-austin),c.bhat(ut-austin), s.ritchie(uci),a.chen(uci),
+k. cohen (uc)
+• title: assessment of cellular signals of opportunity for aerial vehicle navigation
+sponsor: sandia national laboratories
+amount: $25,000
+period:
+pi: z. kassas
+• title: sniffer: signals of opportunity for navigation in frequency-forbidden
+environments
+sponsor: department of the air force
+amount value: $250,000
+period: –
+pi: z. kassas
+• title: developmental test (dt) navigation festival (navfest)
+sponsor: department of the air force
+4 of 45
+amount value: $43,700
+period:
+pi: z. kassas
+• title: young investigator program (yip): i hear, therefore i know where i am:
+exploiting signals of opportunity for robust and accurate navigation in gps-
+denied environments
+sponsor: office of naval research (onr)
+amount: $750,000
+period: –
+pi: z. kassas
+• title: career: situational awareness strategies for autonomous systems in
+dynamic uncertain environments
+sponsor: national science foundation (nsf)
+amount: $500,000
+period: –
+pi: z. kassas
+• title: ultimate navigation chip (unavchip): chip-scale personal navigation sys-
+tem integrating deterministic localization and probabilistic signals of opportunity
+sponsor: national institute of standards and technology (nist)
+amount: $1,960,613, kassas’ share: $350,000
+period: –
+pi: a. shkel (uci), co-pi: z. kassas, s. kia (uci)
+• title: developing a new generation of engineers with cutting-edge knowledge
+in resilient navigation and communication systems in contested electromagnetic
+environments
+sponsor: office of naval research (onr)
+amount: $750,000
+period: –
+pi: z. kassas
+• title: a collaborative opportunistic framework for resilient and accurate navi-
+gation in gps-challenged environments
+sponsor: office of naval research (onr)
+amount: $510,000
+period: –
+pi: z. kassas
+• title: geophysical navigation of unmanned underwater vehicles (uuvs)
+sponsor: office of naval research (onr)
+amount: $225,000; kassas’ share: $150,000
+period: –
+pi: z. kassas; co-pi: j. farrell (ucr)
+• title:towardsoptimalinformationgatheringinunknownstochasticenvironments
+sponsor: national science foundation (nsf)
+amount: $175,000
+period: –
+pi: z. kassas
+internal grants
+• title: characterization of gps-alternative aircraft navigation system with low
+earth orbit (leo) satellite megaconstellations
+5 of 45
+sponsor: consortium on electromagnetics and radio frequencies (cerf), elec-
+troscience laboratory (esl), the ohio state university
+amount: $10,000
+period:
+pi: z. kassas
+• title: characterization of low earth orbit (leo) satellite signals for positioning
+and timing
+sponsor: consortium on electromagnetics and radio frequencies (cerf), elec-
+troscience laboratory (esl), the ohio state university
+amount: $10,000
+period:
+pi: z. kassas
+• title: characterization of 5g signals for positioning, navigation, and timing
+sponsor: consortium on electromagnetics and radio frequencies (cerf), elec-
+troscience laboratory (esl), the ohio state university
+amount: $10,000
+period:
+pi: z. kassas
+• title: ai-drivenintelligentnavigationforautonomousvehiclesinchallengingen-
+vironments
+sponsor: instituteforinformation&communicationtechnologypromotion(iitp),
+south korea
+amount: $10,000
+period:
+pi: z. kassas
+• title: the internet of things (iot) for wildfire management
+sponsor: university of california, irvine
+amount: $30,000; kassas’ share: $12,000
+period: –
+pi: lee swindlehurst (uci); co-pi: z. kassas, h. jafarkhani (uci), t. banerjee
+(uci), and a. eltawil (uci)
+• title: characterization of cellular lte signals in a gps-jammed environment
+sponsor: university of california, irvine
+amount: $9,250
+period: –
+pi: z. kassas
+in-kind total: $276,000
+hardware • sponsor: vectornav
+& software items: vn-200 rugged imu development kits
+gifts value: $14,000
+year:
+• sponsor: orolia
+items: skydel gnss simulation engine
+value: $250,000
+year:
+• sponsor: autel robotics
+items: x-star premium drone fleet
+6 of 45
+value: $12,000
+year:
+honors & outstanding research contributions awards
+awards • institute of electrical and electronics engineers (ieee) fellow promotion,
+• institute of navigation (ion) fellow promotion,
+• ranked by scholargps as the top scholar globally in the field of navigation,
+–
+• ieee harry rowe mimno award,
+• institute of navigation (ion) colonel thomas thurlow award,
+• institute of navigation (ion) samuel burka award,
+• ieee senior member promotion,
+early career awards
+• presidential early career award for scientists and engineers (pecase),
+president biden’s white house,
+• young investigator program (yip) award, air force office of scientific re-
+search (afosr),
+• young investigator program (yip) award, office of naval research (onr),
+• career award, national science foundation (nsf),
+• computer and information science and engineering (cise) research ini-
+tiation initiative (crii) award, nsf,
+plenary, keynote, and distinguished presentations
+• distinguished lecturer, ieee aerospace and electronic systems society, –
+• distinguished lecturer, ieee intelligent transportation systems society, –
+• keynote speaker, ieee international conference on acoustics, speech, & signal
+processing, workshop on distributed signal processing and machine learning for
+autonomous systems, hyderabad, india,
+• keynote speaker, ieee international conference on wireless for space and ex-
+tremeenvironments, workshoponleosatellitesandsystems, daytonabeach, fl,
+• keynote speaker, ieee international symposium on personal, indoor and mobile
+radio communications, workshop on mega constellation satellite network for 6g,
+toronto, canada,
+• distinguished speaker, 6g summit, king abdullah university of science and
+technology (kaust), thuwal, saudi arabia,
+• plenary speaker, international global navigation satellite systems conference,
+sydney, australia,
+• keynote speaker, ifac symposium on advances in automotive control, colum-
+bus, oh,
+• keynote speaker, ieee vehicular technology conference, workshop on mission
+critical communications, helsinki, finland,
+• distinguished speaker, aerospace corporation, el segundo, ca,
+• keynote speaker, international conference on information technology: new gen-
+7 of 45
+erations, las vegas, nv,
+• keynote speaker, ion cognizant autonomous systems for safety critical appli-
+cations conference, miami, fl,
+• plenary speaker, european navigation conference, gothenburg, sweden,
+research recognition awards
+• grand prize, “an indoor localization system exploiting lte signals: a synthetic
+aperture-basedbeamformingapproachtomitigatemultipath,” ieeesignalprocess-
+ing society video contest for beamforming research (5-micc),
+• the university of texas research excellence award,
+• the university of texas professional development award, –
+best paper awards
+• best paper award, “on the fundamental tracking performance and design con-
+siderations of radio navigation,” the ohio state university (osu) electroscience
+laboratory (esl),
+• best paper award, “i can hear you loud and clear: gnss-less aircraft naviga-
+tion with terrestrial cellular signals of opportunity,” us department of transporta-
+tion center for automated vehicles research with multimodal assured navigation
+(carmen+),
+• best student paper award,“multi-constellationblindbeaconestimation,doppler
+tracking, and opportunistic positioning with oneweb, starlink, iridium next, and
+orbcomm leo satellites,” ieee/ion position, location, and navigation sympo-
+sium,
+• best student paper award, “an interacting multiple model estimator of leo
+satellite clocks for improved positioning,” ieee vehicular technology conference,
+• best paper award, “navigation with differential carrier phase measurements from
+megaconstellation leo satellites,” ieee/ion position, location, and navigation
+symposium,
+• best student paper award, “deep learning-aided spatial discrimination for multi-
+path mitigation,” ieee/ion position, location, and navigation symposium,
+• ieee walter fried award for best paper, “precise uav navigation with
+cellularcarrierphasemeasurements,” ieee/ionposition, location, andnavigation
+symposium,
+• best student paper award, “a software-defined receiver architecture for cellular
+cdma-based navigation,” ieee/ion position, location, and navigation sympo-
+sium,
+• best paper award, “optimal receiver placement for collaborative mapping of sig-
+nals of opportunity,” ion gnss+ conference,
+• best student paper award, “constructing a continuous phase time history from
+tdma signals for opportunistic navigation,” ieee/ion position, location & nav-
+igation symposium,
+best paper presentation awards
+• best paper presentation award, “improved leo pnt accuracy enabled by long
+baseline ephemeris corrections,” ion gnss+ conference,
+• best paper presentation award, “improved starlink satellite orbit prediction
+via machine learning with application to opportunistic leo pnt,” ion gnss+
+8 of 45
+conference,
+• best paper presentation award, “blind doppler tracking and positioning with
+noaa leo satellite signals,” ion gnss+ conference,
+• best paper presentation award,“acquisitionandtrackingofstarlinkleosatel-
+lite signals in low snr regime,” ion gnss+ conference,
+• best research poster award, “opportunistic navigation with multi-constellation
+leo satellites,” consortium on electromagnetics and radio frequencies (cerf)
+symposium,
+• best paper presentation award, “protecting the skies: gnss-less aircraft nav-
+igation with terrestrial cellular signals of opportunity,” ion gnss+ conference,
+• best paper presentation award, “observabilityanalysisofopportunisticreceiver
+localization with leo satellite pseudorange measurements,” ion gnss+ confer-
+ence,
+• best paper presentation award, “joint detection and tracking of unknown bea-
+cons for navigation with 5g signals and beyond,” ion gnss+ conference,
+• best paper presentation award, “blind receiver for leo beacon estimation with
+application to uav carrier phase differential navigation,” ion gnss+ conference,
+• best demo award runner-up, “i am not afraid of the gps jammer: exploiting
+cellularsignalsforaccurategroundvehiclenavigationinagps-deniedenvironment,”
+acm workshop on automotive and autonomous vehicle security (autosec),
+• best paper presentation award, “universal receiver architecture for blind navi-
+gation with partially known terrestrial and extraterrestrial signals of opportunity,”
+ion gnss+ conference,
+• best paper presentation award, “a machine learning multipath mitigation ap-
+proach for opportunistic navigation with 5g signals,” ion gnss+ conference,
+• best paper presentation award, “i am not afraid of the jammer: navigating with
+signals of opportunity in gps-denied environments,” ion gnss+ conference,
+• best paper presentation award, “blind opportunistic navigation: cognitive de-
+ciphering of partially known signals of opportunity,” ion gnss+ conference,
+• best paper presentation award, “assessing real 5g signals for opportunistic
+navigation,” ion gnss+ conference,
+• best paper presentation award, “assessment of differential carrier phase mea-
+surements from broadband leo satellite signals for opportunistic navigation,” ion
+gnss+ conference,
+• best paper presentation award, “uav integrity monitoring measure improve-
+ment using terrestrial signals of opportunity,” ion gnss+ conference,
+• best paper presentation award, “indoor localization based on lte carrier phase
+measurements and synthetic antenna array,” ion gnss+ conference,
+• best paper presentation award, “centimeter-accurate uav navigation with cel-
+lular signals,” ion gnss+ conference,
+• best paper presentation award, “inertial navigation system aiding with orb-
+comm leo satellite doppler measurements,” ion gnss+ conference,
+• bestpaperpresentationaward,“distributedsignalsofopportunityaidedinertial
+navigation with intermittent communication,” ion gnss+ conference,
+• best paper presentation award, “computationally efficient receiver design for
+mitigating multipath for positioning with lte signals,” ion gnss+ conference,
+9 of 45
+• best paper presentation award, “signals of opportunity aided inertial naviga-
+tion,” ion gnss+ conference,
+• best paper presentation award, “performance characterization of positioning in
+lte systems,” ion gnss+ conference,
+• best research poster finalist,“navigationwithcellularcdmasignals,”southern
+california robotics symposium,
+• best paper presentation award, “observability analysis of opportunistic nav-
+igation with pseudorange measurements,” aiaa guidance, navigation & control
+conference,
+professional service awards
+• ieeeaerospaceandelectronicsystemssociety(aess)outstandingtech-
+nical panel of the year award, navigation systems panel,
+• institute of navigation (ion) outstanding peer review recognition award,
+academic recognition awards
+• lebanese american university school of engineering scholarship,
+• lebanese american university school of engineering dean’s list of dis-
+tinguished students, –
+student • the ohio state university (osu) electroscience laboratory (esl) best
+supervisee ph.d. dissertation award, dr. mohammad neinavaie,
+honors & • ieee aerospace and electronic systems society (aess) robert t. hill
+awards best ph.d. dissertation award, dr. joe khalife,
+• us department of transportation (usdot) graduate student of the
+year, nadim khairallah,
+• melucci endowed fellowship, mu jia,
+• institute of navigation (ion) bradford parkinson award for best ph.d.
+dissertation, dr. kimia shamaei,
+• paul and beverly holmes endowed fellowship, ali abdallah,
+• us department of transportation (usdot) graduate student of the
+year, joshua morales,
+• university of california, riverside, bourns college of engineering out-
+standing achievement award, souradeep bhattacharya,
+• university of california, riverside, bourns college of engineering aca-
+demic excellence award and dean’s academic distinction award, chris-
+tian ardito,
+• university of california, riverside, graduate student of the year, in the
+national center for sustainable transportation (ncst) university transportation
+center (utc), joe khalife,
+• 35+ best paper, best student paper, or best paper presentation awards
+media research featured in dozens of national and international media outlets (science, bbc,
+visibility forbes, the independent, ieee spectrum, acm, ars technica, mit technology re-
+view,gpsworld,insidegnss,insideunmannedsystems,sciencemagazine,phys.org,
+revolution.aero,space.com,eurekalert.org,homelandsecuritynews,militaryembed-
+10 of 45
+ded systems, cnet.com, singularity hub, yahoo!, epsiloon, europapress, india tv,
+among others) and appeared on 7 magazine covers
+industrial national instruments corp., austin, tx oct. – dec.
+experience research and development (r&d) engineer
+product development:
+• developed software: labview control design & simulation module, system iden-
+tification toolkit, and pid & fuzzy control toolkit
+• executed various phases (research, implementation, and testing) of the development
+cycle of six major and minor releases of software
+• coded multi-platform algorithms for off-line design and simulation and real-time
+(rt) and field programmable gate array (fpga) deployment
+• led initiatives to improve quality of software, resulting in automated frameworks
+guaranteeing numerical robustness and reducing testing time from months to hours
+supervision:
+• guided junior engineers in overseas company branches (china and brazil)
+• served as an industrial advisor for projects from the ohio state university, virginia
+tech, california state university, and brigham young university
+leadership:
+• interviewed candidates for software and hardware r&d positions
+• organized on-campus recruiting booths at engineering career fairs of the ohio
+state university
+• assisted with organizing national instruments conference (ni week), austin, tx,
+august & ; which attracts 3,000+ engineers, educators, and scientists
+teaching the ohio state university aug. – present
+experience graduate courses:
+• ece 5551: state-space control systems (fall , ), 54 students
+• ece 8201: satellite-based & terrestrial radio navigation (fall , ), 18
+students
+university of california, irvine, ca jan. – jun.
+undergraduate courses:
+• mae 170: introduction to control systems (winter , , ), 165 stu-
+dents
+graduate courses:
+• mae 295: global navigation satellite system signal processing & software-
+defined radio design (fall , ), 19 students
+• mae 295: advanced detection & estimation theory (spring , ), 20
+students
+• ecps 209: cps case studies: applied optimal estimation (winter ), 11
+students
+university of california, riverside, ca oct. – dec.
+graduate courses:
+• ee 235: linear systems theory (fall , , , , ), 105 students
+• ee257: globalnavigationsatellitesystemsignalprocessing&software-defined
+radio design (fall , spring ), 16 students
+11 of 45
+• ee 260: advanced detection & estimation theory (spring ), 8 students
+undergraduate courses:
+• ee 132: automatic control (spring , , ), 200 students
+texas state university, san marcos, tx jan. – may, –
+undergraduate courses:
+• mfge 4376: control systems & instrumentation (spring , , ), 100
+students
+• ee 4377: digital signal processing (spring ), 13 students
+leo pnt: from theory to implementation, ieee/ion position, location,
+tutorials
+and navigation symposium, salt lake city, ut
+pntwithterrestrialandleosignalsofopportunity,consortiumonelectro-
+magnetics andradio frequencies (cerf),the ohio state university,colum-
+bus, oh
+journal [j72] nasihati, f., & kassas, z. ( ). observability analysis of receiver localization
+publications with doa measurements from a single leo satellite. ieee trans. on aerospace and
+electronic systems, submitted.
+[j71] kassas, z., & saroufim, j. ( ). leo pnt frameworks for non-cooperative
+satellites with poorly known ephemerides: open-loop sgp4, tracking, and differential.
+ieee aerospace and electronic systems magazine, accepted.
+[j70] saroufim, j., & kassas, z. ( ). ephemeris and timing error disambigua-
+tion enabling precise leo pnt. ieee trans. on aerospace and electronic systems,
+accepted.
+[j69] shahcheraghi, s., saroufim, j., & kassas, z. ( ). acquisition, doppler track-
+ing, and differential leo-aided imu navigation with uncooperative satellites. ieee
+aerospace and electronic systems magazine, accepted.
+[j68] hayek, s., & kassas, z. ( ). modeling and compensation of timing and
+spatial ephemeris errors of non-cooperative leo satellites with application to pnt.
+ieee trans. on aerospace and electronic systems, accepted.
+[j67] kozhaya, s., saroufim, j., & kassas, z. ( ). unveiling starlink for pnt.
+navigation, journal of the institute of navigation, (72)1, pp. 1–35.
+[j66]kassas, z.,hayek,s.,&haidar-ahmad,j.,( ). leosatelliteorbitprediction
+via closed-loop machine learning with application to opportunistic navigation. ieee
+aerospace and electronic systems magazine, (40)1, pp. 34–49.
+[j65] kassas, z., neinavaie, m., khalife, j., shahcheraghi, s., & saroufim, j. ( ).
+the truth is out there: cognitive sensing and opportunistic navigation with unknown
+terrestrial and nonterrestrial signals. ieee signal processing magazine, (41)5, pp. 87–
+99 (special issue).
+[j64] kassas, z., abdallah, a., shahcheraghi, s., khalife, j., lee, c., jurado, j.,
+wachtel, s., duede, j., hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). i can
+hearyouloudandclear: gnss-lessaircraftnavigationwithterrestrialcellularsignalsof
+opportunity. ieee trans. on aerospace and electronic systems, (60)6, pp. 7694–7710.
+12 of 45
+[j63]kozhaya, s., &kassas, z.( ). afirstlookattheonewebleoconstellation:
+beacons, beams, and positioning. ieee trans. on aerospace and electronic systems,
+(60)5, pp. 7528–7534.
+[j62]kassas, z.,khairallah,n.,khalife,j.,lee,c.,jurado,j.,wachtel,s.,duede,j.,
+hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). aircraft navigation in gnss-
+denied environments via radio slam with terrestrial signals of opportunity. ieee
+trans. on intelligent transportation systems, (25)10, pp. 14164–14182.
+[j61] shahcheraghi, s., & kassas, z. ( ). a computationally efficient approach for
+acquisition and doppler tracking for pnt with leo megaconstellations. ieee signal
+processing letters, (31), pp. 2400–2404.
+[j60]kozhaya, s., &kassas, z.( ). onthefundamentaltrackingperformanceand
+design considerations of radio navigation. ieee journal on selected areas in commu-
+nications, (42)9, pp. 2395–2409.
+[j59] kassas, z., khairallah, n., & kozhaya, s. ( ). ad astra: simultaneous track-
+ing and navigation with megaconstellation leo satellites. ieee aerospace and elec-
+tronic systems magazine, (39)9, pp. 46–71.
+[j58] cianca, e., dauncey, j., fasano, g., kassas, z., nel, w., & ruggieri, m. ( ).
+autonomy for sustainability: an aess vision and perspective. ieee aerospace and
+electronic systems magazine, (39)6, pp. 32–41.
+[j57] khairallah, n., & kassas, z. ( ). ephemeris tracking and error propagation
+analysis of leo satellites with application to opportunistic navigation. ieee trans.
+on aerospace and electronic systems, (60)2, pp. 1242–1259.
+[j56] neinavaie, m., & kassas, z. ( ). unveiling starlink leo satellite ofdm-like
+signal structure enabling precise positioning. ieee trans. on aerospace and electronic
+systems, (60)2, pp. 2486–2489.
+[j55] pany, t., akos, d., arribas, j., bhuiyan, m., closas, p., dovis, f., fernandez-
+hernandez, i., fern´andez-prades, c., gunawardena, s., humphreys, t., kassas, z.,
+l´opez salcedo, j., nicola, m., psiaki, m., ru¨gamer, a., song, y., & won, j., ( ).
+gnss software defined radio: history, current developments, and standardization ef-
+forts. navigation, journal of the institute of navigation, (71)1, pp. 1–45.
+[j54] neinavaie, m., & kassas, z. ( ). cognitive sensing and navigation with
+unknown ofdm signals with application to terrestrial 5g and starlink leo satellites.
+ieee journal on selected areas in communications, (42)1, pp. 146–160.
+[j53] kassas, z., & abdallah, a. ( ). no gps no problem: exploiting cellular
+ofdm-basedsignalsforaccuratenavigation. ieee trans. on aerospace and electronic
+systems, (56)6, 9792–9798.
+[j52] jia, m., khalife, j., & kassas, z. ( ). performance analysis of opportunistic
+araim for navigation with gnss signals fused with terrestrial signals of opportunity.
+ieee trans. on intelligent transportation systems, (24)10, 10587–10602.
+[j51]nguyen, a., &kassas, z.( ). efficienttransmitterselectionstrategiesforim-
+provedinformationgatheringofaerialvehiclenavigationingnss-deniedenvironments.
+13 of 45
+ieee aerospace and electronic systems magazine, (38)10, pp. 26–39.
+[j50] neinavaie, m., khalife, j., & kassas, z. ( ). cognitive detection of unknown
+beacons of terrestrial signals of opportunity for localization. ieee trans. on wireless
+communications, (22)8, pp. 5613–5627.
+[j49] kassas, z., khalife, j., abdallah, a., lee, c., jurado, j., wachtel, s., duede,
+j., hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). flight demonstration of
+high altitude aircraft navigation with cellular signals. ieee intelligent transportation
+systems magazine, (15)4, pp. 150–165.
+[j48] khalife, j., & kassas, z. ( ). performance-driven design of carrier phase
+differential navigation frameworks with megaconstellation leo satellites. ieee trans.
+on aerospace and electronic systems, (59)3, pp. 2947–2966.
+[j47] khalife, j., & kassas, z. ( ). a static reduced-order multiple-model adaptive
+estimator for noise identification. ieee trans. on aerospace and electronic systems,
+(59)3, pp. 2672–2686.
+[j46] khalife, j., maaref, m., & kassas, z. ( ). opportunistic autonomous in-
+tegrity monitoring for enhanced uav safety. ieee aerospace and electronic systems
+magazine, (38)5, pp. 34–44 (special issue).
+[j45] abdallah, a., khalife, j., & kassas, z. ( ). exploiting on-demand 5g down-
+link signals for opportunistic navigation. ieee signal processing letters, (30), pp.
+389–393.
+[j44]morales, j., khalife, j., &kassas, z.( ). event-basedcommunicationstrate-
+gies for collaborative inertial radio slam. ieee trans. on aerospace and electronic
+systems, (59)2, pp. 1624–1642.
+[j43] sabbagh, r., & kassas, z. ( ). observability analysis of receiver localization
+via pseudorange measurements from a single leo satellite. ieee control systems
+letters, (7), pp. 571–576.
+[j42] khalife, j., & kassas, z. ( ). differential framework for submeter-accurate
+vehicular navigation with cellular signals. ieee trans. on intelligent vehicles, (8)1,
+pp. 732–744.
+[j41] jao, c., abdallah, a., chen, c., seo, m., kia, s., kassas, z., & shkel, a. ( ).
+pindoc: pedestrianindoor navigation system integrating deterministic, opportunistic,
+and cooperative functionalities. ieee sensors journal, (22)14, pp. 14424–14435.
+[j40] kassas, z., khalife, j., abdallah, a., lee, c., jurado, j., wachtel, s., duede, j.,
+hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). assessment of cellular signals
+of opportunity for high altitude aircraft navigation. ieee aerospace and electronic
+systems magazine, (37)10, pp. 4–19.
+[j39] lee, h., seo, j., & kassas, z. ( ). urban road safety prediction: a satellite
+navigation perspective. ieee intelligent transportation systems magazine, (14)6, pp.
+94–106.
+[j38] khalife, j., & kassas, z. ( ). on the achievability of submeter-accurate uav
+navigation with cellular signals exploiting loose network synchronization. ieee trans.
+on aerospace and electronic systems, (58)5, pp. 4261–4278.
+14 of 45
+[j37]kassas, z.,khalife,j.,abdallah,a.,&lee,c.( ). iamnotafraidofthegps
+jammer: resilient navigation via signals of opportunity in gps-denied environments.
+ieee aerospace and electronic systems magazine, (37)7, pp. 4–19.
+[j36] neinavaie, m., khalife, j., & kassas, z. ( ). acquisition, doppler tracking,
+and positioning with starlink leo satellites: first results. ieee trans. on aerospace
+and electronic systems, (58)3, pp. 2606–2610.
+[j35] morales, j., khalife, j., & kassas, z. ( ). information fusion strategies for
+collaborative inertial radio slam. ieee trans. on intelligent transportation systems,
+(23) 8, pp. 12935–12952.
+[j34] neinavaie, m., khalife, j., & kassas, z. ( ). cognitive opportunistic naviga-
+tion in private networks with 5g signals and beyond. ieee journal of selected topics
+in signal processing, (16)1, pp. 129–143.
+[j33] abdallah, a., jao, c., kassas, z., & shkel, a. ( ). a pedestrian indoor navi-
+gation system using deep-learning-aided cellular signals and zupt-aided foot-mounted
+imus. ieee sensors journal, (22)6, pp. 5188–5198.
+[j32] khalife, j., neinavaie, m., & kassas, z. ( ). the first carrier phase tracking
+and positioning results with starlink leo satellite signals. ieee trans. on aerospace
+and electronic systems, (58)2, pp. 1487–1491.
+[j31] yang, y., khalife, j., morales, j., & kassas, z. ( ). uav waypoint op-
+portunistic navigation in gnss-denied environments. ieee trans. on aerospace and
+electronic systems, (58)1, pp. 663–678.
+[j30] maaref, m., & kassas, z. ( ). autonomous integrity monitoring for vehicular
+navigation with cellular signals of opportunity and an imu. ieee trans. on intelligent
+transportation systems, (23)6, pp. 5586–5601.
+[j29] abdallah, a., & kassas, z. ( ). multipath mitigation via synthetic aper-
+ture beamforming for indoor and deep urban navigation. ieee trans. on vehicular
+technology, (70)9, pp. 8838–8853.
+[j28] maaref, m., khalife, j., & kassas, z. ( ). aerial vehicle protection level
+reduction by fusing gnss and terrestrial signals of opportunity. ieee trans. on
+intelligent transportation systems, (22)9, pp. 5976–5993, (special issue).
+[j27] shamaei, k., & kassas, z. ( ). a joint toa and doa acquisition and
+tracking approach for positioning with lte signals. ieee trans. on signal processing,
+(69), pp. 2689–2705.
+[j26] shamaei, k., & kassas, z. ( ). receiver design and time of arrival estimation
+for opportunistic localization with 5g signals. ieee trans. on wireless communica-
+tions, (20)7, pp. 4716–4731.
+[j25] ragothaman, s., maaref, m., & kassas, z. ( ). autonomous ground vehicle
+path planning in urban environments using gnss and cellular signals reliability maps:
+simulationandexperimentalresults. ieeetrans. onaerospaceandelectronicsystems,
+(57)4, pp. 2575–2586.
+[j24] ragothaman, s., maaref, m., & kassas, z. ( ). autonomous ground vehicle
+15 of 45
+path planning in urban environments using gnss and cellular signals reliability maps:
+models and algorithms. ieee trans. on aerospace and electronic systems, (57)3, pp.
+1562–1580.
+[j23] morales, j., & kassas, z. ( ). tightly-coupled inertial navigation system
+with signals of opportunity aiding. ieee trans. on aerospace and electronic systems,
+(56)3, pp. – .
+[j22] khalife, j., sevinc, c., & kassas, z. ( ). performance evaluation of toa
+positioning in asynchronous cellular networks using stochastic geometry models. ieee
+wireless communications letters, (9)9, pp. 1422–1426.
+[j21]maaref,m.,&kassas, z.( ). measurementcharacterizationandautonomous
+outlierdetectionandexclusionforgroundvehiclenavigationwithcellularsignals. ieee
+trans. on intelligent vehicles, (5)4, pp. 670–683.
+[j20] kassas, z., maaref, m., morales, j., khalife, j., & shamaei, k. ( ). robust
+vehicular localization and map-matching in urban environments through imu, gnss,
+and cellular signals. ieee intelligent transportation systems magazine, (12)3, pp.
+36–52.
+[j19] khalife, j., & kassas, z. ( ). opportunistic uav navigation with carrier
+phase measurements from asynchronous cellular signals. ieee trans. on aerospace
+and electronic systems, (56)4, pp. 3285–3301.
+[j18] maaref, m., & kassas, z. ( ). ground vehicle navigation in gnss-challenged
+environments using signals of opportunity and a closed-loop map-matching approach.
+ieee trans. on intelligent transportation systems, (21)7, pp. 2723–2738.
+[j17] garcia, j., farrell, j., kassas, z., & ouimet, m. ( ). autonomous surface
+vehicle multistep look-ahead measurement location planning for optimal localization of
+underwater acoustic transponders. ieee trans. on aerospace and electronic systems,
+(55)6, pp. 2836–2849.
+[j16] khalife, j., & kassas, z. ( ). optimal sensor placement for dilution of preci-
+sion minimization via quadratically constrained fractional programming. ieee trans.
+on aerospace and electronic systems, (55)4, pp. – .
+[j15]maaref,m.,khalife,j.,&kassas, z.( ). lane-levellocalizationandmapping
+in gnss-challenged environments by fusing lidar data and cellular pseudoranges. ieee
+trans. on intelligent vehicles, (4)1, pp. 73–89.
+[j14] morales, j., & kassas, z. ( ). stochastic observability and uncertainty char-
+acterization in simultaneous receiver and transmitter localization. ieee trans. on
+aerospace and electronic systems, (55)2, pp. 1021–1031.
+[j13] shamaei, k., & kassas, z. ( ). lte receiver design and multipath analy-
+sis for navigation in urban environments. navigation, journal of the institute of
+navigation, (65)4, pp. 655–675.
+[j12] khalife, j., & kassas, z. ( ). navigation with cellular cdma signals – part
+ii: performance analysis and experimental results. ieee trans. on signal processing,
+66(8), pp. 2204–2218.
+[j11] khalife, j., shamaei, k., & kassas, z. ( ). navigation with cellular cdma
+16 of 45
+signals – part i: signal modeling and software-defined receiver design. ieee trans. on
+on signal processing, 66(8), pp. 2191–2203.
+[j10] shamaei, k., khalife, j., & kassas, z. ( ). exploiting lte signals for nav-
+igation: theory to implementation. ieee trans. on wireless communications, 17(4),
+pp. 2173–2189.
+[j9] morales, j., & kassas, z. ( ). optimal collaborative mapping of terrestrial
+transmitters: receiver placement and performance characterization. ieee trans. on
+aerospace and electronic systems, 54(2), pp. 992–1007.
+[j8] kassas, z., khalife, j., shamaei, k., & morales, j. ( ). i hear, therefore
+i know where i am: compensating for gnss limitations with cellular signals. ieee
+signal processing magazine, (34)5, pp. 111–124, (special issue).
+[j7] kassas, z., & humphreys, t. ( ). receding horizon trajectory optimization
+in opportunistic navigation environments. ieee trans. on aerospace and electronic
+systems, 51(2), pp. 866–877.
+[j6] kassas, z., arapostathis, a., & humphreys, t. ( ). greedy motion planning
+for simultaneous signal landscape mapping and receiver localization. ieee journal of
+selected topics in signal processing, 9(2), pp. 247–258.
+[j5] pesyna, k., kassas, z., heath, r., & humphreys, t. ( ). a phase recon-
+struction technique enabling low-power centimeter-accurate mobile positioning. ieee
+trans. on signal processing, 62(10), pp. 2595–2610.
+[j4] kassas, z., & humphreys, t. ( ). observability analysis of collaborative
+opportunistic navigation with pseudorange measurements. ieee trans. on intelligent
+transportation systems, 15(1), pp. 260–273.
+[j3] kassas, z. ( ). discretisation of continuous-time dynamic multi-input multi-
+output systems with non-uniform delays. iet control theory & applications, 5(14),
+pp. 1637–1647.
+[j2] kassas, z., & ozguner, u. ( ). a nonlinear filter coupled with hospitability
+andsyntheticinclinationmapsforin-surveillanceandout-of-surveillancetargettracking.
+ieee trans. on systems, man, and cybernetics - part c, 40(1), pp. 87–97.
+[j1] saab, s., & kassas, z. ( ). power matching approach for gps coverage exten-
+sion. ieee trans. on intelligent transportation systems, 7(2), pp. 156–166.
+conference [c132] shahcheraghi, s., & kassas, z. ( ). carrier-to-noise ratio improvement of
+publications 5g signals via beamforming for toa-based opportunistic navigation. proc. of ieee
+wireless communications and networking conference. milan, italy, accepted.
+[c131] kozhaya, s., saroufim, j., & kassas, z. ( ). opportunistic positioning with
+starlink and oneweb leo ku-band signals. proc. of ieee international conference
+on wireless for space and extreme environments (pp. 112–117). daytona beach, fl.
+[c130] barrett, w., sanderson, j., kozhaya, s., saroufim, j., & kassas, z. ( ).
+evaluation of starlink leo satellite signals for high-altitude platform station oppor-
+tunistic navigation. proc. of ieee international conference on wireless for space and
+extreme environments (100–105). daytona beach, fl.
+17 of 45
+[c129] saroufim, j., & kassas, z. ( ). dynamic data-driven approach for leo
+pnt selection of satellites with poorly known ephemerides. proc. of international
+conference on dynamic data driven applications systems. piscataway, nj, accepted.
+[c128] mooseli, f., hayek, s., kozhaya, s., & kassas, z. ( ). opportunistic nav-
+igation exploiting always-on and on-demand 5g downlink signals on a ground vehicle.
+proc. of ieee vehicular technology conference (pp. 1–5). washington, d.c.
+[c127] sel, a., hayek, s., & kassas, z. ( ). a localization error upper-bound with
+range measurements to transmitters with uncertain positions. proc. of ieee vehicular
+technology conference (pp. 1–6). washington, d.c.
+[c126]hayek,s.,saroufim,j.,kozhaya,s.,barrett,w.,&kassas, z.( ). demon-
+stration of ground vehicle navigation with non-cooperative multi-constellation leo
+satellites. proc. of ion gnss+ conference (pp. 1519–1526). baltimore, md.
+[c125] kozhaya, s., saroufim, j., & kassas, z. ( ). starlink for pnt: a trick or a
+treat? proc. of ion gnss+ conference (pp. 3779–3788). baltimore, md.
+[c124] saroufim, j., hayek, s., kozhaya, s., & kassas, z. ( ). improved leo
+pnt accuracy enabled by long baseline ephemeris corrections. proc. of ion gnss+
+conference (pp. 1219–1229). baltimore, md.
+[c123] mooseli, f., kozhaya, s., & kassas, z. ( ). a semi-cognitive localization
+approach with always-on and on-demand 5g downlink signals. proc. of ion gnss+
+conference ( – ). baltimore, md.
+[c122] el kouba, p., hayek, s., saroufim, j., kassas, z., & fakhoury, e. ( ).
+improved starlink satellite orbit prediction via machine learning with application to
+opportunistic leo pnt. proc. of ion gnss+ conference (2424–2433). baltimore,
+md.
+[c121] hayek, s., saroufim, j., & kassas, z. ( ). analysis and correction of leo
+satellite propagation errors with application to navigation. proc. of ion gnss+ con-
+ference (pp. 1800–1811). baltimore, md.
+[c120] shahcheraghi, s., kuric, j., & kassas, z. ( ). opportunistic positioning
+with beamformed 5g signals. proc. of ion gnss+ conference (pp. 2522–2533).
+baltimore, md.
+[c119] sel, a., hayek, s., & kassas, z. ( ). robust position estimation using
+rangemeasurementsfromtransmitterswithinaccuratepositions. proc. of international
+conference on information fusion (pp. 1–6). venice, italy (special session).
+[c118] hayek, s., saroufim, j., & kassas, z. ( ). ephemeris error correction for
+tracking non-cooperative leo satellites with pseudorange measurements. proc. of
+ieee aerospace conference (pp. 1–9). big sky, mt.
+[c117] saroufim, j., hayek, s., & kassas, z. ( ). analysis of satellite ephemeris
+error in differential and non-differential navigation with leo satellites. proc. of ieee
+aerospace conference (pp. 1–9). big sky, mt.
+[c116] kozhaya, s., kanj, h., & kassas, z. ( ). blind doppler tracking and
+positioning with noaa leo satellite signals. proc. of ion gnss+ conference (pp.
+18 of 45
+363–372). denver, co.
+[c115] hayek, s., saroufim, j., & kassas, z. ( ). ephemeris error modeling in op-
+portunistic leo satellite tracking with pseudorange and doppler measurements. proc.
+of ion gnss+ conference (pp. 2123–2133). denver, co.
+[c114] saroufim, j., hayek, s., & kassas, z. ( ). evaluation of orbit errors and
+measurement corrections in differential navigation with leo satellites. proc. of ion
+gnss+ conference (pp. 2823–2834). denver, co.
+[c113]kanj,h.,kozhaya,s.,&kassas, z.( ). acquisitionandtrackingofstarlink
+leo satellite signals in low snr regime. proc. of ion gnss+ conference (pp. 3420–
+3431). denver, co.
+[c112] shahcheraghi, s., gourabi, f., neinavaie, m.,& kassas, z. ( ). joint
+doppler and azimuth doa tracking for positioning with iridium leo satellites. proc.
+of ion gnss+ conference (pp. 2373–2383). denver, co.
+[c111] kozhaya, s., & kassas, z. ( ). positioning with starlink leo satellites: a
+blind doppler spectral approach. proc. of ieee vehicular technology conference (pp.
+1–5). florence, italy.
+[c110] kozhaya, s., kanj, h., & kassas, z. ( ). multi-constellation blind beacon
+estimation, doppler tracking, and opportunistic positioning with oneweb, starlink,
+iridium next, and orbcomm leo satellites. proc. of ieee/ion position, location,
+and navigation symposium (pp. 1184–1195). monterey, ca.
+[c109]neinavaie,n.,&kassas, z.( ). signalmodetransitiondetectioninstarlink
+leo satellite downlink signals. proc. of ieee/ion position, location, and navigation
+symposium (pp. 360–364). monterey, ca.
+[c108] kassas, z., kozhaya, s., kanj, h., saroufim, j., hayek, s., khairallah, n.,
+& khalife, j. ( ). navigation with multi-constellation leo satellite signals of op-
+portunity: starlink, oneweb, orbcomm, and iridium. proc. of ieee/ion position,
+location, and navigation symposium (pp. 338–343). monterey, ca.
+[c107]kassas, z., shahcheraghi, s., kaiss, a., lee, c., jurado, j., wachtel, s., duede,
+j., hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). robust receiver design for
+high altitude aircraft navigation with terrestrial cellular signals. proc. of ieee/ion
+position, location, and navigation symposium (pp. 75–80). monterey, ca.
+[c106] saroufim, j., hayek, s., & kassas, z. ( ). simultaneous leo satellite
+tracking and differential leo-aided imu navigation. proc. of ieee/ion position,
+location, and navigation symposium (pp. 179–188). monterey, ca.
+[c105] jia, m., & kassas, z. ( ). fault detection and exclusion for ins/gps/5g
+tightly-coupled navigation. proc. of ieee/ion position, location, and navigation
+symposium (pp. 597–602). monterey, ca.
+[c104] hayek, s., saroufim, j., neinavaie, m., kozhaya, s., & kassas, z. ( ). as-
+sessment of differential doppler navigation with starlink leo satellite signals of oppor-
+tunity. proc. ofioninternationaltechnicalmeeting (pp. 1021–1031). long beach, ca.
+[c103] neinavaie, m., khalife, j., & kassas, z. ( ). detection of constrained
+unknown beacon signals of terrestrial transmitters and leo satellites with application
+19 of 45
+to navigation. proc. of ieee vehicular technology conference (pp. 1–5). london,
+england.
+[c102] kassas, z., abdallah, a., lee, c., jurado, j., wachtel, s., duede, j., hoeffner,
+z., hulsey, t., quirarte, r., & tay, r. ( ). protecting the skies: gnss-less air-
+craft navigation with terrestrial cellular signals of opportunity. proc. of ion gnss+
+conference (pp. 1014–1025). denver, co.
+[c101] sabbagh, r., & kassas, z.. ( ). observability analysis of opportunistic re-
+ceiverlocalizationwithleosatellitepseudorangemeasurements. proc. ofiongnss+
+conference (pp. 1890– ). denver, co.
+[c100] neinavaie, m., & kassas, z. ( ). joint detection and tracking of unknown
+beacons for navigation with 5g signals and beyond. proc. of ion gnss+ conference
+(pp. 921–932). denver, co.
+[c99] kozhaya, s., & kassas, z. ( ). blind receiver for leo beacon estimation
+with application to uav carrier phase differential navigation. proc. of ion gnss+
+conference (pp. 2385–2397). denver, co.
+[c98]neinavaie,m.,&kassas, z.( ). unveilingbeamformingstrategiesofstarlink
+leo satellites. proc. of ion gnss+ conference (pp. 2525–2531). denver, co.
+[c97] jao, c., abdallah, a., chen, c., seo, m., kia, s., kassas, z., shkel, a. ( ).
+sub-meter accurate pedestrian indoor navigation system with dual zupt-aided ins,
+machine learning-aided lte, and uwb signals. proc. of ion gnss+ conference (pp.
+1108–1126). denver, co.
+[c96] akos, d., arribas, j., bhuiyan, m., closas, p., dovis, f., fernandez-hernandez,
+i., fern´andez-prades, c., gunawardena, s., humphreys, t., kassas, z., l´opez sal-
+cedo, j., nicola, m., pany, t., psiaki, m., ru¨gamer, a., song, y., & won, j., ( ).
+gnss software defined radio: history, current developments, and standardization ef-
+forts. proc. of ion gnss+ conference (pp. 3180–3209). denver, co.
+[c95] jia, m., & kassas, z. ( ). kalman filter-based integrity monitoring for
+gnss and 5g signals of opportunity integrated navigation. proc. of ifac symposium
+on advances in automotive control (pp. 273–278). columbus, oh (special session).
+[c94] haidar-ahmad, j., khairallah, n., & kassas, z. ( ). a hybrid analytical-
+machine learning approach for leo satellite orbit prediction. proc. of international
+conference on information fusion (pp. 1–7). helsinki, finland (special session).
+[c93] khairallah, n., & kassas, z. ( ). an interacting multiple model estimator
+of leo satellite clocks for improved positioning. proc. of ieee vehicular technology
+conference (pp. 1–5). helsinki, finland.
+[c92] abdallah, a., orabi, m., & kassas, z. ( ). multipath mitigation of 5g
+signals via reinforcement learning for navigation in urban environments. proc. of ieee
+vehicular technology conference (pp. 1–5). helsinki, finland.
+[c91] abdallah, a., kassas, z., & lee, c. ( ). demo: i am not afraid of the gps
+jammer: exploiting cellular signals for accurate ground vehicle navigation in a gps-
+denied environment. proc. of acm workshop on automotive and autonomous vehicle
+security (pp. 1–1). san diego, ca.
+20 of 45
+[c90] abdallah, a., & kassas, z. ( ). opportunistic navigation using sub-6 ghz
+5g downlink signals: a case study on a ground vehicle. proc. of european conference
+on antennas and propagation (pp. 1–5). madrid, spain (special session).
+[c89] neinavaie, m., shadram, z., kozhaya, s., & kassas, z. ( ). first results of
+differential doppler positioning with unknown starlink satellite signals. proc. of ieee
+aerospace conference (pp. 1–14). big sky, mt.
+[c88] kassas, z., abdallah, a., khalife, j., lee, c., jurado, j., wachtel, s., duede,
+j., hoeffner, z., hulsey, t., quirarte, r., & tay, r. ( ). received power characteri-
+zation of terrestrial cellular signals on high altitude aircraft. proc. of ieee aerospace
+conference (pp. 1–8). big sky, mt.
+[c87]nguyen,a.,&kassas, z.( ). transmitterselectionforimprovedinformation
+gathering in aerial vehicle navigation with terrestrial signals of opportunity. proc. of
+ion international technical meeting (pp. 723–734). long beach, ca.
+[c86] neinavaie, m., khalife, j., & kassas, z. ( ). doppler stretch estimation with
+application to tracking globalstar satellite signals. proc. of ieee military communi-
+cations conference (pp. 647–651) san diego, ca (invited).
+[c85] khalife, j., neinavaie, m., & kassas, z. ( ). universal receiver architec-
+ture for blind navigation with partially known terrestrial and extraterrestrial signals of
+opportunity. proc. of ion gnss+ conference (pp. 2201–2211). st. louis, mo.
+[c84] neinavaie, m., khalife, j., & kassas, z. ( ). exploiting starlink signals for
+navigation: first results. proc. of ion gnss+ conference (pp. 2766–2773). st. louis,
+mo.
+[c83] kozhaya, s., haidar-ahmad, j., abdallah, a., kassas, z., & saab, s. ( ).
+comparison of neural network architectures for simultaneous tracking and navigation
+with leo satellites. proc. of ion gnss+ conference (pp. 2507–2520). st. louis,
+mo.
+[c82] abdallah, a., & kassas, z. ( ). uav navigation with 5g carrier phase
+measurements. proc. of ion gnss+ conference (pp. 3294–3306). st. louis, mo.
+[c81] khairallah, n., & kassas, z. ( ). ephemeris closed-loop tracking of leo
+satellites with pseudorange and doppler measurements. proc. of ion gnss+ confer-
+ence (pp. 2544–2555). st. louis, mo.
+[c80] orabi, m., abdallah, a., khalife, j., & kassas, z. ( ). a machine learning
+multipath mitigation approach for opportunistic navigation with 5g signals. proc. of
+ion gnss+ conference (pp. 2895–2909). st. louis, mo.
+[c79] nguyen, a., shadram, z., & kassas, z. ( ). a lower bound for the error
+covariance of radio slam with terrestrial signals of opportunity. proc. of ion gnss+
+conference (pp. 2294–2306). st. louis, mo.
+[c78] jia, m., lee, h., khalife, j., kassas, z., & seo, j. ( ). ground vehicle
+navigation integrity monitoring for multi-constellation gnss fused with cellular signals
+of opportunity. proc. of ieee international conference on intelligent transportation
+systems (pp. 3978–3983). indianapolis, in (special session).
+21 of 45
+[c77] khalife, j., neinavaie, m., & kassas, z. ( ). blind doppler tracking from
+ofdm signals transmitted by broadband leo satellites. proc. of ieee vehicular
+technology conference (pp. 1–5). helsinki, finland.
+[c76] abdallah, a., khalife, j., & kassas, z. ( ). experimental characterization
+of received 5g signals carrier-to-noise ratio in indoor and urban environments. proc. of
+ieee vehicular technology conference (pp. 1–5). helsinki, finland.
+[c75] neinavaie, m., khalife, j., & kassas, z. ( ). blind doppler tracking and
+beacon detection for opportunistic navigation with leo satellite signals. proc. of
+ieee aerospace conference (pp. 1–8). big sky, mt.
+[c74] orabi, m., khalife, j., & kassas, z. ( ). opportunistic navigation with
+doppler measurements from iridium next and orbcomm leo satellites. proc. of
+ieee aerospace conference (pp. 1–9). big sky, mt.
+[c73] mortlock, t., & kassas, z. ( ). assessing machine learning for leo satellite
+orbit determination in simultaneous tracking and navigation. proc. of ieee aerospace
+conference (pp. 1–8). big sky, mt.
+[c72]jia,m.,khalife,j.,&kassas, z.( ). evaluationofgroundvehicleprotection
+level reduction due to fusing gps with faulty terrestrial signals of opportunity. proc.
+of ion international technical meeting (pp. 354–365). san diego, ca.
+[c71] lee, h., abdallah, a., park, j., seo, j., & kassas, z. ( ). neural network-
+based ranging with lte channel impulse response for localization in indoor environ-
+ments. proc. of international conference on control, automation, and systems (pp.
+939–944). busan, south korea.
+[c70] kassas, z., khalife, j., abdallah, a., & lee, c. ( ). i am not afraid of the
+jammer: navigating with signals of opportunity in gps-denied environments. proc. of
+ion gnss+ conference (pp. 1566–1585). st. louis, mo.
+[c69] neinavaie, m., khalife, j., & kassas, z. ( ). blind opportunistic navigation:
+cognitive deciphering of partially known signals of opportunity. proc. of ion gnss+
+conference (pp. 2748–2757). st. louis, mo.
+[c68] abdallah, a., shamaei, k., & kassas, z. ( ). assessing real 5g signals for
+opportunistic navigation. proc. of ion gnss+ conference (pp. 2548–2559). st.
+louis, mo.
+[c67] khalife, j., neinavaie, m., & kassas, z. ( ). blind doppler estimation from
+leo satellite signals: a case study with real 5g signals. proc. of ion gnss+ confer-
+ence (pp. 3046–3054). st. louis, mo.
+[c66] mortlock, t., & kassas, z. ( ). performance analysis of simultaneous track-
+ing and navigation with leo satellites. proc. of ion gnss+ conference (pp. 2416–
+2429). st. louis, mo.
+[c65] lee, h., seo, j., & kassas, z. ( ). integrity-based path planning strategy for
+urban autonomous vehicular navigation using gps and cellular signals. proc. of ion
+gnss+ conference (pp. 2347–2357). st. louis, mo.
+[c64] maaref, m., khalife, j., & kassas, z. ( ). enhanced safety of autonomous
+22 of 45
+driving by incorporating terrestrial signals of opportunity. proc. of ieee international
+conference on acoustics, speech, and signal processing (pp. 9185–9189). barcelona,
+spain, accepted (special session).
+[c63] khalife, j., neinavaie, m., & kassas, z. ( ). navigation with differential
+carrierphasemeasurementsfrommegaconstellationleosatellites. proc. of ieee/ion
+position, location, and navigation symposium (pp. 1393–1404). portland, or.
+[c62] abdallah, a., & kassas, z. ( ). deep learning-aided spatial discrimination
+for multipath mitigation. proc. of ieee/ion position, location, and navigation sym-
+posium (pp. 1324–1335). portland, or.
+[c61] maaref, m., & kassas, z. ( ). optimal gps integrity-constrained path
+planning for ground vehicles. proc. of ieee/ion position, location, and navigation
+symposium (pp. 655–660). portland, or.
+[c60] orabi, m., khalife, j., abdallah, a., kassas, z., & saab, s. ( ). a machine
+learning approach for gps code phase estimation in multipath environments. proc. of
+ieee/ion position, location, and navigation symposium (pp. 1224–1229). portland,
+or.
+[c59] abdallah, a., shamaei, k., & kassas, z. ( ). performance characterization
+of an indoor localization system with lte code and carrier phase measurements and an
+imu. proc. of international conference on indoor positioning and indoor navigation
+(pp. 1–8). pisa, italy.
+[c58] ragothaman, s., maaref, m., & kassas, z. ( ). multipath-optimal uav
+trajectory planning for urban uav navigation with cellular signals. proc. of ieee
+vehicular technology conference (pp. 1–6). honolulu, hi.
+[c57] abdallah, a., & kassas, z. ( ). evaluation of feedback and feedforward
+coupling of synthetic aperture navigation with lte signals. proc. of ieee vehicular
+technology conference (pp. 1–6). honolulu, hi.
+[c56] morales, j., khalife, j., santa cruz, u., & kassas, z. ( ). orbit modeling
+for simultaneous tracking and navigation using leo satellite signals. proc. of ion
+gnss+ conference (pp. – ). miami, fl.
+[c55] khalife, j., & kassas, z. ( ). assessment of differential carrier phase mea-
+surements from broadband leo satellite signals for opportunistic navigation. proc. of
+ion gnss+ conference (pp. 4053–4063). miami, fl.
+[c54]shamaei,k.,&kassas, z.( ). sub-meteraccurateuavnavigationandcycle
+slip detection with lte carrier phase measurements. proc. of ion gnss+ conference
+(pp. 2469–2479). miami, fl.
+[c53] maaref, m., & kassas, z. ( ). uav integrity monitoring measure improve-
+ment using terrestrial signals of opportunity. proc. of ion gnss+ conference (pp.
+3045–3056). miami, fl.
+[c52] abdallah, a., shamaei, k., & kassas, z. ( ). indoor localization with
+lte carrier phase measurements and synthetic aperture antenna array. proc. of ion
+gnss+ conference (pp. 2670–2679). miami, fl.
+[c51] khalife, j., & kassas, z. ( ). receiver design for doppler positioning with
+23 of 45
+leo satellites. proc. of ieee international conference on acoustics, speech, and
+signal processing (pp. 5506–5510). brighton, united kingdom.
+[c50]morales,j.,khalife,j.,&kassas, z.( ). simultaneoustrackingoforbcomm
+leosatellitesandinertialnavigationsystemaidingusingdopplermeasurements. proc.
+of ieee vehicular technology conference (pp. 1–6). kuala lumpur, malaysia.
+[c49] shamaei, k., morales, j., & kassas, z. ( ). a framework for navigation with
+lte time-correlated pseudorange errors in multipath environments. proc. of ieee
+vehicular technology conference (pp. 1–6). kuala lumpur, malaysia.
+[c48] maaref, m., khalife, j., & kassas, z. ( ). pseudorange measurement out-
+lier detection for navigation with cellular signals. proc. of acm/ieee international
+conference on cyber-physical systems (pp. 346–347). montreal, canada.
+[c47] ardito, c., morales, j., khalife, j., abdallah, a., & kassas, z. ( ). perfor-
+manceevaluationofnavigationusingleosatellitesignalswithperiodicallytransmitted
+satellite positions. proc. of ion international technical meeting (pp. 306–318). re-
+ston, va.
+[c46] morales, j., & kassas, z. ( ). event-based communication strategy for
+collaborative navigation with signals of opportunity. proc. of asilomar conference on
+signals, systems and computers (pp. 548–553). pacific grove, ca (invited).
+[c45] morales, j., khalife, j., abdallah, a., ardito, c., & kassas, z. ( ). inertial
+navigation system aiding with orbcomm leo satellite doppler measurements. proc.
+of ion gnss+ conference (pp. 2718–2725). miami, fl.
+[c44] khalife, j., bhattacharya, s., & kassas, z. ( ). centimeter-accurate uav
+navigation with cellular signals. proc. of ion gnss+ conference (pp. 2321–2331).
+miami, fl.
+[c43]maaref,m.,khalife,j.,&kassas, z.( ). integritymonitoringofltesignals
+ofopportunity-basednavigationforautonomousgroundvehicles. proc. of ion gnss+
+conference (pp. 2456–2466). miami, fl.
+[c42] shamaei, k., morales, j., & kassas, z. ( ). positioning performance of lte
+signals in rician fading environments exploiting antenna motion. proc. of ion gnss+
+conference (pp. 3423–3432). miami, fl.
+[c41] abdallah, a., shamaei, k., & kassas, z. ( ). indoor positioning based on
+lte carrier phase measurements and an inertial measurement unit. proc. of ion
+gnss+ conference (pp. 3374–3384). miami, fl.
+[c40] morales, j., & kassas, z. ( ). a low communication rate distributed inertial
+navigation architecture with cellular signal aiding. proc. of ieee vehicular technology
+conference (pp. 1–6). porto, portugal.
+[c39] khalife, j., & kassas, z. ( ). precise uav navigation with cellular carrier
+phase measurements. proc. of ieee/ion position, location, and navigation sympo-
+sium (pp. 978–989). monterey, ca.
+[c38] morales, j., & kassas, z. ( ). information fusion strategies for collaborative
+radio slam. proc. of ieee/ion position, location, and navigation symposium (pp.
+1445–1454). monterey, ca.
+24 of 45
+[c37] shamaei, k., khalife, j., & kassas, z. ( ). a joint toa and doa ap-
+proach for positioning with lte signals. proc. of ieee/ion position, location, and
+navigation symposium (pp. 81–91). monterey, ca.
+[c36] garcia, j., farrell, j., & kassas, z. ( ). optimal measurement location plan-
+ning for localizing underwater transponders. proc. of ieee/ion position, location,
+and navigation symposium (pp. 480–486). monterey, ca.
+[c35] abdallah, a., saab, s., & kassas, z. ( ). a machine learning approach
+for localization in cellular environments. proc. of ieee/ion position, location, and
+navigation symposium (pp. 1223–1227). monterey, ca.
+[c34] shamaei, k., khalife, j., & kassas, z. ( ). pseudorange and multipath
+analysis of positioning with lte secondary synchronization signals. proc. of ieee
+wirelesscommunicationsandnetworkingconference (pp. 286–291). barcelona,spain.
+[c33]morales,j.,&kassas, z.( ). distributedsignalsofopportunityaidedinertial
+navigation with intermittent communication. proc. of ion gnss+ conference (pp.
+2519–2530). portland, or.
+[c32] shamaei, k., khalife, j., bhattacharya, s., & kassas, z. ( ). computation-
+ally efficient receiver design for mitigating multipath for positioning with lte signals.
+proc. of ion gnss+ conference (pp. 3751–3760). portland, or.
+[c31] khalife, j., & kassas, z. ( ). evaluation of relative clock stability in cellular
+networks. proc. of ion gnss+ conference (pp. 2554–2559). portland, or.
+[c30] shamaei, k., khalife, j., & kassas, z. ( ). ranging precision analysis of
+lte signals. proc. of european signal processing conference (pp. 2788–2792). kos
+island, greece.
+[c29] khalife, j., ragothaman, s., & kassas, z. ( ). pose estimation with lidar
+odometry and cellular pseudoranges. proc. of ieee intelligent vehicles symposium
+(pp. 1722–1727). redondo beach, ca.
+[c28] khalife, j., & kassas, z. ( ). modeling and analysis of sector clock bias
+mismatch for navigation with cellular signals. proc. of american control conference
+(pp. 3573–3578). seattle, wa.
+[c27] morales, j., khalife, j., & kassas, z. ( ). collaborative autonomous vehicles
+with signals of opportunity aided inertial navigation systems. proc. of ion interna-
+tional technical meeting (pp. 805–818). monterey, ca.
+[c26] shamaei, k., khalife, j., & kassas, z. ( ). comparative results for position-
+ing with secondary synchronization signal versus cell specific reference signal in lte
+systems. proc. of ion international technical meeting (pp. 1256–1268). monterey,
+ca.
+[c25] morales, j., roysdon, p., & kassas, z. ( ). signals of opportunity aided
+inertial navigation. proc. of ion gnss+ conference (pp. 1492–1501). portland, or.
+[c24] shamaei, k., khalife, j., & kassas, z. ( ). performance characterization
+of positioning in lte systems. proc. of ion gnss+ conference (pp. 2262–2270).
+portland, or.
+25 of 45
+[c23] khalife, j., & kassas, z. ( ). characterization of sector clock biases in
+cellular cdma systems. proc. of ion gnss+ conference (pp. 2281–2285). portland,
+or.
+[c22] khalife, j., shamaei, k., & kassas, z. ( ). a software-defined receiver archi-
+tecture for cellular cdma-based navigation. proc. of ieee/ion position, location,
+and navigation symposium (pp. 816–826). savannah, ga.
+[c21] morales, j., khalife, j., & kassas, z. ( ). gnss vertical dilution of precision
+reduction using terrestrial signals of opportunity. proc. of ion international technical
+meeting (pp. 664–669). monterey, ca.
+[c20] morales, j., & kassas, z. ( ). optimal receiver placement for collaborative
+mapping of signals of opportunity. proc. of ion gnss+ conference (pp. 2362–2368).
+tampa, fl.
+[c19] khalife, j., kassas, z., & saab, s. ( ). indoor localization based on floor
+plans and power maps: non-line of sight to virtual line of sight. proc. of ion gnss+
+conference (pp. 2291–2300). tampa, fl.
+[c18] kassas, z., ghadiok, v., & humphreys, t. ( ). adaptive estimation of
+signals of opportunity. proc. of ion gnss+ conference (pp. 1679–1689). tampa,
+fl.
+[c17] kassas, z., bhatti, j., & humphreys, t. ( ). a graphical approach to gps
+software-defined receiver implementation. proc. of ieee global conference on signal
+and information processing (pp. 1226–1229). austin, tx.
+[c16] kassas, z., & humphreys, t. ( ). the price of anarchy in active signal
+landscape map building. proc. of ieee global conference on signal and information
+processing (pp. 165–168). austin, tx.
+[c15] kassas, z., bhatti, j., & humphreys, t. ( ). receding horizon trajectory
+optimizationforsimultaneoussignallandscapemappingandreceiverlocalization. proc.
+of ion gnss+ conference (pp. – ). nashville, tn.
+[c14] kassas, z., & humphreys, t. ( ). motion planning for optimal information
+gathering in opportunistic navigation systems. proc. of aiaa guidance, navigation,
+and control conference (pp. 4551-4565). boston, ma.
+[c13] kassas, z., & humphreys, t. ( ). observability and estimability of collabo-
+rative opportunistic navigation with pseudorange measurements. proc. of ion gnss+
+conference (pp. 621–630). nashville, tn.
+[c12] kassas, z., & humphreys, t. ( ). observability analysis of opportunistic
+navigation with pseudorange measurements. proc. of aiaa guidance, navigation,
+and control conference (pp. 4760–4775). minneapolis, mn.
+[c11] kassas, z., & bishop, r. ( ). optimal h and h control of extremely large
+2 ∞
+segmented telescopes. proc. of aiaa guidance, navigation, and control conference
+(pp. 4529–4540). minneapolis, mn.
+[c10] pesyna, k., kassas, z., & humphreys, t. ( ). constructing a continu-
+ous phase time history from tdma signals for opportunistic navigation. proc. of
+26 of 45
+ieee/ion position, location, and navigation symposium (pp. 1209–1220). myrtle
+beach, sc.
+[c9] pesyna, k., kassas, z., bhatti, j., & humphreys, t. ( ). tightly-coupled
+opportunistic navigation for deep urban and indoor positioning. proc. of ion gnss+
+conference (pp. 3605–3617). portland, or.
+[c8] kassas, z. ( ). numerical simulation of continuous-time stochastic dynamical
+systems with noisy measurements and their discrete-time equivalents. proc. of ieee
+international symposium on computer-aided control system design (pp. 1397–1402).
+denver, co.
+[c7]kassas, z.( ). methodologiesforimplementingfpga-basedcontrolsystems.
+proc. of ifac world congress (pp. 9911–9916). milan, italy.
+[c6] kassas, z., & morrow, g. ( ). a numerical algorithm for reconstructing
+continuous-timelinearmodelswithpureintegratorsfromtheirdiscrete-timeequivalents.
+proc. of ieee international symposium on computer-aided control system design
+(pp. 377–382). san antonio, tx.
+[c5] maccleery, b., & kassas, z. ( ). new mechatronics development techniques
+for fpga-based control of electromechanical systems. proc. of ifac world congress
+(pp. 4434–4439). seoul, south korea.
+[c4] kassas, z., & dunia, r. ( ). a unified approach for classroom and laboratory
+control systems education. proc. of ifac world congress (pp. 14618–14623). seoul,
+south korea.
+[c3]kassas, z.,&dunia,r.( ). discretizationofmimosystemswithnonuniform
+input and output fractional time delays. proc. of ieee conference on decision and
+control (pp. 2541–2546). san diego, ca.
+[c2] kassas, z., ozguner, u., & layne, j. ( ). out-of-surveillance target state
+estimation: a combined hospitability and synthetic inclination approach. proc. of
+ieee conference on decision and control (pp. 710–715). paradise island, bahamas.
+[c1] saab, s., & kassas, z. ( ). map-based land vehicle navigation system with
+dgps. proc. of ieee intelligent vehicle symposium (pp. 209–214). versailles, france.
+magazine [m12] kassas, z., khalife, j., abdallah, a., khairallah, n., shahcheraghi, s., lee, c.,
+articles jurado, j., wachtel, s., duede, j., hoeffner, z., hulsey, t., quirarte, r., & tay, r.
+( , july/august). protecting the skies: gnss-less aircraft navigation with cellular
+signals of opportunity. inside gnss magazine, (19)4, pp. 32–43 (cover article).
+[m11]kassas, z.,kozhaya,s.,saroufim,j.,kanj,h.,&hayek,s.( ,july/august).
+a look at the stars: navigation with multi-constellation leo satellite signals of oppor-
+tunity. inside gnss magazine, (18)4, pp. 38–47 (cover article).
+[m10] kassas, z. ( , april). securing pnt for highly automated transportation
+systems. institute of navigation newsletter, (33)2, pp. 14-15 (invited).
+[m9]kassas, z.,neinavaie,m.,khalife,j.,khairallah,n.,haidar-ahmad,j.,kozhaya,
+s., & shadram, z. ( , november/december). enter leo on the gnss stage: navi-
+gation with starlink satellites. inside gnss magazine, (16)6, pp. 42–51 (cover article).
+27 of 45
+[m8] kassas, z., abdallah, a., & orabi, m. ( , january/february). carpe signum:
+seize the signal – opportunistic navigation with 5g. inside gnss magazine, (16)1, pp.
+52–57.
+[m7] dovis, f., ruotsalainen, l., toledo-moreo, r., kassas, z., & gikas, v. ( ,
+july). recent advancement on the use of global navigation satellite system-based po-
+sitioning for intelligent transport systems. ieee intelligent transportation systems
+magazine, pp. 6–9 (special issue).
+[m6] kassas, z., khalife, j., neinavaie, m., & mortlock, t. ( , june/july). oppor-
+tunity comes knocking: overcoming gps vulnerabilities with other satellites’ signals.
+inside unmanned systems magazine, pp. 30–35 (special issue).
+[m5] kassas, z., morales, j., & khalife, j. ( , july/august). new-age satellite-
+based navigation – stan: simultaneous tracking and navigation with leo satellite
+signals. inside gnss magazine, 14(4), pp. 56–65 (cover article).
+[m4] kassas, z., closas, p., & gross, j. ( , may). navigation systems for au-
+tonomous and semi-autonomous vehicles: current trends and future challenges. ieee
+aerospace and electronic systems magazine, 34(5), pp. 82–84 (invited).
+[m3] kassas, z., morales, j., shamaei, k., & khalife, j., ( , april). lte steers
+uav. gps world magazine, (28)4, pp. 18–25 (cover article).
+[m2] morales, j., khalife, j., & kassas, z. ( , march). opportunity for accuracy.
+gps world magazine, (27)3, pp. 22–29 (cover article).
+[m1]kassas, z.( ,june). collaborativeopportunisticnavigation. ieee aerospace
+and electronic systems magazine, (28)6, pp. 38–41 (student research highlight).
+book [bc3]kassas, z.( ). navigationfromlowearthorbit–part2: models,implemen-
+chapters tation, and performance. in j. morton, f. van diggelen, j. spilker, jr., & b. parkinson
+(eds.), position, navigation, and timing technologies in the 21st century, (ch. 43,
+pp. 1381–1412). hoboken, nj: wiley-ieee.
+[bc2]kassas, z.( ). navigationwithcellularsignalsofopportunity. inj.morton,
+f.vandiggelen,j.spilker,jr.,&b.parkinson(eds.),position, navigation, andtiming
+technologies in the 21st century, (ch. 38, pp. 1171–1223). hoboken, nj: wiley-ieee.
+[bc1] layne, j., eilders, m., kassas, z., & ozguner, u. ( ). a hospitability map
+approach for estimating a mobile target location. in s. butenko, r. murphey, & p.
+pardalos (eds.), recent developments in cooperative control and optimization (pp.
+117–124). norwell, ma: kluwer academic publishers.
+patents [p24] kassas, z., & kozhaya, s. ( ). system and method for starlink blind beacon
+estimation,dopplertracking,andpositioning. u.s.patentapplicationno. 63/696,003.
+[p23] kassas, z., & hayek, s. ( ). systems and methods for satellite error com-
+pensation. u.s. patent application no. 63/696,009.
+[p22] kassas, z., & saroufim, j. ( ). systems and methods for ephemeris estima-
+tion. u.s. patent application no. 63/696,007.
+28 of 45
+[p21] kassas, z., kozhaya, s., & kanj, h. ( ). blind beacon estimation, doppler
+tracking, and opportunistic positioning with multi-constellation unknown leo satel-
+lites. u.s. patent application no. 63/498,189.
+[p20] kassas, z., & neinavaie, m. ( ). cognitive opportunistic navigation with
+starlinkleosatellites: on-demandandalways-onofdmreferencesignals. u.s.patent
+application no. 63/457,372.
+[p19] kassas, z., & neinavaie, m. ( ). systems and methods for positioning
+and navigation with low earth orbit satellite signals. u.s. patent application no.
+63/393,501.
+[p18]kassas, z.,&abdallah,a.( ). systemsandmethodsfordeterminingcellular
+downlink observables and navigation. u.s. patent application no. 63/355,890.
+[p17] kassas, z., & abdallah, a. ( ). systems and methods for user equipment
+based 5g navigation and downlink bandwidth operations. u.s. patent application no.
+63/315,719.
+[p16] kassas, z., khalife, j., & neinavaie, m. ( ). systems and methods for
+acquisition and tracking of unknown leo satellite signals. u.s. patent application no.
+63/210,595.
+[p15] kassas, z., & khalife, j. ( ). systems and methods for differential and non-
+differential navigation with cellular signals. u.s. patent application no. 63/155,048.
+[p14] kassas, z., neinavaie, m., & khalife, j. ( ). systems and methods for blind
+opportunistic navigation, cognitive deciphering of partially known signals of opportu-
+nity, and blind doppler estimation from leo satellite signals. u.s. patent application
+no. 63/087,591.
+[p13] kassas, z., khalife, j., & neinavaie, m. ( ). navigation with differential
+carrier phase measurement from low earth orbit satellites. u.s. patent application no.
+63/047,796.
+[p12] kassas, z., & shamaei, k. ( ). systems and methods for opportunistic
+time of arrival estimation for opportunistic localization with 5g signals. u.s. patent
+application no. 63/026,360.
+[p11] kassas, z., & shamaei, k., ( ). systems and methods for toa and doa
+acquisition and tracking for signal of opportunity positioning. u.s. patent application
+no. 63/013,638.
+[p10] kassas, z., & shamaei, k. ( ). sub-meter accurate navigation and cycle
+slip detection with lte carrier phase measurements. u.s. patent application no.
+62/930,298.
+[p9] kassas, z., abdallah, a., & shamaei, k. ( ). indoor localization system with
+lte code and carrier phase measurements and an imu. u.s. patent application no.
+62/913,078.
+[p8] kassas, z., & abdallah, a. ( ). synthetic aperture navigation with lte
+signals. u.s. patent application no. 62/913,074.
+29 of 45
+[p7] kassas, z., khalife, j., & abdallah, a. ( ). receiver design for doppler
+positioning with low earth orbit satellites and differential carrier phase measurements.
+u.s. patent application no. 62/834,317.
+[p6] kassas, z., morales, j., & khalife, j. ( ). simultaneous tracking and naviga-
+tion using leo satellite signals. u.s. patent application no. 62/834,313.
+[p5] kassas, z., maaref, m., & khalife, j. ( ). lane-level navigation system for
+groundvehicleswithlidarandcellularsignals. u.s.patentapplicationno. 62/721,967.
+[p4] kassas, z., & morales, j. ( ). signals of opportunity aided inertial navigation
+system. u.s. patent application no. 62/398,413.
+[p3] kassas, z., shamaei, k., & khalife, j. ( ). sdr for navigation with lte
+signals. u.s. patent application no. 62/398,403.
+[p2] kassas, z., khalife, j., & shamaei, k. ( ). sdr for navigation with cellular
+cdma signals. u.s. patent application no. 62/294,758.
+[p1] kassas, z., & lewis, j. ( ). multi-channel algorithm infrastructure for pro-
+grammable hardware elements. u.s. patent no. 8,122,238. washington, dc: u.s.
+patent and trademark office.
+the pentagon, washington, dc
+invited
+hudson institute, washington, dc
+subject
+department of defense, us naval observatory, washington, dc
+matter
+national space-based positioning, navigation, and timing (pnt) advisory
+expert
+board, redondo beach, ca
+us government accountability office (gao), gps interference in the trans-
+portation sector, virtual
+us department of transportation, positioning, navigation, and timing
+(pnt) stakeholder roundtable, washington, dc
+invited 120+ invited presentations at premier academic institutions, international conferences,
+presentations national laboratories, government agencies, and industry
+ion joint navigation conference (ion jnc), covington, ky (invited
+speaker)
+ieee leo satellites and systems workshop: leo position, navigating, and
+timing (pnt), virtual (invited speaker)
+ieee/ion position, location, and navigation symposium, session: “fron-
+tiersofradionavigation: signalsofopportunity, 5g,leo,andbeyond,” salt
+lake city, ut (invited session)
+ieee/ion position, location, and navigation symposium, session: “fron-
+tiers of gnss,” salt lake city, ut (invited session)
+georgewashingtoncarversciencepark,workshopforresearchinlow-earth
+orbit, columbus, oh (invited speaker)
+ieee aerospace and electronic systems society – tunisia chapter, online
+webinar: adastra: navigationwithmegaconstellationleosatellites(ieee
+aess distinguished lecture)
+30 of 45
+ieee international conference on acoustics, speech, & signal processing,
+workshop on distributed signal processing and machine learning for au-
+tonomoussystems: synergiesof6gcommunications,learning,anddecision-
+making in multi-agent networks, hyderabad, india (keynote speaker)
+budapestuniversityoftechnologyandeconomics,budapest,hungary(ieee
+itss distinguished lecture)
+department of information engineering, university of padova, italy (ieee
+aess distinguished lecture)
+ieee communications society (comsoc) young professionals (yp), ieee
+women in communication engineering (wice), and ieee women in engi-
+neering (wie) mentoring session, milan, italy (invited panelist)
+ieee wireless communications and networking conference, panel on ad-
+vancing women in stem and challenging a diverse tomorrow, milan, italy
+(invited panelist)
+ieee international conference on wireless for space and extreme envi-
+ronments, workshop on leo satellites and systems, daytona beach, fl
+(keynote speaker)
+ieee aerospace and electronic systems society, online webinar: ad astra:
+navigation with megaconstellation leo satellites (ieee aess distinguished
+lecture)
+general robotics, automation, sensing, & perception lab (grasp) lab,
+university of pennsylvania, philadelphia, pa (ieee aess distinguished lec-
+ture)
+us dot future of transportation summit, washington, d.c. (invited
+lectern)
+ion joint navigation conference (ion jnc), covington, ky (invited
+speaker)
+center for intelligent infrastructure, missouri university of science and tech-
+nology, rolla, mo (ieee aess distinguished lecture)
+department of electrical engineering, chalmers university of technology,
+gothenburg, sweden (ieee aess distinguished lecture)
+department of electrical and information technology, lund university, swe-
+den (ieee aess distinguished lecture)
+munich satellite navigation summit, munich, germany (invited speaker &
+panelist)
+munich aerospace forum, munich, germany (invited speaker)
+ieeeundergraduatestudentchapter, theohiostateuniversity, columbus,
+oh (invited speaker)
+transportation research board annual meeting, washington, dc (invited
+speaker & panelist)
+nsf workshop on the convergence of smart sensing systems, applications,
+analytic and decision making, alexandria, va (invited speaker & panelist)
+workshoponspacecybersecurityandresilience,universityofcolorado,col-
+orado springs, co (invited speaker)
+ieee aerospace and electronic systems society, online webinar: no gps,
+no problem: exploiting signals of opportunity for resilient and accurate
+autonomous navigation in gps-denied environments (ieee aess distin-
+guished lecture)
+31 of 45
+ion gnss+ conference, session: “autonomous navigation for ground,
+seaborne, and airborne vehicles,” denver, co (invited session)
+department of electrical and computer engineering, the ohio state univer-
+sity, columbus, oh (ieee aess distinguished lecture)
+ieee international symposium on personal, indoor and mobile radio com-
+munications, workshop on mega constellation satellite network for 6g,
+toronto, canada (keynote speaker)
+ieee/ion position, location, and navigation symposium, session: “fron-
+tiers of gnss,” monterey, ca (invited session)
+department of mechanical and aerospace engineering, west virginia univer-
+sity, morgantown, wv (ieee aess distinguished lecture)
+department of aerospace engineering & mechanics, university of minnesota,
+twin cities, minneapolis, mn (ieee aess distinguished lecture)
+6g summit, king abdullah university of science and technology (kaust),
+thuwal, saudi arabia (distinguished speaker)
+international global navigation satellite systems conference, sydney, aus-
+tralia (plenary speaker)
+international global navigation satellite systems conference, session: “pnt
+in low earth orbit,” sydney, australia (panelist)
+international global navigation satellite systems conference, session: “5g,”
+sydney, australia (panelist)
+ieeelowearthorbit(leo)satellites&systemsworkshop,virtual(invited
+speaker)
+its america, webinar: “the new infrastructure: physical + digital helps
+enable positive citizen outcomes,” (invited speaker & panelist)
+ion gnss+ conference, session: “autonomous navigation for ground,
+seaborne, and airborne vehicles,” denver, co (invited speaker & panelist)
+ion gnss+ conference, session: “beyond gnss: emerging trends in leo-
+based and terrestrial signals of opportunity for pnt,” denver, co (invited
+speaker & panelist)
+ifac symposium on advances in automotive control, columbus, oh
+(keynote speaker)
+gpsworldmagazine,onlinewebinar: “agalaxyfar,faraway? whyleo
+pnt is closer to reality than you think” (invited speaker)
+ieee vehicular technology conference, workshop on mission critical com-
+munications, helsinki, finland (keynote speaker)
+aerospace corporation, el segundo, ca (distinguished speaker)
+munich satellite navigation summit, munich, germany (invited speaker &
+panelist)
+gps world magazine, online webinar: “measuring pnt performance in
+challenged environments” (invited speaker)
+departmentofmechanicalengineering, tuftsuniversity, medford, ma(sem-
+inar)
+ion gnss+ conference, session: “ai-enabled navigation in smart cities,”
+st. louis, mo (invited speaker)
+ion gnss+ conference, session: “on the road to automated vehicles,” st.
+louis, mo (invited speaker & panelist)
+lebanese american university, byblos, lebanon (seminar)
+32 of 45
+national institute of standards and technology (nist), public safety broad-
+band stakeholder meeting, virtual (invited speaker)
+international technical symposium on navigation and timing, toulouse,
+france (invited speaker)
+asce international conference on transportation and development, virtual
+(invited speaker & panelist)
+safety and security for connected autonomous vehicles, university of cali-
+fornia, irvine, virtual (invited speaker & panelist)
+airforceresearchlaboratory, wright-pattersonairforcebase, oh,virtual
+(seminar)
+us–eu gps–galileo working group c, resilience subgroup, virtual (invited
+speaker)
+workshop on spectrum challenges and opportunities for 6g and navigation,
+stanford university, stanford, ca (invited speaker & panelist)
+ion gnss+ conference, session: “pnt for ai-enabled autonomous sys-
+tems: the good, the bad, and the ugly,” st. louis, mo (invited speaker &
+panelist)
+national institute of standards and technology (nist), public safety broad-
+band stakeholder meeting, virtual (invited speaker)
+international conference on information technology: new generations, las
+vegas, nv (keynote speaker)
+university of california, irvine, ca (invited speaker & panelist)
+information theory and applications workshop, university of california, san
+diego, ca (invited speaker)
+institute of navigation (ion), online webinar: lte receiver design and
+multipath analysis for navigation in urban environments” (invited speaker)
+ieeevehiculartechnologyconference,honolulu,hi(invited speaker & pan-
+elist)
+ion gnss+ conference, session: “the spectrum of autonomy in naviga-
+tion,” miami, fl (invited speaker & panelist)
+ion gnss+ conference, session: “pnt security and robustness,” miami,
+fl (invited speaker & panelist)
+ion cognizant autonomous systems for safety critical applications confer-
+ence, miami, fl (keynote speaker)
+national institute of standards and technology (nist), public safety broad-
+band stakeholder meeting, chicago, il (invited speaker)
+naval surface warfare center, corona, ca (seminar)
+university of california, irvine, ca (invited speaker & panelist)
+e´cole de technologie sup´erieure (e´ts), montreal, canada (seminar)
+asilomar conference on signals, systems and computers, session: “signal
+processing for gnss and/or localization with terrestrial networks,” pacific
+grove, ca (invited session)
+ion gnss+ conference, session: “autonomous cyber-physical systems –
+the way ahead,” miami, fl (invited speaker)
+naval surface warfare center, corona, ca (seminar)
+ifac networked & autonomous air & space systems workshop, session:
+“uav estimation & control,” santa fe, nm (invited speaker in plenary ses-
+sion)
+33 of 45
+european navigation conference, gothenburg, sweden (plenary speaker)
+ieee wireless communications and networking conference, session: “local-
+ization in current and emerging networks,” barcelona, spain (invited ses-
+sion)
+departmentofaeronautics&astronautics,universityofwashington,seattle,
+wa (seminar)
+department of aerospace engineering sciences, university of colorado boul-
+der, co (seminar)
+department of electrical & computer engineering, university of california,
+santa barbara, ca (seminar)
+ion cognizant autonomous systems for safety critical applications work-
+shop, reston, va (keynote speaker)
+department of mechanical & aerospace engineering, university of california,
+san diego, ca (seminar)
+position, navigation, & time (pnt) symposium, stanford university, stan-
+ford, ca (invited speaker)
+texas wireless summit, wireless networking & communications group
+(wncg),theuniversityoftexasataustin, tx(invited speaker & panelist)
+department of aerospace engineering & engineering mechanics, the univer-
+sity of texas at austin, tx (seminar)
+naval surface warfare center, corona, ca (seminar)
+european signal processing conference, session: “positioning in challenging
+environments,” kos island, greece (invited session)
+gpsworldmagazine,onlinewebinar: “uavs: fromflyingdronestodoing
+business” (invited speaker)
+department of electrical & computer engineering, university of california,
+riverside, ca (seminar)
+department of mechanical, materials & aerospace engineering, illinois insti-
+tute of technology, chicago, il (seminar)
+department of electrical engineering, university of california, los angeles,
+ca (seminar)
+departmentofelectrical&computerengineering,theohiostateuniversity,
+columbus, oh (seminar)
+department of electrical & computer engineering, carnegie mellon univer-
+sity, silicon valley, ca (seminar)
+department of electrical engineering & computer science, university of cal-
+ifornia, irvine, ca (seminar)
+society of women engineers, university of california, riverside, ca (invited
+speaker)
+department of electrical engineering & computer science, ohio university,
+athens, oh (seminar)
+department of electrical & computer engineering, air force institute of
+technology, wright-patterson air force base, oh (seminar)
+departmentofelectrical&computerengineering,theohiostateuniversity,
+columbus, oh (seminar)
+departmentofaeronautics&astronautics,universityofwashington,seattle,
+wa (seminar)
+ion southern california section, john deere, torrance, ca (seminar)
+34 of 45
+departmentofaeronautics&astronautics,stanforduniversity,stanford,ca
+(seminar)
+department of electrical engineering, university of south florida, tampa,
+fl (seminar)
+department of electrical & computer engineering, university of california,
+santa barbara, ca (seminar)
+department of electrical & computer engineering, university of california,
+riverside, ca (seminar)
+naval research laboratory, washington, d.c. (seminar)
+department of aerospace engineering & mechanics, university of minnesota,
+twin cities, minneapolis, mn (seminar)
+department of electrical & computer engineering, american university of
+beirut, lebanon (seminar)
+department of electrical & computer engineering, university of california,
+riverside, ca (seminar)
+ieee global conference on signal & information processing, session: “soft-
+ware defined and cognitive radios,” austin, tx (invited session)
+the aerospace corporation, el segundo, ca (seminar)
+northrop grumman electronic systems, woodland hills, ca (seminar)
+charles stark draper laboratory, cambridge, ma (seminar)
+robotics & autonomous vehicles summit, national instruments week con-
+ference, austin, tx (invited speaker)
+academicforum,nationalinstrumentsweekconference,austin,tx(invited
+speaker)
+the university of texas at austin, electrical & computer engineering grad-
+uate lecture series, austin, tx (invited panelist),
+texas wireless summit, austin, tx (invited session)
+national science foundation wireless internet center for advanced technol-
+ogy (nsf-wicat), virginia tech, blacksburg, va (invited session)
+department of electrical & computer engineering, american university of
+beirut, lebanon (seminar)
+mechatronics symposium, national instruments week conference, austin,
+tx (invited speaker)
+air force research laboratory, wright-patterson air force base, oh (semi-
+nar)
+l–3 communications, cincinnati, oh (seminar)
+belcan engineering, cincinnati, oh (seminar)
+center for automotive research, the ohio state university, columbus, oh
+(seminar)
+departmentofelectrical&computerengineering,theohiostateuniversity,
+columbus, oh (seminar)
+committees • chair, ieee aerospace and electronic systems society, navigation systems panel
+and panels ( – present)
+• fellows evaluation committee, ieee aerospace and electronic systems society
+( )
+• selection committee, ieee aess awards ( )
+• panelist, ieee vehicular technology society, committee on mission critical com-
+35 of 45
+munications ( – present)
+• panelist, ieee aerospace and electronic systems society, vision and perspectives
+panel ( – )
+• selection committee, ion bradford parkinson award for best ph.d. dissertation
+( , )
+• selection committee, ion gnss+ conference best student paper award ( ,
+)
+• vice chair, ieee aerospace and electronic systems society, navigation systems
+panel ( – )
+• panelist,ieeeaerospaceandelectronicsystemssociety, navigationsystemspanel
+( – )
+• council member-at-large, institute of navigation (ion) ( – )
+• selection committee, ieee senior membership advancement, austin, tx ( )
+review panelist,national science foundation (nsf), secure and trustwor-
+review
+thy cyberspace (satc), alexandria, va
+panels
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), computer and net-
+work systems (cns), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), computer and net-
+work systems (cns) , alexandria, va
+review panelist,national science foundation (nsf), smart and connected
+communities (s&cc), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist,national science foundation (nsf), secure and trustwor-
+thy cyberspace (satc), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), smart and au-
+tonomous systems (s&as), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), computer and net-
+work systems (cns), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), alexandria, va
+36 of 45
+review panelist, national science foundation (nsf), computer and net-
+work systems (cns), arlington, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), arlington, va
+review panelist, national science foundation (nsf), smart and au-
+tonomous systems (s&as), arlington, va
+review panelist, national science foundation (nsf), computer and net-
+work systems (cns), arlington, va
+review panelist, national science foundation (nsf), cyber-physical sys-
+tems (cps), arlington, va
+co-organizer and co-chair, ion gnss+ conference, “panel: leo con-
+conference
+stellations for pnt: services, opportunities, and challenges,” baltimore, md
+organization
+co-organizer and co-chair, ieee vehicular technology conference,
+“workshop: mission critical communications,” oslo, norway
+track chair, ieee/ion position, location and navigation symposium, “in-
+tegrated and opportunistic navigation,” , salt lake city, ca
+co-organizer and co-chair, ieee international conference on wireless in
+space and extreme environments, “workshop: ieeelow-earthorbit(leo)
+satellites and systems (sats),” daytona beach, fl
+co-organizer, international conference on information fusion, “special
+session: multi-modal fusion for assured positioning, navigation, and timing
+(pnt),” venice, italy
+co-organizer and co-chair,ion gnss+ conference,“panel: autonomous
+navigation for ground, seaborne, and airborne vehicles,” denver, co
+co-organizer and co-chair, ieee vehicular technology conference,
+“workshop: mission critical communications,” florence, italy
+program chair, ieee/ion position, location and navigation symposium,
+monterey, ca
+co-organizer, international conference on information fusion, “special
+session: estimation and fusion for navigation,” link¨oping, sweden
+co-organizer and co-chair, ieee vehicular technology conference,
+“workshop: mission critical communications,” helsinki, finland
+organizer, munich satellite navigation summit, “special session: ai and
+advanced technologies for next generation gnss,” munich, germany
+track chair, ion gnss+ conference,“algorithms and methods,” saint
+louis, mo
+co-organizer and co-chair, ion gnss+ conference, “panel: ai-enabled
+navigation in smart cities,” saint louis, mo
+co-organizer and co-chair, ieee international conference on intelligent
+transportation systems,“special session: resilient and secure navigation for
+highly automated transportation systems,” indianapolis, in
+organizer and chair, ion gnss+ conference, “panel: pnt for ai-
+enabled autonomous systems: the good, the bad, and the ugly,” saint
+louis, mo
+program chair, ieee/ion position, location and navigation symposium,
+portland, or
+37 of 45
+organizer and chair, ieee international conference on acoustics, speech,
+and signal processing, “special session: signal processing for sensing,
+information fusion, and situational awareness in autonomous systems,”
+barcelona, spain
+co-organizer and co-chair, ieee vehicular technology conference,
+“workshop: reliable ubiquitous navigation in smart cities,” honolulu, hi
+co-organizer and co-chair, ion gnss+ conference, “panel: navigating
+smart and connected cities,” miami, fl
+general chair, ion cognizant autonomous systems for safety critical ap-
+plications conference, miami, fl
+co-organizer and co-chair,ion gnss+ conference,“panel: autonomous
+cyber-physical systems – the way ahead,” miami, fl
+track chair, ieee/ion position, location and navigation symposium,
+“applications to automated, semi-autonomous, and fully-autonomous sys-
+tems,” monterey, ca
+organizer and general chair, ion cognizant autonomous systems for
+safety critical applications workshop, reston, va
+session co-chair, “beyond gnss: emerging trends in leo-based and ter-
+professional
+restrialsignalsofopportunityforpnt,”iongnss+conference,baltimore,
+service
+md
+technical program committee member, ieee vehicular technology
+conference, oslo, norway
+committee member, “reducing cybersecurity risks,” us dot future of
+transportation summit, washington, d.c.
+session chair, “localization and direction finding,” ieee vehicular tech-
+nology conference, florence, italy
+technical program committee member, ieee vehicular technology
+conference, florence, italy
+session co-chair, “indoor navigation and positioning,” ion gnss+ con-
+ference, denver, co
+session co-chair, “position, navigation and timing security in highly au-
+tomated vehicles,” ifac symposium on advances in automotive control,
+columbus, oh
+session chair, “positioning 1,” ieee vehicular technology conference,
+helsinki, finland
+international program committee member, ifac symposium on ad-
+vances in automotive control, columbus, oh
+technical program committee member, ieee vehicular technology
+conference, helsinki, finland
+session chair, “autonomous driving security 2,” acm workshop on auto-
+motive and autonomous vehicle security, san diego, ca
+session co-chair, “radionavigation with terrestrial and leo signals,” ion
+international technical meeting, long beach, ca
+technical program committee member, ieee military communications
+conference, san diego, ca
+associate editor, american control conference, new orleans, la
+38 of 45
+technical program committee member, ieee vehicular technology
+conference, helsinki, finland
+session co-chair, “radionavigation beyond medium earth orbit gnss,”
+ion international technical meeting, san diego, ca
+technical program committee member, ieee vehicular technology
+conference, victoria, canada
+session chair, “aerial vehicle autonomy 2,” ion cognizant autonomous
+systems for safety critical applications conference, miami, fl
+session chair, “localization techniques,” ieee vehicular technology con-
+ference, kuala lumpur, malaysia
+session chair, “active safety and autonomous driving,” european naviga-
+tion conference, gothenburg, sweden
+session co-chair, “autonomous navigation,” ion international technical
+meeting, reston, va
+session co-chair, “multisensor navigation in challenging environments,”
+ion gnss+ conference, portland, or
+session co-chair, “autonomous robots ii,” american control conference,
+seattle, wa
+associate editor, american control conference, seattle, wa
+session co-chair, “autonomous navigation,” ion international technical
+meeting, monterey, ca
+session co-chair, “collaborative and networked navigation,” ieee/ion
+position, location and navigation symposium, savannah, ga
+session co-chair, “multi-sensor fusion,” ion international technical meet-
+ing, monterey, ca
+session co-chair, “sensor systems for gnc ii,” aiaa guidance, naviga-
+tion, & control conference, boston, ma
+session co-chair, “control applications,” ifac world congress, milan,
+italy
+journal • senior editor, ieee transactions on intelligent transportation systems, ( –
+editorship present).
+• associate editor, ieee transactions on aerospace and electronic systems, (
+– present).
+• senior editor, ieee transactions on intelligent vehicles, ( – ).
+• associate editor, ieee transactions on intelligent transportation systems, (
+– ).
+• guest editor, ieee intelligent transportation systems magazine, special issue
+on recent advances in the use of gnss-based positioning for intelligent transport
+systems, ( – ).
+peer-review journals
+activities • ieee transactions on aerospace and electronic systems
+• ieee transactions on intelligent transportation systems
+• ieee transactions on intelligent vehicles
+• ieee transactions on wireless communications
+• ieee transactions on signal processing
+• ieee journal of selected topics in signal processing
+39 of 45
+• ieee journal on selected areas in communications
+• ieee aerospace and electronic systems magazine
+• ieee intelligent transportation systems magazine
+• ieee vehicular technology magazine
+• navigation, journal of the institute of navigation
+• ieee control systems letters
+• spie journal of applied remote sensing
+conferences
+• ieee/ion position, location, and navigation symposium
+• ieee vehicular technology conference
+• ion gnss+ conference
+• ieee intelligent vehicles symposium
+• ieee international conference on acoustics, speech, and signal processing
+• ieee military communications conference
+• ieee wireless communications and networking conference
+• ion international technical meeting
+• ieee conference on control technology and applications
+• european signal processing conference
+• aiaa guidance, navigation, and control conference
+• american control conference
+• ieee multiconference on systems and control
+• ifac world congress
+professional • institute of electrical and electronics engineers (ieee), fellow
+memberships • institute of navigation (ion), fellow
+• ieee aerospace and electronic systems society, ieee intelligent transportation
+systems society, ieee vehicular technology society, ieee signal processing soci-
+ety, ieee communications society
+university the ohio state university
+committees department of electrical & computer engineering
+• area chair (systems: control, signal processing, & computer vision), –
+present
+• promotion & tenure committee, – present
+• curriculum committee, – present
+• recruiting & financial aid committee, –
+• personnel committee, –
+electroscience laboratory
+• personnel committee, – present
+college of engineering
+• research committee, – present
+university of california, irvine
+department of mechanical & aerospace engineering
+• faculty search committee, –
+40 of 45
+• graduate studies committee, –
+campus
+• campus selection committee for proposal submission to the department of
+defense research and education program (rep) for historically black col-
+leges and universities/minority serving institutions (hbcu/mi),
+university of california, riverside
+campus
+• cluster hiring in autonomy, robotics, and dynamics committee,
+bourns college of engineering
+• research & instructional infrastructure committee,
+department of electrical & computer engineering
+• colloquium series co-organizer ( – , – )
+• undergraduate curriculum committee,
+• outreach, recruitment, & publicity committee,
+• department webpage redesign committee,
+visiting faculty • prof. laura ruotsalainen (university of helsinki, finland),
+hosted • prof. jiwon seo (yonsei university, south korea), –
+postdoctoral • dr. foroughnasihati, – (job upon conclusion: the ohio state university)
+researcher • dr. zeinab shadram, – (job upon conclusion: phy wireless)
+supervision • dr. joe khalife, – (job upon conclusion: apple)
+• dr. mahdi maaref, – (job upon conclusion: onenav)
+ph.d. student • jennifer sanderson
+supervision • paul el kouba
+• faezeh mooseli
+• artun sel
+• joe saroufim
+• samer watchi hayek
+• shaghayegh shahcheraghi
+• sharbel kozhaya
+• dr. mohammad neinavaie, dissertation: “cognitive sensing and navigation with
+unknown terrestrial and leo satellite signals,” (job upon graduation: apple)
+• dr. kimia shamaei, dissertation: “exploiting cellular signals for navigation: 4g to
+5g,” (job upon graduation: apple)
+• dr. joe khalife, dissertation: “precise navigation with cellular signals: receiver
+design, differential and non-differential frameworks, and performance analysis,”
+(job upon graduation: postdoctoral researcher, university of california, irvine)
+• dr. joshua morales, dissertation: “inertial radio slam: standalone and collabora-
+tive architectures,” (job upon graduation: starnav)
+41 of 45
+visiting ph.d. • halim lee (yonsei university, south korea), –
+student
+supervision
+m.s. student • will barrett
+supervision • nadim khairallah, thesis: “towards opportunistic navigation with leo satellites:
+adaptiveclockestimationandclosed-loopephemeristracking,” (job upon grad-
+uation: spacex)
+• alexander nguyen, thesis: “aerial vehicle navigation with terrestrial signals of op-
+portunity: performance analysis and transmitter selection,” (job upon gradua-
+tion: air force research laboratory)
+• ali abdallah, thesis: “indoor navigation with cellular signals utilizing synthetic
+aperture for multipath mitigation,” (job upon graduation: google)
+• sonya ragothaman, thesis: “path planning for autonomous ground vehicles using
+gnss and cellular lte signal reliability maps and gis 3–d maps,” (job
+upon graduation: the aerospace corporation)
+• jesse garcia, thesis: “autonomous surface vehicle measurement location plan-
+ning for optimal underwater acoustic transponder localization,” (job upon
+graduation: naval information warfare center pacific, san diego)
+• ralph sabbagh, non-thesis, (job upon graduation: ph.d. student, university
+of california, irvine)
+• jamil haidar ahmad, non-thesis, (job upon graduation: asml)
+• mohamad orabi, non-thesis, (job upon graduation: onenav)
+• trier mortlock, non-thesis, (job upon graduation: ph.d. student, university of
+california, irvine)
+• christian ardito, non-thesis, (job upon graduation: maxentric technologies)
+b.s. thesis • carlos acebes cebri´an, double b.s. thesis in aerospace systems engineering and
+supervision telecommunication systems engineering: “opportunistic navigation with iridium
+next leo satellites,” (job upon graduation: indra sistemas)
+undergraduate [30] jonathan low (jan. – mar. ) [29] shiming xu (sep. – mar. ),
+student [28] eddie huang (jan. – mar. ), [27] oleon hariharan (apr. – dec.
+researcher ), [26] vivek hatte (apr. – jun. ), [25] giles pierre nunez carlos (apr.
+supervision – jun. ), [24] raphael feliciano (oct. – jun. ), [23] andrew zhao
+(oct. –jun. ),[22]sharbelkozhaya(jul. –aug. ),[21]qitai(neo)
+meng (oct. – jun. ), [20] yanhao yang (oct. – jun. ), [19] xinyi
+taylor zhang (jun. – mar. ), [18] zainab ashai (apr. – mar. ),
+[17] bhavani panda (apr. – dec. ), [16] aishwarya bhandari (apr. –
+dec. ), [15] michael maher (oct. – dec. ), [14] mylinh nguyen (apr.
+– sep. ), [13] labiba saleh (jun. – sep. ), [12] mohamad orabi
+(jun. – aug. ), [11] naji tarabay (jun. – aug. ), [10] brandon
+lam (apr. - jun. ), [9] jerry lee (jan. – jun. ), [8] kyle semelka
+(apr. – jun. ), [7] chester lau (jul. – apr. ), [6] souradeep gogol
+bhattacharya (oct. – jun. ), [5] christian ardito (mar. – jun. ),
+[4] sonya ragothaman (apr. – sep. ), [3] jesse garcia (apr. – sep.
+), [2] gustavo correa (jul. – dec. ), [1] farah khalife (jun. – aug.
+)
+42 of 45
+high school [2] frank li (jun. – aug. ), [1] shintaro mori (jun. – jun. )
+student
+supervision
+senior design • “navigating the skies with starlink,” will barrett, jackson morris, ethan shaw,
+project vasilios konstantacos, may
+co-supervision • “uav sensing and navigation with unknown terrestrial transmitters,” khaled
+hamil, aiden short, andrew ye, may
+• “cubesat,” taekyoo won, elias andraos, andraos arain, sarah catania orozco,
+edwin christhuraj, manasi deshpande, adam adam, aileen juang, jimmy juarez,
+tasmima khan, tasmima koo, tyler lee, bryan matel, krish mehta, shreejan
+mistry, adrian osorio, gabrielle palar, gabrielle phan, kendrick phan, kendrick
+prata, sherlock qin, erik ren, diego rodriguez orozco, brianna sandoval, alexan-
+dria shin, enson su, raineir tabano, yi-ju tsai, gary villar, grazelle viloria,
+duong vu, april wu, mengjie xie, catherine zhang, jun.
+• “unmannedfloatingvehicle,”elitsao,chazfazio,reecerivera,wessamelmasri,
+mar.
+• “autonomous target robot,” erik sandelin, huy ho, sary aranki, megan uozumi,
+anthony atz, mar.
+• “cubesat,” taekyoo won, suleyman varlibas, piunik haghnazarian, kelby custo-
+dio,jamesbohne,anthonycastillo,mohamedabdelwahab,angelalarcon,alarcon
+chen, edwin christhuraj, sarah catania orozco, tyler cook, an thanh dang, an-
+drew kettle, jaeven laron, tyler lee, alexei lorion, adrian osorio, elijah reed,
+jason sanchez, sergio sandoval, alexandria shin, arianne agno, hafsah arain, os-
+car castro, manasi deshpande, aileen juang, xavier lian, weixin lin, andrew
+nguyen, aditi pai, micah raney, erik ren, diego rodriguez orozco, brianna san-
+doval, enson su, adel tani, junyang zhang, jun. .
+• “cubesat,” taekyoo won, armen ter avetisyan, sergio sandoval, baldwin ngo,
+edwin christhuraj, syed hassan, akash idnani, jaeven laron, adrian osorio, caleb
+smith, anthony drabeck, fadi samaan, jun. .
+• “mobile simulated buoy hub ii,” shyam patel, joseph parra, haniel youlesivanson,
+jeffery vuong, and alexander kim, mar. .
+• “mobile simulated buoy hub i,” taylor filemon, chunguang yang, jiayi wu, and
+christopher navarro, mar. .
+• “unmanned surface vehicle with auto attach/detach data connectors,” lorjean
+sagabaen, alexander janbo, dennis chua, yuchen geng, and james le, mar. .
+• “autonomous target scoring drone ii,” leo leal, kian farsany, june chen, and
+zachary agness, mar. .
+• “trilateral fm signal locator,” yiran xu, gary zhou, and zhi qiu, mar. .
+• “widebandspectrummonitor,”briandang,marktullen,jesuslopez,andvincent
+villacorta, mar. .
+• “rogue rf signal detector drone,” yehuda rousso, erick magana, and che-wei
+chang, mar. .
+• “droneleader-followerii,”andyvu,lawrencedizon,davidphan,andhughfong,
+mar. .
+• “autonomous target robot ii,” olga shigapova, don isbell, and carmine choi,
+mar. .
+• “drone leader-follower i,” ameer hussain, amauri villegas, phillip flores, and
+43 of 45
+jacob hurley, mar. .
+• “autonomous target robot i,” alex yamamura, brandon kuo, simon lee, and
+william hartono, mar. .
+• “autonomous target scoring drone i,” sukhmanjit kaur, eric rodriguez, bert yu,
+and bibek adhikari, mar. .
+• “auto-adjusting p2p microwave link,” david tiao, wilfredo paraiso, and wilfredo
+paraiso, mar. .
+• “roguerfsignaldetectordrone,” semdiaz,edwintorres,andmatthewscudder,
+mar. .
+• “trilateral fm signal locator,” sean pickman and alan nguyen, mar. .
+• “widebandspectrummonitor,”danielaleman,robertalmeida,andkarlapenney,
+mar. .
+• “autonomous target robot,” coulter mulvihill, henry hua, and xinyi wu, mar.
+.
+• “auto-adjustingp2pmicrowavelink,”anthonyvalverde,alexroissier,androbert
+wells, mar. .
+• “autonomous target scoring drone,” morgan lytle, kevin le, and alec pflaume,
+mar. .
+• “autonomous aerial position tracking system,” gurkaran randhawa, jack may-
+nard, and estevan valencia, mar. .
+• “autonomous target robot,” taylor che, samuel choi, and francisco munoz, mar.
+.
+• “rogue radio frequency (rf) signal detector,” francisco raygoza, isai rocha, and
+victor medel, mar. .
+• “auto-adjusting p2p microwave link,” shane owens, jesse layman, and curtis
+smith, mar. .
+• “autonomous target scoring drone,” jiaming zhou and gerardo hernandez, mar.
+.
+• “trilateral fm signal,” wang hu, rongjia zhang, and xin ke, mar. .
+• “localization of rf transmission using phased arrays,” albert liu and matthew
+lumantas, mar. .
+• “wideband spectrum monitor,” christian ardito and bradley evans, mar. .
+ph.d. • russell whiton, “dude, where’s my car? - cellular navigation for autonomous
+dissertation vehicles,” lund university, sweden, apr.
+defense • joshua critchley-marrows, “a return to the stars in an age of navigation uncer-
+committees tainty–atreatiseontheuseofcelestialbodiesforresilientpositioning,navigation
+and timing,” university of sydney, australia, feb.
+• yiming chen, “a new approach for computationally efficient and reliable car-
+rier integer ambiguity resolution in gps/ins,” university of california, riverside,
+usa, dec. .
+• sheng zhao, “realtime, decimeter accuracy navigation using sliding window es-
+timator and autonomous vehicle trajectory tracking control,” university of cali-
+fornia, riverside, usa, dec. .
+m.s. thesis • jiarui liu, “analysis of ev charging load based on household driving data in
+committees california,” jul. .
+44 of 45
+outreach creatorof“gameofdrones,”anannualcompetitionformiddleandhighschoolstudents
+toinspirestudentstopursuescience,technology,engineering,andmathematics(stem)
+fields. since , game of drones has engaged 300+ students.
+45 of 45

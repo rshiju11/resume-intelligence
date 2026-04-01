@@ -1,18 +1,16 @@
 """
 embed_all.py
 
-- Embeds all resumes inside data/raw
+- Embeds all resumes inside data/extracted_text
 - Saves embedding matrix and filenames
 """
 
 import os
 import numpy as np
-from src.preprocessing.clean_text import clean_text
-from src.extraction.extract_text import extract_pdf_text
 from src.embeddings.chunk_embed import get_resume_embedding
 from sklearn.preprocessing import normalize
 
-RAW_DIR ="data/raw"
+RAW_DIR ="data/extracted_text"
 OUT_DIR="results/embeddings"
 
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -21,14 +19,15 @@ embeddings= []
 filenames = []
 
 for file in os.listdir(RAW_DIR):
-    if file.lower().endswith(".pdf"):
+    if file.lower().endswith(".txt"):
         path = os.path.join(RAW_DIR, file)
         print("Processing:", file)
 
-        text = extract_pdf_text(path)
-        cleaned = clean_text(text)
+        with open(path, "r", encoding="utf-8") as f:
+            text = f.read()
+        
 
-        emb= get_resume_embedding(cleaned)
+        emb= get_resume_embedding(text)
 
         if emb is not None:
             embeddings.append(emb)

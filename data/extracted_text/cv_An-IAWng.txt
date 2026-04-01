@@ -1,0 +1,1027 @@
+an-i a. wang
+january 29,
+general information
+university address: computer science
+college of arts and sciences
+love building 253
+florida state university
+tallahassee, florida
+phone:
+e-mail address:
+web site: http://www.cs.fsu.edu/~awang/
+professional preparation
+ph.d., university of california, los angeles. major: computer science.
+specialization: operating systems. supervisor: gerald popek.
+wang, an-i a. ( ). the conquest file system: a disk/persistent-ram
+hybrid design for better performance and simpler data paths.
+(doctoral dissertation, university of california, los angeles).
+retrieved from proquest dissertations and theses,
+http://search.proquest.com/docview/305353494?accountid=4840,
+3094262.
+m.s., university of california, los angeles. major: computer science.
+specialization: operating systems. supervisor: gerald popek.
+wang, an-i a. ( ). simulation evaluation for optimistically replicated
+filing environments. unpublished master's thesis, university of
+california, los angeles.
+b.a., university of california, berkeley. major: computer science. summa
+cum laude.
+vita for an-i a. wang
+professional experience
+–present professor, computer science, florida state university.
+– associate professor, computer science, florida state university.
+– assistant professor, computer science, florida state university.
+lecturer, university of california, los angeles.
+– research assistant, university of california, los angeles.
+teaching assistant, university of california, los angeles.
+eecs summer intern, ibm almaden research center.
+honors, awards, and prizes
+excellence in teaching award, the alpha chapter of phi beta kappa in florida ( ).
+nominee, fsu developing scholar award, florida state university ( ).
+nominee, university undergraduate teaching award, florida state university ( ).
+nsf faculty early career development award, national science foundation ( ).
+nominee, university undergraduate teaching award, florida state university ( ).
+current membership in professional organizations
+senior member, association for computing machinery, inc. (acm)
+usenix: the advanced computing systems association
+teaching
+courses taught
+advanced operating systems (cop5611)
+operating systems principles (cop4610)
+internship in computer science (cis5949)
+storage research (cis5900)
+principles of operating systems (cgs5765)
+computer systems performance evaluation (cis 5105)
+storage research (cis4900)
+systems security research (cis6900)
+object-oriented programming in c++ for non-majors (cop3330)
+object-oriented programming in c++ for non-majors (cgs5409)
+page 2
+vita for an-i a. wang
+computer systems performance evaluation (cis5930)
+kernel and device driver programming (cop5641)
+honors work (cis4933)
+special topics in computer science (cis4930)
+doctoral qualifying examination (cis8962)
+advanced seminar in computer science (cis6935)
+lens seminar series (cis6935)
+graduate software project (cis5915)
+operating systems reading group (cis6935)
+data structures, algorithms, and generic programming (cop4530)
+object-oriented programming with data structures (cgs5425)
+undergraduate operating systems principles (at ucla) (cs111)
+new course development
+object-oriented programming in c++ for non-majors ( )
+computer systems performance evaluation ( )
+kernel and device driver programming ( )
+operating systems principles ( )
+advanced operating systems ( )
+doctoral committee chair
+roy, b., graduate. ( ). exploiting semantic equivalence of files to improve file system
+services. [funded by nsf]
+wang, w., graduate. ( ). tags: a unifying primitive for the storage data path. [funded
+by nsf]
+zhang, s., graduate. ( ). matching physical file representation to logical access patterns
+for better performance.
+mitchell, m. j., graduate. ( ). cashtags: protecting the input and display of sensitive data.
+[funded by nsf]
+diesburg, s. m., graduate. ( ). per-file full-data-path secure deletion for electronic
+storage. [funded by nsf, doe, peo, and fsu]
+jiao, b., doctoral candidate. [funded by fsu]
+liu, w., doctoral candidate. [funded by nsf]
+nath, a., doctoral candidate.
+walsh, b., doctoral student.
+doctoral committee cochair
+stanovich, m., graduate. ( ). plugging i/o resource leaks in general-purpose real-time
+operating systems. [funded by nsf and fsu, co-directed with ted baker]
+page 3
+vita for an-i a. wang
+doctoral committee member
+khan, m., graduate. ( ). tuning and optimization of resource management for data
+analytics applications.
+hasan, m. a., graduate. ( ).
+tan, s., graduate. ( ). towards ubiquitous sensing using commodity wifi.
+chen, y., graduate. ( ). securing systems by vulnerability mitigation and adaptive live
+patching.
+wang, t., graduate. ( ). exploring novel burst buffer management solutions on
+extreme-scale hpc systems.
+gavin, p., graduate. ( ). a presentation and low-level energy usage analysis of two
+low-power architectural techniques.
+west, p. e., graduate. ( ). next generation performance monitoring.
+hines, s. r., graduate. ( ). improving processor efficiency through enhance instruction
+fetch.
+song, s., doctoral candidate.
+tayeb, a., doctoral student.
+doctoral committee university representative
+annane, b., graduate. ( ). hwrt analysis and forecast impact of cygnss observations
+assimilated as scalar wind speeds and as vam wind vectors.
+master's committee chair
+aher, s., graduate. ( ). personalized image annotation using facebook.
+dulani, p., graduate. ( ).
+espinoza, m., graduate. ( ).
+thomas, v., graduate. ( ).
+tedeschi, a., graduate. ( ). personalized image annotation using social media.
+brown, a., graduate. ( ).
+lovett, a., graduate. ( ). software assisted image annotation and content-based image
+retrieval with social media emphasis.
+zhou, m., graduate. ( ).
+conde, j., graduate. ( ).
+ma, t., graduate. ( ).
+rumancik, l., graduate. ( ).
+williams, j., graduate. ( ).
+mustapick, e., graduate. ( ).
+trettin, r., graduate. ( ).
+li, k., graduate. ( ).
+chennaka, a., graduate. ( ).
+bach, j., graduate. ( ). [funded by nsf]
+page 4
+vita for an-i a. wang
+stephens, b., graduate. ( ). i/o latency in the linux storage stack.
+roy, b., graduate. ( ). [funded by nsf]
+zhang, s., graduate. ( ).
+shyamala, s., graduate. ( ).
+dhabhai, h., graduate. ( ). identity theft data analysis based on the national crime
+victimization survey.
+kadali, p., graduate. ( ).
+kulkarni, n., graduate. ( ). analysis of tagfs implementation in fuse.
+meyers, c., graduate. ( ). [funded by nsf]
+pillay, m., graduate. ( ).
+bobba, b., graduate. ( ).
+buzbee, b., graduate. ( ).
+gourineni, a., graduate. ( ).
+sanders, j., graduate. ( ). [funded by doe]
+cobbs, b., graduate. ( ).
+chauhan, s., graduate. ( ).
+mohanty, s., graduate. ( ).
+goyal, v., graduate. ( ).
+vyas, r., graduate. ( ).
+fishel, r., graduate. ( ). exploring raid configurations.
+diesburg, s., graduate. ( ). [funded by doe]
+fox, c., graduate. ( ). quantifying temporal and spatial localities in storage workloads
+and transformations by data path components. [funded by nsf]
+lary, d., graduate. ( ). ponyfs: file-system-level encryption-based secure erasure.
+lojpur, d., graduate. ( ). [funded by nsf]
+stanovich, m., graduate. ( ). throttling on-disk schedulers to meet soft-real-time
+requirements. [funded by nsf, co-directed with ted baker]
+vuong, b., graduate. ( ).
+qian, j., graduate. ( ). a behind-the-scenes story on applying cross-layer coordination to
+disks and raids. [funded by nsf]
+toh, s., graduate. ( ).
+weddle, c., graduate. ( ). [funded by nsf]
+hu, z., graduate. ( ).
+morgan, t., student.
+panday, s., student.
+abbinante, j., student.
+adapa, a., student.
+ball, m., student.
+holder, c., student.
+karra, k., student.
+neelam, j., student.
+rimmalapudi, v., student.
+rudd, r., student.
+shah, v., student.
+garji, r., student.
+kolla, n., student.
+page 5
+vita for an-i a. wang
+kudikala, s., student.
+nasseh, f., student.
+srivastav, v., student.
+master's committee cochair
+mitchell, m. j., graduate. ( ). context and bio-aware mobile applications. [funded by fsu,
+co-directed with gary tyson]
+mahajan, a., graduate. ( ). urban mobility models for vehicular ad hoc networks.
+[funded by fsu, co-directed with kartik gopalan]
+potnis, n., graduate. ( ). evaluating urban deployment scenarios for vehicular wireless
+networks. [funded by fsu, co-directed with kartik gopalan]
+master's committee member
+mauni, h., graduate. ( ). classification of programming video tutorial comments using
+fine-tuned bert and deep neural network.
+andres ponciano, graduate. ( ). a software engineering expertise search and navigation
+website.
+chengen li, graduate. ( ).
+matthew norflus, graduate. ( ).
+draper, c., graduate. ( ).
+escobar-avila, j., graduate. ( ).
+kundnani, h., graduate. ( ).
+connor, c., graduate. ( ).
+pimienta, m., graduate. ( ).
+yohn, d., graduate. ( ).
+chowdhury, m., graduate. ( ).
+perez, d., graduate. ( ).
+karthik achalkar, graduate. ( ).
+chetty, h., graduate. ( ).
+darunam, v., graduate. ( ).
+kishore mattaparthy, graduate. ( ).
+sinha, g., graduate. ( ).
+dwibhashyam, s., graduate. ( ).
+haribaran, a., graduate. ( ).
+pogaku, s. k., graduate. ( ).
+setty, s., graduate. ( ).
+chittipolu, k., graduate. ( ).
+jangannagari, a., graduate. ( ).
+parimala, b., graduate. ( ).
+qureshi, f., graduate. ( ).
+tangella, s., graduate. ( ).
+varma, a., graduate. ( ).
+page 6
+vita for an-i a. wang
+veladi, p., graduate. ( ).
+ambavarapu, c., graduate. ( ).
+kamble, a., graduate. ( ).
+cai, j., graduate. ( ).
+montee, g. m., graduate. ( ).
+sposaro, f., graduate. ( ).
+hekimian-williams, c. b., graduate. ( ).
+achury, m., graduate. ( ).
+boindala, a., graduate. ( ).
+west, p., graduate. ( ).
+erande, m., graduate. ( ).
+lakshminarayana, s., graduate. ( ).
+reece, g., graduate. ( ).
+rivera, c., graduate. ( ).
+xu, m., graduate. ( ).
+zhao, h., graduate. ( ).
+busey, j., graduate. ( ).
+huang, w., student.
+bachelor's committee chair
+cassano, c., graduate. ( ). a comparison study of deduplication methods with small-scale
+workloads. [funded by nsf]
+carpenter, m., graduate. ( ). file clustering for efficient backup systems. [funded by bess
+ward fellows and thesis grant]
+oldham, m., graduate. ( ). a power and performance measurement framework for
+server-class storage. [funded by nsf]
+bachelor's committee member
+yarboro, j., graduate. ( ). [funded by nsf]
+khlaaf, h., graduate. ( ).
+fertil, l., student.
+supervision of student research not related to thesis or dissertation
+kosar-kosarewicz, o. (jan–may ).
+oscar kosar-kosarewicz (jan–may ).
+jacob may (aug –may ).
+page 7
+vita for an-i a. wang
+peter karras (jan –may ).
+valery arturo (jan–may ).
+brandon stephens (aug –may ).
+catanese, h. (jan–may ).
+debraban, j. (sep –may ).
+kaal, k. (sep –may ).
+rosenthal, d. (sep –may ).
+willage, j. (sep –may ).
+roy, b. (sep –dec ).
+zatkovich, n. (sep –may ).
+garcia, b. j. (sep –dec ).
+patel, j. (sep –dec ).
+meyers, c. (sep –may ).
+zhu, f. (sep –may ).
+iliff, b. (sep –dec ).
+baylis, s. (sep –may ).
+fox, c. (sep –may ).
+gonzalez, j. (sep –may ).
+jones, k. (sep –may ).
+kulkarni, a. (sep –may ).
+owenby, c. (sep –may ).
+villmow, m. (sep –may ).
+page 8
+vita for an-i a. wang
+research and original creative work
+1788 google scholar citations; sole/lead pi for 19/22 grants ($8.7m total).
+publications
+invited journal articles
+weddle, c., oldham, m., qian, j., wang, a. a., reiher, p., & kuenning, g. ( ). paraid: a
+gear-shifting power-aware raid. acm transactions on storage (tos), 3(3),
+13:1- . retrieved from http://dl.acm.org/citation.cfm?id=1289721
+refereed journal articles
+ahmad tayeb, alahmadi mohammad dakhilallh, matthew norflus, sonia haiduc, & wang,
+an-i a. (submitted). a survey on the perception and impact of noninclusive language
+in software artifacts. acm transactions on software engineering and methodology
+(tosem). manuscript submitted for publication, 10 pages.
+wang, w., christopher meyers, robert roy, sarah diesburg, & wang, an-i a. ( ). adapt:
+an auxiliary storage data path toolkit. elsevier journal of systems architecture, 113,
+article no. 101902.
+zhang, s., roy, r., rumancik, l., & wang, an-i a. ( ). the composite-file file system:
+decoupling the one-to-one mapping of logical files and physical metadata for better
+performance. acm transactions on storage (tos), 16(1), article no. 5.
+diesburg, s., meyers, c., stanovich, m., wang, a., & kuenning, g. ( ). trueerase:
+leveraging an auxiliary data path for per-file secure deletion. acm transactions on
+storage (tos), 12(4), article no. 18. retrieved from
+http://dl.acm.org/citation.cfm?id=2854882
+diesburg, s., & wang, a. a. ( ). a survey of confidential data storage and deletion
+methods. acm computing surveys (csur), 43(1), 2:1- . retrieved from
+http://dl.acm.org/citation.cfm?id=1824797
+wang, a. a., kuenning, g., & reiher, p. ( ). using permuted states and validated
+simulation to analyze conflict rates in optimistic replication. scs simulation:
+transactions of the society for modeling and simulation international, 83(8), 551-569.
+retrieved from http://dl.acm.org/citation.cfm?id=1316483
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). the conquest file system: better
+performance through a disk/persistent-ram hybrid design. acm transactions on
+storage (tos), 2(3), 309-348. retrieved from http://dl.acm.org/citation.cfm?id=1168914
+page 9
+vita for an-i a. wang
+nyugen, n. t., wang, a. a., kuenning, g. h., & reiher, p. ( ). electric-field-based
+routing: a reliable framework for routing in manets. acm sigmobile mobile
+computing and communications review (mc2r), 8(2), 35-49. retrieved from
+http://dl.acm.org/citation.cfm?id=997129
+invited book chapters
+liu, w., & wang, an-i a. (in press). lfuzz: exploiting locality-enabled techniques for
+file-system fuzzing. in saravanan g (ed.), computer security--esorics , part ii,
+lecture notes in computer science, volume 14345 (19 pages). springer.
+wang, a. a., reiher, p., & kuenning, g. ( ). multipath routing for ad hoc networks. in
+kia makki, niki pissinou, kami (sam) makki, & e. k. park (eds.), mobile and wireless
+internet: protocols, algorithms, and systems (pp. 245-261). kluwer academic press.
+refereed proceedings
+jiao, b., goel, a., & wang, an-i a. (submitted). exploiting semantics of reliability mechanisms
+to find bugs in persistent memory file systems. manuscript submitted for publication,
+13 pages.
+amit kumar nath, forhan bin emdad, & wang, an-i a. (in press). challenges of personal
+image retrieval and organization: an academic perspective. in iconference (8 pages).
+ischools.
+liu, w., & wang, an-i a. ( ). lfuzz: exploiting locality-enabled techniques for
+file-system fuzzing. in 28th european symposium on research in computer security
+(esorics). springer.
+wang, an-i a, whalley, d., zhang, z., & tyson, g. ( ). experience administering our first
+nsf s-stem (scholarship) grant. in acm special interest group on computer
+science education conference (sigcse), oregon. new york city, acm.
+roy, r., dennis, e., wang, an-i a, reiher, p., & diesburg, s. ( ). the legend file system:
+better reliability through implicit replicas. in the 35th acm/sigapp symposium on
+applied computing (sac). new york city, acm.
+zhang, s., catanese, h., & wang, a. ( ). the composite-file file system: decoupling the
+one-to-one mapping of files and metadata for better performance. in proceedings of the
+14th usenix conference on file and storage technologies (fast) (pp. 15-22).
+usenix.
+page 10
+vita for an-i a. wang
+mitchell, m., wang, a., & reiher, p. ( ). cashtags: protecting the input and display of
+sensitive data. in proceedings of the 24th usenix security symposium, washington, d.
+c (pp. 961-976). usenix.
+mitchell, m., patidar, r., saini, m., singh, p., wang, a. a., & reiher, p. ( ). mobile usage
+patterns and privacy implications. in proceedings of the international workshop on
+the impact of human mobility in pervasive systems and applications. ieee.
+wang, a. a., tyson, g., whalley, d., van engelen, r., & zhang, z. ( ). a journey toward
+obtaining our first nsf s-stem (scholarship) grant. in proceedings of the acm
+special interest group on computer science education (sigcse) (pp. 427-432). acm.
+diesburg, s., meyers, c., stanovich, m., mitchell, m., marshall, j., gould, j., wang, a. a., &
+kuenning, g. ( ). trueerase: full-storage-data-path per-file secure deletion. in
+proceedings of the annual computer security applications conference (acsac)
+(pp. 439-449). acm.
+mitchell, m., sposaro, f., wang, a. a., & tyson, g. ( ). beat: bio-environmental android
+tracking. in proceedings of the ieee topical meeting on biomedical radio and
+wireless technologies, networks, and sensing systems (rww) (pp. 402-405). ieee.
+mitchell, m., meyers, c., wang, a. a., & tyson, g. ( ). contextprovider: context
+awareness for medical monitoring applications. in proceedings of the 33rd annual
+international conference on ieee engineering medicine and biology society (embs)
+(pp. 5244-5247). ieee.
+stanovich, m., baker, t., & wang, a. a. ( ). experience with sporadic server scheduling in
+linux: theory vs. practice. in proceedings of the 13th real-time linux workshop
+(rtlws) (pp. 219-230). osadl.
+stanovich, m., baker, t., wang, a. a., & harbour, m. g. ( ). defects of the posix
+sporadic server and how to correct them. in proceedings of the 16th ieee real-time
+and embedded technology and applications symposium (rtas) (pp. 35-45). ieee.
+qian, j., meyers, c., & wang, a. a. ( ). a linux implementation validation of
+track-aligned extents and track-aligned raids. in proceedings of the usenix
+annual technical conference (atc) (pp. 261-266). usenix.
+fox, c., lojpur, d., & wang, a. a. ( ). quantifying temporal and spatial localities in
+storage workloads and transformations by data path components. in proceedings of
+the 16th annual meeting of the ieee international symposium on modeling, analysis,
+and simulation (mascots) (pp. 1-10). ieee.
+page 11
+vita for an-i a. wang
+stanovich, m., baker, t. p., & wang, a. a. ( ). throttling on-disk schedulers to meet
+soft-real-time requirements. in proceedings of the 14th ieee real-time and
+embedded technology and applications symposium (rtas) (pp. 331-341). ieee.
+diesburg, s., meyers, c., lary, d., & wang, a. a. ( ). when cryptography meets storage.
+in proceedings of the 4th international workshop on storage security and survivability
+(storagess) (pp. 11-20). acm.
+potnis, n., mahajan, a., wang, a. a., & gopalan, k. ( ). evaluation of mesh-enhanced
+vanet deployment models. in proceedings of the 16th international conference on
+computer communications and networks, workshop on advanced networking and
+communications (pp. 862-867). ieee.
+baker, t. p., wang, a. a., & stanovich, m. ( ). fitting linux device drivers into an
+analyzable scheduling framework. in proceedings of the 3rd workshop on operating
+system platforms for embedded real-time applications (pp. 9-18). ieee.
+lewandowski, m., stanovich, m., baker, t., gopalan, k., & wang, a. a. ( ). modeling
+device driver effects in real-time schedulability analysis: study of a network driver.
+in proceedings of the 13th ieee real-time and embedded technology and applications
+symposium (rtas) (pp. 57-68). ieee.
+mahajan, a., potnis, n., gopalan, k., & wang, a. a. ( ). modeling vanet deployment in
+urban settings. in proceedings of the 10th acm/ieee international symposium on
+modeling, analysis, and simulation of wireless and mobile systems (mswim) (pp.
+151-158). acm/ieee.
+weddle, c., oldham, m., qian, j., wang, a. a., reiher, p., & kuenning, g. ( ). paraid: a
+gear-shifting power-aware raid. in proceedings of the 5th usenix conference on
+file and storage technologies (fast) (pp. 245-260). usenix.
+mahajan, a., potnis, n., gopalan, k., & wang, a. ( ). evaluation of mobility models for
+vehicular ad-hoc network simulations. in ieee international workshop on next
+generation wireless networks (pp. 13 pages). ieee.
+mahajan, a., potnis, n., gopalan, k., & wang, a. a. ( ). urban mobility models for
+vanets. in proceedings of the 2nd ieee international workshop on next generation
+wireless networks. ieee.
+wang, a. a., kuenning, g., & reiher, p. ( ). introducing permuted states to analyze
+conflict rates in optimistic replication. in proceedings of the acm international
+conference on measurement and modeling of computer systems (sigmetrics) (pp.
+376-377). acm.
+wang, a. a., kuenning, g., & reiher, p. ( ). using permuted states and validated
+simulation to analyze conflict rates in optimistic replication. in proceedings of the
+page 12
+vita for an-i a. wang
+international symposium on performance evaluation of computer and
+telecommunication systems (spects) (pp. 929-939). scs.
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). the effects of memory-rich
+environments on file system microbenchmarks. in proceedings of the
+international symposium on performance evaluation of computer and
+telecommunication systems (spects) (pp. 745-754). scs.
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). conquest: better performance
+through a disk/persistent-ram hybrid file system. in proceedings of the
+usenix annual technical conference (atc) (pp. 15-28). usenix.
+wang, a. a., reiher, p., bagrodia, r., & kuenning, g. ( ). understanding the behavior of
+conflict-rate metric in optimistic peer replication. in proceedings of the 5th ieee
+international workshop on mobility in databases and distributed systems (mdds) (pp.
+757-761). ieee.
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). position summary: the conquest
+file system—life after disks. in proceedings of the 8th ieee workshop on hot topics
+in operating systems (hotos) (pp. 186). ieee.
+wang, a. a., reiher, p., & bagrodia, r. ( ). a simulation evaluation of optimistically
+replicated filing in mobile environments. in proceedings of the 18th ieee international
+performance, computing, and communication conference (ipccc) (pp. 43-51). ieee.
+kuenning, g., guy, r., popek, g., reiher, p., & wang, a. a. ( ). measuring the quality of
+service of optimistic replication. in proceedings of the 12th european conference on
+object-oriented programming (ecoop) workshop on mobility and replication (pp.
+319-320). springer.
+nonrefereed reports
+liu, w., & wang, an-i a. ( ). lfuss: exploiting locality for file-system fuzzing
+(technical report tr-220922). department of computer science, florida state
+university.
+nath, a., & wang, an-i a. ( ). a survey on personal image retrieval systems
+(arxiv:2107.04681). arxiv.
+zhang, s., & wang, a. ( ). fjs: fine-grained journal store (technical report tr-171030).
+florida state university.
+wang, w., meyers, c., wang, an-i andy, & diesburg, s. ( ). tags: a unifying primitive for
+the storage data path (technical report tr-170929). florida state university.
+page 13
+vita for an-i a. wang
+zhang, s., catanese, h., & wang, a. ( ). the composite-file file system: decoupling the
+one-to-one mapping of logical files and physical metadata for better performance
+(poster). proceedings of the 14th usenix conference on file and storage technologies.
+roy, r., dennis, b., wang, a., & reiher, p. ( ). the legend file system: better reliability
+through implicit replicas (technical report tr-160201). department of computer
+science, florida state university.
+zhang, s., catanese, h., & wang, a. ( ). the composite-file file system: decoupling the
+one-to-one mapping of files and metadata for better performance (technical report
+tr-150921). department of computer science, florida state university.
+mitchell, m., reiher, p., & wang, a. ( ). cashtags: prevent leaking sensitive information
+through screen display (technical report tr-141209). department of computer
+science, florida state university.
+mitchell, m., wang, a. a., & reiher, p. ( ). mobile usage patterns and privacy
+implications (technical report tr-131104). florida state university.
+buzbee, b., wang, w., & wang, a. a. ( ). power-saving approaches and tradeoffs for
+storage systems (technical report tr-130627). department of computer science:
+florida state university.
+mitchell, m., sposaro, f., wang, a. a., & tyson, g. ( ). beat: bio-environmental android
+tracking (poster). proceedings of the ieee topical meeting on biomedical radio and
+wireless technologies, networks, and sensing systems.
+mitchell, m., meyers, c., wang, a. a., & tyson, g. ( ). contextprovider: context
+awareness for medical monitoring applications (poster). proceedings of the 33rd
+annual international conference on ieee engineering medicine and biology society
+(embs).
+diesburg, s., meyers, c., stanovich, m., mitchell, m., marshall, j., gould, j., wang, a. a., &
+kuenning, g. ( ). trueerase: full-storage-data-path per-file secure deletion
+(technical report tr-111020). department of computer science: florida state
+university.
+diesburg, s., meyers, c., & wang, a. a. ( ). full-datapath secure deletion (poster). grace
+hopper conference, celebration of women in computing.
+stanovich, m., baker, t., wang, a. a., & harbour, m. g. ( ). defects of the posix sporadic
+server and how to correct them (technical report tr-091026). department of
+computer science: florida state university.
+page 14
+vita for an-i a. wang
+diesburg, s., meyers, c., & wang, a. a. ( ). full-datapath secure deletion
+(work-in-progress report). on-line proceedings of the 18th usenix security
+symposium.
+datta, s., van engelen, r., & wang, a. a. ( ). predictux: a framework for predicting
+incremental release times (technical report tr-090120). department of computer
+science: florida state university.
+diesburg, s., & wang, a. a. ( ). a survey of confidential data storage and deletion
+methods (technical report tr-080508). department of computer science: florida state
+university.
+fox, c., lojpur, d., & wang, a. a. ( ). quantifying temporal and spatial localities in
+storage workloads and transformations by data path components (technical report
+tr-080406). department of computer science: florida state university.
+fox, c., lojpur, d., & wang, a. a. ( ). work-in-progress report: quantifying temporal
+and spatial localities due to file system caching (work-in-progress report). on-line
+proceedings of the sixth usenix conference on file and storage technologies (fast).
+qian, j., & wang, a. a. ( ). a behind-the-scenes story on applying cross-layer
+coordination to disks and raids (technical report tr-071015). department of
+computer science: florida state university.
+stanovich, m. j., baker, t. p., & wang, a. a. ( ). throttling disk schedulers to meet
+soft-real-time requirements (technical report tr-071025). department of computer
+science: florida state university.
+weddle, c., oldham, m., qian, j., wang, a. a., reiher, p., & kuenning, g. ( ). paraid:
+gear-shifting power-aware raid (technical report tr-060323). department of
+computer science: florida state university.
+mahajan, a., potnis, n., gopalan, k., & wang, a. a. ( ). evaluation of mobility models for
+vehicular ad-hoc network simulations (fsu technical report tr-051220). department
+of computer science: florida state university.
+xu, r., wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). work in progress:
+conquest—combining battery-backed ram and threshold-based storage scheme to
+conserve power (work-in-progress report). on-line proceedings of the 19th acm
+symposium on operating systems principles (sosp).
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( ). work-in-progress report:
+conquest: better performance through a disk/ram hybrid file system
+(work-in-progress report). on-line proceedings of the first usenix conference on
+file and storage technologies (fast).
+page 15
+vita for an-i a. wang
+wang, a. a., reiher, p., & bagrodia, r. ( ). a simulation framework and evaluation for
+optimistically replicated filing environments (technical report csd-010046).
+computer science department: university of california, los angeles.
+yarvis, m., wang, a. a., rudenko, a., reiher, p., & popek, g. ( ). conductor: distributed
+adaptation for complex networks (technical report csd-990042). computer science
+department: university of california, los angeles.
+wang, a. a., reiher, p., & bagrodia, r. ( ). a simulation framework for evaluating
+optimistically replicated filing environments (technical report csd-970018).
+computer science department: university of california, los angeles.
+presentations
+refereed papers at conferences
+wang, a. a., whalley, d., zhang, z., & tyson, g. (presented , march). experience
+administering our first nsf s-stem (scholarship) grant. paper presented at
+acm special interest group on computer science education conference (sigcse),
+acm. (international)
+wang, a. a., kuenning, g., & reiher, p. (presented , june). using permuted states to
+analyze conflict rates in optimistic peer-to-peer replication. paper presented at
+international conference on measurement and modeling of computer systems
+(sigmetrics), acm. (international)
+wang, a. a., kuenning, g., reiher, p., & popek, g. (presented , june). conquest: better
+performance through a disk/persistent-ram hybrid file system. paper presented at
+annual technical conference (atc), usenix. (international)
+wang, a. a., reiher, p., & bagrodia, r. (presented , february). a simulation evaluation of
+optimistically replicated filing in mobile environments. paper presented at 18th
+international performance, computing, and communication conference (ipccc), ieee.
+(international)
+refereed papers at symposia
+fox, c., lojpur, d., & wang, a. a. (presented , may). quantifying temporal and spatial
+localities in storage workloads and transformations by data path components. in 16th
+annual international symposium on modeling, analysis, and simulation (mascots).
+symposium conducted at the meeting of ieee. (international)
+wang, a. a., kuenning, g., & reiher, p. (presented , july). using permuted states and
+validated simulation to analyze conflict rates in optimistic replication. in
+page 16
+vita for an-i a. wang
+international symposium on performance evaluation of computer and
+telecommunication systems (spects). symposium conducted at the meeting of the
+society for modeling and simulation international. (international)
+wang, a. a., kuenning, g., reiher, p., & popek, g. (presented , july). the effects of
+memory-rich environments on file system microbenchmarks. in international
+symposium on performance evaluation of computer and telecommunication systems
+(spects). symposium conducted at the meeting of the society for modeling and
+simulation international. (international)
+refereed workshops
+wang, a. a., reiher, p., bagrodia, r., & kuenning, g. ( , september). understanding the
+behavior of conflict-rate metric in optimistic peer replication. workshop delivered at
+5th ieee international workshop on mobility in databases and distributed systems
+(mdds), aix-en-provence, france. (international)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , may). position summary: the
+conquest file system—life after disks. workshop delivered at 8th ieee workshop on
+hot topics in operating systems (hotos). (international)
+invited lectures and readings of original work
+wang, a. ( , november). tags: a unifying primitive for the storage data path. delivered at
+florida state university, tallahassee. (local)
+wang, a. ( , november). tags: a unifying primitive for the storage data path. delivered at
+florida state university, tallahassee. (local)
+wang, an-i. ( , january). the composite-file file system: decoupling one-to-one mapping
+of files and metadata for better performance. delivered at florida state unversity,
+tallahassee, fl, tallahassee. (local)
+wang, an-i. ( , december). the composite-file file system: decoupling one-to-one
+mapping of files and metadata for better performance. delivered at florida state
+unversity, tallahassee, fl, tallahassee. (local)
+wang, a. ( , december). trueerase: full-storage-data-path per-file secure deletion.
+delivered at florida state university, tallahassee, fl. (local)
+wang, a. ( , november). applying for graduate schools. delivered at florida state
+university, tallahassee, fl. (local)
+page 17
+vita for an-i a. wang
+wang, a. ( , november). trueerase: full-storage-data-path per-file secure deletion.
+delivered at florida state university, tallahassee, fl. (local)
+wang, a. a. ( , december). trueerase: full-storage-data-path per-file secure deletion.
+delivered at florida state university, tallahassee, fl. (local)
+wang, a. a. ( , december). full-storage-data-path per-file secure deletion. delivered at
+florida state university, tallahassee, fl. (local)
+wang, a. a. ( , may). a survey of power-saving techniques for storage systems. delivered
+at chalmers university of technology, gothenburg, sweden. (international)
+wang, a. a. ( , may). paraid: a gear-shifting power-aware raid. delivered at
+chalmers university of technology, gothenburg, sweden. (international)
+wang, a. a. ( , may). trueerase: full-storage-data-path per-file secure deletion.
+delivered at computer science research seminar, chalmers university of technology,
+gothenburg, sweden. (international)
+wang, a. a. ( , november). trueerase: full-storage-data-path per-file secure deletion.
+delivered at 8th international workshop operating system technologies for large scale
+nvram (nvramos), jeju island, south korea. (international)
+wang, a. a. ( , october). trueerase: full-storage-data-path per-file secure deletion.
+delivered at computer science colloquium, florida state university, tallahassee, fl.
+(local)
+wang, a. a. ( , november). some ongoing storage research projects. delivered at
+computer science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , october). when cryptography meets storage. delivered at computer
+science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , november). my passion for digital plumbing. delivered at computer
+science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , may). quantifying temporal and spatial localities in storage workloads
+and transformations by data path components. delivered at 16th annual meeting of
+the ieee international symposium on modeling, analysis, and simulation (mascots).
+(international)
+wang, a. a. ( , april). paraid: a gear-shifting power-aware raid. delivered at
+computer science research seminar, university of wisconsin, madison, madison, wi.
+(state)
+page 18
+vita for an-i a. wang
+wang, a. a. ( , march). paraid: a gear-shifting power-aware raid. delivered at
+computer science research seminar, university of california, santa cruz, santa cruz,
+ca. (state)
+wang, a. a. ( , november). paraid: a gear-shifting power-aware raid. delivered at
+computer science colloquium, harvey mudd college, claremont, ca. (state)
+wang, a. a. ( , november). some research frontiers in storage systems. delivered at
+computer science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , november). some research frontiers in storage systems. delivered at
+computer science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , may). conquest-2: improving energy efficiency and performance through
+a disk/ram hybrid file system. delivered at computer science colloquium, university
+of california, los angeles, los angeles, ca. (state)
+wang, a. a. ( , december). conquest-2: improving energy efficiency and performance
+through a disk/ram hybrid file system. delivered at computer science colloquium,
+florida state university, tallahassee, fl. (local)
+wang, a. a. ( , november). conquest-2: improving energy efficiency and performance
+through a disk/ram hybrid file system. delivered at computer science colloquium,
+university of delaware, newark, de. (state)
+wang, a. a. ( , may). conquest-2: improving energy efficiency and performance through
+a disk/ram hybrid file system. delivered at computer science colloquium, university
+of california, riverside, riverside, ca. (state)
+wang, a. a. ( , october). some research frontiers in storage systems. delivered at
+computer science colloquium, florida state university, tallahassee, fl. (local)
+wang, a. a. ( , february). electric-field-based routing: secure spatially disjoint routes in
+manets. delivered at darpa's proposer's day for defense against cyber attacks on
+mobile ad hoc networks, virginia. (national)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , october). conquest: preparing for
+life after disks. delivered at computer science colloquium, florida state university,
+tallahassee, fl. (local)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , november). conquest: preparing for
+life after disk. delivered at ucla advanced operating systems lecture, los angeles,
+ca. (local)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , january). conquest: better
+performance through a disk/persistent-ram hybrid file system. delivered at 1st
+page 19
+vita for an-i a. wang
+usenix conference on file and storage technologies (fast), monterey, ca.
+(international)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , november). conquest: ram as
+storage; disks as tapes. delivered at ucla advanced operating systems lecture, los
+angeles, ca. (local)
+wang, a. a., kuenning, g., reiher, p., & popek, g. ( , october). integration of memory and
+file system services via persistent ram. delivered at computer science colloquium,
+harvey mudd college, claremont, ca. (state)
+patented inventions
+mitchell, m., wang, a., & reiher, p. ( ). obfuscation of sensitive mobile display.
+10,025,952, florida state university. tallahassee, fl.
+wang, a. a. ( ). power-aware redundant array of independent disks (paraid) and
+related methods. u.s. patent no. 11/424,656.
+contracts and grants
+contracts and grants funded
+wang, an-i a, jie yang, mike burmester, xiuwen liu, & david whalley. (jul –jun ).
+cybercorps scholarship for service (renewal): defending the national cyber
+infrastructure. funded by national science foundation. (dge-2146354). total award
+$4,201,310.
+wang, an-i a. ( – ). preventing software bugs from corrupting persistent memory
+storage media. funded by florida state university. total award $25,000.
+whalley, d., wang, an-i (senior personnel), & haiduc, s. (senior personnel). (sep –aug
+). shf: medium collaborative research: statically controlled asynchronous
+lane execution (scale). funded by national science foundation. (ccf-1900788).
+total award $119,902.
+wang, an-i a, whalley, d., haiduc, s., perez-felkner, l., & liu, x. (oct –sep ).
+broadening participation in computer science. funded by national science foundation.
+(due-2003070). total award $999,848.
+wang, an-i a. ( – ). decoupling logical and physical representations of files for
+better performance. funded by florida state university. total award $13,000.
+page 20
+vita for an-i a. wang
+wang, a. ( – ). semantic reliability mechanisms for computer storage. funded by fsu
+committee on faculty research support. total award $14,000.
+wang, a. ( – ). performance analysis of ssds. funded by xilinx. total award $1,099.
+wang, a. ( – ). modernize storage-related projects with solid-state disk project
+boards. funded by fsu. (tfcscs1606). total award $28,080.
+wang, a. ( – ). planning grant: better computer storage reliability through implicit
+replicas. funded by council on research and creativity, florida state university. total
+award $13,000.
+wang, a. ( – ). facets: exploring semantic equivalence of files to improve storage
+systems. funded by nsf. (cns-144387). total award $16,000.
+whalley, d., tyson, g., & wang, a. ( – ). ires: u.s.-sweden research experience in
+efficient and secure mobile systems for students. funded by nsf. (iia-1358147). total
+award $250,000.
+wang, a. a., whalley, d., tyson, g., van engelen, r., & zhang, z. ( – ). broadening
+participation in computer science. funded by national science foundation.
+(due-1259462). total award $602,569.
+wang, an-i a (pi). ( – ). career: tags: a unifying primitive to build storage data
+paths for swiftly evolving workloads and storage media. funded by national science
+foundation experiences for undergraduates grant. (cns-1125275). total award
+$16,000.
+wang, an-i a (pi). ( – ). csr:medium:collaborative research. facets: exploring
+semantic equivalence of files to improve storage systems. funded by national science
+foundation. (cns-1065127). total award $850,000.
+wang, a. a. (pi). ( – ). planning grant: studying the effects of multicore environment
+on storage performance. funded by council on research and creativity, florida state
+university. total award $12,000.
+wang, a. a. ( – ). career: tags: a unifying primitive to build storage data path for
+swiftly evolving workloads and storage media. funded by national science foundation
+faculty early career development grant. (cns-0845672). total award $400,000.
+wang, a. a. ( – ). faculty travel grant. funded by office of the provost, florida state
+university. total award $450.
+page 21
+vita for an-i a. wang
+wang, a. a. ( – ). florida state university research foundation gap grant:
+in-memory file system. funded by council on research and creativity, florida state
+university. total award $100,000.
+wang, a. a. ( – ). planning grant: exploring opportunities between raids and
+storage components. funded by council on research and creativity, florida state
+university. total award $11,999.
+baker, theodore p (pi), wang, an-i a, & gopalan, k. ( – ). next-generation
+real-time device architecture. funded by national science foundation.
+(cns-0509131). total award $600,000.
+wang, a. a. ( – ). extracting and exploiting dependency information amidst
+non-deterministic program execution. funded by bess ward fellows and thesis grant
+(for mark carpenter). total award $1,000.
+wang, an-i a (pi). (jul –jun ). collaborative research: conquest-2: improving
+energy efficiency and performance through a disk/ram hybrid file system. funded by
+national science foundation. (cns-0410896). total award $450,000.
+wang, a. a. ( – ). first year assistant professor award: conquest-2—combining
+battery-backed ram and threshold-based storage scheme to conserve power. funded
+by council on research and creativity, florida state university. total award $13,000.
+reiher, p. (pi), & wang, a. a. ( – ). improving operating systems by replacing hard
+disks with persistent solid state memory. funded by national science foundation.
+(ccr-0098363). total award $100,000.
+contracts and grants denied
+burmester, m., liu, x., whalley, d., wang, an-i a, & hay, c. ( ). renewal:cybercorps:
+scholarship for service for fsu ms cc and cnsa students. submitted to nsf.
+wang, a. ( ). clumpfs: better per-file access latency for commodity computing devices.
+submitted to florida state university.
+whalley, d., wang, a., & tyson, g. ( ). ires: track i: supporting fsu student research
+with ntnu faculty on improving the efficiency of traditional and mobile systems.
+submitted to national science foundation.
+dennis, l., jones, f., randeree, e., wang, a., yuan, x., van engelen, r., & hu, s. ( ).
+stem: collaborative proposal: florida information technology career scholars
+(fitc-s): recruiting, retaining, and employing academically-talented transfer
+students. submitted to nsf.
+page 22
+vita for an-i a. wang
+dennis, l., jones, f., randeree, e., wang, a., yuan, x., van engelen, r., & hu, s. ( ).
+stem: collaborative proposal: florida information technology career scholars
+(fitc-s): recruiting, retaining, and employing academically-talented transfer
+students. submitted to nsf.
+wang, a. ( ). reu: broadening participation in computer science. submitted to nsf.
+wang, a. ( ). csr::small:collaborative research: organic file system. submitted to nsf.
+wang, an-i. ( ). organic file system. submitted to florida state university, cofrs.
+wang, a. ( ). self-adaptive file-system bookkeeping records. submitted to fsu crc.
+wang, a., kumar, p., van engelen, r., tyson, g., & whalley, d. ( ). broadening
+participation in computer science and computational biology. submitted to nsf.
+wang, a. ( ). csr:small: sifon: storage-datapath-wide, informed, and coordinated
+scheduling. submitted to nsf.
+wang, a., kumar, p., van engelen, r., tyson, g., & whalley, d. ( ). broadening
+participation in computer science and computational biology. submitted to nsf.
+tyson, g., zhang, z., kumar, p., wang, a., & yuan, x. ( ). ii-new: cloud computing for
+mobile devices. submitted to nsf.
+tyson, g., kumar, p., wang, a., van engelen, r., & whalley, d. ( ). broadening
+participation in computer science and computational biology. submitted to nsf.
+tyson, g., li, f., zhang, z., wang, a., & whalley, d. ( ). cps:medium: designing a
+battery aware paradigm for mobile cyber physical systems. submitted to nsf.
+wang, a. ( ). csr:small:icflash: information-rich and control-rich storage data path for
+flash. submitted to nsf.
+yuan, x., wang, a., liu, x., aggarwal, s., & baker, t. ( ). cri: developing a storage
+system infrastructure. submitted to nsf.
+wang, a. ( ). career: nimble storage infrastructure for swiftly evolving demands.
+submitted to nsf.
+wang, a. ( ). csr--pdos: collaborative research--e2eraid: an end-to-end approach
+for raid data path design and implementation. submitted to nsf.
+wang, a. ( ). ct-t: collaborative research: using context to improve system security.
+submitted to nsf.
+page 23
+vita for an-i a. wang
+yuan, x., wang, a., liu, x., aggarwal, s., & baker, t. ( ). cri: developing a storage
+system infrastructure. submitted to nsf.
+wang, a. ( ). hecera: collaborative research. orchestra: a traffic-class-aware parallel
+file system. submitted to nsf.
+wang, a., & whaley, d. ( ). csr--pdos: ancestry: dependency-centric reliability
+mechanisms for better data survivabilit. submitted to nsf.
+gopalan, k., & wang, a. ( ). nets-nbd: tackling real-world obstacles and mobility in
+ad hoc networks: new strategies for modeling, simulation, and empirical validation.
+submitted to nsf.
+wang, a. ( ). csr--pdos: virtual content: exploiting data-process dependencies for
+performance, storage capacity, network bandwidth, and energy savings. submitted to
+nsf.
+wang, a. ( ). career: modernizing operating systems storage infrastructure and i/o
+benchmarks toward memory-rich environments. submitted to nsf.
+wang, a. ( ). nets-nr: physics-inspired and stateless routes for reliable coordination in
+mobile ad hoc networks. submitted to nsf.
+burmester, m., wang, a., & yasinsac, a. ( ). cyber trust: secure scalable routing in
+manets. submitted to nsf.
+postdoctoral supervision
+wang, w. (may–dec ).
+stanovich, m. (may–aug ).
+diesburg, s. (jan–aug ).
+reviews of my research and original creative work by other authors
+reviews appearing in magazines or newsletters
+walden, a. ( , september). fsu department of computer science receives $4.2m to boost
+nation's cybersecurity workforce. fsu news, unspecified page numbers. retrieved from
+https://news.fsu.edu/news/science-technology/ /09/13/fsu-department-of-computer-sc
+ience-receives-4-2m-to-boost-nations-cybersecurity-workforce/
+page 24
+vita for an-i a. wang
+walden, a. ( , september). fsu department of computer science receives $4.2m nsf
+grant to bolster number, diversity of national cybersecurity workers. fsu arts and
+sciences, unspecified page numbers.
+kathleen haughney. ( , may). nsf grant allows computer science students to work on
+energy efficient devices in sweden. florida state 24/7, 1.
+mueller, k. ( , november). neuroscience student wins timed thesis competition. florida
+state 24/7, 1.
+nicole brooks. ( , october). scholarships to help computer science fill gaps in u.s. job
+market. state, 48(5), 12.
+nicole brooks. ( , september). computer science department awarded more than $3.2
+million for student scholarships. florida state 24/7, 1.
+levine, k. ( , october). florida state standouts: sarah diesburg. florida state headlines, 1.
+blackhum, d. ( , october). fsu student tackles 'flash' issues. tallahassee democrat, 1.
+blackhum, d. ( , october). fsu student develops software prototype to erase electronic
+files. tallahassee democrat, 1.
+hellstrom, s. ( , may). florida state doctoral students win top research scholarships. fsu
+news, 1.
+hellstrom, s. ( , march). computer science professor wins nsf 'career' award. state:
+the faculty-staff bulletin of the florida state university, 43(12), 1.
+unknown. ( , february). wang wins award. tallahassee democrat, a.6.
+hellstrom, s. ( , february). fsu computer science professor wins nsf early career
+award. fsu news, 1.
+copps, e. ( ). gone in a flash. research in review, 61.
+unknown. ( , april). conquest fs: the disk is dead. slashdot, 1.
+baltazar, h. ( , june). dafs, conquest may pave way for future file systems. eweek, 1.
+heffron, m. ( , april). perpetuating a love of learning—and the scientists of tomorrow.
+los angeles times, 1.
+page 25
+vita for an-i a. wang
+service
+florida state university
+fsu university service
+member, student technology fee advisory committee ( –present).
+alternate, faculty senate ( – ).
+reviewer, fsu cofrs grant review panel ( ).
+member, gpc subcommittee ( ).
+panel member, nsf career workshop ( ).
+member, graduate policy committee ( – ).
+panel member, nsf career workshop ( – ).
+fsu department service
+director, graduate studies committee ( –present).
+member, broadening participation committee ( –present).
+chair, cop 4610 course committee ( –present).
+member, ph.d. portfolio committee ( –present).
+chair, nsf cybercorps sfs scholarship committee ( – ).
+chair, nsf s-stem scholarship committee ( – ).
+member, faculty recruitment committee ( – ).
+chair, graduate admissions committee ( – ).
+associate chair, graduate studies ( – ).
+department representative, academic honor policy hearings ( ).
+chair, departmental awards committee ( – ).
+page 26
+vita for an-i a. wang
+member, executive committee ( – ).
+member, departmental awards committee ( – ).
+chair, promotion and tenure committee ( – ).
+member, chair selection committee ( – ).
+member, executive committee ( – ).
+director, graduate curriculum committee ( – ).
+director, graduate studies ( – ).
+member, undergraduate curriculum committee ( – ).
+departmental representative, academic honor policy hearings ( – ).
+member, faculty evaluation committee ( – ).
+assistant director, graduate studies ( – ).
+member, graduate curriculum committee ( – ).
+director, undergraduate recruiting ( – ).
+judge, cs expo ( – ).
+member, departmental website development committee ( – ).
+organizer, cs honors day ( – ).
+member, cop 4610 course committee ( – ).
+coordinator, fitc career fair ( ).
+member, admission and aid committee ( – ).
+member, course scheduling committee ( – ).
+member, faculty evaluation committee ( – ).
+faculty advisor, student groups acm and acm-w ( – ).
+member, department chair search committee ( – ).
+page 27
+vita for an-i a. wang
+judge, fsu acm programming contest ( – ).
+member, undergraduate curriculum committee ( – ).
+member, equipment and network committee ( – ).
+member, faculty evaluation committee ( – ).
+judge, second fsu computer science graduate research conference ( – ).
+member, equipment and network committee ( – ).
+member, faculty recruiting committee ( – ).
+head judge, fsu acm programming contest ( – ).
+judge, fsu computer science graduate research conference ( – ).
+member, admission and aid committee ( – ).
+judge, fsu acm programming contest ( – ).
+member, graduate curriculum committee ( – ).
+the profession
+editorial board membership(s)
+acm transactions on storage ( – ).
+guest reviewer for refereed journals
+ieee transactions on computers (tc) ( –23).
+ieee transactions on embedded computing systems (tecs) ( –23).
+acm transactions on storage (tos) ( ).
+ieee transactions on computers (tc) ( ).
+taylor and francis, connection science ( ).
+ieee transactions on parallel and distributed systems (tpds) ( ).
+page 28
+vita for an-i a. wang
+communications of the acm (cacm) ( –19).
+elsevier sustainable computing, informatics, and systems (suscom) ( –19).
+acm transactions on architecture and code optimizations (taco) ( ).
+elsevier ad hoc networks ( –16).
+elsevier performance evaluation journal (peva) ( ).
+ieee communication letters (cl) ( ).
+cic china communication ( ).
+ieee transactions on intelligent transportation systems (t-its) ( –12).
+ieee transactions on computers (tc) ( –12).
+elsevier sustainable computing informatics and systems (suscom) ( ).
+ieee communication letters (cl) ( ).
+acm computing surveys (csur) ( ).
+ieee transactions on vehicular technology (tvt) ( ).
+ieee wireless communications (wc) ( ).
+acm transactions on computers (tocs) ( ).
+ieee transactions on mobile computing (tmc) ( –07).
+reviewer for textbooks
+operating systems concepts, zybooks (wiley) ( ).
+linux, the textbook, 2nd edition, taylor and francis group ( ).
+system administration, mcgraw-hill higher education ( ).
+the handbook of computer networks, john wiley and sons ( ).
+page 29
+vita for an-i a. wang
+reviewer or panelist for grant applications
+national science foundation ( – ).
+national science foundation ( – ).
+department of energy (doe) ( ).
+natural sciences and engineering research council of canada (nserc) ( ).
+service to professional associations
+committee member, acm special interest group on computer science education (sigcse)
+( – ).
+reviewer, acm special interest group on computer science education (sigcse)
+( – ).
+program committee member, usenix conference on file and storage technologies (fast)
+( ).
+reviewer, annual ifip wg 11.9 international conference on digital forensics ( – ).
+reviewer, ieee real-time systems symposium (rtss) ( ).
+reviewer, acm international conference on supercomputing (ics) ( ).
+program committee member, acm annual international systems and storage conference
+(systor) ( ).
+reviewer, ieee real-time and embedded technology and applications symposium (rtas)
+( ).
+program committee member, ieee symposium on massive storage systems and technologies
+(msst) ( ).
+program committee member, ieee international conference on networking, architecture, and
+storage (nas) ( ).
+program committee member, international workshop on operating system support for next
+generation large scale nvram (nvramos) ( ).
+program committee member, acm annual international systems and storage conference
+(systor) ( ).
+page 30
+vita for an-i a. wang
+reviewer, acm/sigarch international conference on supercomputing (ics) ( ).
+track program committee member, ieee vehicular networks and applications workshop,
+ieee international conference on communications (icc) ( ).
+shadow program committee member, acm symposium on operating systems principles
+(sosp) ( ).
+reviewer, ieee international conference on communications (icc) ( ).
+reviewer, ieee international conference on networked digital technologies (ndt) ( ).
+program committee member, ieee international conference on networking, architecture, and
+storage (nas) ( ).
+track program committee member, international conference on parallel processing (icpp)
+( ).
+reviewer, usenix conference on file and storage technologies (fast) ( ).
+reviewer, ieee real-time systems symposium (rtss) ( – ).
+reviewer, acm annual symposium on applied computing (sac) ( ).
+reviewer, euromicro conference on real-time systems (ecrts) ( ).
+reviewer, ieee annual international conference on high performance computing (hipc)
+( ).
+program committee member, ifip international conference on embedded and ubiquitous
+computing (euc), ).
+reviewer, international conference on principles of distributed systems (opodis) ( ).
+reviewer, international conference on supercomputing (ics) ( – ).
+reviewer, ieee real-time and embedded technology and applications symposium (rtas)
+( – ).
+reviewer, ieee international conference on network protocols (icnp) ( ).
+reviewer, international symposium on high-performance computer architecture (hpca)
+( ).
+page 31
+vita for an-i a. wang
+reviewer, international symposium on performance evaluation of computer and
+telecommunication systems (spects) ( ).
+reviewer, usenix conference on file and storage technologies (fast) ( ).
+reviewer, international conference on quality of service in heterogeneous wired/wireless
+networks ( ).
+program committee member, international workshop on network design and architecture
+).
+reviewer, annual acm symposium on applied computing (sac) ( ).
+the community
+technical support, the school of arts and sciences ( – ).
+presenter, science night, the school of arts and sciences ( ).
+page 32

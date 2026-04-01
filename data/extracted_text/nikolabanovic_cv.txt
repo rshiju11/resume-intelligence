@@ -1,0 +1,358 @@
+nikola banovic
+november
+university of michigan, ann arbor email:
+2260 hayward street, ann arbor, mi 48109 web: http://www.nikolabanovic.net
+education
+ph.d. in human-computer interaction
+human-computer interaction institute
+carnegie mellon university
+m.sc. in computer science
+department of computer science
+university of toronto
+honours b.sc. in computer science
+department of computer science
+university of toronto
+a.a. in computer science
+computer science & information systems department
+santa monica college
+professional appointments
+associate professor, electrical engineering and computer science -present
+university of michigan-ann arbor, ann arbor, usa
+assistant professor, electrical engineering and computer science -
+university of michigan-ann arbor, ann arbor, usa
+publications
+journal articles (refereed)
+[j.13] nelescher,jeffreybilik,nikolabanovic,andbengreen. .code-ifyingthelaw:howdisciplinarydividesafflict
+thedevelopmentoflegalsoftware.proc. acm hum.-comput. interact.,8,cscw2,(nov. ).doi:10.1145/3686
+937.
+[j.12] patrickc.kinnunen,kennethk.y.ho,siddharthasrivastava,chengyanghuang,wanggangshen,krishnagarikipati,
+garyd.luker,nikola banovic,xunhuan,jenniferj.linderman,andkathryne.luker. .integratinginverse
+reinforcement learning into data-driven mechanistic computational models: a novel paradigm to decode cancer cell
+heterogeneity.frontiers in systems biology,4.doi:10.3389/fsysb. .1333760.
+[j.11] sarahjabbour,davidfouhey,stephanieshepard,thomass.valley,ellaa.kazerooni,nikolabanovic,jennawiens,
+and michael w. sjoding. . measuring the impact of ai in the diagnosis of hospitalized patients: a randomized
+clinicalvignettesurveystudy.jama,330,23,(dec. ),2275–2284.doi:10.1001/jama. .22295.
+[j.10] nikola banovic, zhuoran yang, aditya ramesh, and alice liu. . being trustworthy is not enough: how un-
+trustworthyartificialintelligence(ai)candeceivetheend-usersandgaintheirtrust.proc. acm hum.-comput.
+interact.,7,cscw1,(apr. ).doi:10.1145/3579460.
+[j.9] anindya das antar, anna kratz, and nikola banovic. . behavior modeling approach for forecasting physical
+functioning of people with multiple sclerosis. proc. acm interact. mob. wearable ubiquitous technol., 7, 1, (mar.
+).doi:10.1145/3580887.
+1
+[j.8] taherahossain,wanggangshen,anindyaantar,snehalprabhudesai,sozoinoue,xunhuan,andnikola banovic.
+.abayesianapproachforquantifyingdatascarcitywhenmodelinghumanbehaviorviainversereinforcement
+learning.acm trans. comput.-hum. interact.,30,1,(mar. ).doi:10.1145/3551388.
+[j.7] snehal prabhudesai, jeremiah hauth, dingkun guo, arvind rao, nikola banovic, and xun huan. . lowering
+the computational barrier: partially bayesian neural networks for transparency in medical imaging ai. frontiers in
+computer science,5.doi:10.3389/fcomp. .1071174.
+[j.6] xinchenghuang,keylonniel.miller,alansonp.sample,andnikola banovic. .structuresense:inferringcon-
+structive assembly structures from user behaviors. proc. acm interact. mob. wearable ubiquitous technol., 6, 4,
+(jan. ).doi:10.1145/3570343.
+[j.5] sumit asthana, sabrina tobar thommel, aaron lee halfaker, and nikola banovic. . automatically labeling
+lowqualitycontentonwikipediabyleveragingpatternsineditingbehaviors.proc.acmhum.-comput.interact.,
+5,cscw2,(oct. ).doi:10.1145/3479503.
+[j.4] snehal prabhudesai, nicholas c. wang, vinayak ahluwalia, xun huan, jayapalli r. bapuraj, nikola banovic, and
+arvindrao. .stratificationbytumorgradegroupsinaholisticevaluationofmachinelearningforbraintumor
+segmentation.frontiers in neuroscience,15.doi:10.3389/fnins. .740353.
+[j.3] nel escher and nikola banovic. . exposing error in poverty management technology: a method for auditing
+governmentbenefitsscreeningtools.proc. acm hum.-comput. interact.,4,cscw1,(may2020).doi:10.1145/33
+92874.
+[j.2] nikola banovic and john krumm. . warming up to cold start personalization. proc. acm interact. mob.
+wearable ubiquitous technol.,1,4,(jan. ).doi:10.1145/3161175.
+[j.1] nikola banovic, koji yatani, and khai n. truong. . escape-keyboard: a sight-free one-handed text entry
+methodformobiletouch-screendevices.int.j.mob.hum.comput.interact.,5,3,(july2013),42–61.doi:10.4018
+/jmhci. .
+conference proceedings (refereed)
+[c.21] anindya das antar, somayeh molaei, yan-ying chen, matthew l lee, and nikola banovic. . vime: visual
+interactive model explorer for identifying capabilities and limitations of machine learning models for sequential
+decision-making. in proceedings of the 37th annual acm symposium on user interface software and technology
+(uist’24).associationforcomputingmachinery,pittsburgh,pa,usa.doi:10.1145/3654777.3676323.
+[c.20] sumit asthana, jane im, zhe chen, and nikola banovic. . "i know even if you don’t tell me": understanding
+users’privacypreferencesregardingai-basedinferencesofsensitiveinformationforpersonalization.inproceedings
+of the chi conference on human factors in computing systems (chi ’24). association for computing machinery,
+honolulu,hi,usa.doi:10.1145/3613904.3642180.
+[c.19] divya ramesh, caitlin henning, nel escher, haiyi zhu, min kyung lee, and nikola banovic. . ludification
+as a lens for algorithmic management: a case study of gig-workers’ experiences of ambiguity in instacart work.
+in proceedings of the acm designing interactive systems conference (dis ’23). association for computing
+machinery,pittsburgh,pa,usa,638–651.doi:10.1145/3563657.3596004.
+[c.18] janeim,ruiyiwang,weikunlyu,nickcook,hanahabib,lorriefaithcranor,nikolabanovic,andflorianschaub.
+.lessisnotmore:improvingfindabilityandactionabilityofprivacycontrolsforonlinebehavioraladvertising.
+in proceedings of the chi conference on human factors in computing systems (chi ’23). association for
+computingmachinery,hamburg,germany.doi:10.1145/3544548.3580773.
+[c.17] snehal prabhudesai, leyao yang, sumit asthana, xun huan, q. vera liao, and nikola banovic. . under-
+standinguncertainty:howlaydecision-makersperceiveandinterpretuncertaintyinhuman-aidecisionmaking.in
+proceedings of the 28th international conference on intelligent user interfaces (iui’23).associationforcomputing
+machinery,sydney,nsw,australia,379–396.doi:10.1145/3581641.3584033.
+[c.16] enhaozhangandnikola banovic. .methodforexploringgenerativeadversarialnetworks(gans)viaauto-
+matically generated image galleries. in proceedings of the chi conference on human factors in computing
+systems (chi’21).associationforcomputingmachinery,yokohama,japan.doi:10.1145/3411764.3445714.
+[c.15] nikola banovic,tichasethapakdi,yasasvihari,anindk.dey,andjennifermankoff. .thelimitsofexpert
+text entry speed on mobile keyboards with autocorrect. in proceedings of the 21st international conference on
+human-computerinteractionwithmobiledevicesandservices (mobilehci’19).associationforcomputingmachin-
+ery,taipei,taiwan.doi:10.1145/3338286.3340126.
+[c.14] rushilkhurana,nikola banovic,andkentlyons. .inonly3minutes:perceivedexertionlimitsofsmartwatch
+use. in proceedings of the acm international symposium on wearable computers (iswc ’18). association for
+computingmachinery,singapore,singapore,208–211.doi:10.1145/3267242.3267285.
+[c.13] qianyang,nikola banovic,andjohnzimmerman. .mappingmachinelearningadvancesfromhciresearch
+to reveal starting places for design innovation. in proceedings of the chi conference on human factors in
+computingsystems (chi’18).associationforcomputingmachinery,montrealqc,canada,1–11.doi:10.1145/317
+3574.3173704.
+2
+[c.12] nikola banovic, varun rao, abinaya saravanan, anind k. dey, and jennifer mankoff. . quantifying aversion
+tocostlytypingerrorsinexpertmobiletextentry.inproceedingsofthe2017chiconferenceonhumanfactors
+in computing systems (chi ’17). association for computing machinery, denver, colorado, usa, 4229–4241. doi:
+10.1145/3025453.3025695.
+[c.11] nikola banovic, anqi wang, yanfeng jin, christie chang, julian ramos, anind dey, and jennifer mankoff. .
+leveraginghumanroutinemodelstodetectandgeneratehumanbehaviors.inproceedings of the chi con-
+ferenceonhumanfactorsincomputingsystems(chi’17).associationforcomputingmachinery,denver,colorado,
+usa,6683–6694.doi:10.1145/3025453.3025571.
+[c.10] nikolabanovic,tofibuzali,fannychevalier,jennifermankoff,andanindk.dey. .modelingandunderstand-
+inghumanroutinebehavior.inproceedings of the chi conference on human factors in computing systems
+(chi’16).associationforcomputingmachinery,sanjose,california,usa,248–260.doi:10.1145/2858036.2858557.
+[c.9] karen church, denzil ferreira, nikola banovic, and kent lyons. . understanding the challenges of mobile
+phoneusagedata.inproceedingsofthe17thinternationalconferenceonhuman-computerinteractionwithmobile
+devices and services (mobilehci ’15). association for computing machinery, copenhagen, denmark, 504–514. doi:
+10.1145/2785830.2785891.
+[c.8] nikolabanovic,christinabrant,jennifermankoff,andaninddey. .proactivetasks:theshortofmobiledevice
+usesessions.inproceedingsofthe16thinternationalconferenceonhuman-computerinteractionwithmobiledevices
+&amp;services (mobilehci’14).associationforcomputingmachinery,toronto,on,canada,243–252.doi:10.114
+5/2628363.2628380.
+[c.7] christiankoehler,nikolabanovic,ianoakley,jennifermankoff,andanindk.dey. .indoor-alps:anadaptive
+indoorlocationpredictionsystem.inproceedings of the acm international joint conference on pervasive and
+ubiquitous computing (ubicomp ’14). association for computing machinery, seattle, washington, 171–181. doi:
+10.1145/2632048.2632069.
+[c.6] nikolabanovic,rachell.franz,khain.truong,jennifermankoff,andanindk.dey. .uncoveringinformation
+needs for independent spatial learning for users who are visually impaired. in proceedings of the 15th international
+acmsigaccessconferenceoncomputersandaccessibility (assets’13).associationforcomputingmachinery,
+bellevue,washington.doi:10.1145/2513383.2513445.
+[c.5] nikola banovic, tovi grossman, and george fitzmaurice. . the effect of time-based cost of error in target-
+directed pointing tasks. in proceedings of the sigchi conference on human factors in computing systems (chi
+’13).associationforcomputingmachinery,paris,france,1373–1382.doi:10.1145/2470654.2466181.
+[c.4] nikola banovic, tovi grossman, justin matejka, and george fitzmaurice. . waken: reverse engineering usage
+informationandinterfacestructurefromsoftwarevideos.inproceedingsofthe25thannualacmsymposiumonuser
+interface software and technology (uist ’12). association for computing machinery, cambridge, massachusetts,
+usa,83–92.doi:10.1145/2380116.2380129.
+[c.3] nikola banovic, fanny chevalier, tovi grossman, and george fitzmaurice. . triggering triggers and burying
+barrierstocustomizingsoftware.inproceedingsofthesigchiconferenceonhumanfactorsincomputingsystems
+(chi’12).associationforcomputingmachinery,austin,texas,usa,2717–2726.doi:10.1145/2207676.2208666.
+[c.2] kojiyatani,nikola banovic,andkhaitruong. .spacesense:representinggeographicalinformationtovisually
+impairedpeopleusingspatialtactilefeedback.inproceedings of the sigchi conference on human factors in com-
+puting systems (chi’12).associationforcomputingmachinery,austin,texas,usa,415–424.doi:10.1145/220767
+6.2207734.
+[c.1] nikola banovic,frankchunyatli,daviddearman,kojiyatani,andkhain.truong. .designofunimanual
+multi-finger pie menu interaction. in proceedings of the acm international conference on interactive tabletops and
+surfaces (its’11).associationforcomputingmachinery,kobe,japan,120–129.doi:10.1145/2076354.2076378.
+extended abstracts (refereed & juried)
+[ea.9] shane c. quinonez, david a. stewart, and nikola banovic. . chatgpt and artificial intelligence in graduate
+medicaleducationprogramapplications.journal of graduate medical education,16,4,(aug. ),391–394.doi:
+10.4300/jgme-d-23-00823.1.
+[ea.8] nelescherandnikolabanovic. .hexingtwitter:channelingancientmagictobindmechanismsofextraction.in
+extendedabstractsofthe2024chiconferenceonhumanfactorsincomputingsystems (chiea’24).association
+forcomputingmachinery.doi:10.1145/3613905.3644071.
+[ea.7] jane im, nikola banovic, and florian schaub. . designing and building social platforms grounded in consent.
+intrust and safety research conference.
+[ea.6] nelescher,jeffreybilik,alexandermiller,jenniferjiyounghuseby,divyaramesh,aliceliu,sammikell,ninacahill,
+bengreen,andnikolabanovic. .cod(e)ifyingthelaw.inprogramminglanguagesandthelaw(prolala) .
+[ea.5] john joon young chung, fuhu xiao, nikola banovic, and walter s. lasecki. . towardsinstantaneous recovery
+from autonomous system failures via predictive crowdsourcing. in adjunct proceedings of the 32nd annual acm
+symposium on user interface software and technology (uist ’19 adjunct). association for computing machinery,
+neworleans,la,usa,16–18.doi:10.1145/3332167.3357100.
+3
+[ea.4] per ola kristensson, nikola banovic, antti oulasvirta, and john williamson. . computational interaction with
+bayesian methods. in extended abstracts of the chi conference on human factors in computing systems
+(chiea’19).associationforcomputingmachinery,glasgow,scotlanduk,1–6.doi:10.1145/3290607.3298820.
+[ea.3] meghmarathe,ting-weichang,luckychowdhury,michellel.chung,chia-hsuansu,yoonseonyi,nikolabanovic,
+alanson sample, and gabriela marcu. . tedious versus taxing: needs assessment in a pediatric feeding disorder
+clinic.inchi’19 workshop on "workgroup in interactive systems for healthcare (wish) symposium".
+[ea.2] johnjoonyoungchung,fuhuxiao,nicholasrecker,kammeranbarnes,nikolabanovic,andwalterslasecki. .
+accident prevention with predictive instantaneous crowdsourcing. in chi’19 workshop on “looking into the future:
+weaving the threads of vehicle automation”.
+[ea.1] nikola banovic. . method for understanding complex human routine behaviors from large behavior logs. in
+proceedingsofthe2017chiconferenceextendedabstractsonhumanfactorsincomputingsystems (chiea’17).
+associationforcomputingmachinery,denver,colorado,usa,254–258.doi:10.1145/3027063.3027135.
+workshops organized (juried)
+[w.2] kashyaptodi,jeanvanderdonckt,xiaojuanma,jeffreynichols,andnikolabanovic. .ai4aui:workshoponai
+methods for adaptive user interfaces. in companion proceedings of the 25th international conference on intelligent
+user interfaces (iui’20companion).associationforcomputingmachinery,cagliari,italy,17–18.doi:10.1145/337
+9336.3379359.
+[w.1] nikolabanovic,anttioulasvirta,andperolakristensson. .computationalmodelinginhuman-computerinter-
+action. in extended abstracts of the chi conference on human factors in computing systems (chi ea ’19).
+associationforcomputingmachinery,glasgow,scotlanduk,1–7.doi:10.1145/3290607.3299032.
+edited books
+[eb.1] john williamson, antti oulasvirta, per ola kristensson, and nikola banovic, (eds.) . bayesian methods for
+interaction and design.cambridgeuniversitypress.
+dissertation
+[d.1] nikola banovic. . computational method for understanding complex human routine behaviors, (may ).
+doi:10.1184/r1/7188812.v1.
+book chapters, invited articles & technical reports
+[t.4] chunghoonhong,yuanliang,sagniksinharoy,arushijain,vihangagarwal,ryandraves,zhizhuozhou,william
+chen, yujian liu, martha miracky, lily ge, nikola banovic, and david jurgens. . audrey: a personalized
+open-domainconversationalbot.( ).https://arxiv.org/abs/ .05910.
+[t.3] nikola banovic, jennifer mankoff, and anind k dey. . computational model of human routine behaviors. in
+computational interaction.oxforduniversitypress,oxford,377–398.
+[t.2] julian ramos, zhen li, johana rosas, nikola banovic, jennifer mankoff, and anind dey. . keyboard surface
+interaction:makingthekeyboardintoapointingdevice.( ).https://arxiv.org/abs/1601.04029.
+[t.1] nikola banovic. .toreplicateornottoreplicate?getmobile: mobile comp. and comm.,19,4,(mar. ),
+23–27.doi:10.1145/2904337.2904346.
+awards and honors
+nsf career award
+amazon alexa prize semi-finalist
+honorable mention award (chi ’17)
+honorable mention award (chi ’16)
+yahoo! fellow
+honorable mention award (mobilehci ’15)
+best paper award (mobilehci ’14)
+nserc post-graduate scholarship -
+wolfond scholarship in wireless information technology
+4
+grants and fellowships
+patient oriented research & mentoring in chronic pain treatments -
+national institutes of health (nih); co-i; $128,488
+career: achieving explainable ai through human-ai interaction -
+national science foundation (nsf); pi; $582,031
+decision-making with uncertainty under climate change impacts on flood risks -
+department of the defense, department of navy; co-pi; $7,500,000
+detecting and countering untrustworthy ai through ai literacy -
+michigan institute for data & ai in society (midas); pi; $75,000
+human-ai collaborations to improve accuracy and mitigate bias in ad diagnosis -
+national institutes of health (nih); co-i; $2,758,838
+predicting single cell behavior -
+w. m. keck foundation; co-i; $1,000,000
+learning from the unseen experience of experts to support ml decision-making -
+toyota research institute (tri); pi; $975,000
+practical osbed for complex systems incorporating human preferences -
+department of energy (doe); co-pi; $970,822
+identifying educational conceptions and challenges in cybersecurity and ai -
+national science foundation (nsf); co-i; $300,000
+modeling and understanding human-machine teaming and decision making -
+toyota research institute (tri); pi; $100,000
+personalization through ml models using temporal consumer interactions data -
+proctor and gamble (p&g); pi; $100,000
+invited talks and panels
+detecting and countering untrustworthy artificial intelligence (ai) 12/
+dgp seminar series, university of toronto, canada
+detecting and countering untrustworthy artificial intelligence (ai) 11/
+distinguished lecture series, university of virginia, usa
+detecting and countering untrustworthy artificial intelligence (ai) 07/
+keynote at the ai & hci workshop (icml )
+panel on ai shaping the future of trust, safety, privacy & security 06/
+human-computer interaction consortium (hcic )
+detecting and countering untrustworthy artificial intelligence (ai) 05/
+seminar series, university of glasgow, uk
+explainability and interpretability through interaction 01/
+iciev & ivpr keynote series
+computational modeling in human-computer interaction 11/
+seminar series on data science, university of lisbon
+computational modeling in human-computer interaction 06/
+joint iciev, ivpr, & abc
+computational models of human behavior 06/
+dagstuhl seminar on computational interactivity, germany
+5
+human data driven interfaces 03/
+computer science department, university of toronto, toronto, canada
+human data driven interfaces 12/
+bosch research and technology center, pittsburgh, usa
+streamlining mobile device use 08/
+dgp, computer science department, university of toronto, toronto, canada
+streamlining mobile device use 07/
+dub, university of washington, seattle, usa
+campus/departmental talks
+detecting and countering untrustworthy artificial intelligence (ai) 11/
+cse faculty seminar series, university of michigan, ann arbor, usa
+interactive human-centered explainable artificial intelligence (xai) 03/
+university of michigan, ann arbor, usa
+computational modeling in human-computer interaction 10/
+michigan ai symposium , university of michigan, ann arbor, usa
+teaching experience
+university of michigan, ann arbor, usa
+graduate courses
+human-computer interaction winter ’20, fall ’20, fall ’21, fall ’22, fall ’23
+computational modeling in hci fall ’18, fall ’19
+undergraduate courses
+user interface development winter ’21, winter ’22, winter ’23
+modeling human behavior winter ’19
+carnegie mellon university, pittsburgh, usa
+interactive data science (instructor of record) spring ’17
+software structures for user interfaces fall ’15
+user-centered research & evaluation fall ’14
+university of toronto, toronto, canada
+the design of interactive computational media fall ’10, spring ’11 fall ’11
+advising experience
+university of michigan, ann arbor, usa
+current ph.d. students
+divya ramesh sumit asthana tsedeniya amare
+anindya das antar snehal prabhudesai
+nel escher jaewoong choi
+6
+past post-doctoral researchers and graduated students
+dr. somayeh molaei, post-doctoral researcher -
+doctoral committees
+amani alkayyali wanggang shen matthew bernhard
+shengpu tang mimansa jaiswal sai gouravajhala
+harry rubin-falcone jordan huffaker chuan-che huang
+john chung bryan stearns
+preeti ramaraj ian fox
+research experience
+graduate research assistant 08/ -08/
+carnegie mellon university, pittsburgh, usa
+machine learning intern 05/ -07/
+uber advanced technologies center, pittsburgh, usa
+research intern 05/ -08/
+microsoft research, redmond, usa
+research intern 01/ -09/
+autodesk research, toronto, canada 05/ -09/
+graduate research assistant 09/ -12/
+university of toronto, toronto, canada
+service to profession
+associate editor (ae)
+pacm on interactive, mobile, wearable and ubiquitous technologies (imwut) -
+associate chair (ac) / program committee (pc) member
+chi conference on human factors in computing systems (chi) , -
+computer-supported cooperative work and social computing (cscw)
+fairness, accountability and transparency (facct) ,
+user interface software and technology (uist) -
+graphics interface (gi)
+the web conference (thewebconf)
+visualization in data science (vds) -
+organizing committees
+chi workshops co-chair -
+the 7th summer school on computational interaction (cix2023) chair
+ubicomp & iswc workshop and tutorial co-chair -
+uist publicity co-chair
+ubicomp & iswc publicity co-chair
+workshop organizer
+acm iui workshop on ai methods for adaptive user interfaces
+acm chi workshop on computational modeling in human-computer interaction
+7
+external reviewer
+chi int. journal of hci pervasive health
+tochi human-computer interaction ieee intelligent systems
+cscw imwut ieee pervasive comput.
+uist ubicomp ieee trans. mob. comput.
+dis iswc interact
+mobilehci pervasive and mob. comput. siggraph
+departmental/university service
+university of michigan, ann arbor, usa
+cse diversity, equity, and inclusion (dei) chair -24
+the weinberg institute for cognitive science undergraduate committee member -23, -24
+cse tenure track recruiting and hosting committee member -22, -23
+graduate fellowship workshop chair -23
+cse graduate recruiting committee member -23
+cse graduate recruiting committee chair -21, -22
+cse graduate admission committee member -19, -20
+cse faculty seminar series chair -19
+extracurricular university service
+university of michigan, ann arbor, usa
+tech4social good -
+undergraduate student organization faculty mentor
+big data summer institute (bdsi) ,
+machine learning project group mentor
+media coverage
+[m.3] c.t.jones. .twitterupdateditsaichatbot.theimagesareadumpsterfire.rolling stone,(aug. ).
+[m.2] hilaryachauer. .yournextfitnesscoachcouldbearobot.new york times,(apr. ).
+[m.1] kate giammarise. . study: pa. benefits screening tool may be telling potential applicants they don’t qualify.
+pittsburgh post-gazette,(sept. ).
+professional memberships/affiliations
+association for computing machinery (acm)
+special interest group on computer-human interaction (acm sigchi)
+8

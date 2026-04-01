@@ -1,0 +1,341 @@
+j c
+iasi hen
+electricalengineeringandcomputerscience
+website:http://jiasi.engin.umich.edu/ universityofmichigan,annarbor
+annarbor,mi48109
+experience
+universityofmichigan,annarbor
+associateprofessor,dept.ofelectricalengineeringandcomputerscience -present
+universityofcalifornia,riverside
+associateprofessor,dept.ofcomputerscienceandengineering -
+assistantprofessor,dept.ofcomputerscienceandengineering -21
+kbrwyle,nasaamesresearchcenter
+externalconsultant
+at&tlabs–research
+intern,networking&services
+mentors:jeffreyerman,guangzhili,k.k.ramakrishnan,rakeshsinha
+neclabsamerica
+intern,mobilecommunications&networking
+mentors:rajeshmahindra,m.amirkhojastepour,sampathrangarajan
+education
+princetonuniversity
+ph.d.inelectricalengineering
+thesis:optimizingvideodeliveryonmobilenetworks
+advisor:mungchiang
+m.a.inelectricalengineering
+columbiauniversity
+b.s.inelectricalengineering,magnacumlaude
+honorsandawards
+adobedatascienceresearchaward
+topic:cheaperandquery-awareinferenceforlanguagemodels:optimallanguage
+modelcascadesbymodelingfuturerewards
+metafacultyresearchaward
+topic:locationtamperinginmulti-useraugmentedreality:attacksanddefenses
+nsfcareeraward
+topic:networkedmulti-useraugmentedrealityformobiledevices
+ieeeinfocomdistinguishedtpcmember , ,
+basedonpeerratings,reflectingthehighqualityofthereviewsprovided.
+1
+hellmanfellowship
+forpromisingassistantprofessorswhoexhibitpotentialforgreatdistinctionintheir
+areaofexpertise.
+ucruniversityhonorsfacultymentoroftheyear
+oneofthreeawardsgivencampus-wideforseniorthesisadvising.
+teachingexperience
+universityofmichigan,annarbor
+ eecs452:digitalsignalprocessinglaboratory -
+senior/graduatedesigncourseonembeddedsystems.
+ eecs498/598:specialtopicsseminar -
+:mobileinteractivemultimediasystems(flyer)
+:ai-enabledmixedreality(flyer)
+universityofcalifornia,riverside: -22
+ cs135:virtualreality
+technicalelectiveforjuniorsandseniorswith~100studentsperyear.
+-18
+ cs179i:projectincomputernetworks
+advisedgroupseniordesignprojectsincomputernetworking.
+-23
+ cs190:apprenticeteachingforundergraduates
+foundedapeertutoringprogramtosupportlower-divisioncsclassesandtrained
+tutorsonbestpractices.
+-23
+ cs204:advancedcomputernetworks
+graduate-levelcoursewithupdatedsyllabusbasedonrecentresearch.
+ cs260:seminarinmultimedianetworking
+graduate-levelseminar.topicsincludedvideostreaming,augmentedandvirtual
+reality,andinterneteconomics.
+mentoringexperience
+phd:zijianhuang,zhengli,yi-zhentsai,weijiazhang,xuechenzhang(withsametoymak)
+phdalumni:kittipatapicharttrisorn(withsrikanthkrishnamurthy,nokiabelllabs),xukanran
+(qualcommr&d),carterslocum(harveymuddcollege)
+master’s:shahryarafzal(withk.k.ramakrishnan),danielhandojo,caryshu,huiyang,chang
+yuan
+undergraduate:sophiechen,tandydang,jingwenhuang, japneetkaur,zhengli,jamesluo,
+elijahnicasio,gopalnookula,timothyoh,emmiliosegovia,steventruong,davidzhang
+publications
+xuechenzhang,zijianhuang,egetaga,carleejoe-wong,sametoymak, jiasichen,“efficient
+contextualllmcascadesthroughbudget-constrainedpolicylearning”, neurips, .
+xuechenzhang,xiangyuchang,mingchenli,amitroy-chowdhury, jiasichen,sametoymak,
+“selectiveattention:enhancingtransformerthroughprincipledcontextcontrol”, neurips, .
+2
+zijianhuang*,caryshu*,hangqiu,jiasichen,“replayar:atoolforvisualevaluationofmixed
+reality”,acmimmercomworkshop, .(*co-firstauthors)
+carterslocum*,yichengzhang*,erfanshayegani,pedramzaree,naelabu-ghazaleh, jiasichen,
+“thatdoesn’tgothere:attacksonsharedstateinmulti-useraugmentedrealityapplications”,
+usenixsecurity, .(*co-firstauthors)
+tristanmccarty,smrithisurender,caryshu,zijianhuang, jiasichen,elenakokkoni,“integrating
+mixedrealityandbodyweightsupporttechnologyforimmersivepediatricrehabilitation”,
+conferenceoftheieeeengineeringinmedicine&biologysociety, .
+xuechenzhang,mingchenli,jiasichen,christosthrampouli,sametoymak,“class-attributepriors:
+adaptingoptimizationtoheterogeneityandfairnessobjectives”, aaai, .
+xuechenzhang,mingchenli,xiangyuchang,jiasichen,amitroy-chowdhury,anandatheertha
+suresh,sametoymak,“augmentingfederatedlearningwithpretrainedtransformers”, neurips
+workshoponfederatedlearningintheageoffoundationmodels, .
+jiasichen,k.k.ramakrishnan,adityadhakal,xukanran,“networkedarchitecturesfor
+localization-basedmulti-useraugmentedreality”, ieeecommunicationsmagazine,dec. .
+xuechenzhang,zhengli,sametoymak,jiasichen“text-to-3dgenerativeaionmobiledevices:
+measurementsandoptimizations”,acmsigcommworkshoponemergingmultimediasystems,
+.
+yi-zhentsai,jamesluo,yunshuwang,jiasichen,“theworldistoobigtodownload:3dmodel
+retrievalforworld-scaleaugmentedreality”, acmmmsys, .(beststudentpaperaward)
+yichengzhang,carterslocum,jiasichen,naelabu-ghazaleh,“it’sallinyourhead(set):side
+channelattacksonaugmentedrealitysystems”, usenixsecurity, .
+carterslocum,yichengzhang,naelabu-ghazaleh, jiasichen,“goingthroughthemotions:ar/vr
+keyloggingfromuserheadmotions”,usenixsecurity, .
+ching-namhang,yi-zhentsai,pei-duoyu,jiasichen,chee-weitan,“privacy-enhancingdigital
+contacttracingwithmachinelearningforpandemicresponse:acomprehensivereview”, bigdata
+andcognitivecomputing, .
+adityadhakal,xukanran,yunshuwang,jiasichen,k.k.ramakrishnan,“slam-share:visual
+simultaneouslocalizationandmappingforreal-timemulti-useraugmentedreality”, acmconext,
+.(18%acceptancerate)
+kittipatapicharttrisorn,jiasichen,vyassekar,srikanthkrishnamurthy,“breakingedgeshackles:
+infrastructure-freecollaborativemobileaugmentedreality”, acmsensys, .(25%acceptancerate)
+wangyuchoi,jiasichen,jongwongyoon,“abraider:multi-phasereinforcementlearningfor
+environment-adaptivevideostreaming”,ieeeaccess, .
+timothyscargill,shreyahurli,jiasichen,mariagorlatova,“heretostay:aquantitative
+comparisonofvirtualobjectstabilityinmarkerlessmobilear,”workshoponcyber-physical
+humansystemdesignandimplementation(atcps-iotweek), .
+3
+yi-zhentsai,jiasichen,"network-side5gmmwavechannelsignaturesforpandemiccontact
+tracing",ieeeicc, .
+mingchenli,xuechenzhang,christosthrampoulidis, jiasichen,sametoymak,"autobalance:
+optimizedlossfunctionsforimbalanceddata", neurips, .(26%acceptancerate)
+carterslocum,xukanran,jiasichen,"realitycheck:atooltoevaluatespatialinconsistencyin
+augmentedreality",ieeeism, .
+carterslocum,jingwenhuang,jiasichen,“via:visibility-awareweb-basedvirtualreality”, acm
+web3d, .
+hishamalhulayyil,jiasichen,karthiksundaresan,srikanthkrishnamurthy,“boostinghomewifi
+throughputsviaadaptivedasclusteringofplcextenders”(invited), ieeemass, .
+timothyjamesscargill,shreyahurli,jiasichen,mariagorlatova,“willitmove?:indoorscene
+characterizationforhologramstabilityinmobilear”(demo), acmhotmobile, .
+moustafaabdelbaky,jiasichen,alexanderfedin,kennethfreeman,mohanagurram,abraham
+ishihara,carleejoe-wong,christopherknight,kalmanjekrishnakumar,isaiasreyes,calvin
+robinson,petershannon,sandeepshetye,lukatomljenovic,williamvandalsem,“drf:asoftware
+architectureforadatamarketplacetosupportadvancedairmobility”, aaaiaviationforum, .
+xukanran,carterslocum,yi-zhentsai,kittipatapicharttrisorn,mariagorlatova, jiasichen,
+“multi-useraugmentedrealitywithcommunicationefficientandspatiallyconsistentvirtual
+objects”,acmconext, .(25%acceptancerate)
+kittipatapicharttrisorn,bharathbalasubramanian, jiasichen,rajarajansivaraj,yi-zhentsai,
+rittwikjana,srikanthkrishnamurthy,tuyentran,yuzhou,“characterizationofmulti-user
+augmentedrealityovercellularnetworks”, ieeesecon, .(bestpaperfinalist,28%acceptance
+rate)
+ha-ryungkim,jiasichen,jongwonyoon,"jointuserclusteringandbeamforminginnon-
+orthogonalmultipleaccessnetworks", ieeeaccess, .
+yuanzhao,jiasichen,sametoymak,"ontheroleofdatasetqualityandheterogeneityinmodel
+confidence",icmlworkshoponuncertaintyandrobustnessindeeplearning, .
+shahryarafzal,jiasichen,k.k.ramakrishnan,"viewingthe360-degreefuture:trade-offbetween
+userfield-of-viewprediction,networkbandwidth,anddelay", ieeeicccn, .
+hishamalhulayyil,kittipatapicharttrisorn,jiasichen,karthiksundaresan,sametoymakand
+srikanthkrishnamurthy,"wolt:auto-configurationofintegratedenterpriseplc-wifinetworks",
+ieeeicdcs, .(18%acceptancerate)
+shengxinliu,carleejoe-wong,jiasichen,christopherbrinton,cheeweitan,liangzheng,
+"economicviabilityofvirtualisp",ieeetransactionsonnetworking, .
+ahmetdermikaya,jiasichen,sametoymak,"exploringtheroleoflossfunctionsinmulticlass
+classification",ieeeciss, .
+4
+guoqiangzhang,yuewu,xuhan,qiangao,jiasichen,"exploitingthelayercorrelationtoimprove
+dashschedulingwithscalablevideocoding", computernetworks, .
+kittipatapicharttrisorn,xukanran,jiasichen,srikanthkrishnamurthy,amitroy-chowdhury
+“frugalfollowing:powerthriftyobjectdetectionandtrackingformobileaugmentedreality”, acm
+sensys, .(bestpaperfinalist,19%acceptancerate)
+xukanran,carterslocum,mariagorlatova, jiasichen,“communication-efficientmulti-usermobile
+augmentedreality”,acmworkshoponhottopicsinnetworks(hotnets), .(20%acceptance
+rate)
+jiasichen,xukanran,“deeplearningwithedgecomputing:areview”(invited), proceedingsof
+theieee, .(impactfactor:10.7)
+sametoymak,mehrdadmadavi,jiasichen,"learningfeaturenonlinearitieswithnon-convex
+regularizedbinnedregression",ieeeisit, .
+jiasichen,bharathbalasubramanian,zhehuang,"liv(e)-ingontheedge:user-uploadedlive
+streamsdrivenby“first-mile”edgedecisions", ieeeedge,
+xukanran,haoliangchen,xiaodanzhu,zhenmingliu,jiasichen,“deepdecision:amobiledeep
+learningframework”,ieeeinfocom, .(19%acceptancerate)
+shahryarafzal,jiasichen,k.k.ramakrishnan,“characterizationof360-degreevideos,” sigcomm
+workshoponvirtualrealityandaugmentedrealitynetwork, .
+xukanran,haoliangchen,zhenmingliu,jiasichen,“deliveringdeeplearningtomobiledevicesvia
+offloading,”sigcommworkshoponvirtualrealityandaugmentedrealitynetwork, .
+suzanbayhan,liangzheng,jiasichen,mariodifrancesco,jussikangasharju,mungchiang,
+“improvingcellularcapacitywithwhitespaceoffloading,” symposiumonmodelingandoptimization
+inmobile,adhoc,andwirelessnetworks(wiopt), .
+liangzheng,jiasichen,carleejoe-wong,cheeweitan,mungchiang,“aneconomicanalysisof
+wirelessnetworkinfrastructuresharing”, symposiumonmodelingandoptimizationinmobile,ad
+hoc,andwirelessnetworks(wiopt), .
+kittipatapicharttrisorn,ahmedosamafathyatya, jiasichen,karthikeyansundaresan,andsrikanth
+v.krishnamurthy,“enhancingwifithroughputwithplcextenders:ameasurementstudy,” passive
+andactivemeasurementconference, .(23%acceptancerate)
+liangzheng,carleejoe-wong,jiasichen,christopherg.brinton,cheeweitan,mungchiang,
+"economicviabilityofavirtualisp",ieeeinfocom, .(21%acceptancerate)
+michaelwang,jiasichen,ehsanaryafar,andmungchiang,"asurveyofclient-controlledhetnets
+for5g"(invited),ieeeaccess, .
+taolin,hongjiali,haiyongxie,jiasichen,huajuncui,guoqiangzhang,weian,yangli,
+"performanceandimplicationsofrancachinginltemobilenetworks:arealtrafficanalysis",
+ieeesecon, .(26%acceptancerate)
+5
+jiasichen,mungchiang,jeffreyerman,guangzhili,k.k.ramakrishnan,rakeshsinha,"fairand
+optimalresourceallocationforltemulticast(embms):grouppartitioninganddynamics," ieee
+infocom, .(19%acceptancerate)
+xiaoliwang,jiasichen,aveekdutta,mungchiang,"adaptivevideostreamingoverwhitespace:
+svcfor3-tieredspectrumsharing,"ieeeinfocom, .(19%acceptancerate)
+jiasichen,amitabhghosh,mungchiang,“mechanismsforquota-awarevideoadaptation,”book
+chapter:smartdatapricing,ed.s.sen,c.joe-wong,s.ha,m.chiang,johnwiley, .
+jiasichen,rajeshmahindra,m.amirkhojastepour,sampathrangarajan,mungchiang,“scheduling
+frameworkforadaptivevideodeliveryovercellularnetworks,” acmmobicom, .(14%
+acceptancerate)
+jiasichen,soumyasen,daviddorsey,mungchiang,“aframeworkforenergy-efficientadaptive
+jammingofadversarialcommunications,”ciss, .
+jiasichen,amitabhghosh,josphatmagutt,mungchiang,“qava:quota-awarevideoadaptation,”
+acmconext, .(18%acceptancerate)
+patents
+bharathbalasubramanian,zhehuang,jiasichen,“livestreamingserverselection”,uspatent
+#11,330,045, .
+rakeshsinha,jeffreyerman,guangzhili,jiasichen,kadangodek.ramakrishnan,“broadcast
+servicesplatformandmethodsforusetherewith,”uspatent#10,447,616, .
+jiasichen,amitabhghosh,mungchiang,“quota-awarevideoadaptation,”uspatent#9,544,623,
+.
+rajeshmahindra,m.amirkhojastepour,sampathrangarajan,jiasichen,“schedulingframeworkfor
+adaptivevideodeliveryovercellularnetworks,”uspatent#9,338,693, .
+academicservice
+chair:
+acm/ieeesymposiumonedgecomputing(tpcco-chair)
+acmconextstudentworkshop
+ieeeinfocomcnertworkshop
+acmsigcommneatworkshop
+technicalprogramcommittees:
+acmsigcomm ,
+acmmultimedia -23
+acmmmsys
+acmnossdav
+acmsigcommworkshoponvirtualandaugmentedrealitynetwork -18
+acmsigcommworkshoponnetworkmeetsai&ml
+acmsigcommeducationworkshop
+ieeeinfocom -
+6
+ieeeicnp -
+ieeeicdcs
+ieeesecon
+ieeewiopt -
+ieeesarnoffsymposium
+ieeecnsmhipnetworkshop -19
+ieeeicnpnipaaworkshop
+thenetworkingchannel(onlineseminarseries)
+organizingcommittees:acmconext’16(localarrangements),acm/ieeesymposiumonedge
+computing’16(demo/poster),acmsigcomm’17(registration),ieeeicnp’21(publicity),acm
+mobicom’21(travelgrants),acmmobisys’22(posters),acmconext’24(sponsorship).
+reviewer:ieeecvpr,imwut,proceedingsoftheieee,ieeetrans.networking,ieeetrans.
+mobilecomputing,ieeetrans.parallelanddistributedsystems,ieeetrans.communications,ieee
+trans.wirelesscommunications,ieeecommunicationsmag.,ieeejournalonselectedareasin
+communications
+journaleditor:ieeenetworkspecialissueon“bridgingthegapbetweenindustryandacademiafor
+networkingresearch”(guesteditor).
+funding
+ meta,“context-aware3dreconstructionsandrepresentationsformixedreality”,$130k(pi)
+ adobedatascienceresearchaward,“cheaperandquery-awareinferenceforlanguagemodels:
+optimallanguagemodelcascadesbymodelingfuturerewards”,$50k(co-pi,withsamet
+oymak)
+ nsfcsr:medium:adaptiveenvironmentalawarenessforcollaborativeaugmentedreality,
+$1.2m, -27(michiganpi,withmariagorlatova(duke)andcarleejoe-wong(cmu))
+ usarmy,“learninghuman-robotinteractionthroughar/vrtechnologies”(equipmentgrant),
+$360k, -23(co-pi)
+ metafacultyresearchaward,“locationtamperinginmulti-useraugmentedreality:attacksand
+defenses”,$75k, (pi,withnaelabu-ghazaleh(ucr))
+ at&tlabsresearchgift,“leveragingorancontrolforaugmented/virtualreality”,$20k,
+(pi)
+ centerforinclusivecomputingbestpracticesgrant,$600k, - (co-pi)
+ nsfcareer:networkedmulti-useraugmentedrealityformobiledevices,$530k, -26(pi)
+ nationalcenterforwomen&informationtechnologyacademicallianceseedfund,$10k,
+(co-pi)
+ u.s.departmentofeducation,graduateassistanceinareasofnationalneed,$895k, -21(co-
+pi)
+ nsfcnsnets:small:supportforinteractivear/vrvideo:learningandoptimizingatthe
+networkedge,$250k, -22(pi,withkkramakrishnan(ucr))
+ nsfcnsnets:small:realizingintegratedhighthroughputplc/vlcnetworks,$400k, -18
+(co-pi,withsrikanthkrishnamurthy(ucr))
+ ucrcollaborativeseedgrant,$10k, (co-pi)
+broadeningparticipationactivities
+mediationtrainingcompletedatthesocialjusticemediationinstitute
+equityadvisorforucr’sbournscollegeofengineering - 23
+7
+facultyadvisorofucr’sacm-womenchapter -21
+n2womenmentoratacmsigcomm
+judgeforucrcse’sgracehopperconferencescholarships ,
+judgeandvrworkshoporganizeratvariousucrhackathons - 23
+speaker/mentoratriversideunifiedschooldistrict’sstemworkshopforgirls ,
+speakeratcs4allandieeetryengineeringcodecampsforhighschoolstudents
+invitedtalksandpanels
+mixedrealitysecurityandstreamingatthesystemandapplicationlevels
+dukeuniversityeceseminar
+newfrontiersinxrpanel
+xr,generativeai,andthefutureofexperientialtechnologiesinnovationsummit
+mixedrealitysecurityatthesystemandapplicationlevels
+systemsandtechnologyresearch(str)
+edgecomputingeducationandresearchpanel
+acm/ieeesymposiumonedgecomputing
+cheaperandquery-awareinferenceforlanguagemodels
+adoberesearchgenaiandmlsystemsefficiencyworkshop
+securityandprivacyforar/vrsystems:multi-userplatformsandintegration
+withillixr
+uiucillinoisextendedrealitytestbed(illixr)seminar
+sidechannelandlocationteleportationattacksforar/vr
+metahacktober
+careerawardeetalk
+nsfcisecareerworkshop
+netscareeradvicepanel
+nsfcisecareerworkshop
+supportingexperimentsacrossincreasinglyspecializedtestbedsandinstruments
+panel
+ieeeinfocomcnertworkshop
+networkedaugmentedandvirtualrealityformobiledevices
+ucmercedecespeakerseries
+networkedaugmentedandvirtualrealityformobiledevices
+riceuniversityecedistinguishedspeakerseries
+https://www.youtube.com/watch?v=azceozfcmqc
+communication-efficientmulti-usermobileaugmentedreality
+acmhotnetsworkshop
+mobilear/vrwithedge-baseddeeplearning
+8
+keynotespeakeratieeecnsm
+ml/aiasenablerfornetworkengineeringandoperationpanel
+ieeecnsm
+mobilear/vrwithedge-baseddeeplearning
+dalhousieuniversity
+mobilear/vrwithedge-baseddeeplearning
+ucrdatascienceseminarseries
+systemchallengesofmobilearandvr
+princetonuniversityedge10workshop
+researchonnetworkedaugmentedandvirtualreality
+ucrhomecomingparents’day
+measuringcommunicationlatencyforpersistentar
+cosmosexperimenter’sworkshop,rutgersuniversity
+researchinaugmentedandvirtualreality
+riversideunifiedschooldistrict’s“inspirehermind”stemworkshop
+researchonnetworkedmultimedia
+ucr“livingthepromise”alumnispeakerseries,google,mountainviewca
+researchinmultimedianetworks
+ucracm-womengeneralmeeting
+optimizingvideodeliveryovermobilenetworks
+ucirvinenetsys/csseminarseries
+videotogo:optimizingvideodeliveryovermobilenetworks
+at&tlabsresearch
+miscellaneous
+associatediploma(arct)inpianoperformancefromtheroyalconservatoryofmusic
+nationalfinalistincanadianphysicsolympiad(top20)
+9

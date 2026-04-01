@@ -1,0 +1,295 @@
+mithun chakraborty
+assistant research scientist office: 2709 beyster
+computer science and engineering (cse) division
+electrical engineering & computer science (eecs) mailing address: 2260 hayward st.
+university of michigan ann arbor ann arbor, mi 48109
+https://sites.google.com/umich.edu/mithunchakra/ e-mail:
+research interests
+artificial intelligence: multi-agent systems; agent-based models; algorithmic game theory;
+computational economics and finance: fair allocation, collective forecasting (prediction
+markets), financial market simulation
+education
+ph.d. in computer science may
+washington university in st. louis (wustl)
+advisor: sanmay das (now at george mason university)
+dissertation topic: on the aggregation of subjective inputs from multiple sources
+bachelor of electronics & telecommunication engineering (hons.) jun
+jadavpur university, kolkata, india
+selected awards and recognitions
+icaif24 best paper award
+department chair award for outstanding teaching
+conferred by the department of computer science and engineering, wustl
+wu-cirtl practitioner level recognition
+conferred by the teaching center, wustl
+professional experience
+assistant research scientist feb – present
+faculty member, strategic reasoning group, ai lab,
+eecs, university of michigan ann arbor;
+affiliate member, midas
+leo intermittent lecturer fall ,
+cse, university of michigan ann arbor winter ,
+winter
+post-doctoral research fellow jun – jan
+host: yair zick (now at university of massachusetts, amherst),
+data-driven strategic collaboration group,
+department of computer science, national university of singapore
+graduate research assistant
+washington university in st. louis fall – spring
+virginia tech fall – spring
+rensselaer polytechnic institute (rpi) fall – spring
+funding
+o cooperative ai foundation research grant ($347,424). title: measuring cooperation
+among competing ai algorithms (1 nov – 31 oct ). role: co-principal investigator.
+o nsf crii award #2153184 ($175,000). title: crii: ri: analysis and applications of multi-level
+games (1 may – 30 apr ). role: principal investigator.
+o facebook (now meta) research award in response to the request for proposals on agent-
+based user interaction simulation ($50,000). title: empirical game-theoretic analysis for
+web-enabled simulation ( ). role: co-author and senior personnel.
+working papers
+[w1] christine konicki, mithun chakraborty, michael wellman. computing perfect bayesian
+equilibria with application to strategy exploration in extensive-form empirical games.
+[w2] nicholas schumacher, mithun chakraborty, sindhu kutty. wealth vs. wisdom: how
+budgets limit information aggregation in prediction markets.
+[w3] noah lincke, mithun chakraborty, sindhu kutty. a comparative study of elicitation
+granularity in prediction markets under trader misinformation.
+journal articles
+[j1] feiran jia, aditya mate, zun li, shahin jabbari, mithun chakraborty, milind tambe,
+michael wellman, yevgeniy vorobeychik. a game-theoretic approach for hierarchical
+epidemic control. autonomous agents and multiagent systems, vol. 39, article no. 14,
+pp. 1–37, february .
+[j2] mithun chakraborty, erel segal-halevi, warut suksompong. weighted fairness notions
+for indivisible items revisited. acm transactions on economics and computation (teac),
+vol. 12 no. 3, article no. 9, pp. 1–45, september . supersedes [c6].
+[j3] nawal benabbou, mithun chakraborty, ayumi igarashi, yair zick. finding fair and
+efficient allocations under matroid rank valuations. acm transactions on economics and
+computation (teac), vol. 9 no. 4, article no. 21, pp. 1–41, december . supersedes
+[c9].
+[j4] mithun chakraborty, ulrike schmidt-kraepelin, warut suksompong. picking sequences
+and monotonicity in weighted fair division. journal of artificial intelligence (aij). vol. 301,
+article 103578, pp. 1–21, december . supersedes [c8].
+[j5] mithun chakraborty, ayumi igarashi, warut suksompong, yair zick. weighted envy-
+freeness in indivisible item allocation. acm transactions on economics and computation
+(teac), vol. 9 no. 3, article no. 18, pp. 1–39, september . supersedes [c10].
+[j6] nawal benabbou, mithun chakraborty, xuan-vinh ho, jakub sliwinski, yair zick. the price
+of quota-based diversity in assignment problems. acm transactions on economics and
+computation (teac) vol. 8 no. 3, article no. 14, pp. 1–32, september . supersedes
+[c12].
+[j7] nawal benabbou, mithun chakraborty, yair zick. fairness and diversity in public resource
+allocation problems. bulletin of the technical committee on data engineering vol. 42 no.
+3, special issue on fairness, diversity, and transparency in data systems, pp. 64–75,
+september . invited paper.
+[j8] pabitra pal choudhury, sudhakar sahoo, mithun chakraborty, subir bhandari, amita pal.
+investigation of the global dynamics of cellular automata using boolean derivatives.
+computers and mathematics with applications (elsevier), vol. 57 issue 8, pp. 1337–1351,
+.
+[j9] deepyaman maiti, mithun chakraborty, ayan acharya, amit konar. a partly deterministic
+and partly stochastic scheme for the identification of fractional-order processes.
+international journal of advanced intelligence paradigms (inderscience), vol. 1 no. 3, pp.
+332–357, .
+archival conference papers (peer-reviewed)
+[c1] christine konicki, mithun chakraborty, michael wellman. policy abstraction and nash
+refinement in tree-exploiting psro. accepted to 24th international conference on
+autonomous agents and multiagent systems (aamas), [full paper: 24.5%
+acceptance rate].
+[c2] chris mascioli, anri gu, yongzhao wang, mithun chakraborty, michael wellman. a
+financial market simulation environment for trading agents using deep reinforcement
+learning. proc. of 5th acm international conference on ai in finance (icaif), pp. 117–
+125, [oral presentation]. icaif24 best paper award.
+[c3] anri gu, yongzhao wang, chris mascioli, mithun chakraborty, rahul savani, ted turocy,
+michael wellman. the effect of liquidity on the spoofability of financial markets. proc. of
+5th acm international conference on ai in finance (icaif), pp. 239–247, [oral
+presentation].
+[c4] christine konicki, mithun chakraborty, michael wellman. exploiting extensive-form
+structure in empirical game-theoretic analysis. proc. of 18th conference on web and
+internet economics (wine), pp. 132–149, [30.2% acceptance rate].
+[c5] zun li, feiran jia, aditya mate, shahin jabbari, mithun chakraborty, milind tambe,
+yevgeniy vorobeychik. solving structured hierarchical games using differential backward
+induction. proc. of machine learning research (pmlr), vol. 180: 38th conference on
+uncertainty in artificial intelligence (uai), pp. 1107–1117, [32.3% acceptance rate].
+selected for oral presentation [5% of submissions].
+[c6] mithun chakraborty, erel segal-halevi, warut suksompong. weighted fairness notions
+for indivisible items revisited. proc. of 36th aaai conference on artificial intelligence
+(aaai), pp. 4949–4956, [15% acceptance rate].
+[c7] blake martin, mithun chakraborty, sindhu kutty. timing is money: the impact of arrival
+order in beta-bernoulli prediction markets. proc. of 2nd acm international conference on
+ai in finance (icaif), article no.: 41, pp. 1–9, [49% acceptance rate].
+[c8] mithun chakraborty, ulrike schmidt-kraepelin, warut suksompong. picking sequences
+and monotonicity in weighted fair division. proc. of 30th international joint conference
+on artificial intelligence (ijcai), pp. 82–88, [13.9% acceptance rate].
+[c9] nawal benabbou, mithun chakraborty, ayumi igarashi, yair zick. finding fair and
+efficient allocations when valuations don’t add up. proc. of 13th symposium on
+algorithmic game theory (sagt), pp. 32–46, .
+[c10] mithun chakraborty, ayumi igarashi, warut suksompong, yair zick. weighted envy-
+freeness in indivisible item allocation. proc. of 19th international conference on
+autonomous agents and multi-agent systems (aamas), pp. 231–239, [23%
+acceptance rate].
+[c11] nawal benabbou, mithun chakraborty, edith elkind, yair zick. fairness towards groups of
+agents in the allocation of indivisible items. proc. of 28th international joint conference
+on artificial intelligence (ijcai), pp. 95–101, [17.9% acceptance rate].
+[c12] nawal benabbou, mithun chakraborty, xuan-vinh ho, jakub sliwinski, yair zick. diversity
+constraints in public housing allocation. proc. of 17th international conference on
+autonomous agents and multiagent systems (aamas), pp. 973–981, [oral
+presentation: 25.3% acceptance rate].
+[c13] mithun chakraborty, kai yee phoebe chua, sanmay das, brendan juba. coordinated
+versus decentralized exploration in multi-agent multi-armed bandits. proc. of 26th
+international joint conference on artificial intelligence (ijcai), pp. 164–170, [26.0%
+acceptance rate].
+[c14] mithun chakraborty, sanmay das. trading on a rigged game: outcome manipulation in
+prediction markets. proc. of 25th international joint conference on artificial intelligence
+(ijcai), pp. 158–164, [< 25% acceptance rate].
+[c15] mithun chakraborty, sanmay das. market scoring rules act as opinion pools for risk-
+averse agents. advances in neural information processing systems (neurips), pp. 2350–
+2358, . selected for spotlight presentation [16.6% of accepted papers; 3.6% of
+submissions].
+[c16] mithun chakraborty, sanmay das, justin peabody. price evolution in a continuous double
+auction prediction market with a scoring-rule based market maker. proc. of 29th aaai
+conference on artificial intelligence (aaai), pp. 835–841, [26.7% acceptance rate].
+[c17] mithun chakraborty, sanmay das, allen lavoie, malik magdon-ismail, yonatan naamad.
+instructor rating markets. proc. of 27th aaai conference on artificial intelligence (aaai),
+pp. 159–165, [29% acceptance rate].
+[c18] aseem brahma, mithun chakraborty, sanmay das, allen lavoie, malik magdon-ismail. a
+bayesian market maker. proc. of 13th acm conference on electronic commerce (ec), pp.
+215–232, [33.3% acceptance rate].
+[c19] mithun chakraborty, sanmay das, malik magdon-ismail. near-optimal target learning
+with stochastic binary signals. proc. of 27th conference on uncertainty in artificial
+intelligence (uai), pp. 69–76, [33.7% acceptance rate].
+non-archival workshop and conference papers and presentations
+[n1] noah lincke, mithun chakraborty, sindhu kutty. a comparative study of elicitation
+granularity in prediction markets under trader misinformation.
+• 5th games, agents, and incentives workshop (gaiw), .
+• 3rd international workshop on modelling uncertainty in the financial world
+(mufin'23), .
+[n2] zun li, feiran jia, aditya mate, shahin jabbari, mithun chakraborty, milind tambe,
+yevgeniy vorobeychik. solving structured hierarchical games using differential backward
+induction.
+• iclr workshop on gamification and multiagent solutions, .
+[n3] blake martin, mithun chakraborty, sindhu kutty. timing is money: the impact of arrival
+order in beta-bernoulli prediction markets.
+• neurips workshops on learning in presence of strategic behavior, and learning and
+decision-making with strategic feedback, (jointly accepted).
+• preliminary version presented as student poster at 8th international workshop on
+computational social choice (comsoc), .
+[n4] feiran jia, aditya mate, zun li, shahin jabbari, mithun chakraborty, milind tambe,
+michael wellman, yevgeniy vorobeychik. a game-theoretic approach for hierarchical
+policy-making.
+• 2nd international workshop on autonomous agents for social good (aasg), .
+[n5] mithun chakraborty, ulrike schmidt-kraepelin, warut suksompong. picking sequences
+and monotonicity in weighted fair division.
+• 3rd games, agents, and incentives workshop (gaiw), .
+[n6] mithun chakraborty, ayumi igarashi, warut suksompong, yair zick. weighted envy-
+freeness in the allocation of indivisible goods.
+• 2nd games, agents, and incentives workshop .
+[n7] nawal benabbou, mithun chakraborty, ayumi igarashi, yair zick. finding fair and
+efficient allocations when valuations don’t add up.
+• ai for social good, harvard crcs workshop, .
+• 2nd games, agents, and incentives workshop .
+[n8] nawal benabbou, mithun chakraborty, edith elkind, yair zick. fairness towards groups of
+agents in the allocation of indivisible items.
+• 21st annual conference of the french society for operational research and decision
+support (roadef), , under the title partage équitable de ressources a ́des
+groupes d’agents. abstract only.
+• aamas workshop on fair allocation in multiagent systems (famas), .
+[n9] nawal benabbou, mithun chakraborty, xuan-vinh ho, jakub sliwinski, yair zick. the
+assignment problem with diversity constraints with an application to ethnic integration in
+public housing.
+• 20th annual conference of the french society for operational research and decision
+aiding (roadef), , under the title un problème d’affectation avec des
+contraintes de diversite :́ complexite ́et prix de la diversite .́ abstract only.
+• 7th international workshop on computational social choice (comsoc), .
+[n10] mithun chakraborty, kai yee phoebe chua, sanmay das, brendan juba. coordinated
+versus decentralized exploration in multi-agent multi-armed bandits.
+• 8th international workshop on cooperative games and multiagent systems
+(coopmas) at aamas, .
+• 2nd workshop on learning, inference and control of multi-agent systems (malic) at
+neurips, .
+[n11] mithun chakraborty, sanmay das. on manipulation in prediction markets when
+participants influence outcomes directly.
+• 4th workshop on social computing and user generated content (scugc) at ec, .
+• collective intelligence conference (ci), . abstract only.
+[n12] mithun chakraborty, sanmay das, allen lavoie, malik magdon-ismail, yonatan naamad.
+instructor rating markets.
+• 1st workshop on social computing and user generated content (scugc) at ec, .
+• 2nd conference on auctions, market mechanisms, and their applications (amma),
+. abstract only.
+professional service
+local organizing committee co-chair: aamas (detroit, mi, usa)
+senior programming committee member: ijcai ( )
+programming committee board member: ijcai ( - )
+programming committee member: aaai ( , , , , , , ); ijcai
+( , ); ijcai-pricai ( ); ijcai-ecai ( ); aamas ( , , , , );
+aies ( , ); ec ( , ); dai ( , ); gaiw ( , ); famas ( );
+coopmas ( )
+journal reviewer: siam journal of computing ( ); management science ( , );
+information processing letters ( ); artificial intelligence journal ( , , );
+autonomous agents and multi-agent systems ( , ); journal of artificial intelligence
+research ( ); frontiers of computer science, springer ( )
+conference reviewing / sub-reviewing: uai ( ); gaiw ( ); eaamo ( ); soda
+( ); ec ( , ); acc ( , ); wine ( , ); aies ( ); aamas ( );
+netecon ( ); ecai ( )
+research proposal reviewer: israel science foundation ( )
+teaching
+instructor: eecs 592 foundations of ai, umich fall ,
+winter ,
+winter
+guest lecturer:
+– eecs 592 foundations of ai, umich fall
+– eecs 498-006/007 machine learning research experience, umich fall
+co-instructor: cs4261/cs5461 algorithmic mechanism design, nus semester 1, /
+instructor: cse 316a social network analysis, wustl fall
+teaching assistant:
+– cse 516a multi-agent systems (instructor: sanmay das), wustl spring
+– csci 2500 computer organization (instructor: chris carothers), rpi fall
+dissertation committee membership
+o christine konicki, cse, university of michigan
+o cristian-paul bara, cse, university of michigan
+research mentorship and evaluation
+• undergraduate students mentored/co-mentored
+o blake martin (jointly with sindhu kutty)
+eecs 499 (directed study): learning generative models with prediction markets
+(winter )
+o noah lincke (jointly with sindhu kutty)
+sure cse project #10: does wealth matter? learning generative models with
+prediction markets (summer )
+eecs 499 (directed study): multi-agent simulations of beta-bernoulli prediction
+markets (fall ; winter, summer )
+o hui zhi (jointly with sindhu kutty)
+eecs 499 (directed study): a comparative study on prediction market design (fall
+)
+o dhanya narayanan (jointly with sindhu kutty)
+urop + explorecsr: a probabilistic approach to market design for collective
+forecasting (fall ; winter )
+o jasmine tan (jointly with michael wellman)
+project: extending financial market simulator marketsim to aid the study of
+pathology propagation on a market network (summer, fall )
+o james edwards (jointly with sindhu kutty)
+eecs 499 (directed study): studying gaussian prediction markets with budget-
+limited traders (winter )
+bs in data science thesis (high honors): the simulation and analysis of gaussian
+prediction market (fall )
+o cohort: alex jian, zhaoyuan liang, xuteng luo, bohan shu, norman wen, yolanda
+zhou (jointly with michael wellman)
+project: python reimplementation of financial market simulator marketsim (winter
+– fall )
+o riya chakravarty (jointly with sindhu kutty)
+explorecsr + eecs 399 (directed study): cost function prediction markets (winter
+)
+eecs 499 (directed study): decentralized exchange systems: uniswap (fall )
+o rishith seelam (jointly with michael wellman)
+sure cse project #27: replication experiments on market inefficiencies under
+diverse trading activities using agent-based financial market simulator pymarketsim
+(summer )
+o nicholas schumacher (jointly with sindhu kutty)
+eecs 399 + 499 (directed study): research on the financial and information
+aggregation properties of prediction markets (fall , winter )
+o satyam goyal
+project: evaluating llms as arbiters in the fair allocation of indivisible items to
+agents with subjective valuations (winter )
+• master’s students supervised
+o arshdeep singh (jointly with michael wellman)
+project: an agent-based model of pathology propagation, detection, and mitigation
+in a financial market network (fall – winter )
+o tingfu zhou
+master of data science capstone project: emochecker: an efficient and cost-
+friendly affective judgment prompting method for multimodal llms (fall )
+• faculty grader for the cohort of the multidisciplinary design program (mdp), college
+of engineering, university of michigan

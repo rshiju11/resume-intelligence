@@ -1,12 +1,10 @@
-from src.preprocessing.clean_text import clean_text
-from src.extraction.extract_text import extract_pdf_text
 from src.embeddings.chunk_embed import get_resume_embedding
 
-pdf_path="data/raw/Abhishek Gupta.pdf"
+file_path="data/extracted_text/Abhishek Gupta.txt"
 
-text = extract_pdf_text(pdf_path)
-cleaned = clean_text(text)
+with open(file_path, "r", encoding="utf-8") as f:
+    text = f.read()
 
-embedding = get_resume_embedding(cleaned)
+embedding = get_resume_embedding(text)
 
 print("Embedding shape:", embedding.shape)

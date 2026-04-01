@@ -1,0 +1,1075 @@
+- roberto correa myers
+department of materials science and engineering, phone: (
+the ohio state university email:
+columbus, oh 43210 web: u.osu.edu/myersgroup
+education
+ph.d. materials, university of california, santa barbara, ca
+b.s.e. materials science and engineering, university of pennsylvania, philadelphia, pa
+b.a. philosophy and science, university of pennsylvania, philadelphia, pa
+awards
+harrison faculty award, ohio state university
+lumley interdisciplinary research award, ohio state university
+lumley research award, ohio state university
+award, ohio state university
+national science foundation: career award
+newcomb cleveland prize. american association for the advancement of science (aaas)
+senior design award, materials science and engineering, university of pennsylvania
+e. ward plummer award, nsf-reu, university of pennsylvania
+professional appointments
+-present professor: materials science and engineering (80%), electrical and computer
+engineering (20%), and physics (by courtesy), the ohio state university
+- associate professor: materials science and engineering (80%), electrical and computer
+engineering (20%), and physics (by courtesy), the ohio state university
+summer visiting professor: basel center for quantum computing and quantum
+coherence, university of basel, switzerland
+- assistant professor: materials science and engineering (80%), electrical and computer
+engineering (20%), and physics (by courtesy), the ohio state university
+- postdoctoral fellow: california nanosystems institute,
+university of california, santa barbara, advisor: prof. david awschalom (physics).
+- technical coordinator of the center for nanoscience innovation for defense (cnid)
+program sponsored by darpa at the university of california, santa barbara.
+- graduate research assistant: materials and physics dept., university of california, santa
+barbara, advisors: profs. art gossard and david awschalom
+teaching assistant: materials dept., university of california, santa barbara
+- undergraduate research assistant: materials science and engineering dept.,
+university of pennsylvania, advisor: prof. i-w chen
+grader: materials science and engineering dept., university of pennsylvania
+nsf-reu: materials science and engineering dept., university of pennsylvania
+intern: materials science and engineering dept., university of pennsylvania
+nsf-reu: johns hopkins university, physics dept, advisor: prof. c-l. chien.
+intern: materials science and engineering dept., university of pennsylvania
+memberships: aps, ieee magnetics, spie, asm, avs
+publications
+journal articles and book chapters
+1. “efficiency limits in coalesced algan nanowire ultraviolet leds,” b. j. may, e. c. hettiaratchy, b.
+wang, c. m. selcu, b. d. esser, d. w. mccomb & r. c. myers. phys. status solidi rapid res. lett.
+( ).
+2. “low voltage drop algan uv-a laser structures with transparent tunnel junctions and optimized
+quantum wells,” a. ghosh, a. m. d. m. xavier, s. m. n. hasan, s. i. rahman, a. blackston, a.
+allerman, r. c. myers, s. rajan & s. arafin. j. phys. d: appl. phys. 57, )
+3. “multi-active region algan uv leds with transparent tunnel junctions,” a. m. d. m. xavier, a.
+ghosh, s. i. rahman, a. allerman, d. verma, r. c. myers, s. arafin & s. rajan. appl. phys.
+express 16, )
+4. “anisotropic excitonic photocurrent in β-ga₂o₃,” d. verma, m. m. r. adnan, s. dhara, c. sturm, s.
+rajan & r. c. myers. phys. rev. mater. 7, l )
+5. “is the beer-lambert law in β-ga₂o₃ applicable? spectral and polarization dependent absorption and
+photoresponsivity,” m. m. r. adnan, d. verma, c. sturm & r. c. myers. (arxiv: )
+6. “agscp₂s₆ van der waals layered crystal: a material with a unique combination of extreme
+nonlinear optical properties,” a. mushtaq, m. y. noor, r. siebenaller, e. deangelis, a. fisher, l.
+clink, j. twardowski, g. k. salman, r. c. myers, e. rowe, b. s. conner, m. a. susner & e.
+chowdhury. j. phys. chem. lett. 14, 3527– )
+7. “dislocations as natural quantum wires in diamond”, s. p. genlik, r. c. myers, & m. ghazisaeidi,
+phys. rev. materials 7, )
+8. “ultrafast nonlinear absorption and second harmonic generation in cu₀.₃₃in₁.₃₀p₂s₆ van der waals
+layered crystals,” a. mushtaq, l. clink, m. y. noor, c. kuz, e. deangelis, r. siebenaller, a.
+fisher, d. verma, r. c. myers, b. s. conner, m. a. susner & e. chowdhury. j. phys. chem. lett.
+10513– )
+9. “quantitative x-ray diffraction analysis of strain and interdiffusion in β-ga o superlattices of µ-
+2 3
+fe o and β-(al ga ) o ”, e. c. hettiaratchy, b. wang, a. dheenan, j. mcglone, n. k. kalarickal,
+2 3 x 1-x 2 3
+n. bagués, s. ringel, d. w. mccomb, s. rajan & r. c. myers. j. vac. sci.technol. a 40, 062708
+( )
+10. “selectively patterned mg-doped gan by sin -driven hydrogen injection,” h.-s. lee, m. w.
+x
+rahman, d. verma, v. m. poole, r. c. myers, m. d. mccluskey & s. rajan. j.vac. sci. technol. b
+40, )
+11. “spectral measurement of the breakdown limit of β-ga o and tunnel ionization of self-trapped
+2 3
+excitons and holes”, md m. adnan, d. verma, z. xia, n. k. kalarickal, s. rajan, r. c. myers,
+phys. rev. applied 16, )
+12. "interface-induced ferromagnetism in µ-fe o /β-ga o superlattices", elline c. hettiaratchy, john s.
+2 3 2 3
+jamison, binbin wang, núria bagués, rachel a. guest, david w. mccomb, roberto c. myers, j.
+vac. sci. technol. a ( )
+13. "deep-recessed β-ga o delta-doped field effect transistors with in situ epitaxial passivation",
+2 3
+chandan joishi, zhanbo xia, john s jamison, shahadat h sohel, roberto c myers, saurabh lodha,
+siddharth rajan, ieee trans. electron devices 67, )
+14. "molecular beam epitaxy of gan on 2h–mos ," c. h. lee, y. zhang, j. m. johnson, r. koltun, v.
+2
+gambin, j. s. jamison, r. c. myers, j. hwang, & s. rajan, appl. phys. lett., 117, )
+15. "local electric field measurement in gan diodes by exciton franz-keldysh photocurrent
+spectroscopy", darpan verma, md mohsinur rahman adnan, mohammad wahidur rahman,
+siddharth rajan, and roberto c. myers, appl. phys. lett. 116, )
+16. "long lifetime of thermally-excited magnons in bulk yttrium iron garnet", john s. jamison, zihao
+yang, brandon l. giles, jack t. brangham, guanzhong wu, p. chris hammel, fengyuan yang, and
+roberto c. myers, phys. rev. b 100, )
+17. “ferromagnetic epitaxial -fe o on β-ga o : a new monoclinic form of fe o ”, john s. jamison,
+brelon j. may, julia i. deitz, szu-chia chien, david w. mccomb, tyler j. grassman, wolfgang
+windl, and roberto c. myers, cryst. grow. des. ( )
+18. “excimer-mediated intermolecular charge transfer in self-assembled donor–acceptor dyes on
+metal oxides”, yongze yu, szu-chia chien, jiaonan sun, elline c hettiaratchy, roberto c myers,
+li-chiang lin, and yiying wu, j. am. chem. soc. 141, )
+19. “enhanced uniformity of iii-nitride nanowire arrays on bulk metallic glass and nanocrystalline
+substrates”, brelon j. may, elline c. hettiaratchy, camelia selcu, binbin wang, bryan d. esser,
+david w. mccomb, and roberto c. myers, j. vac. sci. technol. b 37, )
+20. “controlled nucleation of monolayer mose2 islands on si (111) by mbe”, brelon j. may, elline c.
+hettiaratchy, roberto c. myers, j. vac. sci. technol. b 37, )
+21. “nonlocal spin transport mediated by a vortex liquid in superconductors”, se kwon kim, roberto
+myers, and yaroslav tserkovnyak, phys. rev. lett. 121, )
+22. “nano-cathodoluminescence measurement of asymmetric carrier trapping and radiative
+recombination in gan and ingan quantum disks”, julia i. deitz, a.t.m. g. sarwar, santino d.
+carnevale, tyler j. grassman, roberto c. myers, and david w. mccomb, microscopy
+and microanalysis 24, 93 ( )
+23. “nanoscale electronic conditioning for improvement of nanowire light emitting diode
+efficiency”, brelon j may, matthew r belz, arshad ahamed, a.t.m. golam sarwar, camelia m
+selcu, and roberto c myers, acs nano 12, )
+24. “nanoscale current uniformity and injection efficiency of nanowire light emitting diodes,” brelon j.
+may, camelia m. selcu, a.t.m. g. sarwar, and roberto c. myers, appl. phys. lett. 112, 093107
+( )
+25. “hexagonal nanopyramidal prisms of nearly intrinsic inn on patterned gan nanowire arrays,”
+a.t.m. golam sarwar, benjamin leung, george t wang & roberto c myers, cryst. grow. des.
+( )
+26. “simultaneous molecular beam epitaxy growth at multiple uniform substrate temperatures”, brelon j.
+may and roberto c. myers, j. vac. sci. technol. b 36, )
+27. "thermally driven long range magnon spin currents in yttrium iron garnet due to intrinsic spin
+seebeck effect", brandon l. giles, zihao yang, john jamison, juan m. gomez-perez, saül vélez,
+luis e. hueso, fèlix casanova, and roberto c. myers, phys. rev. b 96, 180412(r) ( )
+28. “scalable nernst thermoelectric power using a coiled galfenol wire”, zihao yang, emilio a.
+codecido, jason marquez, yuanhua zheng, joseph p. heremans, and roberto c. myers, aip
+advances 7, )
+29. “molecular beam epitaxy of 2d-layered gallium selenide on gan substrates”, choong hee
+lee, sriram krishnamoorthy, dante j. o'hara, mark r. brenner, jared m. johnson, john s.
+jamison, roberto c. myers, roland k. kawakami, jinwoo hwang, and siddharth rajan, j. appl.
+phys. 121, )
+30. “three-dimensional lattice matching of epitaxially embedded nanoparticles”, brelon j. may, peter m.
+anderson, and roberto c. myers, j. crys. gro. 459, )
+31. “nanowire leds grown directly on flexible metal foil”, brelon j. may, atm golam sarwar, and
+roberto c. myers, appl. phys. lett. 108, )
+32. “self-assembled inn micro-mushrooms by upside-down pendeoepitaxy”, a.t.m. golam sarwar,
+fan yang, bryan d. esser, thomas f. kent, david w. mccomb, and roberto c. myers, j. crys. gro.
+443, )
+33. “ultrathin gan quantum disk nanowire leds with sub-250 nm electroluminescence”, atm golam
+sarwar, brelon may, matthew f. chisholm, gerd duscher, and roberto c. myers, nanoscale 8,
+)
+34. “effect of quantum well shape and width on deep ultraviolet emission in algan nanowire leds”,
+a.t.m. golam sarwar, brelon j. may, and roberto c. myers, phys. stat. sol. a ( )
+35. “long range pure magnon spin diffusion observed in a non-local spin-seebeck geometry”, brandon
+l. giles, zihao yang, john jamison, roberto c. myers, phys. rev. b 92, )
+36. “anisotropic defect-induced ferromagnetism and transport in gd-doped gan two-dimensional
+electron gasses”, zihao yang, thomas f kent, jing yang, hyungyu jin, joseph p heremans, and
+roberto c. myers, phys. rev. b 92, )
+37. “tunnel junction enhanced nanowire ultraviolet light emitting diodes”, a. t. m. golam
+sarwar, brelon j. may, julia i. deitz, tyler j. grassman, david w. mccomb, and roberto c. myers,
+appl. phys. lett. 107, )
+38. “the effect of the magnon dispersion on the longitudinal spin seebeck effect in yttrium iron garnets
+(yig)”, hyungyu jin, stephen r. boona, zihao yang, roberto c. myers, joseph p. heremans, phys.
+rev. b 92, )
+39. “semiconductor nanowire light emitting diodes grown on metal: a direction towards large scale
+fabrication of nanowire devices”, atm golam sarwar, santino d. carnevale, fan yang, thomas f.
+kent, john j. jamison, david w. mccomb, and roberto c. myers, small 11, 5402– )
+40. “molecular beam epitaxy of inn nanowires on si”, atm golam sarwar, santino d. carnevale,
+thomas f. kent, masihhur r. laskar, brelon j. may, and roberto c. myers, j. crys. gro. 428, 59-70
+( )
+41. “moving spins with heat: prospects for thermally powered spintronics”, roberto c. myers, brandon
+giles, zihao yang, and john jamison, ieee drc proc. )
+42. “tunnel junction integrated ultraviolet nanowire leds”, atm g. sarwar, b. j. may, r. c. myers,
+ieee drc proc. )
+43. “electronic structure and photocatalytic water oxidation activity of rtino (r = ce, pr and nd)
+2
+perovskite nitride oxides”, spencer porter, zhenguo huang, shi xue dou, samantha brown-xu,
+a.t.m. golam sarwar, roberto c. myers, and patrick woodward, chemistry of materials 27, 2414-
+)
+44. “phonon-induced diamagnetic force and its effect on the lattice thermal conductivity”, hyungyu jin,
+oscar d. restrepo, nikolas antolin, stephen r. boona, wolfgang windl, roberto c. myers, joseph
+p. heremans, nature materials 14, )
+45. “tuning the polarization-induced free hole density in nanowires graded from gan to aln”, a. t. m.
+golam sarwar, santino d. carnevale, thomas f. kent, fan yang, david w. mccomb, roberto c.
+myers, appl. phys. lett. 106, )
+46. “optical control of internal electric fields in band-gap graded ingan nanowires”, nadine erhard ,
+a.t.m. golam sarwar, fan yang , david w. mccomb , roberto c myers , and alexander w.
+holleitner, nano letters 15, 332 ( )
+47. “deep ultraviolet emitting polarization induced nanowire light emitting diodes with al ga n
+x 1-x
+active regions”, thomas f. kent, santino d. carnevale, a. t. m sarwar, patrick j. phillips, robert
+f. klie, roberto c. myers, nanotechnology 25, )
+48. “compositionally graded iii-nitride nanowire heterostructures: growth, characterization, and
+applications,” santino d. carnevale and roberto c. myers, chapter 3 of the handbook of
+nanomaterials properties, springer berlin heidelberg, pp )
+49. “catalyst-free zno nanowires on silicon by pulsed laser deposition with tunable density and aspect
+ratio,” m. a. susner, s. d. carnevale, t. f. kent, l. m. gerber, p. j. phillips, m. d. sumption, and r.
+c. myers, physica e 62, )
+50. “p-type doping of mos thin films using nb,” m. r. laskar, d. n. nath, lu ma, e. w. lee ii, c. h.
+2
+lee, t. kent, z. yang, r. mishra, m. a. roldan, j. c. idrobo, s. t. pantelides, s. j. pennycook, r. c.
+myers, y. wu and s. rajan.. appl. phys. lett. 104, )
+51. “spin caloritronics,” stephen r. boona, roberto c. myers, and joseph p. heremans, energy and
+environmental science 7, )
+52. “spin-seebeck like signal in ferromagnetic bulk metallic glass without platinum contacts,” hyungyu
+jin, zihao yang, roberto c. myers, and joseph p. heremans, solid state communications 198, 40-
+44 ( )
+53. “single nanowire aln/gan double barrier resonant tunneling diodes with bipolar tunneling at room
+and cryogenic temperatures,” ye shao, santino d carnevale, a. t. m. g. sarwar, roberto c. myers,
+and wu lu, j. vac. sci. technol. b 31, 06fa03 ( ).
+54. “semipolar inn/aln multiple quantum wells on {10-15} faceted aln on silicon,” j. yang, f. yang,
+t. f. kent, m. j. mills, and r. c. myers, appl. phys. lett. 103, )
+55. “mixed polarity in polarization-induced pn junction nanowire light emitting diodes,” santino d.
+carnevale, thomas f. kent, patrick j. phillips, a. t. m. g. sarwar, camelia selcu, robert f. klie,
+and roberto c. myers, nano letters 13, )
+56. “ferromagnetism and infrared electrodynamics of gamnas,” b. c. chapler, s. mack, r. c. myers, a.
+frenzel, b. c. pursley, k. s. burch, a. m. dattelbaum, n. samarth, d. d. awschalom, and d. n.
+basov, phys. rev. b 87, )
+57. “atomically sharp 318 nm gd:algan ultraviolet light emitting diodes on si with low threshold
+voltage,” thomas f. kent, santino d. carnevale, and roberto c. myers, appl. phys. lett. 102,
+)
+58. “full-scale characterization of uvled algan nanowires via advanced electron microscopy,”
+patrick j. phillips, santino d. carnevale, rajan kumar, roberto c. myers, and robert f. klie, acs
+nano 7, )
+59. “gdn nanoisland-based gan tunnel junctions,” sriram krishnamoorthy, thomas kent, jing yang,
+pil sung park, roberto c. myers, and siddharth rajan, nano letters 13, )
+60. “molecular beam epitaxy of graded-composition ingan nanowires,” m. r. laskar, s. d. carnevale,
+a. t. m. g. sarwar, p. j. phillips, m. j. mills, and r. c. myers, j. elec. mater. 42, )
+61. “graded nanowire ultraviolet leds by polarization engineering,” santino d. carnevale, thomas f.
+kent, patrick j. phillips, a.t.n. golam sarwar, robert f. klie, siddharth rajan, and roberto c.
+myers, proceedings of spie 8467, 84670l-1 ( )
+62. “exploiting piezoelectric charge for high performance graded ingan nanowire solar cells,” a. t. m.
+golam sarwar and r. c. myers, appl. phys. lett. 101, )
+63. “giant spin-seebeck effect in a non-magnetic material,” c. m. jaworski, r.c. myers, e. johnston-
+halperin, and j .p. heremans, nature 487, )
+64. “epitaxial ferromagnetic nanoislands of cubic gdn in hexagonal gan,” t. f. kent, j. yang, l.
+yang, m. j. mills, and r. c. myers, appl. phys. lett. 100, )
+65. “coaxial nanowire resonant tunneling diodes from non-polar aln/gan on silicon,” s. d.
+carnevale, c. marginean, p. j. phillips, t. f. kent, a. t. m. g. sarwar, m. j. mills, and r. c.
+myers,appl. phys. lett. 100, )
+66. “record low tunnel junction specific resistivity (<3x10-4 wcm2) in gan inter-band tunnel junctions,”
+sriram krishnamoorthy, fatih akyol, jing yang, pil sung park, roberto c. myers, and siddharth
+rajan, ieee drc proc. )
+67. “viewpoint: spin-heat vision,” roberto myers and joseph heremans, physics 5, 29 ( )
+68. “polarization-induced pn-diodes in wide band gap nanowires with ultraviolet electroluminescence,” s.
+d. carnevale, t. f. kent, p. j. phillips, m. j. mills, s. rajan, and r. c. myers, nano letters 12, 915
+( )
+69. “deep traps in nonpolar m-plane gan grown by ammonia-based molecular beam epitaxy,” z. zhang,
+c. a. hurni, a. r. arehart, j. yang, r. c. myers, j. s. speck, and s. a. ringel, appl. phys. lett. 100,
+)
+70. “infrared probe of the insulator-to-metal transition in ga mn as and ga be as,” b. c. chapler, r.
+1-x x 1-x x
+c. myers, s. mack, a. frenzel, b. c. pursley, k. s. burch, e. j. singley, a. m. dattelbaum, n.
+samarth, d. d. awschalom, and d. n. basov, phys. rev. b 84, 081203(r) ( )
+71. “spin-seebeck effect: a phonon driven spin distribution,” c. m. jaworski, j. yang, s. mack, d. d.
+awschalom, r. c. myers, and j. p. heremans, phys. rev. lett. 106, )
+72. “three-dimensional gan/aln nanowire heterostructures by separating nucleation and growth
+processes,” s. d. carnevale, j. yang, p. j. phillips, m. j. mills and r. c. myers, nano letters 11,
+)
+73. “a gadolinium doped superlattice gan schottky diode for neutron detection,” jinghui wang,
+praneeth kandlakunta, thomas f. kent, john carlin, daniel r. hoy, roberto c. myers, and lei cao,
+transactions of the american nuclear society 104, ).
+74. “observation of the spin-seebeck effect in a ferromagnetic semiconductor,” c. m. jaworski, j.
+yang, s. mack, d. d. awschalom, j. p. heremans and r. c. myers, nature materials 9, 898–903
+( )
+75. “interlayer and interfacial exchange coupling in ferromagnetic metal/semiconductor
+heterostructures,” m. j. wilson, m. zhu, r. c. myers, d. d. awschalom, p. schiffer, and n.
+samarth, phys. rev. b 81, )
+76. “polarized emission from twin microdisk photonic molecules,” x. li, r. c. myers, f. m. mendoza, d.
+d. awschalom, and n. samarth, ieee j. quant. electron. 45, 932 ( )
+77. “single spin coherence in semiconductors,” m. h. mikkelsen, r. c. myers, g. d. fuchs, and d. d.
+awschalom, chapter 1 of semiconductors and semimetals volume 82: spintronics, amsterdam, the
+netherlands: elsevier, inc., pp )
+78. “stoichiometric growth of high curie temperature heavily alloyed gamnas," s. mack, r. c. myers, j.
+t. heron, a. c. gossard, and d. d. awschalom, appl. phys. lett. 92, )
+79. “zero-field optical manipulation of magnetic ions in semiconductors,” r. c. myers, m. h. mikkelsen,
+j.-m. tang, a. c. gossard, m. e. flatté, and d. d. awschalom, nature materials, 7, 203 ( )
+80. “spin engineering in quantum well structures,” roberto c. myers and arthur c. gossard, in
+handbook of magnetism and advanced magnetic materials, john wiley & sons ltd, chichester,
+uk, pp )
+81. “enhancement of spin coherence in microdisk lasers,” sayantani ghosh, felix mendoza, roberto
+myers, art c. gossard, david d. awschalom, wei-hua wang, xia li & nitin samarth, in int. conf.
+quantum inf. ( )
+82. “onset of ferromagnetism in low-doped ga mn as,” b. l. sheu, r. c. myers, j.-m. tang, n.
+1-x x
+samarth, d. d. awschalom, p. schiffer, and m. e. flatté, phys. rev. lett. 99, )
+83. “dimensionally constrained d'yakonov-perel' spin relaxation in n-ingaas channels: transition from
+2d to 1d,” a. w. holleitner, v. sih, r. c. myers, a. c. gossard, and d. d. awschalom, new j. phys.
+9, 342 ( )
+84. “confinement engineering of s-d exchange interactions in gamnas/algaas quantum wells,” n. p.
+stern, r. c. myers, m. poggio, a. c. gossard, and d. d. awschalom, phys. rev. b 75, 045329
+( )
+85. “nuclear and ion spins in semiconductor nanostructures,” m. poggio, r. c. myers, g. m. steeves, n.
+p. stern, a. c. gossard and d. d. awschalom, physica e 35, 264 ( )
+86. “antisite effect on hole-mediated ferromagnetism in (ga,mn)as,” r. c. myers, b. l. sheu, a. w.
+jackson, a. c. gossard, p. schiffer, n. samarth, and d. d. awschalom, phys. rev. b 74, 155203
+( )
+87. “room temperature electron spin coherence in telecom-wavelength quaternary quantum wells,” w. h.
+lau, v. sih, n. p. stern, r. c. myers, d. a. buell, a. c. gossard, and d. d. awschalom, appl. phys.
+lett. 89, )
+88. “generating spin currents in semiconductors with the spin hall effect,” v. sih, w. h. lau, r. c.
+myers, v. r. horowitz, a. c. gossard, and d. d. awschalom, phys. rev. lett. 97, )
+89. “suppression of spin relaxation in submicron ingaas wires,” a. w. holleitner, v. sih, r. c. myers,
+a. c. gossard, and d. d. awschalom, phys. rev. lett. 97, )
+90. “spatial imaging and mechanical control of spin coherence in strained gaas epilayers,” h. knotz, a.
+w. holleitner, j. stephens, r. c. myers, and d. d. awschalom, appl. phys. lett. 88, )
+91. “tunneling through mnas particles at a gaas p+n+ junction,” f. l. bloom, a. c. young, r. c. myers,
+e. r. brown, a. c. gossard, and e. g. gwinn, j. vac. sci. technol. b 24, )
+92. “enhancement of spin coherence using q-factor engineering in semiconductor microdisk lasers,” s.
+ghosh, w. h. wang, f. m. mendoza, r. c. myers, x. li, n. samarth, a. c. gossard, and d. d.
+awschalom, nature materials, 5, 267 ( )
+93. “structural, electrical, and magneto-optical characterization of paramagnetic gamnas quantum
+wells,” m. poggio, r. c. myers, n. p. stern, a. c. gossard, and d. d. awschalom, phys. rev. b 72,
+)
+94. “spatial imaging of the spin hall effect and current-induced polarization in two-dimensional electron
+gases,” v. sih, r. c. myers, y. k. kato, w. h. lau, a. c. gossard, and d. d. awschalom, nature
+physics 1, 31 ( )
+95. “optoelectronic control of spin dynamics at near-terahertz frequencies in magnetically doped
+quantum wells,” r. c. myers. k. c. ku, x. li, n. samarth, and d. d. awschalom, phys. rev. b 72,
+041302(r) ( )
+96. “local manipulation of nuclear spin in a semiconductor quantum well,” m. poggio, g. m. steeves, r.
+c. myers, y. kato, a. c. gossard & d. d. awschalom, in iqec, int. quantum electron. conf. proc.
+( )
+97. “electrical initialization and manipulation of electron spins in an l-shaped strained n-ingaas
+channel,” y. k. kato, r. c. myers, a. c. gossard, and d. d. awschalom, appl. phys. lett. 87,
+)
+98. “antiferromagnetic s-d exchange coupling in gamnas,” r. c. myers, m. poggio, n. p. stern, a. c.
+gossard, and d. d. awschalom, phys. rev. lett. 95, 017204; 229902(e) ( )
+99. “manipulating a domain wall in (ga,mn)as,” a. w. holleitner, h. knotz, r. c. myers, a. c.
+gossard, and d. d. awschalom, j. appl. phys. 97, 10d314 ( )
+100. “electron spin interferometry using a semiconducting ring structure,” y. k. kato, r. c. myers, a.
+c. gossard, and d. d. awschalom, appl. phys. lett. 86, )
+101. “observation of the spin hall effect in semiconductors,” y. k. kato, r. c. myers, a. c. gossard,
+and d. d. awschalom, science 306, )
+102. “pinning a domain wall in (ga,mn)as with focused ion beam lithography,” a. w. holleitner, h.
+knotz, r. c. myers, a. c. gossard, and d. d. awschalom, appl. phys. lett. 85, )
+103. “control of electron-spin coherence using landau level quantization in a two-dimensional
+electron gas,” v. sih, w. h. lau, r. c. myers, a. c. gossard, m. e. flatté, and d. d. awschalom,
+phys. rev. b 70, 11313(r) ( )
+104. “current-induced spin polarization in strained semiconductors,” y. k. kato, r. c. myers, a. c.
+gossard, and d. d. awschalom, phys. rev. lett. 93, )
+105. “spin transfer and coherence in coupled quantum wells,” m. poggio, g. m. steeves, r. c. myers,
+n. p. stern, a. c. gossard, and d. d. awschalom, phys. rev. b 70, 121305(r) ( )
+106. “tunable spin polarization in iii-v quantum wells with a ferromagnetic barrier,” r. c. myers, a.
+c. gossard, and d. d. awschalom, phys. rev. b 69, 161305(r) ( )
+107. “coherent spin manipulation without magnetic fields in strained semiconductors,” y.
+kato, r. c. myers, a. c. gossard, and d. d. awschalom, nature 427, 50 ( )
+108. “independent electronic and magnetic doping in (ga, mn)as based digital ferromagnetic
+heterostructures,” e. johnston-halperin, j. a. schuller, c. s. gallinat, t. c. kreutz, r. c. myers, r.
+k. kawakami, h. knotz, a. c. gossard, and d. d. awschalom, phys. rev. b 68, )
+109. “local manipulation of nuclear spins in a semiconductor quantum well,” m. poggio, g. m.
+steeves, r. c. myers, y. kato, a. c. gossard, and d. d. awschalom, phys. rev. lett. 91, 207602
+( )
+110. “highly enhanced curie temperature in low-temperature annealed [ga,mn]as epilayers,” k. c.
+ku, s. j. potashnik, r. f. wang, s. h. chun, p. schiffer, n. samarth, m. j. seong, a. mascarenhas, e.
+johnston-halperin, r. c. myers, a. c. gossard, and d. d. awschalom, appl. phys. lett. 82, 2302
+( )
+111. “gigahertz electron spin manipulation using voltage controlled g-tensor modulation,” y. kato,
+r. c. myers, d. c. driscoll, a. c. gossard, j. levy, d. d. awschalom, science 299, )
+112. “gigahertz manipulation of electron spins in semiconductor nanostructures,” y. kato, r.c. myers,
+d.c. driscoll, a.c. gossard, j. levy & d.d. awschalom, in int. symp. compd. semicond ( )
+patents
+1. “methods for forming nanowire photonic devices on a flexible polycrystalline substrate”, roberto c.
+myers, brelon j. may, and a.t.m. golam sarwar. pending: aug 23, (us / 0237941).
+2. “gd doped algan ultraviolet light emitting diodes,” roberto myers and thomas kent, inventors.
+ohio state university. filed: aug 19, . issued: jun 14, (us 9,368,676).
+3. “nanoscale emitters with polarization grading,” roberto myers and siddharth rajan, inventors.
+ohio state unversity. filed: august 25, . issued: october 25, (us 9,478,699).
+conference, workshop, and seminar presentations
+conference, workshop, and seminar presentations
+1. october , condensed matter seminar, physics department, case western reserve university,
+cleveland, ohio, “the exciton franz keldysh effect: spectrally measuring electric fields using the
+electron-hole interaction in wide band gap materials”, r. c. myers (invited seminar).
+2. july , spin dynamics in nanostructures gordon research conference, les diablerets,
+switzerland, “investigation of electric field induced topological magnons in mnpse ”, alexander
+3
+blackston, mohamed nawwar, darpan verma, alexandra fonseca, sarah deng, mohammed karaki,
+yuan-ming lu, wolfgang windl, roberto c. myers (student poster).
+3. may , ohio state materials and manufacturing conference, columbus, oh, “is the beer-
+lambert law in beta gallium oxide applicable? spectral and polarization dependent absorption and
+photoresponsivity”, md mohinur rahman adnan, darpan verma, sushovan dhara, chris sturm,
+roberto myers (student poster, best poster award)
+4. august , 5th us gallium oxide workshop, washington d.c., va, “anisotropic absorption and
+its relationship with beer-lambert law in beta gallium oxide: a photoresponsivity perspective
+(poster)”, md mohinur rahman adnan, darpan verma, sushovan dhara, chris sturm, siddharth
+rajan, roberto myers (student poster)
+5. june , 62nd electronic materials conference, “electric field measurement using franz-keldysh
+photocurrent spectroscopy in gan devices”, darpan verma, md mohinur rahman adnan,
+mohammed wahidur rahman, siddharth rajan, roberto myers (student talk)
+6. june , 62nd electronic materials conference, “bias-dependent exciton stark shift and franz-
+keldysh effect in β-ga o sub-bandgap photoresponse”, md mohsinur rahman adnan, darpan
+2 3
+verma, xia zhanbo, nidhin kurian kalarickal, siddharth rajan, roberto myers (student talk)
+7. june , electronic materials conference, ann arbor, mi, “observation of the franz-keldysh
+effect in β-ga2o3 schottky diode”, darpan verma, nidhin k. kalarickal, siddharth rajan, roberto
+c. myers (student talk)
+8. may , spin caloritronics x, groningen, the netherlands, “temperature dependence of the
+magnon spin lifetime and magnon-phonon coupling in yttrium iron garnet”, roberto c. myers
+(invited).
+9. may , imr materials week, columbus, oh, “photocurrent spectroscopy for determining field
+profiles in β-ga o schottky diode”, d. verma, n. k. kalarickal, s. rajan, roberto c. myers
+2 3
+(student poster)
+10. march , aps march meeting, boston, ma, “electronic homogeneity of nanowire
+heterostructure light emitting diodes (leds)”, camelia m. selcu, brelon j. may, atm g. sarwar,
+roberto c. myers
+11. october , north american molecular beam epitaxy, banff, alberta, canada, “spin-orbit driven
+thermo-electric transport in insb / approaches for band engineered topological heterostructures”,
+roberto c. myers (invited)
+12. october , north american molecular beam epitaxy, banff, alberta, canada, “molecular beam
+epitaxy of iii-nitride nanowires on amorphous and nanocrystalline metals”, brelon j. may, elline
+c. hettiaratchy, roberto c. myers (student talk, best student talk award))
+13. october , north american molecular beam epitaxy, banff, alberta, canada, “controlled
+nucleation of monolayer mose islands on si (111) by mbe”, elline c. hettiaratchy, brelon j. may,
+2
+roberto c. myers (student talk)
+14. june , spin caloritronics ix, columbus, oh, “microwave magnons and the intrinsic
+spin seebeck effect in yttrium iron garnet”, roberto c. myers (invited)
+15. june , electronic materials conference, santa barbara, ca, “ferromagnetic epitaxial
+fe o in β-ga o : a new monoclinic form of fe o ”, brelon j. may, john s. jamison, julia i.
+deitz, david w. mccomb, tyler j. grassman, roberto c. myers (student talk))
+16. june , electronic materials conference, santa barbara, ca, “measuring and improving
+the homogeneity of nanowire leds”, brelon j. may, matthew r. belz, arshad ahamed,
+atm g. sarwar, camelia m. selcu, roberto c. myers (student talk))
+17. may , imr materials week, columbus, oh, “direct epitaxial growth of mose on
+2
+silicon” elline c. hettiaratchy, brelon j. may and roberto c. myers (student poster)
+18. march , march meeting of the american physical society, los angeles, ca, “long
+lifetime of thermally generated non-equilibrium magnons in yig”, john s. jamison,
+zihao yang, brandon l. giles, jack,fengyuan yang, roberto c. myers (student talk)
+19. october , north american molecular beam epitaxy conference, galveston, tx,
+“substrate holder for simultaneous multiple temperature growth”, brelon j. may, roberto
+c. myers (student poster, best student talk award)
+20. october , north american molecular beam epitaxy conference, galveston, tx, “burn-
+in of iii-nitride nanowire light emitting diodes”, brelon j. may, matthew r. belz,
+ahamed arshad, a.t.m. golam sarwar, camelia m. selcu, roberto c. myers (student talk)
+21. june , electronic materials conference, south bend, in “current conditioning of
+nanowire-based optoelectronic devices” brelon j. may, matthew r. belz, ahamed arshad,
+a.t.m. golam sarwar, camelia m. selcu, roberto c. myers (student talk)
+22. june , electronic materials conference, south bend, in, “molecular beam epitaxy of
+mose directly on si”, brelon j. may, roberto c. myers (student talk)
+2
+23. march , march meeting of the american physical society, new orleans, la, “temperature
+dependence of lateral magnon spin diffusion in yttrium iron garnet bulk crystals and films”,
+brandon giles, zihao yang, john jamison, roberto myers (student talk).
+24. march , march meeting of the american physical society, new orleans, la, “finite-element
+modeling of thermal and condensed magnon transport”, roberto myers, zihao yang (talk).
+25. march , march meeting of the american physical society, new orleans, la, “temperature
+dependence of the time-resolved spin-seebeck effect”, john s. jamison, zihao yang, brandon l.
+giles, jack brangham, fengyuan yang, roberto c. myers (student talk).
+26. march , march meeting of the american physical society, new orleans, la, “three-
+dimensional lattice matching of epitaxially embedded nanoparticles”, brelon j.may, peter m.
+anderson, roberto c. myers (student talk).
+27. march , march meeting of the american physical society, new orleans, la, “demonstration of
+scalable nernst voltage in a coiled galfenol wire”, emilio codecido, zihao yang, jason marquez,
+yuanhua zheng, joseph heremans, roberto myers (student talk).
+28. november , solid state electronics and photonics seminar, columbus, oh, “ultraviolet leds
+on metal and 3d lattice matching”, brelon j. may, a.t.m. golam sarwar, jonathon orsborn,
+hamish l. fraser, peter m. anderson, roberto c. myers (student talk)
+29. october , dept. of physics, ball state university, muncie, in, “dopant-less diodes: nanowire
+optoelectronics using polarization charge”, r. c. myers (invited colloquium).
+30. september , north american molecular beam epitaxy, saratoga springs, ny, “ultraviolent
+nanowire leds grown directly on flexible metal foil: a route toward scalable molecular beam
+epitaxy” brelon j. may, a. t. m. golam sarwar, jonathan orsborn, hamish l. fraser, roberto c.
+myers (student talk, best student talk award).
+31. july , spin caloritronics 7, utrecht, the netherlands, “scanning laser measurement of non-local
+magnon spin diffusion in yig – irg3”, r. c. myers (invited).
+32. june , electronic materials conference, newark, de, “integration of ultraviolet nanowire
+leds directly on flexible metal foil – a route toward scalable photonics” brelon j. may, a.t.m.
+golam sarwar, roberto c. myers (student talk).
+33. may , emerging technologies conference, montreal, canada, “nanowire photonics
+integrated on metal for scalable nanomanufacturing”, roberto c. myers (invited).
+34. march , march meeting of the american physical society, baltimore, md, “non-local
+thermal spin injection to study spin diffusion in yttrium iron garnet”, brandon giles, zihao
+yang, john jamison, roberto c. myers (student talk).
+35. march , march meeting of the american physical society, baltimore, md,
+“investigation of the timescale of the spin-seebeck effect in yttrium iron garnet from pico to
+nanoseconds”, john jamison, zihao yang, roberto c. myers (student talk).
+36. march , march meeting of the american physical society, baltimore, md, “time-
+domain measurement of spin-seebeck effect as a function of temperature: interface magnon
+effect”, zihao yang, john jamison, roberto c. myers (student talk).
+37. march , march meeting of the american physical society, baltimore, md, “magnon-
+drag and thermomagnetic transport properties of ca doped yig”, yuanhua zheng, bin he,
+xi chen, jianshi zhou, li shi, roberto myers, joseph heremans (student talk).
+38. december , spin energy materials workshop, sendai, japan, “lateral spin diffusion in
+yttrium iron garnet”, r. c. myers (invited).
+39. november , osu physics department, columbus, oh, “fabrication and simulation of
+waveguides for algan nanowire leds”, emilio a. codecido, atm g. sarwar, brelon j.
+may, and roberto c. myers (student poster).
+40. october , sacnas national conference, washington d.c., “towards uv lasing:
+fabrication and simulation of waveguides for nanowire leds”, emilio a. codecido, atm
+g. sarwar, brelon j. may, and roberto c. myers (student talk).
+41. october , aps bridge conference, miami, fl, “fabrication of a cavity for deep
+ultraviolet edge emitting nanowire leds”, emilio a. codecido, atm g. sarwar, brelon j.
+may, and roberto c. myers (student poster).
+42. october , north american molecular beam epitaxy conference, riviera maya, mexico,
+“three-dimensional lattice matching for epitaxially embedded nanoparticles”. b. j. may,
+p. m. anderson and r c. myers (student poster).
+43. october , north american molecular beam epitaxy conference, riviera maya, mexico, “iii-n
+nanowires on metal foils”. b. j. may, atm sarwar and r c. myers (student poster).
+44. september , workshop on non-linear spin-heat interactions, columbus, oh, “thermally-
+induced long range magnon spin currents in yig”, r. c. myers (invited)
+45. july , ieee photonics society summer topics meeting, nassau, bahamas, “ultraviolet
+nanowire leds on silicon”, r. c. myers (invited).
+46. june , compound semiconductor week, santa barbara, ca, “polarization hole engineering in
+deep-ultraviolet nanowire leds”, atm sarwar, santino carnevale, thomas kent, brelon may, fan
+yang, david mccomb, and roberto myers (student talk).
+47. june , device research conference, columbus, oh, “moving spins with heat: prospects for
+thermally powered spintronics”, r. c. myers (invited).
+48. june , device research conference, columbus, oh, “tunnel junction integrated ultraviolet
+nanowire leds”, atm golam sarwar, brelon may, and roberto c. myers (student talk).
+49. june , electronic materials conference, columbus, oh, “determining the length scale of
+thermally excited magnon spins using a non-local spin-seebeck detection geometry”, brandon l.
+giles, zihao yang, john jamison, roberto c. myers. (student talk)
+50. june , electronic materials conference, columbus, oh, “ultrafast time-correlated
+measurements of the spin seebeck effect in yig,” john s. jamison, brandon l. giles, zihao yang,
+and roberto c. myers (student talk)
+51. june , electronic materials conference, columbus, oh, “inn nanowires on patterned gan
+nanowires”, atm golam sarwar, benjamin leung, george t wang, and roberto c. myers (student
+talk).
+52. june , electronic materials conference, columbus, oh, “fabrication of a cavity for deep
+ultraviolet edge emitting nanowire leds”, emilio a. codecido, atm g. sarwar, brelon j. may,
+and roberto c. myers (student talk).
+53. june , electronic materials conference, columbus, oh, “three-dimensional lattice matching
+for epitaxially embedded nanoparticles”. b. j. may, p. m. anderson and r c. myers (student talk).
+54. may , imr materials week, columbus, oh, “non-local thermal spin detection: mapping the
+magnon diffusion length in yttrium iron garnet”. brandon l. giles, zihao yang, john s. jamison,
+roberto c. myers. (student poster)
+55. may , imr materials week, columbus, oh, “three-dimensional lattice matching for
+epitaxially embedded nanoparticles”. b. j. may, p. m. anderson and r c. myers (student poster,
+best poster award).
+56. may , imr materials week, columbus, oh, “ultrafast time-correlated measurements of the
+spin seebeck effect in yig,” john s. jamison, brandon l. giles, zihao yang, and roberto c. myers
+(student poster)
+57. may , imr materials week, columbus, oh, “magnon, phonon and electron temperature profiles
+in pt/yig bi-layer structure”, zihao yang, brandon l. giles, john s. jamison and roberto c. myers
+(student poster).
+58. may , imr materials week, columbus, oh, “fabrication of a cavity for deep ultraviolet edge
+emitting nanowire leds”, emilio a. codecido, atm g. sarwar, brelon j. may, and roberto c.
+myers (student poster).
+59. march , march meeting of the american physical society, san antonio, tx, “non-local thermal
+spin detection: mapping the magnon spin diffusion length in yig”. brandon l. giles, zihao yang,
+john s. jamison, roberto c. myers. (student talk)
+60. march , march meeting of the american physical society, san antonio, tx, “finite-element
+modeling of thermal gradients during non-local thermal spin injection”, zihao yang, brandon l.
+giles, john s. jamison and roberto c. myers (student talk).
+61. march , march meeting of the american physical society, san antonio, tx “ultrafast time-
+correlated measurements of the spin seebeck effect in yig,” john s. jamison, brandon l. giles,
+zihao yang, and roberto c. myers (student talk)
+62. march , march meeting of the american physical society, san antonio, tx, “subthermal
+magnon driven longitudinal spin seebeck effect in yttrium iron garnet”, hyungyu jin, stephen boona,
+zihao yang, roberto c. myers and joseph p. heremans (student talk).
+63. february , spie photonics west, san francisco, california, “tunnel-junction-enhanced
+ultraviolet nanowire light-emitting diodes integrated on silicon”, a. t. m. g. sarwar, b. j. may, and
+r. c. myers (student talk).
+64. june , electronic materials conference, santa barbara, california, “p-type conductivity in mos2
+by nb doping”, edwin w. lee ii, m. laskar, d. n. nath, l. ma, c. h. lee, t. kent, z. yang, r.
+mishra, m. a. roldan, j.-c. idrobo, s. t. pantelides, s. j. pennycook, r. myers, y. wu, s. rajan
+(student talk)
+65. june , electronic materials conference, santa barbara, california, “tunable deep ultraviolet
+electroluminescence from nanowire light emitting diodes with al ga n active regions”. t. f.
+x 1-x
+kent, s. d. carnevale, a. t. m. g. sarwar, and r. c. myers (student talk).
+66. june , electronic materials conference, santa barbara, california, “engineering the polarization
+hole doping of graded nanowire ultraviolet leds integrated on molybdenum and silicon”. a. t. m.
+g. sarwar, s. d. carnevale, t. f. kent and r. c. myers (student talk).
+67. may , imr materials week, columbus, ohio, “non-local thermal spin injection: mapping the
+magnon diffusion length in yittrium iron garnet”. brandon l. giles, zihao yang, john jamison,
+thomas f. kent, joseph p. heremans, and roberto c. myers (student poster).
+68. may , imr materials week, columbus, ohio, “evidence for a charge accumulation layer at the
+platinum to yttrium iron garnet interface”. zihao yang, a.t.m. golam sarwar, thomas f. kent,
+joseph p. heremans, and roberto c. myers (student poster, best poster award).
+69. may , imr materials week, columbus, ohio, “the role of photocarriers in thermally generated
+spin currents in yittrium iron garnet”. john jamison, brandon giles, zihao yang, roberto c. myers
+(student poster).
+70. may , imr materials week, columbus, ohio, “polarization-induced uv nanowire leds on
+silicon and molybdenum films”. a. t. m. g. sarwar, s. d. carnevale, t. f. kent, f. yang, r. c.
+myers (student poster).
+71. may , imr materials week, columbus, ohio, “tunable deep ultraviolet electroluminescence
+from nanowire light emitting diodes with al ga n active regions”. t. f. kent, s. d. carnevale,
+x 1-x
+a. t. m. g. sarwar, and r. c. myers (student poster).
+72. may , imr materials week, columbus, ohio, “growth kinetics of epitaxially encapsulated cubic
+gdn in hexagonal gan”. brelon j. may, thomas f. kent, matthew bowers, jim r. riley, lincoln j.
+lahoun, michael j. mills, and roberto c. myers (student poster).
+73. march , march meeting of the american physical society, denver, colorado, “ultrafast opto-
+thermal measurements of spin-seebeck effect”, brandon giles, zihao yang, thomas kent, roberto
+myers (student poster).
+74. february , spie photonics west, san francisco, california, “polarization-induced nanowire
+light emitting diodes with deep ultraviolet emission”, t. f. kent, s. d. carnevale, a. t. m. g.
+sarwar, and r. c. myers (student talk).
+75. february , lawrence symposium on epitaxy, scottsdale az, “wide bandgap heterostructures,
+tunnel junctions and nanowires”, r. c. myers (invited).
+76. august , international conference on nitride semiconductors, washington, d.c.,
+“ferromagnetism and magneto-transport in gd-doped aln-gan two-dimensional electron gases”, z.
+yang, t. f. kent, h. jin, j. yang, and r. c. myers (student talk).
+77. august , international conference on nitride semiconductors, washington, d.c., “atomically
+sharp 318nm gd:algan ultraviolet light emitting diodes on si with low threshold voltage”,
+thomas f. kent, santino d. carnevale, and roberto c. myers (student poster).
+78. june , electronic materials conference, notre dame, in, “mixed polarity in polarization-
+induced nanowire light emitting diodes”, s. d. carnevale, t. f. kent, c. selcu, p.j. phillips, a. t.
+m. g. sarwar, r. f. klie, r. c. myers (student talk).
+79. june , electronic materials conference, notre dame, in, “gdxal1-xn nanowire
+electroluminescent devices with atomically sharp 318nm ultraviolet emission and ultralow
+operating voltage”, thomas. f. kent, santino d. carnevale, roberto c. myers (student talk).
+80. june , electronic materials conference, notre dame, in, “ferromagnetism and magneto-
+transport in gd-doped aln-gan two-dimensional electron gases”, zihao yang, thomas f. kent,
+hyungyu jin, jing yang, and roberto c. myers (student talk).
+81. june , electronic materials conference, notre dame, in, “self-assembled hexagonal inn
+micro-mushrooms on si by plasma assisted molecular beam epitaxy”, a. t. m. g. sarwar, t. f.
+kent, s. d. carnevale, and r. c. myers (student talk).
+82. june , electronic materials conference, notre dame, in, “opto-thermal measurements of spin
+seebeck effect in yttrium iron garnet”, b. l. giles, z. yang, t.f. kent, and r. c. myers. (student
+talk)
+83. may , imr materials week, columbus, ohio, “ferromagnetism and magneto-transport in gd-
+doped aln-gan two-dimensional electron gases”, z. yang, t. f. kent, j. yang, r. c. myers (student
+poster, best poster award).
+84. may , imr materials week, columbus, ohio, “on the electronic, photonic, and photovoltaic
+applications of iii-n nanowires”, a. t. m. g. sarwar, s. d. carnevale, m. r laskar, t. f. kent, p. j
+phillips, c. marginean, m. j. mills, r. c. myers (student poster).
+85. may , imr materials week, columbus, ohio, “gan/aln double barrier nanowires resonant
+tunneling diode with high tunneling current density and peak-to-valley current ratio”, y. shao,
+s. d. carnevale, a. t. m. g. sarwar, r. c. myers, w. lu (student poster).
+86. may , imr materials week, columbus, ohio, “mixed polarity in polarization-induced nanowire
+light emitting diodes”, s. d. carnevale, t. f. kent, p. j. phillips, a. t. m. g. sarwar, c. selcu, r.
+f. klie, s. rajan, r. c. myers (student poster).
+87. may , imr materials week, columbus, ohio, “opto-thermal measurements of spin seebeck
+effect in yttrium iron garnet”, b. l. giles, z. yang, t. f. kent, r. c. myers (student poster).
+88. may , imr materials week, columbus, ohio, “atomically sharp 318nm gd:algan ultraviolet
+light emitting diodes on si with low threshold voltage”, t. f. kent, s. d. carnevale, r. c. myers
+(student poster).
+89. may , spin caloritronics v, columbus, oh, “transient opto-thermally induced spin currents
+using ultrafast laser pulses”, r. c. myers (invited).
+90. march , march meeting of the american physical society, baltimore, md, “advanced scanning
+transmission electron microscopy characterization of uv led nanowires”, patrick phillips, rajan
+kumar, santino carnevale, roberto myers, robert klie (talk).
+91. march , march meeting of the american physical society, baltimore, md, “towards fib
+patterning of commercial sin membranes for sensitive magneto-calorimetry”, kurtis wickey,
+thomas kent, roberto myers, joseph heremans, ezekiel johnston-halperin (talk).
+92. march , march meeting of the american physical society, baltimore, md, “spin-seebeck effect
+in amorphous ferromagnetic alloys”, hyungyu jin, zihao yang, roberto myers, joseph heremans
+(talk).
+93. march , march meeting of the american physical society, baltimore, md, “investigation of the
+electronic transport in polarization-induced nanowires using conductive atomic force microscopy
+(afm)”, c. selcu, s. d. carnevale, t. f. kent, f. akyol, p. j. phillips, m. j. mills, s. rajan, j. p.
+pelz, r. c. myers (talk).
+94. march , march meeting of the american physical society, baltimore, md, “ferromagnetism and
+infrared electrodynamics of gamnas”, b. c. chapler, s. mack, r. c. myers, k. s. burch, n.
+samarth, d. d. awschalom, d. n. basov (talk).
+95. january , physics and chemistry of surfaces and interfaces (pcsi-40), waikoloa, hi,
+“polarization-induced pn-junctions in wide band gap nanowires”, r. c. myers (invited).
+96. january , 12th joint mmm-intermag conference, chicago, ill, “experimental aspects of spin
+caloritronics”, r. c. myers (invited tutorial).
+97. november , , materials research society fall meeting, boston, ma, “epitaxial growth and
+ferromagnetism of gdn-iii-nitride nanocomposites and their potential device applications”, t. f.
+kent, j. yang, l. yang, s. d. carnevale, m. j. mills, r. c. myers (student talk).
+98. november , , materials research society fall meeting, boston, ma, “polarization-induced pn-
+diodes in iii-nitride nanowires with ultraviolet electroluminescence”, s. d. carnevale, t. f. kent, p.
+j. phillips, m. j. mills, s. rajan, r. c. myers (student talk).
+99. november , institute for energy efficiency seminar, center for energy efficient materials,
+university of california, santa barbara, ca, “using asymetric crystals for new functionality:
+moving spins with heat using spin-orbit coupling and dopant-less diodes using polarization
+charge” , r. c. myers (invited seminar).
+100. october , condensed, atomic, and molecular physics seminar, dept. of physics, penn state
+university, state college, pa, “moving spins with heat without magnetic atoms” , r. c. myers
+(invited seminar).
+101. october , complex quantum systems, physics dept. seminar, university of texas, austin,
+texas, “using asymetric crystals for new functionality: moving spins with heat using spin-orbit
+coupling and dopant-less diodes using polarization charge.” , r. c. myers (invited seminar).
+102. september , materials science and engineering dept. seminar, ohio state university,
+columbus, ohio, “using asymetric crystals for new functionality: moving spins with heat using
+spin-orbit coupling and dopant-less diodes using polarization charge.”, r. c. myers (invited
+seminar).
+103. september , materials science and engineering dept. seminar, university of pennsylvania,
+philadelphia, pa, “using asymetric crystals for new functionality: moving spins with heat using
+spin-orbit coupling and dopant-less diodes using polarization charge.”, r. c. myers (invited
+seminar).
+104. august , spie optics and photonics, san diego, ca, “graded nanowire leds without
+impurity doping by polarization engineering” , r. c. myers (invited).
+105. august , physics and applications of spin-related phenomena in semiconductors (pasps-7
+confererence), eindhoven, the netherlands, “giant spin-seebeck effect in insb in the ultra-quantum
+limit”, j. p. heremans, c. m. jaworski, e. johnston-halperin, and r. c. myers (invited talk).
+106. august , 39th international symposium on compound semiconductors, santa barbara, ca,
+“polarization-induced pn-diodes in wide band gap nanowires with tunable deep ultraviolet
+electroluminescence”, s. d. carnevale, t. f. kent, p. j. phillips, m. j. mills, s. rajan, and r. c.
+myers (student talk).
+107. june , electronic materials conference, state college, pa, “polarization-induced pn-diodes
+in wide band gap nanowires with ultraviolet electroluminescence”, s. d. carnevale, t.f. kent, p. j.
+phillips, m. j. mills, s. rajan r. c. myers (student talk, best student presentation award).
+108. june , electronic materials conference, state college, pa, “mbe growth and
+characterization of graded ingan nanowires for broadband photodetectors”, m. r. laskar, s. d.
+carnevale, a. t. m. sarwar, p. j. phillips and r. c. myers (student talk).
+109. june , electronic materials conference, state college, pa, “gdn nano-islands enabled
+inter-band tunneling in iii-nitrides”, sriram krishnamoorthy, jing yang, pil sung park, roberto
+myers, and siddharth rajan (student talk).
+110. june , electronic materials conference, state college, pa, “gan/aln coaxial nanowire
+resonant tunneling diode on silicon”, a.t.m.g. sarwar, s. d. carnevale, c. marginean, p. j
+phillips, t. f. kent, m. j. mills and r. c myers (student talk).
+111. june , electronic materials conference, state college, pa, “epitaxial growth and
+ferromagnetism of gdn nano-islands embedded in gan”, t. f. kent, jing yang, limei yang, m. j.
+mills and r. c. myers (student talk).
+112. june , electronic materials conference, state college, pa, “investigation of deep levels in
+m-plane gan grown by ammonia based molecular beam epitaxy with different v/iii ratios”, zeng
+zhang, christophe hurni, aaron arehart, jing yang, roberto myers, james speck and steven ringel
+(student talk).
+113. june , electronic materials conference, state college, pa, “giant spin-seebeck effect
+in a non-magnetic semiconductor, insb”, r. c. myers, c. m. jaworski, e. johnston-halperin, and j.
+p. heremans (talk).
+114. june , device research conference, state college, pa, “record low tunnel junction specific
+resistivity (<3x10-4 wcm2) in gan inter-band tunnel junctions,” sriram krishnamoorthy, fatih
+akyol, jing yang, pil sung park, roberto c. myers, and siddharth rajan (student talk)
+115. april , materials research society spring meeting, san francisco, ca, “spin-seebeck
+power generation”, christopher m. jaworski, roberto c. myers, joseph p. heremans (student talk).
+116. april , energy materials nanotechnology meeting, orlando, fl, “polarization-induced pn-
+junctions in wide band gap nanowires with ultraviolet electroluminescence”, r. c. myers (invited).
+117. march , march meeting of the american physical society, boston, massachusetts,
+“embedded ferromagnetic gdn nano-islands in gan by molecular beam epitaxy”, t. f. kent, j.
+yang, l. yang, m. j. mills, r. c. myers (student talk).
+118. march , march meeting of the american physical society, boston, massachusetts,
+“electronic transport in individual, vertical, catalyst free gan/aln nanowires”, camelia marginean,
+santino carnevale, patrick phillips, thomas kent, denis pelekhov, michael mills, roberto myers
+(student talk).
+119. march , march meeting of the american physical society, boston, massachusetts, “spin-
+seebeck effect in iii-v based semiconductors”, christopher m jaworski, roberto c myers, joseph p
+heremans (student talk).
+120. november , materials research society fall meeting, boston, ma, “control of growth
+kinetics for three-dimensional iii-nitride nano-heterostructures towards nanowire devices”, s. d.
+carnevale, p. j. phillips, t. f. kent, j. yang, m. j. mills, r. c. myers (student talk).
+121. october , condensed matter seminar, physics department, case western reserve
+university, cleveland, ohio, “moving spins with heat: spin-seebeck effect in a ferromagnetic
+semiconductor and polarization-induced pn-junctions in wide band gap semiconductor nanowires”, r.
+c. myers (invited seminar).
+122. october , avs 58th annual international symposium and exhibition, nashville, tennessee,
+“control of growth kinetics for three-dimensional iii-nitride nano-heterostructures towards nanowire
+devices”, s. d. carnevale, j. yang, p. j. phillips, m. j. mills, and r. c. myers (student talk).
+123. september , imr materials week, columbus, ohio, “moving spins with heat: spin-seebeck
+effect in a ferromagnetic semiconductor”, r. c. myers (invited).
+124. september , imr materials week, columbus, ohio, “three-dimensional wide band gap
+nanowire heterostructure electronic and photonic devices”, s. d. carnevale, p. j. phillips, t. f. kent,
+j. yang, m. j. mills, r. c. myers (student poster).
+125. september , imr materials week, columbus, ohio, “embedded ferromagnetic gdn nano-
+islands in gan by plasma assisted molecular beam epitaxy”, t. f. kent, j. yang, p. j. phillips, m.
+j. mills, r. c. myers (student poster).
+126. september , imr materials week, columbus, ohio, “structural properties of short period
+gan/aln superlattices for intersubband photonics”, j. yang, s. d. carnevale, m. r. brenner, r. c.
+myers (student poster).
+127. september , imr materials week, columbus, ohio, “the spin-seebeck effect: a phonon
+driven spin distribution”, c. m. jaworski, k. j. wickey, j. yang, s. mack, d. d. awschalom, e.
+johnston-halperin, r. c. myers, j. p. heremans (student poster).
+128. september , imr materials week, columbus, ohio, “fabrication of suspended gan
+membranes for spin calorimetry”, k. j. wickey, s. d. carnevale, t. f. kent, j. p heremans, r. c.
+myers, e. johnston-halperin (student poster).
+129. august , 6th international school and conference on spintronics and quantum information
+technology (spintech6), matsue, japan, “phonon-driven spin distribution in gamnas: spin-
+seebeck effect”, r. c. myers, c. m. jaworski, k. j. wickey, j. yang, s. mack, d. d. awschalom, e.
+johnston-halperin, and j. p. heremans (talk).
+130. july , international workshop on spin currents, sendai, japan, “phonon-driven spin
+currents due to the spin-seebeck effect in gamnas”, r. c. myers (invited).
+131. june , electronic materials conference, santa barbara, california, “control of growth
+kinetics for three-dimensional iii-nitride nano-heterostructures towards nanowire devices”, s. d.
+carnevale, j. yang, p. j. phillips, m. j. mills, and r.c. myers ( student talk).
+132. june , embedded nanoparticle workshop, university of california, santa barbara, “growth
+study of gdn in gan by plasma-assisted molecular beam epitaxy”, j. yang, t. f. kent, l.-m.
+yang, s. d. carnevale, m. j. mills, r. c. myers (student talk).
+133. june , american nuclear society annual meeting, hollywood, florida, “a gadolinium
+doped superlattice gan schottky diode for neutron detection”, j. wang, p. kandlakunta, t. f. kent,
+j. carlin, d. r. hoy, r. c. myers, l. cao (student talk).
+134. june , department of physics seminar, university of basel, basel, switzerland, “3d
+nanowire heterostructure from iii-nitrides and ferromagnetic gd:gan”, r. c. myers (invited
+seminar).
+135. may , walter schottky institute department seminar, technical university munich, munich,
+germany, “exploring semiconductor functionality at extreme length scales: macroscopic thermal
+spintronics and 3d nanowire heterostructures” , r. c. myers (invited seminar).
+136. may , spin caloritronics iii workshop, lorentz center, leiden, the netherlands, “phonon
+driven spin-seebeck in gamnas, mnas, and mnas/gamnas”, r. c. myers (invited).
+137. april , ieee international magnetics conference, taipei, taiwan, “observation of the spin-
+seebeck effect in a semiconductor”, c. m. jaworski, j. yang, s. mack, d. d. awschalom, j. p.
+heremans, r. c. myers (student invited talk).
+138. march , march meeting of the german physical society (dpg), dresden, germany, “spin
+seebeck effect: local nature of phonon-driven spin currents in gamnas”, r. c. myers (invited).
+139. march , march meeting of the american physical society, dallas, texas, “spin seebeck
+effect: local nature of phonon-driven spin currents in gamnas”, r. c. myers (invited).
+140. march , march meeting of the american physical society, dallas, texas, “on magnetism
+and the insulator-to-metal transition in p-doped gaas”, brian chapler, r.c. myers, s. mack, a.
+frenzel, b. c. pursley, k.s. burch, e.j. singley, a.m. dattelbaum, n. samarth, d.d. awschalom, d.
+n. basov (student talk).
+141. march , march meeting of the american physical society, dallas, texas, “controlling
+nanostructure self-assembly for design of three-dimensional semiconductor heterostructures”,
+santino carnevale, j. yang, p. j. phillips, m. j. mills, r. c. myers (student talk).
+142. march , march meeting of the american physical society, dallas, texas, “effect of growth
+kinetics on intersubband transitions in gan/aln multiple quantum wells”, jing yang, s. d.
+carnevale, t. f. kent, m. r. brenner, r. c. myers (student talk).
+143. march , march meeting of the american physical society, dallas, texas, “room
+temperature ferromagnetism in gan-aln quantum confined heterostructures”, thomas kent, j.
+yang, l. yang, s. d. carnevale, b. niles, d. r. hoy, y.-h. chiu, e. johnston-halperin, m. j. mills,
+r. c. myers (student talk).
+144. march , march meeting of the american physical society, dallas, texas, “the spin-seebeck
+effect in a gamnas/mnas bilayer”, chris jaworski, j. yang. s. mack, d. d. awschalom, j. p.
+heremans, r. c. myers (student talk).
+145. september , international workshop on nitride semiconductors, tampa, florida, “precise
+design of gan nanowire heterostructures by separating nucleation and growth processes”, s.
+carnevale, j. yang, p. phillips, m. j. mills, and r. c. myers (student poster).
+146. september , imr materials week, columbus, ohio, “precise design of gan nanowire
+heterostructures by separating nucleation and growth processes”, s. d. carnevale, j. yang, p. j.
+phillips, m. j. mills, r. c. myers (student poster).
+147. september , imr materials week, columbus, ohio, “epitaxial growth of gan/aln
+supperlattices for intersubband transitions”, j. yang, s. d. carnevale, d. r. hoy, t. f. kent, r. c.
+myers (student poster).
+148. september , imr materials week, columbus, ohio, “observation of the spin seebeck effect
+in a ferromagnetic semiconductor”, c. m. jaworski, j. yang, s. mack, d. d. awschalom, j. p.
+heremans, r. c. myers (student poster).
+149. september , imr materials week, columbus, ohio, “wide bandgap aln/gan
+heterostructures for room temperature semiconductor spintronics and ferromagnetism”, d. r. hoy, j.
+yang, t. f. kent, s. d. carnevale, l. yang, y. pu, m. j. mills, e. johnston-halperin, r. c. myers
+(student poster).
+150. september , imr materials week, columbus, ohio, “wide band gap nanostructures for
+magneto-electronics”, r. c. myers (invited).
+151. september , condensed matter seminar, physics department, university of michigan, ann
+arbor, michigan, “wide bandgap nanostructures for magneto-electronics”, r. c. myers (invited
+seminar).
+152. june , electronic materials conference, south bend, indiana, “engineering ferromagnetism
+in gd-doped gan two-dimensional electron gases”, j. yang, d. r. hoy, s. d. carnevale, e. uchaker,
+r. c. myers (student talk).
+153. june , electronic materials conference, south bend, indiana, “self-assembled gan/aln
+nanowire superlattices on si toward non-polar intersubband photonics”, s. d. carnevale, j. yang, p.
+phillips, m.j. mills, and r. c. myers (student talk).
+154. april , thermoelectric transport fundamentals, shanghai institute of ceramics, hangzhou,
+china, “the spin-seebeck effect in a semiconductor”, joseph p. heremans, christopher. m.
+jaworski, jing yang, shawn mack, david d. awschalom, and roberto c. myers (invited talk).
+155. april , electrical engineering department seminar, notre dame university, south bend,
+indiana, “wide band gap nanostructures toward room temperature semiconductor spintronics”, r. c.
+myers (invited seminar).
+156. march , march meeting of the american physical society, portland, oregon, “infrared probe
+of charge density modification in gamnas films”, brian chapler, r.c. myers, s. mack, e. namdas,
+j.d. yuen, a.j. heeger, n. samarth, m.c. martin, k.s. burch, d.n. basov, d.d. awschalom
+(student talk).
+157. march , march meeting of the american physical society, portland, oregon, “spin dynamics
+of magnetic ions in semiconductor optical cavities”, g. calusine, r. c. myers, s. mack, d. d.
+awschalom (student talk).
+158. september , imr materials week, columbus, ohio, “observation of the spin seebeck effect
+in a ferromagnetic semiconductor”, c. m. jaworski, j. yang, s. mack, d. d. awschalom, j. p.
+heremans, r. c. myers (student poster).
+159. september , imr materials week, columbus, ohio, “iii-nitride self-assembled nanowire
+heterostructures: growth kinetics and optical properties”, j. yang, k. swaminathan, s. a. ringel, r.
+c. myers (student poster).
+160. september , imr materials week, columbus, ohio, “epitaxial growth of nitride
+heterostructures for photonics, electronics, and spintronics”, r. c. myers (invited).
+161. march , march meeting of the american physical society, pittsburgh, pennsylvania,
+“engineering the interlayer exchange coupling in hybrid ferromagnetic metal/semiconductor
+heterostructures”, m. j. wilson, m. zhu, p. schiffer, n. samarth, r. c. myers, d. d. awschalom, m.
+e. flatte (student talk).
+162. march , march meeting of the american physical society, pittsburgh, pennsylvania,
+“infrared probe of ga mn as films with controlled disorder and compensation”, b. chapler, r. c.
+1-x x
+myers, s. mack, d. d. awschalom, m. c. martin, a. dattelbaum, k. s. burch, d. n. basov (student
+talk).
+163. march , march meeting of the american physical society, pittsburgh, pennsylvania,
+“dynamic polarization of mn spins coupled to vertical optical cavities”, g. calusine, r. c. myers, d.
+d. awschalom (student talk).
+164. october , center for electronic/magnetic nanoscale composite multifunctional materials
+(encomm) seminar, columbus, ohio, “semiconductor heterostructures for spintronics and wide
+band gap optoelectronics”, r. c. myers (invited seminar).
+165. september , imr materials week, columbus, ohio, “wide bandgap semiconductor
+heterostructures: highly confined quantum structure for devices”, r. c. myers (invited).
+166. august , spie optics+photonics, san diego, california, “photonic manipulation of
+magnetic ions in semiconductors”, r. c. myers (invited).
+167. may , ieee international magnetics conference, madrid, spain, “recent developments in
+single spin manipulation in semiconductors”, r. c. myers (invited).
+168. may , materials science and engineering department seminar, the ohio state university,
+columbus, “engineering spin landscapes in semiconductors: from bulk ferromagnetism to single
+moments”, r. c. myers (invited seminar).
+169. april , electrical and computer engineering department seminar, university of texas,
+austin, “engineering spin landscapes in semiconductors: from bulk ferromagnetism to single
+moments”, r. c. myers (invited seminar).
+170. march , march meeting of the american physical society, new orleans, louisiana, “micro-
+spectroscopy of ga mn as and ga be as films with gradient doping and compensation”, b.
+1-x x 1-x x
+chapler, r. c. myers, d. d. awschalom, m. c. martin, k. s. burch, d. n. basov (talk).
+171. march , march meeting of the american physical society, new orleans, louisiana, “carrier
+dynamics in microdisk photonic molecules”, f. m. mendoza, r. c. myers, g. calusine, a. c.
+gossard, d. d. awschalom, x. li, b. j. cooley, n. samarth (talk).
+172. march , march meeting of the american physical society, new orleans, louisiana,
+“stoichiometric growth of high curie temperature heavily-alloyed gamnas”, s. mack, r.c. myers,
+j. t. heron, a. c. gossard, d. d. awschalom (talk).
+173. march , march meeting of the american physical society, new orleans, louisiana, “zero-
+field optical manipulation of magnetic ions in semiconductors”, r. c. myers (invited).
+174. february , chemical engineering and materials science department seminar, university of
+minnesota, “engineering spin landscapes in semiconductors: from bulk ferromagnetism to single
+moments”, r. c. myers (invited seminar).
+175. december , darpa center for nanoscience innovation for defense review, los angeles,
+california, “zero-field optical manipulation of magnetic ions in semiconductors” r. c. myers
+(talk).
+176. november , 52nd magnetism and magnetic materials conference, tampa, florida, “zero
+field manipulation of few magnetic spins in semiconductor quantum wells” r. c. myers, m. h.
+mikkelsen, j.-m. tang, m. e. flatté, a. c. gossard, d. d. awschalom (talk).
+177. september , western institute of nanoelectronics (win), los angeles, california, “photonic
+control of magnetic ions in semiconductors without magnetic fields” (poster).
+178. september , win, los angeles, california, “engineering ferromagnetism in gamnas”
+(poster).
+179. june , international conference on quantum information, rochester, new york,
+“enhancement of spin coherence in microdisk lasers”, s. ghosh, f. m. mendoza, r. c. myers, a.
+c. gossard, d. d awschalom, w.-h. wang, x. li, n. samarth (talk).
+180. march , march meeting of the american physical society, denver, colorado, “mn ion spin
+dynamics in gamnas quantum wells”, r. c. myers, m.h. mikkelsen, n.p. stern , a. c. gossard, d.
+d. awschalom (talk).
+181. march , march meeting of the american physical society, denver, colorado, “polarized
+stimulated emission from photonic molecule states in coupled microdisk lasers”, x. li, b. j. cooley,
+n. samarth, f. m. mendoza, r. c. myers, d. d. awschalom (talk).
+182. march , march meeting of the american physical society, denver, colorado, “insulating
+ferromagnetic (ga, mn) as with low mn-doping”, b. l. sheu, r. c. myers, n. samarth, d. d.
+awschalom, p. schiffer (talk).
+183. march , march meeting of the american physical society, baltimore, maryland,
+“controlling ferromagnetism in gamnas by arsenic defect engineering”, r. c. myers, a. w.
+jackson, a. c. gossard, d. d. awschalom, b. l. sheu, p. schiffer, n. samarth (talk).
+184. march , march meeting of the american physical society, baltimore, maryland,
+“confinement engineering of s-d exchange interactions in gamnas quantum wells”, n. p. stern, r.
+c. myers, m. poggio, a. c. gossard, d. d. awschalom (talk).
+185. february , gordon research conference on ultrafast phenomena in cooperative systems,
+buellton, california, “optoelectonic control of spin exchange interactions in magnetic semiconductor
+heterostructures”, r. c. myers (invited).
+186. september , 23rd north american conference on molecular beam epitaxy, santa barbara,
+california, “growth of paramagnetic gamnas and ingamnas quantum wells for optical spin
+spectroscopies”, r. c. myers, m. poggio, n. p. stern, a. c. gossard, d. d. awschalom (talk).
+187. august , spintech iii school and conference awaji island, japan, “engineering spin-
+polarization and coherence in magnetic semiconductor quantum wells”, r. c. myers, m. poggio, n.
+p. stern, a. c. gossard, d. d. awschalom, k.c. ku, x. li, n. samarth (talk).
+188. march , march meeting of the american physical society, los angeles, california,
+“antiferromagnetic s-d exchange coupling in gamnas”, r. c. myers, m. poggio, n. p. stern, a. c.
+gossard, d. d. awschalom (talk).
+189. march , march meeting of the american physical society, los angeles, california, “time-
+resolved spin dynamics in semiconductor microdisk lasers”, s. ghosh, y. li, f. meier, r. c.
+myers, d. d. awschalom, w.-h. wang, n. samarth (talk).
+190. march , march meeting of the american physical society, los angeles, california,
+“mechanical control of spin coherence in semiconductors”, h. knotz, a. w. holleitner, j. stephens,
+r. c. myers, d. d. awschalom (talk).
+191. march , march meeting of the american physical society, los angeles, california,
+“observation of ultrahigh spontaneous emission factors in gaas(ga,al)as microdisk lasers”, w.
+h. wang, x. li, r. c. myers, s. ghosh, d. d. awschalom, n. samarth (talk).
+192. march , march meeting of the american physical society, los angeles, california, “spin
+transfer and coherence in coupled quantum wells”, m. poggio, g.m. steeves, r. c. myers, n. p.
+stern, a. c. gossard, d. d. awschalom (talk).
+193. march , march meeting of the american physical society, los angeles, california,
+“current-induced polarization and the spin-hall effect in semiconductors”, r. c. myers (invited).
+194. january , california nanosystems institute conference, santa barbara, california, “current-
+induced polarization and the spin hall effect” (poster).
+195. november , darpa center for nanoscience innovation for defense review, los angeles,
+california “terahertz spin dynamics in magnetic parabolic quantum wells” (poster).
+196. july , the 3rd international conference on physics and applications of spin-related
+phenomena in semiconductors (pasps iii), santa barbara, california, “spin engineering with mn
+ions in ii-vi parabolic quantum wells” (poster).
+197. july , pasps iii, santa barbara, california, “voltage controlled spin-polarization in iii-v
+quantum-wells with ferromagnetic barriers” (poster).
+198. april , marco program review, cambridge, massachusetts, “electric and magnetic control
+of nuclear spins in nanostructures” (poster).
+199. april , marco program review, cambridge, massachusetts, “voltage controlled spin-
+polarization in iii-v quantum-wells with ferromagnetic barriers” (poster).
+200. march , march meeting of the american physical society, montreal, canada, “electrically
+tunable spin polarization in iii-v quantum wells with a ferromagnetic barrier”, r. c. myers, a. c.
+gossard, d. d. awschalom (talk).
+201. march , march meeting of the american physical society, montreal, canada, “gating
+carrier spin dynamics in coupled quantum wells”, g. m. steeves, m. poggio, r. c. myers, a. c.
+gossard, d. d. awschalom (talk).
+202. march , march meeting of the american physical society, montreal, canada, “manipulating
+single domain walls in ferromagnetic (ga, mn)as epilayers”, a. w. holleitner, h. knotz, r. c.
+myers, a. c. gossard, d. d. awschalom (talk).
+203. march , march meeting of the american physical society, montreal, canada, “control of
+electron spin coherence using landau level quantization in 2degs”, v. sih, r. c. myers, a. c.
+gossard, d. d. awschalom, w. h. lau, m. e. flatté (talk).
+204. october , darpa spins/spintronics review, santa monica, california, “voltage controlled
+spin-polarization in a iii-v quantum-well with a ferromagnetic barrier” (poster).
+205. september , 21st north american conference on molecular beam epitaxy, keystone,
+colorado, “voltage controlled spin-polarization in a iii-v quantum-well with a ferromagnetic
+barrier” (poster).
+206. march , march meeting of the american physical society, austin, texas, “electronic
+manipulation of nuclear spin in semiconductor quantum wells”, m. poggio, g. m. steeves, r. c.
+myers, a. c. gossard, d. d. awschalom (talk).
+207. march , march meeting of the american physical society, austin, texas, “manipulating
+electron spins using gigahertz g-tensor modulation”, y. kato, r. c. myers, d. c. driscoll, a. c.
+gossard, d. d. awschalom, j. levy (talk).
+208. march , march meeting of the american physical society, austin, texas, “curie
+temperatures above 110k in annealed (ga, mn) as epilayers”, k. c. ku, s. j. potashnik, r. f.
+wang, s. h. chun, p. schiffer, n. samarth, m. j. seong, a. mascarenhas, e. johnston-halperin, r.
+c. myers, a. c. gossard, d. d. awschalom (talk).
+209. march , march meeting of the american physical society, austin, texas, “independent
+electronic and magnetic doping of digital ferromagnetic heterostructures”, e. johnston-halperin, j.
+a. schuller, c. s. gallinat, t. c. kreutz, r. c. myers, r. k. kawakami, a. c. gossard, d. d.
+awschalom (talk).
+210. march , march meeting of the american physical society, austin, texas, “gated induced
+nuclear depolarization in parabolic quantum wells”, g. m. steeves, m. poggio, r. c. myers, a. c.
+gossard, d.d. awschalom (talk).
+211. march , march meeting of the american physical society, austin, texas, “strain-engineered
+ferromagnetism in digital (ga, mn) as heterostructures”, j. a. schuller, e. johnston-halperin, c. s.
+gallinat, r. c. myers, a. c. gossard, d. d. awschalom (talk).
+212. march , march meeting of the american physical society, indianapolis, indiana, “integrated
+cantilever magnetometry of (ga, mn)as”, i. meinel, r. c. myers, j. stephens, e. johnston-halperin,
+m. hanson, a. c. gossard, d. d. awschalom (talk).
+213. april , annual meeting of the american ceramic society, indianapolis, indiana, “substrate
+and thickness effects in pr ca mno thin films” r. c. myers, a. mamchik, s. mcgill, j.
+1-x x 3
+kikkawa, i-w. chen (talk).
+student mentoring
+alexander blackston – [ +] phd student, materials science and engineering
+alexandra fonseca – [ +] phd student, materials science and engineering
+md m r adnan – [ +] phd student, electrical and computer engineering
+darpan verma – [ + ] phd student, materials science and engineering
+elline hettiaratchy – [ - ] phd student, materials science and engineering
+john jamison – [ - ] phd candidate, materials science and engineering
+brelon may – [ - ] phd candidate, materials science and engineering
+brandon giles – [ - ] phd, materials science and engineering
+zihao yang – [ - ] phd, electrical and computer engineering
+emilio codecido – [ - ] ms, physics
+a.t.m. golam sarwar – [ - ] phd, electrical and computer engineering
+thomas kent – [ - ] phd, materials science and engineering
+santino carnevale– [ - ] phd, materials science and engineering. won nsf graduate
+fellowship based on research in our group at osu.
+daniel hoy – [ - ] ms, physics, 50% co-advised by johnston-halperin (physics)
+jing yang – [ - ] phd, materials science and engineering
+postdoctoral scholars
+masihhur r. laskar – [ - ]
+alessandro giussani – [ - ]
+undergraduate students
+rachel guest – [ ] cem nsf mrsec, reu student
+chris moore – [ ] cem nsf mrsec, reu student
+arshad ahamed – [ - ] physics lab intern
+alexander koenig – [ - ] materials science and engineering. senior design
+matthew le – [ ] physics intern
+matthew belz – [ - ], electrical and computer engineering. honors research
+austen utendorf and eric clevenger – [ - ] materials science and engineering. senior design
+project
+shengchen xue – [ - ] materials science and engineering. senior design project
+michael dominguez – [ ] cem nsf mrsec, reu student
+kevin krymowski and nick sulewski– [ - ] materials science and engineering. senior design
+project
+omar gowayed – [ ] senior design project s
+e. clayton cross – [ ] senior design project
+jacob boyer – [ ] senior design project
+adam dodson – [ - ] senior design project
+ethan courtad, walter riker – [ - ] materials science and engineering. senior design project
+j. d. lok – [ - ] materials science and engineering. senior design project
+cameron reese – [ ] intern: materials science and engineering. u-grad researcher
+lauren gerber – [ - ] intern: materials science and engineering.
+laura manuel – [ - ] nsf-reu
+preston coneley – [ ] electrical and computer engineering.
+brittany niles – [ - ] chemical and biomolecular engineering, academic year nsf-reu
+dan chmielewski, brian goodwin - [ - ] materials science and engineering, senior design
+project
+aaron washburn, bryan esser – [ - ] materials science and engineering, senior design project
+evan uchaker – [ - ] undergraduate, materials science and engineering, lab intern and senior
+design project.
+anthony tan – [ ] undergraduate, materials science and engineering, lab intern.
+high school students [2 previous]
+michael huntley and david - [feb. ]
+service
+conference organizing:
+-present nambe organizing committee member
+chair, workshop on non-linear spin-heat interactions
+-present programming committee member, electronic materials conference (emc).
+-present programming committee member, physics and chemistry of surfaces and
+interfaces (pcsi) conference.
+co-chair, spin caloritronics v workshop
+department, college, university service:
+-present graduate studies committee (chair), materials science and engineering
+- graduate studies sub-committee of caa
+- council on academic affairs (caa)
+- faculty senate
+- graduate studies committee member, materials science and engineering
+- search committee (chair) – leading committee to hire tenure-track faculty in
+mse in area of energy storage and harvesting.
+- targeted hiring search committee (chair)
+chair selection committee member, materials science and engineering
+- college core committee member on outcomes & assessment
+- chair advisory committee member, materials science and engineering
+- graduate studies committee member, materials science and engineering
+college of engineering, energy and sustainability task force member, osu
+- ccbd advisory committee member
+- undergraduate studies committee member, materials science and engineering.
+- committee of committees, materials science and engineering.
+- functional materials committee member. assist in curriculum revision for
+quarters to semesters conversion. wrote 3 undergraduate course syllabi.
+- faculty secretary, materials science and engineering.
+- student relations committee member, mse

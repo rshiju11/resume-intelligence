@@ -1,0 +1,281 @@
+vladimir dvorkin, ph.d.
+eecs assistant professor at the university of michigan
+ ann arbor, mi   scholar  dvorkinvladimir
+appointments & university of michigan ann arbor, us
+work experience assistant professor 1/ - present
+department: electrical engineering and computer science
+massachusetts institute of technology cambridge, us
+msca–fibe postdoctoral fellow 3/ - 12/
+postdoctoral associate 2/ - 2/
+department: laboratory for information and decision systems & energy initiative
+georgia institute of technology atlanta, usa
+research visitor 07/ - 12/
+department: industrial & systems engineering
+higher school of economics moscow, russia
+research assistant 12/ - 08/
+technical university of denmark (dtu) lyngby, denmark
+education
+ph.d. – electrical engineering 09/ - 03/
+m.sc. – sustainable energy 09/ - 07/
+supervisors: profs. pierre pinson and jalal kazempour
+higher school of economics (hse) moscow, russia
+m.sc. – energy economics 09/ - 06/
+moscow power engineering institute (mpei) moscow, russia
+b.sc. – electrical engineering 09/ - 06/
+awards outstanding reviewer, ieee trans. on energy markets, pol. and reg.
+marie sklodowska-curie actions postdoctoral fellowship 03/ –02/
+best paper award, ieee transactions on power systems
+outstanding reviewer, ieee transactions on power systems
+lanl grid science winter school scholarship
+outstanding reviewer, ieee transactions on sustainable energy
+dtu tuition fee waiver for msc students 08/ –06/
+hse scholarship for science achievements
+hse scholarship for excellency 09/ –06/
+seminalist at the youth russian petroleum&gas case championship
+mpei scholarship for academic achievements 09/ –06/
+funding 1. learningorder.(individualpostdoctoralfellowship,03/ -02/ ,$200,000).
+awarded by marie sklodowska-curie actions and fundaci´on iberdrola espan˜a.
+grant agreement no. 101034297. (executive summary , presentation )
+publications
+submitted s1. zhao d., delikaraoglou s., dvorkin, v., botterud a., lamadrid a., . opti-
+mizing bidding curves for renewable energy in two-settlement electricity markets.
+submitted to european journal of operational research
+s2. dvorkin, v., fioretto, n., van hentenryck, p., kazempour, j. and pinson, p.,
+. privacy-preserving convex optimization: when dierential privacy meets
+stochastic programming. submitted to informs journal on optimization
+https://doi.org/10.48550/arxiv.2209.14152
+s3. kim, m., dvorkin, v. and kim, j., . probabilistic dynamic line rating fore-
+casting with line graph convolutional lstm. submitted to ieee power &
+energy society general meeting (pesgm)
+journal j1. dvorkin, v. . regression equilibrium in electricity markets. ieee transac-
+publications tions on energy markets, policy and regulation, in print.
+https://doi.org/10.48550/arxiv.2405.17753
+j2. dvorkin,v. . agentcoordinationviacontextualregression(agentconcur)
+for data center exibility. ieee transactions on power systems, in print.
+https://doi.org/10.48550/arxiv.2309.16792
+j3. kenism.,dvorkinv.,schittekattet.,bruninxk.,delaruee.,botteruda., .
+evaluating oshore electricity market design considering endogenous infrastructure
+investments: zonal or nodal? ieee transactions on energy markets, policy and
+regulation, in print.
+j4. zhao, d., dvorkin, v., delikaraoglou, s., lamadrid, a.j., botterud, a. .
+uncertainty-informed renewable energy scheduling: a scalable bilevel framework.
+ieee transactions on energy markets, policy and regulation, in print.
+https://doi.org/10.1109/tempr. .3344126
+j5. dvorkin, v., botterud, a. . dierentially private algorithms for synthetic
+power system datasets. ieee control systems letters, vol. 7, pp. -
+https://doi.org/10.1109/lcsys. .3284389
+j6. dvorkin, v., mallapragada, d. and botterud, a., . multi-stage decision rules
+for power generation & storage investments with performance guarantees.
+ieee transactions on power systems (in print)
+https://doi.org/10.1109/tpwrs. .3257129
+j7. dvorkin,v.,mallapragada,d.,botterud,a.,kazempour,j.andpinson,p., .
+multi-stage linear decision rules for stochastic control of natural gas networks with
+linepack. electric power systems research (xxii pscc edition), 212, p.108388.
+https://doi.org/10.1016/j.epsr. .108388
+j8. dvorkin, v., ratha, a., pinson, p. and kazempour, j., . stochastic control
+and pricing for natural gas networks. ieee transactions on control of network
+systems, 9(1), pp.450-462.
+https://doi.org/10.1109/tcns. .3112764
+j9. dvorkin,v.,fioretto,f.,vanhentenryck,p.,pinson,p.andkazempour,j., .
+dierentially private optimal power ow for distribution grids. ieee transactions
+on power systems, 36(3), pp.2186-2196.
+best paper award for the period –
+https://doi.org/10.1109/tpwrs. .3031314
+j10. dvorkin,v.,kazempour,j.andpinson,p., . electricitymarketequilibrium
+under information asymmetry. operations research letters, 47(6), pp.521-526.
+https://doi.org/10.1016/j.orl. .09.005
+j11. dvorkin, v., delikaraoglou, s. and morales, j.m., . setting reserve require-
+ments to approximate the eciency of the stochastic dispatch. ieee transactions
+on power systems, 34(2), pp.1524-1536.
+https://doi.org/10.1109/tpwrs. .2878723
+conference c1. dvorkin, v., fioretto, f. . price-aware deep learning for electricity markets.
+publications neurips workshop on tackling climate change with machine learning
+https://doi.org/10.48550/arxiv.2308.01436
+c2. dvorkin, v., chevalier, s., chatzivasileiadis s., . emission-constrained op-
+timization of gas networks: input-convex neural network approach. in 62th
+ieee conference on decision and control (in print).
+also selected for as a spotlight talk at iclr-ccai workshop 
+https://doi.org/10.48550/arxiv.2209.08645
+c3. zhao, d., dvorkin, v., delikaraoglou, s., lamadrid, a. j., botterud, a., .
+a scalable bilevel framework for renewable energy scheduling. in the 14th acm
+international conference on future energy systems (e-energy)
+https://doi.org/10.1145/3575813.3595199
+c4. dvorkin, v., kazempour, j. and pinson, p., , august. chance-constrained
+equilibriuminelectricitymarketswithasymmetricforecasts. in2020 international
+conference on probabilistic methods applied to power systems (pp. 1-6). ieee.
+best paper award nomination
+https://doi.org/10.1109/pmaps47429. .9183423
+c5. dvorkin,v.,vanhentenryck,p.,kazempour,j.andpinson,p., ,december.
+dierentially private distributed optimal power ow. in 59th ieee confer-
+ence on decision and control (pp. - ). ieee.
+https://doi.org/10.1109/cdc42340. .9303768
+c6. radoszynski, a.m., dvorkin, v. and pinson, p., , june. accommodating
+bounded rationality in pricing demand response. in ieee milan powertech
+(pp. 1-6). ieee.
+https://doi.org/10.1109/ptc. .8810419
+c7. dvorkin, v., kazempour, j., baringo, l. and pinson, p., , december. a
+consensus-admm approach for strategic generation investment in electricity mar-
+kets. in ieee conference on decision and control (pp. 780-785). ieee.
+https://doi.org/10.1109/cdc. .8619240
+thesis t1. dvorkin, v., . stochastic and private energy system optimization. ph.d.
+thesis. technical university of denmark. (supervised by pinson p., kazempour
+j. examined by chatzivasileiadis, s., shapiro, a., wierman, a.)
+https://drive.google.com/file/d/1_owdz0nnh0tfndeq1s-eew8qyorjnra4/view
+t2. dvorkin, v., . multi-stage strategic investment in ccgts and wind power
+units via progressive hedging. m.sc. thesis. technical university of denmark.
+(supervised by pinson p., kazempour j. examined by boomsma, t.k.)
+https://drive.google.com/file/d/16mfeiuvbq4iq-d6wvuf9jzyuu-rhucya/view
+courses 1. eecs 598: computational power systems winter
+2. eecs 463: power system design and operation fall
+3. eecs 559: optimization methods for sipml winter
+4. renewables in electricity markets dtu
+head teaching assistant spring
+teaching assistant spring
+5. dtu summer school on energy optimization, learning and game theory dtu
+teaching assistant summer –
+6. advanced optimization in electricity markets dtu
+teaching assistant fall
+7. decomposition techniques for energy systems applications skoltech
+teaching assistant, lecturer fall
+ph.d. students 1. xinwei liu starting fall
+2. shengyang wu starting fall
+3. milad hoseinpour valoujaei starting fall
+m.sc. students 1. xinwei liu, decision-focused post-processing of trained neural networks.
+. winter , umich.
+2. hyun june kim, synthesizing data for linear programming. winter , umich.
+3. samuel a. abel, fueling an energy transition: designing an optimal portfolio of
+competing fuels under uncertainty. spring , mit.
+4. gretta marija nikkare, co-optimization of green hydrogen and power system ex-
+pansion planning. spring , mit.
+5. rafal michal mikulowski, power systems operation and planning using chance-
+constrained programming. fall , dtu.
+6. andrea marin radoszynski, demand response and bounded rationality in electric-
+ity markets. spring , dtu.
+7. eirini ioanna barmpati, stochastic equilibrium models for capacity investment in
+energy systems. spring , dtu.
+urop 1. shreya chaudhary, synthetic energy dataset generation. winter , mit
+students
+visiting ph.d. 1. philipp gunkel , renewable energy trajectory of no-regret. fall , mit.
+students
+2. michiel kenis, toward o-shore bidding zones: the role of generation and trans-
+mission capacity investments. fall , mit.
+phd thesis 1. hannah moring, university of michigan – ann arbor
+committees
+2. sunny chen, university of michigan – ann arbor
+3. austin lin, university of michigan – ann arbor
+teaching 1. mit kaufman teaching certicate program (description ). fall .
+training
+selected 1. data center–power grid coordination under engineering and privacy constraints
+invited talks boston university (cise seminar) november, .
+2. regression nash equilibrium in electricity markets
+university of michigan (control seminars) november, .
+3. carbon-aware computing: how to get power systems and data centers to talk
+ieee control systems society day october, .
+4. formal privacy guarantees for optimization datasets in power systems
+university of michigan (comm. & signal processing seminar) march, .
+5. privacy-preserving optimization and learning via stochastic optimization
+georgia institute of technology (ai4opt) march, .
+6. optimization and learning in energy systems: privacy and performance.
+university of michigan (ece department) may, .
+massachusetts institute of technology (cee department) february, .
+university of wisconsin–madison (ece department) february, .
+university of minnesota (isye department) january, .
+university of edinburgh (school of mathematics) december, .
+7. dierential privacy meets stochastic programming.
+copenhagen university (department of computer science).
+hosted by: yevgeny seldin november, .
+8. performance guarantees for investments in power systems under uncertainty.
+technical university of denmark (dtu management).
+presented at: seminar on economics of green transition november, .
+9. privacy-preserving perturbation of convex optimization programs.
+california institute of technology.
+hosted by: adam wierman and steven low august, .
+10. privacy-preserving perturbation of convex optimization programs.
+massachusetts institute of technology.
+presented at stats&lids tea talks seminar series may, .
+11. algorithmic privacy for energy system optimization.
+massachusetts institute of technology.
+presented at mitei research meets seminar series may, .
+12. stochastic control and market design for natural gas networks.
+massachusetts institute of technology.
+hosted by: audun botterud september, .
+13. dierentially private optimization of power systems.
+georgia institute of technology.
+presented at dos seminars seminar series december, .
+14. electricity market equilibrium under information asymmetry.
+johns hopkins university.
+hosted by: benjamin hobbs january, .
+conferences 1. us electric grid decarbonization pathways under market and policy uncertainties
+& workshops workshop at national academies (poster) september, .
+2. regression nash equilibrium in electricity markets
+informs annual meeting, seattle october,
+3. machine learning in electricity markets: is there equilibrium?
+institute for mathematical and statistical innovation, chicago august,
+4. equilibrium forecasting in electricity markets
+ieee power & energy society general meeting july,
+5. trustworthy deep learning for electricity market applications
+federal energy regulatory commission july,
+6. forecast equilibrium in electricity earkets
+33rd european conference on operational research july,
+7. price-aware forecasting in electricity markets
+institute for mathematical and statistical innovation, chicago june,
+8. privacy-preserving synthetic dataset generation for power systems research
+informs annual meeting. october,
+federal energy regulatory commission. july,
+9. emission-constrained optimization of gas systems with input-convex neural nets
+iclr workshop: tackling climate change with machine learning may,
+10. privacy-preserving machine learning by means of stochastic optimization.
+mltea talks at mit february,
+11. algorithmic privacy for energy systems optimization.
+informs annual meeting. october,
+12. multi-stage stochastic generation investment with performance guarantees.
+mitei future energy systems center fall workshop. december,
+13. multi-stage investment decision rules for power systems: sensitivities, determin-
+istic equivalents, and performance guarantees.
+informs annual meeting. october,
+14. multi-stage stochastic generation investment with performance guarantees.
+federal energy regulatory commission. june,
+15. dierentially private optimal power ow for distribution grids.
+ieee pes madrid powertech . june,
+16. stochastic control and market design for natural gas networks.
+informs annual meeting. october,
+17. dierentially private optimal power ow for distribution grids.
+informs annual meeting. october,
+18. dierentially private distribuited optimal power ow.
+georgiatech energy systems and optimization workshop. november,
+19. electricity market equilibrium under information asymmetry.
+informs annual meeting. october,
+20. electricity market equilibrium under information asymmetry.
+ieee pes general meeting. august,
+21. electricity market equilibrium under information asymmetry.
+xv international conference on stochastic programming. august,
+22. power system optimization under information asymmetry.
+grid science winter school, los alamos national laboratory. january,
+23. consensus-admm approach for strategic investment in electricity markets.
+ieee conference on decision and control. december,
+24. a solution framework for strategic investment problems via progressive hedging.
+xv conference on computational management science. may,
+conference 1. power systems on the road between optimization and learning informs
+session chair
+reviewer 1. iclr tackling climate change with machine learning workshop since
+service
+2. ieee transactions on smart grids since
+3. ieee transactions on automatic control since
+4. ieee transactions on sustainable energy since
+5. ieee transactions on power systems since
+6. european journal of operational research since
+7. international transactions on electrical energy systems since
+8. pscc – power systems computation conference since
+9. ieee conference on decision and control since
+10. ieee pes powertech since
+11. ieee american control conference since
+github 1. privateopt: dierentially private convex optimization 
+repositories
+2. investmentldr: investment linear decision rules for power systems 
+3. dp-cc-opf: dierentially private chance-constrained opf 
+4. gasldr: linear decision rules for stochastic control of gas networks 
+5. stochastic control and pricing for natural gas networks 
+professional ieee, member (power and energy society) since
+memberships informs,member(energy,naturalresourcesandenvironmentsection)since2019.
+other 1. founder of the enoptimal: energy, optimization and learning  semi-
+nar series at mit to bridge energy researchers during the pandemic.

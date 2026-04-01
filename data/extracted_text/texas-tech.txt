@@ -1,0 +1,131 @@
+tommy dang, phd
+phone: (
+email:
+website: http://www.myweb.ttu.edu/tnhondan/
+------------------------------------------------------------------------------------------------------------------------------
+research interests
+developing methods and tools for visual analytics – an integrated approach combining visualization, human
+factors and data analysis to derive insight from massive, dynamic, and ambiguous data.
+------------------------------------------------------------------------------------------------------------------------------
+education
+: phd in computer science, university of illinois at chicago, il
+- : m.sc. in computer science, university of illinois at chicago, il
+- : m.sc. in computer engineering, politecnico di milano, italy
+- : b.sc. (with honor) in computer science, ho chi minh city university of technology, vietnam
+------------------------------------------------------------------------------------------------------------------------------
+work experience:
+august – present
+assistant professor at texas tech university, lubbock, tx
+august – july
+postdoctoral researcher in biological network visualization at uic electronic visualization lab
+september – june
+consultant in network visualization for objectivity inc, san jose, ca.
+july – january
+consultant in data visualization for skytree - the machine learning company.
+august – july
+research assistant in the computer science department at university of illinois at chicago, il
+may – august
+research assistant in the learning science department at university of illinois at chicago, il
+january – may
+research assistant in the national center for data mining at university of illinois at chicago, il
+june - august
+engineering internship at paragon solutions vietnam, ho chi minh city, vietnam.
+------------------------------------------------------------------------------------------------------------------------------
+publications:
+[w2] tuan dang, hong cui, and angus forbes. multilayermatrix: visualizing large taxonomic datasets.
+the seventh international eurovis workshop on visual analytics, eurova .
+[c11] tuan dang, nick pendar, and angus forbes. timearcs: visualizing fluctuations in dynamic
+networks. proceedings of eg/vgtc conference on visualization, eurovis . (acceptance rate of 27%)
+[w1] tuan dang, nico franz, bertram ludäscher and angus forbes. provenancematrix: a visualization
+tool for multi-taxonomy alignments. international workshop on visualizations and user interfaces for
+tommy dang, last updated on dec 2nd, vitae: page 1
+ontologies and linked data, voila . (acceptance rate of 28%)
+[c10] tuan dang, paul murray, jillian aurisano, and angus forbes. reactionflow: an interactive
+visualization tool for causality analysis in biological pathways. proceedings of the 5th symposium on
+biological data visualization, biovis .
+[c9] tuan dang, paul murray, and angus forbes. pathwaymatrix: visualizing binary relationships
+between proteins in biological pathways. proceedings of the 5th symposium on biological data
+visualization, biovis .
+[j4] tuan dang and leland wilkinson. transforming scagnostics to reveal hidden features. ieee
+transactions on visualization and computer graphics 20(12), vast . (acceptance rate of 23%)
+[c8] tuan dang and leland wilkinson. pixsearcher: searching similar images in large image
+collections through pixel descriptors. proceedings of the 10th international symposium on visual
+computing, isvc .
+[c7] tuan dang and leland wilkinson. scagexplorer: exploring scatterplots by their scagnostics.
+proceedings of the 7th ieee pacific visualization symposium, pacificvis . (acceptance rate of 29%)
+[c6] tuan dang and leland wilkinson. timeexplorer: similarity search time series by their signatures.
+proceedings of the 9th international symposium on visual computing, isvc .
+[j3] tuan dang, anushka anand, and leland wilkinson: timeseer: scagnostics for high-dimensional
+time series. ieee transactions on visualization and computer graphics 19(13), tvcg .
+[c5] tuan dang and leland wilkinson. timeseer: detecting interesting distributions in multiple time
+series data. proceedings of the 5th international symposium on visual information communication and
+interaction, vinci .
+[c4] tuan dang, anushka anand, and leland wilkinson. fmfinder: search and filter your favorite
+songs. proceedings of the 8th international symposium on visual computing, isvc .
+[c3] anushka anand, leland wilkinson, and tuan dang. visual pattern discovery using random
+projections. proceedings of ieee conference on visual analytics science and technology, vast .
+(acceptance rate of 28%)
+[j2] leland wilkinson, anushka anand, and tuan dang. substantial improvements in the set-covering
+projection classifier chirp. acm tkdd .
+[c2] leland wilkinson, anushka anand, and tuan dang. chirp: a new classifier based on composite
+hypercubes on iterated random projections. acm kdd . (acceptance rate of 17.5%)
+[j1] tuan dang, leland wilkinson, and anushka anand. stacking graphic elements to avoid over-
+plotting. ieee transactions on visualization and computer graphics 16(6), infovis . (acceptance rate
+of 26%)
+[c1] anushka anand, leland wilkinson, and tuan dang. an l∞ norm visual classier. proceedings of
+ieee international conference on data mining, icdm . (acceptance rate of 17.8%)
+------------------------------------------------------------------------------------------------------------------------------
+invited talks:
+: visualizing biological pathways through multiple layers of abstraction. bio-it world conference
+& expo. cambridge healthtech institute in boston, ma
+: data visualization and visual analytics. ttu computer science departmental seminars.
+: feature-based visual analysis. chicago chapter acm. chicago, il.
+: feature-based visual analysis. skytree tech talk, . san jose, ca
+: interactive visual analysis of images. doctoral colloquium, ieee visweek. atlanta, ga.
+tommy dang, last updated on dec 2nd, vitae: page 2
+------------------------------------------------------------------------------------------------------------------------------
+activities:
+: graduate program committee (department service).
+: website chair of the 6th symposium on biological data visualization (biovis ).
+: website chair of the 5th symposium on biological data visualization (biovis ).
+: reviewer for ieee symposium on information visualization (infovis ).
+: reviewer for ieee conference on visual analytics science and technology (vast ).
+: reviewer for ieee scientific visualization conference (scivis ).
+: reviewer for eg/vgtc conference on visualization (eurovis ).
+: reviewer for ieee pacific visualization (pacificvis ).
+: reviewer for ieee symposium on information visualization (infovis ).
+------------------------------------------------------------------------------------------------------------------------------
+computer skills:
+programming: javascript and d3, java, processing, vtk, j2ee
+visualization softwares: tableau, xmdv, paraview
+database: mongodb, oracle 9i, mysql
+operating systems: mac, windows, linux
+------------------------------------------------------------------------------------------------------------------------------
+references:
+leland wilkinson, vice president, statistics
+tableau software tel:
+south, 260 california ave, e-mail:
+palo alto, ca 94306 www: https://www.cs.uic.edu/~wilkinson/
+angus graeme forbes, assistant professor of computer science
+department of computer science tel:
+university of illinois at chicago e-mail:
+842 w taylor, room www: http://angusforbes.com/
+chicago, il 60607
+marco d. santambrogio, assistant professor of computer science
+dipartimento di elettronica ed informazione tel:
+politecnico di milano e-mail:
+via g. ponzio 34/5 www: http://home.deib.polimi.it/santambr/
+milano, italy 20133
+nico m. franz, associate professor and & curator of insects
+director of biodiversity knowledge integration center
+school of life sciences tel:
+arizona state university, e-mail:
+po box 874501, tempe, az www: https://sols.asu.edu/people/nico-franz
+andrew johnson, associate professor of computer science
+director of research at the electronic visualization laboratory
+department of computer science tel:
+university of illinois at chicago e-mail:
+tommy dang, last updated on dec 2nd, vitae: page 3
+851 s morgan, room 1120 www: https://www.evl.uic.edu/aej/
+chicago, il 60607
+tommy dang, last updated on dec 2nd, vitae: page 4

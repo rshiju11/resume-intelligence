@@ -1,0 +1,754 @@
+david h. albonesi
+school of electrical and computer engineering
+333 rhodes hall, cornell university
+ithaca, ny 14853
+(
+education
+doctor of philosophy, computer engineering, university of massachusetts amherst
+master of science, electrical engineering, syracuse university
+bachelor of science, electrical engineering, university of massachusetts amherst
+professional experience
+associate director, electrical and computer engineering, cornell university
+- professor, electrical and computer engineering, cornell university
+-16 associate director, electrical and computer engineering, cornell university
+-10 associate professor, electrical and computer engineering, cornell university
+-04 associate professor, electrical and computer engineering, university of rochester
+- assistant professor, electrical and computer engineering, university of rochester
+-96 research engineer, electrical and computer engineering, university of massachusetts
+digital systems consulting, system administration, and evaluation of benchmark perfor-
+mance of supercomputers and workstations.
+-95 lecturer, electrical and computer engineering, university of massachusetts
+revamped undergraduate digital design and microprocessor systems laboratory courses.
+-92 section manager/principal engineer, processor development, prime computer, inc.
+project manager and computer architect for high performance uniprocessor and multi-
+processor designs implemented using cmos and ecl technologies.
+-86 senior associate engineer, memory development, ibm corporation
+ibm 3090 mainframe main memory subsystem development including chip design and
+verification, circuit and board-level analysis, and hardware prototype debugging and
+integration with other subsystems.
+honors and awards
+ieee fellow
+international symposium on microarchitecture test of time award
+three ieee micro top picks in computer architecture awards
+three ibm faculty awards
+nsf career award
+micro hall of fame
+kenneth a. goldman ’71 excellence in teaching award
+michael tien ’72 excellence in teaching award
+ralph s. watts ’72 excellence in teaching award
+ruth and joel spira excellence in teaching award (twice)
+ieee computer society golden core award
+prime computer patent plateau award
+two prime computer excellence awards
+ibm excellence award
+book chapters
+“alleviatingthermalconstraintswhilemaintainingperformanceviasilicon-basedon-
+chip optical interconnects,” n. nelson, g. briggs, m. haurylau, g. chen, h. chen,
+d.h. albonesi, e.g. friedman, and p.m. fauchet, unique chips and systems, crc
+press, .
+“power-efficient issue queue design,” a. buyuktosunoglu, d.h. albonesi, s. schuster,
+d. brooks, p. bose, p. cook, in power aware computing, r. graybill and r. melhem
+(eds), kluwer academic publishers, chapter 3, pp. 37-60, .
+“low-voltage 0.25um cmos improved power adaptive issue queue for embedded
+microprocessors,” b.w.curran, m.gifaldi, j.martin, a.buyuktosunoglu, m.margala,
+and d.h. albonesi, in soc design methodologies, m. robert, b. rouzeyre, c. piguet,
+and m.-l. flottes (eds), kluwer academic publishers, .
+journal publications
+“a phase adaptive cache hierarchy for smt processors,” s. lopez, o. garnica, d.h.
+albonesi, s. dropsho, j. lanchares, and j.i. hidalgo, microprocessors & microsystems,
+vol. 35, no. 8, pp. 683-694, november .
+“a low latency, high throughput on-chip optical router architecture for future
+chip multiprocessors,” m.j. cianchetti and d.h. albonesi, acm journal on emerg-
+ing technologies in computing systems, special issue on nanophotonic communication
+technology integration, vol. 7, no. 2, june .
+“remap: a reconfigurable architecture for chip multiprocessors,” m.a. watkins and
+d.h. albonesi, ieee micro, special issue on the top picks from the computer archi-
+tecture conferences, pp. 65-77, january/february (ieee micro top picks).
+“addressing thermal non-uniformity in smt workloads,” j.a. winter and d.h. al-
+bonesi, acm transactions on architecture and code optimization, vol. 5, no. 1, may
+.
+“predictions of cmos compatible on-chip optical interconnect,” g. chen, h. chen,
+m. haurylau, n. a. nelson, d. h. albonesi, p. m. fauchet, and e. g. friedman, inte-
+gration, the vlsi journal, vol. 40, no. 4, pp. 434-446, july .
+“on-chip optical technology in future bus-based multicore designs: opportunities
+and challenges,” n. kırman, m. kırman,, r.k. dokania, j. mart´ınez, a.b. apsel, m.a.
+watkins, and d.h. albonesi, ieee micro, special issue on the top picks from the
+computer architecture conferences, pp. 56-66, january/february (ieee micro
+top picks).
+“on-chip optical interconnect roadmap: challenges and critical directions,” m. hau-
+rylau, g. chen, h. chen, j. zhang, n.a. nelson, d.h. albonesi, e.g. friedman, and
+p.m. fauchet, ieee journal of selected topics in quantum electronics, special issue
+on silicon photonics, vol. 12, no. 6, pp. 1699-1705, november/december .
+“power efficient error tolerance in chip multi-processors,” m.w. rashid, e.j. tan,
+m.c. huang, and d.h. albonesi, ieee micro, special issue on reliability-aware mi-
+croarchitectures, vol. 25, no. 6, pp. 60-70, november/december .
+“micro’s top picks from microarchitecture conferences,” d.h. albonesi, ieee micro,
+guest editor’s introduction for special issue on micro’s top picks from microarchitec-
+ture conferences, vol. 24, no. 6, pp. 8-9, november/december .
+“an evaluation of a configurable vliw microarchitecture for embedded dsp applica-
+tions,” w.liu, d.h.albonesi, j.gostomski, l.palum, d.hinterberger, r.wanzenried,
+and m. indovina, journal of circuits, systems, and computers, special issue on vlsi
+architectures for multimedia applications, vol. 13, no. 6, pp. 1321-1345, december
+.
+“dynamically tuning processor resources with adaptive processing,” d.h. albonesi,
+r. balasubramonian, s.g. dropsho, s. dwarkadas, e.g. friedman, m.c. huang, v.
+kursun, g. magklis, m.l. scott, g. semeraro, p. bose, a. buyuktosunoglu, p.w. cook,
+and s.e. schuster, ieee computer, special issue on power-aware computing, vol. 36,
+no. 12, pp. 49-58, december .
+“dynamic frequency and voltage scaling for a multiple-clock-domain microproces-
+sor,” g. magklis, g. semeraro, d.h. albonesi, s.g. dropsho, s. dwarkadas, and m.l.
+scott, ieee micro, special issue on the top picks from the computer architecture
+conferences, vol. 23, no. 6, pp. 62-68, november/december (ieee micro top
+picks).
+“a dynamically tunable memory hierarchy,” r. balasubramonian, d.h. albonesi, a.
+buyuktosunoglu, and s. dwarkadas, ieee transactions on computers, vol. 52, no. 10,
+pp. 1243-1258, october .
+“power and complexity aware design,” p. bose, d.h. albonesi, and d. marculescu,
+ieee micro, guest editors’ introduction for special issue on power and complexity
+aware design, vol. 23, no. 5, pp. 8-11, september/october .
+“selective cache ways: on-demand cache resource allocation,” d.h. albonesi, jour-
+nal of instruction-level parallelism, special issue on the best papers from the 32nd
+international symposium on microarchitecture, vol. 2, .
+“runtime reconfiguration techniques for efficient general purpose computation,” b.
+xuandd.h.albonesi,ieee design & test of computers,specialissueonconfigurable
+computing, pp. 42-52, january-march, .
+“stats:aframeworkformicroprocessorandsystem-leveldesignspaceexploration,”
+d.h. albonesi and i. koren, journal of systems architecture, special issue on micro-
+processor architecture, vol. 45, no. 12-13, pp. 1097-1110, june .
+“a mean value analysis multiprocessor model incorporating superscalar processors
+and latency tolerating techniques,” d.h. albonesi and i. koren, international jour-
+nal of parallel programming, special issue on parallel architectures and compilation
+techniques, vol. 24, no. 3, pp. 235-263, august .
+refereed conference and workshop publications
+“cuttlesys: data-driven resource management for interactive applications on recon-
+figurable multicores,” n. kulkarni et al., 53rd international symposium on microarchi-
+tecture, october .
+“matraptor: a sparse-sparse matrix multiplication accelerator based on row-wise
+product,” n. srivastava et al., 53rd international symposium on microarchitecture, oc-
+tober .
+“tensaurus: a versatile accelerator for mixed sparse-dense tensor computations,” n.
+srivastava et al., 26th international symposium on high-performance computer archi-
+tecture, february .
+“productively generating high-performance spatial hardware for dense tensor com-
+putations,” n. srivastava et al., 27th international symposium on field-programmable
+custom computing machines, april .
+“deeprecon: dynamically reconfigurable architecture for accelerating deep neural
+networks,” t. rzayev, s. moradi, d.h. albonesi, and r. manohar, international joint
+conference on neural networks, may .
+“toolbox for exploration of energy-efficient event processors for human-computer
+interaction,” t. rzayev, d.h. albonesi, r. manohar, f. guimbretiere, and j. kihm,
+international symposium on performance analysis of systems and software, april2017.
+“dynamic gpgpu power management using adaptive model predictive control,” a.
+majumdar, l. piga, i. paul, j.l. greathouse, w. huang, and d.h. albonesi, 23rd in-
+ternational symposium on high performance computer architecture, february .
+“fractured arithmetic accelerator for training deep neural networks,” t. rzayev,
+s. moradi, d.h. albonesi, and r. manohar, workshop on hardware and algorithms
+for on-chip learning, held at the international conference on computer-aided design,
+november .
+“characterizing the benefits and limitations of smart building meeting room schedul-
+ing,” a. majumdar, z. zhang, and d.h. albonesi, 7th international conference on
+cyber-physical systems, april .
+“energy-comfort optimization using discomfort history and probabilistic occupancy
+prediction,” a. majumdar, j.l. setter, j.r. dobbs, b.m. hencey, and d.h. albonesi,
+5th international green computing conference, november .
+“flicker: a dynamically adaptive architecture for power limited multicore systems,”
+p. petrica, a.m. izraelevitz, d.h. albonesi, and c.a. shoemaker, 40th international
+symposium on computer architecture, pp. 13-23, june .
+“energy-aware meeting scheduling algorithms for smart buildings,” a. majumdar,
+d.h. albonesi, and p. bose, 4th acm workshop on embedded systems for energy-
+efficiency in buildings, november .
+“remap: a reconfigurable heterogeneous multicore architecture,” m.a. watkins and
+d.h. albonesi, 43rd international symposium on microarchitecture, pp. 497-508, de-
+cember .
+“scalable thread scheduling and global power management for heterogeneous many-
+core architectures,” j.a. winter, d.h. albonesi, and c.a. shoemaker, 19th interna-
+tional conference on parallel architectures and compilation techniques, pp. 29-39,
+september .
+“dynamically managed multithreaded reconfigurable architectures for chip multipro-
+cessors,” m.a. watkins and d.h. albonesi, 19th international conference on parallel
+architectures and compilation techniques, pp. 41-52, september .
+“adaptive cache memories for smt processors,” s. lopez, o. garnica, d.h. albonesi,
+s.dropsho,j.lanchares,andj.i.hidalgo,13theuromicroconferenceondigitalsystem
+design, pp. 331-338, september .
+“dynamic power redistribution in failure prone cmps,” p. petrica, j.a. winter, and
+d.h. albonesi, workshop on energy efficient design, june .
+“enabling parallelization via a reconfigurable chip multiprocessor,” m.a. watkins and
+d.h. albonesi, workshop on parallel execution of sequential programs on multi-core
+architectures, june .
+“phastlane: a rapid transit optical routing network,” m.j. cianchetti, j.c. kerekes,
+and d.h. albonesi, 36th international symposium on computer architecture, pp. 441-
+450, june .
+“shared reconfigurable architectures for cmps,” m.a. watkins, m.j. cianchetti, and
+d.h. albonesi, 18th ieee international conference on field programmable logic and
+applications, september (best paper award nomination).
+“thescalabilityofschedulingalgorithmsforunpredictablyheterogeneouscmparchi-
+tectures,” j.a. winter and d.h. albonesi, workshop on parallel execution of sequen-
+tial programs on multi-core architectures, held at the 35th international symposium on
+computer architecture, june .
+“scheduling algorithms for unpredictably heterogeneous cmp architectures,” j.a.
+winter and d.h. albonesi, 38th international conference on dependable systems and
+networks, pp. 42-51, june .
+“on-chipopticalinterconnects: challengesandcriticaldirections,”g.chen,h.chen,
+m. haurylau, n.a. nelson, d.h. albonesi, p.m. fauchet, and e.g. friedman, proceed-
+ings of the european optical society topical meeting on optical microsystems, p. 97,
+october .
+“on-chip optical interconnect for reduced delay uncertainty,” g. chen, h. chen, m.
+haurylau, n.a. nelson, d.h. albonesi, p.m. fauchet, and e.g. friedman, proceedings
+of nano-net, september .
+“dynamic capacity-speed tradeoffs in smt processor caches,” s. lopez, s. dropsho,
+d.h. albonesi, o. garnica, and j. lanchares, international conference on high perfor-
+mance embedded architectures and compilers, pp. 136-150, january .
+“leveragingopticaltechnologyinfuturebus-basedchipmultiprocessors,”n.kırman,
+m. kırman,, r.k. dokania, j. mart´ınez, a.b. apsel, m.a. watkins, and d.h. albonesi,
+39th international symposium on microarchitecture, december (best paper award
+nomination).
+“synergistic temperature and energy management in gals processor architectures,”
+y. zhu and d.h. albonesi, international symposium on low power electronics and
+design, pp. 55-60, october .
+“on-chip copper-based vs. optical interconnects: delay uncertainty, latency, power,
+and bandwidth density comparative predictions,” g. chen, h. chen, m. haurylau,
+n.a. nelson, d.h. albonesi, p.m. fauchet, and e.g. friedman, ieee international
+interconnect technology conference, pp. 39-41, june .
+“localized microarchitecture-level voltage management,” y. zhu and d.h. albonesi,
+international symposium on circuits and systems, pp. 37-40, may .
+“compatible phase co-scheduling on a cmp of multi-threaded processors,” a. el-
+moursy, r. garg, d.h. albonesi, and s. dwarkadas, 20th international parallel and
+distributed processing symposium, april .
+“exploiting coarse-grain verification parallelism for power-efficient fault tolerance,”
+m.w. rashid, e.j. tan, m.c. huang, and d.h. albonesi, 14th international conference
+on parallel architectures and compilation techniques, pp. 315-325, september .
+“on-chip optical interconnect roadmap: challenges and critical directions,” m. hau-
+rylau, h. chen, j. zhang, g. chen, n.a. nelson, d.h. albonesi, e.g. friedman, and
+p.m. fauchet, 2nd international group iv photonics conference, pp. 17-19, september
+.
+“quilt: a gui-based integrated circuit floorplanning environment for computer
+architecture research and education,” g.j. briggs, e.j. tan, n.a. nelson, and d.h.
+albonesi, workshop on computer architecture education, june .
+“electrical and optical on-chip interconnects in scaled microprocessors,” g. chen,
+h. chen, m. haurylau, n. nelson, d.h. albonesi, p.m. fauchet, and e.g. friedman,
+international symposium on circuits and systems, pp. 2514-2517, may .
+“predictions of cmos compatible on-chip optical interconnect,” g. chen, h. chen,
+m. haurylau, n. nelson, p.m. fauchet, e.g. friedman, and d.h. albonesi, 7th inter-
+national workshop on system level interconnect prediction, pp. 13-20, april .
+“a high performance, energy efficient, gals processor microarchitecture with re-
+duced implementation complexity,” y. zhu, d.h. albonesi, and a. buyuktosunoglu,
+international symposium on performance analysis of systems and software, pp. 42-53,
+march .
+“partitioning multi-threaded processors with a large number of threads,” a. el-
+moursy, r. garg, d.h. albonesi, and s. dwarkadas, international symposium on per-
+formance analysis of systems and software, pp. 112-123, march .
+“alleviatingthermalconstraintswhilemaintainingperformanceviasilicon-basedon-
+chipopticalinterconnects,”n.nelson,g.briggs,m.haurylau,g.chen,h.chen,d.h.
+albonesi, e.g. friedman, and p.m. fauchet, workshop on unique chips and systems,
+march .
+“dynamically trading frequency for complexity in a gals microprocessor,” s. drop-
+sho, g. semeraro, d.h. albonesi, g. magklis, and m.l. scott, 37th international sym-
+posium on microarchitecture, pp. 157-168, december (best paper award nomina-
+tion).
+“dynamically matching ilp characteristics via a heterogeneous clustered microar-
+chitecture,” l. chen, d.h. albonesi, and s. dropsho, ibm watson conference on the
+interaction between architecture, circuits, and compilers, pp. 136-143, october .
+“the energy impact of aggressive loop fusion,” y. zhu, g. magklis, m.l. scott, c.
+ding, and d.h. albonesi, 13th international conference on parallel architectures and
+compilation techniques, pp. 153-164, september .
+“mitigating inductive noise in smt processors,” w. el-essawy and d.h. albonesi,
+international symposium on low power electronics and design, pp. 332-337, august
+.
+“hiding synchronization delays in a gals processor microarchitecture,” g. semeraro,
+d.h. albonesi, g. magklis, m.l. scott, s.g. dropsho, and s. dwarkadas, 10th interna-
+tional symposium on asynchronous circuits and systems, pp. 159-169, april .
+“improving application performance by dynamically balancing speed and complexity
+in a gals microprocessor,” g. semeraro, d.h. albonesi, s. dropsho, g. magklis, s.
+dwarkadas, and m.l. scott, workshop on application specific processors, december
+.
+“energy efficient co-adaptive instruction fetch and issue,” a. buyuktosunoglu, t.
+karkhanis, d.h. albonesi, and p. bose, 30th international symposium on computer
+architecture, pp. 147-156, june .
+“dynamically managing the communication-parallelism trade-off in future clustered
+processors,” r. balasubramonian, s. dwarkadas, and d.h. albonesi, 30th international
+symposium on computer architecture, pp. 275-286, june .
+“profile-based dynamic voltage and frequency scaling for a multiple clock domain
+microprocessor,” g. magklis, m.l. scott, g. semeraro, d.h. albonesi, and s. dropsho,
+30th international symposium on computer architecture, pp. 14-25, june .
+“front-end policies for improved issue efficiency in smt processors,” a. el-moursy
+and d.h. albonesi, 9th international symposium on high-performance computer ar-
+chitecture, pp. 31-40, february .
+“dynamic data dependence tracking and its application to branch prediction,” l.
+chen,s.dropsho,andd.h.albonesi,9thinternationalsymposiumonhigh-performance
+computer architecture, pp. 65-76, february .
+“dynamic frequency and voltage control for a multiple clock domain microarchitec-
+ture,” g. semeraro, d.h. albonesi, s.g. dropsho, g. magklis, s. dwarkadas, and m.l.
+scott,35th international symposium on microarchitecture,pp. 356-367,november2002.
+“managing static leakage energy in microprocessor functional units,” s. dropsho, v.
+kursun, d.h. albonesi, s. dwarkadas, and e.g. friedman, 35th international sympo-
+sium on microarchitecture, pp. 321-332, november .
+“integrating adaptive on-chip storage structures for reduced dynamic power,” s.
+dropsho, a. buyuktosunoglu, r. balasubramonian, d.h. albonesi, s. dwarkadas, g.
+semeraro, g. magklis, and m.l. scott, 11th international conference on parallel archi-
+tectures and compilation techniques, pp. 141-152, september .
+“an oldest-first selection logic implementation for non-compacting issue queues,”
+a. buyuktosunoglu, a. el-moursy, and d.h. albonesi, 15th international asic/soc
+conference, pp. 31-35, september .
+“tradeoffs in power-efficient issue queue design,” a. buyuktosunoglu, d.h. albonesi,
+p. bose, p. cook, s. schuster, international symposium on low power electronics and
+design, pp. 184-189, august .
+“a microarchitectural-level step-power analysis tool,” w. el-essawy, d.h. albonesi,
+and b. sinharoy, international symposium on low power electronics and design, pp.
+263-266, august .
+“energyefficientprocessordesignusingmultipleclockdomainswithdynamicvoltage
+and frequency scaling,” g. semeraro, g. magklis, r. balasubramonian, d.h. albonesi,
+s.dwarkadas,andm.l.scott,8th international symposium on high-performance com-
+puter architecture, pp. 29-40, february .
+“early stage definition of lpx: a low power issue-execute processor,” p. bose, d.
+brooks, a. buyuktosunoglu, p. cook, k. das, p. emma, m. gschwind, h. jacobson, t.
+karkhanis, p. kudva, s. schuster, j. smith, v. srinivasan, v. zyuban, d. albonesi, s.
+dwarkadas, workshop on power-aware computer systems, february .
+“low-voltage 0.25um cmos improved power adaptive issue queue for embedded
+microprocessors,” b.w.curran, m.gifaldi, j.martin, a.buyuktosunoglu, m.margala,
+and d.h. albonesi, in 11th international conference on very large scale integration of
+systems-on/chip: soc design methodologies, pp. 289-300, december .
+“reducing the complexity of the register file in dynamic superscalar processors,” r.
+balasubramonian, s. dwarkadas, and d.h. albonesi, 34th international symposium on
+microarchitecture, pp. 237-248, december .
+“a dynamic reconfigurable clock generator,” r.m. secareanu, d. albonesi, and e.g.
+friedman, 14th international asic/soc conference, pp. 330-333, september .
+“dynamically allocating processor resources between nearby and distant ilp,” r.
+balasubramonian, s. dwarkadas, and d.h. albonesi, 28th international symposium on
+computer architecture, pp. 26-37, june .
+“a circuit level implementation of an adaptive issue queue for power-aware micro-
+processors,” a. buyuktosunoglu, s. schuster, d. brooks, p. bose, p. cook, and d.h.
+albonesi, 11th great lakes symposium on vlsi, pp. 73-78, march .
+“memory hierarchy reconfiguration for energy and performance in general purpose
+processor architectures,” r. balasubramonian, d.h. albonesi, a. buyuktosunoglu, and
+s. dwarkadas, 33rd international symposium on microarchitecture, pp. 245-257, de-
+cember .
+“an adaptive issue queue for reduced power at high performance,” a. buyukto-
+sunoglu, s. schuster, d. brooks, p. bose, p. cook, and d.h. albonesi, workshop on
+power-aware computer systems, november .
+“dynamic memory hierarchy performance optimization,” r. balasubramonian, d.h.
+albonesi, a. buyuktosunoglu, and s. dwarkadas, workshop on solving the memory
+wall problem, june .
+“an architectural and circuit-level approach to improving the energy efficiency of
+microprocessor memory structures,” d.h. albonesi, 10th international conference on
+vlsi, pp. 192-203, december .
+“selective cache ways: on-demand cache resource allocation,” d.h. albonesi, 32nd
+international symposium on microarchitecture, pp. 248-259, november .
+“a methodology for the analysis of dynamic application parallelism and its appli-
+cation to reconfigurable computing,” b. xu and d.h. albonesi, spie international
+conference on reconfigurable technology: fpgas for computing and applications, pp.
+78-86, september .
+“dynamic ipc/clock rate optimization,” d.h. albonesi, 25th international sympo-
+sium on computer architecture, pp. 282-292, june .
+“the inherent energy efficiency of complexity-adaptive processors,” d.h. albonesi,
+power-driven microarchitecture workshop, pp. 107-112, june .
+“improving the memory bandwidth of highly-integrated, wide-issue, microprocessor-
+based systems,” d.h. albonesi and i. koren, 5th international conference on parallel
+architectures and compilation techniques, pp. 126-135, november .
+“an automated and flexible framework for integrated microprocessor and system-
+level design space exploration,” d.h. albonesi and i. koren, workshop on perfor-
+mance analysis and its impact on design, pp. 25-34, june .
+“architectureandtechnologytradeoffsinthedesignofnext-generationmultiprocessor
+servers,” d.h. albonesi and i. koren, 7th ieee symposium on parallel and distributed
+processing, pp. 174-181, october .
+“an analytical model of high performance superscalar-based multiprocessors,” d.h.
+albonesiandi. koren, 3rd international conference on parallel architectures and com-
+pilation techniques, pp. 194-203, june .
+“tradeoffs in the design of single chip multiprocessors,” d.h. albonesi and i. koren,
+2nd international conference on parallel architectures and compilation techniques, pp.
+25-34, august .
+poster presentations
+“fractured arithmetic accelerator for training deep neural networks,” t. rzayev, s.
+moradi, d.h. albonesi, and r. manohar, workshop on hardware and algorithms for
+learning on-a-chip, november .
+“powerplay: coordinated power management and scheduling for unpredictably het-
+erogeneous cmps,” j.a. winter, d.h. albonesi, and c.a. shoemaker, international
+conference on architectural support for programming languages and operating sys-
+tems, march .
+“rate-driven control of resizable caches for highly threaded smt processors,” s.
+lopez, s. dropsho, d.h. albonesi, o. garnica, and j. lanchares, international confer-
+ence on parallel architectures and compilation techniques, september .
+“optical on-chip networks for high-performance, energy-efficient multi-core archi-
+tectures,” d.h. albonesi, j.f. martinez, m.a. watkins, n. kirman, m. kirman, k.
+bergman, l. carloni, and a. shacham, workshop on on- and off-chip interconnection
+networks for multicore systems, december .
+“leveraging optical technology in future bus-based chip multiprocessors,” n. kir-
+man, m. kirman, r.k. dokania, j.f. martinez, a.b. apsel, m.a. watkins, and d.h.
+albonesi, workshop on on- and off-chip interconnection networks for multicore sys-
+tems, december .
+patents
+“building power management systems,” d.h. albonesi, h. chong, b. hencey, and c.a.
+shoemaker, u.s. patent 10,371,405, issued 8/6/19.
+“multi-core computer processor based on a dynamic core-level power management
+forenhancedoverallpowerefficiency,” p.patrica, a.m.izraelevitz, d.h.albonesi, and
+c.a. shoemaker, u.s. patent 10,088,891, issued 10/2/18.
+“performance monitoring for new phase dynamic optimization of instruction dispatch
+cluster configuration,” r. balasubramonian, s. dwarkadas, and d.h. albonesi, u.s.
+patent 8,103,856, issued 1/24/12.
+“adaptive issue queue for reduced power at high performance,” a. buyuktosunoglu,
+s. schuster, d. brooks, p. bose, p. cook, and d.h. albonesi, u.s. patent 7,865,747,
+issued 1/4/11.
+“dynamic data dependence tracking and its application to branch prediction,” l.
+chen, d. albonesi, and s. dropsho, u.s. patent 7,571,302, issued 8/4/09.
+“multi-cluster processor operating only select number of clusters during each phase
+based on program statistic monitored at predetermined intervals,” r. balasubramo-
+nian, s. dwarkadas, and d.h. albonesi, u.s. patent 7,490,220, issued 2/10/09.
+“multipleclockdomainmicroprocessor,”d.h.albonesi,g.semeraro,g.magklis,m.l.
+scott, r. balasubramonian, and s. dwarkadas, u.s. patent 7,089,443, issued 8/8/06.
+“multipleclockdomainmicroprocessor,”d.h.albonesi,g.semeraro,g.magklis,m.l.
+scott, r. balasubramonian, and s. dwarkadas, u.s. patent 7,739,537, issued 3/27/06.
+“memory hierarchy reconfiguration for energy and performance in general-purpose
+processor architectures,” r. balasubramonian, d.h. albonesi, a. buyuktosunoglu, and
+s. dwarkadas, u.s. patent 6,834,328, issued 12/21/04.
+“dynamically reconfigurable memory hierarchy,”r. balasubramonian, d.h. albonesi,
+a. buyuktosunoglu, and s. dwarkadas, u.s. patent 6,684,298, issued 1/27/04.
+“mechanism for dynamically adapting the complexity of a microprocessor,” d.h. al-
+bonesi, u.s. patent 6,205,537, issued 3/20/01.
+“electric cable connection error-detect method and apparatus,” d.h. albonesi, u.s.
+patent 5,170,113, issued 12/8/92.
+“memoryboardselectionmethodandapparatus,”d.h.albonesi,u.s.patent5,119,486,
+issued 6/2/92.
+“system bus for multiprocessor computer system,” d.h. albonesi, b.k. langendorf,
+j. chang, j.g. faase, and m.j. homberg, u.s. patent 5,113,514, issued 5/12/92.
+“memoryerrorcorrectionsystem,”d.h.albonesi,u.s.patent4,920,539,issued4/24/90.
+graduated phd students
+tayyar rzayev, “architectures for intelligent interactive systems,” school of electrical
+and computer engineering, cornell university, may . first employment: xilinx
+incorporated.
+abhinandan majumdar, “proactive energy management for smart building and com-
+pute server architectures,” school of electrical and computer engineering, cornell
+university, december . first employment: intel corporation.
+paula petrica, “modular architectures and optimization techniques for power and re-
+liability in future many core microprocessors,” school of electrical and computer en-
+gineering, cornell university, january . first employment: intel corporation.
+mark cianchetti, “nanophotonic interconnect architectures for many-core micropro-
+cessors,” school of electrical and computer engineering, cornell university, january
+. first employment: intel corporation.
+matt watkins, “reconfigurable architectures for chip multiprocessors,” school of elec-
+trical and computer engineering, cornell university, august . first employment:
+harvey mudd college.
+jonathan winter, “adaptive thread management for power, performance, and relia-
+bility in future microprocessors,” department of computer science, cornell university,
+february . first employment: google.
+sonia lopez alarcon, “adaptive cache memories for smt processors,” department of
+computer architecture, universidad complutense de madrid, march (co-advisor
+with oscar garnica and juan lanchares). first employment: rochester institute of
+technology.
+yongkang zhu, “hardware and software optimizations for multiple clock domain
+microprocessors,” department of electrical and computer engineering, university of
+rochester, september . first employment: microsoft corporation.
+ali el-moursy, “highly efficient multithreaded architecture,” department of electrical
+and computer engineering, university of rochester, august (unofficial co-advisor:
+sandhya dwarkadas). first employment: intel corporation.
+wael el-essawy, “architectural level analysis and mitigation of inductive noise in
+simultaneous multi-threaded processors,” department of electrical and computer en-
+gineering, university of rochester, october . first employment: ibm austin re-
+search laboratory.
+lei chen, “dynamic data dependence tracking and its applications,” department of
+electrical and computer engineering, university of rochester, october . first
+employment: ibm austin research laboratory.
+greg semeraro, “multiple clock domain microarchitecture design and analysis,” de-
+partment of electrical and computer engineering, university of rochester, october
+. first employment: rochester institute of technology.
+rajeevbalasubramonian,“dynamicmanagementofmicroprocessorresourcesinfuture
+microprocessors,” department of computer science, university of rochester, august
+(unofficialco-advisor;advisor: sandhyadwarkadas). firstemployment: university
+of utah.
+alper buyuktosunoglu, “power-efficient issue queue design,” department of electrical
+andcomputerengineering,universityofrochester,june2003. firstemployment: ibm
+t.j. watson research center.
+current phd students
+neeraj kulkarni (co-advised with christina delimitrou), school of electrical and com-
+puter engineering, cornell university.
+nitish srivastava (co-advised with zhiru zhang), school of electrical and computer
+engineering, cornell university.
+postdoctoral researchers
+dr. steven dropsho, department of computer science, university of rochester, 9/ -
+10/ . first employment: epfl.
+graduated ms students
+haotianpan,“hvacenergyandoccupantcomfortoptimizationusingneuralnetwork-
+basedtemperatureprediction,”schoolofelectricalandcomputerengineering,cornell
+university, august . first employment: facebook.
+keith kraft, “trace cache hierarchies,” department of electrical and computer en-
+gineering, university of rochester, may . first employment: intel corporation.
+undergraduate research students
+ben roberge ( -18), adam wojciechowski ( -18), jason setter ( -15), vasu
+mannar ( ), wei geng ( ), scott mckenzie ( ), vitchyr pong ( ), adam
+izraelevitz ( -13), alvin wijaya ( ), ari karo ( ), jee ho ryoo ( -11),
+joseph kerekes ( -10), greg briggs ( ), alvin law ( ), jethro law ( ),
+john strasser ( ).
+phd dissertation committees
+filipp akopyan, major bhadauria, david biermann, tao chen, justin dobbs, david
+fang, bye-sah gantsog, saugata ghose, benjamin hill, raymond huang, engin ipek,
+sandra jackson, hanchen jin, meyrem kirman, chris lafrieda, jian li, derek lock-
+hart, janani mukundan, paruj ratanaworabhan, basit shiekh, karan singh, peter
+szwed, jonathan tse, xiaodong wang, vince weaver, yuan zhou (cornell); victor
+adler, magdy el-moursy, galen hunt, ivan kourtev, volkan kursun, grigoris magk-
+lis, andrey meshiba, umit rencuzogullari, tolga soyata, robert stets, kevin tang,
+dimitrios velenis, yutao zhong (university of rochester); anne bracy (university of
+pennsylvania); jaume abella (universitat politecnica de catalunya [upc]).
+ms thesis committees
+major bhadauria, ramazan bitirgen, julia karl, nevin kirman, catherine trammell
+(cornell); michael wieckowski (university of rochester).
+teaching and curriculum development
+the computing technology inside your smartphone
+online edx course. developed and taught spring’15. taught summer’16.
+digital logic and computer organization
+undergraduate course in digital logic design and computer architecture. revamped
+spring’10. taught spring’06, spring’07, spring’10, fall’13, fall’16, fall’17, fall’18, and
+fall’19.
+the computing technology inside your smartphone
+freshman course in computer systems. developed and taught fall’10. taught fall’11,
+fall’12, spring’17, spring’18, spring’19, and spring’20.
+memory systems
+graduate course covering advanced topics in caches, main memory, and storage systems.
+developed and taught spring’09. taught spring’11 and spring’14.
+resilient computer systems
+graduate course covering fault tolerant computer systems, including resilience in com-
+modity systems. developed and taught fall’08. taught spring’12.
+parallel computer architecture
+graduate course on the architecture of parallel systems. taught fall’09.
+contemporary issues in computer architecture
+graduate course covering research in high performance microarchitecture, with an em-
+phasis on power and reliability. developed and taught spring’05. taught fall’05 and
+fall’06.
+engineering seminar
+introductoryone-creditcourseforengineeringfreshman. taughtfall’05,fall’09,fall’13,
+and fall’17.
+power- and reliability-aware microarchitecture
+international summer school on advanced computer architecture and compilation
+for embedded systems (acaces). sponsored by the european hipeac organization.
+developed and taught summer’09.
+computer organization
+undergraduate level computer organization. developed and taught fall’01. taught
+fall’02 and fall’03.
+advanced computer architecture
+senior/graduate level computer architecture. developed and taught spring’98. taught
+spring’99, spring’00, and spring’01.
+computer design project
+undergraduatedesignprojectcourseforstudentsconcentratingincomputerengineering.
+taught spring’01, spring’02, spring’03, and spring’04.
+high performance microprocessor-based systems
+graduate course covering advanced research topics in high performance microarchitec-
+ture, and the microarchitecture of current industry designs. developed and taught
+fall’96. taught fall’97, fall’98, fall’99, fall’00, and fall’02.
+reconfigurable microprocessor design
+graduate research-oriented course in reconfigurable systems. taught spring’97.
+professional activities
+advisory board member: ieee micro ( -present)
+editor-in-chief: ieee micro ( - )
+associate editor: ieee micro ( - )
+associate editor: ieee computer ( -present)
+associate editor: acm transactions on architecture and code optimization ( -
+)
+associate editor: journal of circuits, systems, and computers ( - )
+special issue guest editor (with p. bose and d. marculescu): power and complexity
+aware design, ieee micro, september/october,
+workshop co-organizer: workshop on emerging technologies for interconnects, spon-
+sored by the national science foundation ( )
+workshop co-organizer: workshop on the interaction between nanophotonics and sys-
+tems, held at the international symposium on microarchitecture ( )
+workshop co-organizer: workshop on quality-aware design, held at the international
+symposium on computer architecture ( )
+workshop co-organizer: workshop on complexity-effective design, held at the interna-
+tional symposium on computer architecture ( - )
+tutorial co-organizer: tutorial on partially asynchronous microprocessors, held at the
+international symposium on computer architecture ( ) and the international sym-
+posium on microarchitecture ( )
+tutorial co-organizer: tutorial on minimally clocked microprocessor design, held at
+the international conference on supercomputing ( )
+ieee computer society fellows evaluation committee ( )
+ieee harry s. goode award committee ( -present)
+ieee/acm eckert-mauchly award committee ( - )
+acm sigarch/ieee cs tcca outstanding dissertation award committee ( -
+present)
+executive committee: ieee technical committee on computer architecture ( -
+)
+steering committee: international symposium on high performance computer archi-
+tecture ( - )
+steering committee: international symposium on microarchitecture ( - )
+steering committee: international symposium on performance analysis of systems and
+software ( - )
+general co-chair: international symposium on microarchitecture ( )
+general chair: international symposium on performance analysis of systems and soft-
+ware ( )
+program committee chair: international symposium on computer architecture ( )
+program committee chair: international symposium on performance analysis of sys-
+tems and software ( )
+program committee chair: ieee micro top picks from microarchitecture conferences
+( )
+program committee: ieee micro top picks from computer architecture conferences
+( , , , , , )
+program committee: international symposium on computer architecture ( , ,
+, , , , , )
+program committee: international symposium on high performance computer archi-
+tecture ( , , , , , )
+program committee: international symposium on microarchitecture ( , , ,
+)
+program committee: workshop on the intersection of computer architecture and re-
+configurable logic ( , )
+program committee: international conference on computer design ( , )
+program committee: international conference on green computing ( )
+program committee: workshop on energy-efficient computing for a sustainable world
+( )
+program committee: workshop on optimizations for dsp and embedded systems
+( )
+programcommittee: workshoponchipmultiprocessormemorysystemsandintercon-
+nects ( , )
+program committee: international conference on high performance and embedded
+architectures and compilers ( )
+program committee: workshop on biomedicine in computing: systems, architectures,
+and circuits ( )
+program committee: international forum on next-generation multicore/manycore
+technologies ( )
+program committee: reconfigurable and adaptive architecture workshop ( )
+program committee: workshop on architectures for gigascale integration ( )
+program committee: international workshop on advanced low power systems ( )
+program committee: international symposium on high performance computer archi-
+tecture, special session on industrial perspectives on challenges for next-generation
+computer systems ( )
+program committee: international symposium on parallel architectures and compila-
+tion techniques ( , )
+program committee: international symposium on low power electronics and design
+( )
+programcommittee: internationalsymposiumonperformanceanalysisofsystemsand
+software ( , , )
+programcommittee: workshoponpower-awarecomputingsystems( , , ,
+)
+program committee: workshop on power management for real-time and embedded
+systems ( )
+program committee: workshop on performance analysis and its impact on design
+( )
+proposal review panelist: national science foundation career, computer systems
+architecture, computer systems research, exploiting parallelism and scalability, and
+embedded and hybrid systems programs
+proposal reviewer: national science foundation design automation and experimental
+systems programs
+proposal reviewer: california micro program
+reviewer of numerous journal and conference papers each year
+research group generated problem sets for the 3rd edition of computer organization
+and design: the hardware/software interface by d. patterson and j. hennessy
+research group generated the chapter 2 alpha instruction set statistics for the 3rd
+edition of computer architecture: a quantitative approach by j. hennessy and d.
+patterson
+university/departmental service (cornell)
+-20 associate director
+robotics faculty recruiting committee
+faculty advisor (class of ’21)
+faculty mentor
+-19 ece abet coordinator
+chair, policy committee
+curriculum and standards committee
+computer engineering faculty recruiting committee
+faculty advisor (class of ’21)
+faculty mentor
+-18 ece abet coordinator
+chair, policy committee
+chair, director search committee
+computer engineering faculty recruiting committee
+faculty advisor (class of ’21)
+faculty mentor
+-17 ece abet coordinator
+policy committee
+computer engineering faculty recruiting committee
+faculty advisor (class of ’17)
+faculty mentor
+-16 associate director
+ece abet coordinator
+computer engineering faculty recruiting committee
+college curriculum governing board
+teaching excellence institute faculty advisory council
+faculty advisor (class of ’17)
+faculty mentor
+-15 associate director
+college curriculum governing board
+teaching excellence institute faculty advisory council
+faculty recruiting committee
+faculty advisor (class of ’17)
+faculty mentor
+-14 associate director
+college curriculum governing board
+teaching excellence institute faculty advisory council
+faculty advisor (class of ’17)
+faculty mentor
+-13 chair, policy committee
+teaching excellence institute faculty advisory council
+faculty advisor (class of ’13)
+faculty mentor
+-12 faculty advisory board on information technology
+teaching excellence institute faculty advisory council
+chair, policy committee
+faculty advisor (class of ’13)
+faculty mentor
+-11 faculty advisory board on information technology
+teaching excellence institute faculty advisory council
+policy committee (chair spring’11)
+faculty advisor (class of ’13)
+faculty mentor
+-10 faculty advisory board on information technology
+teaching excellence institute faculty advisory council
+curriculum and standards committee
+master’s of engineering committee
+faculty advisor (class of ’13)
+faculty mentor
+-09 faculty advisory board on information technology
+teaching excellence institute faculty advisory council
+computer engineering and circuits recruiting committee
+curriculum and standards committee
+faculty advisor (class of ’09)
+faculty mentor
+-08 faculty advisory board on information technology
+teaching excellence institute faculty advisory council
+building committee
+faculty advisor (class of ’09)
+faculty mentor
+-07 chair, computer engineering and circuits recruiting committee
+graduate committee
+nominating committee
+faculty advisor (class of ’09)
+faculty mentor
+-06 chair, computer engineering and circuits recruiting committee
+graduate committee
+nominating committee
+faculty advisor (class of ’09)
+faculty mentor
+co-organizer of the ece colloquium
+university/departmental service (rochester)
+-04 chair, graduate admissions committee
+faculty recruiting committee
+department resource committee
+advisor, class of ’06
+faculty mentor
+-03 chair, graduate admissions committee
+department resource committee
+advisor, class of ’06
+faculty mentor
+-02 faculty senate research policy committee
+chair, graduate admissions committee
+undergraduate committee
+faculty recruiting committee
+advisor, class of ’06
+faculty mentor
+-01 faculty senate research policy committee
+graduate admissions committee
+undergraduate committee
+faculty recruiting committee
+ece webmaster
+advisor, class of ’01
+- undergraduate committee
+faculty recruiting committee
+ece faculty secretary
+ece webmaster
+advisor, class of ’01
+orientation program reviewer
+-99 undergraduate committee
+faculty recruiting committee
+ece faculty secretary
+ece webmaster
+advisor, class of ’01
+-98 graduate admissions committee
+ece faculty secretary
+ece webmaster
+advisor, class of ’01
+orientation program reviewer
+-97 graduate admissions committee
+ece faculty secretary

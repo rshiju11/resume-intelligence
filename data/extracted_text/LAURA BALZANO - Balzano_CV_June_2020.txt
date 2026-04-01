@@ -1,0 +1,528 @@
+laura balzano 1301bealave
+annarbor,mi http://web.eecs.umich.edu/~girasole
+employment associateprofessorofelectricalengineeringandcomputerscience
+universityofmichigan,september2019–present.
+history
+visitingscholarandmember
+instituteforadvancedstudy,princetonnj,september2019 –present.
+assistantprofessorofelectricalengineeringandcomputerscience
+universityofmichigan,january2013–august2019.
+visitingresearcher
+universityofwisconsin,madisonanddukeuniversity,june-december2012.
+graduateresearchassistant
+universityofwisconsin,madison,january2008–may2012.
+visitingresearcher
+écolepolytechniquefédéraledelausanne(epfl),june–december2007.
+graduateresearchassistant
+universityofcalifornia,losangeles,september2004–june2007.
+softwaredeveloper
+appliedsignaltechnology,inc,june2002–june2004.
+education 05/ universityofwisconsin,madison
+phdinelectricalandcomputerengineering
+thesistitle:“handlingmissingdatainhigh-dimensionalsubspacemodeling.”
+thesisadvisers:robertnowak(ece)andbenjaminrecht(cs)
+majorarea:signalprocessing minorarea:mathematics
+03/ universityofcalifornia,losangeles
+masterofscienceinelectricalengineering
+majorarea:communications minorareas:optimization,
+statistics
+12/ riceuniversity
+bachelorofscienceinelectricalandcomputerengineering
+majorarea:computerengineering minorareas:signal
+processing,networking
+research laurabalzano.fulbrightcommissionportugal:newregularizersforlow-dimensional
+funding
+modelingofhigh-dimensionaldata.€10,250,may-july2020.(postponed.)
+laurabalzano.nationalsciencefoundation(nsf)career:robust,interpretable,and
+efficientunsupervisedlearningwithk-setclustering.$596,792,may2019-april2024.
+laurabalzano,yuekaisun,andsonjastarr.universityofmichiganmcubed:fairnessand
+legalityinalgorithmicdecisionmaking.$60,000,january2019-december2020.
+laurabalzano.airforceofficeofscientificresearch(afosr) yip:non-convexoptimization
+algorithmsandtheoryformatrixfactorizationwithdynamicmassivedata.$450,000,january
+-december2021.
+clayscott,jefffessler,mertpilanci,andlaurabalzano.nsfbigdata: randomandadaptive
+projectionsforscalableoptimizationandlearning.$1,000,000,january2019-dec2021.
+laurabalzano.armyresearchoffice(aro)yip:mathematicsforlearningnonlinear
+generalizationsofsubspacemodelsinhighdimensions.$360,000,november2018-october
+.
+laurabalzano.3mntfa:algorithmsforlow-dimensionalmodelingofhigh-dimensionaldata.
+$30,000,may2018-may2028.
+jasoncorso,laurabalzano.darpad3m:spider:subspaceprimitivesthatareinterpretable
+anddiverse.$1,600,000,march2017-july2020.
+junli,annagilbert,clayscott,gagnonbartsch,romanvershynin,laurabalzano,max
+wicha,suehammoud,gilomenn,justincolacino,ebrahimazizi,dianesimone,dana
+dolinoy,yuanfangguan.universityofmichiganmidas:michigancenterforsingle-cell
+genomicdataanalytics.$1,249,233,march2017-april2020.
+laurabalzano.nvidiahardwareaward,titanxgpu$4000msrp.october2016.
+laurabalzano,ericschwartz,alfredhero.universityofmichiganmcubed:consumer
+preferencelearningfromlimitedfeedback.$60,000,september2016-december2017.
+laurabalzano.intelearlycareerfellowship.$25,000,september2015-october2025.
+johannamathieu,laurabalzano.nsfenergy,power,andcontrolnetworks:inferringthe
+behaviorofdistributedenergyresourcesfromincompletemeasurements,$399,452,july
+-june2018.
+laurabalzano.aro:subspacemethodsformassiveandmessydata.$344,959,september
+-august2017.
+laurabalzano.nsfbrige:simultaneousmodelingandcalibrationforenvironmentalsensor
+data.$174,996,september2013-august2016.
+laurabalzano,brankokerkez,donscavia.universityofmichiganmcubed:amathematical,
+scientific,andmeasurementframeworkfortheassessmentofwaterbalanceandwater
+quality.$60,000,september2013-december2014.
+awards vulcanseducationexcellenceaward,universityofmichigan,january2020
+fulbrightu.s.scholaraward,february2019
+nationalsciencefoundationcareeraward,february2019
+airforceofficeofscientificresearchyounginvestigatoraward,october2018
+armyresearchofficeyounginvestigatoraward,may2018
+3mnon-tenuredfacultyaward,may2018.
+intelearlycareerfacultyhonorprogramaward,august2015.
+universityofwisconsin,electricalandcomputerengineeringdepartment,
+bestdissertationaward, .
+universityofwisconsinpeermentoraward, .
+3mfellowshipforgraduatestudy, - .
+innovativesignalanalysisgraduatescholarship, .
+universityofcalifornia,losangeles,electricalengineeringdepartment,
+outstandingmaster’sdegreeaward, .
+publications g.ongie,d.pimentel-alarcon,r.nowak,r.willett,andl.balzano,“tensormethodsfor
+nonlinearmatrixcompletion.”submittedtosiamjournalofthemathematicsofdata
+submitted or
+science.preprintavailableathttps://arxiv.org/abs/1804.10266.
+in preparation
+k.gilmanandl.balzano,“grassmannianoptimizationforonlinetensorcompletion
+andtrackinginthet-svdalgebra.”inpreparation.preprintavailableat
+https://arxiv.org/abs/ .11419.
+j.lipor,d.hong,y.tan,andl.balzano,“subspaceclusteringusingensemblesofk-
+subspaces.”submittedtotheimajournalofinformationandinference.preprintavailableat
+https://arxiv.org/abs/1709.04744.
+h.lyu,d.needell,andl.balzano,“onlinematrixfactorizationformarkoviandataand
+applicationstonetworkdictionarylearning.”submittedtothejournalofmachine
+learningresearch.preprintavailableathttps://arxiv.org/abs/ .01931.
+y.wang,t.thong,v.saligrama,j.colacino,l.balzano,andc.scott.“agenefilterfor
+comparativeanalysisofsingle-cellrna-sequencingtrajectorydatasets.”in
+preparation.earlyresultsavailableathttps://www.biorxiv.org/content/10.1101/637488v1.
+d.hong,l.balzano,andj.fessler,“optimallyweightedpcaforhigh-dimensional
+heteroscedasticdata.”inpreparation.earlyresultsavailableat
+https://arxiv.org/abs/1810.12862.
+d.zhangandl.balzano,“convergenceofagrassmanniangradientdescentalgorithm
+forsubspaceestimationfromundersampleddata.”inpreparation.earlyresults available
+athttps://arxiv.org/abs/1610.00199.
+journal
+publications
+1) t.thong,y.wang,m.d.brooks,c.lee,c.scott,l.balzano,m.s.wicha,j.a.colacino,
+“hybridstemcellsinnormalhumanandmousemammarygland:single-cell
+analysesrevealtranscriptomicsimilaritiestobasalbreastcancer.”frontiersin
+cellanddevelopmentalbiology8( ):288.
+2) j.liporandl.balzano,“newclusteringqualitymetricsforsubspaceclustering,”
+patternrecognition104( ):107328.
+3) a.eftekhari,g.ongie,l.balzano,andm.wakin,“streamingprincipalcomponent
+analysisfromincompletedata.”journalofmachinelearningresearch20,no.86
+( ):1-62.
+4) a.gitlin,b.tao,l.balzano,andj.lipor,“improvingk-subspacesviacoherence
+pursuit.”ieeejournalofselectedtopicsinsignalprocessing12,no.6( ):1575-
+1588.
+5) l.balzano,y.chi,andy.lu,“amodernperspectiveonstreamingpcaand
+subspacetracking:themissingdatacase.”proceedingsoftheieee,vol.106,no.8,
+pp.1293-1310,aug. .
+6) g.s.ledva,l.balzano,andj.l.mathieu,“real-timeenergydisaggregationofa
+distributionfeeder’sdemandusingonlinelearning.”ieeetransactionsonpower
+systems33,no.5( ):4730-4740.
+7) d.hong,l.balzano,andj.fessler,“asymptoticperformanceofpcaforhigh-
+dimensionalheteroscedasticdata.”journalofmultivariateanalysis,167( ):435-
+452.
+8) j.lipor,b.wong,d.scavia,b.kerkez,l.balzano,“distance-penalizedactive
+learningforspatialsampling.”ieeetransactionsonsignalprocessing65,no.20
+( ):5453-5465.
+9) a.eftekhari,l.balzano,andm.wakin,“whattoexpectwhenyouareexpectingon
+thegrassmannian.”ieeesignalprocessingletters24,no.6( ):872-876.
+10) r.kennedy,l.balzano,s.j.wright,andc.j.taylor,“onlinealgorithmsfor
+factorization-basedstructurefrommotion,”journalforcomputervisionandimage
+understanding150( ):139-152.
+11) l.balzanoands.wright,“localconvergenceofanalgorithmforsubspace
+identificationfrompartialdata,’’journalforfoundationsoncomputational
+mathematics(focm)15,no.5( ):1279-1314.
+12) j.he,d.zhang,l.balzano,andt.tao,“iterativegrassmannianoptimizationfor
+robustimagealignment,”journalofimageandvisioncomputing 32,no.10( ):
+800-813.
+13) v.tan,l.balzano,ands.draper,“rankminimizationoverfinitefields:
+fundamentallimitsandcoding-theoreticinterpretations,’’ieeetransactionson
+informationtheory58,no.4( ): - .
+14) k.ni,n.ramanathan,m.n.hajjchehade,l.balzano,s.nair,s.zahedi,g.pottie,m.
+hansen,andm.srivastava,“sensornetworkdatafaulttypes,”acmtransactionson
+sensornetworks 5,no.3( ):25.
+15) s.ganeriwal,l.balzano,andm.srivastava,“reputation-basedframeworkforhigh
+integritysensornetworks,”acmtransactionsonsensornetworks4,no.3( ):
+15.
+16) v.gambiroza,p.yuan,l.balzano,y.liu,s.sheafor,ande.knightly,“design,
+analysis,andimplementationofdvsr:afair,highperformanceprotocolfor
+packetrings,”ieee/acmtransactionsonnetworking 12,no.1( ):85-102.
+conference
+publications
+1) a.bowerandl.balzano,“preferencemodelingwithcontext-dependentsalient
+features.”acceptedtotheinternationalconferenceonmachinelearning(icml), .
+preprintavailableathttps://arxiv.org/abs/ .09615.
+2) k.gilmanandl.balzano,“onlinetensorcompletionandfreesubmoduletracking
+withthet-svd.”proceedingsoftheinternationalconferenceofconferencefor
+acoustics,speech,andsignalprocessing(icassp),may2020.
+3) z.du,n.ozay,andl.balzano,“modeclusteringformarkovjumpsystems.”
+proceedingsoftheieeeconferenceoncomputationaladvancesinmulti-sensorarray
+processing(camsap),december2019.beststudentpaper,3rdplace.
+4) d.hong,l.balzano,andj.fessler,“probabilisticpcaforheteroscedasticdata.”
+proceedingsoftheieeeconferenceoncomputationaladvancesinmulti-sensorarray
+processing(camsap),december2019.
+5) d.hong,s.lei,j.l.mathieu,andl.balzano,“explorationoftensordecomposition
+appliedtocommercialbuildingbaselineestimation.”proceedingsoftheieeeglobal
+conferenceonsignalandinformationprocessing(globalsip),november2019.
+6) k.gilmanandl.balzano,“panoramicvideoseparationwithonlinegrassmannian
+robustsubspaceestimation.”internationalconferenceoncomputervision(iccv),
+workshoponrobustsubspacelearningandapplicationsincomputervision, .
+7) a.ritchie,c.scott,l.balzano,d.kessler,c.sripada,“supervisedprincipal
+componentanalysisviamanifoldoptimization.”ieeedatascienceworkshop
+(dsw),june2019.
+8) d.zhang,t.zhao,andl.balzano.“informationmaximizationauto-encoding.”
+workshoponbayesiandeeplearning,neurips2018.
+9) j.liporandl.balzano,“clusteringqualitymetricsforsubspaceclustering,”
+proceedingsoftheasilomarconferenceonsignals,systems,andcomputers, .
+10) g.s.ledva,l.balzano,andj.mathieu,“exploringconnectionsbetweenamultiple
+modelkalmanfilteranddynamicfixedsharewithapplicationstodemand
+response.”proceedingsoftheieeeconferenceoncontroltechnologyandapplications
+(ccta), .
+11) d.hong,r.malinas,j.fessler,andl.balzano,“learningdictionary-basedunionsof
+subspacesforimagedenoising.”proceedingsoftheeuropeansignalprocessing
+conference(eusipco) .
+12) z.du,l.balzano,andn.ozay,“arobustalgorithmforonlineswitchedsystem
+identification.”proceedingsofthesymposiumonsystemidentification(sysid) .
+13) g.ongie,d.hong,d.zhang,andl.balzano,“onlineestimationofcoherent
+subspaceswithadaptivesampling.”proceedingsofthesspworkshop2018.
+14) d.zhang,j.katz-samuels,m.figueiredo,andl.balzano,“simultaneoussparsityand
+parametertyingfordeeplearningusingorderedweighted$\ell_1$
+regularization,”proceedingsofthesspworkshop2018.
+15) g.ongie,n.murthy,l.balzano,andj.fessler,“memory-efficientsplitting
+algorithmsforlarge-scalesparsityregularizedoptimization.”proceedingsofthe
+internationalconferenceonimageformationinx-raycomputedtomography(ct
+meeting) .
+16) a.bower,l.jain,andl.balzano,“thelandscapeofnonconvexquadratic
+feasibility.”proceedingsoftheinternationalconferenceforacoustics,speech,and
+signalprocessing(icassp) .
+17) d.zhang,h.wang,m.figueiredo,andl.balzano,“learningtoshare:simultaneous
+parametertyingandsparsificationfordeeplearning.”proceedingsofthe
+internationalconferenceonlearningrepresentations(iclr) .
+18) g.ongie,s.dewangan,j.fessler,andl.balzano,“onlinedynamicmri
+reconstructionviarobustsubspacetracking.”proceedingsoftheieeeglobal
+conferenceonsignalandinformationprocessing(globalsip),november2017.
+19) g.ongie,d.hong,d.zhang,andl.balzano,“enhancedonlinesubspaceestimation
+viaadaptivesensing.”proceedingsoftheasilomarconferenceonsignals,systems,
+andcomputers,november2017.
+20) d.pimentel-alarcon,g.ongie,l.balzano,r.nowak,andr.willett,“lowalgebraic
+dimensionmatrixcompletion.”proceedingsoftheallertonconferenceon
+communications,control,andcomputing,september .
+21) j.liporandl.balzano,“leveragingunionofsubspacestructuretoimprove
+constrainedclustering.”proceedingsoftheinternationalconferenceonmachine
+learning(oralpresentation25%acceptance),august2017.
+22) g.ongie,l.balzano,r.nowak,andr.willett,“algebraicvarietymodelsforhigh-
+rankmatrixcompletion.”proceedingsoftheinternationalconferenceonmachine
+learning(oralpresentation25%acceptance),august2017.
+23) d.pimentelalarcon,l.balzano,r.marcia,r.nowak,andr.willett,“mixture
+regressionassubspaceclustering.”proceedingsofthesamplingtheoryand
+applicationsconference(sampta),july2017.
+24) d.zhangandl.balzano,“matchedsubspacedetectionusingcompressively
+sampleddata.”proceedingsoftheinternationalconferenceforacoustics,speech,and
+signalprocessing(icassp),march2017.
+25) n.rao,r.ganti,l.balzano,r.willett,andr.nowak,“onlearninghigh-dimensional
+structuredsingleindexmodels.”proceedingsoftheconferenceoftheassociationfor
+theadvancementofartificialintelligence(aaai)(oralpresentation),february2017.
+26) d.hong,l.balzano,andj.fessler,“towardsatheoreticalanalysisofpcafor
+heteroscedasticdata.”proceedingsoftheallertonconferenceoncommunications,
+control,andcomputing,september2016.
+27) p.xiaoandl.balzano,“onlinesparseandorthogonalsubspaceestimationfrom
+partialinformation.”proceedingsoftheallertonconferenceoncommunications,
+control,andcomputing,september2016.
+28) d.pimentelalarcon,l.balzano,andr.nowak,“necessaryandsufficientconditions
+forsketchedsubspaceclustering.”proceedingsoftheallertonconferenceon
+communications,control,andcomputing,september2016.
+29) d.pimentelalarcon,l.balzano,r.marcia,r.nowak,andr.willett,“group-sparse
+subspaceclusteringwithmissingdata.”proceedingsoftheieeestatisticalsignal
+processing(ssp)workshop,july2016.
+30) n.rao,r.ganti,l.balzano,r.willett,andr.nowak,“onlearninghigh-dimensional
+structuredsingleindexmodels.”workshoponadvancesinnon-convexanalysisand
+optimizationattheinternationalconferenceonmachinelearning(icml),june2016.
+31) d.zhangandl.balzano,“globalconvergenceofagrassmanniangradient
+descentalgorithmforsubspaceestimation.”proceedingsofartificialintelligence
+andstatistics(aistats)(posterpresentation30%acceptance),may2016.
+32) r.ganti,l.balzano,andr.willett,“matrixcompletionundermonotonicsingle
+indexmodels,”proceedingsoftheconferenceforneuralinformationprocessing
+systems(nips)(posterpresentation25%acceptance),december2015.
+33) j.liporandl.balzano,“margin-basedactivesubspaceclustering,”proceedingsof
+theieeeconferenceoncomputationaladvancesinmulti-sensorarrayprocessing
+(camsap),december2015.
+34) j.lipor,l.balzano,b.kerkez,andd.scavia,“quantile-search:adistance-penalized
+activelearningalgorithmforspatialsampling,”proceedingsoftheallerton
+conferenceoncommunications,control,andcomputing,september2015.
+35) g.s.ledva,l.balzano,andj.l.mathieu,“inferringthebehaviorofdistributed
+energyresourceswithonlinelearning,”proceedingsoftheallertonconferenceon
+communications,control,andcomputing,september2015.
+36) r.kennedy,c.j.taylor,andl.balzano,“onlinecompletionofill-conditionedlow-
+rankmatrices,’’ieeeglobalconferenceonsignalandinformationprocessing
+(globalsip),december2014.
+37) j.liporandl.balzano,“robustblindcalibrationvialeastsquares,’’ieee
+internationalconferenceonacoustics,speech,andsignalprocessing(icassp),may
+.
+38) r.kennedy,l.balzano,s.j.wright,andc.j.taylor,“onlinealgorithmsfor
+factorization-basedstructurefrommotion,”ieeewinterconferenceonapplications
+ofcomputervision(wacv),march2014.
+39) d.pimentel,r.nowak,andl.balzano,“onthesamplecomplexityofsubspace
+clusteringwithmissingdata,’’proceedingsofthestatisticalsignalprocessing
+workshop(ssp),june2014.
+40) l.balzanoands.wright,“ongrouseandtheisvd,’’proceedingsoftheieee
+workshoponcomputationaladvancesinmulti-sensoradaptiveprocessing(camsap),
+specialsessiononnewsensingandinferencemethodsforlarge-scaledata,december
+.
+41) j.he,d.zhang,l.balzano,andt.tao,“iterativeonlinesubspacelearningfor
+robustimagealignment,”ieeeautomaticfaceandgesturerecognitionconference,
+april2013.
+42) l.balzano,a.szlam,b.recht,andr.nowak,“k-subspaceswithmissingdata,’’
+proceedingsofthestatisticalsignalprocessingworkshop(ssp),august2012.
+43) j.he,l.balzano,anda.szlam,“incrementalgradientonthegrassmannianfor
+onlineforegroundandbackgroundseparationinsubsampledvideo,’’
+proceedingsoftheconferenceoncomputervisionandpatternrecognition(cvpr)(oral
+presentation5%acceptance),june2012.
+44) l.balzano,b.eriksson,andr.nowak,“high-rankmatrixcompletion,’’proceedingsof
+theconferenceonartificialintelligenceandstatistics(aistats)(poster presentation
+35%acceptance),april2012.
+45) v.tan,l.balzano,ands.draper,“rankminimizationinfinitefields,’’proceedingsof
+theinternationalsymposiumoninformationtheory(isit),august2011.
+46) l.balzano,r.nowak,andm.roughan,“onthesuccessofnetworkinferenceusing
+amarkovrandomwalkmodel,”proceedingsoftheinternationalconferenceon
+acoustics,speech,andsignalprocessing(icassp),may2011.
+47) l.balzano,w.bajwa,andr.nowak,“columnsubsetselectionwithmissingdata,”
+inthenipsworkshoponlow-rankmethodsforlarge-scalemachinelearning,december
+.
+48) l.balzano,b.recht,andr.nowak,“onlineandadaptivetrackingofsubspaces
+fromhighlyincompleteinformation,”inthenipsworkshoponlow-rankmethods
+forlarge-scalemachinelearning,december2010.
+49) l.balzano,r.nowak,andb.recht,“onlineandadaptivetrackingofsubspaces
+fromhighlyincompleteinformation,”proceedingsoftheallertonconferenceon
+communications,control,andcomputing,september2010.
+50) l.balzano,b.recht,andr.nowak,“high-dimensionalmatchedsubspacedetection
+whendataaremissing,”proceedingsoftheinternationalsymposiumoninformation
+theory(isit),june2010.
+51) l.balzanoandr.nowak,“blindcalibrationinsensornetworks,”proceedingsofthe
+conferenceoninformationprocessinginsensornetworks(ipsn)(oralpresentation15%
+acceptance),april2007.
+52) n.ramanathan,l.balzano,d.estrin,t.harmon,m.hansen,j.jay,b.kaiser,andg.
+sukhatme.“designingwirelesssensornetworksasasharedresourcefor
+sustainabledevelopment,”proceedingsofthe1stinternationalconferenceon
+informationandcommunicationtechnologiesanddevelopment,april2006.
+abstracts, 1) g.s.ledva,z.du,l.balzano,andj.mathieu,“disaggregatingloadbytypefrom
+distributionsystemmeasurementsinreal-time.”energymarketsandresponsive
+book chapters,
+grids:modeling,control,andoptimization,seanmeyn,tariqsamad,sonjaglavaski,ian
+and other hiskens,andjakobstoustrup,editors.pp.413-437.springer,newyork,ny, .
+publications
+2) d.zhang,y.sun,b.eriksson,andl.balzano,“deepunsupervisedclusteringusing
+amixtureofautoencoders.”universityofmichigantechreportat
+http://hdl.handle.net/ .42/145190.
+3) d.zhangandl.balzano,“convergenceresultsofgrouse,’’presentedatsignal
+processingwithadaptivesparsestructuredrepresentations(spars),june2017.
+4) j.liporandl.balzano,“leveragingunionofsubspacestructuretoimprove
+constrainedclustering,’’presentedatsignalprocessingwithadaptivesparse
+structuredrepresentations(spars),june2017.
+5) a.eftekhari,l.balzano,d.yang,m.wakin,“snipeformemory-limitedpcafrom
+incompletedata:fromfailuretosuccess,’’presentedatsignalprocessingwith
+adaptivesparsestructuredrepresentations(spars),june2017.
+6) d.hong,l.balzano,andj.fessler,“theoreticalanalysisofpcawith
+heteroscedasticdata,’’presentedatsignalprocessingwithadaptivesparsestructured
+representations(spars),june2017.
+7) n.farouk,m.zhang,andl.balzano,“ordinalembeddingwithalatentfactor
+model,”universityofmichigantechreportcspl-420,march2017.
+8) b.wong,b.kerkez,j.lipor,l.balzano,andd.scavia,“measuringthewaterquality
+oflakesusinganinternet-enabledrobot,’’presentedattheinternationalconference
+onhydroinformatics,august2016.
+9) r.kennedy,c.j.taylor,andl.balzano,“onlinecompletionofill-conditionedlow-
+rankmatrices,’’signalprocessingwithadaptivesparsestructuredrepresentations
+(spars),june2015.
+10) j.liporandl.balzano,“quantilesearch,”signalprocessingwithadaptivesparse
+structuredrepresentations(spars),june2015.
+11) a.russell-graham,p.xiao,s.brown,andl.balzano,“determinationoftrendsin
+ozoneinthemid-atlanticusingnon-negativematrixfactorization,”american
+geophysicalunion(agu)fallmeeting,december2014.
+12) j.he,l.balzano,anda.szlam,“onlinerobustbackgroundmodelingvia
+alternatinggrassmannianoptimization.’’backgroundmodelingandforeground
+detectionforvideosurveillance,thierrybouwmans,editor.chapmanandhall.july
+.
+13) l.balzano,“handlingmissingdatainhigh-dimensionalsubspacemodeling,”
+ph.d.thesisunderthesupervisionofprofessorsrobnowak,benrecht,barryvanveen,
+starkdraper,andjordanellenberg.universityofwisconsin,madison,may2012.
+14) l.balzano,r.nowak,a.szlamandb.recht,“k-subspaceswithmissingdata,”
+universityofwisconsintechreportece-11-02,february2011.
+15) he,l.balzano,a.szlam,andj.c.s.lui,“onlinerobustsubspacetrackingfrom
+partialinformation,’’techreport;arxivversionavailableat
+http://arxiv.org/abs/1109.3827
+16) l.balzanoandj.ellenberg,“understandingpersistenthomologyandplexusinga
+networkingdataset,”universityofwisconsintechreport,october2010.
+17) l.balzanoandr.nowak,“blindcalibrationofnetworksofsensors:theoryand
+applications,”networkedsensinginformationandcontrol,venkateshsaligrama,editor.
+springer2008.
+18) l.balzano,“addressingfaultandcalibrationinsensornetworks,”mastersthesis
+undertheguidanceofprofessorsmanisrivastava,markhansen,gregpottieandsteven
+margulis.universityofcalifornia,losangeles,march2007.
+19) n.ramanathan,l.balzano,m.burt,d.estrin,e.kohler,t.harmon,c.harvey,j.jay,s.
+rothenberg,andm.srivastava,“rapiddeploymentwithconfidence:calibration
+andfaultdetectioninenvironmentalsensornetworks,”centerforembedded
+networkedsensing(cens)technicalreport#62,april2006.
+teaching
+experience
+courses taught
+term course number enrollment q1 q2 q4
+wn2013 eecs/ioe600 functionalanalysisforoptimization 16 4.33 4.75
+fa2013 eecs451 digitalsignalprocessingandanalysis 74 4.37 4.73 4.33
+wn2014 eecs564 estimation,filtering,anddetection 40 4.25 4.50 4.50
+fa2014 eecs451 digitalsignalprocessingandanalysis 91 4.11 4.24 4.17
+fa2014 eecs/ioe600 functionalanalysisforoptimization 17 4.50 4.50 4.50
+fa2015 eecs351 digitalsignalprocessingandanalysis 40 4.44 4.72 4.46
+wn2016 eecs564 estimation,filtering,anddetection 37 4.64 4.83 4.59
+fa2016 eecs351 digitalsignalprocessingandanalysis 49 4.74 4.92 4.39
+fa2016 eecs/ioe600 functionalanalysisforoptimization 24 4.17 4.40 4.58
+fa2018 eecs/ioe600 functionalanalysisforoptimization 21 4.80 4.70 4.60
+wn2019 eecs351 digitalsignalprocessingandanalysis 59 4.50 4.70 4.10
+scoresoutof5:
+q1:overall,thisisanexcellentcourse.
+q2:overall,laurabalzanoisanexcellentteacher.
+q4:ihaveastrongdesiretotakethiscourse.
+advisees zhedu,co-advisedbynecmiyeozayjoinedjuly2016.
+yutongwang,co-advisedbyclayscottjoinedjanuary2017.
+amandabower,aimstudentco-advisedbymartinstraussjoinedjanuary2017.
+kylegilman,joinedseptember2018.
+alexritchie,joinedseptember2018.
+dejiaozhang,joinedseptember2013,proposaljanuary2018,ph.d.defensemay2019.
+“extractingcompactknowledgefrommassivedata”
+nextposition:appliedresearchscientistatamazonwebservices,newyork
+davidhong,co-advisedbyjeffreyfesslerjoinedjanuary2015,proposalmarch2017,ph.d.
+defensemarch2019.
+“learninglow-dimensionalmodelsforheterogeneousdata”
+nextposition:postdoctoralscholaratpenn–whartonstatisticsdepartment
+johnlipor,joinedseptember2013,proposalnovember2016,ph.d. defenseseptember2017.
+“sensingstructuredsignalswithactiveandensemblemethods”
+nextposition:assistantprofessor,portlandstateuniversityelectricalandcomputerengineering.
+postdoctoralresearchers
+haroonrajajoinedaugust2019.
+gregoryongie,co-advisedbyjeffreyfesslerseptember2016–july2018.
+followingposition:assistantprofessor,marquetteuniversitymath,startingfall2020.
+undergraduateandmastersstudentresearchers
+pengyuxiao,joinedjanuary2014,m.s.completionmay2016.
+nextposition:algorithmengineeratjingdong.
+short-termresearchers:richardortman,pragyaagrawal,stevenroudebush,norafarouk,
+mingyuan(william)zhang,mostafashuva,hanabaker,richardkim,dengwangtang,junjie
+dong,chenlangwang,saketdewangan,andrewgitlin,akashrastogi,robertmalinas,justin
+malin,shanthakumarvenkatraman,zeyusun,austinxu
+outreach and facultyadvisorformichiganieeestudentbranch( -present)andmidasmsail
+artificialintelligencereadinggroup( -present).
+extra-curricular
+supportingstudentsinfindingusefulresourcesandhelpingmaintaincontinuityacrossstudent
+officers.
+nsfresearchexperienceforundergrads(reu)advisor, -present
+ai4alluniversityofmichiganpresenter,
+michiganinstitutefordatascience(midas)certificatestudentprogram,september
+–december2018
+monthlymeetingswiththedatasciencecertificatestudents,workingtobuildacommunityand
+cultureofdatascienceleadershipat michigan.
+universityofmichiganpipelineinitiativeandwolverinepathways,
+workingwithlocalschooldistricts,thisprogramoffersresearch-basedstudytounderrepresented
+studentsandsupportsthemthroughcollegeadmission.theprogramin2015includedmylectures
+inmachinelearning,andongoingprogramsincludemymaterialina“computationalthinking”
+module.
+michiganmstemacademies,june2013
+visitwithstudentsinthemstemprogramasthetransitionfromhighschooltostemfieldsatthe
+universityofmichigan.
+undergraduateresearchopportunityprogram,june2014–may2016
+mentorundergraduatestudentsonresearchactivities.
+girlsineecs(geecs)studentgroupadvisor,september2013-september2015
+deltacertificateprogramforresearch,teachingandlearninginstemfields,
+universityofwisconsin,june2010–june2012
+studiedresearchforteachinginthecollegeclassroom,forteachinginternationalanddiverse
+communities,andformotivatinghighschoolstudents’interestinstemcareers.taughtunitsof
+thecollegeclassroomcourseandtaughttohighschoolstudentsatmadisonlafollettehs
+talks and
+seminars
+keynote and environmentalprotectionagency(epa)airsensorsmeeting,march2013.
+plenary talks
+selected invited • princetoncolloquiumseriesfortheprograminappliedandcomputationalmathematics,
+seminars
+february2020
+• princetoncolloquiumoftheoperationsresearchandfinancialengineering,december
+• michampmichiganintegratedcenterforhealthanalyticsandmedicalpredictionseminar,
+february2019.
+• berkeleylaboratoryforinformationsystemsandsciences(bliss)seminar,november
+• simonsworkshoponrobusthigh-dimensionalstatistics,november2018.
+• simonsworkshoponrandomizednumericallinearalgebraandapplications,september
+.
+• aroworkshopongeometryofinformationandcomputationformachinelearning,may
+.
+• michiganinstituteforcomputationaldiscovery&engineering(micde)symposium
+speaker,april2017.
+• toyotatechnicalinstituteofchicagoseminar,march2017.
+• simonsinteractivelearningworkshop,february2017.
+• instituteformathematicsanditsapplications(ima)summerschoolonmathematical
+optimization,august2016.
+• airforceresearchlabseminar,june2016.
+• workshopforgeometryinmachinelearningattheinternationalconferenceonmachine
+learning(icml),june2016.
+• theinstituteformathematicsanditsapplications(ima)workshoponresource
+tradeoffs:computation,communication,andinformation,may2016.
+• imaworkshoponoptimizationandparsimoniousmodeling,january2016
+• johnshopkinscenterforimagingscience,may2015.
+• annualworkshopondatascience,tennesseestateuniversity,april2015.
+• universityofchicagocomputationseminar,april2015.
+• claremontmckennamathdepartment,february2015.
+• workshopforsparserepresentations,numericallinearalgebra,andoptimizationatthe
+banffinternationalresearchstation(birs),october2014.
+• coloradoschoolofminescenterforautomation,robotics,anddistributedintelligence
+(cardi)andtheeecsdepartment,august2014.
+• universityofmichiganappliedinterdisciplinarymathematicsseminar,march2014.
+• universityofmichiganstatisticscolloquium,november2013.
+• toyotaartificialintelligenceseminaratmichigan,october2013.
+• universityofmichigancommunicationsandsignalprocessingseminar,february2013.
+• adaptivedataanalysisandsparsityworkshopattheinstituteforpureandapplied
+mathematics(ipam),january2013.
+professional organizer/programcommittee
+• instituteforadvancedstudyvirtualworkshoponmissingdatachallengesinstatistics,
+activities and
+computation,andapplications,september2020.
+service • ieeeworkshoponcomputationaladvancesinmulti-sensoradaptiveprocessing
+(camsap)-specialsessionontheintersectionofoptimizationtheoryandinformation
+processing,december2019.
+• samplingtheoryandapplications(sampta) –conferencesessiononmissingdata
+imputation,july2019.
+• neuralinformationprocessingsystems(neurips)–seniorprogramcommittee2019.
+• internationalconferenceonmachinelearning(icml) –seniorprogramcommittee2019,
+technicalprogramcommittee2017
+• aistats-seniorprogramcommittee2019,technicalprogramcommittee2017-
+• midwestmachinelearningworkshop–organizingcommittee2017, ;advisoryboard
+, (postponed)
+• spars-technicalprogramcommittee2015, ,
+• ieeeworkshoponstatisticalsignalprocessing(ssp)–technicalprogramcommittee
+• michiganstatisticalmachinelearningreadinggroup(smlrg)workshop-organizer
+-
+• asilomar-specialsessionchairforthesessiononstructuredmatrixandcovariance
+recoverywithinthetrackonsignalprocessingandadaptivesystems2017
+• pulsarinformationprocessingworkshop–leadorganizer(concurrentwithspars)
+• siamoptimization-minisymposiumonnon-convexmethodsorganizer2017
+• neuralinformationprocessingsystems(nips)–technicalprogramcommittee2016
+• ieeeworkshoponcomputationaladvancesinmulti-sensoradaptiveprocessing
+(camsap)-specialsessiononoptimizationandadaptivityinbigdataorganizer2015
+• ieeeconferenceonglobalsignalandinformationprocessing(globalsip)-symposium
+oninformationprocessingandbigdataorganizer2014;tpc2013
+• instituteforpureandappliedmathematics–workshoponadaptivedatasparsityand
+analysisorganizer2013
+departmentservice
+• computerengineeringundergraduateadvisor, -present.
+• graduateadmissionscommittee, -present.
+contributor/panelist
+• midwestmachinelearningworkshoppanel, - .
+• informationtheorysummerschoolpanelattheuniversityoftoronto,june2014.
+• girlsineecs(geecs)panelforhighschoolworkshopforgirlswhocode,nov2013.
+• matrixcomputations(golubandvanloan)version4.contributedproblem6.4.8. .
+• volunteerfortheuworalhistoryprojectseriesonwomeninscience andengineering.
+- .
+• instituteforpureandappliedmathematics(ipam)2011newsletter.
+• npralltechconsidered,thepathfromsyphilistofastermrisbyartsilverman.
+contributedaudiodemo,detailsathttp://www.ece.umich.edu/~girasole/csaudio.
+seniormember,ieee,signalprocessingsociety
+member,siam,optimizationsociety

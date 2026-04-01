@@ -1,0 +1,1306 @@
+lorenzo alvisi
+department of computer science phone: (
+413a gates hall fax: (
+cornell university email:
+ithaca, new york 14853 http://www.cs.cornell.edu/lorenzo
+born in bologna, italy, on october 13, . italian citizen.
+a education
+ph.d. computer science, cornell university, .
+m.s. computer science, cornell university, .
+corsodispecializzazione physics, university of bologna, italy, .
+laurea summa cum laude physics, university of bologna, italy, .
+b academic appointments
+tischuniversityprofessor cornell university, september – present.
+universitydistinguishedteachingprofessoremeritus ut austin, september – present.
+universitydistinguishedteachingprofessor ut austin, – .
+endowedprofessorship#5incomputerscience ut austin, – .
+professorofcomputerscience ut austin, – .
+associateprofessor(withtenure) ut austin, –
+assistantprofessor ut austin, – .
+b.1 visitingpositions
+tcehenrytaubdistinguishedvisitingprofessor the technion, haifa, israel, spring .
+visitingprofessor sapienza university, rome, italy, fall .
+visitingscholar cornell university, july – august .
+visitingchairprofessor shanghai jiao tong university, .
+visitingprofessor max planck institute for software systems,
+saarbru¨cken, germany,
+june-december , summer ,
+summer , summer .
+visitingresearcher microsoft research asia,
+beijing, june-september .
+visitingprofessor university of trento, italy, summer .
+visitingassociateprofessor sapienza university, rome, italy, summer .
+visitingassociateprofessor cornell university, – .
+visitingassistantprofessor cornell university, summer .
+1
+b.2 otherappointments
+lecturer cornell university, fall .
+researchandteachingassistant cornell university, – .
+graduatefellowship italian national research council, –93.
+graduatefellowship inter-university supercomputer center,
+bologna, italy, – .
+graduatefellowship theoretical chemistry, university of bologna, -89.
+graduatefellowship italian national institute of nuclear physics, -88.
+c research honors and awards
+• tischuniversityprofessorship, cornell university, - present.
+• tcehenrytaubdistinguishedvisitingprofessorship, the technion, haifa, spring .
+• ieeefellow, .
+• endowedprofessorshipincomputerscience, ut austin, .
+• googlefacultyresearchaward, , , and .
+• humboldtresearchaward, alexander von humboldt foundation, .
+• visitingchairprofessor, shanghai jiao tong university, .
+• acmfellow, .
+• facultyfellowincomputersciences, ut austin, - , - .
+• alfredp.sloanresearchfellow, - .
+• facultyresearchassignment, - .
+• fellow,ibmcenterforadvancedstudies, - .
+• ibmuniversitypartnershipfacultyaward, - .
+• nsfcareeraward, - .
+• dean’sfellow, -99.
+d teaching honors and awards
+• cornellassociationofcomputerscienceundergraduates“facultyoftheyear”, .
+• utaustinacademyofdistinguishedteachers, .
+• utsystemregents’outstandingteachingaward, .
+• utaustinoutstandinggraduateadviseraward, .
+2
+• utaustincollegeofnaturalsciencesteachingexcellenceaward, .
+• texas exes teaching award for outstanding professor (awarded yearly to one professor
+across the college of natural sciences), .
+• outstandingteachingassistantaward, department of computer science, cornell univer-
+sity, .
+e award papers
+• jaylepreaubestpaperaward,“byzantineorderedconsensuswithoutbyzantineoligarchy”,
+y. zhang, q. chu, s. setty, l. zhou, and l. alvisi. the usenix symposium on op-
+erating systems design and implementation (osdi’20), november .
+• bestpaperaward “lazy means smart: reducing repair bandwidth costs in erasure-coded
+distributed storage”, m. silberstein, y. wang, l. ganesh, l. alvisi and m. dahlin. the 7th
+acm international systems and storage conference (systor ’14).
+• bestpaperaward, “zyzzyva: speculative byzantine fault tolerance”, r. kotla, l.alvisi, m.
+dahlin, a. clement, e. wong. the 21st symposium on operating systems principles (sosp
+’07), october .
+• bestpaperaward, “safestore: adurableandpracticalstoragesystem”, r.kotla, l.alvisi,
+and m. dahlin. the usenix annual technical conference, june .
+• best paper award “bar fault tolerance for cooperative services”, a. aiyer, l. alvisi, a.
+clement, m. dahlin, j.p. martin, and c. porth. the 20th acm symposium on operating
+systems principles, (sosp ’05), october .
+• award paper “fast byzantine consensus”, j.p. martin and l. alvisi. the international
+conferenceondependablesystemsandnetworks(dsn2005), dccsymposium, yokohama,
+japan, june .
+• bestpaperfinalist “minimal byzantine storage”, j.p. martin, l. alvisi, and m. dahlin. the
+16th international symposium on distributed computing (disc ), october .
+• best paper award, “engineering server-driven consistency for large scale dynamic web
+services”, j. yin, l. alvisi, m. dahlin, a. iyengar. the international world wide web
+conference (www10), may .
+• awardpaper “the cost of recovery in message logging protocols”, s. rao, l. alvisi, and
+h. vin. the 17th international symposium on reliable distributed systems (srds 98).
+• best paper finalist “message logging: pessimistic, optimistic, causal and optimal”, l.
+alvisi and k. marzullo. the 15th ieee international conference on distributed computing
+systems (icdcs ’95), june .
+• reprint of “nonblocking and orphan-free message logging protocols”, l. alvisi, b. hoppe,
+and k. marzullo in the volume “highlights from 25 years” published in occasion of the 25th
+international symposium on fault-tolerant computing (ftcs25), . (paper appeared
+originally in the proceedings of ftcs23).
+3
+f publications
+f.1 refereedarticlesinjournals
+1. l. alvisi, a. clement, a. epasto, s. lattanzi, a. panconesi. “communities, random walks,
+and social sybil defense”. internet mathematics, vol. 10, issues 3-4, july , pp. 360-420.
+2. p. mahajan, s. setty, s. lee, a. clement, l. alvisi, m. dahlin, and m. walfish. “depot:
+cloud storage with minimal trust”. acm transactions on computer systems, vol 29, no.
+4, december , pp. 12:1- .
+3. i.abraham,l.alvisi,andj.halpern. “distributedcomputingmeetsgametheory: combining
+insights from two fields”. sigact news, vol. 42, no. 2, june , pp. 69-76.
+4. l. gao, m. dahlin, j. zheng, l. alvisi, and a. iyengar. “dual-quorum: a highly available
+and consistent replication system for edge services”. ieee transactions on dependable
+and secure computing, vol 7, no. 2, april-june , pp. 159-174.
+5. r. kotla, a. clement, e. wong, l. alvisi, and m. dahlin. “zyzzyva: speculative byzantine
+fault tolerance”. acm transactions on computer systems, vol. 27, no. 4, december ,
+pp. 1-39.
+6. d. zagorodnov, k. marzullo, l. alvisi, and t. c. bressoud. “practical and low-overhead
+masking of failures of tcp- based servers”. acm transactions on computer systems, vol.
+27, no. 2, may , pp. 1-39.
+7. r. kotla, a. clement, e. wong, l. alvisi, and m. dahlin. “zyzzyva: speculative byzantine
+fault tolerance”. communications of the acm vol. 51, no. 11, november , pp. 86-95.
+8. j.p. martin and l. alvisi. “fast byzantine consensus”. ieee transactions on dependable
+and secure computing, special issue dedicated to select papers from dsn , vol. 3, no.
+3, july-september , pp. 202-215.
+9. m.kistlerandl.alvisi. “improvingtheperformanceofsoftwaredistributedsharedmemory
+through speculation”. ieee transactions on parallel and distributed systems, vol. 16, no.
+9, september , pp. 885-896
+10. k. bhatia, k. marzullo, and l. alvisi. “scalable causal message logging for wide-area
+environments”. concurrency and computation: practice and experience, vol. 15, no. 3,
+august , pp. 873-889.
+11. j. yin, l. alvisi, m. dahlin, and a. iyengar. “engineering web cache consistency”. acm
+transactions on internet technology, vol. 2, no. 3, august , pp. 224-259.
+12. e. elnozahy, l. alvisi, y.m. wang, and d.b. johnson. “a survey of rollback-recovery
+protocols in message-passing systems”. acm computing surveys, vol. 34, no. 3, september
+, pp. 375-408.
+13. l. alvisi, k. bhatia, and k. marzullo. “tracking causality in causal message logging pro-
+tocols”. distributed computing, vol. 15, no. 1, january , pp. 1-15.
+4
+14. l. alvisi, d. malkhi, l. pierce, and m. reiter. “fault detection for byzantine quorum
+systems”. ieee transactions on parallel and distributed systems, vol. 12, no. 9, september
+, pp. 996-1007.
+15. s. rao, l. alvisi, and h. vin. “the cost of recovery in message logging protocols”. ieee
+transactions on knowledge and data engineering, vol. 12, no. 2, march/april , pp.
+160-173.
+16. j. yin, l. alvisi, m. dahlin, and c. lin. “volume leases for consistency in large-scale
+systems”. ieee transactions on knowledge and data engineering special issue on web
+technologies, vol. 11, no. 2 ( ), pp. 563-576.
+17. l. alvisi, k. marzullo. “message logging: pessimistic, optimistic, causal and optimal”.
+ieee transactions on software engineering, vol. 24, no.2 ( ), pp. 149-159.
+18. r. davoli, l. a. giachini, o¨. babao˘glu, s. amoroso, l. alvisi. “parallel computing in
+networksofworkstationswithparalex”. ieeetransactionsonparallelanddistributedsystems,
+vol. 7, no.4, ( ) pp. 371-384.
+19. l. alvisi, g. casciola. “on the two mask hidden-line algorithm”. computers & graphics,
+vol. 13, no.2 ( ), pp. 193-206
+20. l. alvisi, g. casciola. “tam rivisitato: un metodo rapido ed esatto per la rappresentazione
+prospettica di superfici”. pixel, october .
+21. l. alvisi, r. odorico. “a rule based approach for pattern recognition in planar geometric
+figures”. computerphysicscommunication, vol. 51, ( ), pp. 443-450.
+f.2 bookchapters
+1. l. alvisi, b. hoppe, and k. marzullo. “nonblocking and orphan-free message logging
+protocols”. in highlights from 25 years, fault tolerant computing symposium, pasadena, ca,
+june1995,pp. 229-239. reprintofthepaperwiththesametitlethatappearedinproceedings
+offtcs23.
+2. l. alvisi, a. amoroso, a. baronio, o¨. babao˘glu, r. davoli and l. a. giachini. “parallel sci-
+entific computing in distributed systems: the paralex approach”. in reliable distributed
+computing with the isis toolkit. k. birman and r. van renesse editors, ieee press com-
+puter science series, pp. 328-342. reprint of the paper with the same title that appeared in
+proceedingsofthe6thacminternationalconferenceonsupercomputing.
+f.3 refereedarticlesinconferences
+1. n. giridharan, f. suri-payer, i. abraham, l. alvisi, and n. crooks. “autobahn: seam-
+less high speed bft”. in proceedings of the 30th acm symposium on operating systems
+principles (sosp ), austin, texas, october , pp. 1-23.
+2. y. pu, a. farahbahksh, l. alvisi, and i. eyal. “gorilla: safe permissionless byzantine
+consensus”. in proceedings of the 37th international symposium on distributed computing
+(disc ), l’aquila, italy, october , pp. 31:1- .
+5
+3. s. a. mehdi, d. hwang, s. peter, l. alvisi. “scaledb: a scalable, asynchronous in-memory
+database”. in proceedings of 17th usenix symposium on operating systems design and
+implementation (osdi ’23), boston, ma, july , pp. 361-376.
+4. m. burke, f. suri-payer, j. helt, l. alvisi, and n. crooks. “morty: scaling concurrency
+control with re-execution”. in proceedings of the eighteenth european conference on com-
+puter systems (eurosys ’23), rome, italy, may , pp. 687-702.
+5. y. pu, l. alvisi, and i. eyal. “safe permissionless consensus”. in proceedings of the 36th in-
+ternational symposium on distributed computing (disc ), atlanta, ga, october ,
+pp. 33:1– .
+a version of the paper that includes the full proof is available in the cryptology eprint
+archive, paper /796.
+6. b. canakci, l. alvisi, and r. van renesse.“building systems of systems with escher”. in
+proceedings of the 22nd international symposium on stabilization, safety, and security of
+distributed systems (sss’21), november , pp. 34-50.
+7. f. suri-payer, m. burke, z. wang, y. zhang, l. alvisi, and n. crooks. “basil: breaking up
+bft with acid (transactions)”. in proceedings of the 28th acm symposium on operating
+systems principles (sosp ), october , pp. 1-17.
+8. y. zhang, q. chu, s. setty, l. zhou, and l. alvisi. “byzantine ordered consensus without
+byzantine oligarchy”. in proceedings of the 14th usenix symposium on operating systems
+design and implementation (osdi’20), banff, canada, november , pp. 633-649. jay
+lepreaubestpaperaward.
+9. c. ding, d. chu, e. zhao, x. li, l. alvisi and r. van renesse. “scalog: seamless recon-
+figuration and total order in a scalable shared log”. in proceedings of the 17th usenix
+symposium on networked systems design and implementation (nsdi ’20), santa clara, ca,
+february , pp. 325-338.
+10. n. crooks, m. burke, s. harel, e. cecchetti, r. agarwal, and l. alvisi. “obladi: oblivious
+serializable transactions in the cloud”. in proceedings of the 13th usenix symposium on
+operating systems design and implementation (osdi ’18), carlsbad, ca, october .
+11. t. gupta, h. fingler, l. alvisi, and m. walfish. “pretzel: email encryption and provider-
+supplied functions are compatible”. in proceedings of the acm sigcomm confer-
+ence, los angeles, ca, august , pp. 169-182.
+12. n. crooks, y. pu, l. alvisi, and a. clement. “seeing is believing: a client-centric specifi-
+cation of database isolation”. in proceedings of the 37th acm symposium on principles of
+distributed computing (podc ), washington dc, july , pp. 73-82.
+13. c. su, c. xie, n. crooks, c. ding, and l. alvisi. “bringing modular concurrency control
+to the next level”. in proceedings of the acm sigmod, chicago, il, may , pp.
+283-297.
+6
+14. s. a. mehdi, c. littley, n. crooks, l. alvisi, n. bronson, and w. lloyd. “i can’t believe
+it’s not causal! scalable causal consistency with no slowdown cascades”. in proceedings
+of the 14th usenix symposium on networked systems design and implementation (nsdi
+’17), boston, ma, april , pp. 453-468.
+15. n. crooks, y. pu, n. estrada, t. gupta, l. alvisi, and a. clement. “tardis: a branch-
+and-mergeapproachtoweakconsistency”. inproceedings of the acm sigmod,san
+francisco, ca, june , pp. 1615-1628.
+16. t. gupta, n. crooks, w. mulhern, s. setty, l. alvisi, and m. walfish. “scalable and private
+media consumption with popcorn”. in proceedings of the 13th usenix symposium on
+networked systems design and implementation (nsdi ’16), santa clara, ca, march ,
+pp. 90-107.
+17. c.xie, c.su, c.littley, l.alvisi, m.kapritsos, andy.wang. “highperformanceacidvia
+modular concurrency control”. in proceedings of the 25th acm symposium on operating
+systems principles (sosp ), monterey, ca, october , pp. 279-294.
+18. c. xie, c. su, m. kapritsos, y. wang, n. yaghmazadeh, l. alvisi, and p. mahajan. “salt:
+combining acid and base in a distributed database”. in proceedings of the 11th sym-
+posium on operating systems design and implementation (osdi ’14), denver, co, october
+, pp. 495-510.
+19. m. silberstein, y. wang, l. ganesh, l. alvisi, and m. dahlin.“lazy means smart: reducing
+repair bandwidth costs in erasure-coded distributed storage”. in proceedings of the 7th
+acm international systems and storage conference (systor ’14) haifa, israel, june ,
+pp. 1-7. bestpaperaward.
+20. y. wang, m. kapritsos, l. schmidt, l. alvisi, and m. dahlin. “exalt: empowering re-
+searchers to evaluate large-scale storage systems”. in proceedings of the 11th usenix
+symposium on networked systems design and implementation (nsdi ’14), seattle, april
+, pp. 129-142.
+21. e. l. wong and l. alvisi. “what’s a little collusion between friends?”. in proceedings of
+the 32nd acm symposium on principles of distributed computing (podc ), montr´eal,
+canada, july , pp. 240-249.
+22. l. alvisi, a. clement, a. epasto, s. lattanzi, and a. panconesi. “sok: the evolution of
+sybil defense via social networks”. in proceedings of the ieee symposium on security
+and privacy (oakland ), may , pp. 382-396.
+23. y. wang, m. kapritsos, z. ren, p. mahajan, j. kirubanandam, l. alvisi and m. dahlin.
+“robustness in the salus scalable block store”. in proceedings of the 10th usenix sym-
+posium on networked systems design and implementation (nsdi ’13), lombard il, april
+, pp. 357-370.
+24. m. kapritsos, y. wang, v. qu´ema, a. clement, l. alvisi, and m. dahlin. “all about eve:
+execute-verify replication for multi-core systems”. in proceedings of the 10th symposium
+onoperatingsystemsdesignandimplementation(osdi’12),hollywood,ca,october2012,
+pp. 237-250.
+7
+25. y. wang, l. alvisi, and m. dahlin. “gnothi: separating data and metadata for efficient
+and available storage replication”. in proceedings of the usenix annual technical
+conference, boston, ma, june , pp. 413-424.
+26. e. l. wong, i. levy, l. alvisi, a. clement, and m. dahlin. “regret freedom isn’t free”.
+in proceedings of the 15th international conference on the principles of distributed systems
+(opodis ’11), toulouse, france, december , pp. 80-95.
+27. p. mahajan, s. setty, s. lee, a. clement, l. alvisi, m. dahlin, and m. walfish. “depot:
+cloud storage with minimal trust”. in proceedings of the 9th symposium on operating
+systems design and implementation (osdi’10), vancouver, canada, october , pp. 307-
+322.
+28. e. l. wong, l. alvisi, and j. leners. “it’s on me! the benefit of altruism in bar envi-
+ronments”. in proceedings of the 24th international symposium on distributed computing
+(disc ), boston, ma, september , pp. 406-420.
+29. a. clement, m. kapritsos, s. lee, y. wang, l. alvisi, m. dahlin, and t. rich´e. “upright
+cluster services”. in proceedings of the 22nd acm symposium on operating systems prin-
+ciples (sosp ), big sky, mt, october , pp. 277-290.
+30. f. mari, i. melatti, i. salvo, e. tronci, l. alvisi, a. clement, and h. li “model checking
+coalition nash equilibria in mad distributed systems”. in proceedings of the 11th interna-
+tional symposium on stabilization, safety, and security of distributed systems (sss ),
+lyon, france, november , pp. 531-546.
+31. a. clement, m. marchetti, e. wong, l. alvisi, and m. dahlin. “making byzantine fault
+tolerant systems tolerate byzantine faults”. in proceedings of the 6th usenix symposium
+on network systems design and implementation (nsdi ), boston, ma, april , pp.
+153-168.
+32. h. li, a. clement, m. marchetti, e. kapritsos, l. robison, l. alvisi and m. dahlin. “flight-
+path: obedience vs choice in cooperative services”. in proceedings of the 7th usenix
+symposium on operating systems design and implementation (osdi ), san diego, ca,
+december , pp. 355-368.
+33. a. clement, m. marchetti, e. wong, l. alvisi, and m. dahlin. “bft: the time is now”. in
+proceedings of the 2nd workshop on large-scale distributed systems and middleware (ladis
+), yorktown heights, ny, october .
+34. f. mari, i. melatti, i. salvo, e. tronci, l. alvisi, a. clement, and h. li “model checking
+nash equilibria in mad distributed systems”. in proceedings of the 8th conference on
+formal methods in computer-aided design (fmcad 08), portland, or, november ,
+pp. 1-8.
+35. a. aiyer, l. alvisi, r. bazzi, and a. clement. “matrix signatures: from macs to digital
+signatures in distributed systems”. in proceedings of the 22nd international symposium on
+distributed computing (disc ), arcachon, france, october , pp. 16-31.
+8
+36. a. clement, h. li, j. napper, j. p. martin, l. alvisi, and m. dahlin. “bar primer”.
+in proceedings of the international conference on dependable systems and networks (dsn
+), dcc symposium, anchorage, alaska, june , pp. 287-296.
+37. r. kotla, l. alvisi, m. dahlin, a. clement, and e. l. wong. “zyzzyva: speculative byzan-
+tine fault tolerant replication”. in proceedings of the 21th acm symposium on operating
+systems principles (sosp ), skamania lodge, stevenson, wa, october , pp. 45-58.
+best paper award. selected by the program committee for publication in acm transac-
+tionsoncomputersystems.
+38. h. c. li, a. clement, a. s. aiyer, and l. alvisi. “the paxos register”. in proceedings of the
+26th ieee international symposium on reliable distributed systems (srds ), beijing,
+china, october , pp. 114-126.
+39. a. s. aiyer, l. alvisi, and r. bazzi. “bounded wait-free implementation of optimally re-
+silientbyzantinestoragewithout(unproven)cryptographicassumptions”. inproceedingsof
+the 21st international symposium on distributed computing (disc ), lemesos, cyprus,
+september , pp. 7-19.
+40. l. alvisi. “bar: where distributed computing meets game theory”. in proceedings of
+third latin america symposium on dependable computing (ladc ), morelia, mexico,
+september , pp. 235-236.
+41. l. alvisi, j. doumen, r. guerraoui, b. koldehofe, h. li, r. van renesse, and g. tredan.
+“how robust are gossip-based communication protocols?”. in acm sigops operating
+systems review (osr) special issue on gossip-based networking, 41(5) october , pp.
+14-18.
+42. e. l. wong, p. balasubramanian, l. alvisi, m. g. gouda, and v. shmatikov. “truth in
+advertising: lightweight verification of route integrity”. in proceedings of the 26th acm
+annual symposium on the principles of distributed computing (podc ), portland, or,
+august , pp. 147-156.
+43. a.aiyer,l.alvisi,andr.bazzi. “boundedwait-freeimplementationofoptimallyresilient
+byzantinestoragewithout(unproven)cryptographicassumptions”. briefannouncementin
+proceedings of the 26th acm annual symposium on the principles of distributed computing
+(podc ), portland, or, august , pp. 310-311.
+44. a. clement, j. napper, h. li, j. p. martin, l. alvisi, and m. dahlin. “theory of bar
+games”. brief announcement in proceedings of the 26th acm annual symposium on the
+principles of distributed computing (podc ), portland, or,august2007, pp. 358-359.
+45. r. kotla, l. alvisi, and m. dahlin. “safestore: a durable and practical storage system”.
+in proceedings of the usenix annual technical conference, santa clara, ca, june
+, pp. 129-142. bestpaperaward.
+46. h.c.li,a.clement,e.wong,j.napper,i.roy,l.alvisi,andm.dahlin. “bargossip”. in
+proceedings of the 7th symposium on operating systems design and implementation (osdi
+), seattle, wa, november , pp. 191-204.
+9
+47. a. s. aiyer, l. alvisi and m. g. gouda. “key grids: a protocol family for assigning
+symmetric keys” in proceedings of the 14th international conference on network protocols
+(icnp ), santa barbara, ca, november , pp. 178-186.
+48. a. s. aiyer, l. alvisi, and r. bazzi. “byzantine and multi-writer k quorums”. in proceed-
+ings of the 20th international symposium on distributed computing (disc ),stockholm,
+sweden, october , pp. 443-458.
+49. j. napper and l. alvisi. “robust multithreaded applications”. to appear in proceedings
+of the acm workshop on multithreading in hardware and software: formal approaches to
+design and verification (tv06), seattle, wa, august .
+50. l. gao, m. dahlin, j. zheng, l. alvisi, and a. iyengar. “dual quorum replication for
+edge services”. in proceedings of middleware , grenoble, france, december , pp.
+184-204.
+51. a. s. aiyer, l. alvisi, a. clement, m. dahlin, j.p. martin, and c. porth. “bar fault tol-
+erance for cooperative services”. in proceedings of the 20th acm symposium on operating
+systems principles (sosp ), brighton, united kingdom, october , pp. 45-58. best
+paper award. selected by the program committee for publication in acm transactions
+oncomputersystems
+52. a. s. aiyer, l. alvisi, and r. bazzi. “on the availability of non-strict quorum systems”.
+in proceedings of the 19th international symposium on distributed computing (disc ),
+krakow, poland, september , pp. 48-62.
+53. j.p. martin and l. alvisi. “fast byzantine consensus”. in proceedings of the international
+conference on dependable systems and networks (dsn ), dcc symposium, yokohama,
+japan, june , pp. 402-411. award paper. selected by the program committee for
+publicationinieeetransactionsondependableandsecurecomputing.
+54. j.p. martin and l. alvisi. “dynamic byzantine storage”. in proceedings of the international
+conference on dependable systems and networks (dsn ), dcc symposium, florence,
+italy, june , pp. 325-334.
+55. j. yin, j.p. martin, a. venkataramani, l. alvisi, and m. dahlin. “separating agreement
+from execution for byzantine fault tolerant services”. in proceedings of the 19th acm
+symposium on operating systems principles (sosp ), lake george, ny, october ,
+pp. 253-268.
+56. j. napper, l. alvisi, and h. vin. “a fault-tolerant java virtual machine”. in proceedings
+of the international conference on dependable systems and networks (dsn ), dcc
+symposium, san francisco, ca, june , pp. 425-434.
+57. d. zagorodnov, k. marzullo, l. alvisi, and t. bressoud. “engineering fault tolerant
+tcp/ip services using ft-tcp”. in proceedings of the international conference on de-
+pendable systems and networks (dsn ), dcc symposium, san francisco, ca, june
+, pp. 393-402.
+10
+58. j. yin, j.p. martin, a. venkataramani, l. alvisi, and m. dahlin. “towards a practical
+approach to confidential byzantine fault tolerance”. in future directions in distributed
+computing, lecture notes in computer science, volume 2584, springer, , pp. 51-56.
+59. r. kokku, r. rajamoni, l. alvisi and h. vin. “half-pipe anchoring: an efficient technique
+for multiple connection handoff”. in proceedings of the 10th international conference on
+network protocols (icnp ), paris, france, november , pp. 12-21.
+60. j.p. martin, l. alvisi, and m. dahlin. “minimal byzantine storage”. in proceedings of
+the 16th international symposium on distributed computing (disc ), toulouse, france,
+october , pp. 311-326.
+61. j.p. martin, l. alvisi, and m. dahlin. “small byzantine quorum systems”. in proceedings
+of the international conference on dependable systems and networks (dsn and ftcs
+32), dcc symposium, washington, dc, june , pp. 374-383.
+62. p. shivakumar, m. kistler, s. keckler, d. burger, and l. alvisi. “modeling the effect of
+technology trends on soft error rate of combinational logic”. in proceedings of the inter-
+national conference on dependable systems and networks (dsn and ftcs 32), dcc
+symposium, washington, dc, june , pp. 389-398.
+63. k. bhatia, k. marzullo, and l. alvisi. “scalable causal message logging for wide-area
+environments”. in proceedings of the european conference on parallel computing (europar
+), manchester, uk, august , pp. 864-873.
+64. y. zhang, h. vin, l. alvisi, w. lee, and s. k. dao. “heterogeneous networking - a new
+survivability paradigm”. in proceedings of the acm new security paradigms workshop
+, cloudcroft, nm, september , pp. 33-39.
+65. e.pierceandl.alvisi. “aframeworkforsemanticreasoningaboutbyzantinequorumsys-
+tems”. in brief announcements, proceedings of the 20th acm symposium on the principles
+of distributed computing (podc ), august , pp. 317-319.
+66. j.yin,l.alvisi,m.dahlin,a.iyengar. “engineeringserver-drivenconsistencyforlargescale
+dynamicwebservices”. the10thinternationalworldwidewebconference(www10),may
+, pp. 45-57. bestpaperaward.
+67. l. alvisi, t.c. bressoud, a. el-khashab, k. marzullo, and d. zagorodnov. “wrapping
+server-side tcp to mask connection failures”. in proceedings of infocom , anchorage,
+alaska, april , pp. 329-338.
+68. l. alvisi, d. malkhi, l. pierce, m. reiter, and r. wright. “dynamic byzantine quorum sys-
+tems”. in proceedings of the international conference on dependable systems and networks
+(ftcs 30 and dcca 8), new york ny, june , pp. 283-292.
+69. j.yin, l.alvisi, m.dahlin, andc.lin. “hierarchicalcacheconsistencyinawan”.inpro-
+ceedings of the usenix symposium on internet technologies and systems (usits99),
+october , pp. 13-24.
+11
+70. l.alvisi, e.elnozahy, s.rao, s.a.husain, anda.demel. “ananalysisofcommunication-
+induced checkpointing”. in proceedings of the 29th fault tolerant computing symposium
+(ftcs 29), madison wi, june , pp. 48-55.
+71. s. rao, l. alvisi, and h. vin. “egida: an extensible toolkit for low-overhead fault-
+tolerance”. in proceedings of the 29th fault tolerant computing symposium (ftcs 29),
+madison wi, june , pp. 242-249.
+72. l. alvisi, d. mahlki, l. pierce, and m. reiter. “probabilistic techniques for fault detection
+in byzantine quorum systems”. in proceedings of the seventh ifip international working
+conference on dependable computing for critical applications (dcca-7) san jose, ca,
+january , pp. 357-372.
+73. l. alvisi and k. marzullo. “waft: support for fault-tolerance in wide-area object ori-
+ented systems”. in proceedings of the information survivability workshop (isw98) october
+, orlando, florida, pp. 5-10.
+74. s. rao, l. alvisi and h. vin. “the cost of recovery in message logging protocols”. in
+proceedings of the 17th international symposium on reliable distributed systems (srds
+98), purdue university, west lafayette, indiana, october , pp. 10-18. award paper.
+selected by the program committee for publication in ieee transactions on knowledge
+anddataengineering.
+75. k. bhatia, k. marzullo and l. alvisi. “the relative overhead of piggybacking in causal
+message-logging protocols”. workshop on advances in parallel and distributed systems
+(apads 98). in proceedings of the 17th ieee symposium on reliable distributed systems
+(srds 98), purdue university, west lafayette, indiana, october , pp. 348-353.
+76. l. alvisi, s. rao and h. vin. “hybrid message-logging protocols for fast recovery”. in
+digest of fastabstracts. the 28th ieee symposium on fault-tolerant computing systems
+(ftcs 28), munich, germany, june , pp. 41-42.
+77. l. alvisi, s. rao and h. vin. “low-overhead protocols for fault-tolerant file sharing”. in
+proceedings of the 18th ieee international conference on distributed computing systems
+(icdcs 98), amsterdam, the netherlands, may , pp. 452-461.
+78. j.yin, l. alvisi, m. dahlin and c. lin. “using leases to support server-driven consis-
+tency in large-scale systems”. in proceedings of the 18th ieee international conference on
+distributed computing systems (icdcs 98), amsterdam, the netherlands, may , pp.
+285-294.
+79. l. alvisi, r. joshi, c. lin and j. misra. “seuss: what the doctor ordered”. in proceedings of
+the 2nd ieee international workshop on software engineering for parallel and distributed
+systems, boston, may , pp. 284-290.
+80. l. alvisi and k. marzullo. “trade-offs in implementing causal message logging protocols”.
+in proceedings of the 15th acm annual symposium on the principles of distributed computing
+(podc1996), philadelphia, may , pp. 58-67.
+12
+81. l. alvisi and k. marzullo. “deriving optimal checkpoint protocols for distributed shared
+memory architectures”. in selected papers, international workshop in theory and practice in
+distributed systems, k. birman, f. mattern and a. schiper, editors, springer-verlag ,
+pp. 111-120.
+82. l. alvisi and k. marzullo. “message logging: pessimistic, optimistic, causal and opti-
+mal”. in proceedingsofthe15thieeeinternationalconferenceondistributedcomputingsystems
+(icdcs95), vancouver, canada, june pp. 229-236.
+83. l. alvisi, b. hoppe, and k. marzullo. “nonblocking and orphan-free message logging pro-
+tocols”, in proceedings of the 23rd fault tolerant computing symposium (ftcs 23), toulouse,
+france, june , pp. 145-154. reprinted in highlightsfrom25years,faulttolerantcomput-
+ingsymposium, pasadena, ca, june , pp. 229-239
+84. o¨. babao˘glu, l. alvisi, s. amoroso, r. davoli, l. a. giachini. “paralex: an environment for
+parallel programming in distributed systems”. in proceedings of the 6th acm international
+conferenceonsupercomputing, washington, d.c., july , 178–187.
+85. l. alvisi, a. amoroso, a. baronio, o¨. babao˘glu, r. davoli and l. a. giachini. “parallel
+scientific computing in distributed systems: the paralex approach”. in proceedings of the
+sixth international symposium on computer and information sciences, side, antalya, turkey,
+october , 1093–1103.
+86. l. alvisi, g. fabiani, l. moltedo. “vida: an ape extension for the steering of numerical
+simulations”. in proceedingsoftheismminternationalworkshoponparallelcomputing, trani,
+italy, september , pp. 375-377.
+f.4 invitedpapers
+1. p. yalagandula, l. alvisi, m. dahlin, and h. vin. “c0pe: consistent, 0-administration
+personal environment”. in proceedings of words ’01, rome, italy, january .
+2. l. alvisi. “fault-tolerance: java’s missing buzzword”. in proceedings of the 7th heteroge-
+neous computing workshop, orlando, florida, march , pp. 156-158.
+3. o¨. babao˘glu, l. alvisi, a. amoroso and r. davoli. “mapping parallel computations onto
+distributed systems in paralex”. in proceedings of ieee compeuro ’91, bologna, italy, may
+, 123–130.
+f.5 technicalreportsnototherwisepublished
+1. j. napper and l. alvisi. “lock-free serializable transactions”. department of computer
+sciences, technical report tr-05-04, the university of texas at austin, austin, texas,
+february .
+2. p. yalagandula, a. garg, m. dahlin, l. alvisi, and h. vin. “transparent mobility with
+minimal infrastructure”. department of computer sciences, technical report tr-01-30,
+the university of texas at austin, austin, texas, july .
+13
+3. l. alvisi and f.b. schneider. “a graphical interface for chip”. department of computer
+science, technical report tr- , cornell university, ithaca, new york, june .
+4. l. alvisi and k. marzullo. “optimal message logging protocols”. department of computer
+science, technical report tr- , cornell university, ithaca, new york, september
+.
+5. o¨. babao˘glu, l. alvisi, s. amoroso, r. davoli and l. a. giachini. “run-time support for
+dynamic load balancing and debugging in paralex”. department of computer science,
+technical report tr- , cornell university, ithaca, new york, december .
+6. l.alvisi,g.casciola. “twoandfourarraymaskalgorithmsinpractice”. technicalreport,
+department of mathematics, university of bologna, italy. ( )
+f.6 thesis
+• “understanding the message logging paradigm for masking process crashes”. department
+of computer science, cornell university, ithaca, new york, january . available as
+technical report tr- .
+• “applying expert system to the analysis of bidimensional data”. tesi di laurea, university
+of bologna, italy, .
+f.7 patents
+• t.bressoud,l.alvisi,a.el-khashab,andp.weidmann. “method,apparatusandsystemfor
+maintaining connections between computers using connection-oriented protocols” us patent:
+us7,213,063b2. assignedtolucenttechnologiesinc. murrayhill,n.j.(us)anduniversity
+of texas at austin, austin, texas. first filed january 17, .
+f.8 softwarereleases
+• “egida” is a prototype of the toolkit described in the ftcs paper “egida: an extensible
+toolkit for low-overhead fault-tolerance”. it is available for download under the gnu
+public license.
+• “toprec” is a rule-based program, written in ops5, to recognize subpatterns in planar
+geometric figures. it is available for download from the computer physics communication
+program library (http://www.cpc.cs.qub.ac.uk/cpc/, catalog identifier abdg).
+g other academic activities
+g.1 studentadvising
+ph.d.dissertationssupervised
+• youer pu. “safe permissionless consensus”. youer is currently at google.
+• sowmya dharanipragada. “scaling distributed systems with rdma in post-moore’s law
+datacenters”, august . sowmya is currently at google.
+14
+• yunhao zhang, “ordered consensus with equal opportunity”, april . yunhao is cur-
+rently with jump crypto.
+• matthew burke, “towards high performance abstractions for strong geo-replicated sys-
+tems”, december . matthew is currently with databricks.
+• syedakbarmehdi(withs.peter), “scalabilitythroughasynchronyintransactionalstorage
+systems”, may .
+akbar is currently with google.
+• burcu canakci (with r. van renesse), “supporting distributed systems of distributed sys-
+tems”, may .
+burcu is currently at microsoft research, cambridge.
+• cong ding (with r. van renesse), “building a scalable shared log”, december .
+cong is currently at confluent.
+• natacha crooks, “a client-centric approach to transactional datastores”, december .
+recipient of the acm sigops dennis ritchie best dissertation award, . and runner-
+up for the acm sigmod jim gray best dissertation award.
+natacha is an assistant professor of computer science at uc berkeley.
+• chunzhi su, “bringing modular concurrency control to the next level”, december .
+chunzhi is currently at google.
+• trinabh gupta (with m. walfish), “toward practical and private online services”, summer
+.
+trinabh is currently an assistant professor of computer science at the university of califor-
+nia, santa barbara.
+• chao xie, “high-performance transactional storage”, summer .
+chao is currently at google.
+• manos kapritsos, “replicating multithreaded services”, fall .
+manos is currently an assistant professor of computer science at the university of michigan,
+ann arbor.
+• yangwang, “separatingdatafrommetadataforrobustnessandscalability”, summer2014.
+yang is currently an associate professor of computer science at the ohio state university.
+• edmund wong, “raising the bar in cooperative systems”, summer .
+edmund is currently vp of engineering at afresh, in san francisco.
+• allen clement (with m. dahlin), “upright fault tolerance”, summer .
+allen is currently director of blockchain engineering at improbable.
+• amitanand aiyer, “alternative implementations for storage and communication abstractions
+in distributed systems”, summer .
+amit is currently at yugabyte
+15
+• harry li, “robust peer-to-peer systems”, spring .
+harry is currently cto at braven.
+• jeff napper, “robust multithreaded applications”, spring .
+jeff is currently cto at triangle capital markets ag.
+• jean-philippe martin, “byzantine fault tolerance and beyond”, fall .
+j.p. is currently at lacework.
+• jian yin (with m. dahlin), “volume lease: a scalable consistency framework”, fall .
+jian is currently at pacific northwest national laboratory.
+• evelyn pierce, “self-adjusting quorum systems for byzantine fault tolerance”, fall .
+lyn’s first employment was as a postdoc at epfl, in lausanne.
+• sriram rao (with h. vin), “egida: a toolkit for low-overhead fault-tolerance”, fall .
+sriram is currently at microsoft research.
+ph.d.studentscurrentlyundersupervision
+• shubham chaudhary (with r. van renesse)
+• ali farahbaksh
+• florian suri
+• austin li
+masterthesessupervised
+• rohan rebello, “byzantine fault tolerant web applications using the upright library”,
+august .
+rohan is currently at amazon.
+masterstudentssupervised
+• at cornell: audrey cheng, daniel weber, andy zhang, janice chan, eric feng.
+• at berkeley: david shen
+• at ut: ravishankar venkatadasu chamarajnagar, kalpana ravinarayanan, mike kistler,
+and salvatore orlando.
+undergraduaestudentswhoseresearchiscurrentlysupervised
+christopher wiley
+16
+mengprojectssupervised
+• daniel lee
+• andrew tsakiris
+• yan (asta) li
+undergraduatehonorsthesessupervised
+• jimmy given, dean’s honored graduate
+• chi ho
+• robert ellis michael, dean’s honored graduate
+• zach ritter
+• david wetterau, dean’s honored graduate
+• eamon white, dean’s honored graduate
+undergraduatestudentssupervised
+• atcornell: liamarzola,bentonli,samhinson,maxcharlamb,zhengwang,evanpatrick,
+chaska yamane, david chu, evan zhao, ryan yoon, sitar harel, jesse lupica.
+• at ut: hassan m. jafri, ali safdar kureshi, carl porth, luke robison, and christopher
+wiley.
+participationindoctoraldissertationcommittees
+• served as a member of 36 doctoral dissertation committees at ut.
+• served as as member of 10 doctoral dissertation committees at cornell university.
+• served as member of 2 doctoral dissertation committees at carnegie mellon university.
+• served as as member of 2 doctoral dissertations a epfl in lausanne, switzerland.
+• served as as member of 1 doctoral dissertation at uc berkeley.
+• served as as member of 1 doctoral dissertation at the university of lisbon, portugal.
+• served as member of 1 doctoral dissertation committee at northwestern university.
+• served as member of 1 doctoral dissertation committee at the universit`a della svizzera ital-
+iana, lugano, switzerland.
+• served as member of 1 doctoral dissertation committee at the university of tromsø, norway.
+• served as member of 1 doctoral dissertation committee at the university of california, san
+diego.
+• servedasamemberof1doctoraldissertationcommitteeattheindianinstituteoftechnology.
+17
+participationinmastersthesiscommittees
+• served as a member of 7 masters thesis committees at ut austin
+g.2 teaching
+undergraduatecourses
+at cornell:
+• cs 4410 operating systems
+spring , spring , spring , spring , fall , fall .
+• cs 414 introduction to operating systems
+summer .
+at ut austin:
+• cs 378h distributed computing honors
+spring , spring , fall .
+• cs 371d distributed computing
+spring , spring , fall , fall , fall .
+• cs 178h introduction to computer science research (with c. lin),
+spring , spring , spring , spring , spring , spring , spring ,
+fall .
+• cs 439 principles of computer systems, spring .
+• cs 372h introduction to operating systems honors, spring .
+• cs 372 introduction to operating systems
+fall , fall , fall , fall , fall .
+• nsc 110 dean’s scholars seminar (with c. lin and i. eibenstein-alvisi), fall .
+• cs 378 introduction to distributed computing
+fall , fall , spring , spring , spring .
+graduatecourses
+at cornell:
+• cs 6411 systems principles, spring .
+• cs 5414 distributed computing principles
+fall , fall , fall , fall , fall , spring .
+at ut austin:
+18
+• cs 380d distributed computing i
+fall , fall , fall , spring , spring , spring , spring , spring
+, fall , fall , fall , fall , fall , fall , fall, , spring ,
+spring .
+• cs 395t design and implementation of trustworthy services, spring .
+• cs 395t c0pe: consistent 0-administration personal environment, spring .
+• cs 395t hot topics in distributed systems,
+spring , fall .
+additionalteaching
+• “fundamentals of distributed computing”, graduate course at the universit`a degli studi di
+bologna, november .
+• “thepitandthependulum”two-lectureseriesatsapienzauniversity,rome,italy,october
+.
+• “the pit and the pendulum” two-lecture series at 1st acm sigops summer school on
+advanced topics in systems, sommarøy/tromsø, norway, august .
+• “the pit and the pendulum” three-lecture series at the cornell, maryland, and max planck
+pre-doctoral research school, saarbru¨cken, germany, august .
+• “the pit and the pendulum” three-lecture series at the cornell, maryland, and max planck
+pre-doctoral research school, saarbru¨cken, germany, august .
+• “introduction to distributed computing”
+graduate course at the universit`a degli studi di modena e reggio emilia, july .
+• “consistency and performance in transactional systems”
+joint portugal-ut austin summer school in distributed computing, lisbon, portugal,
+september .
+• “salt: combining acid and base in distributed databases”
+nictasoftwaresystemssummerschool,universityofnewsouthwales,sydney,australia,
+february .
+• “introduction to distributed computing”
+undergraduate course in distributed computing, jiao tong university, shanghai, july .
+• “graduate seminar in distributed computing”
+graduate course at the max planck institute for software systems, saarbru¨cken, germany,
+fall .
+• “introduction to distributed computing”
+undergraduate course in distributed computing, jiao tong university, shanghai, june .
+19
+• “reasoning with mad distributed systems”
+five-lecture series at the summer school on distributed algorithms, systems, and
+programming, msr india, bangalore, june .
+• “an introduction to distributed computing: saving the world before bedtime”; and “living
+in the moment in a world without clocks”
+three-lecture series at liberal arts and science academy, austin tx, november -
+january .
+• “dependable distributed computing”
+courseatthegraduateschooloftheuniversityofmodenaandreggioemilia,italy.,summer
+.
+• “dependable distributed computing”
+course at the 18th summer school in computer science, national university of rio cuarto,
+cordoba, argentina, february .
+• “reasoning with mad distributed systems”
+tutorial at the international conference on distributed computing and networking ,
+bangalore, india, january .
+• “the long march of the byzantine generals”
+course at tcs excellence in computer science week, tata consultancy services, pune,
+india, january .
+• “the long march of bft”
+tutorial at the winter school on hot topics in distributed computing, la plagne, france,
+march .
+• “science, technology, and the responsible citizen” (with i. eibenstein-alvisi)
+ut austin telluride association summer program (tasp 07).
+• “distributed computing”
+graduate course, sapienza university, rome italy, june .
+• faculty advisor, acm student chapter, - .
+g.3 departmentanduniversityservice
+at cornell:
+• august - to date: appointment and promotion committee.
+• - : faculty recruiting committee.
+• july - june : a.d. white professor at large selection committee.
+• - , - , - : chair, faculty recruiting committee.
+• spring : cis dean search committee.
+20
+• fall -spring : ad-hoc committee on academic misconduct.
+• - present: cornell international council.
+• - : chair, colloquium committee.
+• - , - : faculty recruiting committee.
+• - : colloquium committee.
+• - present: cornell-china faculty committee.
+at ut austin:
+• - august : graduate advisor.
+• - : faculty recruiting committee.
+• - : member of search committee, molecular biosciences chair.
+• - : co-chair, undergraduate studies committee.
+• : university committee for the selection of outstanding graduate advisor award.
+• spring : chair, undergraduate studies committee.
+• : member, ad-hoc committee for the promotion of yin zhang to associate professor.
+• - : ph.d. admissions committee.
+• - : turing scholars admissions committee.
+• - : university continuing fellowship committee.
+• - : chair, faculty fellowships and awards.
+• - : diversity courses committee.
+• - : undergraduate studies committee and evaluation of graduate program com-
+mittee.
+• - : acm faculty advisor.
+• - : faculty recruiting committee.
+• - : community outreach and festivals.
+• - : ph.d. admissions and recruiting committee.
+• - : external relations committee.
+• spring : chair recruiting committee, graduate recruiting committee.
+• - : helped found, fund, and organize the laboratory for experimental software sys-
+tems seminar series (lessss) (with blumofe, dahlin, and lin).
+21
+h invited talks and seminars
+h.1 keynoteaddresses
+• “orderrr! a tale of money, intrigue, and specifications”, acm/ifip middleware con-
+ference, bologna, italy, december .
+• “orderrr! a tale of money, intrigue, and specifications”, international symposium
+on distributed computing, l’aquila, italy, october .
+• “the pit and the pendulum”, 22nd international symposium on stabilization, safety, and
+security of distributed systems, austin tx, november .
+• “thepitandthependulum”, 10thacmsigopsasia-pacificworkshoponsystems(apsys
+), hangzhou, prc, august .
+• “the pit and the pendulum”, msr asia annual conference on computing in the 21st cen-
+tury, beijing, prc, october .
+• “salt: combining acid and base in distributed databases”, 5th annual henry taub
+international tce conference, the technion, haifa, june .
+• “salt: combiningacidandbaseindistributeddatabases”, 18thinternationalconference
+on principles of distributed systems, cortina d’ampezzo, italy, december .
+• “reasoning with mad distributed systems”, 9th ieee international conference on col-
+laborative computing: networking, applications, and worksharing (collaboratecom ),
+austin, tx, october .
+• “reasoning with mad distributed systems”, plenary address to the 24th international con-
+ference on concurrency theory (concur 13) and the 10th international conference on
+quantitative evaluations of systems (qest ), buenos aires, argentina, august .
+• “reasoning with mad distributed systems”, inforum simposio de informatica, universi-
+dade nova lisboa, september .
+• “reasoning with mad distributed systems”, tidal news stavanger workshop on byzantine
+fault tolerance in large scale loosely coupled systems, august .
+• “reasoning with mad distributed systems”, 2nd workshop on performance evaluation and
+reliability of complex systems in quantitative informatics, lipari, italy, .
+• “bft we can believe in”, 23rd international symposium on distributed computing, elche,
+spain, .
+• “bar gossip”, workshop on gossip-based computer networking, lorentz center, leiden
+university, the netherlands, .
+22
+h.2 distinguishedlectures
+• “orderrr! a tale of money, intrigue, and specifications”, 8th winter seminar series
+(wss), sharif university of technology, teheran, iran, april .
+• “orderrr! a tale of money, intrigue, and specifications”, department of computer sci-
+ence and technology, cambridge university, uk may .
+• “orderrr! a tale of money, intrigue, and specifications”, max plank institute for soft-
+ware systems, saarbru¨cken, germany, may .
+• “towards a high performance shared log”, department of computer science, uit the
+arctic university of norway, may .
+• “orderrr! a tale of money, intrigue, and specifications”, department of computer sci-
+ence, uit the arctic university of norway, may .
+• “orderrr! a tale of money, intrigue, and specifications”, department of informatics,
+sapienza university, rome, italy, december .
+• “the pit and the pendulum”, 20th anniversary research week, department of computer
+science, national university of singapore, january .
+• “the pit and the pendulum”, unstoppable speaker series, department of computer science,
+university of chicago, december .
+• “the pit and the pendulum”, 30th anniversary colloquium series, computer science de-
+partment, university of connecticut, october .
+• “the pit and the pendulum”, computer science department, king abdullah university for
+science and technology, saudi arabia, october .
+• “high performance acid via modular concurrency control”, vincent meyer colloquium,
+the technion, haifa, israel, june .
+• “reasoning with mad distributed systems”, distinguished lecture series, max plank insti-
+tute for software systems, saarbru¨cken, germany, october .
+h.3 otherinvitedtalksandseminars
+• “nuvole e generali”, the future foretold ’24, orvieto, italy, july .
+• “the art of the impossible that makes cloud and blockchains possible”, public lecture
+hosted by the institute for advance studies (isa), university of bologna, italy, june .
+• “orderrr! state machine replication in the age of blockchaims”, invited talk at the
+workshopinhonorofbarbaraliskov,ontheoccasionoftheawardingofthefranklininstitute
+award, april .
+• “towards a high performance shared log”, department of department of informatics,
+sapienza university, rome, italy, july .
+23
+• “orderrr! a tale of money, intrigue, and specifications”, department of computer sci-
+ence, university of wisconsin, madison, february .
+• “orderrr! a tale of money, intrigue, and specifications”, department of computer sci-
+ence, university of massachusetts, amherst, october .
+• “orderrr! a tale of money, intrigue, and specifications”, department of electrical and
+computer engineering, the technion, haifa, israel, june .
+• “orderrr! a tale of money, intrigue, and specifications”, department of electrical en-
+gineering and computer science, university of california, berkeley, january .
+• “scalog: seamless reconfiguration and total order in a scalable shared log”, google, de-
+cember .
+• “reasoning with mad distributed systems”, bertinoro international center for informatics,
+bertinoro italy, october .
+• “flp”, invited lecture in the graduate course on distributed computing, department of
+informatics, sapienza university, rome, italy, october .
+• “the pit and the pendulum”, department of informatics, sapienza university, rome, italy,
+september .
+• “the pit and the pendulum”, department of electrical engineering and computer science,
+university of california, berkeley, december .
+• “the pit and the pendulum”, department of computer science, kth, stockholm, sweden,
+november .
+• “the pit and the pendulum”, department of computer science, universit`a degli studi di
+modena e reggio emilia, july .
+• “the pit and the pendulum”, tsinghua-cornell workshop on security and cryptography,
+tsinghua university, beijing, p.r.c., december .
+• “the pit and the pendulum”, computer science department, university of southern cali-
+fornia, los angeles, december .
+• “the pit and the pendulum”, computer science department, university of california, san
+diego, september .
+• “the pit and the pendulum”, computer science departmental colloquium, cornell univer-
+sity, november .
+• “high performance acid via modular concurrency control”, invited talk, department of
+computer science, university of tromsø, norway, may .
+• “salt: combining acid and base in distributed databases”, invited talk, department of
+computer science, university of tromsø, norway, may .
+24
+• “reasoningwithmaddistributedsystems”,invitedtalk,departmentofcomputerscience,
+university of tromsø, norway, may .
+• “salt: combining acid and base in distributed databases”, qatar computing research
+institute, doha, qatar, february .
+• “salt”, invited talk, institute of parallel and distributed systems, shanghai jiao tong uni-
+versity, june .
+• “salt”, invited talk, department of computer science, tu dresden, germany, may .
+• “reasoningwithmaddistributedsystems”,invitedtalk,tudresden,germany,may2014.
+• “bar protocols for mad services”, invited talk, university of lisbon, portugal, november
+.
+• “reasoning with mad distributed systems”, fudan university, shanghai, china, september
+.
+• “bft we can believe in”, fudan university, shanghai, china, september .
+• “reasoning with mad distributed systems”, microsoft research asia, beijing, china, july
+.
+• “bft we can believe in”, microsoft research asia, beijing, china, july .
+• “bft we can believe in”, invited talk, tsinghua university, beijing, china, june .
+• “reasoning with mad distributed systems”, invited talk at the workshop on decentralized
+mechanism design, distributed computing, and cryptography, princeton, new jersey, june
+.
+• “building robust cooperative services”, invited lecture, stiet seminar series, wayne
+university/ university of michigan, april .
+• “thelongmarchofthebyzantinegenerals”,invitedtalk,departmentofcomputerscience,
+vrije university, amsterdam, the netherlands, july .
+• “thelongmarchofthebyzantinegenerals”,invitedtalk,departmentofcomputerscience,
+university of groningen, the netherlands, july .
+• “thelongmarchofthebyzantinegenerals”,invitedtalk,departmentofcomputerscience,
+e´cole polytechnique fed´erale de lausanne, switzerland, july .
+• “thelongmarchofthebyzantinegenerals”,invitedtalk,departmentofcomputerscience,
+university of udine, italy, june .
+• “zyzzyva”,departmentalcolloquium,departmentofcomputerscience,universityoftrento,
+italy, may .
+• “bft: the time is now”, 4th iti workshop on dependability and security, university of
+illinois, urbana, december .
+25
+• “bargossip”,departmentalcolloquium,departmentofcomputerscience,yaleuniversity,
+new haven, ct, november
+• “zyzzyva”, departmental colloquium, department of computer science, the technion,
+haifa, israel, october .
+• “bar gossip”, ibm research, haifa, israel, october .
+• “bargossip”,departmentalcolloquium,departmentofelectricalandcomputerengineer-
+ing, the technion, haifa, israel, october .
+• “bar: where distributed computing meets game theory”, tutorial at the third latin
+america symposium on dependable computing, morelia, mexico, september .
+• “bargossip”, departmentalcolloquium, universidadnacionalaut´onomadem´exico, mex-
+ico city, mexico, september .
+• “a virtuous cycle: a personal perspective on the relationship between academia, industry,
+and society at large in the u.s.a.” invited talk, european genetics foundation, hermitage
+of ronzano, bologna, italy, june .
+• “bar gossip”, invited talk, university of trento, italy, june .
+• “bar gossip”, departmental colloquium, university of bologna, italy, june .
+• “bar gossip”, departmental colloquium, university of modena, italy, june .
+• “bar gossip”, departmental colloquium, university of rome, “la sapienza”, italy, june
+.
+• “reasoning with mad distributed systems”, 3rd iti workshop on dependability and secu-
+rity, university of illinois, urbana, december .
+• “reasoning with mad distributed systems”, dagstuhl seminar 06371 “from security to
+dependability”, schloss dagstuhl, germany, september .
+• panelist at the 2nd iti workshop on dependability and security, university of illinois, ur-
+bana, december .
+• “reasoning with mad distributed services”, computer information assurance and security
+invited talk series, san antonio, texas, november .
+• “reasoning with mad distributed services”, research strategy workshop, max plank in-
+stitute for software systems, kaiserslautern, germany, september .
+• “bar fault tolerance for cooperative services”, carnegie mellon university, pittsburgh,
+pa, august .
+• “bar fault tolerance for cooperative services”, university of naples “federico ii”, invited
+talk, italy, july
+26
+• “rethinking state machine replication”, departmental colloquium, university of naples
+“federico ii”, italy, july .
+• “bar fault tolerance for cooperative services”, departmental colloquium, university of
+rome “la sapienza”, italy, july .
+• “barfaulttoleranceforcooperativeservices”,invitedtalk,ibmresearch,zurich,switzer-
+land, july .
+• “un circolo virtuoso: industria e universit`a negli u.s.a.” workshop “innovare per com-
+petere”, associazione piccole e medie industrie, bologna, italy, july .
+• “byzantine faults in a rational world”, 47th ifip wg 10.4 meeting, rinc´on, pr, usa,
+january .
+• “rethinking state machine replication”, departmental colloquium, university of bologna,
+italy, july .
+• “rethinking state machine replication”, departmental colloquium, university of trento,
+italy, july .
+• “rethinking state machine replication”, departmental colloquium, northwestern univer-
+sity, chicago, il, january .
+• “rethinkingstatemachinereplication”,departmentalcolloquium,universityofrome,“la
+sapienza”, italy, january .
+• “rethinking state machine replication”, departmental colloquium, university of modena,
+italy, december .
+• “rethinking state machine replication”, departmental colloquium, washington university,
+st. louis, mo, november .
+• “do we have a quorum?”, invitated talk, at&t shannon laboratory, florham park, new
+jersey, june .
+• “rollback recovery: so many protocols, so little time”, systems seminar, cornell univer-
+sity, ithaca, ny, april .
+• “byzantine fault-tolerance for trustworthy distributed systems”, invited lecture, universi-
+dad polit´ecnica de madrid, madrid, spain, april .
+• “two applications of lightweight fault-tolerance”, invited lecture, universidad aut´onoma
+de madrid, madrid, spain, april .
+• “rollback recovery: so many protocols, so little time”, invited lecture, universidad rey
+juan carlos, madrid, spain, april .
+• “do we have a quorum?” departmental colloquium, department of computer science,
+johns hopkins university, baltimore, md, february .
+27
+• “do we have a quorum?” departmental colloquium, department of computer science,
+suny stony brook, stony brook, ny, january .
+• “do we have a quorum?” departmental colloquium, department of computer science,
+university of massachusetts, amherst, ma, january .
+• “dowehaveaquorum?” cercscolloquium,collegeofcomputing,georgiatech,atlanta
+ga, january .
+• “byzantinefaulttoleranceforsecurity: doesitwork?”, ifipworkinggroup10.4ondepend-
+able computing and fault tolerance, cape verde, january .
+• “practical byzantine quorum systems”, distinguished lecture series, cornell university,
+ithaca, ny, october .
+• “lightweight fault tolerance”, docomo laboratories, san jose, ca, september .
+• “waft:finalreport”,quorum/highconfidencecomputingpimeeting,neworleans,la,
+may
+• “towards lightweight fault-tolerance”, invited lecture, fault-tolerance workshop, sandia
+national laboratory, livermore, ca, april .
+• “towardslightweightfault-tolerance”,invitedlecture,jetpropulsionlaboratory,pasadena,
+ca, august .
+• “towards lightweight fault-tolerance”, departmental colloquium, university of kentucky,
+lexington ky, april .
+• “towards lightweight fault-tolerance”, departmental colloquium, university of catania,
+italy, january .
+• “egida: a toolkit for low-overhead fault-tolerance”, invited lecture, los alamos national
+laboratories, nm, april .
+• “a one-day course in fault-tolerance”, tutorial at qualcomm headquarters, san diego, ca,
+september .
+• “waft: fault-tolerance for wide-area networks”, quorum/high confidence computing pi
+meeting, san diego, ca., july
+• “understanding message logging”, invited talk, texas a&m university, college station,
+tx, april .
+i professional activities
+• memberoftheeditorialboard, acm transactions on computer systems, since .
+• memberoftheeditorialboard, distributed computing, springer-verlag, since .
+• founder and memberoftheexecutiveboard, elicsir foundation, italy.
+28
+• founder and memberoftheexecutiveboard, scuola ortogonale, italy.
+• founding co-director, cornell, maryland and max planck pre-doctoral research school,
+- present.
+• member, eurosys steering committee, -present
+• member, sosp steering committee, -present.
+• member of the the steering committee and of the scientific advisory board, bertinoro
+international center for informatics, - present.
+• member, sigops cacm research highlight nomination committee, -present.
+• member of the external review committtee of the andrew and erna viterbi faculty of
+electrical and computer engineering at the technion, haifa, israel, january .
+• member of the panel for ranking publication venues in the areas of distributed computing
+and systems software for the computing research and education association of australasia,
+.
+• foundingco-director, computer systems education workshop, beijing, .
+• memberoftheeditorialboard, acm computing surveys, - .
+• memberoftheeditorialboard, ieee transactions on dependable and secure computing,
+- .
+• member, computing community consortium council, - .
+• member of the selection committee for the director of the center for resilient computing
+and cybersecurity at kaust.
+• member, podc steering committee, - .
+• member, apsys steering committee, - .
+• member, cra committee on best practices for hiring, promotion, and scholarship (2103-
+).
+• member of the scientific advisory board, bertinoro international center for informatics,
+- .
+• chair, workshop on hot topics in systems dependability (hotdep) steering committee,
+- .
+• co-chair apsys steering committee, - .
+• member, podc steering committee, august -august .
+• member, dsn steering committee, january -january .
+• member, nsf geni research coordination working group.
+29
+• memberofnsfpanels, , , , , , , , , ,
+• member, european commission panel for fp7 joint ict-security call on protection of
+critical infrastructure, .
+• reviewer panel on research projects of national relevance, italian ministry of scientific
+research ( - ).
+• reviewer, us-israel binational science foundation, .
+• reviewer, israel’s science foundation, , , , .
+• chair of the search committee for the editor in chief of the acm transactions on computer
+systems.
+• committeemember, eurosys jochen liedtke young researcher awardaward ( , ).
+• committeemember, podc doctoral dissertation award, .
+• committeechair, eurosys roger needham ph.d. award, .
+• committeemember, eurosys roger needham ph.d. award ( , , , ).
+• member of the committee charged with deciding on the reappointment of the editor in chief
+of ieee tdsc, december .
+• referee for the evaluation of research projects on behalf of the italian ministry of education
+andresearchandtheevaluationofresearchproducts(vqr2004- )onbehalfoftheitalian
+national agency for the evaluation of research and of the university system, .
+• programco-chair, european conference on computer systems (eurosys )
+• member of program committee, 14th usenix symposium on operating systems design
+and implementation (osdi ).
+• member of program committee, 27th acm symposium on operating systems principles
+(sosp ).
+• member of program committee, european conference on computer systems (eurosys
+)
+• member edsger w. dijkstra prize in distributed computing.
+• memberofprogramcommittee 22nd international conference on principles of distributed
+systems, (opodis )
+• memberofprogramcommittee,2018dsnworkshoponbyzantineconsensusandresilient
+blockchains.
+• programco-chair, 26th acm symposium on operating systems principles (sosp ).
+• member of program committee, 1st workshop on security and dependability of critical
+embedded real-time systems, .
+30
+• member of program committee, 36th acm symposium on the principles of distributed
+computing (podc ).
+• member of program committee, european conference on computer systems (eurosys
+).
+• member of program committee, 29th international symposium on distributed computing
+(disc ).
+• participant, cra leadership in science policy institute (lispi), washington d.c., .
+• memberofprogramcommittee, 7th acm sigops international systems and storage con-
+ference (systor ).
+• memberofprogramcommittee, acm symposium on cloud computing (socc ).
+• member of program committee, 11th usenix symposium on operating systems design
+and implementation (osdi ).
+• memberofprogramcommittee, conference on timely results in operating systems
+(trios ).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• programco-chair, 5th asia-pacific workshop on systems, (apsys ).
+• member of program committee, european conference on computer systems (eurosys
+).
+• programco-chair,7thworkshoponlarge-scaledistributedsystemsandmiddleware(ladis
+).
+• memberofprogramcommittee, usenix annual technical conference, .
+• member of program committee, european conference on computer systems (eurosys
+).
+• member of program committee, twenty-sixth international symposium on distributed
+computing (disc ).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• memberofprogramcommittee,fourteenthinternationalsymposiumonstabilization,safety,
+and security of distributed systems (sss ).
+• memberofprogramcommittee,2ndacmsigopsasia-pacificworkshoponsystems(ap-
+sys ).
+• member of program committee, 7th workshop on hot topics in system dependability
+(hotdep 11).
+31
+• general chair 12th international conference on distributed computing and networking
+(icdcn ).
+• member of program committee 7th usenix symposium on network systems design and
+implementation (nsdi ).
+• memberofprogramcommittee international conference on dependable systems and net-
+works (dsn/ftcs), dcc symposium (dsn ).
+• chair edsger w. dijkstra prize in distributed computing.
+• programchair 28th acm symposium on the principles of distributed computing (podc
+).
+• member of program committee, 22nd acm symposium on operating systems principles
+(sosp ).
+• memberofprogramcommittee,8thusenixsymposiumonoperatingsystemsdesignand
+implementation (osdi 08).
+• programco-chair, 4th workshop on hot topics in system dependability (hotdep 08).
+• member of program committee, workshop on the economics of networks, systems,
+and computation (netecon 08).
+• memberofprogramcommittee, workshop on recent advances on intrusion-tolerant
+systems (wraits 08).
+• member of program committee, international conference on distributed computing
+and networking (icdcn).
+• member of program committee, international conference on distributed computing
+systems (icdcs).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• memberofprogramcommittee, workshop on recent advances on intrusion-tolerant
+systems (wraits 07).
+• program chair, 3rd workshop on the future of distributed computing (fudico iii:
+building mad distributed systems), .
+• member of program committee, 3rd workshop on hot topics in system dependability
+(hotdep 07).
+• member of program committee, 2nd workshop on hot topics in autonomic computing
+(hotac 07).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+32
+• programchair,2006internationalconferenceondependablesystemsandnetworks(dsn/ftcs),
+dcc symposium.
+• memberofprogramcommittee,1stacmworkshoponscalabletrustedcomputing(stc’06).
+• member of program committee, 25th acm symposium on the principles of distributed
+computing (podc ).
+• member of program committee, 2nd workshop on hot topics in system dependability
+(hotdep 06).
+• memberofprogramcommittee, 2nd workshop on high availability of distributed systems
+(hadis ).
+• memberofprogramcommittee, 2nd ieee workshop on advanced architectures and algo-
+rithms for internet delivery and applications (aaa-idea )
+• member of program committee, 20th acm symposium on operating systems principles
+(sosp ).
+• memberofprogramcommittee,2ndlatinamericansymposiumondependablecomputing
+(ladc ).
+• memberofprogramcommittee,ieeeworkshoponadvancedarchitecturesandalgorithms
+for internet delivery and applications (aaa-idea )
+• member of program committee, 1st workshop on hot topics in system dependability
+(hotdep 05).
+• memberofprogramcommittee, 9th international symposium on high assurance systems
+engineering (hase ).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• member, workshop selection committee, of the international conference on depend-
+able systems and networks (dsn/ftcs).
+• programchair,2004workshoponsurvivability: obstaclesandsolutions(fudicoii:s.o.s.),
+.
+• memberofprogramcommittee, workshop on secure multiparty computations (smp
+).
+• memberofprogramcommittee, acm sigops european workshop.
+• memberofprogramcommittee, international symposium on distributed computing
+(disc ).
+• publicity chair, eighteenth international symposium on distributed computing (disc
+).
+33
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• member of program committee, 22nd acm symposium on the principles of distributed
+computing (podc ).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• member of program committee, ieee symposium on reliable distributed systems
+(srds).
+• vicechairfortheareasoffault-toleranceandsecurity, ieee international confer-
+ence on distributed computing systems (icdcs).
+• member of program committee, 2nd workshop on caching, coherence, and consistency
+(wc3’02)
+• memberofprogramcommittee, euro-par .
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs), dcc symposium.
+• memberofprogramcommittee,2002internationalparallelanddistributedprocessingsym-
+posium (ipdps).
+• memberofprogramcommittee, international symposium on distributed computing
+(disc ).
+• member of program committee, ieee symposium on reliable distributed systems
+(srds).
+• memberofprogramcommittee, international conference on dependable systems and
+networks (dsn/ftcs).
+• memberofprogramcommittee, ieee workshop on internet applications (wiapp).
+• memberofprogramcommittee,2000middlewaresymposiuminconnectionwithacmsym-
+posium on the principles of distributed computing.
+• memberofprogramcommittee, ieee international conference on distributed com-
+puting systems (icdcs).
+• publicitychair, acm symposium on operating systems principles (sosp ).
+• memberofprogramcommittee, ieee international conference on distributed com-
+puting systems (icdcs).
+• memberofprogramcommittee, ieee workshop on internet applications (wiapp).
+• vicechairfortheareasoffault-toleranceandsecurity, international conference on
+distributed computing systems (icdcs).
+34
+• local arrangement chair, ieee international conference on distributed computing
+systems (icdcs).
+• memberofprogramcommittee, ieee international conference on distributed com-
+puting systems (icdcs).
+• sessionchair for (1) international conference on distributed systems and networks,
+(2) symposium on reliable distributed systems, (3) international conference on
+distributed systems and networks, (4) ieee workshop on internet applications, and
+(5) ieee international conference on distributed computing systems.
+• panelist, ieee 7th heterogeneous computing workshop.
+• reviewer for the following journals: acm transactions on information and system security,
+acm transactions on computer systems, acm computing surveys, distributed comput-
+ing, ieee computer, ieee transactions on computers, ieee transactions on software
+engineering, ieee transactions on parallel and distributed systems, journal of parallel and
+distributedcomputing,journalofparallelanddistributedtechnology,informationprocess-
+ingletters,euromicro,internationaljournalofcomputersandtheirapplications,computer
+journal, reliability engineering and system safety.
+• reviewer for several conferences, including european dependable computing conference
+( ),globecomm2003,acmsymposiumonoperatingsystemsprinciples( ),interna-
+tional workshop on distributed algorithms ( ), international conference on distributed
+computingsystems(icdcs1998),ieeesymposiumonreliabledistributedsystems( ,
+). international fault-tolerant computing symposium (ftcs , , , ,
+), europar ( ).
+j grants
+• nationalsciencefoundation,unlinkingthe(block)chain: scalablebyzantine-tolerantdatabases,
+$ 600,000, 06/15/ -05/31/ .
+• aptos unrestricted gift, $ 50,000, 8/
+• google unrestricted gift, $ 50,000, 8/
+• google unrestricted gift, $ 50,000, 8/ .
+• national science foundation, scalable acid transactions for persistent memory databases,
+$ 214,996, 9/30/ -8/31/ .
+• google unrestricted gift, $ 50,000, 8/ .
+• google unrestricted gift, $ 50,000, 8/ .
+• huawei, indicus: unchaining byzantine serializable databases, $183,721, 2/ .
+• google unrestricted gift, $ 50,000, 8/ .
+35
+• national science foundation, client centric consistency, $ 400,000, 9/1/ -8/31/ .
+• google faculty research award, scalable causal consistency with no slowdown cascades, $
+69,349, february .
+• google faculty research award, high performance acid through modular concurrency
+control, $ 60,651, february .
+• facebookfacultyresearchaward,salt: combiningacidandbaseindistributeddatabases,
+$ 50,000, october .
+• googlefacultyresearchaward, salt: combining acid and base in distributed databases,
+$ 59,165, august .
+• national science foundation, salt: combining acid and base in distributed databases,
+$903,425, 9/1/ -8/31/ .
+• national science foundation, cloud storage with minimal trust, (with dahlin and walfish),
+$498,714, 6/1/ -3/31/ .
+• sungard lp, sungard exascale storage, (with dahlin and walfish), $476,122, 1/1/ -
+12/31/ .
+• national science foundation, mad systems, $ 950,000, 9/1/ -8/31/ .
+• national science foundation, bft: the time is now, $ 788,000, 9/1/ -8/31/ .
+• national science foundation, travel and registration support for third bertinoro workshop
+on future of distributed computing, $12,500, 8/01/07-7/31/08.
+• national science foundation, byzantine faults in a rational world, $ 569,555.
+• national science foundation, byzantine replication for trustworthy systems, $ 300,000,
+9/15/04-9/14/07.
+• national science foundation, travel support for second bertinoro workshop on future of
+distributed computing, $10,000, 6/15/04-5/31/05.
+• cassa di risparmio in bologna, italy. survivability: obstacles and solutions, (with a. pan-
+conesi at the university of rome, “la sapienza”), e 8,000, .
+•
+texasadvancedtechnologyprogram,byzantinereplicationfortrustworthysystems,$150,000,
+- .
+•
+texasadvancedresearchprogram,scalablelow-overheadfault-tolerance,(withlin),$147,000,
+- .
+• texas advanced technology program, resource management in server cluster, (with vin),
+$150,000, - .
+• sandia national laboratories, lightweight fault-tolerance for asci applications $100,000,
+– .
+36
+• sandia national laboratories, scalable fault tolerance through compiler-driven communi-
+cation induced checkpointing, $122,642, – .
+• alfred p. sloan research fellowship, $40,000, - .
+• defense advanced research projects agency, trips: the tera-op reliable intelligently
+adaptive processor system. (with dahlin, vin, burger, keckler, john, lin, and mckin-
+ley). $3,020,000, - .
+• defense advanced research projects agency, waft: support for fault-tolerance in wide-
+area object-oriented systems, (with k. marzullo at ucsd), $ 826,910, 9/1/98 - 8/31/01.
+• national science foundation career award, lightweight fault-tolerance for distributed
+agents, $200,000, - .
+• nationalsciencefoundation, experiments in building distributed applications through com-
+positional programming, (with lin and misra) nsf ess program. $ 128,452, 9/1/97 -
+8/31/98.
+• ibm faculty partnership award issues in improving web server performance (with vin)
+$25,000, - .
+•
+ibmfacultypartnershipaward,resourcemanagementinserverclusters(withvin)$25,000,
+- .
+• ibm equipment grant, (with vin) $25,000, 12/ .
+• texas advanced research program, c0pe: consistent 0-administrator personal environ-
+ment (with dahlin), $138,094, - .
+• cisco university research program, a failure model for wide-area services (with dahlin,
+vin), $ 35,400, -
+• tivoli, inc., practical byzantine fault tolerance for replicated data services, $60,000, -
+.
+• tivoli, inc., c0pe: consistent 0-administrator personal environment (with dahlin, vin),
+$30,000, .
+• tivoli, inc., system support for wide-area applications (with dahlin, vin), $30,000, .
+• dell inc. designing reliable server clusters, (with vin), lariat program, $ 25,000, -
+.
+• novell, inc., unrestricted research gift (with dahlin, blumofe, lin), $50,000, - .
+• university of texas summer research award, using application semantics in optimal mes-
+sage logging: an empirical study, $12,000, .
+37

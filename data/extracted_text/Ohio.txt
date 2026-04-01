@@ -1,0 +1,144 @@
+zhepei wang
+phone: (us)
+(cn)
+adobeinc.
+345parkave, email:
+sanjose,ca95110 homepage: http://zhepeiw.github.io
+scholar: linkedin: twitter: github:
+education
+ph.d.,computerscience august2018-december2023
+universityofillinoisurbana-champaign,champaign,il,usa
+• division: artificialintelligence
+• gpa:3.97/4.00
+• dissertation: data-efficientapproachesforaudioclassificationandseparation(pdf)(slides)
+– proposedthefirstsupervisedandself-supervisedcontinuallearningapproachestotrain
+asoundclassifierthatcanincrementallyrecognizenewsoundclasses
+– introducednetworkdesignsandtrainingframeworksthatenableadaptivecomputation
+andbettergeneralizationforsoundeventdetection
+– integrated semi-supervised learning to improve the performance of separation models
+formusicandspeechapplications
+• advisor: prof. parissmaragdis
+b.s.,computerscience august2014-may2018
+harveymuddcollege,claremont,ca,usa
+• gpa:3.93/4.00
+• graduatewithhighdistinctionandhonorincomputerscience
+interests
+machine learning, audio and speech processing, self-supervised learning, continual learning,
+multi-modallearning,generativeai
+professional experience
+adoberesearch,researchscientist/engineer may2024-present
+• dataenhancementfortext-to-musicsynthesis
+• supervisor: dr. nicholasj.bryan
+amazonwebserviceschimesdk,appliedscientist september2023-may2024
+• real-timelow-computespeechenhancementforamazonvoicefocus
+usingdistance-basedfeatureswithoutenrollmentutterancesfromusers
+zhepeiwang 2
+• theenrollment-freemodelreaches97%oftheperceptualqualityscore
+ofthemodelusingenrollmentspeech
+• inconsistencydetectionwithprompting-basedmethodsfrompassages
+retrievedfromenterprisedatabasewithuserqueriesforamazonq
+amazonwebserviceschimesdk,scientistintern summer2022
+• thefirstunifiedframeworkforreal-timelow-complexitypersonalizedand
+non-personalizedspeechenhancementforamazonvoicefocus
+• theunifiedframeworkreduces50%ofthememoryusagewhilereaching99.8%of
+theenhancementperformanceofthetask-specificmodels
+• publicationinproceedingsoficassp2023
+• supervisors: dr. ritwikgiri,dr. michaelm.goodwin
+amazonwebserviceschimesdk,scientistintern summer2021
+• offlinepersonalizedspeechenhancementforamazonpersonalizedvoicefocus
+• semi-supervisedtargetspeakerextractionusingspeakeridentitycues
+• extractionperformanceoutperformsthepreviousstate-of-the-art
+supervisedapproachby12.6%
+• supervisor: dr. ritwikgiri
+amazonwebservicesai,scientistintern summer2020
+• semi-supervisedsingingvoiceseparationanddataaugmentation
+• separationperformanceoutperformsthepreviousstate-of-the-artby18.5%
+• publicationinproceedingsoficassp2021
+• supervisor: dr. ritwikgiri
+tencentailab,researchintern summer2019
+• score-to-soundsingingsynthesisusinganeuralvocoder
+basedontext-to-speech(tts)pipelines
+• supervisor: dr. shiyinkang
+tencentaiplatformdepartment,mlengineeringintern summer2018
+• implementedobjectdetectionandimagesegmentationnetworks
+includingssdandmask-rcnnusingtensorflow
+• supervisor: dr. xiaolongzhu
+amazonprimenow-hmcclinic,projectleader -
+• report: image-textclassificationtocorrecttheamazonprimenow
+searchexperience(pdf)(poster)
+• designedasystemthatautomaticallydetectsmismatchesbetween
+productimagesandtextdescriptionswithdeeplearning
+• designedandimplementedaworkflowfortrainingadeep
+neuralnetworktodeterminethesimilaritybetweenapairofimages
+• supervisor: prof. yekaterinakharitonova
+zhepeiwang 3
+hmcmusicinformationretrievallab,studentresearcher -
+• livesongidentificationusingsuperviseddeeplearningand
+unsupervisedmachinelearningmethods
+• supervisor: prof. timothyj.tsai
+honors and awards
+outstandingreviewerrecognition,icassp
+awardedtothereviewerswithoutstandingcontributions(220/4445)
+saburomurogaendowedfellowship($6,
+awardedtooutstandinggraduatestudentsincomputerscience
+outstandingclinicindividualaward
+awardedtotop-performingstudentsintheseniorcapstoneproject(4/100)
+harveys.muddmeritaward($10,000peracademicyear) -
+awardedtostudentswithsuperioracademicachievement
+reviewer experience
+internationalconferenceofacoustics,speechandsignalprocessing(icassp) -
+internationalconferenceonlearningrepresentations(iclr)
+workshoponapplicationsofsignalprocessingtoaudioandacoustics(waspaa) ,
+workshopondetectionandclassificationofacousticscenesandevents(dcase) ,
+ieee/acmtransactionsonaudio,speech,andlanguageprocessing(taslp)
+skills
+• programminglanguages: python,c,c++,unixshellscripting,matlab
+• machinelearning,deeplearning: pytorch,tensorflow,mxnet,speechbrain,numpy,scikit-learn
+• software: git,docker,aws,slurm,jupyterlab,vim,tmux
+peer-reviewed publications
+f.paissan,l.d.libera,z.wang,p.smaragdis, m.ravanelli,andy.c.sübakan, "audioediting
+withnon-rigidtextprompts",ininterspeech,sept. (pdf)(demo)
+z.wang,y.c.sübakan,k.subramani,j.wu,t.tavares,f.ayres,andp.smaragdis,"unsupervised
+improvement of audio-text cross-modal representations", in ieee workshop on applications of
+signalprocessingtoaudioandacoustics(waspaa),oct. (pdf)(code)(poster)(talk)
+zhepeiwang 4
+z.wang,r.giri,d.shah,j.-m.valin,m.goodwin,andp.smaragdis,"aframeworkforunified
+real-timepersonalizedandnon-personalizedspeechenhancement",inieeeinternationalconference
+onacoustics,speech,andsignalprocessing(icassp),june. (pdf)(poster)(talk)
+z. wang, y. c. sübakan, x. jiang, j. wu, e. tzinis, m. ravanelli, and p. smaragdis, "learning
+representationsfornewsoundclasseswithcontinualself-supervisedlearning",inieeesignal
+processingletters,vol. 29,pp. 2607-2611, (pdf)(code)(poster)
+e.tzinis,z.wang,x.jiang,andp.smaragdis,"computeandmemoryefficientuniversalsound
+sourceseparation",injournalofsignalprocessingsystems,vol. 9,no. 2,pp. 245-259, (pdf)
+s. yuan, z. wang, u. isik, r. giri, j.-m. valin, m. goodwin, and a. krishnaswamy, "improved
+singing voice separation with chromagram-based pitch-aware remixing", inieeeinternational
+conferenceonacoustics,speech,andsignalprocessing(icassp),may. (pdf)
+z. wang, j. casebeer, a. clemmitt, e. tzinis, and p. smaragdis, "sound event detection with
+adaptive frequency selection", inieeeworkshoponapplicationsofsignalprocessingtoaudioand
+acoustics(waspaa),oct. ,(pdf)(code)(poster)(talk)nominationofbestpaperaward
+e.tzinis,j.casebeer,z.wang,andp.smaragdis,"separatebuttogether: unsupervisedfederated
+learningforspeechenhancementfromnon-iiddata",inieeeworkshoponapplicationsofsignal
+processingtoaudioandacoustics(waspaa),oct. (pdf)
+z. wang, r. giri, u. isik, j.-m. valin, and a. krishnaswamy, "semi-supervised singing voice
+separation with noisy self-training", in ieee international conference on acoustics, speech, and
+signalprocessing(icassp),june. (pdf)(poster)(talk)
+e. tzinis, z. wang, and p. smaragdis, "sudo rm -rf: efficient networks for universal audio
+sourceseparation",inieeeinternationalworkshoponmachinelearningforsignalprocessing(mlsp),
+sept. (pdf)
+e.tzinis,s.venkataramani,z.wang,y.c.sübakan,andp.smaragdis,"two-stepsoundsource
+separation: training on learned latent targets", in ieee international conference on acoustics,
+speech,andsignalprocessing(icassp),may. (pdf)
+z. wang, y. c. sübakan, e. tzinis, p. smaragdis, and l. charlin, "continual learning of new
+sound classes using generative replay", in ieee workshop on applications of signal processing to
+audioandacoustics(waspaa),oct. (pdf)
+j.casebeer(cid:93),z.wang(cid:93),andp.smaragdis,"multi-viewnetworksformulti-channelaudioclassification,"
+in ieee international conference on acoustics, speech, and signal processing (icassp), may.
+(pdf)(poster)
+(cid:93)equalcontribution
+zhepeiwang 5
+preprints
+t. tavares, f. ayres, z. wang, and p. smaragdis, "on class separability pitfalls in audio-text
+contrastivezero-shotlearning",arxivpreprintarxiv:2408.13068,aug. (pdf)
+z. wang, r. giri, s. venkataramani, u. isik, j.-m. valin, p. smaragdis, m. goodwin, and a.
+krishnaswamy,"semi-supervisedtimedomaintargetspeakerextractionwithattention",arxiv
+preprintarxiv:2206.09072,june. (pdf)(code)

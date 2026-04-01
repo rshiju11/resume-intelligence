@@ -16,7 +16,13 @@ model = SentenceTransformer("BAAI/bge-large-en-v1.5")
 
 INSTRUCTION = "Represent this resume for clustering based on research focus, technical expertise, and career domain."
 
-ANCHOR_TEXT = "Technical research expertise, specialization, and professional domain focus."
+ANCHORS = [
+    "machine learning, artificial intelligence, deep learning, neural networks",
+    "data science, statistics, data analysis, predictive modeling",
+    "software engineering, backend development, distributed systems",
+    "computer vision, NLP, natural language processing",
+    "academic research, publications, conferences, PhD research"
+]
 
 
 
@@ -55,22 +61,22 @@ def filter_relevant_chunks(chunks, embeddings, ratio = 0.7):
     """
 
     if embeddings is None:
-        return None
+        return None, None
     
     # embed anchor, compute cos. sim. between chunk and anchor
-    anchor_embedding = model.encode(INSTRUCTION + " " + ANCHOR_TEXT, normalize_embeddings=True)
-    sims = cosine_similarity(embeddings, [anchor_embedding]).flatten()
+    anchor_embeddings = model.encode([INSTRUCTION + " " + a for a in ANCHORS], normalize_embeddings=True)
+    
+    sims = cosine_similarity(embeddings, anchor_embeddings)
+    max_sims = sims.max(axis=1)
 
     # keeping top k (0.7) chunks
     k = max(1, int(len(chunks)*ratio))
-    top_indices = np.argsort(-sims)[:k]
+    top_indices = np.argsort(-max_sims)[:k]
 
-    filtered_embeddings = embeddings[top_indices]
-
-    return filtered_embeddings
+    return embeddings[top_indices], max_sims[top_indices]
 
 
-def aggregate_embeddings(embeddings):
+def aggregate_embeddings(embeddings, weights=None):
     """
     chunk embeddings are aggregated into a single resume vector
     returns final aggregated embedding.
@@ -78,7 +84,15 @@ def aggregate_embeddings(embeddings):
     if embeddings is None:
         return None
     
-    final = np.mean(embeddings,axis=0)
+    if weights is not None:
+        if np.sum(weights) == 0:
+            weights = None
+    
+    if weights is None:
+        final = np.mean(embeddings, axis=0)
+    else:
+        weights = np.exp(weights) / np.sum(np.exp(weights))
+        final = np.sum(embeddings * weights[:, None], axis=0)
     
     # normalize final embeddings for clustering
     final = final/np.linalg.norm(final)
@@ -91,8 +105,8 @@ def get_resume_embedding(text):
     """
     chunks = chunk_text(text)
     chunk_embs= embed_chunks(chunks)
-    filtered_embs = filter_relevant_chunks(chunks,chunk_embs,ratio=0.7)
-    final_embedding = aggregate_embeddings(filtered_embs)
+    filtered_embs, weights = filter_relevant_chunks(chunks,chunk_embs,ratio=0.7)
+    final_embedding = aggregate_embeddings(filtered_embs, weights)
     return final_embedding
 
 

@@ -1,0 +1,1946 @@
+aylinyener
+departmentofelectricalandcomputerengineering
+theohiostateuniversity
+2015neilavenue,205dreeselabs,columbus,oh43210.
+e-mail: web: https://ece.osu.edu/people/yener.5
+researchgroup: web: https://u.osu.edu/inspire/
+https://6gandbeyond.osu.edu/
+experience
+royandloischopechairprofessorinengineering,theohiostateuniversity,oh jan. -present
+professor,electricalandcomputerengineering,theohiostateuniversity,oh jan. -present
+professor,computerscienceandengineering,theohiostateuniversity,oh jan. -present
+professor,integratedsystemsengineering,theohiostateuniversity,oh jan. -present
+universitydistinguishedprofessor,electricalengineering,pennstateuniversity,pa jan.-dec.
+dean’sfellow,pennstateuniversity,pa jan. -dec.
+visitingprofessor,electricalengineering,stanforduniversity,ca sep. -jan.
+professor,electricalengineering,pennstateuniversity,pa jul. -jan.
+associateprofessor,electricalengineering,pennstateuniversity,pa jul. -jul.
+visitingassociateprofessor,electricalengineering,stanforduniversity,ca oct. -aug.
+assistantprofessor,electricalengineering,pennstateuniversity,pa jan. -jul.
+assistantprofessor,electricalandcomputerengineering,lehighuniversity,pa aug. -dec.
+graduateresearchassistant,winlab,rutgersuniversity,nj, sep. -aug.
+memberoftechnicalstaff(summerinternship),lucenttechnologies,nj jun. -sep.
+education
+phd,winlab,electricalandcomputerengineeringdept.,rutgersuniversity,nj may2000
+ms,winlab,electricalandcomputerengineeringdept.,rutgersuniversity,nj oct.
+bs,electricalandelectronicsengineeringdept.,bogaziciuniversity,istanbul,turkey jun.
+bs,physicsdept.,bogaziciuniversity,istanbul,turkey jun.
+selected synergistic and leadership activities
+professionalcommunity
+ieeedivisionix:directorelect( ), divisiondirector( - )(leadingthedivisionconsist-
+ingofthefollowingieeesocieties: aerospaceandelectronicsystemssociety; geoscienceandremote
+sensing society; information theory society; intelligent transportation systems society; oceanic en-
+gineering society; signal processing society; vehicular technology society; ieee technical activities
+boardmember,andieeeboarddirector;electedbythemembership).
+a.yener 2
+ieee information theory society: president ( ) (preside over the board of governors, leading all
+organizationalactivitiesandsocietyaffairsincludingmeetings,outreach,initiatives,presidingoversociety
+levelawardcommittees,representingthesocietyattheieeetechnicalactivitiesboard(tab)).
+ieeeinformationtheorysociety: pastpresident( - )(nominationsandappointments,consti-
+tutionsandbylawsrevisions,boardofgovernors).
+ieeetransactionsongreencommunicationsandnetworking: editor-in-chief( -present),co-
+sponsored by ieee communications society, ieee signal processing society and ieee vehicular tech-
+nology society (manage/recruit area editors and editors, oversee the review process of papers, build an
+executevisionofthejournal).
+ieeetransactionsoninformationtheory,areaeditor( -present)fortheeditorialareasecurity
+andprivacy(workwiththeeditor-in-chief,manageassociateeditorsinthearea).
+ieeesystemscouncil: administrativecommitteemember( -present)(governancedecisions).
+ieee information theory society: vice president ( - ): 1st vice president (coordinating the
+paperawardcommittees),2ndvicepresident(coordinatingmembershipactivities).
+ieee information theory society: treasurer ( - ) (manage the budget coordinating activities
+andallocatingresources;severalfinancialinitiativesledtosignificantreductioninexpensesfreeingfunds
+foroutreachandmembershipdevelopment;leftthesocietyfinanceswithlargereservesandsurplus).
+ieeenorthamericanschoolofinformationtheory: co-founder( ),chair( , , ).
+this summer school initiative brings together graduate students interested in information theory and se-
+nior information theorist in a campus setting, annually in north american universities (ieee outreach
+commendation2014).
+externalboardsandacademies
+member: thescienceacademy,turkey(electedinthegeneralassemblydec. )
+boardmemberanddelegate: (divisionix)ieeeboardofdirectors( - )
+panelchair: europeanresearchcouncil( - )
+external advisory board member: electrical and electronics engineering department, bogazici uni-
+versity( -present).
+insitutional
+founderoftheinterdisciplinaryinitiative6gandbeyondatohiostate(osu)
+memberoftheresearchsecuritygovernanceboardatosu
+memberoftheaisteeringcommitteeatosu( )
+featuredfacultyinaseriesfocusingonthoughtleadersandtheirtransformativeresearch,presentedbythe
+officeofadvancementandtheofficeofresearchatosu( )
+memberofcollegeofengineering’swomen’sfacultyadvisoryboardtothedeanatosu
+memberofcollegeofengineering’sstrategicplanworkinggroup(co-leadforresearchpillar)atosu
+a.yener 3
+completedbettermentoring=betterscienceprogramatosu( )
+completedhowbystanderscanchangetheconversationaboutsocialbiastrainingatosu( )
+affiliatefacultyinsustainabilityinstituteatosu
+affiliatefacultyintranslationaldataanalyticsinstituteatosu
+memberofcommunityofpracticeonresponsibledatascienceatosu
+member of advisory committees at the department (ece, osu), school (eecs, penn state) and college
+(forcyberenvironments)levels(pennstate)
+foundingdirectorofwirelesscommunicationsandnetworkinglaboratoryatpennstate
+diversityfocused
+organizerofbigtenwomenworkshop(btww),june2022(chicago,il):thisisanin-persontwo-day
+workshopdesignedandorganizedbyseveralseniorbigtenwomenfacultyforjuniorfemalefacultyatour
+institutions. activities in included mentorship events, guided peer discussions, networking events,
+dean’spanelandkeynote. moderatorofthedean’spanel.
+interviewee, data science women summer camp, july , virtual: this was a week-long summer
+camp for middle-school students organized by tdai. my part was an interview the organizer conducted
+withmeaboutbeingawomanwhodoesdatascience,emphasizingthepotentialimpactonthesocietyand
+theplanet,andexplainingtheimportanceofmathandstatistics.
+alumnaofhighwireacts: changingthefutureforseniorfacultywomeninstem( ): leadership
+program for senior faculty women in stem at penn state: this is a year long program that is designed
+to prepare senior women faculty for academic administrative and leadership positions. activities include
+in-person several cohort workshops from story telling to handling difficult situations, a long term trust
+circlesubgroup,variousnetworkingevents,graduationday(withpresentationofpersonalsuccessstories)
+andon-goingalumnaeventsconnectingtonewcohorts.
+organizer of advancement of women in engineering (awe) workshop, october (w/ m. frecker,
+current head of mne at penn state): this was a one-day workshop for all women faculty in engineering
+andincludedtalks,communitybuildingactivitiesanddiscussionsofimprovingthecollegeclimatetowards
+women.
+keynote speaker in women in engineering events: typical titles ”women in academia: being a change
+agent”,”beingawomaninacademia: apersonaljourney”,primarilyatieeeeventsincludingbywomen
+inengineering(wie)andwomenincommunicationsengineering(wice).
+awards and honors
+ieeecommunicationssocietycommunicationtheorytechnicalachievementaward( )
+ieeeinformationtheorysocietypresident( )
+ieeecommunicationssocietybesttutorialpaperaward( )
+distinguishedlecturerofieeeinformationtheorysociety( - )
+ieeeinformationtheorysocietyvicepresident( )
+a.yener 4
+ieeeinformationtheorysociety2ndvicepresident( )
+ieeewomenincommunicationsengineeringoutstandingachievementaward( )
+ieeecommunicationssocietymarconiprizepaperaward( )
+fellowofieeeforcontributionstowirelesscommunicationtheoryandwirelessinformationsecurity
+distinguishedlecturerofieeecommunicationssociety( - )
+distinguishedlecturerofieeevehiculartechnologysociety( - )
+distinguishedspeakerofieeevehiculartechnologysociety( -present)
+fellow,asia-pacificartificialintelligenceassociation(aaia)( )
+clarivateanalyticshighlycitedresearcher( )
+bestpaperaward,communicationtheory,ieeeinternationalconferenceoncommunications( )
+darpayounginvestigatorteamawardforitmanetprogram( )
+nationalsciencefoundationcareeraward( )
+pennstateengineeringalumnisociety(pseas)premierresearchaward( )
+pennstateengineeringalumnisociety(pseas)outstandingresearchaward( )
+leonarda.doggettawardforoutstandingwritinginelectricalengineering,pennstate( )
+p.c.rossinendowedassistantprofessorship,lehighuniversity( )
+graduationhonorlist,bogaziciuniversity( )
+research related statistics
+numberofpublications: 8bookchapters,106journalpapers,263conferencepapers.
+citationcount: 16265,h-index: 59(googlescholar).
+researchsupervision: postdoc: 5previous;phd:16graduated,6current;ms:13graduated.
+keynotes/invitedtalks/tutorials(since2011): 61.
+researchfunding: 18nsfgrants,2darpa,1arlcta,1nsa,1dot,10industrial/othergrants.
+research focus
+my research area is in networked systems broadly defined. the focus is on system level design in-
+sights drawn from characterization of fundamental performance limits of such systems. we are generally
+interested in systems consisting of multiple entities that communicate, network, sense, learn and com-
+pute. these can be large systems consisting of entities with heterogeneous capabilities and resources,
+and represent the vision of the connected world, expected from 6g (and beyond). we seek for designs
+thatensuresecure,reliableandsustainableoperations. coreresearchdisciplinesandtoolsthatweengage
+includeinformationtheory, optimization, communicationtheoryandsignalprocessing. weareinterested
+a.yener 5
+in developing algorithmic design principles that are inspired by real-life use cases. there are diverse ap-
+plications domains of our research in next generation connectivity, with topics including edge facilitated
+ai,convergentnetworks(sensing,computing,communications,learning,andcontrol),wiredandwireless
+communication networks of the future, i.e., 6g, semantic communications and distributed intelligence,
+computingandcontentdeliverynetworks,andenergy-sustainablenetworks. morespecificstopicsare:
+– nextgenerationcommunicationsandnetworks
+* semanticcommunications
+* emergingnetworkingdesignparadigms
+* smartradioenvironmentsfor6g
+* aiforwirelesscommunications
+* wirelessdistributed,federatedanddecentralizedlearning(wirelessforai)
+* co-designparadigmsfor6g
+* emergingjointcommunication,sensingandcomputingparadigms
+* ageofinformation
+– sustainable/greencommunicationsandlearning
+* wirelessnetworkswithenergyharvestingnodes
+* energyandsignalcooperationincommunicationnetworks
+* sustainabledistributedandcentralizedlearning
+* energysustainabledistributedstorageandcaching
+– informationsecurity
+* informationtheoreticsecurityandprivacy
+* newmodelsandinformationtheoreticguaranteesforpowerfuladversaries
+* gametheoreticmodelsforinformationtheoreticsecurity
+* integratinginformationtheoreticsecuritytoothersecuritymechanismsfortheiotera
+* securityandprivacyindistributedlearningandcomputation
+– datascience,ml/ai
+* responsibledatascience: robustnessagainstadversaries,foundationalprivacy,fairness,explain-
+ability
+* fundamentallimitsofreliableinformationflowoversocialcommunicationnetworks
+* learningalgorithmswithperformanceguarantees
+* distributedandfederatedlearning
+* safeandprivateonlinelearning
+– contentdeliverynetworks
+* cachingsecurityandprivacy
+* codedcachingovernoisychannels
+* codedcachingforheterogenouswirelessnetworks
+selected invited talks, keynotes and tutorials*
+(*since2011)
+[61] “wireless is back: the 6g revolution towards connected intelligence,” distinguished speaker
+webinar,ieeevehiculartechnologysociety,keralachapter,india,march2024.
+[60] “notbeyond,butwithshannon,”plenary,informationtheoryandapplicationsworkshop,ita’24,
+sandiego,ca,february2024.
+[59] “wireless is back: the 6g revolution towards connected intelligence,” distinguished seminar,
+centralsupelec,paris,france;kocuniversity,istanbul,turkey,december2023.
+a.yener 6
+[58] “semantic text classification for 6g and beyond,,” keynote, vtc fall workshop on task-
+orientedcommunicationsandnetworking,october2023.
+[57] “semantic text classification for 6g and beyond,” invited talk, comsoc next generation iot
+webinar,online,august2023.
+[56] “semantic communications and compression for 6g and beyond,” invited talk, 2nd 6g wireless
+foundationsforum,frenchriviera,france,july2023.
+[55] “machine learning training for sustainable career growth,” invited presentation/panelist, nsf-
+ieee workshop: towards explainable, reliable and sustainable machine learning in signal and
+datascience,universityofmaryland,collegepark,md,march2023.
+[54] “semantic communications for 6g: connecting human and machine intelligence,” invited talk,
+3rd6gsummitonconnectingtheunconnected,jeddah,saudiarabia,january2023.
+[53] “theroleofwirelesscommunicationsin6grevolution: connectinghumanandartificialintelli-
+gence,”keynote,ieeecommunicationtheoryworkshop(ctw),marbella,spain,october2022.
+[52] “selected topics in 6g,” invited lectures, joint telematics group/ieee information theory
+societysummerschoolonsignalprocessing,communicationsandnetworks,virtual,june2022.
+[51] “semanticcommunicationtheory: past,presentand6g,”keynote,ieeeinternationalconference
+oncommunications(icc),semanticcommunicationsworkshop,virtual,may2022.
+[50] “6gforinformationsecurityandinformationsecurityfor6g,”invitedtalk,ieeetechnicalcom-
+mitteeoncognitivenetworks(tccn)monthlyseminar,virtual,march2022.
+[49] “6g:theeraoftheedge,”distinguishedseminar,bilkentuniversity,virtual,february2022.
+[48] “informationsecurityforthe6gconnectedfuture,”distinguishedcolloquium,universityofilli-
+noisurbana-champaignecedistinguishedcolloquiumseries,online,april2021.
+[47] “securing awireless connected future,”invited presentation/panelist, nsf nextgsecurity work-
+shop,online,october2020.
+[46] “security for and by caching networks,” keynote, ieee international workshop on privacy and
+securityforinformationsystems(wps) ,online,july2020.
+[45] “informationsecurityfortheall-connectedworld,”invitedpresentation,jason(vianro),on-
+line,june2020.
+[44] “theevolvingroleofphysicallayerforthewirelessworld,”invitedpresentation/panelist,nsf
+spectruminnovationinitiativeworkshop,online,may2020.
+[43] “informationsecurityfortheconnectedworld,”invitedtalk,eseseminar,universityofpennsyl-
+vania,philadelphia,pa,october2019.
+[42] “informationsecurityfortheall-connectedworld,”plenary,informationtheoryworkshop,visby,
+sweden,august2019.
+[41] “informationsecurityfortheconnectedworld,”distinguishedseminar,theohiostateuniversity,
+columbus,oh,april2019.
+[40] “what can machine learning do for communications?,” invited talk, nyu data science center,
+newyork,ny,january2019.
+[39] “recent advances in cache-aided wireless networks,” invited talk, university of virginia, char-
+lottesville,va,january2019.
+[38] “recent advances in cache-aided wireless networks,” ieee communications society distin-
+guishedlecture,universityofutah,saltlakecity,ut,december2018.
+a.yener 7
+[37] “recentadvancesincache-aidedwirelessnetworks,”invitedtalk,sunyat-senuniversitycoding
+andinformationtheoryworkshop,guagzhou,china,november2018.
+[36] “foundationsofenergyharvestingandenergycooperatingwirelessnetworks,”keynote,thefifth
+internationalworkshoponnextgenerationgreenwirelessnetworks(next-gwin2018),sheffield,
+england,september2018.
+[35] “women in engineering academia: a lunch discussion,” ieee wie keynote, ieee vtc fall,
+chicago,il,august2018.
+[34] “towards design principles of next generation networked systems: information security and en-
+ergysustainability,”physicsandtheorycolloquium,losalamosnationallaboratory,losalamos,
+nm,july2018.
+[33] “foundations of energy harvesting and energy cooperating wireless networks,” ieee vehicular
+technologysocietydistinguishedlecturetour,imperialcollege,london; king’scollege, lon-
+don;trinitycollege,dublin;universityofedinburgh,edinburgh,july2018.
+[32] “recentadvancesincache-aidedwirelessnetworks,”keynote,22ndinternationalitgworkshop
+onsmartantennas(wsa2018),bochum,germany,march2018.
+[31] “energyharvestingandenergycooperatingwirelessnetworks: anewfrontierforcommunication
+theoryandinformationtheory,”invitedtalk,systemsseminar,californiainstituteoftechnology,
+pasadena,ca,november2017.
+[30] “foundations of energy harvesting communications,” invited lecture, 10th annual school of in-
+formationtheorygeorgiatech,june2017.
+[29] “foundations of energy harvesting and energy cooperating wireless networks,” keynote, wiopt
+2017greennetworkshop,paris,france,may2017.
+[28] “foundations of energy harvesting wireless communications,” keynote, ieee wireless commu-
+nications and networking conference, wcnc’17 workshop on energy harvesting and remotely
+poweredwirelesscommunicationsforiot,sanfrancisco,ca,march2017.
+[27] “energyharvestingwirelessnetworks: anewfrontierforcommunicationtheoryandinformation
+theory,” invited talk, institute for pure and applied mathematics, emerging wireless networks
+workshop,universityofcalifornialosangeles,ca,february2017.
+[26] “energyharvestingwirelessnetworks: anewfrontierforcommunicationtheoryandinformation
+theory,”invitedtalk,massachusettsinstituteoftechnology,cambridgema,september2016.
+[25] “energyharvestingwirelessnetworks: anewfrontierforcommunicationtheoryandinformation
+theory,”invitedtalk,ecolepolytechniquefederaledelausanne,switzerland,july2016.
+[24] “energyharvestingwirelessnetworks: anewfrontierforcommunicationtheoryandinformation
+theory,”invitedtalk,technicaluniversityofdelft,netherlands,july2016.
+[23] “energyharvestingandremotelypoweredwirelessnetworks,”tutorial,ieeeinternationalsym-
+posiumoninformationtheory,isit’16,july2016,barcelona.
+[22] “informationtheoreticsecurity,”invitedlecture, 9thannualnorthamericanschoolofinforma-
+tiontheory,dukeuniversity,durham,nc,june2016.
+[21] “towards design principles of next generation networked systems: information security and en-
+ergy sustainability,” distinguished lecture, bradley distinguished lecture series, virginia tech,
+blacksburg,va,april2016.
+[20] “mimo wiretap channel with a cooperative jammer,” invited talk, mathematical tools of infor-
+mationtheoreticsecurityworkshop,huaweitechnologies/supelec,paris,france,september2015.
+a.yener 8
+[19] “securitybythephysicallayer: apromisingdirectionfornextgenerationwirelessnetworkde-
+sign,”invitedlecture,graycommunicationsadvancesininformationtheoryworkshop,london
+probabilityseminar,imperialcollege,london,england,june2015.
+[18] “energy harvesting wireless communications,” tutorial, ieee international conference on com-
+munications,icc’15,london,england,june2015.
+[17] “energy harvesting wireless communication networks,” invited talk, department colloquium,
+electricalengineeringandcomputersciencedepartment,syracuseuniversity,syracuse,ny,april
+.
+[16] “design principles for energy harvesting wireless communication networks,” invited talk, ana-
+lytical tools for next generation heterogeneous wireless networks workshop, macquarie univer-
+sity,sydney,australia,june2014.
+[15] “securitybythephysicallayer: apromisingdirectionfornextgenerationwirelessnetworkde-
+sign,”keynote,icc2014workshoponphysicallayersecurity,sydney,australia,june2014.
+[14] “energyharvestingwirelesscommunications,”tutorial,ieeewirelesscommunicationsandnet-
+workingconference,wcnc’14,istanbul,turkey,april2014.
+[13] “energy harvesting wireless communication networks,” invited talk, isl colloquium, electrical
+engineeringdepartment,stanforduniversity,stanford,ca,march2014.
+[12] “energy harvesting wireless communications,” tutorial, ieee global communications confer-
+ence,globecom’13,atlanta,ga,december2013.
+[11] “wireless networks and information security: models and metrics,” invited talk, workshop on
+multispectrummetricsforcyberdefense,mit,cambridge,ma,october2013.
+[10] “two-waygreencooperativenetworkingwithenergyharvesting,”invitedtalk,ieeecommuni-
+cationtheoryworkshop,phuket,thailand,june2013.
+[9] “energy harvesting wireless networks,” invited talk, wireless communications and economics
+workshop,chineseuniversityofhongkong,hongkong,june2013.
+[8] “energy harvesting wireless communications,” tutorial, ieee international conference on com-
+munications,icc’13,budapest,hungary,june2013.
+[7] “green wireless communications,” tutorial, ieee international symposium on personal, indoor
+andmobileradiocommunications,pimrc’12,sydney,australia,september2012.
+[6] “green wireless networking with energy harvesting nodes,” invited talk, workshop on method-
+ologicalfoundationsofgreenradio,paris,francejune2012.
+[5] “multiuser wireless secrecy: lessons learned from information theory,” invited talk, supelec,
+france,june2012.
+[4] “secrecy: benefitsofinteraction,”invitedtalk,banffinternationalresearchstation(birs)work-
+shoponinteractiveinformationtheory,banff,canada,january2012.
+[3] “interference, structured random codes and secrecy,” invited talk, banff international research
+stationworkshoponalgebraicstructureininformationtheory,banff,canada,august2011.
+[2] “energy efficiency of future networks,” invited lecture, wireless information theory summer
+school,oulu,finland,july2011.
+[1] “cooperation,interferenceandsecrecy: lessonslearnedfrominformationtheory,”keynote,icc
+2011workshoponphysicallayersecurity,kyoto,japan,june2011.
+a.yener 9
+publications
+citationnumbers source: googlescholar
+h-index: 59;i10-index: 207;citations: 16265
+chapters
+[8] e.kutayanda.yener,“semanticcompressionandcommunication: fundamentalsandmethodolo-
+gies,”foundationsofsemanticcommunicationnetworks,wiley,editors: w.saad,c.chaccour,c.
+thomas,andm.debbah, .
+[7] y. e. sagduyu, a. yener and s. ulukus,“securing semantic communications against adversarial
+attacks,”foundationsofsemanticcommunicationnetworks,wiley,editors: w.saad,c.chaccour,
+c.thomas,andm.debbah, .
+[6] m.nafeaanda.yener,“secrecyofedgecaching,”edgecachingformobilenetworks,iet,editors:
+w.chenandh.v.poor, .
+[5] b. guler and a. yener, “influence propagation in social networks with positive and negative re-
+lationships,” encyclopedia of social network analysis and mining, editors: r. alhajj, and j. rokne,
+springerpublishingcompany, .
+[4] s.lenganda.yener,“resourceallocationinbansforenergyharvestinghealthcaremonitoring”,
+handbookoflarge-scaledistributedcomputinginsmarthealthcare,editors: s.khan,a.zomaya,
+a.abbas,springer, .
+[3] m.nafeaanda.yener,“mimowire-tapchannels”,informationtheoreticsecurityandprivacyof
+informationsystems,editors: h.boche,r.schafer,a.khisti,h.v.poor,cambridge, .
+[2] x.heanda.yener,“secrecyandfeedback”,physicallayersecurityinwirelesscommunications,
+editors: x.zhou,l.song,y.zhang,crcpress, .
+[1] x.heanda.yener,“cooperativejamming: thetaleoffriendlyinterferenceforsecrecy”,securing
+wirelesscommunicationsatthephysicallayer,editors: r.liuandw.trappe,springer, .
+articles
+[106] j.maoanda.yener,“adaptiveris-assistedover-the-airfederatedlearningoverwirelesschan-
+nels,”submittedforpublication,mar. .
+[105] c.you,y.cai,y.liu,m.direnzo,t.m.duman,a.yeneranda.l.swindlehurst,“nextgenera-
+tionadvancedtransceivertechnologiesfor6g,”submittedforpublication,mar.
+[104] y. e. sagduyu, t. erpek, a. yener and s. ulukus, “will 6g be semantic communications? op-
+portunities and challenges from task oriented and secure communications to integrated sensing,”
+submittedforpublication,jan. ,inrevision.
+[103] h. shahzad, c. veliky, e. shin, a. yener and s. n. khan, preserving privacy in big data spine
+surgeryresearch,ininternationalsocietyfortheadvancementinspinesurgeryvertebralcolumns
+winter2024issue23-27,jan. .
+[102] y.e.sagduyu,t.erpek,a.yenerands.ulukus,“jointsensingandsemanticcommunicationswith
+multi-taskdeeplearning,”submittedforpublication,nov. ,inrevision.
+[101] y. sagduyu, t. erpek, a. yener and s. ulukus and a. yener, is semantic communications secure?
+ataleofmulti-domainadversarialattacks,ieeecommunicationsmagazine,vol. 61,no. 11,pp.
+50-55,november2023.
+a.yener 10
+[100] y.sagduyu,s.ulukusanda.yener,“task-orientedcommunicationsfornextg:end-to-enddeep
+learning and ai security aspects”, ieee wireless communications magazine, special issue on
+task-orientedcommunicationsforfuturewirelessnetworks,30(3),pp. 52-60,june2023.
+[99] o.gu¨nlu¨,m.bloch,r.f.schaeferanda.yener,“secureintegratedsensingandcommunication,”
+ieeejournalonselectedareasininformationtheory,4,pp. 40-53,may2023..
+[98] d. gunduz, z. qin, i. estella aguerri, h. s. dhillon, z. yang, a. yener, k. wong and c. chae,
+“beyondtransmittingbits: context,semantics,andtask-orientedcommunications,”ieeejournal
+onselectedareasincommunications,41(1),pp. 5-41,jan. .
+[97] r. chou and a. yener, “the gaussian multiple access wiretap channel with selfish transmitters:
+acoalitionalgametheoryperspective,”submittedforpublication,jan. ,inrevision.
+[96] s. leng and a.yener, “learning to transmit fresh information in energy harvesting networks,”
+ieeetransactionsongreencommunicationsandnetworking,6(4),pp. - ,dec. .
+[95] r. chou, and a. yener, “gaussian wiretap channel models when the eavesdropper can arbitrarily
+jam,” entropy, special issue information theoretic methods for future communication systems,
+24(11),nov2022.
+[94] v. renganathan, e. yurtsever, q. ahmed and a. yener, “valet attack on privacy: a cybersecurity
+threatinautomotivebluetoothinfotainmentsystems,”cybersecurity,5(30),oct. .
+[93] a. ibrahim, a. zewail, and a.yener, “benefits of edge caching with coded placement for asym-
+metric networks and shared caches,” ieee journal on selected areas in information theory, 2(4),
+pp. 1240-1252,dec. .
+[92] r. chou, m. bloch. and a. yener, “universal covertness for discrete memoryless sources,” ieee
+transactionsoninformationtheory,67(8),pp. 5432–5442,aug. .
+[91] m.bloch,o.gu¨nlu¨,a.yener,f.oggier,h.v.poor,l.sankar,andr.f.schaefer,“anoverviewof
+information-theoreticsecurity: metrics,limitsandapplications,”ieeejournalonselectedareas
+ininformationtheory,2(1),pp. 5-22,mar. .
+[90] m.nafeaanda.yener,“thecachingbroadcastchannelwithawireandcachetappingadversary
+oftypeii,”ieeejournalonselectedtopicsininformationtheory,2(1),pp. 65-81,mar. .
+[89] a.ibrahim,a.zewail,anda.yener,“device-to-devicecodedcachingwithdistinctcachesizes,”
+ieeetransactionsoncommunications,66(5),pp. 2748-2762,may2020.
+[88] m.tahmasbi,m.bloch,anda.yener,“learninganadversary’sactionsforsecretcommunication,”
+ieeetransactionsoninformationtheory,66(3),pp. 1607-1624,mar. .
+[87] r.chou,anda.yener,“stronglysecuremultiusercommunicationandauthenticationwithanonymity
+constraints,”ieeetransactionsoninformationtheory,66(1),pp. 572-586,jan. .
+[86] a. zewail, and a. yener, “device-to-device secure coded caching,” ieee transactions on infor-
+mationforensicsandsecurity,15(1),pp. 1513-1524,jan. .
+[85] s.fong,j.yanganda.yener,“non-asymptoticachievableratesforgaussianenergy-harvesting
+channels: best-effort and save-and-transmit,” ieee transactions on information theory, 65(11),
+pp. 7233-7252,nov. .
+[84] s.saeedibidokthi,m.wiggeranda.yener,“benefitsofcacheassignmentondegradedbroadcast
+channels,”ieeetransactionsoninformationtheory,65(11),pp. 6999-7019,nov. .
+[83] s.lenganda.yener,“relay-centrictwo-hopnetworkswithasymmetricwirelessenergytrans-
+fer: stackelberg games,” ieee transactions on green communications and networking, 3(3), pp.
+739-750,sep. .
+a.yener 11
+[82] a.ibrahim,a.zewail,anda.yener,“codedcachingforheterogeneoussystems: anoptimization
+perspective,”ieeetransactionsoncommunications,67(8),pp. 5321-5335,aug. .
+[81] m. nafea and a. yener, “generalizing multiple access wiretap and wiretap ii channel models:
+achievableratesandcostofstrongsecrecy,”ieeetransactionsoninformationtheory,65(8),pp.
+5125-5143,aug. .
+[80] r. chou, and a. yener, “secret-key generation in many-to-one networks: an integrated game-
+theoretic and information-theoretic approach,” ieee transactions on information theory, 65(8),
+pp. 5144-5159,aug. .
+[79] s.lenganda.yener,“ageofinformationminimizationforanenergyharvestingcognitiveradio,”
+ieeetransactionsoncognitivecommunicationsandnetworking,5(2),pp. 427-439,jun. .
+[78] r. chou, and a. yener, “polar coding for the multiple access wiretap channel via rate-splitting
+andcooperativejamming”,ieeetransactionsoninformationtheory,pp. 7903-7921,64(12),dec.
+.
+[77] b. guler, a. yener, and a. swami, “the semantic communication game,” ieee transactions on
+cognitivecommunicationsandnetworking,4(4),pp. 787-802,dec. .
+[76] b. guler, d. gunduz and a. yener, “ lossy transmission of correlated sources over a multiple
+access channel: necessary conditions and separation results,” ieee transactions on information
+theory,64(9),pp. 6081-6097,sep. .
+[75] e.molavianjazi,anda.yener,“subsetsourcecoding,”ieeetransactionsoninformationtheory,
+64(9),pp. 5989-6012,sep. .
+[74] a. zewail, and a. yener, “combination networks with or without secrecy constraints: the impact
+ofcachingrelays,”ieeejournalonselectedareasincommunications,,36(7),pp. 1-13,jul. .
+[73] m. nafea and a. yener, “a new wiretap channel model and its strong secrecy capacity,” ieee
+transactionsoninformationtheory,64(3),pp. - ,mar. .
+[72] b. varan and a. yener, ”matching games for ad hoc networks with wireless energy transfer,”
+ieeetransactionsongreencommunicationsandnetworking,1(4),pp. 503-515,dec. .
+[71] m.nafeaanda.yener,“securedegreesoffreedomforthemimowire-tapchannelwithamulti-
+antenna cooperative jammer,” ieee transactions on information theory, 63(11), pp. 7420-7441,
+nov. .
+[70] b.guler,a.yener,p.basuanda.swami,“two-partyzero-errorfunctioncomputationwithasym-
+metric priors,” entropy: special issue on network information theory, feature paper (invited),
+19(12),635,nov. .
+[69] a.zewailanda.yener,”multi-terminaltwo-hopuntrustedrelaynetworkswithhierarchicalse-
+curityguarantees,”ieeetransactionsoninformationforensicsandsecurity,12(9),pp. - ,
+sep. .
+[68] k. tutuncuoglu, o. ozel, a. yener and s. ulukus, “the binary energy harvesting channel with a
+unit-sizedbattery,”ieeetransactionsoninformationtheory,63(7),pp. 4240-4256,jul. .
+[67] a. ibrahim, a. zewail and a. yener, “green distributed storage using energy harvesting nodes,”
+ieee journal on selected areas in communications: series on green communications and net-
+working,34(5),pp. 1590-1603,may2016.
+[66] b. varan and a. yener, “delay constrained energy harvesting networks with limited energy and
+data storage,” ieee journal on selected areas in communications: series on green communica-
+tionsandnetworking,34(5),pp. 1550-1564,may2016.
+a.yener 12
+[65] b.varananda.yener, ”incentivizingsignalandenergycooperationinwirelessnetworks,”ieee
+journal on selected areas in communications: series on green communications and networking,
+33(12),pp. 2554-2566,dec. .
+[64] k.tutuncuogluanda.yener,”energyharvestingnetworkswithenergycooperation: procrastinat-
+ingpolicies,”ieeetransactionsoncommunications,63(11),pp. 4525-4538,nov. .
+[63] a.yenerands.ulukus,”wirelessphysicallayersecurity: lessonslearnedfrominformationthe-
+ory,”proceedingsoftheieee,103(10),pp. 1814-1825,oct. .
+[62] k. tutuncuoglu, b. varan, and a. yener, ”throughput maximization for two-way relay channels
+withenergyharvestingnodes: theimpactofrelayingstrategies,”ieeetransactionsoncommu-
+nications,63(6),pp. - ,jun. .
+[61] o.ozel,k.tutuncuoglu,s.ulukus,anda.yener,”fundamentallimitsofenergyharvestingcom-
+munications,”ieeecommunicationsmagazine,53(4),pp. 126-132,apr. .
+[60] k.tutuncuoglu, a.yener, ands.ulukus, ”optimumpoliciesforanenergyharvestingtransmitter
+underenergystoragelosses,”ieeejournalonselectedareasincommunications: wirelesscom-
+municationspoweredbyenergyharvestingandwirelessenergytransfer,33(3),pp. 467-481,mar.
+.
+[59] s. ulukus, a. yener, e. erkip, o. simeone, m. zorzi, p. grover, and k. huang, ”energy harvest-
+ing wireless communications: a review of recent advances,” ieee journal on selected areas
+incommunications: wirelesscommunicationspoweredbyenergyharvestingandwirelessenergy
+transfer, 33(3), pp. 360-381, mar. . (ieee communications society best tutorial
+paperaward)
+[58] y.tiananda.yener, “relayingformultiusernetworksintheabsenceofcodebookinformation,”
+ieeetransactionsoninformationtheory,61(3),pp. 1247-1256,mar. .
+[57] b. guler, b. varan, k. tutuncuoglu, m. nafea, a. zewail, a. yener, and d. octeau, ”using so-
+cialsensorsforinfluencepropagationinnetworkswithpositiveandnegativerelationships,”ieee
+journal of selected topics in signal processing: signal processing for situational awareness from
+networkedsensorsandsocialmedia,9(2),pp. 360-373,mar. .
+[56] b. varan and a. yener, ”the energy harvesting multi-way relay channel with intermittent data:
+theimpactofbuffersizes,”eurasipjournalonwirelesscommunicationsandnetworkingspecial
+issueonenergyharvestingwirelesscommunications, (63),pp. 1-15,mar. .
+[55] e. n. ciftcioglu, a. michaloliakos, a. yener, k. psounis, t. f. la porta, and r. govindan, ”opera-
+tional information content sum capacity: from theory to practice,” elsevier journal of computer
+networks,75(a),pp. 1-17,dec. .
+[54] x. he and a. yener, “mimo wiretap channels with unknown and varying eavesdropper channel
+states”,ieeetransactionsoninformationtheory,60(11),pp. 6844-6869,nov. .
+[53] y.tiananda.yener,“degreesoffreedomforthemimomulti-wayrelaychannel,”ieeetrans-
+actionsoninformationtheory,60(5),pp. 2495-2511,may. .
+[52] b. guler and a. yener, “uplink interference management for coexisting mimo femtocell and
+macrocell networks: an interference alignment approach,” ieee transactions on wireless com-
+munications,13(4),pp. 2246-2257,apr. .
+[51] x.heanda.yener,“providingsecrecywithstructuredcodes: toolsandapplicationstotwo-user
+gaussianchannels”,ieeetransactionsoninformationtheory,60(4),pp. 2121-2138,apr. .
+[50] b.guleranda.yener,“selectiveinterferencealignmentformimocognitivefemtocellnetworks,”
+ieee journal in selected areas in communications: cognitive radio series, 32(3), pp. 439-450,
+mar. .
+a.yener 13
+[49] x.he,a.khistianda.yener,“mimobroadcastchannelwithanunknowneavesdropper: secrecy
+degreesoffreedom,”ieeetransactionsoncommunications,62(1),pp. 246-255,jan. .
+[48] m. li, o. simeone and a. yener, “degraded broadcast diamond channels with non-causal state
+informationatthesource,”ieeetransactionsoninformationtheory,59(12),pp. 8210-8223,dec.
+.
+[47] x. he and a. yener, “the role of feedback in two-way secure communications”, ieee transac-
+tionsoninformationtheory,59(12),pp. 8115-8130,dec. .
+[46] g. xiong, s. kishore and a. yener, “spectrum sensing in cognitive radio networks: performance
+evaluationandoptimization,”physicalcommunication(phycom)specialissueoncognitivera-
+dio,volume9,pp. 171-183,december2013.
+[45] e.n.ciftcioglu,a.yenerandm.j.neely,“maximizingqualityofinformationfrommultiplesen-
+sor devices: the exploration vs exploitation tradeoff,” ieee journal of selected topics in signal
+processing, special issue on learning-based decision making in dynamic systems under uncer-
+tainty,7(5),pp. 883-894,october2013.
+[44] r. bassily, e. ekrem, x. he, e. tekin, j. xie, m. bloch, s. ulukus and a. yener, “cooperative
+security at the physical layer,” ieee signal processing magazine, 30(5), pp. 16-28, september
+.
+[43] y.tiananda.yener,“guidingblindtransmitters: degreeoffreedomoptimalinterferencealign-
+mentusingrelays,”ieeetransactionsoninformationtheory,59(8),pp. 4819-4832,august2013.
+[42] x.he,a.khistianda.yener,“mimomultipleaccesschannelwithanarbitrarilyvaryingeaves-
+dropper,”ieeetransactionsoninformationtheory,59(8),pp. 4733-4745,august2013.
+[41] m. li, o. simeone anda. yener, “multiple access channels with states causallyknown at trans-
+mitters”,ieeetransactionsoninformationtheory,59(3),pp. 1394-1404,march2013.
+[40] x. he and a. yener, “strong secrecy and reliable byzantine detection in the presence of an un-
+trustedrelay”,ieeetransactionsoninformationtheory,59(1),pp. 177-192,january2013.
+[39] d.gunduz, a.yener, a.goldsmith, andh.v.poor, “themulti-wayrelaychannel”, ieeetrans-
+actionsoninformationtheory,59(1),pp. 51-63,january2013.
+[38] i. stanojev and a. yener, “improving secrecy rate via spectrum leasing for friendly jamming,”
+ieeetransactionsonwirelesscommunications,12(1),pp. 134-145,january2013.
+[37] x. he and a. yener, “end-to-end secure multi-hop communication with untrusted relays”, ieee
+transactionsonwirelesscommunications,12(1),pp. 1-11,january2013.
+[36] y. tian and a. yener, “symmetric capacity of the gaussian interference channel with an out-of-
+band relay to within 1.15 bits”, ieee transactions on information theory, 58(8), pp. 5151-5171,
+august2012.
+[35] k.tutuncuogluanda.yener,“sum-rateoptimalpowerpoliciesforenergyharvestingtransmitters
+inaninterferencechannel,”journalofcommunicationsandnetworks(jcn)specialissueonenergy
+harvestinginwirelessnetworks(invited),april2012.
+[34] k.tutuncuogluanda.yener,“optimumtransmissionpoliciesforbatterylimitedenergyharvest-
+ing nodes”, ieee transactions on wireless communications,vol. 11, no. 3, pp. 1180-1189, march
+. (ieee2014marconiprizepaperaward)
+[33] e.n.ciftcioglu,y.e.sagduyu,r.a.berry,anda.yener,“cost-delaytradeoffsfortwo-wayre-
+laynetworks”, ieeetransactionsonwirelesscommunications, 10(12), pp. 4100-4109, december
+.
+a.yener 14
+[32] o. ozel, k. tutuncuoglu, j. yang, s. ulukus and a. yener, “transmission with energy harvesting
+nodes in fading wireless channels: optimal policies”, ieee journal on selected areas in com-
+munications, special issue on energy-efficient wireless communications, 29(8), pp. 1732-1743,
+september2011.
+[31] s. goel, v. aggarwal, a. yener and a. r. calderbank, “the effect of eavesdroppers on network
+connectivity: a secrecy graph approach”, ieee transactions on information forensics and secu-
+rity,specialissueonusingthephysicallayerforsecuringthenextgenerationofcommunication
+systems,6(3),pp. 712-724,september2011.
+[30] y. tian and a. yener, “the gaussian interference relay channel: improved achievable rates and
+sum rate upperbounds using a potent relay”, ieee transactions on information theory, special
+issueoninterferencenetworks,57(5),pp. 2865-2879,may2011.
+[29] x.heanda.yener,“thegaussianmany-to-oneinterferencechannelwithconfidentialmessages”,
+ieeetransactionsoninformationtheory,specialissueoninterferencenetworks,57(5),pp. 2730-
+2745,may2011.
+[28] x.heanda.yener,“cooperationwithanuntrustedrelay: asecrecyperspective”,ieeetransac-
+tionsoninformationtheory,august2010,56(8),pp. 3801-3827.
+[27] k. lee, x. he and a. yener, “resource allocation for the multi-band relay channel: a building
+blockforhybridwirelessnetworks”,eurasipjournaloncommunicationsandnetworking,vol.
+,articleid792410,13pages, . doi:10.1155/ /792410.
+[26] m.chenanda.yener,“powerallocationforf/tdmamultiusertwo-wayrelaynetworks”,ieee
+transactionsonwirelesscommunications,february2010,9(2),pp. 546-551.
+[25] x.heanda.yener,“two-hopsecurecommunicationusinganuntrustedrelay”,eurasipjournal
+oncommunicationsandnetworking-specialissueonphysicallayersecurity,vol. ,articleid
+305146,13pages, . doi:10.1155/ /305146.
+[24] m.chen and a. yener, “multiuser two-way relaying: detection and interference management
+strategies”,ieeetransactionsonwirelesscommunications,august2009,8(8),pp. 4296-4305.
+[23] e. tekin and a. yener, “ the gaussian multiple-access wire-tap channel”, ieee transactions on
+informationtheory,december2008,54(12),pp. 5747-5755.
+[22] j.andrews,n.jindal,m.haenggi,r.berry,s.jafar,d.guo,s.shakkottai,r.heath,m.neely,s.
+weberanda.yener,“rethinkinginformationtheoryformobileadhocnetworks”,ieeecommu-
+nicationsmagazine,december2008,46(12),pp. 94-101.
+[21] j. eom, t. lee, r. rietman and a. yener, “an efficient framed-slotted aloha algorithm with
+pilotframeandbinaryselectionforanti-collisionofrfidtags”, ieeecommunicationsletters,
+november2008,12(11),pp. 861-863.
+[20] e. tekin and a. yener, “the general gaussian multiple-access and two-way wire-tap channels:
+achievableratesandcooperativejamming”,ieeetransactionsoninformationtheory,june2008,
+54(6),pp. 2735-2751.
+[19] s. serbetli and a. yener, “relay assisted f/tdma ad hoc networks: node classification, power
+allocation and relaying strategies”, ieee transactions on communications, june , 56(6), pp.
+937-947.
+[18] m.chen,s.serbetli,anda.yener,“distributedpowerallocationstrategiesforparallelrelaynet-
+works”,ieeetransactionsonwirelesscommunications,february2008,7(2),pp. 552-561.
+[17] c. oh and a. yener, “power controlled cdma cell sectorization with multiuser detection: a
+comprehensiveanalysisofuplinkanddownlink”,eurasipjournaloncommunicationsandnet-
+working,october2007,vol. ,articleid62379,13pages, . doi:10.1155/ /62379.
+a.yener 15
+[16] c.ohanda.yener,“downlinkthroughputmaximizationforinterferencelimitedsystems: tdma
+versuscdma”,ieeetransactionsonwirelesscommunications,july2007,6(7),pp. 2454-2463.
+[15] g. khandelwal, k. lee, a. yener, and s. serbetli, “asap : a mac protocol for dense and time
+constrained rfid systems”, eurasip journal on communications and networking, june ,
+vol. ,articleid18730,13pages, . doi:10.1155/ /18730.
+[14] s.serbetlianda.yener,“mmsetransmitterdesignforcorrelatedmimosystemswithimperfect
+channelestimates: powerallocationtrade-offs”,ieeetransactionsonwirelesscommunications,
+august2006,5(8),pp. 2295-2304.
+[13] j.shin,k.lee,a.yener,andt.f.laporta,“ondemanddiversitywirelessrelaynetworks,”acm
+transactionsonmobilenetworkingandapplications(monet)specialissueonsoftradio-enabled
+heterogeneouswirelessnetworks,august2006,11(4),pp. 593-611.
+[12] s.serbetlianda.yener,“mimo-cdmasystems: signatureandbeamformerdesignwithvarious
+levelsoffeedback”,ieeetransactionsonsignalprocessing,july2006,54(7),pp. 2758-2772.
+[11] s. serbetli and a. yener, “ time slotted multiuser mimo systems: beamforming and schedul-
+ing strategies,” eurasip journal on wireless communications and networking, special issue on
+multiusermimonetworks,december2004,volume2004,pp. 286-296.
+[10] o. filiz and a. yener, “rank constrained temporal-spatial filters for cdma systems ,” ieee
+transactionsonwirelesscommunications,november2004,3(6),pp. - .
+[9] s. ulukus and a. yener, “iterative transmitter and receiver optimization for cdma networks,”
+ieeetransactionsonwirelesscommunications,november2004,3(6),pp. 1879-1884.
+[8] s.serbetlianda.yener,“transceiveroptimizationformultiusermimosystems”,ieeetransac-
+tionsonsignalprocessing,january2004,52(1),pp. 214-226.
+[7] r.sinha,a.yenerandr.d.yates,“noncoherentmultiusercommunications: multistagedetection
+andselectivefiltering,”eurasipjournalonappliedsignalprocessing,specialissueonmultiuser
+detectionandblindestimation,december2002,volume2002,no. 12,pp. 1415-1426.
+[6] a.yener,r.d.yatesands.ulukus,“combinedmultiuserdetectionandbeamformingforcdma
+systems: filterstructures”,ieeetransactionsonvehiculartechnology,september2002,51(5),pp.
+1087-1095.
+[5] a. yener, r. d. yates and s. ulukus, “cdma multiuser detection: a nonlinear programming
+approach,”ieeetransactionsoncommunications,june2002,50(6),pp. 1016-1024.
+[4] a. yener, r. d. yates and s. ulukus, “interference management through power control, multiuser
+detection and beamforming for cdma systems”, ieee transactions on communications, july
+,49(7),pp. 1227-1239.
+[3] c. u. saraydar and a. yener, “adaptive cell sectorization for cdma systems”, ieee journal on
+selected areas in communications, wireless communications series, june , 19(6), pp. 1041-
+1051.
+[2] a.yenerandc.rose,“highlymobileusersandpaging: optimalpollingstrategies”,ieeetransac-
+tionsonvehiculartechnology,november1998,47(4),pp. 1251-1257.
+[1] a. yener and c. rose, “genetic algorithms applied to cellular call admission problem: local
+policies”,ieeetransactionsonvehiculartechnology,february1997,46(1),pp. 72-79.
+a.yener 16
+proceedings
+[263] j. mao, t. yin, a. yener and m. liu, “leveraging the physical layer for differential privacy in
+over-the-airfederatedlearning”,inproceedingsoftheieeeinternationalconferenceoncommu-
+nications,icc’24,denver,usa,june2024.
+[262] e.kutayanda.yener,“classification-orientedsemanticwirelesscommunications,inproceedings
+of the ieee international conference on acoustics, speech, and signal processing,” icassp’24,
+seoul,korea,apr. .
+[261] j. mao and a. yener, “personalized over-the-air federated learning with personalized recon-
+figurable intelligent surfaces,” in proceedings of the ieee international conference on acoustics,
+speech,andsignalprocessing,icassp’24,seoul,korea,apr. .
+[260] e,arda,emrecankutayanda.yener,“semanticforwardingfornextgenerationrelaynetworks,
+inproceedingsofthe202458thannualconferenceoninformationsciencesandsystems,ciss’24,
+princeton,nj,usa,mar. .
+[259] y. e. sagduyu, t. erpek, a. yener and s. ulukus, “multi-receiver task-oriented communications
+via multi-task deep learning,” in proceedings of the ieee future networks world forum, balti-
+more,md,nov. .
+[258] x.zhenganda.yener,“privacy-preservingclusteredpeer-to-peerlearning,”inproceedingsofthe
+asilomarconferenceonsignals,systems,andcomputers,asilomar’23,ca,usa,oct. .
+[257] j. mao and a. yener, “ris-assisted over-the-air adaptive federated learning with noisy down-
+link,”inproceedingsoftheieeeinternationalconferenceoncommunications,workshoponedge
+learningfor5gmobilenetworksandbeyond,rome,italy,may2023.
+[256] e.kutayanda.yener,“semantictextcompressionforclassification,”inproceedingsoftheieee
+internationalconferenceoncommunications,2ndworkshoponsemanticcommunications,rome,
+italy,may2023.
+[255] j.maoanda.yener,“roar-fed: ris-assistedover-the-airadaptiveresourceallocationforfed-
+erated learning,” in proceedings of the ieee international conference on communications, rome,
+italy,may2023.
+[254] y.e.sagduyu,s.ulukusanda.yener,“ageofinformationindeeplearning-driventask-oriented
+communications,”inproceedingsoftheieeeinfocomworkshoponageofinformation,newyork,
+ny,may2023.
+[253] y.e.sagduyu,t.erpek,s.ulukusanda.yener,“vulnerabilitiesofdeeplearning-drivensemantic
+communications to backdoor (trojan) attacks,” in proceedings of the conference on information
+sciencesandsystems,baltimore,md,march2023.
+[252] o. gu¨nlu¨, m. bloch, r. f. schaefer and a. yener, “secure integrated sensing and communication
+forbinaryinputadditivewhitegaussiannoise,”inproceedingsofthe3rdieeeinternationalsym-
+posiumonjointcommunicationsandsensing,online,mar. .
+[251] s.lin,m.shi,a.arora,r.bassily,e.bertino,c.caramanis,k.chowdhury,e.ekici,a.eryilmaz,
+s.ioannidis,n.jiang,g.joshi,j.kurose,y.liang,z.lin,j.liu,m.liu,t.melodia,a.mokhtari,
+r. nowak, s. oh, s. parthasarathy, c. peng, h. seferoglu, n. shroff, s. shakkottai, k. srinivasan,
+a. talwalkar, a. yener, l. ying, “leveraging synergies between ai and networking to build next
+generation edge networks,” in proceedings of the ieee international conference on collaboration
+andinternetcomputing,cic’22,online,dec. .
+a.yener 17
+[250] e. kutay and a. yener, “semantic communications: a paradigm whose time has come,” in pro-
+ceedings of the ieee international conference on collaboration and internet computing, cic’22,
+online,dec. .
+[249] j.maoanda.yener,“iterativepowercontrolforwirelessnetworkswithdistributedreconfigurable
+intelligent surfaces,” in proceedings of the ieee global communications conference, globe-
+com’22,riodejaneiro,brazil,dec. .
+[248] e.bingolanda.yener,“peakageofinformationwithreceiverinducedserviceinterruptions,”in
+proceedings of the ieee military communications conference, milcom’22, rockville, md, nov.
+.
+[247] x. zheng, p. naghizadeh and a. yener, “diple: learning directed collaboration graphs for peer-
+to-peerpersonalizedlearning,”inproceedingsoftheieeeinformationtheoryworkshop,itw’22,
+mumbai,india,nov. .
+[246] j. mao, h. yang, p. qiu, j. liu and a. yener, “charles: channel-quality-adaptive over-the-air
+federatedlearningoverwirelessnetworks,”inproceedingsoftheieeeinternationalworkshopon
+signalprocessingadvancesinwirelesscommunications,spawc’22,oulu,finland,jul. .
+[245] m. nafea, e. shin and a. yener, “proportional fair clustered federated learning,” in proceedings
+oftheieeeinternationalsymposiumoninformationtheory,isit’22,helsinki,finland,jun. .
+[244] h.yang, p.qiu, j.liuanda.yener, “over-the-airfederatedlearningwithjointadaptivecom-
+putation and power control,” in proceedings of the ieee international symposium on information
+theory,isit’22,helsinki,finland,jun. .
+[243] o.ozel,a.yenerands.ulukus,“stateamplificationandmaskingwhiletimelyupdating,”inpro-
+ceedings of the ieee international symposium on information theory, isit’22, helsinki, finland,
+jun. .
+[242] o.gu¨nlu¨,m.bloch,r.f.schaeferanda.yener,“securejointcommunicationandsensing,”inpro-
+ceedings of the ieee international symposium on information theory, isit’22, helsinki, finland,
+jun. .
+[241] t.erpek,y.e.sagduyu,a.alkhateeb,anda.yener,“autoencoder-basedcommunicationswithre-
+configurableintelligentsurfaces,”inproceedingsoftheieeeinternationalsymposiumondynamic
+spectrumaccessnetworks,dyspan’21,online,dec. .
+[240] s. leng and a. yener, “learning to transmit fresh information in energy harvesting networks
+using supervised learning,” in proceedings of the 55th asilomar conference on signals, systems
+andcomputers,online,nov2021.
+[239] b. guler and a. yener, “a framework for sustainable federated learning,” proceedings of the in-
+ternational symposium on modeling and optimization in mobile, ad hoc and wireless networks,
+wiopt’ ,online,oct. .
+[238] m.nafeaanda.yener,“securecommunicationinamulti-antennawiretapchannelwitharecon-
+figurableintelligentsurface,”proceedingsoftheinternationalsymposiumonwirelesscommunica-
+tionsystems,iswcs’21,online,sep. .
+[237] b.guleranda.yener,“energyharvestingdistributedmachinelearning,”proceedingsoftheieee
+internationalsymposiumoninformationtheory,isit’21,online,jul. .
+[236] s.saaedi-bidokthianda.yener,onthetimelinessofarithmeticcoding,proceedingsoftheieee
+internationalsymposiumoninformationtheory,isit’21,online,jul. .
+[235] s. leng, and a. yener, “an actor-critic reinforcement learning approach to minimum age of
+information scheduling in energy harvesting networks,” proceedings of the ieee international
+conferenceonacoustics,speech,andsignalprocessing,icassp’21,online,jun. .
+a.yener 18
+[234] h.nikbakht,s.kamel,m.wigger,anda.yener,“stochasticd2dcachingwithenergyharvesting
+nodes,”proceedingsoftheieeeinternationalsymposiumonmodelingandoptimizationinmobile,
+adhoc,andwirelessnetworks,wiopt’20,online,jun. .
+[233] o.sleem,s.leng,anda.yener,“ageofinformationminimizationinwirelesspoweredstochastic
+energy harvesting networks,” proceedings of the ieee conference on information sciences and
+systems,ciss’20,princeton,nj,mar. .
+[232] s. leng and a. yener, “age of information minimization for wireless ad hoc networks: a deep
+reinforcement learning approach,” proceedings of the ieee global communications conference,
+globecom’19,waikoloa,hi,dec. .
+[231] n. abuzainab, t. erpek, k. davaslioglu, y. e. sagduyu, y. shi, s. j. mackey, m. patel, f. panet-
+tieri, m. a. quareshi, v. isler and a. yener, “qos and jamming-aware wireless networking us-
+ingdeepreinforcementlearning,”proceedingsoftheieeemilitarycommunicationsconference,
+milcom’19,norfolk,va,nov. .
+[230] s.leng, x. ni, and a. yener, “age of information for wireless energy harvesting secondary users
+in cognitive radio networks,” proceedings of the 16th ieee international conference on mobile
+ad-hocandsmartsystems,mass’19,monterey,ca,nov. .
+[229] a.zewail,a.ibrahim,anda.yener,“anoptimizationframeworkforsecuredeliveryinheteroge-
+neous coded caching systems,” proceedings of the 53nd asilomar conference on signals, systems
+andcomputers,pacificgrove,california,usa,nov2019.
+[228] a.zewailanda.yener,“securecachinganddeliveryforcombinationnetworkswithasymmetric
+connectivity,”proceedingsoftheieeeinformationtheoryworkshop,itw’19,visby,sweden,aug.
+.
+[227] a.zewailanda.yener,“untrustedcachesintwo-layernetworks,”proceedingsoftheieeeinter-
+nationalsymposiumoninformationtheory,isit’19,paris,france,jul. .
+[226] a.chouanda.yener,“thedegradedgaussianmany-accesswiretapchannel,”proceedingsofthe
+ieeeinternationalsymposiumoninformationtheory,isit’19,paris,france,jul. .
+[225] m.tahmasbi,m.blochanda.yener,“in-bandsensingoftheadversary’schannelforsecurecom-
+municationinwirelesschannels,”proceedingsoftheieeeinternationalsymposiumoninformation
+theory,isit’19,paris,france,jul. .
+[224] a. zewail and a. yener, “cache-aided combination networks with asymmetric end users,” pro-
+ceedingsoftheieeeinternationalworkshoponsignalprocessingadvancesinwirelesscommuni-
+cations,spawc’19,cannes,france,jul. .
+[223] a. ibrahim, a. zewail, and a. yener, “coded placement for systems with shared caches,” pro-
+ceedingsoftheieeeinternationalconferenceoncommunications,icc’19,shanghai,china,may
+.
+[222] s.lenganda.yener,“impactofimperfectspectrumsensingonageofinformationinenergyhar-
+vesting cognitive radios,” proceedings of the ieee international conference on communications,
+icc’19,shanghai,china,may2019.
+[221] s. leng and a. yener, “minimizing age of information for an energy harvesting cognitive ra-
+dio,” proceedings of the ieee wireless communications and networking conference, wcnc’19,
+marakkesh,morocco,apr. .
+[220] m.nafeaanda.yener,“thecachingbroadcastchannelwithawireandcachetappingadversary
+oftypeii,”proceedingsofinformationtheoryworkshop,itw’18,guangzhou,china,nov. .
+a.yener 19
+[219] a.ibrahim,a.zewail,anda.yener,“benefitsofcodedplacementfornetworkswithheterogeneous
+cache sizes, ” proceedings of the 52nd asilomar conference on signals, systems and computers,
+asilomar’18,pacificgrove,ca,oct. .
+[218] m. nafea and a. yener, “the caching broadcast channel with a wire and cache tapping adver-
+sary of type ii: multiple library files,” proceedings of the 56th annual allerton conference on
+communication,control,andcomputing,allerton’18,monticello,il,oct. .
+[217] a.zewailanda.yener,“thewiretapchannelwithacache,”proceedingsoftheieeeinternational
+symposiumoninformationtheory,isit’18,jun. .
+[216] a. baknina, o. ozel, j. yang, s. ulukus, and a. yener, “sending information through status up-
+dates,”proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’18,vail,co,
+jun. .
+[215] s.fong,j.yang,anda.yener,“non-asymptoticachievableratesforgaussianenergy-harvesting
+channels: best-effort and save-and-transmit,” proceedings of the ieee international symposium
+oninformationtheory,isit’18,vail,co,jun. .
+[214] s.lenganda.yener,“relay-centrictwo-hopnetworkswithasymmetricwirelessenergytrans-
+fer: amulti-leader-followerstackelberggame,”proceedingsoftheieeeinternationalconference
+oncommunications,icc’18,kansascity,mo,may2018.
+[213] a.ibrahim,a.zewail,anda.yener,“device-to-devicecodedcachingwithheterogeneouscache
+sizes,”proceedingsoftheieeeinternationalconferenceoncommunications,icc’18,kansascity,
+mo,may2018.
+[212] s. leng and a. yener, “a multi-leader stackelberg game for two-hop systems with wireless en-
+ergytransfer,”proceedingsoftheworkshoponenergyharvestingandremotelypoweredcommuni-
+cationsforsustainablefuturenetworksandiot,inconjunctionwithieeewcnc2018,barcelona,
+spain,apr. .
+[211] a.zewailanda.yener, “cache-aidedcombinationnetworkswithsecrecyguarantees,” proceed-
+ings of the ieee conference on information sciences and systems, ciss’18, princeton, nj, mar.
+.
+[210] a. ibrahim, a. zewail, and a. yener, “on coded caching with heterogeneous distortion require-
+ments,”proceedingsofinformationtheoryandapplicationsworkshop,ita’18,sandiego,ca,feb.
+.
+[209] s. leng, a. ibrahim, and a. yener, “energy cooperative multiple access channels with energy
+harvesting transmitters and receiver,” proceedings of the 2nd ieee globecom workshop on
+wirelessenergyharvestingcommunicationnetworks,singapore,dec. .
+[208] s. saeedi bidokhti, m. wigger, a. yener and a. el gamal, “state-adaptive coded caching for
+symmetric broadcast channels,” proceedings of the 51st asilomar conference on signals, systems
+andcomputers,asilomar’17,pacificgrove,ca,oct. .
+[207] a.zewailanda.yener,“codedcachingforcombinationnetworkswithcache-aidedrelays,”pro-
+ceedings of the ieee international symposium on information theory, isit’17, aachen, germany,
+jun. .
+[206] r.chou,anda,yener,“thegaussianmultipleaccesswiretapchannelwhentheeavesdroppercan
+arbitrarilyjam,”proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’17,
+aachen,germany,jun. .
+[205] r. chou, and a. yener, “the degraded gaussian multiple access wiretap channel with selfish
+transmitters: acoalitionalgametheoryperspective,”proceedingsoftheieeeinternationalsym-
+posiumoninformationtheory,isit’17,aachen,germany,jun. .
+a.yener 20
+[204] r.chou,anda.yener,“agametheoretictreatmentforpair-wisesecret-keygenerationinmany-
+to-onenetworks,”proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’17,
+aachen,germany,jun. .
+[203] m.nafeaanda.yener,“anewbroadcastwiretapchannelmodel,”proceedingsoftheieeeinter-
+nationalsymposiumoninformationtheory,isit’17,aachen,germany,jun. .
+[202] m. nafea and a. yener, “new models for interference and broadcast channels with confiden-
+tial messages,” proceedings of the ieee international symposium on information theory, isit’17,
+aachen,germany,jun. .
+[201] m. tahmasbi, m. bloch and a. yener, “learning adversary’s actions for secret communication,”
+proceedings of the ieee international symposium on information theory, isit’17, aachen, ger-
+many,jun. .
+[200] b. guler, d. gunduz, and a. yener, “on the necessary conditions for transmitting correlated
+sources over a multiple access channel,” proceedings of the ieee international symposium on
+informationtheory,isit’17,aachen,germany,jun. .
+[199] s. saeedi bidokhti, m. wigger, and a. yener, “benefits of cache assignment in degraded broad-
+cast channels,” proceedings of the ieee international symposium on information theory, isit’17,
+aachen,germany,jun. .
+[198] r.yates,p.ciblat,a.yener,andm.wigger,“age-optimalconstrainedcache-updating,”proceed-
+ings of the ieee international symposium on information theory, isit’17, aachen, germany, jun.
+.
+[197] s. saeedi bidokhti, m. wigger, and a. yener, “gaussian broadcast channels with receiver cache
+assignment,”proceedingsoftheieeeinternationalconferenceoncommunications,icc’17,paris,
+france,may2017.
+[196] a. ibrahim, a. zewail, and a. yener, “optimization of heterogeneous caching systems with rate
+limited links,” proceedings of the ieee international conference on communications, icc’17,
+paris,france,may2017.
+[195] s. wang, p. giridhar, h. wang, l. kaplan, t. pham, a. yener, and t. abdelzaher, “storyline: on
+physical event demultiplexing and tracking in social spaces,” proceedings the 2nd acm/ieee
+international conference on internet-of-things design and implementation, iotdi’17, pittsburgh,
+pa,apr. .
+[194] a.ibrahim,a.zewail,anda.yener,“centralizedcodedcachingwithheterogeneouscachesizes,”
+proceedings of the ieee wireless communications and networking conference, wcnc’17, san
+francisco,ca,mar. .
+[193] b. varan and a. yener, “online transmission policies for cognitive radio networks with energy
+harvesting secondary users, ” proceedings of the workshop on energy harvesting and remotely
+poweredwirelesscommunicationfortheiot,ieeewcnc’17,sanfrancisco,ca,mar. .
+[192] b. guler, a. yener, and a. swami, ”learning causal information flow structures in multi-layer
+networks,”proceedingsoftheieeeglobalsipsymposiumonnon-commutativetheoryandappli-
+cations,globalsip’16,washington,d.c.,dec. .
+[191] a. zewail and a. yener, two-hop untrusted relay channel with an external eavesdropper under
+layeredsecrecyconstraints,proceedingsoftheieeeglobalcommunicationsconference,globe-
+com’16,washingtondc,dec. .
+[190] a. zewail and a. yener, ”fundamental limits of secure device-to-device coded caching,” pro-
+ceedingsofthe50thasilomarconferenceonsignals,systemsandcomputers,asilomar’16,pacific
+grove,ca,nov. . (beststudentpaperawardfinalist,asilomar2016)
+a.yener 21
+[189] a.zewailanda.yener,”codedcachingforresolvablenetworkswithsecurityrequirements,”pro-
+ceedings of the 3rd workshop on physical-layer methods for wireless security, cns’16, philadel-
+phia,pa,oct. .
+[188] r. chou, m. bloch, and a. yener, ”universal covertness for discrete memoryless sources,” pro-
+ceedingsofthe54thannualallertonconferenceoncommunication,control,andcomputing,aller-
+ton’16,monticello,il,sep. .
+[187] m.nafeaanda.yener,”anewmultipleaccesswiretapchannelmodel,”proceedingsofinforma-
+tiontheoryworkshop,itw’16,,cambridge,uk,sep. .
+[186] b. guler, d. gunduz and a. yener, ”on lossy transmission of correlated sources over a multiple
+accesschannel,”proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’16,
+barcelona,spain,jul. .
+[185] r.chouanda.yener,”polarcodingforthemultipleaccesswiretapchannelviarate-splittingand
+cooperative jamming,” proceedings of the ieee international symposium on information theory,
+isit’16,barcelona,spain,jul. .
+[184] r.chouanda.yener,”multiuserauthenticationwithanonymityconstraintsovernoisychannels,”
+proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’16,barcelona,spain,
+jul. .
+[183] m.nafeaanda.yener,”anewwiretapchannelmodelanditsstrongsecrecycapacity,”proceed-
+ings of the ieee international symposium on information theory, isit’16, barcelona, spain, jul.
+.
+[182] m. nafea and a. yener, ”the multiple access wiretap channel ii with a noisy main channel,”
+proceedingsoftheieeeinternationalsymposiumoninformationtheory,isit’16,barcelona,spain,
+jul. .
+[181] e. molavianjazi and a. yener, ”two-way lossy compression via a relay with self source,” pro-
+ceedings of the ieee international symposium on information theory, isit’16, barcelona, spain,
+jul. .
+[180] s. yao, s. hu, s. li, y. zhao, l. su, l. kaplan, a. yener, and t. abdelzaher, ”on source depen-
+dency models for reliable social sensing: algorithms and fundamental error bounds,” 36th ieee
+internationalconferenceondistributedcomputingsystems,icdcs’16,nara,japan,jun. .
+[179] b.guler,a.yener,anda.swami,”thesemanticcommunicationgame,”ieeeinternationalcon-
+ferenceoncommunications,icc’16,kualalumpur,malaysia,may2016.
+[178] b. varan and a. yener, ”matching games for wireless networks with energy cooperation,” work-
+shopongreennetworks(greennet),ieeewiopt2016,tempe,az,may2016.
+[177] s.yao,mdt.amin,l.su,s.hu,s.li,s.wang,y.zhao,t.abdelzaher,l.kaplan,c.aggarwal,and
+a.yener,”recursivegroundtruthestimatorforsocialdatastreams,”15thacm/ieeeinternational
+conferenceoninformationprocessinginsensornetworks,ipsn’16,vienna,austria,apr. .
+[176] b. guler, a. yener, e. molavianjazi, p. basu, a. swami, ”interactive function compression with
+asymmetricpriors,”ieeedatacompressionconference,dcc’16,snowbird,ut,mar. .
+[175] e.molavianjazianda.yener,”lossysubsetsourcecoding,”informationtheoryandapplications
+workshop,ita’16,sandiego,ca,feb. .
+[174] e.molavianjazianda.yener,”low-latencycommunicationsoverzero-batteryenergyharvesting
+channels,”ieeeglobalcommunicationsconference,globecom’15,sandiego,ca,dec. .
+[173] b.varananda.yener,”auctionschemesforenergyandsignalcooperationintwo-hopnetworks,”
+ieeeglobalcommunicationsconference,globecom’15,sandiego,ca,dec. .
+a.yener 22
+[172] a. ibrahim, a. zewail and a. yener, ”towards green distributed storage systems,” 49th asilomar
+conferenceonsignals,systemsandcomputers,asilomar’15,pacificgrove,ca,nov. .
+[171] a. zewail and a. yener, ”the interference untrusted-relay channel with confidential messages,”
+informationtheoryworkshop,itw’15,jejuisland,southkorea,oct. .
+[170] b. guler, k. tutuncuoglu, and a. yener, ”maximizing recommender’s influence in a social net-
+work: an information theoretic perspective,” information theory workshop, itw’15, jeju island,
+southkorea,oct. .
+[169] e. molavianjazi and a. yener, ”subset source coding,” 53rd annual allerton conference on com-
+munication,control,andcomputing,allerton’15,monticello,il,sep. .
+[168] m.nafeaanda.yener,”wiretapchanneliiwithanoisymainchannel,”ieeeinternationalsym-
+posiumoninformationtheory,isit’15,hongkong,jun. .
+[167] b. guler, e. molavianjazi, and a. yener, ”remote source coding with two-sided information,”
+ieeeinternationalsymposiumoninformationtheory,isit’15,hongkong,jun. .
+[166] o. ozel, k. tutuncuoglu, s. ulukus, and a. yener, ”the binary energy harvesting channel with
+on-off fading,” ieee international symposium on information theory, isit’15, hong kong, jun.
+.
+[165] m. nafea and a. yener, ”secure degrees of freedom of n x n x m wiretap channel with a k-
+antenna cooperative jammer,” ieee international conference on communications, icc’15, lon-
+don,uk,jun. .
+[164] a. yener, ”new directions in information theoretic security: benefits of bidirectional signaling,”
+informationtheoryworkshop,itw’15,jerusalem,israel,apr. .
+[163] c. andersen, p. basu, b. guler, a. yener and e. molavianjazi, ”protocols for efficient inference
+communication,”seventhinternationalworkshoponinformationqualityandqualityofservicefor
+pervasive computing (iq2s’15) in conjunction with ieee percom , st. louis, mo, mar.
+.
+[162] b.varananda.yener,”throughputmaximizinggamesinthetwo-hoprelaychannelwithenergy
+cooperation,” 49th annual conference on information sciences and systems, ciss’15, baltimore,
+md,mar. .
+[161] k. tutuncuoglu and a. yener, ”the energy harvesting and energy cooperating two-way channel
+with finite-sized batteries,” ieee global communications conference, globecom’14, austin, tx,
+dec. .
+[160] b.varananda.yener,”energyharvestingcommunicationswithenergyanddatastoragelimita-
+tions,”ieeeglobalcommunicationsconference,globecom’14,austin,tx,dec. .
+[159] b.guler,a.yener,p.basu,c.andersenanda.swami,”astudyoncompressinggraphicalstruc-
+tures,”ieeeglobalsipsymposiumonnetworktheory,globalsip’14,atlanta,ga,dec. .
+[158] b. guler, b. varan, k. tutuncuoglu, m. nafea, a. zewail, a. yener and d. octeau, ”communicat-
+ing in a socially-aware network: impact of relationship types,” ieee globalsip symposium on
+networktheory,globalsip’14,atlanta,ga,dec. .
+[157] a.zewailanda.yener,”themultipleaccesschannelwithanuntrustedrelay,”informationtheory
+workshop,itw’14,hobart,tasmania,australia,nov. .
+[156] m.nafeaanda.yener, ”securedegreesoffreedomforthemimowiretapchannelwithamulti-
+antennacooperativejammer,”informationtheoryworkshop,itw’14,hobart,tasmania,australia,
+nov. .
+a.yener 23
+[155] k. tutuncuoglu, o. ozel, a. yener and s. ulukus, ”state amplification and state masking for the
+binaryenergyharvestingchannel,”informationtheoryworkshop,itw’14,hobart,tasmania,aus-
+tralia,nov. .
+[154] o. ozel, k. tutuncuoglu, s. ulukus and a. yener, ”capacity of the energy harvesting channel
+with energy arrival information at the receiver,” information theory workshop, itw’14, hobart,
+tasmania,australia,nov. .
+[153] b.varananda.yener,”energyharvestingtwo-waycommunicationswithlimitedenergyanddata
+storage,”48thasilomarconferenceonsignals,systemsandcomputers,asilomar’14,pacificgrove,
+ca,nov. .
+[152] a.zewail,m.nafeaanda.yener,”multi-terminalnetworkswithanuntrustedrelay,”52ndannual
+allerton conference on communication, control, and computing, allerton’14, monticello, il, oct.
+.
+[151] b.guler,b.varan,k.tutuncuoglu,m.nafea,a.zewail,a.yenerandd.octeau,”optimalstrate-
+giesfortargetedinfluenceinsignednetworks,”ieee/acminternationalconferenceonadvances
+insocialnetworksanalysisandmining,asonam’14,beijing,china,aug. .
+[150] k.tutuncuoglu,o.ozel,a.yener,ands.ulukus,”improvedcapacityboundsforthebinaryenergy
+harvestingchannel,”ieeeinternationalsymposiumoninformationtheory,isit’14,honolulu,hi,
+jul. .
+[149] o. ozel, k. tutuncuoglu, s. ulukus, and a. yener, ”capacity of the discrete memoryless energy
+harvestingchannelwithsideinformation,”ieeeinternationalsymposiumoninformationtheory,
+isit’14,honolulu,hi,jul. .
+[148] e. n. ciftcioglu, a. michaloliakos, k. psounis, t. f. la porta and a. yener, ”power minimization
+withquality-of-informationoutages,”ieeewirelesscommunicationsandnetworkingconference,
+wcnc’14,istanbul,turkey,apr. .
+[147] b.guler and a. yener, ”semantic index assignment,” sixth international workshop on information
+quality and quality of service for pervasive computing (iq2s’14) in conjunction with ieee per-
+com2014,budapest,hungary,mar. .
+[146] b. guler and a. yener, ”compressing semantic information with varying priorities,” ieee data
+compressionconference,dcc’14,snowbird,ut,mar. .
+[145] b. varan, k. tutuncuoglu and a. yener, ”energy harvesting communications with continuous en-
+ergyarrivals,”informationtheoryandapplicationsworkshop,ita’14,sandiego,ca,feb. .
+[144] m.nafeaanda.yener,“degreesoffreedomofthesingleantennagaussianwiretapchannelwith
+ahelperirrespectiveofthenumberofantennasattheeavesdropper,”ieeeglobalsipsymposium
+oncyber-securityandprivacy,globalsip’13,austin,tx,dec. .
+[143] b.guler,a.yenerandp.basu,“astudyofsemanticdatacompression,”ieeeglobalsipsympo-
+siumonnetworktheory,globalsip’13,austin,tx,dec. .
+[142] b. varan and a. yener, “two-hop networks with energy harvesting: the (non-)impact of buffer
+size,” ieee globalsip symposium on energy harvesting and green wireless communications,
+globalsip’13,austin,tx,dec. .
+[141] b.varananda.yener,“theenergyharvestingtwo-waydecode-and-forwardrelaychannelwith
+stochastic data arrivals,” ieee globalsip symposium on energy harvesting and green wireless
+communications,globalsip’13,austin,tx,dec. .
+[140] b.varananda.yener,“multi-pairandmulti-waycommunicationsusingenergyharvestingnodes,”
+47th asilomar conference on signals, systems and computers, asilomar’13, pacific grove, ca,
+november2013.
+a.yener 24
+[139] m.nafeaanda.yener, “howmanyantennasdoesacooperativejammerneedforachievingthe
+degreesoffreedomofmultipleantennagaussianchannelsinthepresenceofaneavesdropper?”,
+51st annual allerton conference on communication, control, and computing, allerton’13, monti-
+cello,il,october2013.
+[138] k.tutuncuogluanda.yener,“cooperativeenergyharvestingcommunicationswithrelayingand
+energysharing,”informationtheoryworkshop,itw’13,seville,spain,september2013.
+[137] k. tutuncuoglu, o. ozel, a. yener and s. ulukus, “binary energy harvesting channel with finite
+energy storage,” ieee international symposium on information theory, isit’13, istanbul, turkey,
+jul. .
+[136] y. tian and a. yener, “degrees of freedom for the mimo multi-way relay channel,” ieee inter-
+nationalsymposiumoninformationtheory,isit’13,istanbul,turkey,july2013.
+[135] k. tutuncuoglu, b. varan and a. yener, “energy harvesting two-way half-duplex relay channel
+with decode-and-forward relaying: optimum power policies”, ieee international conference on
+digitalsignalprocessing,dsp’13,santorini,greece,july2013.
+[134] y.tiananda.yener,“degreesoffreedomoptimaltransmissionforthetwo-clustermimomulti-
+way relay channel,” ieee international conference on communications, icc’13, budapest, hun-
+gary,june2013.
+[133] b. guler and a. yener, “selective interference alignment for mimo femtocell networks,” ieee
+internationalconferenceoncommunications,icc’13,budapest,hungary,june2013.
+[132] i. stanojev and a. yener, “relay selection for flexible multihop communication via competitive
+spectrum leasing”, ieee international conference on communications, icc’13, budapest, hun-
+gary,june2013.
+[131] k. tutuncuoglu, b. varan and a. yener, “optimum transmission policies for energy harvesting
+two-way relay channels,” ieee icc’13 workshop on green broadband access: energy efficient
+wirelessandwirednetworksolutions,budapest,hungary,june2013.
+[130] k.tutuncuogluanda.yener,“multipleaccessandtwo-waychannelswithenergyharvestingand
+bidirectional energy cooperation,” information theory and applications workshop, ita’13, san
+diego,ca,feb. .
+[129] m. li, o. simeone and a. yener, “the state-dependent degraded broadcast diamond channel,”
+14th annual australian communications theory workshop, ausctw’13, adelaide, australia, jan-
+uary2013.
+[128] k. tutuncuoglu and a. yener, “energy harvesting broadcast channel with inefficient energy stor-
+age,”asilomarconferenceonsignals,systems,andcomputers,pacificgrove,ca,november2012.
+[127] x. he and a. yener, “the interference wiretap channel with an arbitrarily varying eavesdropper:
+aligning interference with artificial noise,” 50th annual allerton conference on communication,
+control,andcomputing,allerton’12,monticello,il,october2012.
+[126] i. stanojev and a. yener, “facilitating flexible multihop communication via spectrum leasing”,
+ieeeinternationalsymposiumonpersonal,indoorandmobileradiocommunications,pimrc’12,
+sydney,australia,september2012.
+[125] k.tutuncuogluanda.yener,“theenergyharvestingmultipleaccesschannelwithenergystorage
+losses,”informationtheoryworkshop,itw2012,lausanneswitzerland,september2012.
+[124] y.tiananda.yener,“signalspacealignmentanddegreesoffreedomforthetwo-clustermulti-
+wayrelaychannel,”internationalconferenceoncommunicationsinchina,beijing,china,august
+.
+a.yener 25
+[123] f. saremi, p. jayachandran, f. iandola, md y. sarwaruddin, t. abdelzaher and a. yener, “on
+schedulability and time composability of data aggregation networks,” isif international con-
+ferenceoninformationfusion,fusion’12,july2012.
+[122] y. tian and a. yener, “guiding blind transmitters: relay-aided interference alignment for the x
+channel,”ieeeinternationalsymposiumoninformationtheory,isit’12,cambridge,massachusetts,
+july2012.
+[121] x. he and a. yener, “the gaussian interference wiretap channel when the eavesdropper channel
+isarbitrarilyvarying,”ieeeinternationalsymposiumoninformationtheory,isit’12,cambridge,
+massachusetts,july2012.
+[120] y. tian and a. yener, “relays can provide alignment for the k-user interference channel without
+channel state information at the transmitters,”ieee international workshop on signal processing
+advancesinwirelesscommunications,spawc’12,cesme,turkey,june2012.
+[119] y. tian and a. yener, “relay-aided interference alignment for the x channel with limited csi,”
+ieeewirelesscommunicationsandnetworkingconference,wcnc’12,paris,france,april2012.
+[118] e.n.ciftciogluanda.yener,“maximizingcredibility-basednetworkutilityviapowerallocation,”
+the fourth international workshop on information quality and quality of service for pervasive
+computing(iq2s)inconjunctionwithieeepercom2012,lugano,switzerland,march2012.
+[117] k. tutuncuoglu and a. yener, “optimal power policy for energy harvesting transmitters with in-
+efficient energy storage,” 46th annual conference on information sciences and systems, ciss’12,
+princeton,nj,march2012.
+[116] k.tutuncuogluanda.yener,“communicatingwithenergyharvestingtransmittersandreceivers,”
+informationtheoryandapplicationsworkshop,ita’12,sandiego,ca,february2012.
+[115] k. tutuncuoglu and a. yener, “transmission policies for asymmetric interference channels with
+energy harvesting nodes,” international workshop on computational advances in multi-sensor
+adaptiveprocessing,camsap’11,sanjuan,puertorico,december2011.
+[114] b.guleranda.yener,“interferencealignmentforcooperativemimofemtocellnetworks,”ieee
+globaltelecommunicationsconference,globecom’11,houston,texas,december2011.
+[113] x. he, a. khisti and a. yener, “mimo broadcast channel with arbitrarily varying eavesdrop-
+per channel: secrecy degrees of freedom,” ieee global telecommunications conference, globe-
+com’11,houston,texas,december2011.
+[112] x.heanda.yener,“gaussiantwo-waywiretapchannelwithanarbitrarilyvaryingeavesdropper,”
+ieee global telecommunications conference workshop on physical layer security, globecom’11,
+houston,texas,december2011.
+[111] s. t. rager, e. n. ciftcioglu, a. yener, t. f. la porta, and m. neely, “distributed backpressure
+protocolswithlimitedstatefeedback,”ieeemilitarycommunicationsconference, milcom’11,
+baltimore,md,november2011.
+[110] e. n. ciftcioglu and a. yener, “quality-of-information aware transmission policies with time-
+varyinglinks,”ieeemilitarycommunicationsconference,milcom’11,baltimore,md,novem-
+ber2011.
+[109] y. tian and a. yener, “relaying for multiple sources in the absence of codebook information,”
+asilomarconferenceonsignals,systems,andcomputers,pacificgrove,ca,november2011.
+[108] k. tutuncuoglu and a. yener, “optimal power control for energy harvesting transmitters in an
+interferencechannel,”asilomarconferenceonsignals,systems,andcomputers,pacificgrove,ca,
+november2011.
+a.yener 26
+[107] x.he,a.khistianda.yener,“mimomultipleaccesschannelwithanarbitrarilyvaryingeaves-
+dropper,”49thannualallertonconferenceoncommunication,control,andcomputing,allerton’11,
+monticello,il,september2011.
+[106] a. yener and i. stanojev, “recruiting multi-antenna transmitters as cooperative jammers: an
+auction-theoretic approach,” 49th annual allerton conference on communication, control, and
+computing,allerton’11,monticello,il,september2011.
+[105] x. he and a. yener, “secrecy when the eavesdropper controls its channel states,” ieee interna-
+tionalsymposiumoninformationtheory,isit’11,saintpetersburg,russia,july2011.
+[104] m. li, o. simeone and a. yener, “leveraging strictly causal state information at the encoders for
+multiple access channels,” ieee international symposium on information theory, isit’11, saint
+petersburg,russia,july2011.
+[103] e. n. ciftcioglu, a. yener, r. govindan, and k. psounis, “operational information content sum
+capacity: formulation and examples,” isif international conference on information fusion, fu-
+sion’11,chicago,il,july2011.
+[102] f. iandola, l. saremi, t. abdelzaher, p. jayachandran and a. yener, “real-time capacity of net-
+worked data fusion,” isif international conference on information fusion, fusion’11, chicago,
+il,july2011.
+[101] y.tiananda.yener,“harnessinginterferencewithanout-of-bandrelay: anapproximatecapacity
+result”,ieeeinternationalconferenceoncommunications,icc’11,kyoto,japan,june2011.
+[100] k. tutuncuoglu and a. yener, “short-term throughput maximization for battery limited energy
+harvestingnodes”,ieeeinternationalconferenceoncommunications,icc’11,kyoto,japan,june
+.
+[99] i. stanojev and a. yener, “cooperative jamming via spectrum leasing,” international symposium
+ofmodelingandoptimizationinmobile,adhoc,andwirelessnetworks,wiopt’11,princeton,nj,
+may2011.
+[98] r. urgaonkar, e. n. ciftcioglu, a. yener, and m.neely, “quality of information aware scheduling
+intaskprocessingnetworks,”7thinternationalworkshoponresourceallocationandcooperation
+inwirelessnetworks(rawnet),inconjunctionwithieeewiopt2011,princeton,nj,may2011.
+[97] o.ozel,k.tutuncuoglu,j.yang,s.ulukusanda.yener,“resourcemanagementforfadingwire-
+lesschannelswithenergyharvestingnodes”,the30thieeeinternationalconferenceoncomputer
+communications-miniconference,infocom’11,shanghai,china,april2011.
+[96] o. ozel, k. tutuncuoglu, j. yang, s. ulukus and a. yener, “ adaptive transmission policies for
+energy harvesting wireless nodes in fading channels,” conference of information sciences and
+systems,ciss’11,baltimore,md,march2011.
+[95] a. bar-noy, g. cirincione, r. govindan, s. krishnamurthy, t. f. laporta, p. mohapatra, m. neely,
+anda.yener,“quality-of-informationawarenetworkingfortacticalmilitarynetworks”,thethird
+international workshop on information quality and quality of service for pervasive computing,
+iq2s2011,seattle,wa,march2011.
+[94] m.li,o.simeoneanda.yener,“messageandstatecooperationinarelaychannelwhentherelay
+hasstrictlycausalstateinformation,”informationtheoryandapplicationsworkshop,ita’11,san
+diego,ca,feb. .
+[93] g. xiong, c. chen, s. kishore and a. yener, “smart (in-home) power scheduling for demand re-
+sponseonthesmartgrid”, ieeepowerandenergysociety(pes)conferenceoninnovativesmart
+gridtechnologies,anaheim,ca,january2011.
+a.yener 27
+[92] x.heanda.yener,“providingsecrecyirrespectiveofeavesdropper’schannelstate”,ieeeglobal
+telecommunicationsconference,globecom’10,miami,florida,december2010.
+[91] x. he and a. yener, “providing secrecy when the eavesdropper channel is arbitrarily varying:
+a case for multiple antennas”, 48th annual allerton conference on communication, control, and
+computing,allerton’10,monticello,il,september2010.
+[90] y.tiananda.yener,“sumcapacityofthedeterministicinterferencechannelwithanout-of-band
+half-duplexrelay”,48thannualallertonconferenceoncommunication,control,andcomputing,
+allerton’10,monticello,il,september2010.
+[89] x. he and a. yener, “the role of channel states in secret key generation”, ieee international
+symposium on personal, indoor and mobile radio communications, pimrc’10, istanbul, turkey,
+september2010.
+[88] s. goel and a. yener, “connectivity in wireless networks with dynamic key compromise and
+recovery”,ieeeinternationalsymposiumonpersonal,indoorandmobileradiocommunications,
+pimrc’10,istanbul,turkey,september2010.
+[87] s. goel, v. aggarwal, a. yener and a. r. calderbank, “modeling location uncertainty for eaves-
+droppers: a secrecy graph approach”, ieee international symposium on information theory,
+isit’10,austin,texas,june2010. (beststudentpaperawardfinalist,isit2010)
+[86] y. tian and a. yener, “the ergodic fading interference channel with an on-and-off relay”, ieee
+internationalsymposiumoninformationtheory,isit’10,austin,texas,june2010.
+[85] x.heanda.yener,“anewouterboundforthesecrecycapacityregionofthegaussiantwo-way
+wiretap channel”, ieee international conference on communications, icc’10, cape town, south
+africa,may2010. (bestpaperaward,icc2010communicationtheorysymposium)
+[84] y. tian and a. yener, “improved achievable rates for the gaussian interference relay channel”,
+ieeeinternationalconferenceoncommunications,icc’10,capetown,southafrica,may2010.
+[83] e.n.ciftcioglu, y.e.sagduyu, a.yener, andr.berry, “queuebasedcompressioninatwo-way
+relay network”, conference on information sciences and systems, ciss’09, princeton, nj, march
+.
+[82] g. xiong, s. kishore and a. yener, “cost constrained spectrum sensing in cognitive radio net-
+works”,conferenceoninformationsciencesandsystems,ciss’09,princeton,nj,march2010.
+[81] g.xiong,s.kishoreanda.yener,“onperformanceevaluationofcooperativespectrumsensingin
+cognitive radio networks”, conference on information sciences and systems, ciss’09, princeton,
+nj,march2010.
+[80] x. he and a. yener, “secrecy and reliable byzantine detection in a gaussian untrusted two-hop
+link”,ieeeinformationtheoryworkshop,itw’10,cairo,egypt,january2010.
+[79] x. he and a. yener, “secure degrees of freedom for gaussian channels with interference: struc-
+turedcodesoutperformgaussiansignaling”,ieeeglobaltelecommunicationsconference,globe-
+com’09,honolulu,hawaii,december2009.
+[78] y.tiananda.yener,“thegaussianinterferencerelaychannelwithapotentrelay”,ieeeglobal
+telecommunicationsconference,globecom’09,honolulu,hawaii,december2009.
+[77] g.xiong,s.kishoreanda.yener,“onlowcomplexitycooperativespectrumsensingforcogni-
+tivenetworks,”ieeeinternationalworkshoponcomputationaladvancesinmulti-sensoradaptive
+processing,camsap’09,aruba,dutchantilles,dec. .
+[76] a.yenerandx.he,“interferencechannelswithstrongsecrecy”,47thannualallertonconference
+oncommunication,control,andcomputing,allerton’09,monticello,il,september2009.
+a.yener 28
+[75] e.n.ciftcioglu,y.e.sagduyu,r.berry,anda.yener,“costsharingwithnetworkcodingintwo-
+wayrelaynetworks”, 47thannualallertonconferenceoncommunication, control, andcomput-
+ing,allerton’09,monticello,il,september2009.
+[74] x. he and a. yener, “secure communication with a byzantine relay”, ieee international sympo-
+siumoninformationtheory,isit’09,seoul,korea,june2009.
+[73] x.heanda.yener,“thegaussianmany-to-oneinterferencechannelwithconfidentialmessages”,
+ieeeinternationalsymposiumoninformationtheory,isit’09,seoul,korea,june2009.
+[72] d.gunduz,a.yener,a.goldsmithandh.v.poor,“themulti-wayrelaychannel”,ieeeinterna-
+tionalsymposiumoninformationtheory,isit’09,seoul,korea,june2009.
+[71] m.chenanda.yener,“powerallocationformulti-accesstwo-wayrelaying”,ieeeinternational
+conferenceoncommunications,icc’09,dresden,germany,june2009.
+[70] x. he and a. yener, “k-user interference channels: achievable secrecy rate and degrees of free-
+dom,” ieee information theory workshop on networking and information theory, itw’09, volos,
+greece,june2009.
+[69] x. he and a. yener, “a new outer bound for the gaussian interference channel with confidential
+messages”,conferenceoninformationsciencesandsystems,ciss’09,baltimore,md,march2009.
+[68] o.simeoneanda.yener,“thecognitivemultipleaccesswire-tapchannel”,conferenceoninfor-
+mationsciencesandsystems,ciss’09,baltimore,md,march2009.
+[67] x.heanda.yener,“two-hopsecurecommunicationusinganuntrustedrelay: acaseforcoop-
+erative jamming,” ieee global telecommunications conference, globecom’08, new orleans, la,
+december2008.
+[66] e. n. ciftcioglu, a. yener and r. berry, “stability regions for two-way relaying with network
+coding,”wirelessinternetconference,wicon’08,maui,hi,november2008.
+[65] x.heanda.yener,“ontheroleoffeedbackintwo-waysecurecommunication,”42ndasilomar
+conferenceonsignals,systemsandcomputers,pacificgrove,ca,october2008.
+[64] x. he and a. yener, “end-to-end secure multi-hop communication with untrusted relays is pos-
+sible,” 42nd asilomar conference on signals, systems and computers, pacific grove, ca, october
+.
+[63] x. he and a. yener, “providing secrecy with lattice codes”, 46th annual allerton conference on
+communications,control,andcomputing,allerton’08,monticello,il,september2008.
+[62] x.heanda.yener,“theroleofanuntrustedrelayinsecretcommunication,”ieeeinternational
+symposiumoninformationtheory,isit’08,toronto,canada,july2008.
+[61] m. chen and a. yener, “multiuser two-way relaying for interference limited systems,” ieee
+internationalconferenceoncommunications,icc’08,beijing,china,may2008.
+[60] l. huie, x. he and a. yener, “joint power scheduling and estimator design for sensor networks
+across parallel channels,” ieee international conference on communications, icc’08, beijing,
+china,may2008.
+[59] e. n. ciftcioglu, a. yener and r. berry, “stability of bi-directional cooperative relay networks,”
+ieeeinformationtheoryworkshop,itw’08,porto,portugal,may2008.
+[58] m.chenanda.yener,“interferencemanagementformultiusertwo-wayrelaying,”conferenceon
+informationsciencesandsystems,ciss’08,princeton,nj,march2008.
+[57] x.heanda.yener,“ontheenergydelaytrade-offofatwo-wayrelaynetwork,”conferenceon
+informationsciencesandsystems,ciss’08,princeton,nj,march2008.
+a.yener 29
+[56] x. he and a. yener, “rate equivocation region of a class of relay channels with orthogonal
+components,” 41st asilomar conference on signals, systems and computers, pacific grove, ca,
+november2007(invitedpaper).
+[55] k. lee and a. yener, “throughput enhancing cooperative spectrum sensing strategies for cog-
+nitive radios,” 41st asilomar conference on signals, systems and computers, pacific grove, ca,
+november2007(invitedpaper).
+[54] y. li, z. shen, s. kishore, and a. yener, “distributed and collaborative primary signal feature
+estimation for cognitive radios under communication constraints,” 41st asilomar conference on
+signals,systemsandcomputers,pacificgrove,ca,november2007(invitedpaper).
+[53] e. tekin and a. yener, “ secrecy sum-rates for the multiple-access wire-tap channel with er-
+godicblockfading,”45thannualallertonconferenceoncommunication,control,andcomputing,
+monticello,il,september2007.
+[52] e. tekin and a. yener, “achievable rates for two-way wire-tap channels,” ieee international
+symposiumoninformationtheory,isit’07,nice,france,june2007.
+[51] e.tekinanda.yener,“themultipleaccesswire-tapchannel: wirelesssecrecyandcooperative
+jamming,” information theory and applications workshop, ita’07, san diego, ca, january .
+(invitedpaper).
+[50] k. lee and a. yener, “outage performance of cognitive wireless relay networks,” ieee global
+telecommunicationsconference,globecom’06,sanfrancisco,ca,november2006.
+[49] k. lee and a. yener, “spectrum-sensing opportunistic wireless relay networks: outage and di-
+versityperformance,”40thasilomarconferenceonsignals,systemsandcomputers,pacificgrove,
+ca,november2006.
+[48] e.tekinanda.yener,“achievableratesforthegeneralgaussianmultipleaccesswire-tapchan-
+nel with collective secrecy,” 44th annual allerton conference on communication, control, and
+computing,monticello,il,september2006.
+[47] m. chen, c. oh and a. yener, “ efficient scheduling for delay constrained cdma wireless sen-
+sornetworks,”ieeevehiculartechnologyconference,vtc’06fall,montreal,canada,september
+.
+[46] m. chen, c. oh and a. yener, “ efficient scheduling for delay constrained multi-rate cdma
+systems,” ieee 9th international symposium on spread spectrum techniques and applications,
+isssta’06,manaus,brazil,august2006.
+[45] e. tekin and a. yener, “ the gaussian multiple access wire-tap channel with collective secrecy
+constraints,”ieeeinternationalsymposiumoninformationtheory,isit’06,seattle,wa.july2006.
+[44] s. serbetli and a. yener, “power allocation and hybrid relaying strategies for f/tdma ad hoc
+networks,” ieee international conference on communications, icc’06, istanbul, turkey, june
+.
+[43] g. khandelwal, a. yener, k. lee and s. serbetli, “asap: a mac protocol for dense and time
+constrainedrfidsystems,”ieeeinternationalconferenceoncommunications,icc’06,istanbul,
+turkey,june2006.
+[42] g.khandelwal,a.yenerandm.chen,“opt:optimalprotocoltreeforefficienttagidentification
+in dense rfid systems,” ieee international conference on communications, icc’06, istanbul,
+turkey,june2006.
+[41] k. lee and a. yener, “iterative power allocation algorithms for amplify/estimate/compress-and-
+forward multi-band relay channels,” conference on information sciences and systems, ciss’06,
+princeton,nj,march2006.
+a.yener 30
+[40] m. chen, s. serbetli, and a. yener, “distributed power allocation for parallel relay networks,”
+ieeeglobaltelecommunicationsconference,globecom’05,st. louis,mo,november2005.
+[39] e. tekin, s. serbetli and a. yener, “on secure signaling for the gaussian multiple access wire-
+tap channel,” 39th asilomar conference on signals, systems and computers, pacific grove, ca,
+november2005.
+[38] k.leeanda.yener,“ontheachievablerateofthree-nodecognitivehybridwirelessnetworks,”
+internationalconferenceonwirelessnetworks,communications,andmobilecomputing,wireless-
+com’05,maui,hi,june2005.
+[37] s. serbetli and a. yener, “optimum power allocation for relay assisted f/tdma ad hoc net-
+works,” international conference on wireless networks, communications, and mobile computing,
+wirelesscom’05,maui,hi,june2005.
+[36] s.serbetlianda.yener,“transmissionstrategiesforcorrelatedmimolinkswithimperfectchan-
+nel estimates,” ieee international conference on communications, icc’05, seoul, south korea,
+may2005.
+[35] k. lee and a. yener, “on resource allocation for the multi-band relay channel,” conference on
+informationsciencesandsystems,ciss’05,baltimore,md,march2005.
+[34] s. serbetli and a. yener, “optimum power allocation for multiuser relay networks,” conference
+oninformationsciencesandsystems,ciss’05,baltimore,md,march2005.
+[33] c. oh and a. yener, “downlink throughput maximization: tdma vs cdma,” conference on
+informationsciencesandsystems,ciss’05,baltimore,md,march2005.
+[32] s.serbetlianda.yener,“beamformingandschedulingstrategiesfortimeslottedmultiusermimo
+systems,”38thasilomarconferenceonsignals,systemsandcomputers,pacificgrove,ca,novem-
+ber2004.
+[31] a.yenerands.kishore,“distributedpowercontrolandroutingforclusteredcdmawirelessad
+hocnetworks,”ieeevehiculartechnologyconference,vtc’04fall,losangeles,ca,september
+.
+[30] h.zhu,g.cao,a.yeneranda.d.mathias,“edcf-dm:anovelenhanceddistributedcoordina-
+tionfunctionforwirelessadhocnetworks,” ieeeinternationalconferenceoncommunications,
+icc’04,paris,france,june2004.
+[29] s.serbetlianda.yener,“signaturesequenceselectionforcdmasystemswithmultiplereceiver
+antennas,”ieeeinternationalconferenceoncommunications,icc’04,paris,france,june2004.
+[28] s. serbetli, s. bethanabhotla and a. yener, “the effect of channel estimation on transceiver de-
+sign for mimo systems with qos constraints,” conference on information sciences and systems,
+ciss’04,princeton,nj,march2004.
+[27] s.serbetlianda.yener,“signatureandbeamformerdesignformimo-cdmawithvariouslevels
+of feedback,” conference on information sciences and systems, ciss’04, princeton, nj, march
+.
+[26] a. yener and o. filiz, “rank constrained temporal-spatial filters for cdma systems in multi-
+path channels,” ieee global telecommunications conference, globecom’03, san francisco, ca,
+december2003.
+[25] c. oh and a. yener, “further results on adaptive cdma cell sectorization with linear mul-
+tiuserdetection,”37thasilomarconferenceonsignals,systemsandcomputers,pacificgrove,ca,
+november2003(invitedpaper).
+a.yener 31
+[24] c. oh and a. yener, “adaptive cdma cell sectorization with linear multiuser detection,” ieee
+vehiculartechnologyconference,vtc’03fall,orlando,fl,october2003.
+[23] s.serbetlianda.yener,“signatureandbeamformeroptimizationformimo-cdmabasedonthe
+mean squared error criterion,” conference on information sciences and systems, ciss’03, balti-
+more,md,march2003.
+[22] o. filiz and a. yener, “rank constrained temporal-spatial filters for cdma systems with base
+station antenna arrays,” conference on information sciences and systems, ciss’03, baltimore,
+md,march2003.
+[21] s. serbetli and a. yener, “ iterative transceiver optimization for multiuser mimo systems,” 40th
+allertonconf. oncommunications,controlandcomputing,monticello,illinois,october2002.
+[20] a. yener and s. serbetli, “ transmitter optimization for multiuser mimo systems,” ieee inter-
+national symposium on advances in wireless communications, iswc’02, victoria, bc, canada,
+september2002(invitedpaper).
+[19] s. ulukus and a. yener, “iterative transmitter and receiver optimization for synchronous cdma
+systems,” ieee international symposium on information theory, isit’02, lausanne, switzerland,
+june2002.
+[18] s. ulukus and a. yener, “iterative joint optimization of cdma signature sequences and receiver
+filters,”conferenceoninformationsciencesandsystems,ciss’02,princeton,nj,march2002.
+[17] p.spasojevicanda.yener,“constrainedslowestdescentdetectorsformultiusercdmasystems,”
+ieeeinternationalsymposiumoninformationtheory,isit’01,washingtond.c.,june2001.
+[16] p. spasojevic and a. yener, “improved soft interference cancellation for cdma systems,” ieee
+internationalconferenceoncommunications,icc’01,helsinki,finland,june2001.
+[15] a. yener and s. ulukus, “on the fading channel performance of temporal–spatial filters for
+cdma,”ieeevehiculartechnologyconference,vtc’01,rhodes,greece,may2001.
+[14] a. yener, “nonlinear programming based detectors for multiuser systems,” international confer-
+ence on information technology: coding and computing, itcc’01, las vegas, nv, april ,
+(invitedpaper).
+[13] r. sinha, a. yener and r. d. yates, “constrained detection for noncoherent nonlinear multiuser
+communications,” 34th asilomar conference on signals, systems and computers, pacific grove,
+ca,october2000.
+[12] a. yener and r. d. yates, “acquisition dependent random access for connectionless cdma
+systems,” ieee wireless communications and networking conference, wcnc’00, chicago, il,
+september2000(invitedpaper).
+[11] a. yener, r. d. yates and s. ulukus, “combined temporal and spatial filter structures for cdma
+systems,”ieeevehiculartechnologyconference,boston,ma,september2000.
+[10] a.yenerandr.d.yates,“decorrelatingacquisitionandaccessforconnectionlesscdma,”sym-
+posiumforinterferencerejectionandsignalseparation,irss’00,newark,nj,march2000.
+[9] a. yener, r. d. yates and s. ulukus, “a nonlinear programming approach to cdma multiuser
+detection,”33rdasilomarconf. onsignals,systemsandcomputers,pacificgrove,ca,oct. .
+[8] c. u. saraydar and a. yener, “capacity enhancement for cdma systems through adaptive cell
+sectorization,” ieee wireless communications and networking conference, wcnc’99, new or-
+leans,la,september1999.
+[7] a. yener and r. d. yates, “multiuser access capacity of packet switched cdma systems,” ieee
+vehiculartechnologyconference,vtc’99,houston,tx,may1999.
+a.yener 32
+[6] a. yener, r. d. yates and s. ulukus, “joint power control, multiuser detection and beamforming
+forcdmasystems,”ieeevehiculartechnologyconference,vtc’99,houston,tx,may1999.
+[5] a. yener and r. d. yates, “multiuser access detection for cdma systems,” conference on infor-
+mationsciencesandsystems,ciss’98,princeton,nj,march1998.
+[4] a. yener, c. rose and r. d. yates, “optimum power scheduling for cdma access channels,”
+ieee global telecommunications conference, globecom’97, phoenix, az, november . also
+presentedininformsspring’98meeting(invitedtalk),montreal,canada,april1998.
+[3] a. yener and c. rose, “paging strategies for highly mobile users,” ieee vehicular technology
+conference,vtc’96,atlanta,ga,april1996.
+[2] a. yener and c. rose, “local call admission policies for cellular networks using genetic algo-
+rithms,”conferenceoninformationscienceandsystems,ciss’95,baltimore,md,march1995.
+[1] a.yenerandc.rose,“near-optimalcalladmissionpoliciesforcellularnetworksusinggenetic
+algorithms,”ieeewireless’94,calgary,canada,july1994.
+funded research grants
+nsf
+• nsf ai institute for future edge networks and distributed intelligence, (10/ -9/ ), nsf-cns,
+(pi:n.shroff(osu),multi-institution).
+• sii planning: escaping gravity: the end of gs (8/ -5/ ), nsf-ast (pi with co-pis m. medard
+(mit),t.javidi(ucsd),j.johnson(osu),d.starobinski(bu)).
+• codedcachingforheterogeneousandenergyharvestingsystems(9/ -8/ ),nsf-ccf,(solepi).
+• game-theoreticapproachestoenergycooperation(9/ -2/ ),nsf-eccs,(solepi).
+• rechargeable networks with energy cooperation (10/ -10/ ), nsf-cns, (pi, with s. ulukus,
+umd).
+• incentive compatible security (10/ -10/ ), nsf-satc, (pi, with r. berry, northwestern and s.
+ulukus,umd).
+• foundations of energy harvesting wireless communications (7/ -7/ ), nsf-ccf, (pi, with s.
+ulukus,umd).
+• realizingthevisionofinformation-theoreticsecurityforwirelesscommunications(09/ -09/ ),
+nsf-ccf,(pi,withm.bloch,georgiatech.).
+• optimizing communications with harvested energy in energy starved environments: a tailored fit for
+healthcaremonitoring(01/ -09/ ),nsf-ercadvancedself-poweredsystemsofintegratedsen-
+sorsandtechnologies(assist),(pennstatepis.troiller-mckinstry).
+• supportfornorthamericanschoolforinformationtheory(05/ -05/ ),nsf-cif,(pi).
+• interactive security (05/ -05/ ), nsf-ccf, (pi, with s. ulukus, umd and k. ramchandran, uc
+berkeley).
+• rechargeablenetworks(03/ -02/ ),nsf-cns,(pi,withs.ulukus,umdandr.yates,rutgers).
+a.yener 33
+• cognition, collaboration, and competition in hybrid wireless networks (09/ -06/ ), nsf-cns,
+(pi,withs.kishorelehigh).
+• secure capacity of wireless networks (09/ -08/ ), nsf-cybertrust, (pi, with s. ulukus, ece,
+umd).
+• multi-tierhybridwirelessnetworks(10/ -09/ ),nsf-cns,(pi,withs.kishore,lehigh).
+• multiuserwirelesssecurity(07/ -06/ ),nsf-ccf,(pi,withs.ulukus,ece,umd).
+• exploratory research in relay networks of agile radios (04/ -09/ ), nsf-cns, (co-pi, with pi
+t.laporta,cse,psu).
+• career: signal processing for multiuser multiantenna wireless communications (02/ -01/ ),
+nsf-ccr,(solepi).
+dod/federal
+• center for automated vehicle research with multimodal assured navigation (carmen) ( - ),
+departmentoftransportation,(co-pi,pi:z.kassas,team: osu,uci,utaustin,nca&t)
+• havaro:hardware-assistedvulnerabilityanalysisandresilienceoptimization(09/ -09/24),national
+securityagency,(co-pi,pi:c.yagemann)
+• quality-of-information-awarenetworksfortacticalapplications(quanta)(10/ -09/ ),
+us army research laboratory: network science collaborative science alliance (cta), communica-
+tionnetworkcenter,(co-pi,pi:t.laporta).
+• rethinkingmobileadhocnetworks: anon-equilibriuminformationtheory(11/ -5/ ),
+darpaitmanet:informationtheoryformobileadhocnetworksprogram(team: d.katabi,mit;
+r. berry, d. guo, northwestern; m . haenggi, notre dame; a. yener, psu; s. jafar, university of cali-
+forniairvine;n.jindal,minnesota;m.neely,usc;j.andrews(pi),r.heath,s.shakkottai,utaustin;
+s.weber,drexel).
+• controlovernetworkcodingforenhancedradiotransmissionoptimization(07/ -12/ ),darpa
+cbmanet: control based mobile ad hoc networks program (co-pi, with pi t. la porta, cse, psu.
+otherpis/co-pisofconcertoteam: g.lauer,r.ghanadan,baesystems;m.effros,t.ho,caltech;
+p. francis, z. haas, cornell; m. medard, a. ozdaglar, mit; m. steenstrup, stow research; r. koetter,
+uiuc;j.kurose,d.towsley,umass).
+• enablinglogisticswithportableandwirelesstechnology(07/ -08/ ), usmc(team: d.hall, s.
+purao, i. petrick, school of ist, psu; s. kumara, n. gautam, t. kim, industrial engineering, psu; z.
+rado,pti,psu;r.gray,pennstateerie;a.yener,ee,psu,a.garga,arl).
+industry&state
+• federatedlearningwithedgedynamics(09/ -12/ ),ciscoresearch,(co-pi,withpix.zhang.)
+• securityassuranceforvehicularsystems(09// -09/ ),hondar&damericas,inc. (co-pi,with
+piq.ahmed).
+a.yener 34
+• networking and security research center designation (01/ -07/ ), ben franklin technology
+partners,(co-pi,withpit.laporta,co-pisr.acharya,g.cao,t.jaeger,p.mcdaniel).
+• sustainable wireless networks (01/ -10/ ), raytheon (via networking and security research
+center,psu),(co-piwitht.jeagerandt.laporta,cse,psu).
+• technology roadmap for 3g and beyond (05/ -12/ ), raytheon (via networking and security
+researchcenter,psu),(co-piwitht.laporta,cse,psu).
+• clusteringforwirelessadhocnetworks: ajointphysicallayer,multipleaccess,androutingperspec-
+tive (07/ -06/ ), pennsylvania infrastructure technology alliance, (co-pi, with pi s. kishore,
+ece,lehigh).
+• designofefficientrfidsystems(01/ -12/ ),pittsburghdigitalgreenhouse(thetechcollab-
+orative),(pi).
+• lifetime optimization of ad hoc sensor networks (06/ -12/ ), telcordia (via networking and
+securityresearchcenter,psu),(pi,withg.cao,t.laporta,cse,psu).
+• centerofexcellenceinwirelesscommunicationsandnetworkingatlehighuniversity(05/ -05/ ),
+at&tfoundation,(piwithr.blum,t.boult,j.hwang,eecs,lehigh).
+• advancesinwirelessnetworking(lehighuniversity)(09/ -09/ ),padcomandbenfranklin
+technologypartners,(co-pi,withpit.boult,eecs,lehigh).
+professional activities
+elected/appointedpositions
+director, ieee division ix, - (elected in ieee general election, oct. , director-elect
+).
+member,ieeetechnicalactivitiesboard(tab)nominationsandappointmentscommittee(electedby
+thetabfromsocietyandcouncilpresidents), - .
+seniorpastpresident,ieeeinformationtheorysociety, .
+juniorpastpresident,ieeeinformationtheorysociety, .
+president,ieeeinformationtheorysociety, .
+vicepresident,ieeeinformationtheorysociety, .
+secondvicepresident,ieeeinformationtheorysociety, .
+member of the board of governors, ieee information theory society, - and -
+(electedbythemembershipfortwoconsecutiveterms).
+treasurer,memberoftheboardofgovernors,ieeeinformationtheorysociety, - (appointed).
+memberofadcom,ieeesystemscouncil, - .
+chair,cooperationcommittee,ieeesystemscouncil, -present.
+a.yener 35
+member,ieeefellowstrategicplanningcommittee(fspc), .
+member,ieeefellowcommittee, - .
+chair,ieeerichardw.hammingmedalcommittee, - (member2017- ,pastchair, ).
+chair,shannonawardselectioncommittee,ieeeinformationtheorysociety, (member, ).
+chair,wynerawardselectioncommittee,ieeeinformationtheorysociety, (member, ).
+chair,awardscommittee,ieeeinformationtheorysociety, .
+chair,membershipcommittee,ieeeinformationtheorysociety, .
+chair,informationtheoryschoolsub-committee,ieeeinformationtheorysociety, - .
+chair,studentcommittee,ieeeinformationtheorysociety, - .
+member,ad-hoccommitteeforassessmentofieee-widemulti-disciplinarypublicationthataddresses
+climatescience,climatechangeandclimatesolutions, .
+member,bestpaperawardscommittee,globecom2022,ieeecommunicationssociety, .
+member,editor-in-chiefselectioncommittee,bestreadings,ieeecommunicationssociety, .
+member, ad-hoc committee for assessment of ieee transactions on molecular, biological and multi-
+scalecommunications,ieeecommunicationssociety, .
+member,coverawardselectioncommittee,ieeeinformationtheorysociety, .
+member,ieeeadhoccommitteeonsocietyfinances,ieeeinformationtheorysociety, - .
+member,conferencecommittee,ieeeinformationtheorysociety, , .
+member, ieee ad hoc committee on best practices for society/technical council fellow evaluating
+committees, .
+editorialadvisoryboardmember,ieeetransactionsonwirelesscommunications, - .
+editorships
+editor-in-chief,ieeetransactionsongreencommunicationandnetworking, -present.
+areaeditorforsecurityandprivacy,ieeetransactionsoninformationtheory, -present.
+senioreditor,ieeejournalonselectedareasininformationtheory(jsait), -present.
+senioreditor,ieeejournalonselectedareasincommunications(jsac), -present.
+editor,ieeejournalonselectedtopicsinsignalprocessing(jstsp),specialseriesonaiinsignaland
+datascience–towardexplainable,reliable,andsustainablemachinelearning, -present.
+associateeditor,ieeetransactionsonmobilecomputing,jan. -nov. .
+editor,ieeetransactionsoncommunications, - .
+editor,ieeetransactionsonwirelesscommunications, - .
+a.yener 36
+guesteditor,ieeejournalonselectedareasininformationtheory,specialissueontheroleoffresh-
+nessandsemanticmeasuresinthetransmissionofinformationfornextgenerationnetworks, .
+guesteditor,ieeejournalonselectedareasininformationtheory(jsait),specialissueoninforma-
+tionsecurityandprivacy, .
+guest editor, ieee journal on selected areas in communications (jsac), special issue on wireless
+communicationspoweredbyenergyharvestingandwirelessenergytransfer, .
+guesteditor,ieeetransactionsoninformationforensicsandsecurity,specialissueonusingthephys-
+icallayerforsecuringthenextgenerationofcommunicationsystems, .
+conferencechairpositions
+generalchair,thirdnorthamericanschoolofinformationtheory,losangeles,ca,august2010.
+generalchair,secondnorthamericanschoolofinformationtheory,evanston,il,august2009.
+organizerandgeneralchair,firstschoolofinformationtheory,universitypark,pa,june2008.
+technical program committee (tpc) chair, ieee international symposium on information theory
+(isit’22),helsinki,finland,july2022.
+tpc chair, communication theory symposium, ieee international conference on communications
+(icc’09),dresden,germany,june2009.
+tpc chair, communication track, 42nd asilomar conference on signals, systems and computers, pa-
+cificgrove,october2008.
+tpc co-chair, communication theory symposium, ieee international conference on communications
+(icc’18),kansascity,mo,may2018.
+tpc co-chair, green networks (greennet) workshop, 14th international symposium on modeling
+andoptimizationinmobile,adhocandwirelessnetworks(wiopt’16),tempe,az,may2016.
+tpc co-chair, 2nd workshop on green broadband access: energy efficient wireless and wired network
+solutions,ieeeglobaltelecommunicationsconference2014,austin,tx,december2014.
+tpc co-chair, phy and fundamentals track, ieee wireless communications and networking confer-
+ence(wcnc’14),istanbul,turkey,april2014.
+tpcco-chair,workshoponenergyharvestingandgreenwirelesscommunications,ieeeglobalsignal
+andinformationprocessingconference(globalsip’13),austin,tx,dec. .
+tpcco-chair,workshopongreenbroadbandaccess: energyefficientwirelessandwirednetworksolu-
+tions,ieeeinternationalconferenceoncommunications(icc’13),budapest,hungary,june2013.
+tpc co-chair, cognitive radio and spectrum sensing track, ieee vehicular technology conference
+(vtc’12-spring),yokohama,japan,may2012.
+tpc co-chair, track 2: mac and cross-layer design, 21st annual ieee international symposium on
+personalradioandmobilecommunications(pimrc’10),istanbul,turkey,september2010.
+tpc co-chair, wireless communications symposium, ieee international conference on communica-
+tions(icc’08),beijing,china,may2008.
+tpc co-chair, communications and networking track, 39th asilomar conference on signals, systems
+andcomputers,pacificgrove,pacificgrove,november2005.
+a.yener 37
+tpcco-chair,symposiumoninformationtheory,ieeewirelesscom2005,maui,hi,june2005.
+faculty co-chair, wireless of the students, by the students, for the students workshop (3s), to be held
+inconjunctionwithwiopt’11,princeton,nj,may2011.
+recentresultschair,ieeeinternationalsymposiumoninformationtheory(isit’13),istanbul,turkey,
+july2013.
+tutorialchair,ieeeinternationalsymposiumoninformationtheory(isit’12),boston,ma,
+june2012.
+publicationsco-chair,ieeeinternationalsymposiumoninformationtheory(isit’11),st. petersburg,
+russia,july2011.
+conferenceprogramcommitteemembership
+technical program committee (tpc) member, ieee information theory workshop, itw’24, shen-
+zhen,china,november2024.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’24,athens,july2024.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’23,taipei,june2023.
+steering committee member, acm workshop on wireless security and machine learning (wiseml
+),surrey,unitedkingdom,may2023.
+tpcmember,ieeeinformationtheoryworkshop,itw’23,saint-malo,france,april2023.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference,madrid,
+spain,december2021.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’21,online,july2021.
+tpc)member, communicationtheorysymposium, ieeeglobaltelecommunicationsconference, tai-
+wan,december2020.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’20,online,june2020.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference,hawaii,
+december2019.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’19,paris,france,july2019.
+tpc member, communication theory symposium, ieee international conference on communications,
+shanghai,china,may2019.
+tpcmember,ieeeinformationtheoryworkshop,itw’18,guangzhou,china,november2018.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’18,vail,co,june2018.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2017,
+singapore,december2017.
+tpc member, ieee international symposium on information theory, isit’17, aachen, germany, june
+.
+a.yener 38
+tpc member, communication theory symposium, ieee international conference on communications
+,kansascity,mo,may2018.
+tpc member, communication theory symposium, ieee international conference on communications
+,paris,france,may2017.
+tpc member, 15th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’17,paris,france,may2017.
+tpcmember,acmmobihoc,chennai,india,march2017.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2016,
+washingtond.c.,december2016.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’16,barcelonajuly2016.
+tpc member, communication theory symposium, ieee international conference on communications
+,kualalumpur,malaysia,may2016.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2015,
+sandiego,ca,december2015.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’15,hongkongjune2015.
+tpc member, communication theory symposium, ieee international conference on communications
+,london,england,june2015.
+tpc member, 13th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’15,mumbai,india,may2015.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2014,
+austin,tx,december2014.
+tpc member, signal processing for communications symposium, ieee global telecommunications
+conference2014,austin,tx,december2014.
+tpcmember,energyefficiencyandenergyharvestingrelatedsignalprocessingandcommunications,
+ieeeglobalconferenceonsignalandinformationprocessing,atlanta,ga,december2014.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’14,honolulu,hi,july2014.
+tpc member, communication theory symposium, ieee international conference on communications
+,sydney,australia,june2014.
+tpcmember,adhocandsensornetworkssymposium,ieeeinternationalconferenceoncommunica-
+tions2014,sydney,australia,june2014.
+tpc member, 12th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’14,hammamet,tunisia,may2014.
+tpcmember,ieeemilitarycommunicationsconference,baltimore,md,november2013.
+tpcmember,ieeeconferenceoncommunicationsandnetworksecurity,cns’13,washington,d.c.,
+october2013.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’13,istanbul,july2013.
+a.yener 39
+tpc member, communication theory symposium, ieee international conference on communications
+,budapest,hungary,june2013.
+tpc member, 11th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’13,tsukubasciencecity,japan,may2013.
+tpcmember,ieeemilitarycommunicationsconference,orlando,fl,november2012.
+tpcmember,ieeeinformationtheoryworkshop,itw’12,lausanne,switzerland,september2012.
+tpc member, ieee ninth international symposium on wireless communication systems, iswcs’12,
+paris,france,august2012.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’12,boston,majuly2012.
+tpc member, communication theory symposium, ieee international conference on communications
+,ottawa,canada,june2012.
+tpcmember,wirelesscommunicationssymposium,ieeeinternationalconferenceoncommunications
+,ottawa,canada,june2012.
+tpcmember,adhocandsensornetworkssymposium,ieeeinternationalconferenceoncommunica-
+tions2012,ottawa,canada,june2012.
+tpc member, 10th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’12,paderborn,germany,may2012.
+tpc member, ieee fourth international workshop on computational advances in multi-sensor adap-
+tiveprocessing,camsap2011,sanjuan,puertorico,december2011.
+tpcmember,wirelesscommunicationssymposium,ieeeglobaltelecommunicationsconference2011,
+houston,tx,december2011.
+tpcmember,ieeeeighthinternationalsymposiumonwirelesscommunicationsystems,iswcs’11,
+aachen,germany,november2011.
+tpc member, symposium on architectures and models for the smart grid, ieee second international
+conferenceonsmartgridcommunications2011,brussels,belgium,october2011.
+tpcmember,22ndannualieeeinternationalsymposiumonpersonal,indoorandmobileradiocom-
+munications,pimrc’11,toronto,canada,september2011.
+tpc member, communication theory symposium, ieee international conference on communications
+,kyoto,japan,june2011.
+tpcmember,wirelesscommunicationssymposium,ieeeinternationalconferenceoncommunications
+,kyoto,japan,june2011.
+tpc member, 9th international symposium on modeling and optimization in mobile, ad hoc, and
+wirelessnetworks,wiopt’11,princeton,nj,may2011.
+tpcmember,wirelesscommunicationssymposium,ieeeglobaltelecommunicationsconference2010,
+miami,fl,december2010.
+tpcmember,ieeeinternationalsymposiumoninformationtheory,isit’10,austin,tx,june2010.
+tpcmember,wirelesscommunicationssymposium,ieeeinternationalconferenceoncommunications
+,capetown,southafrica,may2010.
+a.yener 40
+tpc member, communication theory symposium, ieee international conference on communications
+,capetown,southafrica,may2010.
+tpcmember,wirelesscommunicationssymposium,ieeeglobaltelecommunicationsconference2009,
+honolulu,hi,december2009.
+tpc member, ad hoc and sensor networks track, ieee vehicular technology conference, vtc’09-
+fall,anchorage,ak,september2009.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2008,
+neworleans,la,november2008.
+tpc member, conference on information theory and statistical learning (itsl’08), las vegas, nv,
+june2008.
+tpcmember,ieeeinformationtheoryworkshop(itw),porto,portugal,may2008.
+tpcmember,ieeewirelesscommunicationsandnetworkingconference,lasvegas,nv,march2008.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2007,
+washingtond.c.,november2007.
+tpcmember,ieeevehiculartechnologyconference,baltimore,md,september2007.
+tpc member, international conference on computer communications and networks, communication
+andinformationtheorysymposium,honolulu,hi,august2007.
+tpcmember,ieeewirelesscommunicationsandnetworkingconference,hongkong,march2007.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2006,
+sanfrancisco,ca,november2006.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2005,
+st.louis,mo,december2005.
+tpcmember, communicationtheorysymposium, ieeeinternationalconferenceoncommunications,
+seoul,korea,may2005.
+tpcmember,acmsigcomm2005asiaworkshop,beijing,china,april2005.
+tpc member, general conference, ieee global telecommunications conference , dallas, tx,
+november2004.
+tpcmember,ieeevehiculartechnologyconference,losangeles,ca,september2004.
+tpc member, wireless networking symposium, ieee international conference on communications,
+paris,france,june2004.
+tpcmember,ieeevehiculartechnologyconference,genova,italy,may2004.
+tpcmember,wirelesscommunicationssymposium,ieeeglobaltelecommunicationsconference2003,
+sanfrancisco,ca,november2003.
+tpcmember,ieeevehiculartechnologyconference,orlando,fl,september2003.
+tpcmember, communicationtheorysymposium, ieeeinternationalconferenceoncommunications,
+anchorage,ak,may2003.
+a.yener 41
+tpcmember,advancedsignalprocessingforcommunicationssymposium,ieeeinternationalconfer-
+enceoncommunications,anchorage,ak,may2003.
+tpcmember,communicationtheorysymposium,ieeeglobaltelecommunicationsconference2002,
+taipei,taiwan,november2002.
+tpcmember,ieeevehiculartechnologyconference,vancouver,canada,september2002.
+tpc member, advanced wireless communications systems symposium, ieee international conference
+oncommunications,newyork,ny,april2002.
+selectedactivitiesassessionorpanelchair/organizer
+ieee international workshop on signal processing advances in wireless communications spawc’22,
+special session organizer: intelligence and processing at the edge for next generation networks, oulu,
+finland,july2022.
+ieeecommunicationtheoryworkshop,ctw’15,sessionorganizer: energyharvestingcommunica-
+tions,danapoint,ca,may2015.
+asilomar conference on signals, systems and computers, invited session organizer: green radio, pa-
+cificgrove,ca,november2012.
+ieee fourth international workshop on computational advances in multi-sensor adaptive processing,
+camsap’11,specialsessionorganizer: energyharvestingwirelessnetworks,sanjuan,puertorico,
+december2011.
+ieeecommunicationtheoryworkshop,sessionorganizer: security,sitges,spain,june2011.
+47thannualallertonconferenceoncommunication,controlandcomputing,invitedsessionorganizer:
+informationsecurity,monticello,il,september2009.
+organizerandchair,paneloncooperativecommunicationforfuturewirelesssystems,ieeewireless
+communicationsandnetworkingconference,wcnc’07,hongkong,march2007.
+asilomarconferenceonsignals,systemsandcomputers,invitedsessionorganizer: networkinforma-
+tiontheory,pacificgrove,ca,november2007.
+asilomarconferenceonsignals,systemsandcomputers,invitedsessionorganizer: adaptivecommu-
+nicationsystems,pacificgrove,ca,november2003.
+chapterchair,ieeelehighvalleysignalprocessingsociety, .
+research supervision
+currentdoctoralstudents
+- enesarda(ece):tbd(startdate: 08/ )
+- trumanwelling(ece):security(startdate: 08/ )
+- emrecankutay(ece):semanticcommunications(startdate: 08/ )
+- xuezheng(ece):distributedmachinelearning(startdate: 01/ )
+- carolineshin(cse):fairmachinelearning(startdate: 07/ )
+a.yener 42
+- jiayumao(ece):smartradioenvironmentsandaifor6g(startdate: 08/ )
+previouspostdoctoralresearchers
+- remia.chou(phd,georgiatech2015): 9/ -8/ (assistantprofessor,wichitastateuniversity)
+- shirin saeedi bidokthi (phd, epfl ): 4/ -9/ (assistant professor, university of pennsylva-
+nia)
+- ebrahimmolavianjazi(phd,notredame2014): 8/ -8/ (samsungresearch)
+- igor stanojev (phd, politechnico di milano and njit ): 11/ -8/ (associate professor, uni-
+versityofwisconsin,plattville)
+- satashugoel(phd,carnegiemellon2009): 07/ -10/ (qualcomm)
+graduateddoctoralstudents
+- shiyangvickylengphd,05/ : energyanddatamanagementinenergy-sustainablenetworks(sam-
+sung)
+- ahmedzewailphd,08/ : secrecyguaranteesinemergingnetworks(qualcomm)
+- a.ibrahimphd,08/ : datastorageandenergymanagementinemergingnetworks(qualcomm)
+- mohamed nafea phd, 12/ : information theoretic security guarantees against more capable ad-
+versaries(postdoc,georgiatech.) (assistantprofessor,univ. ofdetroit)
+- burak varan phd, 08/ : energy and signal cooperation in competitive wireless networks with en-
+ergyharvesting(amazon,cupertino,ca)
+- basakgulerphd,08/ : interaction,communicationandcomputationininformationandsocialnet-
+works(postdoc,universityofsoutherncalifornia,losangeles,ca)(assistantprofessorucriverside)
+- kayatutuncuogluphd,08/ : energyharvestingwirelessnetworks: transmissionpoliciesandcod-
+ingschemes(facebook,menlopark,ca)
+- yetianphd,05/ : interferenceandcooperationinwirelessnetworks(apple,sunnyvale,ca)
+- min(michael)li,phd,08/ : informationtheoreticlimitsofinteractivemulti-usercommunication
+channels(assistantprofessoratzheijanguniversity)
+- ertugrulciftcioglu,phd,08/ : wirelessrelaynetworkswithstochasticarrivals(qualcomm)
+- xiang he, phd, 08/ : cooperation and information theoretic security in wireless networks (mi-
+crosoft,seattle,wa)
+- minchen,phd,09/ : resourcemanagementforwirelessadhocnetworks(microsoft,seattle,wa)
+- endertekin,phd,08/ : informationtheoreticsecrecyforsomemultiuserwirelesscommunication
+channels(researchfaculty,waismancenter,universityofwisconsin,madison,wi)
+- kyounghwanlee,phd,12/ : cognitivehybridwirelessrelaynetworks(sprint,va)(ford,mi)
+- changyoon oh, phd, 08/ : resource allocation techniques for improved performance of multiuser
+systems(associateprofessor,inhatechnicalcollege,korea)
+- semih serbetli, phd, 08/ : efficient transmit strategies for multiuser multiple antenna systems
+(seniorresearchscientist,nexp,eindhoven,thenetherlands)
+a.yener 43
+graduatedm.s.andb.s.students
+- ecebingol(report)05/ : peakageofinformationwithreceiverinducedserviceinterruptions
+- derek duan (thesis) 08/ : group key agreement schemes for platooning with a dynamic lead
+(universityofflorida)
+- malak shah, ms (paper) 05/ : age of information for networks with stochastic arrivals (hughes
+networks)
+- poojithakale,ms(thesis)05/ : studyoftransferentropyonepilepticeegsignals(co-advised)
+- basak guler, ms (thesis) 08/ : interference management for femtocell networks (phd student, see
+graduatedphds)
+- chien-jenhuang,ms(paper),12/ : multiusercompetitionincognitiveradio
+- lauren huie, ms (thesis), 08/ : joint temporal power scheduling and estimator optimization for
+sensornetworks(airforceresearchlab,rome,ny)
+- sungminbae,ms(paper),12/ : thelistingprotocolfortherfidreadercollisionproblem
+- sandeep bethanabhotla, ms (thesis), 12/ : transmission strategies for lifetime maximization of
+sensornetworks(broadcom,irvine,ca)
+- girishkhandelwal,ms(thesis),08/ : efficientdesignofdenseandtimeconstrainedrfidsystems
+(qualcomm,sandiego,ca)
+- atuldivakaran,ms(paper),09/ : anadaptivechannelallocationstrategyforwirelessmultimedia
+qos(t-mobile)
+- onder filiz, ms (thesis), 07/ : rank constrained temporal-spatial receivers for cdma systems
+(turkcell,istanbul,turkey)
+- battalozdemir,ms(paper),05/ : adaptiveprobingbasedmediumaccesscontrolforad-hocnet-
+works(sabanciuniversityandtubitak,istanbul,turkey)
+- daniel szoke, bs (cse) (honor’s thesis), 05/23: model poisoning in federated learning: collusive and
+individualattacks(sentry)
+- michaelwang,bs(honor’sthesis),05/11: mimoadhocnetworks(phd,princeton)
+- mikhaillisovich,bs(thesis),05/ : capacityscalinglawsinad-hocnetworks(phd,cornell)
+- chip mcartor, bs (honor’s thesis), 05/ : lifetime optimization of sensor networks: a network
+layerapproach
+previouslong-termvisitingprofessors
+- insookoo,associateprofessor,universityofulsan,southkorea(01/ -12/ ).
+- tae-jinlee,associateprofessor,sungkyunkwanuniversitysuwon,southkorea(08/ -08/ ).
+- yeonhochung,associateprofessor,pukyongnationaluniversity,busan,southkorea(09/ -08/ ).
+a.yener 44
+research evaluation activities
+panelist,nationalsiencefoundation(nsf)ccf,nets,eccs,satc,ccr,fmf,itr, - .
+panelchair,europeanresearchcouncil(erc)advancedgrant, .
+panelmember,methusalemprogramkuleuven, .
+panelist,europeanresearchcouncil(erc)scientificassessmentofprojects, .
+panelist,europeanresearchcouncil(erc)advancedgrant, , , .
+visitor/panelmemberforresearchassessmentexercise,kth,sweden, .
+panelist,swedishresearchcouncil, .
+habilitationreviewer/examiner(france),s.perlaza( ),m.letreust( ).
+numberofpromotion/tenureevaluations> 40
+reviewer
+ieeetransactionsoninformationtheory
+ieeetransactionsoncommunications
+ieeetransactionsonwirelesscommunications
+ieeejournalonselectedareasincommunications
+ieeetransactionsonsignalprocessing
+ieeetransactionsonvehiculartechnology
+ieee/acmtransactionsonnetworking
+ieeecommunicationsletters
+ieeetransactionsoncircuitsandsystemsi
+eurasipjournalonwirelesscommunicationsandnetworking
+isit,itw,icc,globecom,wcnc,pimrc,infocom,percom,mobicom,vtc
+phdthesiscommitteemembership
+– dissertationcommitteemember: x.chen, ,upenn,advisor: s.bidhokti
+– dissertationcommitteemember: j.tang, ,ohiostate,advisor: a.gupta
+– dissertationcommitteemember: m.hussein, ,pennstate,advisor: v.cadambe
+– dissertationcommitteemember: b.wang, ,pennstate,advisor: j.yang
+– opponent: rongdu,kthroyalinstituteoftechnology, ,advisor: c.fischione
+– externalcommitteemember: amalhyadi,kaust, ,advisor: m.s.alouini
+– dissertationfirstopponent: zhijieren,tudelft, ,advisors: m.gastparandj.weber
+– dissertationreferee: shashankvatedka,indianinstituteofscience, ,advisor: n.kashyap
+– dissertationcommitteemember: michaellin, ,pennstate,advisor: t.laporta
+– externalexaminer: rajithasenanayake,universityofmelbourne, ,advisor: j.evans
+– dissertationcommitteemember: sakibchowhudry, ,pennstate,advisor: m.kavehrad
+– dissertationcommitteemember: srikartati, ,pennstate,advisor: t.laporta
+– dissertationcommitteemember: qinghuali, ,pennstate,advisor: g.cao
+– dissertationcommitteemember: gangxiong, ,lehighuniversity,advisor: s.kishore
+– dissertationcommitteemember: rajukumar, ,advisor: t.laporta
+a.yener 45
+– dissertationcommitteemember: jackchuang, ,advisor: r.narayanan
+– dissertationcommitteemember: gyoughwankim, ,carnegiemellon,advisor: r.negi
+– dissertationcommitteemember: patricktraynor, ,advisor: p.mcdaniel
+– dissertationcommitteemember: sangwoolee, ,advisor: m.kavehrad
+– dissertationcommitteemember: ozcanozturk, ,advisor: m.kandemir
+– dissertationcommitteemember: jaesheungshin, ,advisor: t.laporta
+– dissertationcommitteemember: matthewpirretti, ,advisor: n.vijaykrishnan
+– dissertationcommitteemember: hendrasaputra, ,advisor: m.kandemir
+– dissertationcommitteemember: wenshengzhang, ,advisor: g.cao
+– dissertationcommitteemember: liangzhongyin, ,advisor: g.cao
+– dissertationcommitteemember: haozhu, ,pennstate,advisor: g.cao
+– dissertationcommitteemember: byungtaekang, ,pennstate,advisor: j.irwin
+– dissertationexternalcommitteemember: rajnishsinha,rutgers, ,advisor: r.yates
+– dissertationcommitteemember: xianggao,lehighuniversity, ,advisor: t.boult
+– externalexaminer: l.g.f.trichard,univ. ofsydney, ,advisors: j.evansandi.collings
+teaching
+ohiostate,ece6001: probabilityandrandomvariables
+semesterstaught: autumn2022
+enrollment: 70
+description: graduatelevelcorecoveringprobability,randomvariablesandprocesses.
+ohiostate,ece7001: detection,estimationandstochasticprocesses
+semesterstaught: spring2024
+enrollment: 8
+description: follow-upto6001,graduateleveldetectionandestimationtheory.
+ohiostate,ece7003: wirelesscommunicationtheory
+semesterstaught: autumn2021
+enrollment: 9
+description: graduatelevelwirelessfoundations,revisedtoinclude5gand6gtopicsbyprof. yener.
+ohiostate,ece7005: informationtheory
+semesterstaught: spring2021,spring2023
+enrollment: 17,9
+description: graduatelevelinformationtheory.
+pennstate,ee360: communicationsystems
+semesterstaught: spring2003,spring2008,fall2012,spring2014,spring2019
+enrollment: 32,23,43,35,46
+a.yener 46
+description: juniorlevelcommunicationscourseemphasizinganalog/digitalmodulationtechniques.
+revisedtoincludecontemporarymaterialinspring2019byprof. yener.
+pennstate,ee497a:fundamentalsofwirelesscommunications
+semesterstaught: spring2004,spring2005,spring2007. spring2010
+enrollment: 35,17,13,11
+description: seniorlevelwirelesscommunications. introducedanddevelopedbyprof. yener.
+pennstate,ee497b:probabilityandrandomprocessesforelectricalandcomputerengineers
+semesterstaught: spring2016
+enrollment: 22
+description: junior/seniorlevelstatisticselective,inhouseversion.
+pennstate,ee560: stochasticprocessesandestimation
+semesterstaught: fall2006,fall2010,fall2018
+enrollment: 57,39,26
+description: graduatelevelprobability,randomvariablesandrandomprocesses. corecourseforthe
+phdcandidacyexamforthefollowingsub-areasofthesignalsandsystemsarea: communications,
+networking,signalprocessing,imageprocessing.
+pennstate,ee561: informationtheory
+semesterstaught: fall2007,fall2009,spring2011,spring2015,spring2018
+enrollment: 15,17,12,9,10
+description: graduatelevelinformationtheory.
+pennstate,ee562: detectionandestimationtheory
+semestertaught: fall2002
+enrollment: 10
+description: graduateleveldetectionandestimationtheory.
+pennstate,ee568: digitalcommunications-i
+semesterstaught: fall2003,fall2004,fall2005
+enrollment: 21,18,11
+description: graduateleveldigitalcommunications.
+pennstate,ee569: digitalcommunications-ii
+semesterstaught: spring2012
+enrollment: 5
+description: advancedgraduateleveldigitalcommunications.
+pennstate,ee597c:emergingtopicsinnetworkedsystems
+semestertaught: fall2013,fall2019
+enrollment: 5,5
+description: graduatelevel(advanced);heavyresearchcomponent. developedbyprof. yener.
+a.yener 47
+pennstate,ee597e:multiuserwirelesscommunications
+semestertaught: spring2006
+enrollment: 17
+description: graduatelevel(advanced);heavyresearchcomponent. developedbyprof. yener.
+pennstate,ee597j:spreadspectrumcommunications
+semestertaught: spring2002
+enrollment: 25
+description: graduate level course emphasizing the principles and performance of spread spectrum
+basedcommunicationsystems.
+lehigh,ece341: fundamentalsofwirelesscommunications
+semestertaught: fall2000
+enrollment: 16
+description: senior/first-year graduate course. developed by prof. yener. course taught as ece
+350&ece450(specialtopics)infall2000,subsequentlynamedece341asapermanentcourse.
+lehigh,ece450: codedivisionmultipleaccesssystems
+semestertaught: spring2001
+enrollment: 11
+description: advancedgraduatecourseemphasizingphysicallayertechniquesforcdmasystems.
+university service
+ohiostate
+collegepromotionandtenurecommittee,co-chair,collegeofengineering( - )
+researchsecuritygovernanceboard,memberinleadership,universitylevel( -present)
+strategic plan working group, pillar 3: shape our research activities to optimize collaborative discovery
+attheedgesandintersectionsofdisciplines,memberandco-lead,collegeofengineering( )
+collegepromotionandtenurecommittee,member,collegeofengineering( )
+collegeresearchcommittee,member,collegeofengineering( -present)
+womenfacultyadvisoryboardtothedean,member,collegeofengineering( -present)
+awardscommittee,member,ecedepartment( -present)
+graduateadmissionscommittee,member,ecedepartment( -present)
+advisorycommittee,member,ecedepartment( - )
+personnelcommittee,member,ecedepartment( - )
+graduatecommittee,member,ecedepartment( - )
+a.yener 48
+pennstate
+tenureandpromotioncommitteeoftheschoolofeecs,chair( )
+tenureandpromotioncommitteeoftheschoolofeecs,member( - )
+schoolofeecsstrategicplanningcommittee,member( )
+advancementofwomeninengineering(awe)workshoporganizer,collegeofengineering( )
+eedepartmentsearchcommitteeincommunicationsandnetworking,chair( )
+collegeofengineeringstrategicthrustresearchteams(start),leaderforcyberenvironments( )
+graduatecouncil,pennstate,collegeofengineering,representative(alternate)( - )
+collegeofengineeringstrategicthrustworkinggrouponcyber-environments,member( )
+schoolofeecsheadsearchcommittee,member( - )
+eedepartmentsearchcommittee,member( - )
+eedepartmentsearchcommittee,member( - )
+networkedsystemsfacultypositionsearchcommittee,member( - )
+cyber-physicalsystemsfacultypositionsearchcommittee,member( - )
+schoolofeecsstudycommittee,member( )
+eedepartmentsysadminsearchcommittee,member( )
+administrative review committee of civil engineering dept. head, college of engineering, member
+( - )
+eedepartmentheadsearchcommittee,member( - )
+sabbaticalreviewcommitteeforcollegeofengineering,memberthenchair( - )
+eedepartmentaasearchcommittee,member( - )
+coordinatorofphdcandidacyexamforsignalsandsystems( - )
+strategicplanningtaskforceoninformationtechnologiesandcyberinfrastructure,collegeofengineer-
+ing,member( - )
+organizerofthesignalsandsystemsareaseminars,eedepartment( - )
+graduatecouncil,memberalternate(elected),collegeofengineering( - )
+colloquiumorganizingcommittee,eedepartment,member( - )
+undergraduatecurriculumcommittee,eedepartment,member( - )
+lastupdated,march31, .

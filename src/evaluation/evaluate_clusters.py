@@ -12,6 +12,8 @@ evaluates cluster quality using:
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import davies_bouldin_score
+from sklearn.decomposition import PCA
+import umap
 import os
 
 
@@ -25,6 +27,18 @@ labels = np.load(LABEL_PATH)
 
 print("Loaded embeddings:", embeddings.shape)
 print("Loaded labels:", labels.shape)
+
+# PCA (for similarity metrics)
+pca = PCA(n_components=50)
+embeddings_pca =pca.fit_transform(embeddings)
+
+# UMAP space (for clustering evaluation: DB index)
+reducer = umap.UMAP(n_neighbors=5,n_components=20,min_dist=0.0,metric="cosine",random_state=42)
+embeddings_umap = reducer.fit_transform(embeddings_pca)
+
+print("Transformed embeddings for evaluation:")
+print("PCA shape ", embeddings_pca.shape)
+print("UMAP shape ", embeddings_umap.shape)
 
 # noise ratio
 num_noise =list(labels).count(-1)
@@ -47,21 +61,20 @@ for cid in cluster_ids:
 # intra cluster similarity
 
 print("\nIntra-cluster similarity:")
-
 for cid in cluster_ids:
-    cluster_points =embeddings[labels==cid]
-
+    cluster_points =embeddings_pca[labels==cid]
     if len(cluster_points) > 1:
-        sim_matrix =cosine_similarity(cluster_points)
-        mean_sim =np.mean(sim_matrix)
+        sim_matrix = cosine_similarity(cluster_points)
+        # remove self-similarity and compute mean excluding diagonal
+        np.fill_diagonal(sim_matrix, 0)
+        mean_sim = np.sum(sim_matrix) / (sim_matrix.size - len(sim_matrix))
         print(f"Cluster {cid}: {round(mean_sim,3)}")
 
 # inter cluster similarity 
 print("\nInter-cluster centroid similarity:")
-
 centroids =[]
 for cid in cluster_ids:
-    centroid =np.mean(embeddings[labels == cid],axis=0)
+    centroid =np.mean(embeddings_pca[labels == cid],axis=0)
     centroid =centroid/np.linalg.norm(centroid)
     centroids.append(centroid)
 
@@ -75,10 +88,13 @@ if len(centroids)>1:
 if len(cluster_ids)>1:
     intra_values =[]
     for cid in cluster_ids:
-        cluster_points =embeddings[labels == cid]
+        cluster_points =embeddings_pca[labels == cid]
         if len(cluster_points)>1:
             sim_matrix =cosine_similarity(cluster_points)
-            intra_values.append(np.mean(sim_matrix))
+            # remove self-similarity and compute mean excluding diagonal
+            np.fill_diagonal(sim_matrix, 0)
+            mean_sim = np.sum(sim_matrix)/(sim_matrix.size - len(sim_matrix))
+            intra_values.append(mean_sim)
 
     mean_intra = np.mean(intra_values)
     mean_inter = np.mean(centroid_sim[np.triu_indices_from(centroid_sim,k=1)])
@@ -102,7 +118,7 @@ Interpretation:
 valid_mask= labels != -1
 
 if len(set(labels[valid_mask]))> 1:
-    db_score =davies_bouldin_score(embeddings[valid_mask],labels[valid_mask])
+    db_score =davies_bouldin_score(embeddings_umap[valid_mask],labels[valid_mask])
     print("\nDavies-Bouldin Index:",round(db_score,3))
     print()
 else:

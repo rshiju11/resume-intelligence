@@ -1,0 +1,137 @@
+te-yenwu
+assistant professor
+myresearchliesintheintersectionareasofhuman-computerinteraction,cyber-physicalsystems,andai
+technologies. mycareergoalistocreatesustainable,scalable,andintelligentubiquitouscomputingsys-
+temsthatcanfacilitatehumaninteractions,enhancewell-beingandpromoteenvironmentalresponsive-
+nessonalargescale.toachievethat,ihaveenabledintelligentmaterialsthatcan1)seamlesslysenseuser
+activitiesandcontexts,2)beusedwithestablishedmethodstocreateasmartenvironment,and3)operate
+withoutembeddedbatteriesandsilicon-basedintegratedcircuits.inaddition,ihavealsoworkedonother
+hcitopics, suchaswearablesensingtechnology, textentrysystemandhuman-aiinteractionsinvr/ar.
+myresearchisgenerallypublishedintophcivenuessuchaschianduist,whileialsocontributetotop
+aiconferencessuchasiclr.myresearchhasattractedconsiderablepublicinterestsviainternetnews(e.g.
+engadget,times).
+professional experience
+assistantprofessor,floridastateuniversity tallahassee,fl
+directthemakexlabinthedepartmentofcomputerscience. june. -now
+researchintern,metarealitylab redmond,wa
+developanewwearableinputsystemformetaverse. june. -sept.
+researchintern,microsoftresearch redmond,wa
+contributeanewwearablesystemandinfrastructureforsmartgarments. june. -sept.
+researchintern,microsoftresearch redmond,wa
+inventanewsmartpocketforenablingtouchandcontextualinteractions,withfilingonepatentandone
+june. -sept.
+paperpublished.
+education
+dartmouthcollege hanover,nh,usa
+phdofscience-computerscience sept. -june.
+xdiscoverylab.advisor:xing-dongyang
+nationaltaiwanuniversity taipei,taiwan
+masterofscience-computerscienceandengineering sept. -sept.
+mobile&hcilab.advisor:mikey.chen
+nationaltaipeiuniversityoftechnology taipei,taiwan
+bachelorofscience-computerscienceandengineering sept. -sept.
+bestundergraduateresearchprojectaward.
+selected publications 1
+[c26]bit:battery-free,ic-lessandwirelesssmarttextileinterfaceandsensingsystem
+proceedingsofthe43rdannualacmconferenceonhumanfactorsincomputingsystems.(chi’25)
+weiyexu,tonyli,yuntaowang,xing-dongyang,te-yenwu
+1inthefieldofhuman-computerinteraction,theacmconferenceonhumanfactorsincomputingsystems(chi)and
+acmsymposiumonuserinterfacesoftwaretechnology(uist)areconsideredtoptierforumsfortimelyandimpactful
+work,whichhaveanannualacceptancerateofaround20-25%.
+[c25]intellilining:activitysensingthroughtextileinterliningsensorsusingtengs
+proceedingsofthe43rdannualacmconferenceonhumanfactorsincomputingsystems.(chi’25)
+mahdieghaneezabadi,adityashekharnittala,xing-dongyang,te-yenwu
+[c24]tagnoo:enablingsmartroom-scaleenvironmentswithrfid-augmentedplywood
+proceedingsofthe42ndannualacmconferenceonhumanfactorsincomputingsystems.(chi’24)
+yuningsu,tingyuzhang,jiuenfeng,yonghaoshi,xing-dongyang,te-yenwu
+[c23]woodowel:electrodeisolationforelectromagneticshieldingintriboelectricplywoodsensors
+proceedingsofthe42ndannualacmconferenceonhumanfactorsincomputingsystems.(chi’24)
+yonghaoshi,chenzhengli,yuningsu,xing-dongyang,te-yenwu
+[c22]mind’seye:groundedlanguagemodelreasoningthroughsimulation
+11thinternationalconferenceonlearningrepresentations.(iclr’23)
+ruiboliu,jasonwei,shixiangshanegu,te-yenwu,soroushvosoughi,clairecui,dennyzhou,andrewm.dai
+[c21]xair:aframeworkofexplainableaiineverydayar.
+proceedingsofthe41stannualacmconferenceonhumanfactorsincomputingsystems.(chi’23)
+xuhaixu,annayu,tanyar.jonker,kashyaptodi,feiyulu,xunqian,joãomarceloevangelistabelo,tianyiwang,michelleli,aranmun,te-yen
+wu,junxiaoshen,tingzhang,narinekokhlikyan,fultonwang,paulsorenson,sophiekim,hrvojebenko
+[c20]iwood:makeablevibrationsensorforinteractiveplywood.
+proceedingsofthe35thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’22)
+te-yenwu,xing-dongyang
+[c19]nfcstack:identifiablephysicalbuildingblocksthatsupportconcurrentconstructionandfrictionless
+interaction.
+proceedingsofthe35thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’22)
+chi-junglee,chi-huanchiang,ling-chienyang,te-yenwu,rong-haoliang,bing-yuchen
+[c18]body-centricnfc:body-centricinteractionwithnfcdevicesthroughnear-fieldenabledclothing.
+indesigninginteractivesystemsconference2022(dis’22)
+te-yenwu,huizhongye,chi-junglee,xing-dongyang,bing-yuchen,rong-haoliang
+[c17]accessiblecircuits:adaptiveadd-oncircuitcomponentsforpeoplewithblindnessorlowvision.
+proceedingsofthe39thannualacmconferenceonhumanfactorsincomputingsystems.(chi’21)
+ruei-chechang,wen-pingwang,chi-huanchiang,te-yenwu,zheerxu,justinluo,bing-yuchen,xing-dongyang
+[c16]projecttasca:enablingtouchandcontextualinteractionswithapocket-basedtextilesensor.
+proceedingsofthe39thannualacmconferenceonhumanfactorsincomputingsystems.(chi’21)
+te-yenwu,zheerxu,xing-dongyang,stevehodge,teddyseyed
+[c15]capacitivo:contact-basedobjectrecognitiononinteractivefabricsusingcapacitivesensing.
+proceedingsofthe33thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’20)
+te-yenwu,lutan,yujizhang,teddyseyed,xing-dongyang
+[c14]fabriccio:touchlessgesturalinputoninteractivefabrics.
+proceedingsofthe38thannualacmconferenceonhumanfactorsincomputingsystems.(chi’20)
+te-yenwu,shutongqi,junchichen,mujieshang,jungong,teddyseyed,xing-dongyang
+[c13]tangiblecircuits:aninteractive3dprintedcircuiteducationtoolforpeoplewithvisualimpairments.
+proceedingsofthe38thannualacmconferenceonhumanfactorsincomputingsystems.(chi’20honorablementionaward)
+joshurbandavis,te-yenwu,boshi,hanyilu,athinapanotopoulou,emilywhiting,xing-dongyang
+[c12]zippro:thedesignandimplementationofaninteractivezipper.
+proceedingsofthe38thannualacmconferenceonhumanfactorsincomputingsystems.(chi’20)
+pin-sungku,jungong,te-yenwu,yixinwei,yiwentang,barrettens,xing-dongyang
+[c11]threadsense:locatingtouchonanextremelythininteractivethread.
+proceedingsofthe38thannualacmconferenceonhumanfactorsincomputingsystems.(chi’20)
+pin-sungku,qijiashao,te-yenwu,jungong,ziyanzhu,xiazhou,xing-dongyang
+[c10]bitiptext:bimanualeyes-freetextentryonafingertipkeyboard
+proceedingsofthe38thannualacmconferenceonhumanfactorsincomputingsystems.(chi’20)
+zheerxu,weihaochen,dongyangzhao,jiehuiluo,te-yenwu,jungong,sichengyin,jialunzhai,xing-dongyang
+[c9]proxino:enablingprototypingofvirtualcircuitswithphysicalproxies.
+proceedingsofthe32thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’19)
+te-yenwu,jungong,teddyseyed,xing-dongyang
+[c8]tiptext,eyes-freetextentryonafingertipkeyboard.
+proceedingsofthe32thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’19bestpaperaward)
+zheerxu,puichungwong,jungong,te-yenwu,adityashekharnittala,xiaojunbi,jürgensteimle,hongbofu,keningzhu,xing-dongyang
+[c7]arpilot:6dofdirect-manipulationinterfacefordronevideographyusingaugmentedrealityonmobile
+devices.
+proceedingsofthe20thinternationalconferenceonhuman-computerinteractionwithmobiledevicesandservices(mobilehci’18)
+yu-anchen,te-yenwu,timchang,junyouliu,yuan-changshieh,leonyulunhsu,ming-weihsu,paultaele,neng-haoyu,mikey.chen
+[c6]activeergo:automaticandpersonalizedergonomicsusingself-actuatingfurniture
+proceedingsofthe36thannualacmconferenceonhumanfactorsincomputingsystems(chi’18)
+yu-chianwu,te-yenwu,yu-chihlin,pin-sungku,paultaele,po-enlai,bryanwang,mikey.chen
+[c5]speechbubbles:enhancingthecaptioningexperienceforuserswithhearing-impairmentingroup
+conversations.
+proceedingsofthe36thannualacmconferenceonhumanfactorsincomputingsystems(chi’18)
+ming-meihsu,yi-haopeng,ting-tulin,leonhsu,po-enlai,paultaele,te-yenwu,hsien-huitang,mikey.chen
+[c4]circuitsense:automaticsensingofphysicalcircuitsandgenerationofvirtualcircuitstosupportsoftware
+tools.
+proceedingsofthe32thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’17)
+te-yenwu,bryanwang,jiun-yulee,hao-pingshen,yu-chianwu,yu-anchen,pin-sungku,ming-weihsu,yu-chihlin,mikey.chen
+[c3]currentviz:sensingandvisualizingelectriccurrentofbreadboardedcircuits.
+proceedingsofthe30thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’17)
+te-yenwu,hao-pingshen,yu-chianwu,yu-anchen,pin-sungku,ming-weihsu,jun-youliu,yu-chihlin,mikey.chen.
+[c2]circuitstack:supportingrapidprototypingandevolutionofelectroniccircuits.
+proceedingsofthe29thannualacmsymposiumonuserinterfacesoftwareandtechnology.(uist’16)
+chiuanwang,hsuan-mingyeh,bryanwang,te-yenwu,hsin-rueytsai,rong-haoliang,yi-pinghung,mikey.chen.
+[c1]giggler:anintuitive,real-timeintegratedwirelessin-earmonitoringandpersonalmixingsystemusing
+mobiledevices.
+proceedingsofthe23rdacminternationalconferenceonmultimedia(mm’15)
+andriesvalstar,min-chiehhsiu,te-yenwu,mikey.chen
+awards & grants
+firstyearassistantprofessor(fyap)grant,fsu
+phdfellowshipfinalist,microsoft
+selected patents
+[p2]asmartfabrictechniquethatrecognizesmetallicandnon-metallicobjects,aswellastouchinput(microsoft)
+[p1]enablingprototypingofvirtualcircuitswithphysicalproxies. (dartmouth)
+academic services
+uist2025workshopchairs,organizers
+chi2025 programcommitteeassociatechair(ac),paper
+uist2024programcommittee,paper
+uist2024workshopchairs,organizers
+chi2024 programcommitteeassociatechair(ac),paper
+uist2023datachairs,organizers
+chi2021 programcommitteeassociatechair(ac),latebreakingwork
+chi2020 programcommitteeassociatechair(ac),latebreakingwork
+reviewer(95reviews),chi,uist,imwut,mobilehci,tei,cscw,iss,nature

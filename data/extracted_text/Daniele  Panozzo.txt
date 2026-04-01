@@ -1,0 +1,1364 @@
+
+geometric 
+computing
+lab @ nyu
+daniele
+panozzo
+full cv
+metriccomputing.org
+contact info:
+courant institute of
+-3208 mathematical
+sciences
+new york university
+nstitute of mathematical
+60 5th ave, 5th floor
+new york, ny 10011
+university
+phone:
+e, 5th floor
+email:
+, ny 10011
+i am an associate professor at the
+up. courant institute of mathematical
+sciences at new york university.
+before joining nyu, i was a senior
+researcher at eth zurich, working
+in the interactive geometry lab. i
+earned my bsc and ph.d. in
+computer science from the
+university of genoa ( , ).
+my research interests are in
+meshing, finite element
+simulation, digital fabrication, and
+geometry processing. my doctoral
+thesis was awarded the
+eurographics annual award for
+best ph.d. thesis in . my
+research was awarded the
+eurographics young
+researcher award in , the
+nsf career award in , and a
+sloan research fellowship in
+.
+publications
+optimized shock-
+protecting
+microstructures
+zizhou huang,
+daniele panozzo, denis zorin,
+acm transaction on graphics
+(siggraph asia),
+[paper] [video] [code]
+cut-cell
+microstructures for
+two-scale
+structural
+optimization
+davi colli tozoni,
+zizhou huang, daniele panozzo,
+denis zorin,
+sgp,
+[paper] [code]
+soft pneumatic
+actuator design
+using differentiable
+simulation
+arvi gjoka, espen
+knoop, moritz bacher, denis
+zorin, daniele panozzo,
+siggraph,
+[paper] [video] [supplemental
+material] [code]
+differentiable
+solver for time-
+dependent
+deformation
+problems with
+contact
+zizhou huang, davi colli tozoni,
+arvi gjoka, zachary ferguson,
+teseo schneider, daniele
+panozzo, denis zorin,
+acm transaction on graphics,
+[paper] [video] [code] [data]
+image sculpting:
+precise object
+editing with 3d
+geometry control
+jiraphon
+yenphraphai, xichen
+pan, sainan liu,
+daniele panozzo, saining xie,
+cvpr,
+[paper] [website]
+paleoscan: low-
+cost easy-to-use
+high-volume fossil
+scanning
+claudio t. silva, yurii
+piadyk, joao rulff, daniele
+panozzo, maria beatriz silva,
+antonio alamo feitosa saraiva,
+naiara cipriano oliveira, flaviana
+jorge de lima, renan alfredo
+machado bantim, otavio jose de
+freitas gomes, akinobu
+watanabe,
+chi,
+[paper] [video]
+a systematic comparison
+between febio and polyfem for
+biomechanical systems
+liam martin, pranav
+jain, zachary
+ferguson, torkan
+gholamalizadeh,
+faezeh
+moshfeghifar, kenny
+erleben, daniele panozzo, steven
+abramowitch, teseo schneider,
+computer methods and programs
+in biomedicine,
+[paper]
+constrained
+delaunay
+tetrahedrization: a
+robust and
+practical approach
+lorenzo diazzi, daniele panozzo,
+amir vaxman, marco attene,
+acm transaction on graphics
+(siggraph asia),
+[paper] [video] [code]
+bezier spline
+simplification using
+locally integrated
+error metrics
+siqi wang, chenxi
+liu, daniele panozzo, denis zorin,
+alec jacobson,
+siggraph asia,
+[paper] [video]
+in-timestep
+remeshing for
+contacting
+elastodynamics
+zachary ferguson,
+teseo schneider, danny m.
+kaufman, daniele panozzo,
+acm transaction on graphics
+(siggraph), (dk and dp are co-
+corresponding authors),
+[paper] [video] [code] [data]
+high-order
+incremental
+potential contact
+for elastodynamic
+simulation on
+curved meshes
+zachary ferguson,
+pranav jain, denis zorin, teseo
+schneider, daniele panozzo,
+siggraph,
+[paper] [video] [code] [data]
+4d force detection
+of cell adhesion
+and contractility
+nafsika chala, xinyu
+zhang, tomaso
+zambelli, ziyi zhang,
+teseo schneider, daniele
+panozzo, dimos poulikakos, aldo
+ferrari,
+nanoletters,
+[paper] [code]
+declarative
+specification for
+unstructured mesh
+editing algorithms
+zhongshi jiang,
+jiacheng dai, yixin hu, yunfan
+zhou, jeremie dumas, qingnan
+zhou, gurkirat singh bajwa, denis
+zorin, daniele panozzo, teseo
+schneider,
+acm transaction on graphics
+(siggraph asia),
+[paper] [code]
+a cross-platform
+benchmark for
+interval
+computation
+libraries
+xuan tang, zachary
+ferguson, teseo schneider, denis
+zorin, shoaib kamil, daniele
+panozzo,
+ppam,
+[paper] [code]
+libhip: an open-access hip joint
+model repository suitable for
+finite element method
+simulation
+faezeh
+moshfeghifar,
+torkan
+gholamalizadeh,
+zachary ferguson,
+teseo schneider, michael
+bachmann nielsen, daniele
+panozzo, sune darkner, kenny
+erleben,
+computer methods and programs
+in biomedicine,
+[paper] [code/data]
+which cross fields
+can be
+quadrangulated?
+global
+parameterization
+from prescribed holonomy
+signatures
+hanxiao shen, leyi zhu, ryan
+capouellez, daniele panozzo,
+marcel campen, denis zorin,
+transactions on graphics
+(siggraph),
+[paper]
+def: deep
+estimation of sharp
+geometric features
+in 3d shapes
+albert matveev,
+ruslan rakhimov,
+alexey artemov, gleb
+bobrovskikh, vage egiazarian, emil
+bogomolov, daniele panozzo,
+denis zorin, evgeny burnaev,
+transactions on graphics
+(siggraph),
+[paper] [code/data]
+open-full-jaw: an
+open-access
+dataset and
+pipeline for finite
+element models of
+human jaw
+torkan gholamalizadeh, faezeh
+moshfeghifar, zachary ferguson,
+teseo schneider, daniele
+panozzo, sune darkner, masrour
+makaremi, francois chan, peter
+lampel sondergaard, kenny
+erleben,
+computer methods and programs
+in biomedicine,
+[paper] [code/data]
+sparsity-specific
+code optimization
+using expression
+trees
+philipp herholz,
+xuan tang, teseo
+schneider, shoaib
+kamil, daniele panozzo, olga
+sorkine-hornung,
+transation on graphics,
+[paper] [code]
+rear traction forces
+drive adherent
+tissue migration in
+vivo
+naoya yamaguchi,
+ziyi zhang, teseo
+schneider, biran
+wang, daniele panozzo, holger
+knaut,
+nature cell biology,
+[paper] [code]
+a large scale
+comparison of
+tetrahedral and
+hexahedral
+elements for finite
+element analysis
+teseo schneider, yixin hu, xifeng
+gao, jeremie dumas, denis zorin,
+daniele panozzo,
+transaction on graphics,
+[paper] [code] [data]
+fast and exact root parity for
+continuous collision detection
+bolun wang, zachary ferguson,
+xin jiang, marco attene, daniele
+panozzo, teseo schneider,
+computer graphics
+forum
+(eurographics),
+[paper] [code]
+acorns: an easy-
+to-use code
+generator for
+gradients and
+hessians
+deshana desai, etai shuchatowitz,
+zhongshi jiang, teseo schneider,
+daniele panozzo,
+softwarex,
+[paper] [code]
+a large-scale
+benchmark for the
+incompressible
+navier-stokes
+equations
+zizhou huang,
+teseo schneider,
+minchen li, chenfanfu jiang, denis
+zorin, daniele panozzo,
+arxiv,
+[paper] [website]
+hardware design and accurate
+simulation for benchmarking of
+3d reconstruction algorithms
+sebastian koch,
+yurii piadyk, markus
+worchel, marc
+alexa, claudio t.
+silva, denis zorin,
+daniele panozzo,
+neural information processing
+systems (neurips ) track on
+datasets and benchmarks,
+[paper] [website]
+efficient and
+robust discrete
+conformal
+equivalence with
+boundary
+marcel campen,
+ryan capouellez,
+hanxiao shen, leyi zhu, daniele
+panozzo, denis zorin,
+acm transaction on graphics
+(siggraph asia),
+[paper] [code]
+an extensible
+benchmark suite
+for learning to
+simulate physical
+systems
+karl otness, arvi
+gjoka, joan bruna,
+daniele panozzo, benjamin
+peherstorfer, teseo schneider,
+denis zorin,
+neural information processing
+systems (neurips ) track on
+datasets and benchmarks,
+[paper] [code] [data]
+isogeometric high
+order mesh
+generation
+teseo schneider,
+daniele panozzo,
+xianlian zhou,
+computer methods in applied
+mechanics and engineering,
+[paper]
+intersection-free
+rigid body
+dynamics
+zachary ferguson,
+minchen li, teseo
+schneider, francisca
+gil ureta, timothy
+langlois, chenfanfu jiang, denis
+zorin, danny m. kaufman, daniele
+panozzo,
+acm transaction on graphics
+(siggraph),
+[paper] [video 1] [video 2]
+[website]
+bijective and coarse high-order
+tetrahedral meshes
+zhongshi jiang, ziyi
+zhang, yixin hu,
+teseo schneider,
+denis zorin, daniele
+panozzo,
+acm transaction on
+graphics (siggraph),
+[paper] [code]
+orienting point
+clouds with dipole
+propagation
+gal metzer, rana
+hanocka, denis
+zorin, raja giryes, daniele
+panozzo, daniel cohen-or,
+acm transaction on graphics
+(siggraph),
+[paper] [video] [website]
+robust &
+asymptotically
+locally optimal
+uav-trajectory
+generation based
+on spline subdivision
+ruiqi ni, teseo schneider, daniele
+panozzo, zherong pan, xifeng
+gao,
+ieee international conference on
+robotics and automation (icra),
+[paper] [video] [website]
+a large scale
+benchmark and an
+inclusion-based
+algorithm for
+continuous
+collision detection
+bolun wang, zachary ferguson,
+teseo schneider, xin jiang, marco
+attene, daniele panozzo,
+acm transaction on graphics,
+[paper] [video] [ccd code]
+[benchmark code]
+optimal control for
+electromagnetic
+haptic guidance
+systems
+thomas langerak,
+juan jose zarate,
+velko vechev, david lindlbauer,
+daniele panozzo, otmar hilliges,
+uist,
+[paper] [video 1] [video 2] [video
+3]
+bijective projection
+in a shell
+zhongshi jiang,
+teseo schneider,
+denis zorin, daniele
+panozzo,
+acm transaction on graphics
+(siggraph asia),
+[paper] [code]
+dhfslicer: double
+height-field slicing
+for milling fixed-
+height materials
+jinfan yang,
+chrystiano araujo, nicholas
+vining, zachary ferguson, enrique
+rosales, daniele panozzo, sylvain
+lefebvre, paolo cignoni, alla
+sheffer,
+acm transaction on graphics
+(siggraph asia),
+[paper] [supplemental material]
+eggs: sparsity-
+specific code
+generation
+xuan tang, teseo
+schneider, shoaib
+kamil, aurojit panda, jinyang li,
+daniele panozzo,
+computer graphics forum (sgp),
+[paper] [code] [talk]
+a low-parametric
+rhombic
+microstructure
+family for irregular
+lattices
+davi colli tozoni, jeremie dumas,
+zhongshi jiang, julian panetta,
+daniele panozzo, denis zorin,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [supplemental]
+[talk]
+fast tetrahedral
+meshing in the wild
+yixin hu, teseo
+schneider, bolun
+wang, denis zorin,
+daniele panozzo,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [figures] [data]
+[talk]
+exact and efficient
+polyhedral
+envelope
+containment check
+bolun wang, teseo
+schneider, yixin hu, marco attene,
+daniele panozzo,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [data] [talk]
+incremental potential contact:
+intersection- and inversion-free,
+large-deformation dynamics
+minchen li, zachary
+ferguson, teseo
+schneider, timothy
+langlois, denis
+zorin, daniele
+panozzo, chenfanfu
+jiang, danny m.
+kaufman,
+acm transaction on graphics
+(siggraph),
+[paper] [video] [supplemental
+video] [code] [s1: technical] [s2:
+comparisons] [s3: statistics]
+[website]
+unwind: interactive
+fish straightening
+francis williams,
+alexander bock,
+harish doraiswamy, cassandra
+donatelli, kayla hall, adam
+summers, daniele panozzo,
+claudio t. silva,
+chi,
+[paper] [supplemental] [code]
+gradient dynamics
+of shallow
+univariate relu
+networks
+francis williams,
+matthew trager,
+claudio t. silva,
+daniele panozzo, denis zorin, joan
+bruna,
+neurips,
+[paper]
+cellogram: on-the-
+fly traction force
+microscopy
+tobias
+lendenmann, teseo
+schneider, jeremie
+dumas, marco
+tarini, apratim bajpai, weiqiang
+chen, dimos poulikakos, aldo
+ferrari, daniele panozzo,
+nanoletters,
+[paper] [website]
+half-space power
+diagrams and
+discrete surface
+offsets
+zhen chen, daniele
+panozzo, jeremie dumas,
+transaction on visualization and
+computer graphics,
+[paper] [code] [talk]
+geometric computing with
+python
+sebastian koch, teseo schneider,
+francis williams, chencheng li,
+daniele panozzo,
+siggraph course,
+[website]
+triwild: robust
+triangulation with
+curve constraints
+yixin hu, teseo
+schneider, xifeng
+gao, qingnan zhou, alec
+jacobson, denis zorin, daniele
+panozzo,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [data]
+progressive
+embedding
+hanxiao shen,
+zhongshi jiang,
+denis zorin, daniele
+panozzo,
+acm transaction on
+graphics (siggraph),
+[paper] [code] [data]
+interactive hand
+pose estimation
+using a stretch-
+sensing soft glove
+oliver glauser,
+shihao wu, daniele panozzo,
+otmar hilliges, olga sorkine-
+hornung,
+acm transaction on graphics
+(siggraph),
+[paper] [video]
+curvislicer: slightly
+curved slicing for 3-
+axis printers
+jimmy etienne,
+nicolas ray, daniele
+panozzo, samuel
+hornus, charlie c. l.
+wang, jonas martinez, sara
+mcmains, marc alexa, bryan
+wyvill, sylvain lefebvre,
+acm transaction on graphics
+(siggraph),
+[paper]
+feature preserving
+octree-based
+hexahedral
+meshing
+xifeng gao, hanxiao
+shen, daniele
+panozzo,
+computer graphics forum (sgp),
+[paper] [code] [data]
+abc: a big cad
+model dataset for
+geometric deep
+learning
+sebastian koch,
+albert matveev, zhongshi jiang,
+francis williams, alexey artemov,
+evgeny burnaev, marc alexa,
+denis zorin, daniele panozzo,
+cvpr,
+[paper] [supplemental] [website]
+[data]
+deep geometric
+prior for surface
+reconstruction
+francis williams,
+teseo schneider, claudio t. silva,
+denis zorin, joan bruna, daniele
+panozzo,
+cvpr,
+[paper] [supplemental] [code]
+deformation
+capture via soft
+and stretchable
+sensor arrays
+oliver glauser,
+daniele panozzo, otmar hilliges,
+olga sorkine-hornung,
+acm transaction on graphics,
+[paper] [video]
+poly-spline finite
+element method
+teseo schneider,
+jeremie dumas,
+xifeng gao, mario botsch, daniele
+panozzo, denis zorin,
+acm transaction on graphics,
+[paper] [code] [data]
+decoupling
+simulation
+accuracy from
+mesh quality
+teseo schneider,
+yixin hu, jeremie dumas, xifeng
+gao, daniele panozzo, denis
+zorin,
+acm transaction on graphics
+(siggraph asia),
+[paper] [code]
+tetrahedral
+meshing in the wild
+yixin hu, qingnan
+zhou, xifeng gao,
+alec jacobson, denis
+zorin, daniele panozzo,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [figure data] [10k
+input] [10k output surface
+meshes] [10k output tetrahedral
+meshes]
+stitch meshing
+kui wu, xifeng gao,
+zachary ferguson,
+daniele panozzo,
+cem yuksel,
+acm transaction on graphics
+(siggraph),
+[paper] [video] [code]
+generalized
+motorcycle graphs
+for imperfect quad-
+dominant meshes
+nico schertler,
+daniele panozzo,
+stefan gumhold, marco tarini,
+acm transaction on graphics
+(siggraph),
+[paper] [code] [supplemental]
+[data]
+axis-aligned height-
+field block
+decomposition of
+3d shapes
+alessandro muntoni,
+marco livesu, riccardo scateni,
+alla sheffer, daniele panozzo,
+acm transaction on graphics
+(tog),
+[paper] [code] [data] [website]
+surface networks
+ilya kostrikov,
+zhongshi jiang,
+daniele panozzo,
+denis zorin, joan
+bruna,
+cvpr (oral
+presentation),
+[paper] [supplemental] [code]
+libigl: prototyping
+geometry
+processing
+research in c++
+alec jacobson,
+daniele panozzo,
+siggraph asia
+course, sgp course,
+[slides] [code] [video]
+simplicial complex
+augmentation
+framework for
+bijective maps
+zhongshi jiang, scott
+schaefer, daniele
+panozzo,
+acm transactions on graphics
+(siggraph asia),
+[paper] [videos/data] [code]
+robust structure
+simplification for
+hex re-meshing
+xifeng gao, daniele
+panozzo, wenping
+wang, zhigang
+deng, guoning chen,
+acm transactions on graphics
+(siggraph asia),
+[paper] [videos/data] [code]
+position-based
+tensegrity design
+nico pietroni, marco
+tarini, amir vaxman,
+daniele panozzo,
+paolo cignoni,
+acm transactions on graphics
+(siggraph asia),
+[paper] [video] [data]
+autocuts:
+simultaneous
+distortion and cut
+optimization for uv
+mapping
+roi poranne, marco
+tarini, sandro
+huber, daniele panozzo, olga
+sorkine-hornung,
+acm transactions on graphics
+(siggraph asia),
+[paper] [video] [code]
+t-junctions in spline
+surfaces
+kestutis
+karciauskas, daniele
+panozzo, jorg
+peters,
+acm transactions on graphics,
+[paper] [code]
+robust hex-
+dominant mesh
+generation using
+field-guided
+polyhedral
+agglomeration
+xifeng gao, wenzel
+jakob, marco tarini, daniele
+panozzo,
+acm transactions on graphics
+(siggraph),
+[paper] [videos/data] [code]
+field-aligned online
+surface
+reconstruction
+nico schertler,
+marco tarini, wenzel jakob, misha
+kazhdan, stefan gumhold,
+daniele panozzo,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [code] [data]
+scalable locally
+injective maps
+michael rabinovich,
+roi poranne,
+daniele panozzo,
+olga sorkine-
+hornung,
+acm transactions on graphics,
+[paper] [video] [reference code]
+[optimized code] [data]
+how was it made?
+rig animation with
+a tangible and
+modular input
+device
+oliver glauser,
+benedek vartok, alex (wan-chun)
+ma, daniele panozzo, alec
+jacobson, otmar hilliges, olga
+sorkine-hornung,
+invited article acm interactions,
+[paper] [html] [demo hour]
+blended
+barycentric
+coordinates
+dmitry anisimov,
+daniele panozzo, kai
+hormann,
+computer aided geometric
+design (gmp),
+[paper]
+directional field
+synthesis, design,
+and processing
+amir vaxman,
+marcel campen,
+olga diamanti,
+mirela ben-chen, david bommes,
+klaus hildebrandt, daniele
+panozzo,
+siggraph and siggraph asia
+course,
+[github]
+digitally
+reconstructing the
+great parchment
+book: 3d recovery
+of fire-damaged
+historical
+documents
+kazim pal, nicola
+avery, pete boston, alberto
+campagnolo, caroline de stefani,
+helen matheson-pollock, daniele
+panozzo, matthew payne,
+christian schüller, chris
+sanderson, chris scott, philippa
+smith, rachael smither, olga
+sorkine-hornung, ann stewart,
+emma stewart, patricia stewart,
+melissa terras, bernadette walsh,
+laurence ward, liz yamada, tim
+weyrich,
+digital scholarship in the
+humanities,
+[paper]
+confocal reference
+free traction force
+microscopy
+martin bergert,
+tobias
+lendenmann,
+manuel zundel,
+alexander e. ehret, daniele
+panozzo, patrizia richner, david k.
+kim, stephan j. p. kress, david j.
+norris, olga sorkine-hornung,
+edoardo mazza, dimos
+poulikakos, aldo ferrari,
+nature communications,
+[paper] [additional material]
+[movie 1] [movie 2] [movie 3]
+[movie 4] [code]
+rig animation with
+a tangible and
+modular input
+device
+oliver glauser,
+benedek vartok, alex (wan-chun)
+ma, daniele panozzo, alec
+jacobson, otmar hilliges, olga
+sorkine-hornung,
+uist demo,
+[paper] [website]
+image content
+retargeting
+alessandro artusi,
+francesco banterle,
+tunc ozan aydin,
+daniele panozzo,
+olga sorkine-hornung,
+book a k peters/crc press,
+[publisher]
+computational
+thermoforming
+christian schüller,
+daniele panozzo,
+anselm grundhofer,
+henning zimmer,
+evgeni sorkine, olga sorkine-
+hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [website]
+rig animation with
+a tangible and
+modular input
+device
+oliver glauser, alex
+(wan-chun) ma,
+daniele panozzo,
+alec jacobson, otmar hilliges,
+olga sorkine-hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [website]
+directional field
+synthesis, design,
+and processing
+amir vaxman,
+marcel campen,
+olga diamanti,
+daniele panozzo, david bommes,
+klaus hildebrandt, mirela ben-
+chen,
+eurographics state-of-the-art
+report,
+[paper]
+instant field-
+aligned meshes
+wenzel jakob, marco
+tarini, daniele
+panozzo, olga
+sorkine-hornung,
+acm transactions
+on graphics (siggraph asia),
+[paper] [video] [data] [code]
+[website]
+a simple c++ geometry
+processing library
+alec jacobson,
+daniele panozzo,
+christian schüller,
+olga diamanti,
+qingnan zhou, nico
+pietroni, stefan
+brugger, kenshi
+takayama, wenzel jakob, nikolas
+de giorgis, luigi rocca, leonardo
+sacht, olga sorkine-hornung,
+sgp software award,
+[code] [tutorial] [award]
+texture mapping
+real-world objects
+with hydrographics
+daniele panozzo,
+olga diamanti,
+sylvain paris, marco tarini, evgeni
+sorkine, olga sorkine-hornung,
+sgp,
+[paper] [video] [ code] [website]
+integrable
+polyvector fields
+olga diamanti, amir
+vaxman, daniele
+panozzo, olga
+sorkine-hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [ video] [ data] [code]
+[website]
+data-driven
+interactive
+quadrangulation
+giorgio marcias,
+kenshi takayama,
+nico pietroni,
+daniele panozzo, olga sorkine-
+hornung, enrico puppo, paolo
+cignoni,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [data] [code]
+[database] [website]
+demystifying
+quadrilateral
+remeshing
+daniele panozzo,
+dissertation impact
+(ieee computer
+graphics and applications),
+[paper]
+appearance-
+mimicking surfaces
+christian schüller,
+daniele panozzo,
+olga sorkine-
+hornung,
+acm transactions on graphics
+(siggraph asia),
+[paper] [video] [code] [website]
+assembling self-
+supporting
+structures
+mario deuss,
+daniele panozzo,
+emily whiting, yang
+liu, philippe block, olga sorkine-
+hornung, mark pauly,
+acm transactions on graphics
+(siggraph asia),
+[paper] [video] [data] [code]
+[website]
+libigl: a c++
+library for
+geometry
+processing without
+a mesh data
+structure
+daniele panozzo, alec jacobson,
+sgp graduate school,
+[course notes] [github]
+frame fields:
+anisotropic and
+non-orthogonal
+cross fields
+daniele panozzo,
+enrico puppo, marco
+tarini, olga sorkine-hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [additional] [data]
+[code] [website]
+tangible and
+modular input
+device for
+character
+articulation
+alec jacobson,
+daniele panozzo, oliver glauser,
+cedric pradalier, otmar hilliges,
+olga sorkine-hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [video] [open hardware]
+[e-tech] [website]
+designing n-
+polyvector fields
+with complex
+polynomials
+olga diamanti, amir
+vaxman, daniele
+panozzo, olga sorkine-hornung,
+sgp,
+[paper] [github] [website]
+pattern-based
+quadrangulation
+for n-sided patches
+kenshi takayama,
+daniele panozzo,
+olga sorkine-hornung,
+sgp,
+[paper] [video] [code] [website]
+best-fit thrust
+network analysis:
+rationalization of
+freeform meshes
+tom van mele,
+daniele panozzo,
+olga sorkine-
+hornung, philippe block,
+book chapter in shell structures
+for architecture: form finding and
+optimization,
+[chapter]
+accurate and
+efficient lighting
+for skinned models
+marco tarini,
+daniele panozzo,
+olga sorkine-hornung,
+eurographics,
+[paper] [video] [additional] [data]
+[code] [website]
+content-aware
+surface
+parameterization
+for interactive
+restoration of
+historical
+documents
+kazim pal, christian schüller,
+daniele panozzo, olga sorkine-
+hornung, tim weyrich,
+eurographics,
+[paper] [video] [code]
+object detection
+and classification
+from large-scale
+cluttered indoor
+scans
+oliver mattausch,
+daniele panozzo, claudio mura,
+olga sorkine-hornung, renato
+pajarola,
+eurographics,
+[paper] [video] [data office 1] [
+data office 2] [data office 3] [raw
+data] [code]
+mobile image
+retargeting
+daniel graf, daniele
+panozzo, olga
+sorkine-hornung,
+vision, modeling and visualization,
+[paper] [video 1] [video 2] [data]
+[code] [website]
+designing unreinforced masonry
+models
+daniele panozzo, philippe block,
+olga sorkine-
+hornung,
+acm transactions
+on graphics
+(siggraph),
+[paper] [video] [data] [website]
+weighted averages
+on surfaces
+daniele panozzo,
+ilya baran, olga
+diamanti, olga
+sorkine-hornung,
+acm transactions on graphics
+(siggraph) ,
+[paper] [additional] [video] [code]
+[website]
+sketch-based
+generation and
+editing of quad
+meshes
+kenshi takayama,
+daniele panozzo,
+alexander sorkine-hornung, olga
+sorkine-hornung,
+acm transactions on graphics
+(siggraph),
+[paper] [tech report] [video]
+[code] [website]
+locally injective mappings
+christian schüller, ladislav kavan,
+daniele panozzo,
+olga sorkine-
+hornung,
+computer graphics
+forum (sgp),
+[paper] [additional] [video] [code]
+[website]
+consistent
+volumetric
+discretizations
+inside self-
+intersecting
+surfaces
+leonardo sacht, alec jacobson,
+daniele panozzo, christian
+schüller, olga sorkine-hornung,
+computer graphics forum (sgp),
+[paper] [data] [video] [website]
+animation-aware
+quadrangulation
+giorgio marcias,
+nico pietroni,
+daniele panozzo,
+enrico puppo, olga
+sorkine-hornung,
+computer graphics forum (sgp),
+[paper] [video] [website]
+fields on symmetric
+surfaces
+daniele panozzo,
+yaron lipman,
+enrico puppo, denis
+zorin,
+acm transactions on graphics
+(tog),
+[paper] [addendum]
+fields on
+symmetric surfaces
+daniele panozzo,
+yaron lipman,
+enrico puppo, denis
+zorin,
+acm transactions on graphics
+(siggraph),
+[paper] [additional]
+robust interactive
+image retargeting
+via axis-aligned
+deformation
+daniele panozzo,
+ofir weber, olga sorkine-
+hornung,
+computer graphics forum
+(eurographics),
+[paper] [video] [comparisons]
+[code] [website]
+patchwork terrains
+luigi rocca, daniele
+panozzo, enrico
+puppo,
+international
+conference on
+computer graphics theory and
+applications,
+[paper]
+fast neighborhood
+search on polygonal
+meshes
+luigi rocca, nikolas
+de giorgis, daniele
+panozzo, enrico
+puppo,
+eurographics italian chapter,
+[paper]
+interference aware
+geometric
+modeling
+david harmon,
+daniele panozzo,
+olga sorkine-
+hornung, denis zorin,
+acm transactions on graphics
+(siggraph asia),
+[paper] [ video] [code]
+simple quad domains for field
+aligned mesh parametrization
+marco tarini, enrico
+puppo, daniele
+panozzo, paolo
+cignoni,
+acm transactions
+on graphics
+(siggraph asia),
+[paper]
+automatic
+construction of
+quad-based
+subdivision
+surfaces using
+fitmaps
+daniele panozzo, enrico puppo,
+marco tarini, nico pietroni, paolo
+cignoni,
+ieee transactions on visualization
+and computer graphics,
+[paper] [video]
+implicit
+hierarchical quad-
+dominant meshes
+daniele panozzo,
+enrico puppo,
+computer graphics forum,
+[paper]
+adaptive quad mesh
+simplification
+agostino bozzo, daniele panozzo,
+enrico puppo, nico
+pietroni, luigi rocca,
+eurographics italian
+chapter,
+[paper]
+efficient multi-scale
+curvature and
+crease estimation
+daniele panozzo,
+enrico puppo, luigi
+rocca,
+gravisma,
+[paper]
+a dimension-
+independent data
+structure for
+simplicial
+complexes
+leila de floriani,
+annie hui, daniele panozzo, david
+canino,
+international meshing
+roundtable,
+[paper]
+adaptive lod
+editing of quad
+meshes
+daniele panozzo,
+enrico puppo,
+afrigraph(best paper award),
+[paper]
+practical quad
+mesh simplification
+paolo cignoni,
+daniele panozzo,
+enrico puppo,
+eurographics,
+[paper] [video]
+computing and
+visualizing a graph-
+based
+decomposition for
+non-manifold
+shapes
+leila de floriani, daniele panozzo,
+annie hui,
+international workshop on graph-
+based representations in pattern
+recognition,
+[paper]
+rgb subdivision
+enrico puppo,
+daniele panozzo,
+ieee transactions on
+visualization and
+computer graphics,
+[paper]
+interpolatory
+adaptive
+subdivision for
+mesh lod editing
+daniele panozzo,
+enrico puppo,
+international conference on
+computer graphics theory and
+applications,
+[paper]
+newsstand: a new
+view on news
+benjamin e. teitler,
+michael d.
+lieberman, daniele
+panozzo, jagan
+sankaranarayanan,
+hanan samet, jon sperling,
+acm sigspatial international
+conference on advances in
+geographic information systems
+(best paper award),
+[paper]
+editing the lod of
+meshes with
+interpolatory
+adaptive
+subdivisions
+daniele panozzo, enrico puppo,
+poster at the eurographics
+symposium on geometry
+processing,
+[poster]

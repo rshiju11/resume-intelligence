@@ -1,0 +1,182 @@
+stata center, 32 vassar st g496
+david alvarez-melis
+cambridge, ma, 02139
+(cid:66) dalvmel[at]mit[dot]edu
+research interests
+themes structured learning, statistical divergences, interpretability, unsupervised learning.
+methods optimal transport, convex/submodular optimization, semi-definite programming.
+applications low-resource machine translation, word embeddings, generative models.
+education
+– massachusetts institute of technology, ph.d in computer science.
+(cid:123) area: machine learning, minor in mathematical optimization.
+(cid:123) advisor: tommi s. jaakkola.
+(cid:123) thesis: optimal transport in structured domains: algorithms and applications
+(cid:123) thesis committee: tommi jaakkola, stefanie jegelka, justin solomon.
+– courant institute, new york university, m.s. in mathematics.
+(cid:123) thesis: the matrix multiplicative weights algorithm for domain adaptation.
+(cid:123) advisor: dr. mehryar mohri.
+– instituto tecnologico autonomo de mexico, b.s. in applied mathematics.
+(cid:123) thesis: the lax-milgram theorem, generalizations and applications.
+(cid:123) advisor: dr. carlos bosch giral.
+(cid:123) mención honorífica (summa cum laude), top 1% of class, valedictorian.
+research and work experience
+– postdoctoral researcher, microsoft research, cambridge, ma, usa.
+(cid:123) topics: optimal transport for meta-learning, debiasing and adaptation
+– research assistant, mit csail, cambridge, ma, usa.
+(cid:123) supervisor: tommi jaakkola.
+(cid:123) recent projects: structured optimal transport, robustly interpretable machine learning.
+05 – 08/ research intern, microsoft research, new york, ny, usa.
+(cid:123) mentors: hanna wallach, jenn wortman vaughan, hal daumé iii.
+(cid:123) project: robust and human-like interpretability for machine learning.
+05 – 08/ research intern, microsoft research, redmond, wa, usa.
+(cid:123) mentors: scott yih, ming-wei chang, kristina toutanova, chris meek.
+(cid:123) project: multi-hop relation prediction for knowledge base question answering.
+– supplemental researcher, ibm research, tj watson center, ny, usa.
+(cid:123) mentors: michael picheny & ken church (speech recognition group).
+(cid:123) data mining, statistical modeling and machine learning for speech recognition data.
+– statistical analyst, lasquinceletras solutions, mexico city, mexico.
+(cid:123) designed and carried out statistical learning methods on large survey datasets.
+teaching and advising experience
+co-supervisor, msc thesis, charlotte bunne (mit/eth).
+spring teaching assistant, 6.036: introduction to machine learning, mit.
+spring adjunct instructor (ta), math-ua.121: calculus i, nyu.
+fall adjunct instructor (ta), math-ua.9: algebra and calculus, nyu.
+spring grader, math-ua.326: analysis ii, nyu.
+– teaching assistant, calculus i, itam.
+spring 08/09 teaching assistant, economics iii (intermediate microeconomics), itam.
+fellowships and awards
+facebook fellowship finalist, (30/800 applicants).
+hewlett packard graduate fellowship, one-term phd award.
+ai2 key scientific challenges program award, $10k unrestricted award..
+, fellowship for graduate studies abroad, conacyt.
+march alumni research prize, second place, itam, category: undergrad thesis.
+– award for graduate studies abroad, mexican ministry of education.
+october sotero prieto prize, second place, mexican mathematical society, yearly award for
+the best undergraduate theses in mathematics in the country.
+– academic excellence scholarship, itam, for undergraduate studies.
+publications
+most recent publications via google scholar.
+preprints
+[1] d. alvarez-melis, y. mroueh, and t. s. jaakkola. “unsupervised hierarchy matching
+with optimal transport over hyperbolic spaces”. .
+[2] d. alvarez-melis and t. broderick. “a translation of "the characteristic function of a
+random phenomenon" by bruno de finetti”. .
+conference and journal publications
+[3] c. bunne, d. alvarez-melis, s. jegelka, and a. krause. “learning generative models
+across incomparable spaces”. in: international conference on machine learning (icml).
+.
+[4] g.-h. lee, w. jin, d. alvarez-melis, and t. s. jaakkola. “functional transparency for
+structured data: a game-theoretic approach”. in: international conference on machine
+learning (icml). .
+[5] g.-h. lee, d. alvarez-melis, and t. s. jaakkola. “towards robust, locally linear deep
+networks”. in: international conference on learning representations (iclr). .
+[6] d. alvarez-melis, s. jegelka, and t. s. jaakkola. “towards optimal transport with
+global invariances”. in: international conference on artificial intelligence and statistics
+(aistats). .
+[7] d. alvarez-melis and t. s. jaakkola. “towards robust interpretability with self-
+explaining neural networks”. in: advances in neural information processing systems
+(neurips). .
+[8] d. alvarez-melis and t. s. jaakkola. “gromov-wasserstein alignment of word em-
+bedding spaces”. in: conference on empirical methods in natural language processing
+(emnlp). . (oral presentation).
+[9] d. alvarez-melis, t. s. jaakkola, and s. jegelka. “structured optimal transport”. in:
+international conference on artificial intelligence and statistics (aistats). . (oral
+presentation).
+[10] d. alvarez-melis and t. s. jaakkola. “a causal framework for explaining the predictions
+ofblack-boxsequence-to-sequencemodels”.in:conferenceonempiricalmethodsinnatural
+language processing (emnlp). .
+[11] d. alvarez-melis and t. s. jaakkola. “tree-structured decoding with doubly-recurrent
+neural networks”. in: international conference on learning representations (iclr). .
+[12] d. alvarez-melis and m. saveski. “topic modeling in twitter: aggregating tweets by
+conversations”. in: international aaai conference on web and social media (icwsm).
+.
+[13] t. b. hashimoto, d. alvarez-melis, and t. s. jaakkola. “word embeddings as metric
+recovery in semantic spaces”. in: transactions of the association for computational
+linguistics (tacl) 4 ( ). (oral presentation at acl’16).
+refereed workshop contributions
+[14] d. alvarez-melis, h. daumé iii, j. w. vaugan, and h. wallach. “weight of evidence
+as a basis for human-oriented explanations”. in: neurips workshop on human-centric
+machine learning. .
+[15] h. james-sorenson and d. alvarez-melis. “probabilistic bias mitigation in word em-
+beddings”. in: neurips workshop on human-centric machine learning. .
+[16] c. bunne, d. alvarez-melis, s. jegelka, and a. krause. “learning generative mod-
+els across incomparable spaces”. in: neurips workshop on relational representation
+learning. . (extended contributed talk + best paper award).
+[17] d. alvarez-melis and t. s. jaakkola. “on the robustness of interpretability methods”.
+in:proceedingsofthe2018icmlworkshopinhumaninterpretabilityinmachinelearning.
+. (oral presentation).
+[18] g.-h. lee, d. alvarez-melis, and t. s. jaakkola. “game-theoretic interpretability for
+temporal modeling”. in: fairness, accountability and transparency in machine learning.
+.
+[19] d.alvarez-melisandj.amores.“theemotionalgan:primingadversarialgeneration
+of art with emotion”. in: nips workshop on machine learning for creativity and design.
+.
+[20] d. alvarez-melis, t. s. jaakkola, and s. jegelka. “structured optimal transport”. in:
+nips workshop on optimal transport for machine learning. . (extended oral
+presentation).
+[21] t. b. hashimoto, d. alvarez-melis, and t. s. jaakkola. “word, graph and manifold
+embedding from markov processes”. in: nips workshop on nonparametric methods for
+large scale representation learning. .
+[22] c. li, d. alvarez-melis, k. xu, s. jegelka, and s. sra. “distributional adversarial
+networks”. in: international conference on learning representations (iclr), workshop
+track. .
+theses
+[23] d. alvarez-melis. “optimal transport in structured domains: algorithms and applica-
+tions”. ph.d. thesis. massachusetts institute of technology, .
+[24] d. alvarez-melis. “the matrix multiplicative weights algorithm for domain adapta-
+tion”. m.s. thesis. new york university, .
+[25] d. alvarez-melis. “el teorema de lax milgram, generalizaciones y aplicaciones”. b.sc.
+thesis. instituto tecnologico autonomo de mexico, .
+professional activities and service
+reviewer acl-ijcnlp (outstanding reviewer), ijcnlp , acl ( – ), tacl,
+uai , neurips ( – ) (reviewer award, registration waived both times), plos
+one, , aistats ( – ), icml , jair .
+organizer riiaa (student-run ai conference in mexico city), riiaa.org.
+other mit eecs graduate admissions committee ( , ).
+other orientation co-chair, mit graduate student council.
+talks
+−→ interpretation, representation and correspondence in structured domains.
+(cid:123) facebook artificial intelligence research (fair), nyc, february
+(cid:123) asapp, nyc, february
+(cid:123) google, cambridge ma, february
+(cid:123) microsoft research, cambridge ma, february
+(cid:123) ibm research, cambridge ma, february
+(cid:123) deepmind, london, january
+(cid:123) microsoft research, nyc, january
+−→ structured optimal transport.
+(cid:123) harvard university, november
+(cid:123) phillipe rigollet’s group, mit, november
+(cid:123) aistats, lanzarote, april
+(cid:123) optimal transport in ml workshop @ nips , long beach, december
+−→ gromov-wasserstein alignment of word embedding spaces.
+(cid:123) jim glass’s group, mit, november
+(cid:123) emnlp, brussels, november
+−→ word embeddings and neural networks for natural language processing.
+(cid:123) riiaa , mexico city, august
+(cid:123) deeplearn seminar, mit, october
+−→ on the robustness of interpretability methods.
+(cid:123) workshop on human interpretability in machine learning (whi) @ icml ,
+stockholm, july
+−→ interpretability in natural language processing.
+(cid:123) guest lecture at cmu ece-739 (remote), april
+−→ learning with structured data: interpretability and optimal transport.
+(cid:123) openai, san francisco, januray
+−→ interpretability for complex models natural language processing.
+(cid:123) systems that learn, mit, december
+(cid:123) complang seminar, mit, november
+professional training
+june machine learning summer school, max-planck-institut, tübingen, germany.
+july regularization methods for machine learning, univ. of genova, italy.
+computer skills
+languages python, bash, java, r, c++, lua libraries pytorch, torch, theano, scikit
+languages
+spanish native
+english fluent toefl (ibt) 113/120, ielts 8.5/9, fce, cae both with grade a.
+italian advanced cils-tre certificate.
+french conversational mother’s language, studied also at alliance française bordeaux.
+german basic completed levels a1 - a2 at goethe institut mexiko.
+dutch, greek beginner
+professional memberships
+ams ( – ), siam ( – ), acl ( – ), aaas ( – )
+other interests
+languages, architecture, classical guitar (albéniz, sor), italian cinema, soccer.

@@ -1,0 +1,128 @@
+joanbruna
+contact
+information
+http://cims.nyu.edu/~bruna/
+citizenship spanish(usapermanentresident).
+professional
+experience courantinstituteofmathematicalsciencesandcenterfordatascience,nyu,newyork,ny
+associateprofessorofcomputerscience,datascienceandmathematics(affiliated), spring2021-now
+assistantprofessorofcomputerscience,datascienceandmathematics(affiliated), fall2016-fall2020
+flatironinstitute,simonsfoundation,newyork,ny
+visitingscholar,centerforcomputationalmathematics, fall2020-now
+instituteforadvancedstudy,princeton,nj
+member,schoolofmathematics,yearonoptimizationandml, fall2019-spring2020
+ucberkeley,berkeley,ca
+assistantprofessorofstatistics,deptofstatistics, jan2015-aug2016
+facebookairesearch,
+visitingscientist,paris, may-aug2018
+postdoctoralfellow,newyork,ny, oct-dec2014
+courantinstitute,nyu,newyork,ny
+postdoctoralresearcher oct2012-sep2014
+csr,malakoff,france
+seniorreseachconsultant oct2010-july2012
+zoran,malakoff,france
+seniorreseachengineer june2008-sep2010
+letitwave,palaiseauandmalakoff,france.
+researchengineer april2005tojune2008
+education ecolepolytechnique,palaiseau,france
+ph.d.inappliedmathematics,“scatteringrepresentationsforrecognition"
+• thesis topics: invariant signal representations, classification, pattern recognition, stochastic processes, invariance
+learning,differentialgeometry.
+• adviser:professorstéphanemallat.
+ecolenormalesuperieure,cachan,france
+msc“mathématiques,vision,apprentissage"inappliedmathematics
+• image,audioandvideoprocessing,harmonicanalysis,machinelearning,wavelettheory.
+• mentiontrèsbien.
+universitatpolitècnicadecatalunya,barcelona,spain
+bs,msctelecommunicationsengineering
+• masterthesisdevelopedinnokiadenmark(aalborg), - .
+• title:“newmodelingtechniquesforhsdpa/wcdma"(awithhonors).
+bsmathematics
+• withhonors,ranked2nd.
+awards bestpaperawards: iclrmlforclimate, ,ieeesps2022,internationalastrostatisticsassociation, ,icmla,
+.
+nsfcareeraward, .
+alfredp.sloanresearchfellowship, .
+honorsmentioninspanishphysicsolympiad,
+enscachanscholarship, -
+2ndnationalplaceincangurmathematicalcontest,
+patents ep10703636:videosequenceanalysisforrobustmotionestimation.
+ep10703637:temporalvideointerpolationmethodwith2-frameocclusionhandling.
+us :framerateconversionwithmotionestimationinapluralityofresolutionlevels.
+us ,withm.shand:sparsegeometryforsuper-resolutionvideoprocessing.
+ep2010/068133:cadencedetectionforinterlacedvideobasedontemporalregularity.
+us ,withs.mallat,n.laveau,c.bernard: methodandapparatusforspatio-temporalsubbandvideoenhance-
+mentwithsmalltime-delay.
+us ,withs.mallat:methodandapparatusforrobustsuper-resolutionvideoscaling.
+collegial
+programcommitteeandeditorialboards
+-present focmeditorialboard.
+-present tmlractioneditor.
+-present achaeditorialboard.
+-present ieeetpamiactioneditor.
+-present jmlractioneditor.
+-present neuripsseniorareachair.
+-present icmlseniorareachair.
+-present coltseniorprogramcommittee.
+-present msmlpc.
+msmlgeneralchair.
+-present iclrareachair.
+ieeetpamispecialissueeditor.
+journalofmathematicalimagingandvisionspecialissue.
+- neuripsareachair.
+- icmlareachair.
+- aistatsareachair.
+workshopandseminarorganisation
+simonsmath+xsymposiumonexoplanets,inverseproblemsanddeeplearning,costarica.
+simonsmath+xsymposiumonnaturalhazards,inverseproblemsanddeeplearning,costarica.
+mathanddata+,nyuandeth.(virtualseminar)
+inverseproblemsanddeeplearningworkshop,neurips.
+mathematicsofdeeplearning(deepmath).
+iasworkshopontheoryofdeeplearning.
+mifods“deeplearningandnon-convexoptimization"workshop,mit.
+simonsmath+xsymposiumonspaceexploration,inverseproblemsanddeeplearning,riceu.
+“theoreticalphysicsanddeeplearningworkshop",icml.
+“machinelearningfornetworkdata"workshop,newyork.
+“representationlearningongraphsandmanifolds".
+“newdeeplearningtechniques",ipam,losangeles.
+kdddeeplearningday,co-organiserofinauguralevent.
+-present mathanddataseminar,co-founder.
+machinelearningsummerschool,cadiz.
+fulltutorials
+mathematicsofdeeplearning:iccv, ,cvpr2016,eccv2016,cvpr2017,iccv2017.
+geometricdeeplearning:cvpr2017,neurips2017.
+mentoring
+phdstudents
+-present noahamsel(cs,co-advisedwithchrismusco).
+-present leichen(cs).
+-present aaronzweig(cs).
+-present carlesdomingo(cs).
+-present karlotness(cs,co-advisedwithbenjaminpeherstorfer).
+- davidbranfonbrener(cs).
+- minjaesong(cs,co-advisedwithodedregev).
+- samyjelassi(princetonorfe).
+- zhengdaochen(math).
+- cinjonresnik(cs,co-advisedwithkyunghyuncho).
+- lucavenuri(math).
+- franciswilliams(cs,co-advisedwithdeniszorin).
+postdocs
+- albertobietti(cds).
+- tomtirer(cds).
+- arthurmensch(cds).
+- yossiarjevani(cds).
+- matthewtrager(cds).
+teaching
+spring2022 :csci-ga-3033-020(nyu):mathematicsofdeeplearning.
+fall2021 :barcelonagraduateschoolofmathematics:algorithmiclearninganddeepneuralnetworks
+fall2021 :csnyu:deeplearning
+spring2021 :csci-ga-3033-020(nyu):mathematicsofdeeplearning.
+fall2020 :ds-ga1005(nyu):inferenceandrepresentation.
+spring2020 :csci-ga-3033-020(nyu):mathematicsofdeeplearning
+spring2019 :csci-ga-3033-020(nyu):mathematicsofdeeplearning
+fall2018 :ds-ga1005(nyu):inferenceandrepresentation.
+spring2018 :csci-ga-3033-020(nyu):mathematicsofdeeplearning
+fall2017 :ds-ga1005(nyu):inferenceandrepresentation.
+fall2016 :ds-ga1005(nyu):inferenceandrepresentation.
+spring2016 :stat212b(ucberkeley):topicsindeeplearning.
+fall2015 :stat153(ucberkeley):timeseries.
+spring2015 :stat135(ucberkeley):mathematicalstatistics.

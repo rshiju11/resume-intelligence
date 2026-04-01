@@ -1,0 +1,149 @@
+kunwarjay bagga | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+department of computer science
+(https://
+www.bsu.edu/academics/collegesanddepartments/computer-science)
+home > academics > colleges and departments > computer science > about us > faculty and staff
+> faculty > jay bagga
+jay bagga
+professor of computer science
+(https://www.bsu.edu/-/media/www/departmentalcontent/computerscience/cv/cs-vita- /jb_cv- .pdf?sc_lang=en)
+phone:
+email:
+view email address
+add contact to outlook
+room:
+1 of 5 4/21/25,
+kunwarjay bagga | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+rb 476
+dr. jay bagga is a professor of computer science, with over 40 years of experience in research and teaching in a wide
+variety of graduate and undergraduate topics in computer security, software verification, graph theory and graph
+algorithms, theory of computers, algorithm design and complexity, bioinformatics, computational geometry,
+programming, and discrete structures and data structures. he holds ph. d. and master’s degrees in mathematics from
+purdue university, and a master’s degree in computer science from ball state university.
+dr. bagga has published two books, a book chapter, and many research papers. he has presented lectures within u.s. and
+in many countries abroad. he has collaborated in research with scholars from many universities in us and abroad, and
+guided ph. d. students. dr. bagga has been awarded several federal, state, university, and industry research grants. he
+has organized national and international professional conferences, and has directed several exchange programs between
+ball state university and international institutions. he serves as editor or referee for many national and international
+professional journals and conference proceedings.
+dr. bagga has received several honors and awards including ball state summer commencement speaker ( ),
+outstanding faculty award (ball state university ( ), third frank harary memorial lecture speaker (new mexico state
+university ), researcher of the year (ball state university, ), and fulbright senior scholar and visiting professor
+(university of zimbabwe, ). outside of his professional activities, dr. bagga enjoys traveling, reading, and spending
+time with grandchildren.
+education
+■ m.s., computer science, ball state university,
+■ ph.d., mathematics, purdue university,
+■ m.s., mathematics, purdue university,
+awards
+■ mira techpoint technology in education excellence & innovation finalist,
+■ ball state summer commencement speaker,
+■ outstanding faculty award, ball state university,
+■ third harary memorial lecture speaker, department of computer science, new
+mexico state university,
+■ harary plenary lecture speaker, mighty (midwest graph theory conference), indiana
+university purdue university fort wayne,
+■ researcher of the year, ball state university,
+■ fulbright senior scholar and visiting professor, (university of zimbabwe)
+■ foundation fellow of the institute of combinatorics & its applications,
+vstop honors and awards
+■ us election assistance commission clearinghouse award winner: outstanding
+innovations in elections – large jurisdictions.
+2 of 5 4/21/25,
+kunwarjay bagga | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+■ us eac clearie honorable mention: outstanding use of help america vote act
+(hava) grants in election modernization.
+additional responsibilities
+■ director, south asia exchange program
+■ co-director, state of indiana voting systems technical oversight program (vstop)
+(http://bowencenterforpublicaffairs.org/institutes/policy-research/election-admin/vstop)
+■ faculty advisor, indian students association
+sampling of recent scholarly work
+books and book chapters
+book chapter
+disruptive innovations in voting: electronic poll book adoption and certification in indiana coauthored with chad kinsella
+and bryan byers, in the book government response to disruptive innovation: perspectives and examinations (https://
+www.igi-global.com/book/government-response-disruptive-innovation/301601), editors: sam b. edwards, iii and james r. masterson , projected
+publication date: march, , igi global publishers, isbn13: .
+book
+line graphs and line digraphs (https://doi.org/10.1007/ ), coauthored with lowell w. beineke, springer,
+book
+theoretical computer science and discrete mathematics, first international conference, ictcsdm , (https://
+doi.org/10.1007/ ), co-edited with s. arumugam, lowell w. beineke, and b.s. panda.
+publications - refereed
+journal article
+big data from a popular app reveals that shing creates superhighways for aquatic invaders (https://doi.org/10.1093/pnasnexus/
+pgac075), with jessica l weir, kirsten vacuraa, adam berland, kieran hyder, christian skov, johan attbyg, and paul a
+venturelli, pnas nexus, , 1, 1{9, https://doi.org/10.1093/pnasnexus/pgac075big data from a popular app reveals that
+shing creates superhighways for aquatic invaders, with jessica l weir, kirsten vacuraa, adam berland, kieran hyder,
+christian skov, johan attbyg, and paul a venturelli, pnas nexus, , 1, 1{9
+journal article
+new results and open problems in line graphs (https://doi.org/10.1080/09728600. .2093146), with lowell w. beineke,
+akce international journal of graphs and combinatorics, 022
+journal article
+a survey of line digraphs and generalizations (https://doi.org/10.47443/dml. .s109), jay s. bagga and lowell w. beineke, discrete
+math. lett. {83
+journal article
+3 of 5 4/21/25,
+kunwarjay bagga | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+graphoidal graphs and graphoidal digraphs: a generalization of line graphs, with s. arumugam, akce international journal
+of graphs and combinatorics, .
+journal article
+a survey and a new class of graceful unicylic graphs, with max pambe biatch', s. arumugam, akce international journal of
+graphs and combinatorics, .
+journal article
+discovery of some new classes of graceful unicyclic graphs, with l. fotso and max pambe, journal of combinatorial
+mathematics and combinatorial computing,
+volume 109, , 105-127.
+journal article
+bagga, j., beineke, l. w., varma, b. ( ). a number theoretic problem on super line graphs. akce international journal of
+graphs and combinatorics/elsevier, (13), 14.
+journal article
+bagga, j. s., fotso, l. p., max, p. b., arumugam, s. ( ). new classes of graceful unicyclic graphs. electronic notes in
+discrete mathematics/elsevier, 48, 27-32.
+journal article
+begum, m., bagga, k. s., blakey, c. a., saha, s. ( ). network motif identification and structure detection with graphical
+models. network biology, 14(4), 155-169.
+journal article
+bagga, k. s., max, p., fotso, l. ( ). an algorithm for graceful labelings of certain unicyclic graphs. vnu journal of science:
+comp. science & com. eng. vietnam national university, 30(3), 1-11.
+external grants
+“voting systems technical oversight program”, indiana secretary of state,
+"theory of computation," sponsored by vietnam educational foundation, .
+"pre-election logic and accuracy testing & post election audit initiative," sponsored by u. s. election assistance
+commission, .
+“design and analysis of algorithms - mobile applications," sponsored by vietnam education foundation, .
+“u. s. faculty scholar program grant”, sponsored by vietnam education foundation,
+“curriculum development for careers in homeland security", indiana department of homeland security,
+“science literacy project," department of energy, -
+related links
+faculty-maintained web site (http://www.cs.bsu.edu/homepages/jay/)
+4 of 5 4/21/25,
+kunwarjay bagga | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
+linkedin (https://www.linkedin.com/in/jay-bagga-0721118/)
+course schedule
+course no. section times days location
+network security - t r rb, room
+(https://banner.bsu.edu/
+1215 104
+ssbprod/bwckctlg.p_disp_course_detail?
+cat_term_in=202420&subj_code_in=cs&crse_numb_in=447)
+applications of comp 681 c01 0000 - ol, room
+(https://
+0000 online
+banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
+cat_term_in=202420&subj_code_in=cs&crse_numb_in=681)
+department of computer science
+
+robert bell building (rb), room 455
+ball state university
+muncie, in 47306
+
+📠
+(https://www.bsu.edu/)
+ball state university w. university ave. muncie, in and
+copyright © ball state university
+equal opportunity policy (https://www.bsu.edu/about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
+legal information (https://www.bsu.edu/about/administrativeoffices/general-counsel)
+tty numbers (https://www.bsu.edu/about/administrativeoffices/disability-services/about/contact) sitemap (https://www.bsu.edu/sitemap)
+5 of 5 4/21/25,

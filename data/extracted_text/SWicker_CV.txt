@@ -1,0 +1,1325 @@
+dr. stephen b. wicker
+professor
+school of electrical and computer engineering
+cornell university
+education
+ph.d. electrical engineering
+university of southern california
+m.s.e.e. electrical engineering
+purdue university
+b.s.e.e. electrical engineering
+university of virginia
+employment history
+cornell university, ithaca new york
+school of electrical engineering
+associate director for research
+professor -
+associate professor -
+georgia institute of technology, atlanta, georgia
+school of electrical and computer engineering
+associate professor -
+assistant professor -
+hughes aircraft, el segundo, california, information sciences
+department, system laboratories, space and communications
+staff engineer -
+bell laboratories, network architecture research group
+columbus, ohio
+experience summary
+professor wicker teaches and conducts research in wireless information networks,
+secure networks, packet-switched computer networks, and digital telephony. his
+research has focused on the development and application of advanced technologies
+to adaptive networks. current interests include privacy-aware design practices for
+wireless networks and self-configuring sensor networks for disaster recovery,
+infrastructure monitoring, and national security. other interests include secure
+anonymous networking, the behavior of complex systems, phase transitions in np-
+hard problems, and the evolution of the nation’s telecommunications networks.
+professor wicker is the cornell principal investigator for the trust science and
+technology center – a national science foundation center dedicated to the
+development of technologies for securing the nation’s critical infrastructure.
+in professor wicker testified before the congressional committee on science
+and technology and was appointed to the air force scientific advisory board. he is
+a fellow of the ieee.
+technical duties at hughes aircraft included the following:
+1. principal system engineer for advanced military satellite
+communications, new business.
+2. team leader and principal author of study examining the use of
+60 and 94 ghz monolithic arrays in satellite cross-links.
+3. team leader and principal author of study examining the use of
+high electron mobility transistor (hemt) devices in frequency
+synthesizers for frequency hopped communication systems.
+4. responsible for analysis, design, and production of 800 mbps
+demod-remod sqpsk receiver.
+5. responsible for analysis and design of several receivers and
+digital signal processors for various military satellite programs.
+6. conducted analysis and simulation of milstar direct digital
+frequency synthesizers.
+technical duties at bell laboratories included the development of synchronous
+protocols for a packet switch (no. 2 stp).
+consulting
+• mitre corporation., eatontown, nj.
+o turbo error control for wireless applications.
+• motorola inc. advanced mobile messaging division –
+o wireless networking
+• digital technics inc., baltimore, md.
+o design of ss7/sonet/atm interface for telephone switch.
+• integrated device technology, santa clara, ca.
+o development of reed-solomon error control chip for high-speed mass
+memory applications.
+• lockheed sanders, avionics division, nashua, n.h.
+o development of error control chips for magnetic recording in space
+applications.
+• mobile telecommunication technologies, jackson, ms.
+o design and analysis of mobile networks for paging and data transfer,
+bulk data transfer using frame relay.
+• al-elm research and development corp., raleigh, n.c.
+o design and development of advanced digital voice and fax
+encryption techniques.
+• intellivision, atlanta, ga.
+o design and development of automated telephone switching equipment.
+• unisys corporation, san jose, ca.
+o design and development of error control algorithms for internodal
+communication in multiprocessing computer systems.
+• ii morrow inc., ups technical systems, salem, or.
+o analysis, design, and development of error control systems for mobile
+radio networks.
+• charter leasing corporation, richmond, va.
+2
+o analysis and design of digital switching systems for commercial
+telephony.
+curriculum development
+• developed and implemented a course for freshmen entitled “wiretaps to
+facebook: security and privacy in information networks” for the college of
+engineering, cornell university, ithaca, new york (fall ).
+• developed and implemented a course for juniors entitled “networks and
+systems” for the school of electrical engineering, cornell university,
+ithaca, new york (spring ).
+• developed and implemented a course for seniors entitled “artificial
+intelligence and expert systems for telecommunications networks” for the
+school of electrical engineering, cornell university, ithaca, new york (spring
+).
+• developed and implemented a course for freshmen entitled “introduction to
+telecommunications” for the college of engineering, cornell university,
+ithaca, new york (spring ).
+• developed and implemented a graduate course in cryptography and data
+security for the school of electrical engineering, cornell university, ithaca,
+new york (fall ).
+• academic coordinator, georgia tech - lorraine, metz, france, september
+- march .
+• developed and implemented two graduate courses in error control coding
+and one graduate course in cryptography and data security for the school of
+electrical engineering, georgia institute of technology, atlanta, georgia.
+• developed and taught numerous short courses on digital communication
+systems, wireless information networks, error control, and cryptology.
+ph. d. students (graduated)
+cornell university
+• daniel lee (“reliable and energy-efficient wireless sensor networks for
+mobile healthcare systems,” graduated summer )
+• nathan karst (“combinatorial designs for key distribution and secure
+re-keying in group communication systems,” graduated summer )
+• sergio bermudez (“analysis of topological properties of random wireless
+sensor networks,” graduated summer )
+• mikhail lisovich (“mobility and privacy: exploring technical and social
+issues in emerging pervasive sensor networks,” graduated spring )
+3
+• michael eoin buckley (“side information inference for turbo code based
+systems,” graduated fall )
+• coalton bennett (“secure data reporting for demand response
+systems,” graduated fall )
+• ania kacewicz (“coding theory for security and reliability in wireless
+networks,” graduated fall )
+• phillip kuryloski (“design strategies for human centered sensor
+networks,” graduated spring )
+• sameer pai, (“co-design of sensor networking technology and privacy
+policy,” graduated spring )
+• hui qu, (“co-designed localization and geographic routing algorithm for
+sensor networks,” graduated spring )
+• christina tavoularis, (“event detection and queueing in wireless sensor
+networks,” graduated fall )
+• hazer inaltekin, (“game theoretic mac protocol design and interference
+analysis for wireless networks,” graduated spring )
+• xin zhang, (“distributed source coding in sensor networks,” graduated
+spring )
+• martin roth, (“termite: a swarm intelligent routing algorithm for mobile
+wireless ad hoc networks,” graduated winter )
+• prince samar. (“optimizing protocols for mobility in ad hoc networks,”
+graduated summer, )
+• yasser mourtada. (“content-aware routing schemes,” graduated summer,
+)
+• allen mackenzie. (“game theoretic analysis of medium access control
+protocols,” graduated spring, )
+• ewald hueffmeier, jr. (applied mathematics - turbo decoding architectures
+and algorithms for wireless data systems, graduated summer, )
+• xie xi (ai and expert systems for random access protocols, graduated
+summer, )
+• bhaskar krishnamarchari ("complexity and phase transitions in wireless
+networks," graduated spring, )
+• sarah spence ("subfield subcodes of reed-solomon codes," graduated
+spring, )
+• eric sakk ("wavelets based on reed-muller coding," graduated spring,
+)
+• frederic fontaine ("iterative trellis decoding for block codes," graduated
+summer, )
+• saejoon kim (“belief propagation, parameter estimation, and issues in
+turbo decoding,” graduated summer )
+georgia tech
+• andreas yankopolus. (“adaptive error control for wireless multimedia"),
+graduated winter, )
+• james kosmach (“soft decision decoding for wireless mobile systems,”
+graduated fall. )
+4
+• amjad luna (“dsp implementation of advanced decoder architectures,”
+graduated winter,
+• jong-il park (“turbo equalization algorithms,” graduated winter, )
+• thomas tapp (“advanced error control systems for mobile messaging
+systems,” graduated summer, )
+• mahdi zaidan (“tree structure trellis codes,” graduated spring, )
+• xiao-an wang (“trellis-based decoders and neural network
+implementations,” graduated winter, )
+• ahmed el-rifai (“application of linear block codes to the mceliece
+cryptosystem,” graduated fall, )
+• miin-jong hao (“performance evaluation of practical fsk, cpfsk, and
+ask detection schemes for coherent optical fiber communication
+systems,” graduated summer, )
+• slim souissi (“adaptive packet combining in cdma systems,”
+graduated summer, )
+• deidre williams (“key management in the mceliece cryptosystem,”
+graduated summer, )
+• lars rasmussen (“trellis coded adaptive rate hybrid-arq protocols
+over awgn and slowly fading rician channels,” graduated summer
+)
+• mohssen alabbadi (“integration of error correction, encryption, and
+signature using linear error-correcting block codes,” graduated summer
+)
+• michael bartz (“soft decision decoders based on artificial neural
+networks,” graduated summer )
+• michael rice (“adaptive error control over slowly varying channels,”
+graduated spring )
+• bruce harvey (“adaptive rate convolutional coding using the viterbi
+decoder,” graduated spring )
+ph.d. students (in progress)
+• daniel lee (cellular information systems )
+• nathan karst (design theory)
+• dipayan ghosh (smart grid/demand response systems)
+publications
+theses
+• wicker, s. b., “the geometry of error correcting codes,” ph.d. thesis,
+university of southern california, los angeles, california, may .
+• wicker, s. b., “a microprocessor based diagnostic system,” bs thesis,
+university of virginia, charlottesville, virginia, may .
+5
+books
+• wicker, s. b. and kim, s., fundamentals of codes, graphs, and iterative
+decoding, boston: kluwer academic press, .
+• heegard, c. and wicker, s. b., turbo coding, boston: kluwer academic
+press, .
+• wicker, s. b., error control systems for digital communication and
+storage, englewood cliffs: prentice hall, .
+• wicker, s. b. and bhargava, v. k. (editors), reed-solomon codes and
+their applications, piscataway: ieee press, .
+• chmora, a., and wicker, s. b. (editors), error control, cryptology, and
+speech compression: workshop on information protection, moscow,
+russia, lecture notes in computer science, volume 829, heidelberg:
+springer verlag, .
+parts of books
+• z. haas, j. y. halpern, l. li, and s. b. wicker, “a decision-theoretic approach
+to resource allocation in wireless multimedia networks,” resource allocation
+in next generation wireless networks (w. li and y. pan, eds.), nova
+science publishers, .
+• p. samar and s.b. wicker, "on the behavior of communication links in a
+multi-hop mobile environment," frontiers in distributed sensor networks,
+s.s. iyengar and r.r. brooks (eds.), crc press, .
+• b. krishnamachari and s. b. wicker, "base station location optimization in
+cellular wireless networks using heuristic search algorithms," book chapter
+in soft computing in communications, ed. l. wang, springer-verlag, .
+• wicker, s. b., "cyclic codes" in wiley encyclopedia of telecommunications,
+(ed: j. proakis), .
+• bhaskar krishnamachari, stephen b. wicker, ramon bejar, and marc
+pearlman, "critical density thresholds in distributed wireless networks,"
+advances in coding and information theory, eds. h. bhargava, h.v. poor
+and v. tarokh, kluwer publishers, .
+• carla games, xi xie, stephen b. wicker, and bart selman, “heavy tails,
+phae transitions, and the nature of cutoff,” in codes, graphs, and systems,
+boston: kluwer, .
+• bhaskar krishnamachari, xi xie, bart selman, and stephen b. wicker,
+"analysis of random walk and random noise algorithms for satisfiability
+6
+testing," principles and practice of constraint programming - cp ,
+lecture notes in computer science, vol. 1894, springer, september .
+• bhaskar krishnamachari and stephen b. wicker, "global search techniques
+for problems in mobile communications," in telecommunications
+optimization: adaptive and heuristic approaches, eds. david corne et al.,
+john wiley & sons publishers, october .
+• costello, d., hagenauer, j., imai, h., and wicker, s. b., “applications of error
+control coding,” information theory: 50 years of discovery (s. verdú and s.
+mclaughlin, ed), ieee press, .
+• wicker, s. b., “deep space applications,” handbook of coding theory, (vera
+pless and william cary huffman, ed.), amsterdam: elsevier, .
+• wicker, s. b. and bhargava, v. k., “introduction,” in reed-solomon codes
+and their applications, (s. b. wicker and v. k. bhargava, ed.), ieee press,
+.
+• wicker, s. b. and bartz, m., “reed-solomon codes in hybrid automatic-
+repeat-request protocols,” in reed-solomon codes and their
+applications, (s. b. wicker and v. k. bhargava, ed.), ieee press, .
+• alabbadi, m. and wicker, s. b., “susceptibility of digital signature schemes
+based on error-correcting codes to universal forgery,” in error control,
+cryptology, and speech compression: workshop on information protection,
+moscow, russia (a. chmora and s. b. wicker, ed.), lecture notes on
+computer science, volume 829, heidelberg: springer verlag, .
+• souissi, slim and wicker, s. b., "application of packet combining
+techniques to a ds/cdma system using convolutional encoding and
+sequential decoding", in communication theory and applications ii (b.
+honary, m. darnell, and p. farrell, ed.) london: hw communications
+publishing ltd, .
+• wicker, s. b., “trellis coded hybrid-arq protocols,” in communication,
+control, and signal processing, pp. 339 - 346, (erdal erikan, ed.),
+amsterdam: elsevier publishing ( ).
+refereed journal articles (published or to appear)
+• n. karst, s. b. wicker. "on secure rekeying using cover-free families,"
+ieee transactions on information theory, in revision.
+• h. inaltekin, m. chiang, h. v. poor and s. b. wicker, ``selfish random access
+over wireless channels with multipacket reception," ieee journal in selected
+7
+areas in communications, (special issue on game theory in wireless
+communications), revision submitted, aug .
+• s. b. wicker, “digital telephony and the question of privacy,”
+communications of the acm, vol. 54, no. 7, july, , pp. 88 – 98.
+• s, b, wicker and d. e. schrader, “privacy-aware design principles for
+information networks,” proceedings of the ieee, february , pp. 330 -
+350.
+• mikhail lisovich, deirdre mulligan, and stephen b. wicker, “inferring
+personal information from demand-response systems,” ieee security
+and privacy magazine; january/february .
+• anna kacewicz and stephen b. wicker, "redundancy minimizing techniques
+for robust transmission in wireless networks," journal of communications
+and networks, 11:564-573, .
+• h. inaltekin, m. chiang, h. v. poor and s.b. wicker, ``on unbounded
+path-loss models: effects of singularity on wireless network performance,"
+ieee journal in selected areas in communications (special issue on
+geometry and random graphs for the analysis of and design of wireless
+networks), vol. 27, no. 7, pp. 1078-1092, sept .
+• h. inaltekin and s.b. wicker, "a one-shot random access game for wireless
+networks – behavior of nodes at nash equilibria" ieee/acm trans. on
+networking, december .
+• h. inaltekin and s. b. wicker, ``the analysis of nash equilibria of the one-
+shot random access game for wireless networks and the behavior of
+selfish nodes," ieee/acm trans. on networking, vol. 16, no. 5, pp. 1094-
+1107, oct .
+• s. pai, m. meingast, t. roosta, s. bermudez, s. wicker, d. mulligan, and s.
+s. sastry, "confidentiality in sensor networks: transactional information,"
+ieee security and privacy magazine; july/august .
+• h. qu and s. b. wicker, "a combined localization and geographic routing
+algorithm for rapidly-deployed wireless sensor networks", international
+journal of distributed sensor networks, volume 4, issue 1 january ,
+pages 44 - 63.
+• h. qu and s. b. wicker, "co-designed anchor-free localization and
+location-based routing algorithm for rapidly-deployed wireless sensor
+networks", information fusion, .
+8
+• m. meingast, s. pai, s. wicker, s. s. sastry, "privacy in camera networks, a
+technical perspective," eecs department, university of california, berkeley,
+technical report ucb/eecs- -94, july .
+• x. zhang, j. chen, s. b. wicker, and t. berger, "successive coding in
+multiuser information theory", ieee transactions on information theory,
+volume 53, no. 6, june , pp. 2246 – 2254.
+• p. samar and s. b. wicker, “link dynamics and protocol design in a
+multi-hop mobile environment,” ieee transactions on mobile computing,
+september .
+• x. zhang, s. b. wicker, "on the optimal distribution of sensors in a
+random field", acm transactions on sensor networks, march .
+j. chen, x. zhang, t. berger and s. b. wicker "the sum-rate distortion
+•
+function and optimal rate allocation for the quadratic gaussian ceo
+problem" ieee journal on selected areas in communications: special issue
+on sensor networks, volume 22, no. 6, august .
+bhaskar krishnamachari, rung-hung gau, stephen b. wicker, and zygmunt
+•
+j. haas, "optimal sequential paging in cellular networks," acm/baltzer
+wireless networks, vol 10, no. 2, march .
+• bhaskar krishnamachari, stephen wicker, ramon bejar and cesar
+fernandez, "on the complexity of distributed self-configuration in wireless
+networks," in kluwer journal on telecommunication systems, special issue
+on wireless networks and mobile computing, eds. i. stojmenovic and s.
+olariu, vol. 22, no. 1, january/april .
+• b. krishnamachari, y. mourtada, and s. wicker, "the energy-robustness
+tradeoff for real-time information routing in wireless sensor networks,"
+submitted to the special issue of elsevier computer networks on wireless
+sensor networks, october .
+• andrea goldsmith and stephen b. wicker, "design challenges for energy-
+constrained ad hoc wireless networks," ieee wireless communications
+magazine, august, .
+• allen b. mackenzie and stephen b. wicker, "game theory and the design of
+self-configuring, adaptive wireless networks," ieee communications
+magazine, november .
+• buckley, m. e. and wicker, s. b., “the design and performance of a neural
+network for predicting decoder error in turbo-coded arq protocols,” ieee
+transactions on communications, volume 48, number 4, pp. 566 - 576, april
+.
+9
+• park, j. i., wicker, s. b., and owen, h. l., “trellis-based soft output
+adaptive equalization techniques for tdma cellular systems,” ieee
+transactions on vehicular technology, pp. 83 – 94, january .
+• wang, x.a., and wicker, s. b., "the bcjr trellis and the design and
+implementation of trellis decoders for some bch codes," applicable
+algebra in engineering, communication, and computing, volume 9, number
+6, , pp. 521 - 546.
+• buckley, m. e. and wicker, s. b., “a neural network for predicting decoder
+error in turbo decoders,” ieee communications letters, volume 3, number
+5, may , pp. 145 - 147.
+• tapp, t., luna, a., wang, x.a., and wicker, s. b., “bch soft decision
+decoders for mobile data applications,” ieee transactions on
+communications, volume 47, number 3, pp. 333 – 337, march .
+• luna, a., fontaine, f. and wicker, s. b., “iterative maximum likelihood trellis
+decoding for block codes,” ieee transactions on communications, volume
+47, number 3, pp. 338 – 342, march .
+• costello, d., hagenauer, j., imai, h., and wicker, s. b., “applications of error
+control coding,” ieee transactions on information theory, 50th anniversary
+issue, volume 44, number 6, pp. , october .
+• zaidan, m. y. and wicker, s. b., “trellis coded modulation with σ-tree
+codes,” ieee transactions on information theory, volume 43, number 6, pp.
+, november, .
+• hao, m.-j. and wicker, s. b., “the effect of error control coding in
+multichannel fsk coherent lightwave communication systems,” ieee
+journal of lightwave technology, volume 14, number 12, pp. ,
+december, .
+• rasmussen, l. k., bartz, m. j., and wicker, s. b., “a comparison of trellis
+coded and reed-solomon coded hybrid-arq protocols over slowly
+fading rayleigh channels,” wireless personal communications, volume 2,
+number 4, pp. 393-413, .
+• wang, x-a, and wicker, s. b., “generalized soft decision decoding for
+concatenated systems,” ieee transactions on information theory, volume
+42, number 2, pp. 543-553, march, .
+• wang, x-a, and wicker, s. b., “the analog neural net viterbi decoder,”
+ieee transactions on communications, volume 44, number 2, february,
+, pp. 165 - 171.
+10
+• rasmussen, l. and wicker, s. b., “trellis coded, type-i hybrid-arq
+protocols based on crc error-detecting codes,” ieee transactions on
+communications, volume 43, number 10, october, , pp. .
+• hao, m.-j. and wicker, s. b., “performance evaluation of fsk and cpfsk
+optical communication systems: a stable and accurate method,” ieee
+journal of lightwave technology, volume 13, number 8, august , pp
+.
+• rasmussen, l. and wicker, s. b., “a comparison of two code combining
+techniques for equal gain, trellis coded diversity receivers,” ieee
+transactions on vehicular technology, volume 44, number 2, may, ,
+pp. 291 - 295.
+• souissi, s. and wicker, s. b., “a diversity combining ds/cdma system with
+convolutional encoding and viterbi decoding,” ieee transactions on
+vehicular technology, volume 44, number 2, may, , pp. 304 - 312.
+• wicker, s. b. and bartz, m., “type-ii hybrid-arq protocols using punctured
+mds codes,” ieee transactions on communications, vol. 42, no. 4, pp.
+1431-1440, april .
+• rice, m. d. and wicker s. b., “a sequential testing scheme for adaptive
+error control on slowly varying channels” ieee transactions on
+communications, vol. 42, no. 4, pp. 1533-1543, april .
+• harvey, b. a. and wicker, s. b., “packet combining systems based on the
+viterbi decoder” ieee transactions on communications, vol. 42, no. 4, pp.
+1544-1557, april .
+• rice, m. d. and wicker, s. b., “adaptive error control for slowly varying
+channels,” ieee transactions on communications, vol. 42, no. 3, pp. 917-
+926, march .
+• wicker, s. b. and bartz, m., “the design and implementation of type-i and
+type-ii hybrid-arq protocols based on first-order reed-muller codes,”
+ieee transactions on communications, vol. 42, no. 3, pp. 979-987, march
+.
+• rasmussen, l. and wicker, s. b., “trellis coded hybrid-arq protocols over
+awgn and slowly fading rician channels,” ieee transactions on
+information theory, volume 40, number 2, march , pp. 418-428.
+• rasmussen, l. and wicker, s. b., “a comparison of two retransmission
+request mechanisms for trellis coded modulation,” electronics letters,
+volume 29, number 25, pp. , december 9, .
+11
+• rice, m. d. and wicker, s. b., "modified majority-logic decoding of cyclic
+codes in hybrid-arq systems, ieee transactions on communications,
+volume 40, number 9, pp. , september, .
+• alabbadi, m. and wicker, s. b., “cryptanalysis of the harn-wang modification
+of the xinmei signature scheme,” electronics letters, volume 28, number 18,
+pp. , august 27, .
+• wicker, s. b., “reed-solomon error control coding for data transmission
+over rayleigh fading channels with feedback,” ieee transactions on
+vehicular technology, volume 41, number 2, pp. 124 - 133, may .
+• alabbadi, m. and wicker, s. b., “the security of xinmei’s digital signature
+scheme” electronics letters, volume 28, number 9, pp. 890 - 891, april
+.
+• wicker, s. b., “adaptive rate error control through the use of diversity
+combining and majority-logic decoding in a hybrid-arq protocol,” ieee
+transactions on communications, volume 39, number 3, pp. 380 - 386,
+march .
+• harvey, b and wicker, s. b., “error-trapping viterbi decoding for type-i
+hybrid-arq protocols,” canadian journal of electrical and computer
+engineering, volume 16, number 1, pp. 5 - 12, january .
+• wicker, s. b., “muting algorithms based on the use of side information
+generated by error control systems,” ieee transactions on vehicular
+technology, volume 39, no 2, pp. 171 - 176, may .
+• wicker, s. b., “modified majority-logic decoders for use in convolutionally
+encoded hybrid-arq systems,” ieee transactions on communications,
+volume 38, no. 3, pp. 263 - 266, march .
+• wicker, s. b., “high reliability data transfer over the land mobile radio
+channel,” ieee transactions on vehicular technology, volume 39, no 1, pp.
+48 - 55, february .
+refereed conference papers
+• stephen b. wicker and robert j. thomas, “a privacy-aware architecture for
+demand response systems” in proc. of the 44 hawaiian confernece on
+system science (hicss-44), kauai, hawaii, january 10, . nominee for
+best paper award.
+• anna kacewicz and stephen b. wicker, "application of reed-muller codes
+for localization of malicious nodes, " in proc. ieee international conference
+on communications (icc’10), cape town, south africa, may 23–27, .
+12
+• sergio bermudez and stephen b. wicker, “partial connectivity of multi-hop
+two-dimensional finite hybrid wireless networks,” in proc. ieee international
+conference on communications (icc’10), cape town, south africa, may 23–
+27, .
+• bennett c., wicker s. b., “decreased time delay and security enhancement
+recommendations for ami smart meter networks.” pes innovative
+smart grid technologies conference., gaithersburg, maryland, january 19th-
+21st,
+• anna kacewicz and stephen b. wicker, "secrecy and reliability using raptor
+codes in the presence of a wiretapper in a multiple path wireless network",
+proceedings of international conference on wireless communications and
+signal processing, nanjing, china, nov 13, - nov 15, .
+• bennett c., wicker s. b., cardell j., “a review of the communication
+protocols for smart grid ami systems.” fifth annual carnegie mellon
+conference on the electricity industry: smart grids ., pittsburgh,
+pennsylvania,
+• s. bermudez and s. b. wicker, “connectivity analysis under shadowing in
+wireless networks with data correlation topology control,” in proc. ieee
+international symposium on wireless pervasive computing (iswpc’09),
+melbourne, australia, feb. 11–13, .
+• s. bermudez and s. b. wicker, “connectivity of finite wireless networks with
+random communication range nodes,” in proc. ieee international conference
+on communications (icc’09), dresden, germany, jun. 14–18, .
+• anna kacewicz, stephen b. wicker, "optimizing redundancy using mds
+codes and dynamic symbol allocation in mobile ad hoc
+networks," proceedings of the conference on information science and
+systems (ciss), 1093-1098, .
+• s. a. bermudez and s. b. wicker, “on the connectivity of finite wireless
+networks with multiple base stations,” in proc. 17th international conference
+on computer communications and networks (icccn’08), saint thomas,
+u.s. virgin islands, aug. 3–7, .
+• h. inaltekin, m. chiang, h. v. poor and s. b. wicker, “on the asymptotic
+behavior of selfish transmitters sharing a common wireless communication
+channel,” proceedings of the ieee international symposium on
+information theory, toronto, canada, july .
+• s. bermudez and s. b. wicker, "taking advantage of data correlation to
+control the topology of wireless sensor networks," 15th international
+conference on telecommunications 16-19 june, , st. petersburg,
+russia
+13
+• m. lisovich, s. bermudez, and s. b. wicker, "reconfiguration in
+heterogeneous mobile wireless sensor networks" proceedings of the
+international symposium on wireless pervasive computing , 7-9 may,
+, santorini, greece.
+• m. lisovich and s. b. wicker, “privacy concerns in upcoming residential
+and commercial demand-response systems,” clemson power systems
+conference , march
+• c. bennett, j. cardell, s. wicker. "residential demand response wireless
+sensor network". proceedings of the fourth annual carnegie mellon
+conference on the electricity industry, carnegie mellon university
+department of electrical engineering, 5, march, .
+• s. jiang, y. cao, s. iyengar, p. kuryloski, r. jafari, y. xue, r. bajcsy, s.
+wicker. "carenet: an integrated wireless sensor networking
+environment for remote healthcare," proceedings of the 3rd international
+conference on body area networks (bodynets ), march 13-15,
+.
+• t. roosta, s. pai, p. chen, s. s. sastry, s. wicker, "the inherent security of
+routing protocols in ad-hoc and sensor networks," proceedings of the 50th
+annual ieee global communications conference (ieee globecom'07),
+26-30 november , washington, dc.
+• h. inaltekin, c. tavoularis and s. b. wicker, “event detection time
+calculations for mobile sensor networks using first passage processes,” ieee
+global communications conference, washington, dc, nov .
+• h. inaltekin and s. b. wicker, “random access game over noisy channels
+with capture effect,” 10th acm international symposium on modeling,
+analysis and simulation of wireless and mobile systems, crete island,
+greece, oct .
+• h. inaltekin and s. b. wicker, "random access games: selfish nodes with
+incomplete information", proceedings of ieee milcom , orlando,
+florida.
+• c. tavoularis and s. b. wicker, “optimal sleep strategies with respect to
+traffic patterns in wireless sensor networks,” proceedings of the ieee
+international conference on communications (icc ‘07), scotland.
+• p. kuryloski, s. pai, s. wicker, y. xue, "medsn system for in-home patient
+monitoring: architecture, privacy and security" proceedings of the joint
+conference on high confidence medical devices, software, and systems
+14
+(hcmdss'07) and medical device plug-and-play interoperability (md
+pnp'07), 25-27 june , boston, ma.
+• h. inaltekin and s.b. wicker, "random access game under incomplete
+information", 4th workshop on embedded networked sensors .
+• h. inaltekin, t. wexler, s.b. wicker, "a duopoly pricing game for
+wireless ip services", proceedings of the fourth annual ieee
+communications society conference on sensor, mesh and ad hoc
+communications and networks (secon ), june 18 – 21, , san
+diego, ca.
+• h. inaltekin and s. b. wicker, "the behavior of unbounded path-loss
+models and the effect of singularity on computed network interference",
+proceedings of the fourth annual ieee communications society
+conference on sensor, mesh and ad hoc communications and networks
+(secon ), june 18 – 21, , san diego, ca.
+• s. pai, p. kuryloski, h. yip, s. yennamandra, s. wicker, k. boehner, and g.
+gay, “networks of sensors in public spaces: combining technology with
+art,” proceedings of ieee international symposium on ubiquitous computing
+and intelligence (uciʼ07), 21-23 may , niagara falls, ontario, canada.
+• s. pai, t. roosta, s. wicker, and s. s. sastry, “using social network theory
+towards development of wireless ad hoc network trust,” proceedings of
+3rd ieee international symposium on security in networks and distributed
+systems (ssnds'07), 21-23 may , niagara falls, ontario, canada.
+• h. inaltekin and s. b. wicker, "the analysis of a game theoretic mac
+protocol for wireless networks", third annual ieee communications
+society conference on sensor, mesh and ad hoc communications and
+networks (secon ), september 25 – 28, reston, va.
+• hui qu and stephen b. wicker, “anchor-free localization in rapidly-
+deployed wireless sensor networks,” in proc. of ieee international
+conference on mobile ad hoc and sensor systems (mass), pp. 627--
+632.
+• hui qu and stephen b. wicker, “a combined localization and location-
+based routing algorithm for rapidly-deployable wireless sensor networks,”
+presented in the 2nd international symposium on innovations and real-
+time applications of distributed sensor networks, crystal city,
+washington dc, usa, october 16, .
+h. inalketin, s. b. wicker, “a one-shot random access game for
+•
+wireless networks,” the international conference on wireless networks,
+15
+communications, and mobile computing (wirelesscom ), june 13-
+16, , maui, hawaii.
+• x. zhang, s. b. wicker "robustness vs. efficiency in sensor networks,”,
+proceedings of information processing in sensor networks (ipsn), berkeley,
+.
+• x. zhang, s. b. wicker "robustness vs. efficiency for the quadratic gaussian
+ceo problem,” allerton conference, .
+• p. samar and s.b. wicker, "characterizing the communication links of a
+node in a mobile ad hoc network," proceedings of icc , paris, france.
+x. zhang, s. b. wicker "how to distribute sensors in a random field,"
+•
+proceedings of information processing in sensor networks (ipsn), berkeley,
+.
+• m. roth, s. wicker, “route filtering in swarm intelligent manets,” tenth
+annual international conference on mobile computing and networking
+(mobicom), philadelphia, usa, .
+• p. samar and s.b. wicker, "on the behavior of communication links of a
+node in a multi-hop mobile environment," accepted for presentation at the
+fifth acm international symposium on mobile ad hoc networking and
+computing (mobihoc), tokyo, japan, .
+y. mourtada and s. wicker, "lgma: localized gradient management
+•
+algorithm for mobile wireless sensor networks," proceedings of the
+symposium on defense & security, april 04.
+• m. roth, s.wicker, “termite: emergent ad-hoc networking,” proceedings of
+the second mediterranean workshop on ad-hoc networks, medhia, tunisia,
+.
+j. chen, x. zhang, t. berger and s. b. wicker "rate allocation in distributed
+•
+sensor network", proceedings of the allerton conference .
+• m. roth, s. wicker, termite: ad-hoc networking with stigmergy, ieee
+globecomm , san francisco, usa, .
+• sakk, e. and wicker, s.b., wavelet packets for error control coding,
+proceedings of the spie 48th annual meeting (wavelets x), san diego, ca,
+august 3-8, .
+• a. b. mackenzie and s. b. wicker, "stability of slotted aloha with multipacket
+reception and selfish users," proceedings of infocom .
+16
+• b. krishnamachari, y. mourtada, and s. wicker, "the energy-robustness
+tradeoff for routing in wireless sensor networks," proceedings of ieee
+international conference on communications, icc , anchorage,
+alaska, may .
+• y. mourtada, m. swanson, and s. wicker, "statistical performance analysis
+of address-centric performance versus data-centric directed diffusion
+approach in wireless sensor networks," aerosense symposium on
+battlespace digitization and network centric systems iii, april .
+• yurong chen and stephen b. wicker, on selection of optimal transmission
+power for ad hoc networks, proceedings of the hawaii international
+conference on system science (hicss-36), big island, hawaii, jan. 6-9,
+.
+• y. mourtada, and s. wicker, "on the effect on robustness of topological
+factors in wireless sensor networks", proceedings of the workshop on
+mobile and wireless networks mwn , december .
+• ewald hueffmeier, janak sodha, and stephen b. wicker, "on the
+termination of the bcjr algorithm," proceedings of the third international
+symposium on communication systems, networks and digital signal
+processing, staffordshire, england, 15-17 july .
+• bhaskar krishnamachari, deborah estrin, stephen wicker, ``the impact of
+data aggregation in wireless sensor networks," international workshop on
+distributed event-based systems, (debs '02), held in conjunction with ieee
+icdcs, vienna, austria, july .
+• bhaskar krishnamachari, ramon bejar, and stephen b. wicker, "distributed
+problem solving and the boundaries of self-configuration in multi-hop
+wireless networks" hawaii international conference on system sciences
+(hicss-35), january .
+• bhaskar krishnamachari, stephen b. wicker, and ramon bejar, "phase
+transition phenomena in wireless ad-hoc networks" proceedings of
+symposium on ad-hoc wireless networks, globecom2001, san antonio,
+texas, november .
+• a. b. mackenzie and s. b. wicker, "game theory in communications:
+motivation, explanation, and application to power control," proceedings of
+globecom , san antonio, texas, november .
+• bhaskar krishnamachari, rung-hung gau, stephen b. wicker, and zygmunt
+j. haas, "on the performance of sequential paging for mobile user
+location," proceedings of the ieee vehicular technology conference (vtc
+fall ), atlantic city, new jersey, october .
+17
+• deepak ganesan, bhaskar krishnamachari, alec woo, david culler, deborah
+estrin, and stephen wicker, "large-scale network discovery: design
+tradeoffs in wireless sensor systems," student poster presented at the 18th
+acm symposium on operating system principles, banff, canada, october
+.
+• a. b. mackenzie and s. b. wicker, "selfish users in aloha: a game-
+theoretic approach," proceedings of ieee vehicular technology conference
+(vtc fall ), atlantic city, new jersey, october .
+• sakk, e., wicker, s.b., "finite field wavelet packets for error control
+coding", proceedings of 39th annual allerton conference on communication,
+control and computing, urbana-champaign, il, october .
+• bhaskar krishnamachari, ramon bejar, and stephen b. wicker, "distributed
+constraint satisfaction and the bounds on resource allocation in wireless
+networks" proceedings of the sixth international symposium on
+communications theory & application (iscta01), ambleside, uk, july .
+• gomes, c. p., wicker, s. b., xie, x., and selman, b., "a connection between
+phase transitions in complexity and good decoding," proceedings of the
+international symposium on information theory and its applications,
+honolulu, hawaii, november 5 – 8, .
+• bhaskar krishnamachari, and stephen wicker, "fixed network design in
+cellular systems using local search algorithms," proceedings of the ieee
+vehicular technology conference, boston, massachusetts, september .
+• z. haas, j. y. halpern, l. li, and s. b. wicker, “a decision-theoretic approach
+to resource allocation in wireless multimedia networks,” proceedings of dial
+m for mobility, , pp. 86-95.
+• bhaskar krishnamachari, xi xie, bart selman, and stephen wicker, "analysis
+of random walk and random noise algorithms for satisfiability testing,"
+sixth international conference on principles and practice of constraint
+programming (cp ), singapore, september (lecture notes in
+computer science, vol. 1894, springer-verlag, september ).
+• m. e. buckley, m. g. ramos, s. h. hemami, and s. b. wicker, "perceptually-
+based robust image transmission over wireless channels," proceedings of
+the international conference on image processing, vancouver, b.c.,
+september 10-13, .
+• m. e. buckley, b. krishnamachari, j. hagenauer, and s. b. wicker,
+"improving turbo decoding via cross-entropy minimization," proceedings of
+the ieee international symposium on information theory, sorrento, italy,
+june 25-30, .
+18
+• x. xie and s. b. wicker, "solving large scale channel allocation problems
+with splitting algorithms," accepted for presentation at icc , new
+orleans, louisiana, june 18-22, .
+• b. krishnamachari and s. wicker, "experimental analysis of local search
+algorithms for optimal base station location," proceedings of the
+international conference on evolutionary computing for computer,
+communication, control and power (eccap ), chennai, india, january
+.
+• s. kim and s. b. wicker, "improved turbo decoding through belief
+propagation," proceedings of the ieee global communications conference,
+rio de janeiro, brazil, december 5-9, .
+• j. i. park, y. choi, s. b. wicker, and h. l. owen, "trellis based turbo
+equalization techniques for mobile radio receiver," proceedings of the
+international conference on telecommunication, cheju, korea, jun. 15,
+- jun. 18, .
+• j. kosmach and s. b. wicker, "reconfigurable two-stage trellis decoding
+for reed-solomon codes," proceedings of the international conference on
+communications, june 6 - 10, , vancouver, b.c. canada.
+• j. kosmach and s. b. wicker, "algebraic-sequential reed-solomon trellis
+decoding," proceedings of the ieee vehicular technology conference, may
+16 - 20, , houston, texas.
+• t. fine, s. b. wicker, t. berger, and j. halpern, "sensor-assisted multiple
+access protocols for wireless networks, " proceedings of the
+international conference on universal personal communications, florence,
+italy, october 5 - 9, .
+• s. kim and s. b. wicker, "an exploration of the relationship between the
+baum-welch algorithm and turbo decoding, " proceedings of the
+international symposium on information theory, boston, ma, august 16-21,
+.
+• t. fine, s. b. wicker, t. berger, and j. halpern, "sensor-assisted aloha for
+wireless networks, " proceedings of the international symposium on
+information theory, boston, ma, august 16-21, .
+• j. i. park, s. b. wicker, and h. l. owen, “soft output adaptive equalization
+for gmsk mobile radio,” proceedings of the ieee globecom ‘97, phoenix,
+arizona, november 4 - 8, .
+• s. b. wicker and j. j. kosmach, “advances in the soft decision decoding of
+reed-solomon codes,” proceedings of the ieee pacific rim
+19
+conference for communications, computers, and signal processing,
+victoria, british columbia, august 20 - 22, .
+• a. luna and s. b. wicker, “on decreasing the complexity of trellis decoding
+for block codes” proceedings of the fourth international symposium on
+communication theory and applications, ambleside, u. k., july 13 - 18,
+.
+• p. coulton, b. honary, m. darnell, and . b. wicker, "application of turbo
+codes to hf data transmission," proceedings of the seventh
+international conference on hf radio systems and techniques,
+nottingham, u. k., july 7 - 10, .
+• i. martin, b. honary, g. markarian, and s. b. wicker, “trellis based type-ii
+hybrid arq protocols for reed-muller codes” proceedings of the
+ieee international symposium on information theory, ulm, germany, june
+29 - july 4, .
+• m.-j. hao, s. b. wicker, “reed-solomon error control coding in
+multichannel fsk coherent lightwave systems” proceedings of the
+ieee international symposium on information theory, ulm, germany, june
+29 - july 4, .
+• park, j. i., wicker, s. b., and owen, h. l., “soft output equalization
+techniques for π/4-dqpsk mobile radio,” proceedings of the ieee
+international conference on communications, montreal, quebec, june 8 -
+12,
+• a. luna and s. b. wicker, “sequential ml trellis decoding for block codes”
+proceedings of the conference on information sciences and systems,
+baltimore, maryland, march 19 - 21, .
+• park, j.-i., wicker, s. b., and owen, h. l., "tdma cellular soft output
+adaptive equalization based on the modified-map algorithm," proceedings of
+international phoenix conference on computers and communications,
+phoenix, pp. 557-562, february, .
+• park, j.-i., wicker, s. b., and owen, h. l.,"concatenation of mlse equalizer
+and viterbi decoder for tdma cellular systems," pp. 723-727, proceedings
+of milcom, mclean, virginia, october .
+• wang, x.-a., and wicker, s. b., “the design and implementation of optimal
+trellis decoders for some bch codes,” proceedings of the
+international symposium on information theory and its applications, pp.
+700 - 703, victoria, b. c., canada, september 17 - 20, .
+• wang, x.-a., and wicker, s. b., “recent results: the design and
+implementation of optimal trellis decoders for some bch codes,” abstracts,
+20
+ieee information theory workshop, pg. 73, haifa, israel, june 9 - 13,
+.
+• tapp, t., wang, x.-a., and wicker, s. b., “soft decision hybrid-arq error
+control for mobile data networks,” proceedings of the international
+conference on communications technology, pp. 756 - 759.
+beijing, china, may 5 - 7, .
+• hao, m. j., and wicker, s. b., “the effect of error control coding in
+multichannel fsk coherent lightwave communication systems”
+proceedings of the iee international conference on
+telecommunications, pp. 398 - 405, istanbul, turkey, april 14 - 17, .
+• souissi, s., and wicker, s. b., “dynamic performance of a random access,
+code combining cdma system,” proceedings of the sixth ieee
+international symposium on personal, indoor, and mobile radio
+communications, toronto, canada, september 27 - 29, .
+• wang, x.-a. and wicker, s. b., “a soft output decoding algorithm for
+concatenated systems,” proceedings of ieee international symposium on
+information theory, pg. 475, whistler, british columbia, canada,
+september 17 - 22, .
+• zaidan, m. y., barnes, c., and wicker, s. b., “tree-structure trellis codes,”
+proceedings of ieee international symposium on information theory,
+pg. 185, whistler, british columbia, canada, september 17 - 22, .
+• wang, x.-a. and wicker, s. b., “an artificial neural net viterbi decoder,”
+proceedings of ieee international symposium on information theory,
+pg. 173, whistler, british columbia, canada, september 17 - 22, .
+• tapp, t., wang, x.-a., and wicker, s. b., “soft decision decoders for mobile
+data networks,” proceedings of the jamaican conference on
+communications, pp. 36 - 39, ocho rios, jamaica, august 18 - 20, .
+• wang, x.-a. and wicker, s. b. “a neuralized viterbi decoder, proceedings of
+the 3rd international symposium on communication theory and applications,
+ambleside, england, 10 - 14 july, .
+• wang, x.-a. and wicker, s. b. “generation and performance of efficient soft
+outputs in viterbi decoding,” proceedings of the seventh joint swedish-
+russian international workshop on information theory, pp. 248 - 253, st.
+petersburg, russia, june 17 - 22, .
+• wang, x.-a. and wicker, s. b. “viterbi decoding with soft outputs and
+adaptive decoding depth,” proceedings of the conference on information
+sciences and systems, pp. 37 - 43, the johns hopkins university,
+march 22 - 24, .
+21
+• wang, x.-a. and wicker, s. b. “generalized soft decision decoding for
+concatenated systems,” proceedings of the 3rd uk/australian international
+symposium on dsp for communication systems, coventry, uk, 12 - 14
+december, .
+• alabbadi, m., and wicker, s. b., “a digital signature scheme based on
+linear block codes,” proceedings of asiacrypt’94, sydney, australia,
+november 28 - december 1, .
+• souissi, s., and wicker, s. b., “performance analysis of a random access,
+direct sequence, packet combining, code division multiple access
+system,” communications theory mini- conference ‘94 (globecom ‘94),
+san francisco, ca, november 27 - december 1, .
+• alabbadi, m., and wicker, s. b., “combined data encryption and reliability
+using mceliece’s public key cryptosystem,” proceedings of the
+international symposium on information theory and its applications, pp.
+263 - 268, sydney, australia, november 20-25, .
+• rasmussen, l. and wicker, s. b., “a performance analysis for tcm diversity
+receivers using two different diversity combining techniques,”
+proceedings of the ieee personal, indoor, and mobile radio
+commmunications conference, the hague, netherlands, september 19 –
+23, .
+• souissi, s. and wicker, s. b., “packet combining error control for cdma
+systems,” proceedings of the ieee third international symposium on
+spread spectrum techniques and applications, pp. 248-252, july 4 - 6,
+, oulu, finland.
+• alabbadi, m. and wicker, s. b., “susceptibility of digital signature schemes
+based on error-correcting codes to universal forgery,” proceedings of the
+ieee international symposium of information theory, pg. 494, june 27
+- july 1, , trondheim, norway.
+• rasmussen, l. and wicker, s. b., “performance approximation for trellis
+coded diversity receivers over slowly fading rayleigh channels,”
+proceedings of the ieee international symposium of information
+theory, pg. 25, june 27 - july 1, , trondheim, norway.
+• souissi, s. and wicker, s. b., “a diversity combining ds/cdma system with
+convolutional encoding and viterbi decoding,” proceedings of the
+ieee international conference on communications, pp. , may 1
+- 5, , new orleans, louisiana.
+• rasmussen, l. and wicker, s. b., "a comparison of two error-detection
+22
+schemes for trellis coded hybrid-arq protocols", proceedings of the
+second international symposium on dsp in communication systems, 26- 29
+april, , adelaide, south australia.
+• rasmussen, l., bartz, m., and wicker, s. b., "a comparison of trellis coded
+and reed-solomon coded hybrid-arq protocols over slowly fading
+channels", proceedings of the international conference on universal
+wireless access, 18 - 19 april, , melbourne, south australia.
+• rasmussen, l. and wicker, s. b., “a performance analysis of trellis coded,
+hybrid-arq protocols based on crc error-detecting codes,” proceedings
+of the ieee global communications conference, pp. 86-90, houston,
+texas, december .
+• souissi, slim and wicker, s. b., "application of packet combining
+techniques to a ds/cdma system using convolutional encoding and
+sequential decoding", proceedings of the second uk-cis international
+symposium on communication theory and its applications,, pp. 167-174,
+july 12 - 16, , charlotte mason college, ambleside, lake district,
+united kingdom.
+• bartz, m. and wicker, s. b., “type-i and type-ii reed-muller hybrid-arq
+protocols” proceedings of the ieee international communications
+conference, pp. 1515-1520, may 23 - 26, , geneva, switzerland.
+• rasmussen, l. and wicker, s. b., “a performance analysis of trellis coded,
+adaptive rate hybrid-arq protocols over awgn channels,” proceedings of
+the international symposium on information theory, pg. 384, san
+antonio, texas, january 17 - 22, .
+• alabbadi, m. and wicker, s. b., “digital signature schemes based on error-
+correcting codes,” proceedings of the international symposium on
+information theory, pg. 199, san antonio, texas, january 17 - 22, .
+• rasmussen, l. k. and wicker, s. b., “a performance analysis of trellis
+coded hybrid-arq protocols in a fading environment,” proceedings of the
+ieee global telecommunications conference, orlando, florida,
+december 6 - 9, .
+• wicker, s. b. and alabbadi, m., “integrated security and error control for
+communication networks using the mceliece cryptosystem,” proceedings
+of the ieee international carnahan conference on security
+technology, pp. 172 - 178, atlanta, georgia, october 14 - 16, .
+• harvey, b. a. and wicker, s. b., “packet combining systems based on the
+viterbi decoder,” proceedings of the ieee military communications
+conference, pp. 757 - 761, san diego, california, october 11 - 14, .
+23
+• rasmussen, l. k. and wicker, s. b., “a performance analysis for trellis
+coded hybrid-arq protocols,” proceedings of the ieee
+communications conference, pp. 647 - 651, chicago, illinois, june 14 - 17,
+.
+• wicker, s. b., “adaptive rate convolutional coding using the viterbi
+decoder,” proceedings of the international winter meeting on coding and
+information theory, p. 25 (summary), essen, germany, december 15 - 17.
+.
+• wicker, s. b., “a reed-solomon hybrid-arq protocol with erasure
+decoding for mobile communication networks,” proceedings of the
+international symposium on personal, indoor, and mobile radio
+communications, london, england, september 23 - 24, .
+• wicker, s. b. and rice, m., “a sequential testing scheme for adaptive error
+control on slowly varying channels” proceedings of the international
+symposium on theory, budapest, hungary, pg. 30, june 23 - 28, .
+• cornett, k. g. and wicker, s. b., “bit error rate estimation techniques for
+digital mobile radios,” proceedings of the 41st annual ieee vehicular
+technology conference, st. louis, missouri, may 19 - 22, .
+• wicker, s. b., “reed-solomon error control coding for data transmission
+over personal communication networks,” proceedings of the ieee
+southeastcon , williamsburg, virginia, pp. 437 - 441, april 7 - 10, .
+• rice, m. d. and wicker, s. b., “adaptive rate coding for slowly varying
+channels.” proceedings of the sbt/ieee international
+telecommunications symposium, rio de janerio, brazil, pp. 176 - 180,
+september 3 - 6, .
+• wicker, s. b., “trellis coded hybrid-arq error control,” proceedings of the
+bilkent international conference on new trends in communications,
+control, and signal processing, ankara turkey, pp. 339 - 346, july, 2 .
+• harvey a. b. and wicker, s. b., “error-trapping viterbi decoding in a type-i
+hybrid-arq protocol,” proceedings of the ieee international
+conference on communications, atlanta, georgia, pp. 332.5.1 - 332.5.5,
+april 16 - 19, .
+• rice, m. d. and wicker, s. b., “modified majority-logic decoding of cyclic
+block codes,” proceedings of the ieee international conference on
+communications, atlanta, georgia, pp. 332.3.1 - 332.3.5, april 16 - 19, .
+• wicker, s. b. and harvey b., “error-trapping viterbi decoding in type-i
+hybrid-arq protocols” international symposium on theory, san
+diego, california, paper wa2-6, january 17, .
+24
+• wicker, s. b., “adaptive rate coding using reed-solomon codes in a
+hybrid-arq protocol,” proceedings of the international symposium on
+signals, systems, and electronics, nürnberg, west germany, pp. 642 - 645,
+september 18, .
+• wicker, s. b. “hybrid-arq reed-solomon coding in an adaptive rate
+system,” proceedings of the ieee international conference on
+communications, boston, massachusetts, pp. 45.5.1 - 45.5.5, june 11,
+.
+• wicker, s. b., “an error control technique for high data rate
+communication networks,” proceedings of the ieee infocom
+conference, ottawa, ontario, pp. 594 - 601, april 25, .
+• wicker, s. b., “an adaptive type-i hybrid-arq technique using the viterbi
+decoding algorithm,” proceedings of the ieee military communications
+conference, san diego, california, pp. 15.5.1 - 15.5.5, october 23, .
+• wicker, s. b., “cyclic codes and rational curves,” international
+symposium on information theory, kobe, japan, paper number mc7-2,
+june 19, .
+• wicker, s. b. and welch, l. r., “the geometry of mds codes,” proceedings
+of the ieee pacific rim conference for communications, computers,
+and signal processing, victoria, british columbia, pp. 89 - 92, june 4, .
+invited conference papers
+• wicker, s. b., "markov chains, error control, and the advent of turbo
+coding," ima workshop on codes, systems and graphical models,
+minneapolis, mn, august 2-13, .
+• buckley, m. e. and wicker, s. b., " optimization, neural networks, and turbo
+decoding," proceedings of the fifth international symposium on
+communication theory and applications, ambleside, u. k., july 12 - 16,
+.
+• kim, s. and wicker, s. b., “a connection between the baum-welch
+algorithm and turbo decoding,” proceedings of the information theory
+workshop, killarney, ireland, june 22-26, .
+• wicker, s. b., “error control in space applications,” central section
+meeting of the american mathematical society, chicago, illinois, march 24 -
+25, .
+• wicker, s. b., “error control techniques for voice and data communications
+over cellular mobile channels,” proceedings of the allerton conference on
+25
+communication, control, and computing, pp. 444 - 453, september 28 –
+30, .
+• wicker, s. b. and alabbadi, m., “susceptibility of digital signature schemes
+based on error-correcting codes to universal forgery,” workshop on
+information protection, moscow, russia, december 6 - 9, .
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, proceedings of the international conference on selected
+topics in wireless communication, pp. 76 - 79, vancouver, british
+columbia, canada, june 25 - 26, .
+• wicker, s. b., “type-ii hybrid-arq protocols using punctured reed-
+solomon codes,” proceedings of the ieee military communications
+conference, mclean, virginia, pp. 52.2.1 - 52.2.6, november 4 - 6, .
+• wicker, s. b., “an adaptive rate coding system based on the use of
+majority-logic decoding in a hybrid-arq protocol,” proceedings of the
+ieee military communications conference, boston, massachusetts, pp.
+29.6.1 - 29.6.6, october 15, .
+invited seminar presentations
+• vanderbilt university, march
+• carnegie mellon university, april
+• indian institute of technology, kanpur, january .
+• indian institute of technology, new delhi, january .
+• chalmers university, sweden, september .
+• queens university, canada, may .
+• mcmaster university, canada, february .
+• university of the west indies, barbados, december, .
+• dartmouth college, october, .
+• university of the west indies, barbados, december, .
+• wicker, s. b., "evolutionary game theory and self-configuring wireless
+networks," ucla, los angeles, ca, november 2, .
+• wicker, s. b., "optimization, neural networks, and turbo decoding,"
+university of ulm, germany, july 23, .
+• wicker, s. b., "optimization, neural networks, and turbo decoding,"
+technical university of munich, germany, june 16, .
+• wicker, s. b., "the baum-welch algorithm and turbo decoding,"
+technical university of denmark, copenhagen, march 20, .
+• wicker, s. b., “maximum likelihood sequential soft decision decoding for
+block codes,” jet propulsion laboratory/caltech, pasadena, california,
+december 30, .
+• wicker, s. b., “hard and soft decision decoders for the flex mobile
+messaging protocol,” motorola paging division, fort worth, texas,
+november 24, .
+• wicker, s. b., “soft decision and turbo error control for wireless
+26
+multimedia networks,” motorola paging division, fort worth, texas,
+november 24, .
+• wicker, s. b., “turbo codes, bayesian networks, and the future of
+telecommunications,” suny buffalo, department of electrical engineering,
+may 23, .
+• wicker, s. b., “soft decision trellis decoders for block codes: thoughts on
+the state of the art,” lancaster university, lancaster, england , january 14,
+.
+• wicker, s. b., “introduction to the cornell wireless multimedia laboratory,”
+distinguished seminar series, queen’s university, november 13, .
+• wicker, s. b., “introduction to the cornell wireless multimedia laboratory,”
+gtr corporate research and development, schenectady, new york,
+september 26, .
+• wicker, s. b., “enabling technologies for wireless multimedia systems,”
+strathclyde university, glasgow, scotland, august 15, .
+• wicker, s. b., “wireless technologies and the evolution toward
+the universal mobile telecommunication system,” national technical
+university of athens, athens, greece, september 4, .
+• wicker, s. b., “wireless technologies and the evolution toward
+the universal mobile telecommunication system,” university of athens,
+department of telematics, athens, greece, september 5, .
+• wicker, s. b., “wireless technologies and the evolution toward
+the universal mobile telecommunication system,” telecommunications
+systems institute, chania, crete, september 7, .
+• wicker, s. b., “error control coding for mobile applications,” jet propulsion
+laboratory, pasadena, california, october 18, .
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, lancaster university, lancaster, england, june 21,
+.
+• wicker, s. b., “intelligent systems for error control and security”, defense
+science and technology organization, adelaide, south australia, may 2,
+.
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, simon fraser university, british columbia, canada,
+june 24, .
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, university of british columbia, vancouver, british
+columbia, canada, june 23, .
+• wicker, s. b., “adaptive error control using convolutional and trellis
+codes”, university of victoria, victoria, british columbia, canada, june 22,
+.
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, university of victoria, victoria, british columbia, canada,
+june 19, .
+• wicker, s. b., “reed-solomon error control systems for bidirectional
+fading channels”, institute of communications technology, german
+aerospace research establishment, oberpfaffenhofen, germany, february
+4 - 6, .
+27
+• wicker, s. b., "the application of classical algebraic geometry to
+error correcting codes," department of mathematics, university of puerto
+rico, rio piedras, puerto rico, december 9 - 15, .
+patents and patent applications
+• ober, c, o’rourke, t, spencer, m., turner, j., wicker, s., “flexible substrate
+sensor system for environmental and infrastructure monitoring”, pct wo
+/140490, 20 november , assigned to cornell university.
+• fontaine, f. and wicker, s., “method and apparatus for turbo decoding
+block codes”, u.s. patent 7,243,288, june 10, , assigned to motorola.
+• wicker, s. and fine, t., “sensor-assisted aloha multiple access”, u.s.
+patent 6,404,750, june 11, , assigned to cornell university.
+• wang, x.-a. and wicker, s. b., “the analog neural net viterbi decoder,”
+u.s. patent 5,548,684, august 20, , assigned to georgia institute of
+technology.
+• tapp, t., wang, x.-a. and wicker, s. b., “the soft decision (31,21) bch
+decoder,” patent pending, assigned to mtel/skytel.
+other publications
+• alabbadi, m. and wicker, s. b., “integration of error correction, encryption,
+and signature using linear error-correcting block codes,” ieee
+information theory newsletter, volume 43, number 4, p. 10, december
+.
+• rasmussen, l. k. and wicker, s. b., “trellis coded adaptive rate hybrid-
+arq protocols over awgn and slowly fading rician channels,” ieee
+information theory newsletter, volume 43, number 4, p. 10, december
+.
+• harvey, b. a. and wicker, s. b., “adaptive rate convolutional coding using
+the viterbi decoder,” ieee information theory newsletter, volume 41,
+number 3, p. 15, september .
+• rice, m. d. and wicker, s. b., “adaptive error control over slowly varying
+channels,” ieee information theory newsletter, volume 41, number 2, p.
+20, june .
+28
+funded research projects1
+ tc: privacy-aware design strategies for mobile communications and
+computing,” national science foundation, $500,000, june 15, –
+june 14, .
+ “stc: team for research in ubiquitous secure technology (trust),”
+national science foundation, $20,000,000, september 15, -
+september 15, .
+ “nets-noss: nets - noss: ultra low-power, self-configuring, wireless
+sensor networks,” national science foundation, $2,000,000, september
+15, - september 15, .
+• “itr: self-configuring sensor networks for disaster mitigation and
+recovery,” national science foundation, $2,500,000, september 15,
+-- september 15, .
+• “sensors: the reachback channel in wireless sensor networks,” (pi:
+sergio sevetto), national science foundation. september 15, --
+september 15, .
+• “the ad hoc classroom: integrating emerging wireless communications and
+networking technologies into mainstream computer science and electrical
+engineering curricula,” national science foundation-crcd, (pi: gun sirer),
+$410,000, – .
+• “the ad hoc classroom: integrating emerging wireless communications and
+networking technologies into mainstream computer science and electrical
+engineering curricula,” microsoft, (pi: gun sirer), $75,000, – .
+• “the ad hoc classroom: integrating emerging wireless communications and
+networking technologies into mainstream computer science and electrical
+engineering curricula,” hewlett packard, (pi: gun sirer), $20,000, –
+.
+• "self-configuring wireless sensor networks," darpa ito, $900,000, june
+1, - may 31, .
+• “soft decision decoders for wireless systems,” motorola, $84,000,
+september 15, – september 15, .
+• “sensor-assisted wireless multimedia systems,” national science
+foundation grant ncr-9725251, $862,465, september 15, - august
+31, (with terrence fine and joseph halpern).
+1 principal investigator is stephen wicker unless otherwise noted.
+29
+• “coded diversity combining and channel estimation for wireless data
+communications,” national science foundation grant ncr-9706592,
+$ 246,636, september 15, - august 31, (with zygmunt haas).
+• at&t/lucent technologies foundation, special purpose grant, $15,000,
+november 20, .
+• “adaptive code division multiple access systems,” national science
+foundation grant number grant ncr-9505887, $ 236,855, september 15,
+- august 31,
+• “data transport on cellular telephone systems,” mobile
+telecommunication technologies international, $110,000, july 1, -
+june 30, .
+• “european data transfer protocols,” mobile telecommunication
+technologies international, $92,000, july 1, - june 30, .
+• "soft decision decoding for block codes using artificial neural networks,"
+national science foundation grant number ncr-9216686, $140,000,
+september 15, - march 14, .
+• “adaptive bandwidth-efficient coding for nonstationary channels,” national
+science foundation grant ncr-9016276, $102,000, september 15, -
+march 14, .
+• “cellular mobile telephony laboratory,” mitsubishi consumer electronics,
+$500,000 (equipment), may 29, .
+• “adaptive coding on nonstationary communication channels with
+feedback,” national science foundation grant ncr-9009877, $85,000,
+september 15, - september 14, .
+• “young faculty grant,” general electric, $10,000, july 15, - july 14,
+.
+• “cellular radio diversity simulation study,” bell south mobility, coprincipal
+investigator: gordon l. stuber, $60,000, march 25, - june 25, .
+• “an investigation of message handling in post era,” u. s. army signal
+center, fort gordon, coprincipal investigator: douglas w. browning,
+$137,161, january 10, - december 31, .
+• “cellular radio simulation and coding study,” bell south mobility, $35,000,
+december 15, - march 15, .
+• “cellular radio spectrum study,” bell south mobility, $30,000, september
+30
+25, - december 15, .
+• “the algebraic foundations of digital communication,” at&t foundation,
+$25,000, july 7, - july 6, .
+• “cellular radio spectrum study,” bell south mobility, $45,000, june 15,
+- september 15, .
+• “cellular radio spectrum study,” bell south mobility, $40,000, march 15,
+- june 15, .
+• “communication system simulation software package,” space and
+communications group, hughes aircraft company, $200,000 (software),
+february 1, .
+service
+institute of electrical and electronic engineers (ieee)
+• elected to board of governors, ieee information theory society,
+– , re-elected for .
+• information theory society representative to ieee committee on new
+technology directions
+defense advanced research projects agency (darpa)
+• member, information science and technology study group, – .
+journals
+• editor, acm transactions on sensor networks, - present.
+• editor, special issue on ad hoc networks, volume 2, ieee journal on
+special areas in communications, .
+• editor, special issue on sensor networking, ieee journal on special
+areas in communications, .
+• editor, special issue on ad hoc networks, ieee journal on special areas in
+communcations, .
+• editor, special issue on energy-aware ad hoc wireless networks,
+ieee wireless communications, august .
+• editor for coding theory and techniques, ieee transactions on
+communications, march, - march .
+31
+• reviewer for numerous journals, conferences, national and international
+funding agencies, and textbook publishers.
+conference organization
+• chair, technical program committee, fifth international symposium on
+information processing in sensor networks (ipsn ), nashville,
+tennessee.
+• member, technical program committee, international conference on
+distributed computing in sensor networks (dcoss ‘06).
+• member, technical program committee, fourth international symposium
+on information processing in sensor networks (ipsn ), berkeley,
+california.
+• member, technical program committee, conference on innovations and
+commercial applications of distributed sensor networks, bethesda, md,
+october 18 –19, .
+• member, technical program committee, second ieee international
+conference on sensor and ad hoc communications and networks
+(secon ).
+• member, organizing committee, first ieee conference on sensor
+networks: applications, protocols and technology (snapt ).
+• member, technical program committee, first annual ieee communications
+society conference on sensor and ad hoc communications and networks,
+santa clara ca, october .
+• member, technical program committee, third international symposium on
+information processing in sensor networks (ipsn '04), berkeley, california,
+usa april 26-27,
+member, organizing committee, 7th international symposium on
+•
+communication theory and applications, ambleside, england,
+member, technical program committee, first ieee international workshop
+•
+on
+sensor network protocols and applications, may 11, , anchorage, ak.
+• chair, ieee information theory society symposia and workshops
+committee, .
+32
+• organizing committee, 6th international symposium on communication
+theory and applications, ambleside, england,
+• member, international advisory committee, international symposium on
+information theory and its applications, honolulu, november 5 - 8, .
+• technical program committee, ieee wireless communications &
+networking conference (wcnc), new orleans, la, sep. 22 - 27, .
+• organizing committee, 5th international symposium on communication
+theory and applications, ambleside, england, 10-14 july,
+• technical program committee, international symposium on information
+theory and applications, mexico city, mexico, october 14 - 16, .
+• chaired “arq and wireless error control” session at the international
+symposium on information theory, boston, ma, august 16-21, .
+• organizing committee, 4th international symposium on communication
+theory and applications, ambleside, england, 11 - 15 july,
+• technical program committee, international symposium on information
+theory and applications, victoria, british columbia, september 17-21, .
+• organized and chaired “gus solomon memorial session” at ieee pacific
+rim conference on communications, computers, and signal processing,
+victoria, british columbia, august 20-22, .
+• chaired “mobile communications” session at the international symposium
+on information theory and applications, victoria, british columbia,
+september 17-21, .
+• chaired “advanced subsystems in wireless multimedia networks” session
+at the japan-canada international workshop on multimedia wireless
+communications and computing, victoria, british columbia, september 17,
+.
+• technical program committee, ieee vehicular technology conference,
+atlanta, georgia, april 28 - may 1, .
+• chaired “communication networks” session at the 3rd international
+symposium on communication theory and applications, ambleside,
+england, 10 - 14 july, .
+• chaired “decoding problems” session at seventh joint swedish-russian
+international workshop on information theory, st. petersburg, russia, june
+17 - 22, .
+33
+• general chairman, wireless security workshop, metz, france, february 10 -
+11, .
+• u. s. representative, international advisory board, ieee international
+symposium on information theory, whistler, british columbia, canada,
+september 17 - 22, .
+• chaired “coding and modulation” session at the 3rd uk/australian
+international symposium on dsp for communication systems, warwick,
+uk, 12 - 14 december, .
+• chaired “error control techniques” session at ieee international
+conference on communications, atlanta, georgia, april 16 - 19, .
+university committees, cornell university
+• chair, general recruiting committee, school of electrical and computer
+engineering, ( – )
+• member, university local advisory committee (appointed by faculty senate)
+( – )
+• member, faculty advisory board for information technology, (appointed by
+faculty senate) ( )
+• member, university intellectual property advisory committee, (appointed by
+vp for research) ( - present)
+• chairman, college of engineering curriculum governing board
+(appointed) ( )
+• chairman, electrical engineering curriculum and standards committee
+(elected) ( )
+• chairman, electrical engineering policy committee (elected) ( - )
+• chairman, electrical engineering peoplesoft lab oversight committee
+( - )
+• member, college of engineering dean search committee ( - )
+• member, college of engineering teaching award committee ( - )
+• member, applied mathematics director search committee ( )
+• member, associate dean search committee, .
+• member, electrical engineering policy committee (elected) ( - )
+• member, digital systems search committee ( - )
+• member, college faculty advisory committee for associate dean for
+professional development ( )
+• chairman, several department and college ad hoc tenure and
+promotion committees.
+institute committees, georgia institute of technology
+• institute statutory advisory committee (elected) ( )
+• institute public relations committee (elected) ( )
+• ece graduate curriculum committee ( )
+34
+• ece undergraduate curriculum committee ( )
+• ece computer resources committee ( )
+honors and awards
+• fellow of the ieee,
+• u.s. air force scientific advisory board,
+• cornell university college of engineering teaching award,
+• cornell school of ece teaching award,
+• cornell university college of engineering teaching award,
+• saic best paper award, , for “an artificial neural net viterbi
+decoder” (with xiao-an wang)
+• senior member, institute of electrical and electronic engineers.
+elected january,
+• visiting fellow, british columbia advanced systems institute.
+awarded january .
+• sigma xi, - present
+• tau beta pi, - present
+• eta kappa nu, - present
+• omicron delta kappa, – present
+35

@@ -1,0 +1,357 @@
+luis von ahn
+professional -present a. nico habermann associate professor. computer science department,
+employment carnegie mellon university.
+-present staff research scientist. google, inc.
+- assistant professor. computer science department, carnegie mellon university.
+- founder and ceo. recaptcha, inc. (acquired by google, inc., in ).
+- post-doctoral fellow. computer science department, carnegie mellon university.
+education carnegie mellon university, pittsburgh, pa.
+ph.d. in computer science, .
+advisor: manuel blum
+thesis title: human computation
+carnegie mellon university, pittsburgh, pa.
+m.s. in computer science, .
+duke university, durham, nc.
+b.s. in mathematics (summa cum laude), .
+research i am working to develop a new area of computer science that i call human computation. in
+interests particular, i build systems that combine the intelligence of humans and computers to solve large-scale
+problems that neither can solve alone. an example of my work is recaptcha, in which over 750 million
+people—more than 10% of humanity—have helped digitize books and newspapers.
+selected macarthur fellow, - .
+honors
+packard fellow, - .
+discover magazine: 50 best brains in science, .
+fast company: 100 most creative people in business, .
+silicon.com: 50 most influential people in technology, .
+microsoft new faculty fellow, .
+sloan fellow, .
+career award, national science foundation, - .
+smithsonian magazine: america’s top young innovators in the arts and sciences, .
+technology review’s tr35: young innovators under 35, .
+ieee intelligent systems “ten to watch for the future of ai,” .
+popular science magazine brilliant 10 scientists of .
+herbert a. simon award for teaching excellence in computer science, carnegie mellon university, .
+alan j. perlis teaching award, carnegie mellon university school of computer science, .
+best doctoral dissertation award, carnegie mellon university school of computer science, .
+1
+papers nitin seemakurty, jonathan chu, luis von ahn, and anthony tomasic. word sense disambiguation via
+human computation. human computation workshop (hcomp ), july 25, .
+severin hacker and luis von ahn. matchin: eliciting user preferences with an online game. in acm
+conference on human factors in computing systems, chi . pages 1207-1216.
+edith law and luis von ahn. input-agreement: a new mechanism for collecting data using human
+computation games. in acm conference on human factors in computing systems, chi . pages
+1197-1206.
+jennifer tam, jiri simsa, sean hyde and luis von ahn. breaking audio captchas with machine
+learning techniques. in advances in neural information processing systems, nips .
+nicholas hopper, luis von ahn and john langford. provably secure steganography. in ieee
+transactions on computers, may . pages 662-676.
+luis von ahn, ben maurer, colin mcmillen, david abraham and manuel blum. recaptcha: human-
+based character recognition via web security measures. science, september 12, . pages 1465-1468.
+luis von ahn and laura dabbish. general techniques for designing games with a purpose. communi-
+cations of the acm, august . pages 58-67.
+edith law, luis von ahn, roger dannenberg and michael crawford. tagatune: a game for sound and
+music annotation. ismir .
+luis von ahn, shiry ginosar, mihir kedia and manuel blum. improving image search with phetch. ieee
+international conference on acoustics, speech, and signal processing (icassp) .
+luis von ahn. games with a purpose. ieee computer magazine, june . pages 96-98.
+luis von ahn, andrew bortz, nicholas hopper and kevin o’neill. selectively traceable anonymity. the
+6th workshop on privacy enhancing technologies, pet . pages 208-222.
+luis von ahn, ruoran liu and manuel blum. peekaboom: a game for locating objects in images. acm
+conference on human factors in computing systems, chi . pages 55-64.
+luis von ahn, mihir kedia and manuel blum. verbosity: a game for collecting common-sense
+knowledge. acm conference on human factors in computing systems, chi notes . pages 75-78.
+luis von ahn, shiry ginosar, mihir kedia and manuel blum. improving accessibility of the web with a
+computer game. acm conference on human factors in computing systems, chi notes . pages 79-82.
+luis von ahn, nicholas hopper and john langford. covert two-party computation. proceedings of the
+symposium on the theory of computing (stoc) . pages 513-522.
+luis von ahn and nicholas hopper. public-key steganography. advances in cryptology, eurocrypt .
+pages 323-341.
+luis von ahn and laura dabbish. labeling images with a computer game. acm conference on human
+factors in computing systems, chi . pages 319-326.
+luis von ahn, manuel blum and john langford. how lazy cryptographers do ai. communications of
+the acm, february . pages 56-60.
+luis von ahn, andrew bortz and nicholas hopper. k-anonymous message transmission. acm confer-
+ence on computer and communications security, ccs . pages 122-130.
+luis von ahn, manuel blum, nicholas hopper and john langford. captcha: using hard ai problems
+for security. advances in cryptology, eurocrypt . pages 294-311.
+nicholas hopper, john langford and luis von ahn. provably secure steganography. advances in
+cryptology, crypto . pages 77-92.
+2
+summer microsoft research, redmond,wa. summer . worked with dr. josh benaloh investigating
+internships techniques to capitalize on human processing power for solving large-scale problems.
+ibm t.j. watson research labs, hawthorne, ny. summer . worked under dr. tal rabin in the
+cryptography group on zero-knowledge proofs.
+university of california, berkeley. summer . worked with manuel blum developing captchas.
+teaching instructor. “great theoretical ideas in computer science (15-251),” spring , carnegie mellon
+experience university. enrollment: 220 students.
+instructor. “artificial intelligence (15-381),” fall , carnegie mellon university. evaluation as
+instructor from the students: 4.26/5.0. enrollment: 100 students.
+instructor. “great theoretical ideas in computer science (15-251),” spring , carnegie mellon
+university. evaluation as instructor from the students: 4.18/5.0. enrollment: 200 students.
+instructor. “science of the web (15-396),” fall , carnegie mellon university. evaluation as instructor
+from the students: 4.8/5.0. enrollment: 70 students.
+instructor. “great theoretical ideas in computer science (15-251),” spring , carnegie mellon
+university. evaluation as instructor from the students: 4.7/5.0. enrollment: 185 students.
+instructor. “great theoretical ideas in computer science (15-251),” fall , carnegie mellon
+university. evaluation as instructor from the students: 4.1/5.0. enrollment: 55 students.
+instructor. “great theoretical ideas in computer science (15-251),” spring , carnegie mellon
+university. evaluation as instructor from the students: 4.7/5.0. enrollment: 175 students.
+instructor. “great theoretical ideas in computer science (15-251),” spring , carnegie mellon
+university. evaluation as instructor from the students: 4.7/5.0. enrollment: 170 students.
+instructor. “formal languages, automata and computability (15-453),” fall , carnegie mellon
+university. evaluation as instructor from the students: 4.9/5.0. enrollment: 11 students.
+instructor. “formal languages, automata and computability (15-453),” spring , carnegie mellon
+university. evaluation as instructor from the students: 4.9/5.0. enrollment: 28 students.
+teaching assistant. “great theoretical ideas in computer science (15-251),” spring , carnegie
+mellon university.
+teaching assistant. “algorithms (cps-131),” spring , duke university.
+teaching assistant. “software design and implementation (cps-108),” fall , duke university.
+teaching assistant. “abstract algebra (mth-121),” fall , duke university.
+graduate student severin hacker, carnegie mellon university, computer science department ph.d. student. -present.
+supervision
+edith law, carnegie mellon university, machine learning department ph.d. student. -present.
+bryant lee, carnegie mellon university, computer science department ph.d. student. - .
+brendan meeder, carnegie mellon university, computer science department ph.d. student. -present.
+harshit surana, carnegie mellon university, language technologies institute m.s. student, - .
+jennifer d. tam, carnegie mellon university, computer science department ph.d. student. - .
+3
+thesis johnny lee, carnegie mellon university, human-computer interaction institute ph.d. student.
+committees thesis title: projector-based location discovery and tracking,
+(johnny is currently working as a researcher at microsoft in the applied sciences group.)
+justin weisz, carnegie mellon university, computer science department ph.d. student.
+thesis title: social online video experiences, proposed march .
+undergraduate vicki cheung, undergraduate research project. “crowdsourcing language translation.” summer -
+project/thesis present.
+supervision
+aaron snook, undergraduate research project. “games with a purpose.” summer .
+bradley yoo, undergraduate research project. “crowdsourcing language translation.” summer -
+present.
+zizhuang yang, undergraduate research project. “crowdsourcing language translation.” december
+- spring .
+abhinav sharma, undergraduate research project. “crowdsourcing language translation.” summer
+- spring .
+daniel schafer, undergraduate research project. “the twitter social network.” fall - spring .
+andrew krieger, undergraduate research project. “social networking aspects of games with a pur-
+pose.” summer and fall .
+ben wolf, undergraduate research project. “image-based captchas.” summer - summer .
+ben maurer, independent study for credit. “recaptcha: stop spam, read books.” spring and fall
+, spring and fall . (ben is currently a software engineer at facebook.)
+yinmeng zhang, research experience for undergraduates and undergraduate thesis. “covert multi-party
+computation.” summer and fall . (yinmeng is currently a graduate student in mit csail.)
+mihir kedia, research experience for undergraduates. “a game to collect common-sense knowledge.”
+spring, summer and fall , spring . (mihir is currently a graduate student in mit csail.)
+shiry ginosar, research experience for undergraduates. “a game to improve accessibility of the web.”
+summer and fall . (shiry is currently working as a software engineer at endeca.)
+roy liu, fifth year master’s thesis. “a game to help computers locate objects in images.” fall ,
+spring and fall . (roy is currently a graduate student in the computer science department at ucsd.)
+andrew bortz, research experience for undergraduates and undergraduate thesis. “anonymous commu-
+nication.” spring, summer and fall , spring . (andrew is currently a graduate student in the
+computer science department at stanford.)
+pravir gupta, independent study for credit. “understanding captcha: completely automated turing
+test to tell computers and humans apart.”‘ fall . (pravir is current a software engineer at google.)
+serkan aksoz, independent study for credit. “understanding captcha: completely automated turing
+test to tell computers and humans apart.” fall . (serkan is currently an engineer at facebook.)
+*** i have supervised 35+ other students in various other capacities (e.g., as teaching assistants) ***
+4
+department member of the carnegie mellon university computer science department doctoral review committee,
+service -present.
+faculty organizer (with dave andersen). carnegie mellon university computer science department
+admitted student open house, .
+faculty organizer (with dave andersen). carnegie mellon university computer science department
+admitted student open house, .
+member of the carnegie mellon university computer science department faculty hiring committee, .
+faculty organizer (with dave andersen). carnegie mellon university computer science department
+admitted student open house, .
+scientific invited reviewer for: ieee networks; theory of cryptography conference (tcc) ; symposium for the
+community theory of computing (stoc) ; eurocrypt ; crypto ; graphics interface conference
+involvement (gi) ; crypto ; eurocrypt ; pkc ; ubicomp ; chi ; chi ; chi
+; chi .
+program committee member for the workshop on human interactive proofs and www .
+member of darpa information science and technology study group (isat), .
+co-organizer and steering committee member: human computation workshop , .
+publicly luis von ahn, manuel blum, benjamin maurer. methods and apparatuses for controlling access to
+disclosed computer systems and for annotating media files. filed january .
+patents
+luis von ahn, ruoran liu, manuel blum, alexei efros, takeo kanade and manuela veloso. method for
+locating objects in images using a computer game. filed july .
+luis von ahn and josh d. benaloh. improving quality of web search results using a game. filed february
+4, . united states patent application .
+luis von ahn, eric d. brill, john c. platt, and josh d. benaloh. game-powered search engine. filed
+january 24, . united states patent application .
+luis von ahn. method for labeling images through a computer game. filed june 24, . united states
+patent application .
+distinguished “human computation: recaptcha and the esp game.” university of
+lectures edinburgh, november .
+“human computation.” national science foundation and national science board “voices from the
+future” 60th anniversary commemoration, august .
+“recaptcha, the esp game and gwaps.” duke university, october .
+“human computation.” university of toronto, february .
+“human computation.” carnegie mellon university, february .
+5
+keynote talks “solving problems with millions of humans and computers.” federated computing research
+conference (fcrc), june .
+“human computation.” gateway to innovation conference, april .
+“three human computation projects.” acm special interest group on computer science education
+annual conference, march .
+“using human computation for cultural heritage collections of museums and archives.” the royal
+library, copenhagen, october .
+“human computation: games to help image retrieval.” acm international conference on image and
+video retrieval (civr), santorini, greece, may .
+“recaptcha: stop spam, read books.” teched technology in education conference, march .
+“recaptcha: stop spam, read books.” computerworld’s premier 100 it leaders conference,
+march .
+“human computation: recaptcha and gwaps.” intel research retreat, august .
+“human computation: recaptcha and gwaps” robotics: science and systems (rss), june .
+“human computation: gwaps.” international conference on data engineering (icde), april .
+“human computation: gwaps.” neural information processing systems (nips), december .
+“human computation.” international conference on knowledge capture (k-cap), october .
+“human computation: solving ai problems with computer games.” human language technologies:
+the annual conference of the north american chapter of the association for computational
+linguistics (naacl hlt), april .
+“the esp game and captcha: using the power of human cycles.” innovative applications of artifi-
+cial intelligence/international joint conference on artificial intelligence (iaai/ijcai), august .
+select invited “human computation.” computer science colloquium series, williams college, april .
+talks
+“human computation.” tedxcmu, carnegie mellon university, april .
+“how the public is helping the web to learn.” aaas annual meeting, washington, dc, february .
+“recaptcha and human computation.” the up experience, houston, october .
+“augmented intelligence: the web and human computation.” web science: a new frontier, the royal
+society , london, september .
+“recaptcha: stop spam, read books.” thinking digital, gateshead, uk, may .
+“human computation: how to get people to work for free.” berkman center for internet & society at
+harvard university, april .
+“human computation: recaptcha and gwaps.” mitre corporation, march .
+“human computation: recaptcha and gwaps.” nist, march .
+“human computation: recaptcha and gwaps.” mount holyoke college, november .
+“recaptcha: stop spam, read books.” pop!tech : america reimagined, october .
+“human computation: how to get people to work for free.” society for human resource management
+thought leaders retreat, october .
+6
+“recaptcha: stop spam, read books.” adventures of the mind, princeton university, august .
+“recaptcha: stop spam, read books.” 46th ieee design automation conference, july .
+“an introduction to crowdsourcing.” converciencia, guatemala city, guatemala, july .
+“recaptcha and gwaps.” innovative applications of artificial intelligence (iaai), july .
+“an overview of human computation.” human computation workshop, paris, france, june .
+“human computation: gwaps.” computer science colloquium, dartmouth college, april .
+“human computation: gwaps.” studying society in a digital world, princeton university, april .
+“recaptcha: stop spam, read books.” bohemian club, april .
+“teaching shenanigans,” colloquium on computer science pedagogy/herb simon teaching excellence
+award lecture, carnegie mellon university, march .
+“crowdsourcing.” foo camp east, march .
+“human computation.” seminar on cooperation and human systems design, harvard univ., march .
+“recaptcha: stop spam, read books.” computing research that changed the world: reflections and
+perspectives, computing research association, march .
+“how to get work for free.” society for information management simposium, november .
+“human computation.” washington university in st. louis, october .
+“human computation.” princeton university center for information technology policy, october .
+“human computation.” lgi/upc technology summit, september .
+“human computation.” cern (european council for nuclear research), june .
+“human computation.” lawrence livermore national labs, may .
+“recaptcha: stop spam, read books.” microsoft latin american summit, may .
+“collective intelligence with human computation.” mit center for collective intelligence, april .
+“human computation.” computer science colloquium, cornell university, march .
+“games with a purpose.” lockheed martin ittc conference, february .
+“human computation: recaptcha and gwaps.” northwestern university, february .
+“how to get people to work for free.” ad age’s idea conference, november .
+“recaptcha: stop spam, read books.” usenix, june .
+“human computation.” han university, the netherlands, march .
+“recaptcha: stop spam, read books.” tti/vanguard conference on identity and trust, february .
+“recaptcha: stop spam, read books.” university of illinois at chicago, november .
+“recaptcha: stop spam, read books.” nasa goddard space flight center, october .
+“solving problems with computer games.” department of homeland security, october .
+“human computation.” tech talk at google in mountain view, ca, july . (viewed over 1m times.)
+“human computation: gwaps.” university of michigan, may .
+“human computation: gwaps.” yahoo! research, may .
+“why do tagging systems work?” invited panelist for acm chi panel, april .
+7
+“human computation: gwaps.” university of texas at austin, april .
+“human computation: gwaps.” georgia institute of technology, april .
+“human computation: gwaps.” university of washington, march .
+“human computation: gwaps.” microsoft research, march .
+“human computation: gwaps.” massachusetts institute of technology (eecs), march .
+“human computation: gwaps.” stanford university, march .
+“human computation: gwaps.” university of illinois at urbana-champaign, march .
+“human computation: gwaps.” mit media lab, february .
+“human computation: gwaps.” california institute of technology, february .
+“human computation: gwaps.” university of california at berkeley, february .
+“social web games.” school on semiotic dynamics, language, and complexity, erice, italy, december .
+“covert two-party computation.” toyota technological institute, november .
+“esp: labeling images with a computer game.” drexel university, may .
+“esp: labeling images with a computer game.” aaai spring symposium, march .
+“the esp game.” google in mountain view, ca, december .
+“the esp game and captcha.” stanford university, december .
+“the esp game and captcha: using the power of human cycles.” univ. of minnesota, october .
+“the esp game and captcha: using the power of human cycles.” microsoft research, august .
+“the esp game.” toyota technological institute in chicago, may .
+“captcha.” university of montreal, december .
+“a novel approach to labeling.” summer school for industry, carnegie mellon university’s center for
+automated learning and discovery, june .
+“k-anonymous message transmission.” aladdin workshop on privacy, march .
+“provably secure steganography.” bell labs, july .
+“captcha: telling humans and computers apart automatically.” workshop on human interactive
+proofs, palo alto, ca, january .
+“captcha: telling humans and computers apart automatically.” ibm t.j.watson research labs, ny,
+december .
+8
+select press select news articles, tv and radio programs about captcha
+coverage
+ “spam captchas.” discovery channel, originally aired april 16, .
+ “researchers battle e-mail stealing web bots with identity checks.” associated press, december,
+. (appeared in over 50 newspapers around the world, including usa today.)
+ “the captcha project.” npr as it happens (radio show), december .
+ “human or computer? take this test.” the new york times, december 10, .
+ “can hard ai problems foil internet interlopers?” society of industrial and applied mathe-
+matics news (siam news), april .
+select news articles and tv programs about the esp game
+ “image labeling for blind helps machines ‘think.’” the washington post, november 21, .
+ “are you google’s gopher?” bbc news, september 13, .
+ “online diary: the esp game.” the new york times, january 15, .
+ “the esp game labels images online.” bbc worldwide click online (tv show), january, .
+ “teaching computers to think.” cnn.com, october 17, .
+ “researchers hope to improve web searches.” associated press, october . (appeared in over
+50 newspapers around the world, including usa today.)
+ “cmu student taps brain’s game skills.” pittsburgh post-gazette, october 5, .
+select press coverage about peekaboom
+ “hide and peek.” pc magazine, october 4, .
+ “guessing game gives machines clearer vision.” new scientist, august 9, .
+ “teaching computers to see with games.” slashdot, august 4, .
+ “cmu online game used to teach computers to see.” pittsburgh post-gazette, august 1, .
+select press coverage about phetch
+ “new game helps the blind access web sites.” ieee computer magazine news, august .
+ “gamers help the blind get the picture.” new scientist, may 16, .
+select press coverage about gwaps
+ “solving the web’s image problem.” bbc news, may 14, .
+ “play with a purpose.” msnbc cosmic log, may 14, .
+ “gamers teach search engines how to see.” new scientist, may 14, .
+select press coverage about recaptcha
+ “antispam weapon recaptures lost text.” the guardian (uk), november 26, .
+ “click to translate.” boston globe, august 17, .
+ “anti-spam tool used to translate old books.” the times, august 14, .
+ “web security words help digitize old books.” npr all things considered (radio show),
+august 14, .
+ “web-security inventor charts a squigglier course.” the wall street journal, august 13, .
+ “recaptcha: reusing your ‘wasted’ time online.” cnet news, july 16, .
+ “recaptcha: stop spam, read books.” npr news, may .
+ “researchers turn web blather to books.” associated press, may 25, . (appeared in over 50
+newspapers around the world, including usa today, cnn.com and the washington post.)
+9
+select biographical press coverage
+ “100 most creative people in business.” fast company, may 27, .
+ “profile: luis von ahn.” nova sciencenow, june 30, .
+ “50 best brains in science.” discover magazine, december .
+ “luis von ahn: the pioneer of ‘human computation.’” businessweek.com, november 3, .
+ “ten to watch for the future of ai.” ieee intelligent systems, may/june .
+ “luis von ahn: human computation.” pbs wired science, originally aired december 19, .
+ “50 most influential people in technology.” silicon.com, october 12, .
+ “america’s top young innovators in the arts and sciences.” smithsonian magazine, october .
+ “tr35 young innovators under 35.” technology review, august 15, .
+ “for certain tasks, the cortex still beats the cpu.” full feature in wired magazine, july .
+ “the fifth annual brilliant 10.” popular science magazine, october .
+ “25 newly minted geniuses.” chicago tribune, september 19, .
+ “genius, hard work, pay off.” cbs news, september 19, .
+ “cmu computer science professor wins $500,000 genius award.” pittsburgh post-gazette,
+september 18, .
+ “cmu computer expert named one of brilliant 10.” pittsburgh tribune-review, september 13,
+.
+ “here come science’s best and brightest: the brilliant 10.” usa today, september 11, .
+10

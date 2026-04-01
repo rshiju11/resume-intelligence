@@ -1,0 +1,1096 @@
+philip schniter
+department of electrical and computer engineering
+53 clinton heights ave
+the ohio state university
+columbus, oh 43202 usa
+neil ave., columbus, oh 43210 usa
+voice
+http://www.ece.ohio-state.edu/~schniter
+mobile
+degrees ph.d.-e.e. may cornell university, ithaca ny
+m.s.-e.e. aug university of illinois, urbana il
+b.s.-e.e. may (magna cum laude) university of illinois, urbana il
+professional professor, 9/ –present the ohio state university, columbus
+experience research focus on machine learning, signal processing, and communications.
+visiting professor, 8/ –5/ duke university, durham nc
+research focus on signal processing and machine learning.
+visiting professor, 3/ –8/ sup´elec, gif-sur-yvette, france
+research focus on communications, signal processing, and networking.
+visiting professor, 10/ –2/ eurecom, sophia antipolis, france
+research focus on communications, signal processing, and networking.
+associate professor, 10/ –8/ the ohio state university, columbus
+research focus on communications, signal processing, networking, and machine learning.
+assistant professor, 10/ –9/ the ohio state university, columbus
+research focus on signal processing for communication systems.
+systems engineer, 8/ –6/ tektronix inc., beaverton or
+developed signal processing algorithms, software, and system designs for video, communica-
+tions, and general purpose instrumentation.
+awards • osu ece department outstanding teaching award, fall
+and • qualcomm faculty award
+honors
+• qualcomm faculty award
+• ieee signal processing society best paper award for “bilinear generalized approxi-
+mate message passing,” .
+• ieee fellow “for contributions to signal processing in communications,” .
+• educational modules at cnx.org downloaded over 1 million times.
+• advisor of student-paper-award finalist, ieee camsap conference .
+• advisor of osu hayes graduate-research-forum 1st-place winner, .
+• advisor of osu presidential fellowship winner, .
+• best paper award, ieee spawc conference .
+• advisor of student-paper-award finalist, ieee icassp conference .
+• osu college of engineering lumley research award, .
+• national science foundation career award, .
+• prize paper award for “efficiency based optimal control of kaplan hydrogenerators”
+from the ieee energy development and power generation committee, .
+• intel foundation fellowship, - .
+(last updated january 18, ) 1
+• schlumberger foundation fellowship, spring term .
+• tektronix president’s award, .
+• james scholar, university of illinois urbana-champaign, - .
+• national merit scholarship, - .
+journal 1. s.k.shastri, r.ahmad,c. a.metzler,and p.schniter,“denoisinggeneralizedexpectation-
+publications consistent approximation for mr image recovery,” ieee journal on selected areas in
+information theory, vol. 3, no. 3, pp. 528-542, sep. .
+2. p. pandit, m. sahraee-ardakan, s. rangan, p. schniter, and a. k. fletcher, “matrix
+inference and estimation in multi-layer models,”journal of statistical mechanics: theory
+and experiment, vol. , no. 12, pp. 124004, dec. .
+3. c. chen, y. liu, p. schniter, m. tong, k. zareba, o. simonetti, l. potter, and r. ahmad,
+“ocmr (v1.0)–open-access multi-coil k-space dataset for cardiovascular magnetic
+resonance imaging,” (available at https://arxiv.org/abs/ .03410)
+4. r. gribonval, a. chatalic, n. keriven, v. schellekens, l. jacques, and p. schniter,
+“sketching datasets for large-scale learning,” ieee signal processing magazine, vol.
+38, no. 5, pp. 12-36, .
+5. k.-h. ngo, m. guillaud, a. decurninge, s. yang, and p. schniter, “multi-user detection
+based on expectation propagation for the non-coherent simo multiple access channel,”
+ieee transactions on wireless communications, vol. 19, no. 9, p. 6145-6161, sep. .
+6. p. schniter, “a simple derivation of amp and its state evolution via first-order can-
+cellation,” ieee transactions on signal processing, vol. 68, pp. 4283-4292, .
+7. p. pandit, m. sahraee-ardakan, s. rangan, p. schniter, and a. k. fletcher, “inference
+with deep generative priors in high dimensions,” ieee journal on selected areas in
+information theory, vol. 1, no. 1, pp. 336-347, may .
+8. r. ahmad, c. a. bouman, g. t. buzzard, s. chan, s. liu, e. t. reehorst, and p.
+schniter, “plug and play methods for magnetic resonance imaging,” ieee signal pro-
+cessing magazine, vol. 37, no. 1, pp. 105-116, jan. . (longer version available at
+http://arxiv.org/abs/ .08616)
+9. a. k. fletcher, p. panda, s. rangan, s. sarkar, and p. schniter, “plug-in estimation in
+high-dimensional linear inverse problems: a rigorous analysis,” journal of statistical
+mechanics: theory and experiment, vol. , no. 12, pp. 124021, dec. .
+10. s. rangan, p. schniter, and a. k. fletcher, “vector approximate message passing,”
+ieee transactions on information theory, vol. 65, no. 10, pp. 6664-6684, oct .
+11. e. byrne, a. chatalic, r. gribonval, and p. schniter, “sketched clustering via hybrid
+approximate message passing,” ieee transactions on signal processing, vol. 67, no. 17,
+pp. 4556-4569, sep .
+12. s. rangan, p. schniter, a. k. fletcher, and s. sarkar , “on the convergence of ap-
+proximate message passing with arbitrary matrices,” ieee transactions on information
+theory, vol. 65, no. 9, pp. 5339-5351, sep .
+13. p. schniter and e. byrne , “adaptive detection of structured signals in low-rank in-
+terference,”ieee transactions on signal processing, vol. 67, no. 13, pp. 3439-3454, july
+.
+14. s. sarkar, a. k. fletcher, s. rangan, and p. schniter, “bilinear recovery using adaptive
+vector-amp,” ieee transactions on signal processing, vol. 67, no. 13, pp. 3383-3396,
+july .
+15. e. t. reehorst and p. schniter, “regularization by denoising: clarifications and new
+interpretations,” ieee transactions on computational imaging, vol. 5, no. 1, pp. 52-67,
+mar .
+16. p. sun, z. wang, r. w. heath jr., and p. schniter, “joint channel-estimation/decoding
+with frequency-selective channels and few-bit adcs,” ieee transactions on signal
+(last updated january 18, ) 2
+processing, vol. 67, no. 4, pp. 899-914, feb .
+17. c. chen, y. liu, p. schniter, n. jin, j. craft, o. simonetti, and r. ahmad, “sparsity
+adaptive reconstruction for highly accelerated cardiac mri,” magnetic resonance in
+medicine, vol. 81, pp. 3875-3887, jan .
+18. p. sun, z. wang, and p. schniter, “joint channel-estimation and equalization of single-
+carrier systems via bilinear amp,” ieee transactions on signal processing, vol. 66, no.
+10, pp. 2772-2785, may .
+19. j. mo, p. schniter, and r. w. heath jr., “channel estimation in broadband millimeter
+wave mimo systems with few-bit adcs,”ieee transactions on signal processing, vol.
+66, no. 5, pp. 1141-1154, mar. .
+20. m. al-shoukairi, p. schniter, and b. d. rao, “a gamp based low complexity sparse
+bayesian learning algorithm,” ieee transactions on signal processing, vol. 66, no. 2,
+pp. 294-308, jan. .
+21. s. rangan, a. k. fletcher, v. k. goyal, e. byrne, and p. schniter “hybrid approximate
+message passing,” ieee transactions on signal processing, vol. 65, no. 17, pp. 4577-
+4592, sep. .
+22. m. borgerding, p. schniter, and s. rangan, “amp-inspired deep networks for sparse
+linear inverse problems,” ieee transactions on signal processing, vol. 65, no. 16, pp.
+, aug. .
+23. s. rangan, a. k. fletcher, p. schniter, and u. kamilov, “‘inference for generalized
+linear models via alternating directions and bethe free energy minimization,” ieee
+transactions on information theory, vol. 63, no. 1, pp. 676 - 697, jan. .
+24. c. schulke, p. schniter, and l. zdeborova, “phase diagram of matrix compressed sens-
+ing,” physical review e, vol. 94, no. 6, pp. ), dec. .
+25. s. rangan, p. schniter, e. riegler, a. fletcher, and v. cevher, “fixed points of gen-
+eralized approximate message passing with arbitrary matrices,” ieee transactions on
+information theory, vol. 62, no. 12, pp. 7464-7474, dec. .
+26. e. byrne and p. schniter, “sparse multinomial logistic regression via approximate mes-
+sage passing,” ieee transactions on signal processing, vol. 64, no. 21, pp. 5485-5498,
+nov. .
+27. j. t. parker and p. schniter, “parametric bilinear generalized approximate message
+passing,” ieee journal of selected topics in signal processing: special issue on struc-
+tured matrices in signal and data processing, vol. 10, no. 4, pp. 795-808, june .
+(longer version at http://arxiv.org/abs/1508.07575)
+28. m. pereyra, p. schniter, e. chouzenoux, j.-c. pesquet, j.-y. tourneret, a. o. hero
+and s. mclaughlin, “tutorial on stochastic simulation and optimization methods in
+signal processing,” ieee journal of selected topics in signal processing: special issue
+on stochastic simulation and optimisation in signal processing, vol. 10, no. 2, pp. 224-
+241, mar. .
+29. r. ahmad and p. schniter, “iteratively reweighted l1 approaches to sparse composite
+regularization,”ieee transactions on computational imaging, vol. 1, no. 4, pp. 220-235,
+dec. .
+30. j. p. vila , p. schniter, and j. meola, “hyperspectral unmixing via turbo bilinear ap-
+proximate message passing,” ieee transactions on computational imaging, vol. 1, no.
+3, pp. 143-158, sep. .
+31. j. ziniel, p. schniter, and p. sederberg, “binary linear classification and feature selec-
+tion via generalized approximate message passing,” ieee transactions on signal pro-
+cessing, vol. 63, no. 8, pp. - , apr. .
+32. p. schniter and s. rangan, “compressive phase retrieval via generalized approximate
+message passing,”ieee transactions on signal processing, vol. 63, no. 4, pp. 1043-1055,
+feb. .
+(last updated january 18, ) 3
+33. j. t. parker , p. schniter, and v. cevher, “bilinear generalized approximate message
+passing—part i. derivation,” ieee transactions on signal processing, vol. 62, no. 22,
+pp. 5839-5853, nov. .
+34. j. t. parker , p. schniter, and v. cevher, “bilinear generalized approximate message
+passing—part ii. applications,” ieee transactions on signal processing, vol. 62, no. 22,
+pp. 589-5867, nov. .
+35. a. sabharwal, p. schniter, d. guo, d. w. bliss, s. rangarajan, and r. wichman, “in-
+band full-duplex wireless: challenges and opportunities,”ieee journal on selected areas
+in communications, special issue on full-duplex wireless communications and networks,
+vol. 31, no. 9, pp. 1637-1652, sep. .
+36. a. sabharwal, p. schniter, d. guo, d. w. bliss, s. rangarajan, and r. wichman, “guest
+editorial: in-band full-duplex wireless communications and networks,” ieee journal on
+selected areas in communications, special issue on full-duplex wireless communications
+and networks, vol. 31, no. 9, pp. 1633-1636, sep. .
+37. j. p. vila and p. schniter, “an empirical-bayes approach to recovering linearly con-
+strained non-negative sparse signals,” ieee transactions on signal processing, vol. 62,
+no. 18, pp. 4689-4703, sep. .
+38. m. nassar, p. schniter, and b. evans, “a factor-graph approach to joint ofdm channel
+estimation and decoding in impulsive noise environments,”ieee transactions on signal
+processing, vol. 62, no. 6, pp. 1576-1589, mar. .
+39. j. ziniel and p. schniter, “dynamic compressive sensing of time-varying signals via
+approximate message passing,” ieee transactions on signal processing, vol. 61, no. 21,
+pp. 5270-5284, nov. .
+40. j. p. vila and p. schniter, “expectation-maximization gaussian-mixture approximate
+message passing,” ieee transactions on signal processing, vol. 61, no. 19, pp. 4658-
+4672, oct. .
+41. j. ziniel and p. schniter, “efficient high-dimensional inference in the multiple mea-
+surement vector problem,” ieee transactions on signal processing, vol. 61, no. 2, pp.
+340-354, jan. .
+42. r. aggarwal, c. e. koksal, and p. schniter, “on the design of large scale wireless
+systems,” ieee journal on selected areas in communications: special issue on large-
+scale multiple antenna wireless systems, vol. 31, no. 2, pp. 215-225, feb. .
+43. b. day, a. r. margetts, d. w. bliss, and p. schniter, “full-duplex mimo relaying:
+achievable rates under limited dynamic range,” ieee journal on selected areas in
+communications: special issue on theories and methods for advanced wireless relays,
+vol. 30, no. 8, pp. 1541-1553, aug. .
+44. b. day, a. r. margetts, d. w. bliss, and p. schniter, “full-duplex bidirectional mimo:
+achievable rates under limited dynamic range,” ieee transactions on signal process-
+ing, vol. 60, no. 7, pp. 3702-3713, july .
+45. s. som and p. schniter, “compressive imaging using approximate message passing and
+a markov-tree prior,” ieee transactions on signal processing, vol. 60, no. 7, pp. 3439-
+3448, july .
+46. r. aggarwal, c. e. koksal, and p. schniter, “joint scheduling and resource allocation
+in ofdma downlink systems via ack/nak feedback,” ieee transactions on signal
+processing, vol. 60, no. 6, pp. 3217-3227, june .
+47. c. e. koksal and p. schniter, “robust rate-adaptive wireless communication using
+ack/nak-feedback,” ieee transactions on signal processing, vol. 60, no. 4, pp. 1752-
+1765, apr. .
+48. p. schniter, “belief-propagation-based joint channel estimation and decoding for spec-
+trally efficient communication over unknown sparse channels,” physical communica-
+tion: special issue in compressive sensing in communications (elsevier), vol. 5, no. 3,
+(last updated january 18, ) 4
+pp. 91-101, mar. .
+49. s. murugesan, p. schniter, and n. shroff, “multiuser scheduling in a markov-modeled
+downlink using randomly delayed arq feedback,” ieee transactions on information
+theory, vol. 58, no. 2, pp. 1025-1042, feb. .
+50. p. schniter, “a message-passing receiver for bicm-ofdm over unknown clustered-
+sparse channels,” ieee journal of selected topics in signal processing: special issue on
+soft detection for wireless transmission, vol. 5, no. 8, pp. 1462-1474, dec. .
+51. r. aggarwal, m. assaad, c. e. koksal, and p. schniter, “optimal joint scheduling
+and resource allocation in ofdma downlink systems with imperfect channel-state
+information,” ieee transactions on signal processing, vol. 59, pp. 5589–5604, nov.
+.
+52. a. p. kannu and p. schniter, “on communication over unknown sparse frequency-
+selective block-fading channels,”ieee transactions on information theory, vol. 57, no.
+10, pp. 6619-6632, oct .
+53. a. p. kannu and p. schniter, “on the spectral efficiency of noncoherent doubly selective
+block-fading channels,” ieee transactions on information theory, vol. 56, no. 6, pp.
+2829-2844, june .
+54. r. aggarwal, p. schniter, and c. e. koksal, “rate adaptation via link-layer feedback
+for goodput maximization over a time-varying channel,”ieee transactions on wireless
+communications, vol. 8, no. 8, pp. 4276-4285, aug. .
+55. s.-j. hwang and p. schniter, “efficient multicarrier communication for highly spread
+underwater acoustic channels,”ieee journal on selected areas in communications, vol.
+26, no. 9, pp. 1674-1683, dec. .
+56. h. liu and p. schniter, “iterative frequency-domain channel estimation and equaliza-
+tion for single-carrier transmissions without cyclic-prefix,” ieee transactions on wire-
+less communications, vol. 7, no. 10, pp. 3686-3691, oct. .
+57. k. azarian, h. el gamal and p. schniter, “on the optimality of the arq-ddf protocol,”
+ieee transactions on information theory, vol. 54, no. 6, pp. 1718-1724, apr. .
+58. a. p. kannu and p. schniter, “design and analysis of mmse pilot-aided cyclic-prefixed
+block transmission for doubly selective channels,”ieee transactions on signal process-
+ing, vol. 56, no. 3, pp. 1148-1160, mar.
+59. a. r. margetts, p. schniter, and a. swami, “joint scale-lag diversity in wideband mo-
+bile direct sequence spread spectrum systems,” ieee transactions on wireless com-
+munications, vol. 6, no. 12, pp. 4308-4319, dec. .
+60. s. das and p. schniter, “max-sinr isi/ici-shaping multi-carrier modulation for the
+doubly dispersive channel,”ieee transactions on signal processing, vol. 55, no. 12, pp.
+5782-5795, dec. .
+61. s.murugesan,e.uysal-biyikogluandp.schniter,“optimizationoftrainingandschedul-
+ing in the non-coherent mimo multiple-access channel,” ieee journal on selected
+areas in communications, vol. 25, no. 7, pp. 1446-1456, sep. .
+62. s.-j. hwang and p. schniter, “efficient sequence detection of multi-carrier transmis-
+sions over doubly dispersive channels,”eurasip journal on applied signal processing:
+special issue on reliable communications over rapidly time-varying channels, article id
+93638, 17 pages, .
+63. k. azarian, h. el gamal, and p. schniter, “on the achievable diversity-multiplexing
+tradeoff in half-duplex cooperative channels,” ieee trans. on information theory, vol.
+51, no. 12, pp. 4152-4172, dec. .
+64. a. r. margetts and p. schniter, “chip-rate adaptive linear equalization of scrambled
+downlink cdma,”ieee trans. on signal processing, vol. 53, no. 6, pp. 2205-2215, june
+.
+65. b. bhukania and p. schniter, “on the robustness of decision-feedback detection of
+(last updated january 18, ) 5
+dpsk and differential unitary space-time modulation in rayleigh-fading channels,”
+ieee trans. on wireless communications, vol. 3, no. 5, pp. 1481-1489, sep. .
+66. p. schniter, “low-complexity equalization of ofdm in doubly-selective channels,”
+ieee transactions on signal processing, vol. 52, no. 4, pp. 1002-1011, apr. .
+67. b. d. rigling and p. schniter, “subspace leaky lms,” ieee signal processing letters,
+vol. 11, no. 2, pp. 136-139, jan. .
+68. w. chen, u. mitra, and p. schniter, “on the equivalence of three reduced rank linear
+estimators with applications to ds-cdma,”ieee trans. on information theory, vol. 48,
+no. 9, pp. 2609-2614, sep. .
+69. p. schniter and l. tong, “existence and performance of shalvi-weinstein estimators,”
+ieee trans. on signal processing, vol. 49, no. 9, pp. - , sep. .
+70. p. schniter, r.a. casas, a. touzni, and c.r. johnson, jr., “performance analysis of
+godard-based channel identification,” ieee trans. on signal processing, vol. 49, no. 8,
+pp. 1757-1767, aug. .
+71. p. schniter and c.r. johnson, jr., “bounds for the mse performance of constant mod-
+ulus estimators,”ieee trans. on information theory, vol. 46, no. 7, pp. 2544-2560, nov.
+.
+72. p. schniter and c.r. johnson, jr., “sufficient conditions for the local convergence of
+constant modulus algorithms,” ieee trans. on signal processing, vol. 48, no. 10, pp.
+2785-2796, oct. .
+73. p. schniter and c.r. johnson, jr., “dithered signed-error cma: robust, computation-
+ally efficient blind adaptive equalization,”ieee trans. on signal processing, vol. 47, no.
+6, pp. 1592-1603, june .
+74. c.r. johnson, jr., p. schniter, t.j. endres, j.d. behm, d.r. brown, and r.a. casas,
+“blind equalization using the constant modulus criterion: a review,” in proc. of the
+ieee: special issue on blind system identification and estimation, vol. 86, no. 10, pp.
+-50, oct. .
+75. p. schniter and l. wozniak, “efficiency based optimal control of kaplan hydrogener-
+ators,” ieee transactions on energy conversion, vol. 10, no. 2, pp. 348-53, june .
+highly selective 1. m. bendel, r. ahmad, and p. schniter, “a regularized conditional gan for posterior
+conference sampling in image recovery problems,” proc. neural information processing systems
+publications conference (neurips) (new orleans, la), . [3218/12343=26.1% acceptance rate]
+2. j. wen, r. ahmad, and p. schniter, “posterior sampling for accelerated multicoil mri
+reconstruction using a conditional normalizing flow,”proc. intl. conf. machine learning
+(icml) (honolulu, hi), . [1827/6538=27.9% acceptance rate]
+3. p. pandit, m sahraee-ardakan, s. rangan, p. schniter, and a. k. fletcher, “matrix
+inference and estimation in multi-layer models,” proc. neural information processing
+systems conference (neurips) (virtual), dec. . [ /9467=20% acceptance rate]
+4. a. k. fletcher, s. rangan, s. sarkar, and p. schniter, “plug-in estimation in high-
+dimensional linear inverse problems: a rigorous analysis,”proc. neural information pro-
+cessing systems conference (neurips)(montreal, canada), dec. . [1011/4865=21%
+acceptance rate]
+5. c. a. metzler, p. schniter, a. veeraraghavan, and r. g. baraniuk, “prdeep: robust
+phase retrieval with flexible deep neural networks,”proc. intl. conf. machine learning
+(icml), (stockholm, sweden), july . [621/2473=25% acceptance rate]
+6. a. fletcher, m. sahraee-ardakan, s. rangan, and p. schniter, “rigorous dynamics and
+consistent estimation in arbitrarily conditioned linear systems,” conf. on neural infor-
+mation processing systems (neurips) (long beach, ca), dec. . [679/3240=21%
+acceptance rate]
+7. r. aggarwal, c. e. koksal, and p. schniter, “scaling laws and design principles for multi-
+cellular wireless ofdma systems,” proc. ieee international conference on computer
+(last updated january 18, ) 6
+communications (infocom), (orlando, fl), mar. . [278/1547=18% acceptance
+rate]
+conference 1. x. lei, c. chen, p. schniter, and r. ahmad, “an open-source implementation of surface
+publications coil intensity correction,” proc. global cardiovascular magnetic resonance conference
+(cmr) (london), jan. , to appear.
+2. s.k. shastri and p. schniter, “phase retrieval via deep expectation-consistent approx-
+imation,” neurips workshop on deep inverse problems (new orleans, la), dec. .
+3. m.c. bendel, r. ahmad, and p. schniter, “mask-agnostic posterior sampling mri via
+conditional gans with guided reconstruction,” neurips workshop on deep inverse
+problems (new orleans, la), dec. .
+4. s.k. shastri, r. ahmad, and p. schniter, “turbodeep: a turbo inference framework for
+nonlinear inverse problems,” proc. asilomar conf. on signals, systems, and computers
+(pacific grove, ca), oct. , to appear.
+5. s. nair and p. schniter, “an improved spline-based learned convex regularizer for image
+recovery,”proc. asilomar conf. on signals, systems, and computers (pacific grove, ca),
+oct. , to appear.
+6. j. wen, r. ahmad, and p. schniter, “posterior sampling for accelerated multicoil mri
+reconstruction using a conditional normalizing flow,” proc. intl. soc. magnetic reso-
+nance in medicine (ismrm) (toronto), june .
+7. m. bendel, r. ahmad, and p. schniter, “a regularized conditional gan for posterior
+sampling in mr image reconstruction,”proc. intl. soc. magnetic resonance in medicine
+(ismrm) (toronto), june .
+8. s. liu, p. schniter, and r. ahmad, “recovery with self-calibrated denoisers from multiple
+undersampled images (reside-m),” proc. intl. soc. magnetic resonance in medicine
+(ismrm) (toronto), june .
+9. s.k. shastri, r. ahmad, c. metzler, and p. schniter, “expectation consistent plug-and-
+play for mri,” proc. ieee internat. conf. on acoust., speech, and signal processing
+(icassp), (singapore), may .
+10. s. liu, p. schniter, and r. ahmad, “mri recovery with a self-calibrated denoiser,”proc.
+ieee internat. conf. on acoust., speech, and signal processing (icassp) (singapore),
+may .
+11. s. liu, p. schniter, and r. ahmad, “image reconstruction with a self-calibrated denoiser,”
+proc. intl. soc. magnetic resonance in medicine (ismrm) (london), may .
+12. s.k. shastri, r. ahmad, c. metzler, and p. schniter, “matching plug-and-play algo-
+rithms to the denoiser,” neurips workshop on deep inverse problems, (virtual), dec.
+.
+13. m. k. wharton, a. m. pavy, and p. schniter, “deep neural networks for radar waveform
+classification,”proc. asilomar conf. on signals, systems, and computers, (virtual), nov.
+.
+14. s. sarkar, r. ahmad, and p. schniter, “mri image recovery using damped denoising
+vector amp,” proc. ieee internat. conf. on acoust., speech, and signal processing
+(icassp), (virtual), may .
+15. s. k. shastri, r. ahmad, and p. schniter, “autotuning plug-and-play algorithms for
+mri,” proc. asilomar conf. on signals, systems, and computers, (virtual), nov. .
+16. s. liu, n. jin, p. schniter, and r. ahmad, “a parameter-free plug-and-play method for
+accelerated mri reconstruction,” intl. soc. magnetic resonance in medicine (ismrm),
+(virtual), aug. .
+17. p. schniter, “a simple derivation of amp and its state evolution via first-order cancel-
+lation,” proc. internat. conf. on acoust., speech, and signal processing, (virtual), may
+.
+18. s. liu, e. reehorst, p. schniter, and r. ahmad, “free-breathing cardiovascular mri
+(last updated january 18, ) 7
+using a plug-and-play method with learned denoiser,” ieee international symposium
+on biomedical imaging (isbi), (virtual), apr. .
+19. p. schniter, s. sarkar, and r. ahmad, “plug-and-play amp for image recovery with
+fourier-structured operators,” is&t intl. symposium electronic imaging (burlingame,
+ca), jan. .
+20. k.-h. ngo, m. guillaud, a. decurninge, s. yang, s. sarkar, and p. schniter, “non-
+coherent multi-user detection based on expectation propagation,”proc. asilomar conf.
+on signals, systems, and computers (pacific grove, ca), nov. .
+21. m. wharton, e. t. reehorst, and p. schniter, “compressive sar image recovery and
+classification via cnns,” in proc. asilomar conf. on signals, systems, and computers
+(pacific grove, ca), nov. .
+22. e. byrne and p. schniter, “adaptive detection of structured signals in low-rank inter-
+ference,” proc. asilomar conf. on signals, systems, and computers (pacific grove, ca),
+oct. .
+23. c. a. metzler, p. schniter, and r. g. baraniuk, “an expectation-maximization approach
+to tuning generalized vector approximate message passing,”proc. intl. conf. on latent
+variable analysis and signal separation (lva/ica), (guildford, uk), july .
+24. a. k. fletcher, s. rangan, and p. schniter, “inference in deep networks in high dimen-
+sions,” proc. ieee symposium on information theory, (vail, co), june .
+25. e. byrne, r. gribonval, and p. schniter, “sketched clustering via approximate message
+passing,”proc. asilomar conf. on signals, systems, and computers (pacific grove, ca),
+oct. .
+26. p. sun, z. wang, r. w. heath, jr., and p. schniter “joint channel-estimation/decoding
+with frequency-selective channels and few-bit adcs,”proc. asilomar conf. on signals,
+systems, and computers (pacific grove, ca), oct. .
+27. s. rangan, p. schniter, and a. k. fletcher, “vector approximate message passing,”
+proc. ieee symposium on information theory (aachen, germany), june .
+28. a. k. fletcher and p. schniter, “learning and free energies for vector approximate
+message passing,” proc. ieee conf. on acoustics speech and signal processing (new
+orleans, la), mar. .
+29. p. schniter, s. rangan, and a. k. fletcher, “denoising-based vector amp,” proc. intl.
+biomedical and astronomical signal processing (basp) frontiers workshop (villars-sur-
+ollon, switzerland), jan. .
+30. m. borgerding and p. schniter “onsager-corrected deep learning for sparse linear in-
+verse problems,” proc. ieee global symposium on signal and information processing
+(globalsip) (washington dc), dec. .
+31. p. schniter, s. rangan, and a. k. fletcher, “vector approximate message passing for
+the generalized linear model,”proc. asilomar conf. on signals, systems, and computers
+(pacific grove, ca), nov. .
+32. a. k. fletcher, m. saharee, s. rangan, and p. schniter, “expectation consistent approxi-
+mate inference: generalizations and convergence,”proc. ieee symposium on information
+theory, (barcelona, spain), july .
+33. s. rangan, a. k. fletcher, p. schniter, and u. kamilov, “inference for generalized linear
+models via alternating directions and bethe free energy minimization,” proc. ieee
+symposium on information theory, (hong kong), june .
+34. r. ahmad, p. schniter, and o. p. simonetti, “parameter-free sparsity adaptive com-
+pressive recovery,” proc. int. soc. magnetic resonance in medicine, (toronto, canada),
+june .
+35. jeremy vila, philip schniter, sundeep rangan, florent krzakala, and lenka zdeborova,
+“adaptive damping and mean removal for the generalized approximate message passing
+algorithm,” proc. ieee conf. on acoustics speech and signal processing, (brisbane,
+(last updated january 18, ) 8
+australia), apr. .
+36. mark borgerding, philip schniter, j. vila, and sundeep rangan, “generalized approxi-
+mate message passing for cosparse analysis compressive sensing,” proc. ieee conf. on
+acoustics speech and signal processing, (brisbane, australia), apr. .
+37. p. schniter, s. rangan, and a. fletcher, “statistical image recovery: a message-passing
+perspective,”proc. intl. biomedical and astronomical signal processing (basp) frontiers
+workshop (villars-sur-ollon, switzerland), jan. . (invited.)
+38. p. schniter and a. sayeed, “channel estimation and precoder design for millimeter-
+wave communications: the sparse way,”proc. asilomar conf. on signals, systems, and
+computers (pacific grove, ca), nov. .
+39. j. mo, p. schniter, n. gonzalez-prelcic, and r. w. heath jr., “channel estimation in
+millimeter wave mimo systems with one-bit quantization,” proc. asilomar conf. on
+signals, systems, and computers (pacific grove, ca), nov. .
+40. s. rangan, p. schniter, and a. fletcher, “on the convergence of approximate mes-
+sage passing with arbitrary matrices,” proc. ieee symposium on information theory
+(honolulu, hi), july ,
+41. j. ziniel, p. sederberg, and p. schniter, “binary linear classification and feature selec-
+tion via generalized approximate message passing,”proc. conf. on information sciences
+and systems, (princeton, nj), mar. . (invited.)
+42. j. vila and p. schniter, “an empirical-bayes approach to recovering linearly con-
+strained non-negative sparse signals,” proc. ieee intl. workshop on computational
+advances in multi-sensor adaptive processing (camsap) (saint martin island), dec.
+. (invited.)
+43. m. nassar, p. schniter, and b. evans, “a factor-graph approach to joint ofdm channel
+estimation and decoding in impulsive noise channels,”proc. asilomar conf. on signals,
+systems, and computers (pacific grove, ca), nov. .
+44. s. rangan, p. schniter, e. riegler, a. fletcher, and v. cevher, “fixed points of general-
+ized approximate message passing with arbitrary matrices,” proc. ieee symposium on
+information theory (istanbul, turkey), july .
+45. j. vila, j. meola, and p. schniter, “hyperspectral image unmixing via bilinear generalized
+approximate message passing,” spie defense, security, and sensing (baltimore, md),
+apr. .
+46. p. schniter, “adaptive compressive noncoherent change detection: an amp-based ap-
+proach,” proc. intl. biomedical and astronomical signal processing (basp) frontiers
+workshop (villars-sur-ollon, switzerland), jan. . (invited.)
+47. d. w. bliss, t. hancock, and p. schniter, “hardware and environmental phenomenolog-
+ical limits on full-duplex mimo relay performance,” proc. asilomar conf. on signals,
+systems, and computers (pacific grove, ca), nov. .
+48. b. p. day, a. r. margetts, d. w. bliss, and p. schniter, “full-duplex mimo relay-
+ing: achievable rates under limited dynamic range,” proc. asilomar conf. on signals,
+systems, and computers (pacific grove, ca), nov. .
+49. p. schniter and s. rangan, “compressive phase retrieval via generalized approximate
+message passing,” proc. allerton conf. on communication, control, and computing
+(monticello, il), sep. .
+50. j. ziniel, s. rangan, and p. schniter, “a generalized framework for learning and re-
+covery of structured sparse signals,”proc. ieee statistical signal processing workshop,
+(ann arbor, mi), aug. .
+51. s. rangan, a. k. fletcher, v. k. goyal, and p. schniter, “hybrid generalized approx-
+imate message passing with applications to structured sparsity,” ieee symposium on
+information theory, (cambridge, ma), july .
+52. j. p. vila and p. schniter, “expectation-maximization gaussian-mixture approximate
+(last updated january 18, ) 9
+message passing,” proc. conf. on information sciences and systems, (princeton, nj),
+mar. . (invited.)
+53. p. schniter, “exploiting structured sparsity in bayesian experimental design,” in proc.
+intl. workshop on computational advances in multi-sensor adaptive processing (cam-
+sap), (san juan, puerto rico), dec. . (invited.)
+54. j. t. parker, v. cevher, and p. schniter, “compressive sensing under multiplicative
+uncertainties: an approximate message passing approach,” in proc. asilomar conf. on
+signals, systems, and computers, (pacific grove, ca), nov. .
+55. j. ziniel and p. schniter, “efficient message passing-based inference in the multiple
+measurement vector problem,” in proc. asilomar conf. on signals, systems, and com-
+puters, (pacific grove, ca), nov. .
+56. j. p. vila and p. schniter, “an empirical-bayes approach to compressive sensing via
+approximate message passing,” in proc. asilomar conf. on signals, systems, and com-
+puters, (pacific grove, ca), nov. .
+57. b. p. day, d. w. bliss, a. r. margetts, and p. schniter, “full-duplex bidirectional
+mimo: achievable rates under limited dynamic range,” in proc. asilomar conf. on
+signals, systems, and computers, (pacific grove, ca), nov. .
+58. a. p. kannu and p. schniter, “on communication over unknown sparse frequency-
+selective block-fading channels,” in proc. ieee symposium on information theory,
+(saint-petersburg, russia), july .
+59. s. som and p. schniter, “approximate message passing for recovery of sparse signals
+with markov-random-field support structure,” in proc. international conf. on machine
+learning (icml) workshop on structured sparsity: learning and inference, (bellevue,
+washington), july .
+60. p. schniter and v. cevher, “approximate message passing for bilinear models,” in
+proc. workshop on signal processing with adaptive sparse structured representations
+(spars), (edinburgh, scotland), june .
+61. p. schniter, “a message-passing receiver for bicm-ofdm over unknown clustered-sparse
+channels,” in proc. ieee workshop on signal processing advances in wireless commu-
+nications, (san francisco, ca), june .
+62. r. aggarwal, m. assaad, c. e. koksal, and p. schniter, “optimal resource allocation
+in ofdma downlink systems with imperfect csi,” in proc. ieee workshop on signal
+processing advances in wireless communications, (san francisco, ca), june .
+63. p. schniter, “joint estimation and decoding for sparse channels via relaxed belief prop-
+agation,” in proc. asilomar conf. on signals, systems, and computers (pacific grove,
+ca), nov. . (invited.)
+64. s. som, l. c. potter, and p. schniter, “compressive imaging using approximate message
+passing and a markov-tree prior,” in proc. asilomar conf. on signals, systems, and
+computers (pacific grove, ca), nov. .
+65. j. ziniel, l. c. potter, and p. schniter, “tracking and smoothing of time-varying sparse
+signals via approximate belief propagation,” inproc. asilomar conf. on signals, systems,
+and computers (pacific grove, ca), nov. .
+66. s. murugesan, p. schniter, and n. b. shroff, “opportunistic scheduling using arq feed-
+back in multi-cell downlink,” inproc. asilomar conf. on signals, systems, and computers
+(pacific grove, ca), nov. .
+67. s. murugesan, p. schniter, and n. b. shroff, “throughput/energy aware opportunistic
+transmission control in broadcast networks,” inproc. allerton conf. on communication,
+control, and computing (monticello, il), oct. .
+68. s. som, l. c. potter, and p. schniter, “on approximate message passing for recon-
+struction of non-uniformly sparse signals,” in proc. national aerospace and electronics
+conf. (dayton, oh), july .
+(last updated january 18, ) 10
+69. p. schniter, “turbo reconstruction of structured sparse signals,” in proc. conf. on
+information sciences and systems (princeton, nj), mar. .
+70. r. aggarwal, m. assaad, c. e. koksal, and p. schniter, “ofdma downlink resource al-
+location via arq feedback,” inproc. asilomar conf. on signals, systems, and computers
+(pacific grove, ca), nov. .
+71. s.-j. hwang and p. schniter, “em-based soft noncoherent equalization of doubly se-
+lective channels using tree search and basis expansion,” in proc. ieee workshop on
+signal processing advances in wireless communications, (perugia, italy), june .
+72. l. c. potter, p. schniter, and j. ziniel, “fast posterior updates for sparse undetermined
+linear models,” in proc. asilomar conf. on signals, systems, and computers, (pacific
+grove, ca), nov. . (invited.)
+73. s. murugesan, p. schniter, and n. b. shroff, “multiuser scheduling in a markov-modeled
+downlink environment,” in proc. allerton conf. on communication, control, and com-
+puting, (monticello, il), sep. .
+74. l. c. potter, p. schniter, and j. ziniel, “sparse reconstrution for radar,” in proc.
+spie, algorithms for synthetic aperture radar imagery, (orlando, fl), mar. .
+75. r. aggarwal, p. schniter, and c. e. koksal, “rate adaptation via arq feedback for
+goodput maximization over time-varying channels,” inproc. conference on information
+sciences and systems, (princeton, nj), mar. .
+76. p. schniter, l. c. potter, and j. ziniel, “fast bayesian matching pursuit,” in proc.
+workshop on information theory and applications (ita), (la jolla, ca), jan. .
+(invited.)
+77. s.-j. hwang and p. schniter, “fast noncoherent decoding of block transmissions over
+doubly dispersive channels,” in proc. asilomar conf. on signals, systems, and comput-
+ers, (pacific grove, ca), nov. .
+78. s. das and p. schniter, “noncoherent communication over the doubly selective chan-
+nel via successive decoding and channel re-estimation,” in proc. allerton conf. on
+communication, control, and computing, (monticello, il), oct. .
+79. s.-j. hwang and p. schniter, “fast near-optimal noncoherent sequence detection for
+block transmission over doubly dispersive channels,” inproc. asilomar conf. on signals,
+systems, and computers, (pacific grove, ca), nov. .
+80. s.-j. hwang and p. schniter, “efficient communication over highly spread underwa-
+ter acoustic channels,” in the acm international workshop on underwater networks
+(wuwnet), (montreal, quebec), sep. .
+81. s.-j. hwang and p. schniter, “maximum diversity affine precoding for the noncoherent
+doubly dispersive channel,” in proc. ieee workshop on signal processing advances in
+wireless communications, (helsinki, finland), june .
+82. s.-j. hwang and p. schniter, “near-optimal noncoherent sequence detection for dou-
+bly dispersive channels,” in proc. asilomar conf. on signals, systems, and computers,
+(pacific grove, ca), nov. . (invited.)
+83. s. das and p. schniter, “a beamforming and combining strategy for mimo-ofdm over
+doubly selective channels,” inproc. asilomar conf. on signals, systems, and computers,
+(pacific grove, ca), nov. .
+84. s. das and p. schniter, “design of multi-carrier modulation for doubly selective chan-
+nels based on a complexity-constrained achievable rate metric,” inproc. asilomar conf.
+on signals, systems, and computers, (pacific grove, ca), nov. .
+85. a. p. kannu and p. schniter, “on the spectral efficiency of noncoherent doubly se-
+lective channels,” in proc. allerton conf. on communication, control, and computing,
+(monticello, il), oct. .
+86. s. murugesan, e. uysal and p. schniter, “scaling-law optimal training and scheduling in
+the mimo uplink,” inproc. allerton conf. on communication, control, and computing,
+(last updated january 18, ) 11
+(monticello, il), oct. .
+87. s.-j. hwang and p. schniter, “efficient sequence detection of multi-carrier transmis-
+sions over doubly dispersive channels,” in proc. ieee workshop on signal processing
+advances in wireless communications, (cannes, france), july .
+88. h. liu, p. schniter, h. fu, and r. a. casas, “frequency domain turbo equalization for
+vestigial sideband modulation with punctured trellis coding,” in proc. ieee workshop
+on signal processing advances in wireless communications, (cannes, france), july .
+89. p. schniter, “on doubly dispersive channel estimation for pilot-aided pulse-shaped multi-
+carrier modulation,” in proc. conference on information sciences and systems, (prince-
+ton, nj), mar. .
+90. a. p. kannu and p. schniter, “minimum mean-squared error pilot-aided transmission
+for mimo doubly selective channels,” in proc. conference on information sciences and
+systems, (princeton, nj), mar. .
+91. s.-j. hwang and p. schniter, “on the optimality of mmse-gdfe pre-processed sphere
+decoding,” in proc. allerton conf. on communication, control, and computing, (monti-
+cello, il), oct. .
+92. a. r. margetts and p. schniter, “on the channel correlation structure of wideband scale-
+lag rake fingers,” in proc. ieee workshop on signal processing advances in wireless
+communications, (new york, ny), june .
+93. a. p. kannu and p. schniter, “capacity analysis of mmse pilot patterns for doubly-
+selective channels,” in proc. ieee workshop on signal processing advances in wireless
+communications, (new york, ny), june .
+94. y.-h. nam, k. azarian, h. el gamal, and p. schniter, “cooperation through arq,” in
+proc. ieee workshop on signal processing advances in wireless communications, (new
+york, ny), june .
+95. a. r. margetts, p. schniter, and a. swami, “scale-lag diversity reception in mobile
+wideband channels,” in proc. ieee conf. on acoustics speech and signal processing,
+(philadelphia, pa), vol. 3, pp. 321-324, mar. .
+96. a. p. kannu and p. schniter, “mse-optimal training for linear time-varying channels,”
+in proc. ieee conf. on acoustics speech and signal processing, (philadelphia, pa), vol.
+3, pp. 789-792, mar. .
+97. s. das and p. schniter, “a new pulse shaped frequency division multiplexing technique
+for doubly dispersive channels,” in proc. ieee asilomar conf. on signals, systems, and
+computers, (pacific grove, ca), pp. 657-661, nov. .
+98. p. schniter and h. liu, “iterative frequency-domain equalization for single-carrier sys-
+tems in doubly-dispersive channels,” in proc. ieee asilomar conf. on signals, systems,
+and computers, (pacific grove, ca), pp. 667-671, nov. .
+99. a. r. margetts and p. schniter, “joint scale-lag diversity in mobile ultra-wideband
+systems,” in proc. ieee asilomar conf. on signals, systems, and computers, (pacific
+grove, ca), pp. 1496-1500, nov. .
+100. k. azarian, h. el gamal, and p. schniter, “on the achievable diversity-multiplexing
+tradeoff in half duplex cooperative channels,” in proc. allerton conf. on communica-
+tion, control, and computing, (monticello, il), oct. .
+101. p. schniter, “on the design of non-(bi)orthogonal pulse-shaped fdm for doubly-
+dispersive channels,” in ieee conf. on acoustics, speech, and signal processing, (mon-
+treal, quebec), vol. 3, pp. 817-820, may .
+102. p. schniter and a. m. sayeed, “a sparseness-preserving virtual mimo channel model,”
+in proc. conf. on information sciences and systems, (princeton, nj), pp. 36-41, mar.
+.
+103. a.p.kannuandp.schniter,“reduced-complexitydecision-directedpilot-aided track-
+ing of doubly-selective channels,” in proc. conf. on information sciences and systems,
+(last updated january 18, ) 12
+(princeton, nj), pp. 915-920, mar. .
+104. k. azarian, h. el gamal, and p. schniter, “on the achievable diversity-vs-multiplexing
+tradeoff in cooperative channels,” in proc. conf. on information sciences and systems,
+(princeton, nj), pp. 956-960, mar. .
+105. p. schniter, “a low-complexity receiver for ofdm in doubly-selective channels,”
+in proc. ieee global communications conf., (san francisco, ca), pp. 2285-2289, dec.
+.
+106. p. schniter and h. liu, “iterative equalization for single-carrier cyclic-prefix in doubly-
+dispersive channels,” in proc. asilomar conf. on signals, systems, and computers, (pa-
+cific grove, ca), pp. 502-506, nov. .
+107. a. r. margetts and p. schniter, “chip-rate adaptive two-stage receiver for scrambled
+multirate cdma downlink,” inproc. asilomar conf. on signals, systems, and computers,
+(pacific grove, ca), pp. 465-469, nov. .
+108. p. schniter, “a new approach to multicarrier pulse design for doubly-dispersive chan-
+nels,” in proc. allerton conf. on communication, control, and computing, (monticello,
+il), pp. 1012-1021, oct. .
+109. a. r. margetts and p. schniter, “adaptive inter-chip interference cancellation of mul-
+tirate scrambled downlink cdma,” in proc. allerton conf. on communication, control,
+and computing, (monticello, il), pp. 1809-1810, oct. .
+110. k. azarian, h. el gamal, and p. schniter, “on the design of cooperative transmission
+schemes,” in proc. allerton conf. on communication, control, and computing, (monti-
+cello, il), pp. 1576-1585, oct. .
+111. p. schniter, “low-complexity estimation of doubly-selective channels,” inproc. ieee
+workshop on signal processing advances in wireless communications, (rome, italy), pp.
+200-204, june .
+112. m. joho and p. schniter, “frequency domain realization of a multichannel blind de-
+convolution algorithm based on the natural gradient,” inproc. independent component
+analysis and blind signal separation conf., pp. 543-548, .
+113. b. bhukania and p. schniter, “on the robustness of decision-feedback detection of
+dpsk and differential unitary space-time modulation in rayleigh-fading channels,” in
+proc. ieee wireless communications and networking conference, (new orleans, la),
+pp. 218-222, mar. .
+114. m. joho and p. schniter, “on frequency-domain implementations of filtered gradi-
+ent blind deconvolution algorithms,” in proc. asilomar conf. on signals, systems, and
+computers, (pacific grove, ca), pp. 1653-1658, nov. .
+115. p. schniter and a. r. margetts, “adaptive chip-rate equalization of downlink multirate
+wideband cdma,” inproc. asilomar conf. on signals, systems, and computers, (pacific
+grove, ca), pp. 1228-1232, nov. .
+116. p. schniter and s. d’silva, “low-complexity detection of ofdm in doubly dispersive
+channels,” in proc. asilomar conf. on signals, systems, and computers, (pacific grove,
+ca), p. 1799-1803, nov. .
+117. b. bhukania and p. schniter, “decision-feedback detection of differential unitary
+space-time modulation in fast rayleigh-fading channels,” in proc. allerton conf. on
+communication, control, and computing, (monticello, il), oct. .
+118. r. baraniuk, c.s. burrus, b. hendricks, g. henry, a. hero, d. johnson, d. jones, r.
+nowak, j. odegard, l. potter, r. reedstrom, p. schniter, i. selesnick, d. williams, and
+b. wilson, “connexions: dsp education for a networked world,” in proc. int. conf. on
+acoustics, speech, and signal processing, vol. 4, pp. 4144-4147, may .
+119. b. bhukania and p. schniter, “multiple-symbol differential detection of differential
+unitary space-time modulation in fast-fading channels with known correlation,” in
+proc. conference on information sciences and systems, (princeton, nj), mar. .
+(last updated january 18, ) 13
+120. i. m. garrison, r. k. martin, w. a. sethares, b. hart, w. chung, j. balakrishnan, r.
+a. casas, t. j. endres, m. larimore, p. schniter, and c. r. johnson, jr. “dtv channel
+characterization,” in proc. conference on information sciences and systems (baltimore,
+md), mar. .
+121. p. schniter, “existence and performance of shalvi-weinstein estimators,” inproc. aller-
+ton conf. on commun., control, and computing, (monticello, il), oct. . (invited.)
+122. p. schniter, “performance analysis of godard-based channel identification,” in proc.
+ieee adaptive systems for signal processing, communications, and control symposium,
+(lake louis, alberta), pp. 390-395, oct. .
+123. p. schniter and c. r. johnson, jr., “bounds for the mse performance of constant
+modulus estimators,” in proc. conf. on information sciences and systems, (princeton,
+nj), mar. .
+124. p. schniter and c. r. johnson, jr., “sinr-based sufficient conditions for cma desired-
+user-lock,” in proc. ieee wireless commun. and networking conf. (new orleans, la),
+sep. .
+125. p. schniter and c. r. johnson, jr., “on the robustness of blind linear receivers for
+cdma,” in proc. ieee workshop on signal processing advances in wireless comm.,
+(annapolis, md), may .
+126. p. schniter and c. r. johnson, jr., “dse-cma: the complex-valued case,” in proc.
+asilomar conf. on signals, systems, and computers (pacific grove, ca), nov. .
+127. p. schniter and c. r. johnson, jr., “minimum-entropy blind acquisition/equalization
+for uplink ds-cdma,” in proc. allerton conf. on commun., control, and computing
+(monticello, il), sep. .
+128. p. schniter and c. r. johnson, jr., “the dithered signed-error constant modulus
+algorithm,” in proc. internat. conf. on acoust., speech, and signal processing (seattle,
+wa), may .
+129. j. d. behm, t. j. endres, p. schniter, c. r. johnson, jr., c. prettie, et al., “charac-
+terization of an empirically-derived database of time-varying microwave channel re-
+sponses,” in proc. asilomar conf. on signals, systems, and computers (pacific grove,
+ca), nov. .
+130. d. r. brown, p. schniter, and c. r. johnson, jr., “computationally efficient blind
+equalization,” inproc. allerton conf. on commun., control, and computing (monticello,
+il), sep. .
+131. r. a. casas, f. l´opez de victoria, i. fijalkow, p. schniter, t. j. endres, and c. r.
+johnson, jr., “on mmse fractionally-spaced equalizer design,” inproc. internat. conf.
+on digital signal processing (santorini, greece), 2-4 july .
+book 1. r. ahmad and p. schniter, “recovering signals with unknown sparsity in multiple dic-
+chapters tionaries,” in compressed sensing and its applications, vol.2 (g. kutyniok, g. caire, h.
+boche, r. calderbank, and r. mather, eds.), birkh¨auser, .
+2. p. schniter and s. rangan, “a message-passing approach to phase retrieval of sparse
+signals,” in excursions in harmonic analysis, volume 4, (radu balan, matthew begu´e,
+john j. benedetto, wojciech czaja, and kasso okoudjou, eds.), pp. 177-204, birkh¨auser,
+.
+3. p. schniter, s.-j. hwang, s. das, and a. p. kannu, “equalization of time-varying chan-
+nels,” wireless communications over rapidly time-varying channels, (franz hlawatsch
+and gerald matz, eds.), academic press, .
+4. c. r. johnson, jr., p. schniter, i. fijalkow, l. tong, j. r. treichler, et al., “the core
+of fse-cma behavior theory,” in unsupervised adaptive filtering (simon haykin, ed.),
+pp. 13-112, new york, ny: wiley, .
+dissertation blind estimation without priors: performance, convergence, and efficient implementation,
+cornell university (ithaca, ny), mar. .
+(last updated january 18, ) 14
+patents 1. “conditional generative adversarial network (cgan) for posterior sampling and related
+methods, by m.c. bendel, r. ahmad, and p. schniter, patent application no. 18/513006,
+nov. 17, .
+2. “electrical signal jitter and wander measurement system and method,” by s.f. blazo,
+j.a. kleck, a. konynenberg, and p. schniter, u.s. patent no. 5,757,652, may .
+funded 1. “sequential learning” afrl, $40,000, may 31, – dec. 21, . (100% responsi-
+research bility).
+grants 2. “learning with confidence for multi-sensor exploitation,” afrl, $400,000, sep. 27,
+– sep. 30, (100% responsibility).
+3. “a comprehensive deep learning framework for mri reconstruction,” national institutes
+for health: r01, $2,300,000, july 1, – march 31, (20% responsibility)
+4. “sequential learning”afrl,$45,000, jan. 1, – may. 31, (100% responsibility).
+5. “learning and inference in high-dimensional models: rigorous analysis and applica-
+tions,” national science foundation: cif medium, $900,000, july 1, – june 30,
+(50% responsibility)
+6. “deep networks for radar classification and detection” national science foundation
+i/ucrc, $50,000, sep. 1, – may 31, (100% responsibility).
+7. “adversarialattacksondeepmodulationclassifiers”nationalsciencefoundationi/ucrc,
+$43,000, sep. 1, – aug. 31, (100% responsibility).
+8. “quantifyinguncertainty indeep neuralnetworks”nationalsciencefoundationi/ucrc,
+$43,000, sep. 1, – aug. 31, (100% responsibility).
+9. “directional networking research,” mit lincoln labs, $51,177, jan. 1, – may 31,
+(100% responsibility).
+10. “merging deep networks with algorithms for imaging inverse-problems,” national sci-
+ence foundation i/ucrc, $43,000, sep. 1, – aug. 31, (100% responsibility).
+11. “approximate message passing algorithms and deep networks,”national science foun-
+dation: cif small, $499,570, sep. 1, – aug. 31, (100% responsibility)
+12. “a new paradigm for rapid, accurate cardiac magnetic resonance imaging,” national
+institutes of health: r01, $2,704,072, july 1, – june 30, (20% responsibility)
+13. “directional networking among fast moving platforms,” mit lincoln labs, $150,179,
+jan. 1, – dec. 31, (100% responsibility).
+14. “deeplearning forsparselinearinverseproblems,”nationalsciencefoundationi/ucrc,
+$43,000, sep. 1, – aug. 31, (100% responsibility).
+15. “directional networking among fast moving platforms,” mit lincoln labs, $100,000,
+oct. 1, – sep. 30, (100% responsibility).
+16. “correlation-free passive radar,” national science foundation i/ucrc, $43,000, sep.
+1, – aug. 31, (100% responsibility).
+17. “next generation communications with low-resolution adcs: fundamentals and prac-
+tical design,” national science foundation: cif small, $500,000, sep. 1, – aug.
+31, (50% responsibility)
+18. “imaging and classification via multiresolution sensor fusion,” national science foun-
+dation i/ucrc, $43,000, sep. 1, – aug. 31, (100% responsibility).
+19. “mimo simultaneous transmission and reception: theory and practice,” mit lincoln
+labs, $50,232, feb. 1, – july 31, (100% responsibility).
+20. “hyperspectral imaging via bilinear generalized approximate message passing,”national
+science foundation i/ucrc,$44,000, oct. 1, – sep. 30, (100% responsibility).
+21. “mimo simultaneous transmission and reception: theory and practice,” mit lincoln
+labs, $79,894, feb. 1, – jan. 31, (100% responsibility).
+22. “message-passing strategies for high-dimensional inference,”national science founda-
+tion: cif small, $162,055, oct. 1, – feb. 28, (100% responsibility).
+(last updated january 18, ) 15
+23. “hyperspectral imaging via bilinear generalized approximate message passing,”national
+science foundation i/ucrc,$44,000, oct. 1, – sep. 30, (100% responsibility).
+24. “mimo simultaneous transmission and reception: theory and practice,” mit lincoln
+labs, $99,955, feb. 1, – jan. 31, (100% responsibility).
+25. “compressed sensing the brain: inferring sparse spatio-temporal neural sources for im-
+proved analysis of cognitive states,” osu center for cognitive science, $26,838, jan. 1,
+– dec. 31, (50% responsibility).
+26. “radar imaging via exploitation of structured sparsity,” national science foundation
+i/ucrc, $22,000, oct. 1, – sep. 30, (100% responsibility).
+27. “mimo simultaneous transmission and reception: leveraging the mimo interference
+channel,”mit lincoln labs,$99,990, feb. 1, – jan. 31, (100% responsibility).
+28. “active sensing via compressive illumination,” darpa kecom, $2,532,000, nov. 29,
+– nov. 28, (16.7% responsibility).
+29. “radar imaging via exploitation of structured sparsity,” national science foundation
+i/ucrc, $44,000, oct. 1, – sep. 30, (100% responsibility).
+30. “soft inference under structured sparsity,” national science foundation: cif small,
+$423,032, oct. 1, – sep. 30, (100% responsibility).
+31. “simultaneous transmit and receive research,” mit lincoln labs, $99,990, oct. 1,
+– dec. 31, (100% responsibility).
+32. “afrl sensors,” wright bros. institute, inc., $1,314,000, sep. 1, – dec. 31,
+(13% responsibility).
+33. “efficient communication over the underwater acoustic channel,” office of naval re-
+search, $300,000, nov. 1, – oct. 31, (100% responsibility).
+34. “computational electromagnetics analysis of wireless propagation,” sandia national
+laboratories, $60,000, may 1, – sep. 30, (with r. burkholder, 50% responsi-
+bility).
+35. “em threat analysis for wireless systems,”sandia national laboratories,$50,000, may
+1, – sep. 30, (with i. gupta and r. burkholder, 33% responsibility).
+36. “multi-antenna communication over doubly-dispersive channels,” motorola labs: uni-
+versity partnership in research, $84,941, oct. 1, – dec. 31, (100% responsi-
+bility).
+37. “signal processing for practical data communication over the doubly-selective wireless
+channel,”national science foundation: career,$458,095, july 1, – june 30,
+(100% responsibility).
+38. “cooperative wireless networks,” national science foundation: small itr, $400,000,
+july 1, – june 30, (with h. el gamal, 50% responsibility).
+39. “channel identification and data detection using prior statistical information,” ohio
+state university seed grant,$22,014; jan 12, – june 30, (100% responsibility).
+tutorials 1. “statistical physics, phase-transition analysis, and message-passing algorithms: powerful
+tools for high-dimensional inference,” ieee international symposium on information
+theory (paris, france), .
+invited 1. asilomar conference (pacific grove, ca), 10/31/22.
+talks 2. allerton conf. on communication, control, and computing (monticello, il), 9/30/22.
+3. international conference on acoustics, speech, and signal processing (virtual), 6/8/21.
+4. international conference on acoustics, speech, and signal processing (virtual), 5/8/20.
+5. london symposium on information theory (london), 5/30/19. (keynote talk)
+6. allerton conf. on communication, control, and computing (monticello, il), 10/4/18.
+7. international conference on signal processing and communications (bengaluru, india),
+7/19/18.
+(last updated january 18, ) 16
+8. indian institute of science (bengaluru, india), 7/13/18.
+9. purdue university (west lafayette, in), 6/21/18.
+10. siam conference on imaging science (bologna, italy), 6/7/18.
+11. workshop on information theory and applications (ita) (san diego, ca), 2/12/18.
+12. asilomar conference (pacific grove, ca), 11/1/17.
+13. ohio state university, machine learning seminar (columbus oh) 9/7/17.
+14. signal processing with adaptive sparse structured representations (spars) workshop,
+6/8/17. (keynote talk)
+15. rice university (houston, tx), 4/20/17.
+16. texas a&m university (college station, tx), 4/19/17.
+17. workshop on statistical physics, learning, inference and networks (les houches, france)
+3/2/ .
+18. workshop on information theory and applications (ita) (san diego, ca), 2/16/17.
+19. university of north carolina (chapel hill, nc), 12/1/16.
+20. ieee information theory workshop (itw) (cambridge, england), 9/13/16.
+21. duke university (durham, nc), 9/7/16.
+22. intl.travelingworkshopon interactionsbetweensparsemodelsandtechnology(itwist)
+(aalborg, denmark), 8/24/16. (keynote talk.)
+23. workshop on information theory and applications (ita) (san diego, ca), 2/5/16.
+24. matheon workshop on compressed sensing and its applications (berlin, germany),
+12/11/15.
+25. workshop on sensing and analysis of high-dimensional data (sahd) (durham, nc),
+7/27/15.
+26. intl. biomedical and astronomical signal processing (basp) frontiers workshop work-
+shop (villars-sur-ollon, switzerland), 1/28/15.
+27. heriot-watt university (edinburgh, scotland), 6/11/14.
+28. chalmers university (gotenburg, sweden), 6/8/14.
+29. duke university (durham, nc), 4/10/14.
+30. ams central spring sectional meeting, special sesson on “phase retrieval in theory
+and practice,” (east lansing, mi), 3/14/15.
+31. workshop on information theory and applications (ita) (san diego, ca), 2/6/15.
+32. intl. biomedical and astronomical signal processing workshop (basp) (villars-sur-
+ollon, switzerland), 1/29/15.
+33. conference on information science and systems (princeton, nj), 3/19/14.
+34. international zurich seminar on communications (zurich, switzerland), 2/28/14.
+35. trellisware (san diego, ca), 2/12/14.
+36. workshop on information theory and applications (ita) (san diego, ca), 2/10/14.
+37. workshop on computational advances in multi-sensor adaptive processing (camsap)
+(saint martin island) 12/16/13.
+38. ohio state university, artificial intelligence lab (columbus oh), 11/8/13.
+39. university of michigan (ann arbor, mi), 10/10/13.
+40. lincoln labs (lexington, ma), 8/14/13.
+41. air force research laboratory (dayton, oh), 8/13/13.
+42. workshop on phaseless reconstruction at the february fourier talks (college park, md),
+3/23/13.
+43. workshop on information theory and applications (ita) (san diego, ca), 2/12/13.
+44. intl. biomedical and astronomical signal processing workshop (basp) (villars-sur-
+ollon, switzerland), 1/30/13.
+(last updated january 18, ) 17
+45. asilomar conference (pacific grove, ca), 11/5/12.
+46. lincoln labs (lexington, ma), 6/27/12.
+47. conference on information science and systems (princeton, nj), 3/22/12.
+48. workshop on information theory and applications (ita) (san diego, ca), 2/10/12.
+49. workshop on computational advances in multi-sensor adaptive processing (camsap)
+(san juan, puerto rico) 12/15/11.
+50. allerton conf. on communication, control, and computing (monticello, il), 9/28/11.
+51. workshop on information theory and applications (ita) (la jolla, ca), 2/7/11.
+52. stanford university (stanford, ca), 12/16/10.
+53. asilomar conference (pacific grove, ca), 11/08/10.
+54. university of illinois (urbana, il), 09/20/10.
+55. syracuse university (syracuse, ny) 03/24/10.
+56. ieee signal processing society chapter meeting (rome, ny), 03/23/10.
+57. l’ecole sup´erieure d’e´lectricit´e (sup´elec) (paris, france), 07/08/09.
+58. telecommunications research center vienna (ftw) / vienna university of technology
+(tuw) (vienna, austria), 06/05/09.
+59. woods hole oceanographic institution (woods hole, ma), 6/2/ .
+60. ieee communications theory workshop (napa, ca), 5/12/ .
+61. norwegian universityof scienceandtechnology(ntnu) (trondheim,norway), 04/22/09.
+62. norwegian universityof scienceandtechnology(ntnu) (trondheim,norway), 04/21/09.
+63. norwegian universityof scienceandtechnology(ntnu) (trondheim,norway), 04/20/09.
+64. univ. marne la vall´ee (paris, france), 04/08/09.
+65. l’ecole sup´erieure d’e´lectricit´e (sup´elec) (paris, france), 03/25/09.
+66. workshop on information theory and applications (ita) (la jolla, ca), 2/12/ .
+67. eurecom (sophia antipolis, france), 11/27/ .
+68. eurecom (sophia antipolis, france), 11/6/ .
+69. eurecom (sophia antipolis, france), 10/22/ .
+70. nile university (cairo, egypt), 7/10/ .
+71. nile university (cairo, egypt), 7/9/ .
+72. nile university (cairo, egypt), 7/8/ .
+73. woods hold oceanographic institution (woods hole, ma), 6/2/ .
+74. information theory and applications workshop (la jolla, ca), 1/31/ .
+75. office of naval research (washington, dc), 5/30/07.
+76. asilomar conference (pacific grove, ca), 11/30/06.
+77. ecole nationale sup´erieure de l’electronique et des applications (paris, france), 6/27/06.
+78. technical university of delft (delft, the netherlands), 6/20/06.
+79. motorola research (schaumburg, il), 3/4/05.
+80. university of texas (austin, tx), 2/24/05.
+81. university of pittsburgh (pittsburgh pa), 10/18/04.
+82. lucent technologies (holmdel nj), 3/16/04.
+83. university of washington (seattle wa), 3/5/04.
+84. dotcast inc. (seattle wa), 3/4/04.
+85. university of texas (austin tx), 1/23/04.
+86. rice university (houston tx), 1/22/04.
+87. motorola research (schaumburg, il), 12/9/03
+88. ecole nationale sup´erieure des t´el´ecommunications (paris, france), 6/25/03
+89. ecole nationale sup´erieure de l’electronique et des applications (paris, france), 6/24/03
+(last updated january 18, ) 18
+90. institute national des tel´ecommunications, (evry, france), 6/23/03
+91. cornell univ. (ithaca, ny), 5/30/03
+92. pennsylvania state univ. (state college, pa), 4/10/03
+93. univ. of wisconsin (madison, wi), 3/26/03
+94. worcester polytechnical institute (worcester, ma), 11/21/02
+95. ati inc. (langhorne, pa), 10/11/02
+96. nxtwave communications (langhorne, pa), 10/19/01
+97. thomson multimedia research (princeton, nj), 10/19/01
+98. phonak inc (champaign, il), 10/05/01
+99. illinois institute of technology (chicago, il), 3/30/01
+100. allerton conference (monticello, il), 10/05/00
+101. princeton university (princeton, nj), 11/12/99
+102. lucent technologies (crawford hill, nj), 11/5/99
+103. applied signal technology (sunnyvale, ca), 10/30/98
+104. tektronix inc. (beaverton, or), 5/18/98
+105. applied signal technology (sunnyvale, ca), 4/28/98
+professional • associate editor, siam journal on imaging science, –present.
+activities • elected member, asilomar steering committee, –present.
+• area chair: international biomedical and astronomical signal processing (basp) frontiers
+workshop, –present.
+• elected member, ieee signal processing society computational imaging (ci) technical
+committee, – .
+• elected member, ieee signal processing society sensor array and multichannel (sam)
+technical committee, – .
+• elected member, ieee signal processing society signal processing for communications
+and networking (spcom) technical committee, – .
+• guest editor, ieee journal on selected areas in communications, special issue on “in-
+band full-duplex wireless: challenges and opportunities,” - .
+• associate editor, ieee signal processing letters, – .
+• chair, ieee signal processing society chapter: columbus oh, – .
+• general chair: asilomar conference on signals systems and computers, .
+• technical chair: asilomar conference on signals systems and computers, .
+• technical co-chair, acm international workshop on underwater networks (wuwnet),
+.
+• technical co-chair, ieee communication theory workshop, .
+• vice technical chair: asilomar conference on signals systems and computers, .
+• technical area chair: signal processing and adaptive sytems, asilomar conference on
+signals systems and computers, .
+• organizer, special session, ieee information theory workshop (itw), .
+• organizer, special session, ieee computational advances in multi-channel sensor array
+processing (camsap), .
+• organizer, 2 special sessions, asilomar conference on signals systems and computers,
+.
+• organizer, special session, ieee computational advances in multi-channel sensor array
+processing (camsap), .
+• organizer, special session, ieee underwater acoustic signal processing workshop, .
+• member, technical program committee:
+(last updated january 18, ) 19
+- aaai conference on artificial intelligence, .
+- ieee conference on acoustics, speech, and signal processing: – .
+- ieee sensor array and multichannel signal processing workshop, – .
+- ieee global communications conference: , – , .
+- ieee global conference on signal and information processing: .
+- ieee statistical signal processing workshop, , .
+- ieee workshop on signal processing advances in wireless communications, –
+.
+- adaptive sensor array processing workshop (mit lincoln lab), .
+- ieee vehicular technology conference, .
+professional • ieee signal processing society
+memberships • ieee information theory society
+postdocs 1. subhojit som, ,compressive imaging via turbo approximate message passing. now
+advised with microsoft.
+students 1. edward reehorst (ph.d. dec. ), machine learning for image inverse problems and
+graduated novelty detection. now with afrl.
+2. michael wharton (m.s. may ), deep learning for radar signal processing. now
+with afrl.
+3. subrata sarkar (ph.d. aug. ), solving linear and bilinear inverse problems using
+approximate message passing methods. now with amazon.
+4. ali foroughipour (ph.d. may , co-supervised with lori dalton), optimal bayesian
+feature selection: a new approach for biomarker discovery. now with the jackson
+laboratory.
+5. evan byrne (ph.d. apr. ),inference in generalized linear models with applications.
+now with root insurance.
+6. evan byrne (m.s. aug. ), sparse multinomial logistic regression via approximate
+message passing.
+7. jeremy vila (ph.d. may ), empirical-bayes approaches to recovery of structured
+sparse signals via approximate message passing. now with shell oil.
+8. justin ziniel (ph.d. dec. ), message passing approaches to compressive inference
+under structured signal priors. now with ibm.
+9. jason parker (ph.d. aug. ), approximate message passing algorithms for general-
+ized bilinear inference. now with the air force research laboratory.
+10. dong meng (m.s. june ), approximate message passing for multi-carrier trans-
+mission over doubly selective channels. now with nvidia.
+11. rohit aggarwal (ph.d. may , co-supervised with c. emre koksal), resource allo-
+cation and design issues in wireless systems. now with bidgely, inc.
+12. sugumar murugesan (ph.d. july , co-supervised with ness shroff), opportunistic
+scheduling using channel memory in markov-modeled wireless networks. now with
+johnson controls, inc.
+13. sungjun hwang (ph.d. jan. ), communication over doubly selective channels:
+efficient equalization and max-diversity precoding. now with qualcomm, inc.
+14. brian carroll (m.s. june ), analysis of sparse channel estimation. now with the
+national security agency.
+15. sibasish das (ph.d. jan. ),analysis and design of pilot-aided multicarrier systems
+over doubly selective channels with a local subcarrier processing constraint. now with
+qualcomm, inc.
+16. hong “iris” liu (ph.d. july ), frequency-domain equalization of single-carrier
+(last updated january 18, ) 20
+communications over doubly selective channels. now with broadcom, inc.
+17. arun p. kannu (ph.d. mar. ),communications over noncoherent doubly selective
+channels. now with iit madras. outage-limited cooperative channels: protocols and
+analysis. now with qualcomm, inc.
+18. sugumar murugesan (m.s. july ), training and scheduling in the non-coherent
+mimo uplink. now with assia, inc.
+19. adam r. margetts (ph.d. aug. ), joint scale-lag diversity in mobile wideband
+communications. now with mit lincoln laboratories.
+20. sibasish das (m.s. nov. ), turbo-equalization of pulse-shaped multi-carrier mod-
+ulation in doubly selective channels. now with qualcomm, inc.
+21. arun p. kannu (m.s. may ),tracking of doubly-dispersive channels. now with iit
+madras.
+22. siddharth h. d’silva (m.s. nov. ), on ofdm in doubly-dispersive channels. now
+with autoliv electronics.
+23. adam r. margetts (m.s. nov. ), adaptive chip-rate equalization of downlink
+multirate wideband cdma. now with mit lincoln laboratories.
+24. wei hu (m.s. aug. ), blind equalization and identification for differential space-
+time modulated communication systems.
+25. bijoy bhukania (m.s. aug. ), detection of differential unitary space-time modu-
+lation in fast rayleigh-fading channels. now with broadcom, inc.
+26. jos´e albornoz (m.s. aug. , co-supervised with mike p. fitz), a wideband channel
+sounder. now with fujitsu, inc.
+current 1. xuan lei (ph.d. expected may , co-advised with prof. rizwan ahmad).
+students 2. jeffrey wen (ph.d. expected may , co-advised with prof. rizwan ahmad).
+3. matt bendel (ph.d. expected may , co-advised with prof. rizwan ahmad).
+4. chris ebersole (ph.d. expected may ).
+5. saurav k shastri (ph.d. expected aug ).
+6. srijith nair (m.s. expected may ).
+courses 1. introduction to machine learning: osu-ece 4300/5300/5307 (spring ).
+developed 2. statistical signal processing: osu-ece 6202 (spring ).
+3. advanced digital signal processing: osu-ece 6200 (autumn ).
+4. digital signal processing i: osu-ece 600 (autumn ), 5200 (autumn ).
+5. analog and digital communications: osu-ece 501 (autumn ).
+6. adaptive filtering: osu-ece 801.01 (autumn ).
+7. digital signal processing ii: osu-ece 700 (winter ).
+8. source coding and audio compression: cornell-ee 597 (autumn ).
+courses 1. introduction to machine learning: osu-ece 4300/5300/5307 (sp19, sp20, au20, sp21,
+taught au21, sp22, au22, sp23, au23, sp24)
+2. digital signal processing i: osu-ece 600 (au09, wi10, au10, wi11, au11), osu-ece
+5200 (au12, sp14, au14, au15, au17, au18, au19)
+3. advanced digital signal processing: osu-ece 6200 (au13, sp16, sp18)
+4. statistical signal processing: osu-ece 6202 (sp15)
+5. digital communications i: osu-ece 702 (sp06, sp07, sp08, sp10, sp11, sp12)
+6. analog and digital communications: osu-ece 501 (au07, wi08, wi12)
+7. digital signal processing ii: osu-ece 700 (wi01, wi02, wi03, wi04, wi05, wi06, wi07)
+8. analysis and design in circuits and electronics: osu-ece 301 (au02, au04, au06)
+9. source coding: cornell-ee 597 (au99), osu-ece 693 (sp06)
+(last updated january 18, ) 21
+10. adaptive filtering: osu-ece 801.01 (au01, au03, au05)
+11. digital communications ii: osu-ece 809 (sp05)
+12. detection and estimation theory: osu-ece 806 (sp01, sp02, sp03, sp04)
+13. probability and random variables: osu-ece 804 (au00)
+departmental 1. area chair (control, signal processing, computer vision area), - , - ,
+service -present.
+2. awards committee: -present (chair).
+3. curriculum committee: – , – , – , -present.
+4. computer engineering redesign taskforce: -present.
+5. school of computing taskforce: -present.
+6. promotion and tenure committee: – , – , - (chair).
+7. hybrid teaching taskforce (chair): .
+8. computer engineering hiring committee: .
+9. advisory committee: – , – .
+10. personnel committee: – .
+11. admissions committee: – .
+12. graduate studies committee: – .
+13. ece undergraduate studies committee: – , – , – .
+14. computer facilities committee: – , – (chair).
+15. performance plan subcommittee for undergraduate program: .
+16. faculty secretary: – .
+17. graduate recruiting and financial aid committee: – .
+18. ece strategic planning committee: – .
+college and 1. college of engineering awards committee: - .
+university 2. search committee for ece chair: - , - .
+service
+3. implementation committee for the engineering education innovation center: - .
+4. subcommittee for innovation in undergraduate engineering education: - .
+5. - faculty advisor to the osu women’s ultimate frisbee team.
+6. - faculty advisor to the osu men’s ultimate frisbee team.
+personal born 22 july in evanston il. us & swiss citizenships.
+(last updated january 18, ) 22

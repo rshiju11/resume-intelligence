@@ -1,182 +1,182 @@
-michaeld.bond
-contact departmentofcomputersciences e-mail:
-information theuniversityoftexasataustin web: www.cs.utexas.edu/~mikebond
-1universitystationc05000 office: (
-austin,tx usa
-research developing analyses and systems that make complex, concurrent software reliable,
-interests scalable,andsecure. programminglanguages,runtimesystems,compilers,security.
-education ph.d.,computersciences,theuniversityoftexasataustin,
-− title: diagnosingandtoleratingbugsindeployedsystems
-− advisor: kathryns.mckinley
-m.c.s.,computerscience,universityofillinoisaturbana-champaign,
-b.s.,computerscience,universityofillinoisaturbana-champaign,
-awards acmsigplanoutstandingdoctoraldissertationaward( )
-intelph.d.fellowship( – )
-craziestidea(outof10),wildandcrazyideassession,acmsigplaninternational
-symposiumonmemorymanagement(ismm)( )
-beststudentpresenter,ieee/acminternationalsymposiumoncodegenerationand
-optimization(cgo)( )
-microelectronics and computer development (mcd) fellowship, the university of
-texasataustin( - )
-refereed michaeld.bond, katherinee.coons, andkathryns.mckinley. pacer: proportional
-publications detection of data races. acm sigplan conference on programming language design
-andimplementation(pldi),toronto,june2010. toappear.
-michael d. bond, graham z. baker, and samuel z. guyer. breadcrumbs: efficient
-context sensitivity for dynamic bug detection analyses. acm sigplan conference
-on programming language design and implementation (pldi), toronto, june . to
+Michael D. Bond
+CONTACT Sciences E-mail:
+INFORMATION The University of Texasat Austin Web:
+1 University Station C05000 Office: (
+Austin, TX USA
+RESEARCH Developing analyses and systems that make complex, concurrent software reliable,
+INTERESTS scalable, andsecure. Programming languages runtime systems compilers, security.
+EDUCATION Ph. D., Computer Sciences, The University of Texasat Austin,
+− Title: Diagnosing and Tolerating Bugsin Deployed Systems
+− Advisor: Kathryn S. Mc Kinley
+M. C. S., Computer Science, University of Illinoisat Urbana-Champaign,
+B. S., Computer Science, University of Illinoisat Urbana-Champaign,
+AWARDS ACM SIG PLAN Outstanding Doctoral Dissertation Award()
+Intel Ph. D. Fellowship(–)
+Craziest idea out of 10 Wildand Crazy Ideas session ACM SIG PLAN International
+Symposium on Memory Management IS MM
+Best Student Presenter, IEEE ACM International Symposium on Code Generation and
+Optimization C GO
+Microelectronics and Computer Development (MCD) Fellowship, The University of
+Texasat Austin(-)
+REFEREED Michael D. Bond, Katherine E. Coons, and Kathryn S. Mc Kinley. Pacer: Proportional
+PUBLICATIONS Detection of Data Races. ACM SIGPLAN Conference on Programming Language Design
+and Implementation PL DI Toronto, June2010. Toappear.
+Michael D. Bond, Graham Z. Baker, and Samuel Z. Guyer. Breadcrumbs: Efficient
+Context Sensitivity for Dynamic Bug Detection Analyses. ACM SIGPLAN Conference
+on Programming Language Design and Implementation (PLDI), Toronto, June . To
 appear.
-indrajit roy, donald e. porter, michael d. bond, kathryn s. mckinley, and emmett
-witchel. laminar: practical fine-grained decentralized information flow control.
-acmsigplanconferenceonprogramminglanguagedesignandimplementation(pldi),
-pages63–74,dublin,june2009.
-michaeld.bondandkathryns.mckinley.leakpruning.acminternationalconference
-on architectural support for programming languages and operating systems (asplos),
-pages277–288,washington,dc,march2009.
-michaeld.bondandkathryns.mckinley. toleratingmemoryleaks. acmsigplan
-internationalconferenceonobject-orientedprogramming, systems, languages, andappli-
-cations(oopsla),pages109–126,nashville,tn,usa,october2008.
-michael d. bond and kathryn s. mckinley. probabilistic calling context. acm sig-
-planinternationalconferenceonobject-orientedprogramming,systems,languages,and
-applications(oopsla),pages97–112,montreal,october2007.
+Indrajit Roy, Donald E. Porter, Michael D. Bond, Kathryn S. Mc Kinley, and Emmett
+Witchel. Laminar: Practical Fine-Grained Decentralized Information Flow Control.
+ACM SIG PLAN Conference on Programming Language Designand Implementation PL DI
+pages 63 74 Dublin, June2009.
+Michael D. Bondand Kathryn S. Mc Kinley. Leak Pruning. ACM International Conference
+on Architectural Support for Programming Languages and Operating Systems (ASPLOS),
+pages 277 288 Washington, DC, March2009.
+Michael D. Bondand Kathryn S. Mc Kinley. Tolerating Memory Leaks. ACMSIGPLAN
+International Conference on Object-Oriented Programming, Systems, Languages, and Appli-
+cations OOPS LA pages 109 126 Nashville, TN, USA, October2008.
+Michael D. Bond and Kathryn S. Mc Kinley. Probabilistic Calling Context. ACM SIG-
+PLAN International Conference on Object-Oriented Programming, Systems, Languages, and
+Applications OOPS LA pages 97 112 Montreal, October2007.
 1of5
-michaeld.bond,nicholasnethercote,stephenw.kent,samuelz.guyer,andkath-
-ryn s. mckinley. tracking bad apples: reporting the origin of null and undefined
-valueerrors. acmsigplaninternationalconferenceonobject-orientedprogramming,
-systems,languages,andapplications(oopsla),pages405–422,montreal,october2007.
-byeongcheollee,kevinresnick,michaeld.bond,andkathryns.mckinley. correct-
-ingthedynamiccallgraphusingcontrolflowconstraints. internationalconference
-oncompilerconstruction(cc),pages80–95,braga,portugal,march2007.
-michael d. bond and kathryn s. mckinley. bell: bit-encoding online memory leak
-detection. acm international conference on architectural support for programming lan-
-guagesandoperatingsystems(asplos),pages61–72,sanjose,ca,usa,october2006.
-michael d. bond and kathryn s. mckinley. continuous path and edge profiling.
-ieee/acminternationalsymposiumonmicroarchitecture(micro),pages130–140,bar-
-celona,november2005.
-michaeld.bondandkathryns.mckinley. practicalpathprofilingfordynamicopti-
-mizers. ieee/acminternationalsymposiumoncodegenerationandoptimization(cgo),
-pages205–216,sanjose,ca,usa,march2005.
-rahuljoshi,michaeld.bond,andcraigzilles. targetedpathprofiling: lowerover-
-head path profiling for staged dynamic optimization systems. ieee/acm interna-
-tionalsymposiumoncodegenerationandoptimization(cgo),pages239–250,paloalto,
-ca,usa,march2004.
-dissertation michael david bond. detecting and tolerating bugs in deployed systems. department
-ofcomputersciences, theuniversityoftexasataustin, december2008. acmsig-
-planoutstandingdoctoraldissertationaward.
-technical michaeld.bond,varunsrivastava,kathryns.mckinley,andvitalyshmatikov. effi-
-report cient,context-sensitivedetectionofsemanticattacks. technicalreporttr-09-14,the
-universityoftexasataustin, .
-work postdoctoralfellowattheuniversityoftexasataustin( –present)
-experience
-researchassistantattheuniversityoftexasataustin( – )
-researchinternatintelcorporationinhillsboro,oregon( )
-researchassistantatuniversityofillinoisaturbana-champaign( )
-teaching assistant for combinatorial algorithms (cs 373) at university of illinois at
-urbana-champaign( )
-softwareengineeringinternatedgetechnologies(summers2000– )
-assistant teacher for computer science course at thomas jefferson high school for
-scienceandtechnology(summers1997– )
-professional program committee, acm sigplan international conference on object-oriented pro-
-activities gramming,systems,languages,andapplications(oopsla)
-externalreviewcommittee,acmsigplanconferenceonprogramminglanguagede-
-signandimplementation(pldi)
+Michael D. Bond, Nicholas Nether cote Stephen W. Kent, Samuel Z. Guyer, and Kath-
+ryn S. Mc Kinley. Tracking Bad Apples: Reporting the Origin of Null and Undefined
+Value Errors. ACM SIG PLAN International Conference on Object-Oriented Programming,
+Systems, Languages, and Applications OOPS LA pages 405 422 Montreal, October2007.
+B yeong cheol Lee, Kevin Resnick, Michael D. Bond, and Kathryn S. Mc Kinley. Correct-
+ingthe Dynamic Call Graph Using Control Flow Constraints. International Conference
+on Compiler Construction CC pages 80 95 Braga, Portugal, March2007.
+Michael D. Bond and Kathryn S. Mc Kinley. Bell: Bit-Encoding Online Memory Leak
+Detection. ACM International Conference on Architectural Support for Programming Lan-
+guagesand Operating Systems ASP LOS pages 61 72 San Jose, CA, USA, October2006.
+Michael D. Bond and Kathryn S. Mc Kinley. Continuous Path and Edge Profiling.
+IEEE ACM International Symposium on Microarchitecture MICRO pages 130 140 Bar-
+celona, November2005.
+Michael D. Bondand Kathryn S. Mc Kinley. Practical Path Profiling for Dynamic Opti-
+mizers. IEEE ACM International Symposium on Code Generation and Optimization C GO
+pages 205 216 San Jose, CA, USA, March2005.
+Rahul Joshi, Michael D. Bond, and Craig Zilles. Targeted Path Profiling: Lower Over-
+head Path Profiling for Staged Dynamic Optimization Systems. IEEE/ACM Interna-
+tional Symposium on Code Generation and Optimization C GO pages 239 250 Palo Alto,
+CA, USA, March2004.
+DISSERTATION Michael David Bond. Detecting and Tolerating Bugs in Deployed Systems. Department
+of Computer Sciences, The University of Texasat Austin, December2008. ACMSIG-
+PLAN Outstanding Doctoral Dissertation Award.
+TECHNICAL Michael D. Bond, Varun Sri vast ava Kathryn S. Mc Kinley, and Vitaly Shmatikov. Effi-
+REPORT cient, Context-Sensitive Detection of Semantic Attacks. Technical report TR-09-14, The
+University of Texasat Austin,.
+WORK Postdoctoral fellow at The University of Texasat Austin present
+EXPERIENCE
+Research assistant at The University of Texasat Austin(–)
+Research internat Intel Corporation in Hillsboro, Oregon()
+Research assistant at University of Illinoisat Urbana-Champaign()
+Teaching assistant for Combinatorial Algorithms (CS 373) at University of Illinois at
+Urbana-Champaign()
+Software engineering internat Edge Technologies summers 2000
+Assistant teacher for computer science course at Thomas Jefferson High School for
+Scienceand Technology summers 1997
+PROFESSIONAL Program Committee, ACM SIGPLAN International Conference on Object-Oriented Pro-
+ACTIVITIES gramming, Systems, Languages, and Applications OOPS LA
+External Review Committee, ACM SIG PLAN Conference on Programming Language De-
+signand Implementation PL DI
 2of5
-programcommittee,acmsigsoftinternationalworkshoponmulticoresoftwareengi-
-neering(iwmse)
-review committee, acm sigplan international symposium on memory management
-(ismm)
-reviewer for acm transactions on architecture and code optimization (taco); acm
-transactions on software engineering and methodology (tosem); and software: practice
-andexperience(spe)
-external reviewer for acm sigplan conference on programming language design and
-implementation(pldi);acmsymposiumonprinciplesofprogramminglanguages(popl);
-acm sigplan international conference on object-oriented programming, systems, lan-
-guages, andapplications(oopsla);ieeeinternationalsymposiumonperformanceanal-
-ysisofsystemsandsoftware(ispass);ieee/acminternationalconferenceonparallelar-
-chitectures and compilation techniques (pact); and international conference on compiler
-construction(cc)
-service& jikesrvmteam( –present)
-outreach
-faculty recruiting committee and co-chair of graduate student faculty recruiting
-committee,departmentofcomputersciences,theuniversityoftexasataustin( )
-systemadministratorformyresearchgroup’sexperimentalmachines( –present)
-taughtchesstohighschoolsstudentsthroughtheboysandgirlsclub( – )
-tutoredhighschoolstudentsinmaththroughaustinpartnersineducation( )
-grant participated in writing and researchdevelopment for pass: perpetually available soft-
-proposals ware systems (nsf shf-0910818; this grant currently funds me), scalable applications
-start with scalable virtual machine services (nsf csr-0917191), and efficient dynamic
-analysisfordetectingandtoleratingprogramanomalies(nsfccf-0811524)
-students varun srivastava, master’s student (co-advised with kathryn mckinley and vitaly
-co-advised shmatikov, –present)
-grahambaker,ph.d.student,tuftsuniversity(co-advisedwithsamuelguyer, –
+Program Committee, ACM SIG SOFT International Workshopon Multicore Software Engi-
+nee ring IW MSE
+Review Committee, ACM SIGPLAN International Symposium on Memory Management
+(ISMM)
+Reviewer for ACM Transactions on Architecture and Code Optimization (TACO); ACM
+Transactions on Software Engineering and Methodology (TOSEM); and Software: Practice
+and Experience S PE
+External reviewer for ACM SIGPLAN Conference on Programming Language Design and
+Implementation PL DI ACM Symposium on Principles of Programming Languages POP L
+ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Lan-
+guages, and Applications OOPS LA IEEE International Symposium on Performance Anal-
+ysisof Systemsand Software IS PASS IEEE ACM International Conference on Parallel Ar-
+chi tec ture s and Compilation Techniques (PACT); and International Conference on Compiler
+Construction CC
+SERVICE& Jikes RV M Team present
+OUTREACH
+Faculty Recruiting Committee and Co-chair of Graduate Student Faculty Recruiting
+Committee, Department of Computer Sciences, The University of Texasat Austin()
+System administrator for my research group s experimental machines present
+Taught chess to high schools students through the Boysand Girls Club(–)
+Tutored highschool students in math through Austin Partnersin Education()
+GRANT Participated in writing and research development for PASS: Perpetually Available Soft-
+PROPOSALS ware Systems (NSF SHF-0910818; this grant currently funds me), Scalable Applications
+Start with Scalable Virtual Machine Services (NSF CSR-0917191), and Efficient Dynamic
+Analysis for Detecting and Tolerating Program Anomalies(NSFCCF-0811524)
+STUDENTS Varun Sri vast ava master’s student (co-advised with Kathryn Mc Kinley and Vitaly
+CO-ADVISED Sh mati kov present
+Graham Baker, Ph. D. student, Tufts University(co-advisedwith Samuel Guyer,–
 )
-rudydepena,master’sstudent(co-advisedwithkathrynmckinley, – )
-stephenkent,undergraduatestudent(co-advisedwithkathrynmckinley, – )
-software laminar (with indrajit roy and donald porter), jikes rvm research archive, http:
-artifacts //www.jikesrvm.org/research+archive,
-leakpruning,jikesrvmresearcharchive,
-bad apples suite, 12 real null pointer exception bugs (with stephen w. kent), http:
-//www.cs.utexas.edu/~mikebond/bad-apples-suite,
-melt: memoryleaktolerance,jikesrvmresearcharchive,
-probabilisticcallingcontext,jikesrvmresearcharchive,
-− jonesandryderusedthisimplementationforcontext-sensitiveallocationsitesin
-their2008paperinacmsigplaninternationalsymposiumonmemorymanagement
-(ismm).
+Rudy Depena, master’sstudent(co-advisedwith Kathryn Mc Kinley,–)
+Stephen Kent, undergraduatestudent(co-advisedwith Kathryn Mc Kinley,–)
+SOFTWARE Laminar (with Indrajit Roy and Donald Porter), Jikes RVM Research Archive, http:
+ARTIFACTS Research Archive
+Leak Pruning, Jikes RV M Research Archive,
+Bad Apples Suite, 12 real null pointer exception bugs (with Stephen W. Kent), http:
+/~mikebond/bad-apples-suite,
+Melt: Memory Leak Tolerance, Jikes RV M Research Archive,
+Probabilistic Calling Context, Jikes RV M Research Archive,
+− Jonesand Ryderusedthisimplementationforcontext-sensitiveallocationsitesin
+their 2008 paper in ACM SIG PLAN International Symposium on Memory Management
+(ISMM).
 3of5
-origintrackingfornullreferences,jikesrvmresearcharchive,
-− co-author nethercote implemented origin tracking for undefined values in val-
-grind’s memcheck tool. it is available as a branch in the valgrind source code
-repository: svn://svn.valgrind.org/valgrind/branches/origin_tracking
-sleigh: amemoryleakdetectiontool,jikesrvmresearcharchive,
-− tang,gao,andqinmodifiedsleighfortheir2008paperinusenixannualtech-
-nicalconference(usenix).
-pep:continuouspathandedgeprofiling,jikesrvmresearcharchive,
-practicalandtargetedpathprofiling,partofthescalecompiler,http://www-ali.cs.
-umass.edu/scale/,
-− vaswani,nori,andchilimbimodifiedthepathprofilingimplementationfortheir
-2007papersinacmsymposiumonprinciplesofprogramminglanguages(popl)and
-acmsigsoftsymposiumonthefoundationsofsoftwareengineering(fse).
-presentations “makingsoftwarerobustindeployedsystems”
-• universityofmichiganatannarbor,april2009
-• dukeuniversity,march2009
-• universityofnebraskaatlincoln,february2009
-“leakpruning,”acminternationalconferenceonarchitecturalsupportforprogramming
-languagesandoperatingsystems(asplos),washington,dc,march2009
-“toleratingmemoryleaks,” acmsigplaninternationalconferenceonobject-orient-
-ed programming, systems, languages, and applications (oopsla), nashville, tn, usa,
-october2008
-“deployedsoftware: anidealenvironmentforfixingbugs?”
-• universityofillinoisaturbana-champaign,july2008
-• universityofwashington,june2008
-• universityoforegon,june2008
-• stanforduniversity,june2008
-• universityofcaliforniaatsantacruz,june2008
-• universityofcaliforniaatberkeley,june2008
-• universityofcaliforniaatsandiego,june2008
-• texasa&muniversity,june2008
-“boundingleakyprograms,” wildandcrazyideassession, acmsigplaninterna-
-tionalsymposiumonmemorymanagement(ismm),tucson,az,usa,june2008
-− awardedcraziestidea(outof10)
-− runner-upformostworthyofimplementation
-“probabilisticcallingcontext,” acmsigplaninternationalconferenceonobject-ori-
-entedprogramming,systems,languages,andapplications(oopsla),montreal,october
-“tracking bad apples: reporting the origin of null and undefined value errors,”
-acm sigplan international conference on object-oriented programming, systems, lan-
-guages,andapplications(oopsla),montreal,october2007
-“improvingsoftwarereliabilityatproductiontime”
-• ibmresearch,hawthorne,ny,usa,october2007
-• ibmcorporation,austin,tx,usa,october2007
-• intelcorporation,hillsboro,or,usa,june2007
+Origin Tracking for Null References, Jikes RV M Research Archive,
+− Co-author Nethercote implemented origin tracking for undefined values in Val-
+grind’s Memcheck tool. It is available as a branch in the Valgrind Source Code
+Repository: val grind branches ORIGIN TRACKING
+Sleigh: AMemory Leak Detection Tool, Jikes RV M Research Archive,
+− Tang, Gao, and Qin modified Sleigh for their 2008 paper in USE NIX Annual Tech-
+nical Conference(USENIX).
+PEP Continuous Pathand Edge Profiling, Jikes RV M Research Archive,
+Practical and Targeted Path Profiling, partofthe Scale compiler
+/Scale/,
+− Vaswani, Nori, and Chili mbi modified the path profiling implementation for their
+2007 papers in ACM Symposium on Principles of Programming Languages POP L and
+ACM SIG SOFT Symposium on the Foundations of Software Engineering(FSE).
+PRESENTATIONS “Making Software Robustin Deployed Systems”
+• University of Michiganat Ann Arbor, April2009
+• Duke University, March2009
+• University of Nebraskaat Lincoln, February 2009
+“Leak Pruning ACM International Conference on Architectural Supportfor Programming
+Languages and Operating Systems ASP LOS Washington, DC, March2009
+“Tolerating Memory Leaks,” ACM SIG PLAN International Conference on Object-Orient-
+ed Programming, Systems, Languages, and Applications (OOPSLA), Nashville, TN, USA,
+October 2008
+“Deployed Software: An Ideal Environment for Fixing Bugs?”
+• University of Illinoisat Urbana-Champaign, July2008
+• University of Washington, June2008
+• University of Oregon, June2008
+• Stanford University, June2008
+• University of California at Santa Cruz, June2008
+• University of California at Berkeley, June2008
+• University of California at San Diego, June2008
+• Texas A M University June2008
+“Bounding Leaky Programs,” Wildand Crazy Ideas Session, ACMSIGPLANInterna-
+tional Symposium on Memory Management IS MM Tucson, AZ, USA, June2008
+− Awarded craziest idea out of 10
+− Runner-upformostworthyofimplementation
+“Probabilistic Calling Context,” ACM SIG PLAN International Conference on Object-Ori-
+ented Programming, Systems, Languages, and Applications OOPS LA Montreal, October
+“Tracking Bad Apples: Reporting the Origin of Null and Undefined Value Errors,”
+ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Lan-
+guages, and Applications OOPS LA Montreal, October 2007
+“Improving Software Reliability at Production Time”
+• IBM Research Hawthorne, NY, USA, October 2007
+• IBM Corporation Austin, TX, USA, October 2007
+• Intel Corporation, Hillsboro, OR, USA, June2007
 4of5
-“bell: bit-encodingonlinememoryleakdetection,”acminternationalconferenceon
-architectural support for programming languages and operating systems (asplos), san
-jose,ca,usa,october2006
-“continuouspathandedgeprofiling,”ieee/acminternationalsymposiumonmicroar-
-chitecture(micro),barcelona,november2005
-“practicalpathprofilingfordynamicoptimizers,”ieee/acminternationalsymposium
-oncodegenerationandoptimization(cgo),sanjose,ca,usa,march2005
-“targeted path profiling: lower overhead path profiling for staged dynamic opti-
-mization systems,” ieee/acm international symposium on code generation and opti-
-mization(cgo),paloalto,ca,usa,march2004
-− beststudentpresenter
-references availableonrequest
+“Bell: Bit-Encoding Online Memory Leak Detection ACM International Conference on
+Architectural Support for Programming Languages and Operating Systems (ASPLOS), San
+Jose, CA, USA, October 2006
+“Continuous Pathand Edge Profiling IEEE ACM International Symposium on Microar-
+chi tec ture MICRO Barcelona, November 2005
+“Practical Path Profiling for Dynamic Optimizer s IEEE ACM International Symposium
+on Code Generation and Optimization C GO San Jose, CA, USA, March2005
+“Targeted Path Profiling: Lower Overhead Path Profiling for Staged Dynamic Opti-
+mization Systems,” IEEE/ACM International Symposium on Code Generation and Opti-
+miz ation C GO Palo Alto, CA, USA, March2004
+− Best Student Presenter
+REFERENCES Available on request
 5of5

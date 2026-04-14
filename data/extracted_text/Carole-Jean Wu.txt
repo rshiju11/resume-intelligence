@@ -1,140 +1,140 @@
-carole-jean wu is a director of ai research at meta, where she leads the systems and machine learning
-research team. she is a founding member and a vice president of mlcommons – a non-profit
-organization that aims to accelerate machine learning innovations for the benefits of all. dr. wu also
-serves on the mlcommons board as a director, chaired the mlperf recommendation benchmark
-advisory board, and co-chaired for mlperf inference. prior to meta/facebook, dr. wu was a professor
-with tenure at asu. she earned her m.a. and ph.d. from princeton university and b.sc. from cornell
-university.
-dr. wu’s expertise sits at the intersection of computer architecture and machine learning. her work spans
+Carole- is a Director of AI Research at Meta, where she leads the Systems and
+Research team. She is a founding member and a of MLCommons – a non-profit
+organization that aims to accelerate machine learning innovations for the benefits of all. Dr. Wu also
+serves on the MLCommons Board as a Director, chaired the MLPerf Recommendation Benchmark
+Advisory Board, and co-chaired for MLPerf Inference. Prior to Meta Facebook Dr. Wu was a professor
+with tenure at ASU. She earned her M. A. and Ph. D. from Princeton University and B. Sc. from Cornell
+University.
+Dr. Wu’s expertise sits at the intersection of computer architecture and machine learning. Her work spans
 across datacenter infrastructures and edge systems with a focus on performance, energy efficiency and
-sustainability. she is passionate about pathfinding and tackling system challenges to enable efficient,
-scalable, and environmentally-sustainable ai technologies.
-dr. wu's work has been recognized with several awards, including ieee micro top picks and acm / ieee
-best paper awards. she is the recipient of nsf career award, cra-wp anita borg early career award
-distinction of honorable mention, ieee young engineer of the year award, science foundation arizona
-bisgrove early career scholarship, and facebook ai infrastructure mentorship award. she is in the hall of
-fame of isca, hpca and iiswc. dr. wu was the program co-chair of the conference on machine
-learning and systems (mlsys ), the program chair of the ieee international symposium on
-workload characterization (iiswc ), and the editor for the ieee micro special issue on
-environmentally sustainable computing. she currently serves on the acm sigarch/sigmicro cares
-committee, as well as the national academies of sciences, engineering, medicine workshop planning
+sustainability. She is passionate about path finding and tackling system challenges to enable efficient,
+scalable, and environmentally-sustainable AI technologies.
+Dr. Wu's work has been recognized with several awards, including IEEE Micro Top Picks and ACM / IEEE
+Best Paper Awards. She is the recipient of NSF CAREER Award, CRA-WP Anita Borg Early Career Award
+Distinction of Honorable Mention, IEEE Young Engineer of the Year Award, Science Foundation Arizona
+Bisgrove Early Career Scholarship, and Facebook AI Infrastructure Mentorship Award. She is in the Hall of
+Fame of ISCA, HPCA and IISWC. Dr. Wu was the Program Co-Chair of the Conference on Machine
+Learning and Systems (MLSys ), the Program Chair of the IEEE International Symposium on
+Workload Characterization (IISWC ), and the Editor for the IEEE MICRO Special Issue on
+Environmentally Sustainable Computing. She currently serves on the ACM SIG ARCH SIG MICRO CARES
+committee, as well as the National Academies of Sciences, Engineering, Medicine workshop planning
 committee.
-[google scholar] [dblp]
-research
-my work sits in the intersection of computer architecture and machine learning with the following emphasis:
-system design and optimization for deep learning
-learning-based approaches for system design and optimization
-high-performance and energy-efficient heterogeneous cpu+gpu systems
-performance quality modeling and energy efficiency optimization for mobile systems
-memory system optimization
-sustainable computing via carbon-efficient system design and management, energy harvesting and temperature-
+[Google Scholar] [dblp]
+Research
+My work sits in the intersection of computer architecture and machine learning with the following emphasis:
+System design and optimization for deep learning
+Learning-based approaches for system design and optimization
+High-performance and energy-efficient heterogeneous CPU+GPU systems
+Performance quality modeling and energy efficiency optimization for mobile systems
+Memory system optimization
+Sustainable computing via carbon-efficient system design and management, energy harvesting and temperature-
 aware management for portable electronics
-my work has been featured at national academy of engineering's the bridge, the computer architecture
-podcast ep16: sustainability in a post-ai world, tech @ meta on understanding computing's carbon
-footprint and designing low-carbon computers, the nature magazine: light bulbs have energy ratings
-— so why can’t ai chatbots?, and by bloomberg green, the atlantic, and the hipeac blog: to minimize
-computing’s carbon footprint, the first step is to quantify lifecycle emissions, as well as by stanford's
-mlsys seminar: designing ai systems for recommender systems and beyond, by mlperf: inference
-v0.5 launch results and maskrcnn2go for mlperf.
-if you are interested in learning more about designing computer systems for sustainability, check out my
-course offered at hipeac's summer school. the course includes
-1. understanding the lay of the land: computing's environmental footprint;
-2. carbon impact of ai;
-3. carbon modeling and design optimization;
-4. (carbon)-efficient edge computing;
-5. carbon optimization at-scale: carbon-aware datacenter computing.
-and, check out socio-technological challenges and opportunities: paths forward from isca-
-panel - the microprocessor at 50: societal challenge, sustainable ai: environmental implications,
-challenges and opportunities from mlsys- , designing computer systems for sustainability from
-isca- 's panel, and my thoughts on inclusive approaches to technological innovations: think globally,
-design deliberately: taking an inclusive approach to innovation.
-recent publications
-[national academy of engineering the bridge winter edition] scaling ai sustainably
-carole-jean wu, bilge acun, ramya raghavendra, kim hazelwood.
-[hpca- ] revisiting reliability in large-scale machine learning research clusters
-apostolos kokolis, michael kuchnik, john hoffman, adithya kumar, parth malani, faye ma, zachary devito,
-shubho sengupta, kalyan saladi, carole-jean wu.
-[hpca- ] cordoba: carbon-efficient optimization framework for computer systems
-mariam elgamal, doug carmean, elnaz ansari, okay zed, ramesh peri, srilatha manne, udit gupta, gu-yeon
-wei, david brooks, gage hills, carole-jean wu.
-best paper award honorable mention
-early version
-[acm sigarch computer architecture today] designing computer systems for sustainability
-carole jean-wu, tamar eilam, babak falsafi, gage hills, srilatha manne.
-[nature magazine] light bulbs have energy ratings — so why can’t ai chatbots?
-sasha luccioni, boris gamazaychikov, sara hooker, regis pierrard, emma strubell, yacine jernite, carole-jean
-wu.
-[ieee micro- ] beyond efficiency: scaling ai sustainably
-carole-jean wu, bilge acun, ramya raghavendra, kim hazelwood.
-special issue: the past, present, and future of warehouse-scale computing
-honors and awards
-cordoba: carbon-efficient optimization framework for computer systems selected for
-the ieee hpca best paper award honorable mention
-mad max beyond single-node: enabling large machine learning model acceleration on
-distributed systems selected for ieee micro top picks honorable mention
-carbon explorer: a holistic approach for designing carbon aware datacenters selected for
-ieee micro top picks honorable mention
-mp-rec: hardware-software co-design to enable multi-path recommendation selected for
-ieee micro top picks honorable mention
-isca paper selected for inclusion in 25-year retrospective: - :
-mlperf inference benchmark (retrospective: mlperf)
-one of the 98 papers (out of 1077) selected as one of the most significant and exciting
-papers from the acm/ieee international symposium on computer architecture from .
-act: designing sustainable computer systems with an architectural carbon modeling tool
-selected for ieee micro top picks
-towards fair federated recommendation learning: characterizing the inter-dependence
-of system and data heterogeneity selected for acm conference on recommender systems best
-paper award finalist
-chasing carbon: the elusive environmental footprint of computing selected for ieee micro
-top picks
-mlperf inference benchmark selected for ieee micro top picks (article: the vision behind
-mlperf: understanding ai inference performance)
-deeprecsys: a system for optimizing end-to-end at-scale neural recommendation
-inference selected for ieee micro top picks honorable mention
-distinction of honorable mention of the cra anita borg early career award
-facebook ai infrastructure mentorship award
-genetic improvement for gpu code selected for acm/ieee icse genetic improvement on
-software best paper award
-designing a temperature model to understand the thermal challenges of portable
-c ti pl tf l t df ieeeithermb tp a d
-computing platforms selected for ieee itherm best paper award
-nsf career award
-ieee young engineer of the year award
-architectural thermal energy harvesting opportunities for sustainable computing selected
-for ieee best of computer architecture letters
-sfaz bisgrove career award
-intel phd fellowship
-characterization and dynamic mitigation of intra-application cache interference
-nominated for ieee ispass best paper nomination
-princeton excellence in leadership award
-professional service
-acm sigarch/sigmicro cares committee, - present.
-journal editor
-ieee micro magazine special issue on environmentally sustainable computing, -23.
-executive committee
-ieee technical committee on computer architecture (tcca), -18.
-steering committee
-hotcarbon: workshop on sustainable computer systems, - present.
-ieee intl. symp. on performance analysis of systems and software (ispass), -23.
-ieee intl. symp. on workload characterization (iiswc), -23.
-award selection committee
-ieee tcca young computer architect award, -23.
-technical program chair
-conference on machine learning and systems (mlsys), .
-ieee intl. symp. on workload characterization (iiswc), .
-technical program committee
-hpca ; -17; hpca industry track
-hotcarbon ,
-isca -21; isca industry track
-mlsys -21
-iiswc ; -17
-micro ; -17
-journal editorial board
-ieee micro -23
-ieee computer architecture letters -22
-cra-widening participation (wp) career mentoring workshop
-finding a research topic with soha hassoun, .
-strategies for your career with amber settle, .
-selected publications
-industry initiatives and open source software
-mentorship
+My work has been featured at National Academy of Engineering's The Bridge, the Computer Architecture
+Podcast Ep16: Sustainability in a Post-AI World, Tech @ Meta on Understanding computing's carbon
+footprint and Designing low-carbon computers, the Nature Magazine: Light bulbs have energy ratings
+— so why can’t AI chatbots?, and by Bloomberg Green, the Atlantic, and the Hi PEAC blog: To minimize
+computing s carbon footprint, the first step is to quantify lifecycle emissions, as well as by Stanford's
+MLSys seminar: Designing AI Systems for Recommend er Systems and Beyond, by MLPerf: Inference
+v0.5 launch results and Mask RCNN2Go for MLPerf.
+If you are interested in learning more about Designing Computer Systems for Sustainability, check out my
+course offered at Hi PEAC's Summer School. The course includes
+1. Understanding the Lay of the Land: Computing's Environmental Footprint;
+2. Carbon Impact of AI;
+3. Carbon Modeling and Design Optimization;
+4. (Carbon)-efficient Edge Computing;
+5. Carbon Optimization At-Scale: Carbon-Aware Datacenter Computing.
+And, check out Socio-Technological Challenges and Opportunities: Paths Forward from ISCA-
+Panel - The Microprocessor at 50: Societal Challenge, Sustainable AI: Environmental Implications,
+Challenges and Opportunities from MLSys-, Designing Computer Systems for Sustainability from
+ISCA-'s Panel, and my thoughts on inclusive approaches to technological innovations: Think Globally,
+Design Deliberately: Taking an Inclusive Approach to Innovation.
+Recent Publications
+[National Academy of Engineering The Bridge Winter Edition] Scaling AI Sustain ably
+Carole-Jean Wu, Bilge Acun, Ramya Rag have ndra Kim Hazelwood.
+[HPCA-] Revisiting Reliability in Large-Scale Machine Learning Research Clusters
+Apostolos Kokolis, Michael Kuchnik, John Hoffman, Adithya Kumar, Parth Malani, Faye Ma, Zachary De Vito,
+Shubho Sengupta, Kalyan Saladi, Carole-Jean Wu.
+[HPCA-] CORDOBA: Carbon-Efficient Optimization Framework for Computer Systems
+Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon
+Wei, David Brooks, Gage Hills, Carole-Jean Wu.
+Best Paper Award Honorable Mention
+Early Version
+[ACM SIGARCH Computer Architecture Today] Designing Computer Systems for Sustainability
+Carole Jean-Wu, Tamar Eilam, Babak Falsafi, Gage Hills, Srilatha Manne.
+[Nature Magazine] Light bulbs have energy ratings — so why can’t AI chatbots?
+Sasha Luccioni, Boris Gama za y chi kov Sara Hooker, Regis Pierrard, Emma Strubell, Yacine Jernite, Carole-Jean
+Wu.
+[IEEE Micro-] Beyond Efficiency: Scaling AI Sustain ably
+Carole-Jean Wu, Bilge Acun, Ramya Rag have ndra Kim Hazelwood.
+Special Issue: The Past, Present, and Future of Warehouse-Scale Computing
+Honors and Awards
+CORDOBA: Carbon-Efficient Optimization Framework for Computer Systems selected for
+the IEEE HPCA Best Paper Award Honorable Mention
+MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on
+Distributed Systems selected for IEEE Micro Top Picks Honorable Mention
+Carbon Explorer: A Holistic Approach for Designing Carbon Aware Datacenter s selected for
+IEEE Micro Top Picks Honorable Mention
+MP-Rec: Hardware-Software Co-Design to Enable Multi-Path Recommendation selected for
+IEEE Micro Top Picks Honorable Mention
+ISCA Paper Selected for Inclusion in 25-Year Retrospective: -:
+MLPerf Inference Benchmark (Retrospective: MLPerf)
+One of the 98 papers (out of 1077) selected as one of the most significant and exciting
+papers from the ACM/IEEE International Symposium on Computer Architecture from .
+ACT: Designing Sustainable Computer Systems with an Architectural Carbon Modeling Tool
+selected for IEEE Micro Top Picks
+Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence
+of System and Data Heterogeneity selected for ACM Conference on Recommend er Systems Best
+Paper Award Finalist
+Chasing Carbon: The Elusive Environmental Footprint of Computing selected for IEEE Micro
+Top Picks
+MLPerf Inference Benchmark selected for IEEE Micro Top Picks (Article: The Vision Behind
+MLPerf: Understanding AI Inference Performance)
+Deep Rec Sys: A System for Optimizing End-to-end At-scale Neural Recommendation
+Inference selected for IEEE Micro Top Picks Honorable Mention
+Distinction of Honorable Mention of the CRA Anita Borg Early Career Award
+Facebook AI Infrastructure Mentorship Award
+Genetic Improvement for GPU Code selected for ACM/IEEE ICSE Genetic Improvement on
+Software Best Paper Award
+Designing a Temperature Model to Understand the Thermal Challenges of Portable
+C ti Pl tf l t df IEEE IT HER MB t P A d
+Computing Platforms selected for IEEE ITHERM Best Paper Award
+NSF CAREER Award
+IEEE Young Engineer of the Year Award
+Architectural Thermal Energy Harvesting Opportunities for Sustainable Computing selected
+for IEEE Best of Computer Architecture Letters
+SFAz Bisgrove CAREER Award
+Intel Ph D Fellowship
+Characterization and Dynamic Mitigation of Intra-Application Cache Interference
+nominated for IEEE ISPASS Best Paper Nomination
+Princeton Excellence in Leadership Award
+Professional Service
+ACM SIG ARCH SIG MICRO CARES Committee, - present.
+Journal Editor
+IEEE Micro Magazine Special Issue on Environmentally Sustainable Computing, -23.
+Executive Committee
+IEEE Technical Committee on Computer Architecture (TCCA), -18.
+Steering Committee
+Hot Carbon: Workshop on Sustainable Computer Systems, - present.
+IEEE Intl. Symp. on Performance Analysis of Systems and Software (ISPASS), -23.
+IEEE Intl. Symp. on Workload Characterization (IISWC), -23.
+Award Selection Committee
+IEEE TCCA Young Computer Architect Award, -23.
+Technical Program Chair
+Conference on Machine Learning and Systems (MLSys), .
+IEEE Intl. Symp. on Workload Characterization (IISWC), .
+Technical Program Committee
+HPCA ; -17; HPCA Industry Track
+Hot Carbon ,
+ISCA -21; ISCA Industry Track
+MLSys -21
+IISWC ; -17
+MICRO ; -17
+Journal Editorial Board
+IEEE Micro -23
+IEEE Computer Architecture Letters -22
+CRA-Widening Participation (WP) Career Mentoring Workshop
+Finding a Research Topic with Soha Hassoun, .
+Strategies for Your Career with Amber Settle, .
+Selected Publications
+Industry Initiatives and Open Source Software
+Mentorship

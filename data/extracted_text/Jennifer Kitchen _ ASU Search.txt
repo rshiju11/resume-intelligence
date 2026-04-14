@@ -1,50 +1,50 @@
-asu search
-jennifer
-kitchen
-associate professor,
-school of electrical,
-computer and energy
-engineering
+ASU Search
+Jennifer
+Kitchen
+Associate Professor,
+School of Electrical,
+Computer and Energy
+Engineering
 480-
 220-
 7261
-istb4 mail code:
-591a 5706
-tempe, azcampus:
-85287- tempe
+ISTB4 Mail code:
+591A 5706
+Tempe, AZCampus:
+85287- Tempe
 5804
-asu search
-biography research teaching
-long bio
-associate professor jennifer kitchen joined arizona state
-university in . she received her doctorate in electrical
-engineering at arizona state university in may of , where she
-specialized in efficiency enhancement and linearization techniques
-for rf power amplifiers in wireless transmitters. during her
-graduate studies, jennifer was a national science foundation
-graduate fellow, and a semiconductor research corporation
-master’s scholar.
-while at asu, from to , kitchen worked for the rf power
-amplifier handset product group at motorola inc. and freescale
-semiconductor. in , kitchen became the arizona design
-center manager for a startup company, ubidyne, inc., that aims to
-revolutionize wireless basestations by producing a digital antenna-
-embedded radio solution. in , kitchen joined viasat, inc. as
-head of an ic (integrated circuit) design team within the advanced
-microwave product group. her group focused on designing low-
-power integrated transceivers for satcom; among other chipsets
+ASU Search
+Biography Research Teaching
+Long Bio
+Associate Professor Jennifer Kitchen joined Arizona State
+University in . She received her doctorate in electrical
+engineering at Arizona State University in May of , where she
+specialized in efficiency enhancement and linear iz ation techniques
+for RF power amplifiers in wireless transmitters. During her
+graduate studies, Jennifer was a National Science Foundation
+Graduate Fellow, and a Semiconductor Research Corporation
+Master’s Scholar.
+While at ASU, from to , Kitchen worked for the RF power
+amplifier handset product group at Motorola Inc. and Freescale
+Semiconductor. In , Kitchen became the Arizona Design
+Center Manager for a startup company, Ubidyne, Inc., that aims to
+revolutionize wireless base stations by producing a digital antenna-
+embedded radio solution. In , Kitchen joined Via Sat, Inc. as
+head of an IC (Integrated Circuit) design team within the Advanced
+Microwave Product Group. Her group focused on designing low-
+power integrated transceivers for SATCOM; among other chipsets
 for military applications.
-kitchen’s research focuses on improvements in efficiency and
-power management for high-frequency circuits and systems. she
+Kitchen’s research focuses on improvements in efficiency and
+power management for high-frequency circuits and systems. She
 is using exotic materials such as gallium-nitride to create high-
 efficiency power management systems for solar arrays and
-batteries. she is also working on a higher level of integration,
+batteries. She is also working on a higher level of integration,
 bringing greater functionality on a single integrated circuit.
-education
-ph.d. electrical engineering, arizona state university
-asu search maps and locations contact asu
-jobs my asu
-directory
-copyright and trademark terms of use
-accessibility emergency
-privacy
+Education
+Ph. D. Electrical Engineering, Arizona State University
+ASU Search Maps and Locations Contact ASU
+Jobs My ASU
+Directory
+Copyright and Trademark Terms of Use
+Accessibility Emergency
+Privacy

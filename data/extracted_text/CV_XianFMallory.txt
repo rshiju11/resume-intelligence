@@ -1,113 +1,113 @@
-xian f. mallory
-department of computer science, florida cell:
-state university, tallahassee, fl, 32306 email:
-research interests
-i am a computer scientist interested in developing novel computational tools for analyzing large
+Xian F. Mallory
+Department of Computer Science, Florida Cell:
+State University, Tallahassee, FL, 32306 Email:
+RESEARCH INTERESTS
+I am a computer scientist interested in developing novel computational tools for analyzing large
 biological data sets to understand biological phenomena and processes, with particular
-emphasis on cancer. my work draws upon methodologies from combinatorial optimization,
+emphasis on cancer. My work draws upon methodologies from combinatorial optimization,
 statistical inference, and machine learning.
-professional experience
-florida state university tallahassee, fl
-assistant professor aug. –
-rice university houston, tx
-postdoctoral research associate – jul.
-institute for genome sciences baltimore, md
-university of maryland in baltimore
-software engineer
-the genome institute st. louis, mo
-at washington university
-statistical analyst
-siemens corporate research malvern, pa
-intern may. – aug.
-education
-rice university houston, tx
-ph.d. in computer science
-johns hopkins university baltimore, md
-m.s. in electrical and computer
-engineering
-shanghai jiao tong university shanghai, china
-m.s. in pattern recognition and intelligent
-systems
-shanghai jiao tong university shanghai, china
-b.s. in information engineering
-page 1 of 3
-honors and awards
-● gulf coast consortia ccbtp post-doctoral fellowship, - .
-● travel fellowship to mbi workshop on evolutionary dynamics in cancer, osu, .
-● rising star of eecs, uiuc, .
-● fellowship in computer science department, rice university, - .
-● travel fellowship to hitseq/ismb, orlando, .
-invited talks
-● computer science department colloquium @ fsu, cancer phylogenetics: where
-computer science attacks cancer, tallahassee, florida, nov.
-● biomedical sciences seminar series @ fsu, using single-cell sequencing technologies to
-understand heterogeneity in cancer, tallahassee, florida, aug.
-● human genome structural variation consortium f2f meeting, may (cshl), oct
-(vancouver) and oct (cshl)
-● hitseq/ismb, orlando, (<20% oral)
-● ashg, vancouver, (<3% oral)
-● southeast texas evolutionary genetics and genomics (stegg), houston, and
-● ieee computer society workshop on mmbia, anchorage, .
-peer-reviewed publications
-1. xian f. mallory, mohammadamin edrisi, nicholas navin and luay nakhleh, methods
-for copy number aberration detection from single-cell dna-sequencing data, genome
-biology, 21(208), ( ).
-2. xian f. mallory, mohammadamin edrisi, nicholas navin and luay nakhleh, assessing
-the performance of methods for copy number aberration detection from single-cell dna
-sequencing data, plos computational biology, 16(7): e1008012, ( ).
-3. justin zook … xian fan … marc salit, a robust benchmark for detection of germline
-large deletions and insertions, nature biotechnology, 1-9, ( ).
-4. mark chaisson … xian fan … charles lee, multi-platform discovery of haplotype-
-resolved structural variation in human genomes, nature communications, 10 ( ).
-5. xian fan, jie xu, luay nakhleh, detecting large indels using optical maps data,
-recomb-international conference on comparative genomics ( ).
-6. xian fan, mark chaisson, luay nakhleh and ken chen, hysa: a hybrid structural
-variant assembly approach using next generation and single-molecule sequencing
-technologies, genome research, 27(5), 793 ( ).
-7. zechen chong … xian fan … ken chen, novobreak: local assembly for breakpoint
-detection in cancer genomes, nature methods, 14(1), 65 ( ).
-8. matthew wyczalkowski … xian fan … li ding, breakpoint surveyor: a pipeline for
-structural variant visualization, bioinformatics, 33(19), ).
-9. 1000 genomes project consortium, a global reference for human genetic variation,
-nature, 526(7571), 68 ( ).
-10. peter sudmant … xian fan … 1000 genomes project consortium, an integrated map of
-structural variation in 2,504 human genomes, nature, 526(7571), 75 ( ).
-page 2 of 3
-11. malachi griffith … xian fan … richard wilson, genome modeling system: a knowledge
-management platform for genomics, plos computational biology, 11(7), e1004274
-( ).
-12. xian fan, wanding zhou, zechen chong, luay nakhleh and ken chen, towards
-accurate characterization of clonal heterogeneity based on structural variation, bmc
-bioinformatics, 15(1), 299 ( ).
-13. xian fan, travis e. abbott, david larson and ken chen, breakdancer: identification of
-genomic structural variation from paired-end read mapping, current protocols in
-bioinformatics, 45(1), ).
-14. ken chen, lei chen, xian fan, john wallis, li ding and george weinstock, tigra: a
-targeted iterative graph routing assembler for breakpoint assembly, genome research,
-24(2), 310 ( ) (co-first author).
-15. xian fan, luay nakhleh, ken chen, integrated genotyping of structural variation, 1st
-ieee global conference on signal and image processing ( ).
-16. ken chen … xian fan … li ding, breaktrans: uncovering the genomic architecture of
-gene fusions, genome biology, 14(8), r87 ( ).
-17. margaret young … xian fan … timothy ley, background mutations in parental cells
-contribute to the genetic heterogeneity of induced pluripotent, cell stem cells, 10(5), 570
-( ).
-18. matthew walter … xian fan … timothy graubert, clonal architecture of secondary
-acute myeloid leukemia, new england journal of medicine, 366(12), ).
-19. jianmin wang … xian fan … jinghui zhang, crest maps somatic structural variation
-in cancer genomes with base-pair resolution, nature methods, 8(8), 652 ( ).
-20. lucas wartman ... xian fan ... timothy ley, sequencing a mouse acute promyelocytic
-leukemia genome reveals genetic events relevant for disease progression, journal of
-clinical investigation, 121(4), ).
-academic services
-• reviewer for journals ( - ): bmc bioinformatics, bioinformatics, nucleic acids
-research
-• reviewer for conferences ( - ): recomb’17, recomb-cbb’17, icbeb’15, acm-
-tcbb’17, alcob’16, alcob’17
-• research mentor for an undergraduate student (june – aug. ): rufino oregon
-(texas a&m university)
-• teaching assistant at rice university ( - ): comp582 (design and analysis of
-algorithms) and comp571 (bioinformatics: sequence analysis)
-• coach for an undergraduate project presentation (spring, )
-• coach for exchange students’ poster presentations (summer, )
-page 3 of 3
+PROFESSIONAL EXPERIENCE
+Florida State University Tallahassee, FL
+Assistant Professor Aug. –
+Rice University Houston, TX
+Postdoctoral Research Associate – Jul.
+Institute for Genome Sciences Baltimore, MD
+University of Maryland in Baltimore
+Software Engineer
+The Genome Institute St. Louis, MO
+at Washington University
+Statistical Analyst
+Siemens Corporate Research Malvern, PA
+Intern May. – Aug.
+EDUCATION
+Rice University Houston, TX
+Ph. D. in Computer Science
+Johns Hopkins University Baltimore, MD
+M. S. in Electrical and Computer
+Engineering
+Shanghai Jiao Tong University Shanghai, China
+M. S. in Pattern Recognition and Intelligent
+Systems
+Shanghai Jiao Tong University Shanghai, China
+B. S. in Information Engineering
+Page 1 of 3
+HONORS and AWARDS
+● Gulf Coast Consortia CCBTP Post-doctoral Fellowship, -.
+● Travel fellowship to MBI Workshop on Evolutionary Dynamics in Cancer, OSU, .
+● Rising Star of EECS, UIUC, .
+● Fellowship in Computer Science Department, Rice University, -.
+● Travel fellowship to Hi TSeq/ISMB, Orlando, .
+INVITED TALKS
+● Computer Science Department Colloquium @ FSU, Cancer phylogenetics: where
+computer science attacks cancer, Tallahassee, Florida, Nov.
+● Biomedical Sciences Seminar Series @ FSU, Using single-cell sequencing technologies to
+understand heterogeneity in cancer, Tallahassee, Florida, Aug.
+● Human Genome Structural Variation Consortium f2f meeting, May (CSHL), Oct
+(Vancouver) and Oct (CSHL)
+● Hi TSeq/ISMB, Orlando, (<20% oral)
+● ASHG, Vancouver, (<3% oral)
+● Southeast Texas Evolutionary Genetics and Genomics (STEGG), Houston, and
+● IEEE Computer Society Workshop on MMBIA, Anchorage, .
+PEER-REVIEWED PUBLICATIONS
+1. Xian F. Mallory, Mohammad amin Edrisi, Nicholas Navin and Luay Nakhleh, Methods
+for copy number aberration detection from single-cell DNA-sequencing data, Genome
+Biology, 21(208), ().
+2. Xian F. Mallory, Mohammad amin Edrisi, Nicholas Navin and Luay Nakhleh, Assessing
+the performance of methods for copy number aberration detection from single-cell DNA
+sequencing data, PLo S Computational Biology, 16(7): e1008012, ().
+3. Justin Zook … Xian Fan … Marc Salit, A robust benchmark for detection of germline
+large deletions and insertions, Nature Biotechnology, 1-9, ().
+4. Mark Chaisson … Xian Fan … Charles Lee, Multi-platform discovery of haplotype-
+resolved structural variation in human genomes, Nature communications, 10 ().
+5. Xian Fan, Jie Xu, Luay Nakhleh, Detecting Large Indels Using Optical Maps Data,
+RECOMB-International Conference on Comparative Genomics ().
+6. Xian Fan, Mark Chaisson, Luay Nakhleh and Ken Chen, Hy SA: A Hybrid Structural
+variant Assembly approach using next generation and single-molecule sequencing
+technologies, Genome Research, 27(5), 793 ().
+7. Zechen Chong … Xian Fan … Ken Chen, novo Break: local assembly for breakpoint
+detection in cancer genomes, Nature Methods, 14(1), 65 ().
+8. Matthew Wy c zal ko w ski … Xian Fan … Li Ding, Break Point Surveyor: a pipeline for
+structural variant visualization, Bioinformatics, 33(19), ).
+9. 1000 Genomes Project Consortium, A global reference for human genetic variation,
+Nature, 526(7571), 68 ().
+10. Peter Sudmant … Xian Fan … 1000 Genomes Project Consortium, An integrated map of
+structural variation in 2,504 human genomes, Nature, 526(7571), 75 ().
+Page 2 of 3
+11. Malachi Griffith … Xian Fan … Richard Wilson, Genome modeling system: a knowledge
+management platform for genomics, PLOS Computational Biology, 11(7), e1004274
+().
+12. Xian Fan, Wanding Zhou, Zechen Chong, Luay Nakhleh and Ken Chen, Towards
+accurate characterization of clonal heterogeneity based on structural variation, BMC
+Bioinformatics, 15(1), 299 ().
+13. Xian Fan, Travis E. Abbott, David Larson and Ken Chen, Break Dancer: Identification of
+Genomic Structural Variation from Paired-End Read Mapping, Current Protocols in
+Bioinformatics, 45(1), ).
+14. Ken Chen, Lei Chen, Xian Fan, John Wallis, Li Ding and George Weinstock, TIGRA: A
+targeted iterative graph routing assembler for breakpoint assembly, Genome Research,
+24(2), 310 () (co-first author).
+15. Xian Fan, Luay Nakhleh, Ken Chen, Integrated genotyping of structural variation, 1st
+IEEE Global Conference on Signal and Image Processing ().
+16. Ken Chen … Xian Fan … Li Ding, Break Trans: uncovering the genomic architecture of
+gene fusions, Genome Biology, 14(8), R87 ().
+17. Margaret Young … Xian Fan … Timothy Ley, Background mutations in parental cells
+contribute to the genetic heterogeneity of Induced Pl uri potent Cell Stem Cells, 10(5), 570
+().
+18. Matthew Walter … Xian Fan … Timothy Graubert, Clonal architecture of secondary
+acute myeloid leukemia, New England Journal of Medicine, 366(12), ).
+19. Jianmin Wang … Xian Fan … Jinghui Zhang, CREST maps somatic structural variation
+in cancer genomes with base-pair resolution, Nature Methods, 8(8), 652 ().
+20. Lucas Wartman ... Xian Fan ... Timothy Ley, Sequencing a mouse acute pro my elo cy tic
+leukemia genome reveals genetic events relevant for disease progression, Journal of
+Clinical Investigation, 121(4), ).
+ACADEMIC SERVICES
+• Reviewer for journals (-): BMC Bioinformatics, Bioinformatics, Nucleic Acids
+Research
+• Reviewer for conferences (-): RECOMB’17, RECOMB-CBB’17, ICBEB’15, ACM-
+TCBB’17, Al Co B’16, Al Co B’17
+• Research mentor for an undergraduate student (June – Aug. ): Rufino Oregon
+(Texas A&M University)
+• Teaching assistant at Rice University (-): COMP582 (Design and Analysis of
+Algorithms) and COMP571 (Bioinformatics: Sequence Analysis)
+• Coach for an undergraduate project presentation (Spring, )
+• Coach for exchange students’ poster presentations (Summer, )
+Page 3 of 3

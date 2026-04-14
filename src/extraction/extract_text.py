@@ -3,6 +3,7 @@
 import os
 import re
 import pdfplumber
+import wordninja
 
 RAW_DIR = "data/raw"
 OUT_DIR = "data/extracted_text"
@@ -11,7 +12,7 @@ OUT_DIR = "data/extracted_text"
 """
 this fucntion cleans each line individually, 
 preserves newline breaks , skips empty lines,
-keep section detection working
+keep section detection working and more:
 """
 
 def clean_text(text):
@@ -26,29 +27,20 @@ def clean_text(text):
         if not line:
             continue
 
-        # -------------------------
         # remove emails
-        # -------------------------
         line = re.sub(r'\S+@\S+', ' ', line)
 
-        # -------------------------
+        # remove websites / URLs
+        line = re.sub(r'(https?://\S+|www\.\S+|\S+\.(com|org|edu|net|io|ai|co))', ' ', line)
+
         # remove phone numbers
-        # -------------------------
         line = re.sub(r'\+?\d[\d\-\(\) ]{8,}\d', ' ', line)
 
-        # -------------------------
-        # remove timestamps (10:30 AM, 14:00)
-        # -------------------------
+        # remove timestamps
         line = re.sub(r'\b\d{1,2}:\d{2}(\s?[ap]m)?\b', ' ', line)
 
-        # -------------------------
         # remove years (2020, 1998)
-        # -------------------------
-        line = re.sub(r'\b(19|20)\d{2}\b', ' ', line)
-
-        # -------------------------
-        # remove month + year (Jan 2020)
-        # -------------------------
+        line = re.sub(r'\b(19|20)\d{2}\b', '', line)
         line = re.sub(
             r'\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+\d{4}',
             ' ',
@@ -56,31 +48,30 @@ def clean_text(text):
             flags=re.IGNORECASE
         )
 
-        # -------------------------
-        # remove date formats (01/2020, 01-2020)
-        # -------------------------
+
+        # camelCase
+        line = re.sub(r'([a-z])([A-Z])', r'\1 \2', line)
+
+        # fix missing space AFTER punctuation (but not before)
+        line = re.sub(r'([.,])([A-Za-z])', r'\1 \2', line)
+
+        # remove date formats 
         line = re.sub(r'\b\d{1,2}[/-]\d{4}\b', ' ', line)
 
-        # -------------------------
         # remove unwanted keywords
-        # -------------------------
-        keywords = [
-            "curriculum vitae",
-            "resume",
-            "references available upon request"
-        ]
-        for kw in keywords:
-            line = line.lower().replace(kw, ' ')
+        #keywords = ["from", "for","and","of"]
+        #for kw in keywords:
+        #    line = line.replace(kw, ' ')
 
-        # -------------------------
         # remove names ONLY in first 2 lines
-        # -------------------------
+
         if i < 2:
             line = re.sub(r'\b[A-Z][a-z]+\s[A-Z][a-z]+\b', ' ', line)
+        
+        # fix merged words
+        line = fix_merged_words(line)
 
-        # -------------------------
         # clean extra spaces again
-        # -------------------------
         line = " ".join(line.split())
 
         if line:
@@ -88,14 +79,48 @@ def clean_text(text):
 
     return "\n".join(cleaned_lines)
 
+# fix merged words (word segmentation)
+
+def fix_merged_words(line):
+    words = line.split()
+    fixed_words = []
+
+    for word in words:
+        # skip structured tokens
+        if "-" in word or "." in word:
+            fixed_words.append(word)
+            continue
+
+        # only attempt split for long words
+        if len(word) > 10:
+            split_words = wordninja.split(word)
+
+            # accept split only if meaningful
+            if len(split_words) > 1:
+                fixed_words.extend(split_words)
+            else:
+                fixed_words.append(word)
+        else:
+            fixed_words.append(word)
+
+    return " ".join(fixed_words)
+
+
+
 def extract_pdf_text(pdf_path):
     text=""
     try:
         with pdfplumber.open(pdf_path) as pdf:
             for page in pdf.pages:
-                page_text = page.extract_text()
+                page_text = page.extract_text(x_tolerance=3, y_tolerance=3)
+
+                # fallback if spacing is bad or None
+                if not page_text:
+                    page_text = page.extract_text(layout=True)
+
                 if page_text:
                     text += page_text.strip() + "\n"
+
     except Exception as e:
         print(f"Error reading {pdf_path}: {e}")
     return text 

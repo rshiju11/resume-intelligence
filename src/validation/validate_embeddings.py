@@ -9,7 +9,7 @@ from sklearn.decomposition import PCA
 
 
 embeddings = np.load("results/embeddings/resume_embeddings.npy")
-print("embeddings size:", embeddings.shape)
+print("\n\nembeddings size:", embeddings.shape)
 
 """
 Normality check: 
@@ -29,7 +29,7 @@ Normality check:
 
 norms = np.linalg.norm(embeddings, axis=1)
 
-print("Normalization check:")
+print("\nNormalization check:")
 print("Min norm:",norms.min())
 print("Max norm:",norms.max())
 print("Mean norm:",norms.mean())
@@ -50,7 +50,7 @@ similarity_matrix = cosine_similarity(embeddings)
 # remove diagonals
 sim_values = similarity_matrix[np.triu_indices_from(similarity_matrix,k=1)]
 
-print("Similarity stats:")
+print("\nSimilarity stats:")
 print("Min:", sim_values.min())
 print("Max:", sim_values.max())
 print("Mean:", sim_values.mean())
@@ -91,6 +91,7 @@ plt.scatter(reduced[:,0],reduced[:,1])
 plt.title("PCA Projection of Resume Embeddings")
 plt.show()
 
+# need to change
 
 
 

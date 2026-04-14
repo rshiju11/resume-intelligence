@@ -1,370 +1,369 @@
-abhishek gupta
-contact assistant professor cell:
-information ece department, email:
-the ohio state university, http://gupta706.github.io/
-neil avenue, room 464,
-columbus, oh – 43210
-research theory: reinforcementlearning,multi-agentdecisionandgametheory,optimization,
-interests adversarial learning theory
-applications: market design, security of cyberphysical systems
-employment ensemble control inc., columbus, oh
-founder and ceo, july – current
-the ohio state university, columbus, oh
-assistant professor, electrical and computer engineering, july –
+CONTACT Cell:
+INFORMATION ECE Department, Email:
+The Ohio State University,
+Neil Avenue, Room 464,
+Columbus, OH – 43210
+RESEARCH Theory: Reinforcement learning multi-agentdecisionandgametheory, optimization,
+INTERESTS adversarial learning theory
+Applications: Market design, security of cyber physical systems
+EMPLOYMENT Ensemble Control Inc., Columbus, OH
+Founder and CEO, July – current
+The Ohio State University, Columbus, OH
+Assistant Professor, Electrical and Computer Engineering, July –
 current
-university of southern california, los angeles, ca
-postdoctoral researcher, electrical engineering, august – june
-• visiting researcher: university of california, berkeley, august –
-december
-• visiting researcher: stanford university, january – may
-education university of illinois at urbana-champaign, urbana, usa
-ph.d., aerospace engineering, may – august
-• thesis: dynamicsequentialdecisionproblemswithasymmetricinformation:
-some existence results
-m.s., applied mathematics, may – december
-m.s., aerospace engineering, august – may
-• thesis: controlinthepresenceofanintelligentjammerwithlimitedactions
-indian institute of technology bombay, mumbai, india
-b.tech., aerospace engineering, july – april
-• thesis: one-to-one aerial combat using differential game theory
-cv,abhishekgupta 1of10
-awards & • lumley research award, college of engineering, osu
-honors
-• kenneth lee herrick memorial award for outstanding academic and research
-performance in the aerospace engineering department at uiuc
-• mavis future faculty fellowship, college of engineering, uiuc -13
-• researchinternshipinscienceandengineering,indo-uss&tforumsummer
-• narotamsekhsariaexcellenceinundergraduateawardforexcellenceinacademic
-and extra-curricular activities, india
-• award for excellence, aerospace department, iit bombay, india ,
-• iit bombay heritage fund scholarship, iit bombay, india -08
-teaching ece 5759: static and dynamic optimization (autumn -21)
-ece 5555: securing autonomous systems (autumn )
-ece 3050: signals and systems (spring , )
-ece 8851: reinforcement learning (spring )
-ece 3551: feedback control systems (spring , autumn )
-ece 6194.04: game theory and mechanism design (autumn )
-online introduction to machine learning
-professional linear algebra and calculus for machine learning
-courses securing autonomous systems
-funded cisco: anomaly and attack detection in complex autonomous systems
-projects ($ 116,400, may -aug )
-ford motor company: optimal charge scheduling for an aggregate of electric
+University of Southern California, Los Angeles, CA
+Postdoctoral Researcher, Electrical Engineering, August – June
+• Visiting Researcher: University of California, Berkeley, August –
+December
+• Visiting Researcher: Stanford University, January – May
+EDUCATION University of Illinois at Urbana-Champaign, Urbana, USA
+Ph. D., Aerospace Engineering, May – August
+• Thesis: Dynamic Sequential Decision Problems with Asymmetric Information:
+Some Existence Results
+M. S., Applied Mathematics, May – December
+M. S., Aerospace Engineering, August – May
+• Thesis: Control in the Presence of an Intelligent Jammerwith Limited Actions
+Indian Institute of Technology Bombay, Mumbai, India
+B. Tech., Aerospace Engineering, July – April
+• Thesis: One-to-one Aerial Combat using Differential Game Theory
+CV, Abhishek Gupta 1of10
+AWARDS & • Lumley Research Award, College of Engineering, OSU
+HONORS
+• Kenneth Lee Herrick Memorial Award for outstanding academic and research
+performance in the Aerospace Engineering department at UIUC
+• Mavis Future Faculty Fellowship, College of Engineering, UIUC -13
+• Research Internship in Scienceand Engineering, Indo-USS&TForum Summer
+• Narotam Sekhsaria Excellence in Undergraduate Award for excellence in academic
+and extra-curricular activities, India
+• Award for Excellence, Aerospace Department, IIT Bombay, India ,
+• IIT Bombay Heritage Fund Scholarship, IIT Bombay, India -08
+TEACHING ECE 5759: Static and Dynamic Optimization (Autumn -21)
+ECE 5555: Securing Autonomous Systems (Autumn )
+ECE 3050: Signals and Systems (Spring , )
+ECE 8851: Reinforcement Learning (Spring )
+ECE 3551: Feedback Control Systems (Spring , Autumn )
+ECE 6194.04: Game Theory and Mechanism Design (Autumn )
+ONLINE Introduction to Machine Learning
+PROFESSIONAL Linear Algebra and Calculus for Machine Learning
+COURSES Securing Autonomous Systems
+FUNDED CISCO: Anomaly and Attack Detection in Complex Autonomous Systems
+PROJECTS ($ 116,400, May -Aug )
+Ford Motor Company: Optimal charge scheduling for an aggregate of electric
 vehicles
-($ 220,000, may -may )
-army research lab: smart operation and fault diagnosis of next generation wide
-bandgap power electronics using machine learning (pi: prof. julia zhang, co-pi:
-prof. anant agarwal and prof. jin wang)
-($ 100,000, aug -june )
-ford motor company: cybersecurity and functional safety of smart cars (co-pis:
-prof. emre koksal and prof. giorgio rizzoni)
-($ 284,000, may -may )
-fordmotorcompany: uncoveringtheeconomicforcesinmulti-modaltransportation
-($ 200,000, may -dec )
-arpa-enextcar:fueleconomyoptimizationwithdynamicskipfireinaconnected
-and automated vehicle (co-pi: prof. marcello canova and prof. giorgio rizzoni;
-industry partners: delphi automotive plc, tula technology, and trc inc.)
-cv,abhishekgupta 2of10
-($ 5,000,000 total, co-pi budget: $ 94,000, aug -dec )
-nsf epcn: smarter markets for a smarter grid: pricing randomness, flexibility
-and risk (pi: prof. rahul jain, usc)
-($ 225,000, aug -aug )
-nsfcrii:securingsmartcyberphysicalsystemsagainstman-in-the-middleattacks
-($ 175,000, aug -aug )
-journal
-[j1] s. shao, f. harirchi, d. dave, and a. gupta, “preemptive scheduling of
-publications
-ev charging for providing demand response services”, sustainable energy,
-grids and networks, pp. 100986, .
-[j2] j. tang, s. shao, j. song, and a. gupta, “nash equilibrium control policy
-against bus-off attacks in can networks”, ieee transactions on forensics &
-security, pp. 980-990, .
-[j3] s.gupta,s.d’alessandro,a.gupta,s.stockar,andm.canova,“acomputa-
-tionallyefficientalgorithmforperturbeddynamicprograms(a-pdp)”,ieee
-control systems letters, pp. 847-852, .
-[j4] y. deng, a. gupta, and n. shroff, “fleet sizing and charger allocation in
-electric vehicle sharing systems”, in ifac journal of systems and control,
+($ 220,000, May -May )
+Army Research Lab: Smart operation and fault diagnosis of next generation wide
+bandgap power electronics using machine learning (PI: Prof. Julia Zhang, co-PI:
+Prof. Anant Agarwal and Prof. Jin Wang)
+($ 100,000, Aug -June )
+Ford Motor Company: Cyber security and functional safety of smart cars (co-PIs:
+Prof. Emre Koksal and Prof. Giorgio Rizzoni)
+($ 284,000, May -May )
+Ford Motor Company: Uncoveringtheeconomicforcesinmulti-modaltransportation
+($ 200,000, May -Dec )
+ARPA-ENEXTCAR:Fuel Economy Optimization with Dynamic Skip Fireina Connected
+and Automated Vehicle (co-PI: Prof. Marcello Canova and Prof. Giorgio Rizzoni;
+Industry Partners: Delphi Automotive PLC, Tula Technology, and TRC Inc.)
+CV, Abhishek Gupta 2of10
+($ 5,000,000 total, co-PI budget: $ 94,000, Aug -Dec )
+NSF EPCN: Smarter Markets for a Smarter Grid: Pricing Randomness, Flexibility
+and Risk (PI: Prof. Rahul Jain, USC)
+($ 225,000, Aug -Aug )
+NSF CRI I Securing Smart Cyber physical Systems against Man-in-the-Middle Attacks
+($ 175,000, Aug -Aug )
+JOURNAL
+[J1] S. Shao, F. Harirchi, D. Dave, and A. Gupta, “Preemptive Scheduling of
+PUBLICATIONS
+EV Charging for Providing Demand Response Services”, Sustainable Energy,
+Grids and Networks, pp. 100986, .
+[J2] J. Tang, S. Shao, J. Song, and A. Gupta, “Nash Equilibrium Control Policy
+against Bus-off Attacks in CAN Networks”, IEEE Transactions on Forensics &
+Security, pp. 980-990, .
+[J3] S. Gupta, S. D Alessandro A. Gupta, S. Stockar, and M. Canova,“AComputa-
+tionally Efficient Algorithm for Perturbed Dynamic Programs(A-PDP)”, IEEE
+Control Systems Letters, pp. 847-852, .
+[J4] Y. Deng, A. Gupta, and N. Shroff, “Fleet Sizing and Charger Allocation in
+Electric Vehicle Sharing Systems”, in IFAC Journal of Systems and Control,
 pp. 100210, .
-[j5] j. regatti and a. gupta, “finite sample analysis of minmax variant of
-offline reinforcement learning for general mdps”, in ieee open journal
-on control systems, vol. 1, pp. 152-163, .
-[j6] r.singh,a.gupta,andn.shroff,“learninginconstrainedmarkovdecision
-processes”, in ieee transactions on control of network systems, to appear,
+[J5] J. Regatti and A. Gupta, “Finite Sample Analysis of Minmax Variant of
+Offline Reinforcement Learning for General MDPs”, in IEEE Open Journal
+on Control Systems, vol. 1, pp. 152-163, .
+[J6] R. Singh, A. Gupta, and N. S hr off Learning in Constrained Markov Decision
+Processes”, in IEEE Transactions on Control of Network Systems, to appear,
 .
-[j7] y.deng,s.shao,a.mittal,r.twumasi-boakye,j.fishelson,a.gupta,and
-n.shroff,“incentivedesignandprofitsharinginmulti-modaltransportation
-network”, in transportation research part b: methodological, vol. 163, pp.
+[J7] Y. Deng, S. Shao, A. Mittal, R. Twumasi-Boakye, J. Fishelson, A. Gupta, and
+N. S hr off Incentive Designand Profit Sharingin Multi-modal Transportation
+Network”, in Transportation Research Part B: Methodological, vol. 163, pp.
 1-21, .
-[j8] j.l.heymananda.gupta,“rankreductioninbimatrixgames”,ininternational
-game theory review, pp. 2250017, .
-[j9] a. gupta, s. d. rajakumar, and m. canova, “an algorithm to warm start
-perturbed (wasp) constrained dynamic programs”, in ieee open journal
-on control systems, vol. 1, pp. 1-14, .
-[j10] z. zhu, n. pivaro, s. gupta, a. gupta, and m. canova, “safe model-based
-off-policyreinforcementlearningforeco-drivinginconnectedandautomated
-hybrid electric vehicles”, in ieee transactions on intelligent vehicles, vol. 7
+[J8] J. L. Heymanand A. Gupta Rank Reduction in Bimatrix Games”, in International
+Game Theory Review, pp. 2250017, .
+[J9] A. Gupta, S. D. Rajakumar, and M. Canova, “An Algorithm to Warm Start
+Perturbed (WASP) Constrained Dynamic Programs”, in IEEE Open Journal
+on Control Systems, vol. 1, pp. 1-14, .
+[J10] Z. Zhu, N. Pivaro, S. Gupta, A. Gupta, and M. Canova, “Safe Model-based
+Off-policy Reinforcement Learning for Eco-Drivingin Connected and Automated
+Hybrid Electric Vehicles”, in IEEE Transactions on Intelligent Vehicles, vol. 7
 (2), pp. 387-398, .
-cv,abhishekgupta 3of10
-[j11] y. deng, h. chen, s. shao, j. tang, j. pi, and a. gupta, “multi-objective
-vehiclerebalancingforridehailingsystemusingareinforcementlearning
-approach”,injournalofmanagementscienceandengineering,vol. 7(2),pp.
+CV, Abhishek Gupta 3of10
+[J11] Y. Deng, H. Chen, S. Shao, J. Tang, J. Pi, and A. Gupta, “Multi-Objective
+Vehicle Rebalancing for Ride hailing System using a Reinforcement Learning
+Approach”, in Journalof Management Scienceand Engineering, vol. 7(2), pp.
 346-364, .
-[j12] s. d. rajakumar, s. gupta, a. gupta, and m. canova, “real-time eco-
-driving control in electrified connected and autonomous vehicles using
-approximatedynamicprogramming”,inasmejournalofdynamicsystems,
-measurement and controls, vol. 144 (1), pp. 011111, .
-[j13] a.guptaandw.b.haskell,“convergenceofrecursivestochasticalgorithms
-using wasserstein divergence”, in siam journal on mathematics of data
-science, vol. 3 (4), pp. 1141–1167, .
-[j14] j.tanganda.gupta,“asketchingapproachforprioritizingcommunication
-links in static teams”, in ieee control systems letters, vol. 6, pp. 1016–
+[J12] S. D. Rajakumar, S. Gupta, A. Gupta, and M. Canova, “Real-time Eco-
+Driving Control in Electrified Connected and Autonomous Vehicles using
+Approximate Dynamic Programming”, in AS ME Journal of Dynamic Systems,
+Measurement and Controls, vol. 144 (1), pp. 011111, .
+[J13] A. Guptaand W. B. Haskell Convergence of recursive stochastic algorithms
+using Wasser stein divergence”, in SIAM Journal on Mathematics of Data
+Science, vol. 3 (4), pp. 1141–1167, .
+[J14] J. Tangand A. Gupta A Sketching Approach for Prioritizing Communication
+Links in Static Teams”, in IEEE Control Systems Letters, vol. 6, pp. 1016–
 1021, .
-[j15] s.shaoanda.gupta,“fairpricingofridehailingserviceswithasymmetric
-demand and travel time”, in ieee transactions on control of networked
-systems, vol. 9(2), pp. 670-681, .
-[j16] h. li, s. shao, and a. gupta, “fitted value iteration in continuous markov
-decisionprocesseswithstatedependentactionsets”,inieeecontrolsystems
-letters, vol. 6, pp. 1310–1315, .
-[j17] a. gupta, “existence of team-optimal strategies in teams with countable
-observation spaces”, in ieee transactions on automatic control, pp. 4792 –
+[J15] S. Shaoand A. Gupta Fair Pricingof Ride hailing Services with Asymmetric
+Demand and Travel Time”, in IEEE Transactions on Control of Networked
+Systems, vol. 9(2), pp. 670-681, .
+[J16] H. Li, S. Shao, and A. Gupta, “Fitted Value Iteration in Continuous Markov
+Decision Processes with State Dependent Action Sets”, in IEEE Control Systems
+Letters, vol. 6, pp. 1310–1315, .
+[J17] A. Gupta, “Existence of Team-Optimal Strategies in Teams with Countable
+Observation Spaces”, in IEEE Transactions on Automatic Control, pp. 4792 –
 4798, .
-[j18] a.gupta,h.chen,j.pi,andg.tendolkar,“somelimitpropertiesofmarkov
-chains induced by recursive stochastic algorithms”, siam journal on math
-of data science, vol. 2, no. 4, pp. 967–1003, .
-[j19] a. gupta, “optimal solutions in static teams with common information: a
-topologyofinformationapproach.” siamjournaloncontrolandoptimization,
+[J18] A. Gupta, H. Chen, J. Pi, and G. Tendo l kar Some limit properties of Markov
+chains induced by recursive stochastic algorithms”, SIAM Journal on Math
+of Data Science, vol. 2, no. 4, pp. 967–1003, .
+[J19] A. Gupta, “Optimal solutions in static teams with common information: A
+topologyofinformationapproach.” SIAM Journal on Controland Optimization,
 vol. 58, no. 2, pp. 998–1021, .
-[j20] b.dakhilanda.gupta,“auctioningelectricityunderdeeprenewableintegration
-usingapenaltyforshortfall”,insustainableenergy,gridsandnetworks,vol.
+[J20] B. Dakhiland A. Gupta Auctioning electricity under deep renewable integration
+using a penalty for shortfall in Sustainable Energy, Gridsand Networks, vol.
 20, .
-[j21] a. gupta, c. langbort, and t. ba¸sar, “dynamic games with asymmetric
+[J21] A. Gupta, C. Langbort, and T. Ba¸sar, “Dynamic games with asymmetric
 information and resource constrained players with applications to security
-ofcyberphysicalsystems”,inieeetransactionsoncontrolofnetworksystems,
+of cyber physical systems in IEEE Transactions on Controlof Network Systems,
 vol. 4, no. 1, pp. 71–81, .
-[j22] a.gupta,s.yu¨ksel,t.ba¸sar,andc.langbort,“ontheexistenceofoptimal
-policiesforaclassofstaticandsequentialdynamicteams”,insiamjournal
-oncontrolandoptimization,volume53,no. 3,pp. 1681–1712,june2015.
-cv,abhishekgupta 4of10
-[j23] a. gupta, a. nayyar, c. langbort, and t. ba¸sar, “common information
-basedmarkovperfectequilibriaforlinear-gaussiangameswithasymmetric
-information”, in siam journal on control and optimization, volume 52,
-issue 5, pp. 3228–3260, november .
-[j24] m. barbie and a. gupta, “the topology of information on the space of
-probabilitymeasuresoverpolishspaces”,injournalofmathematicaleconomics,
-volume 52, pp. 98–111, may .
-[j25] a. nayyar, a. gupta, c. langbort, and t. ba¸sar, “common information
-basedmarkovperfectequilibriaforstochasticgameswithasymmetricinformation:
-finite games”, in ieee transactions of automatic control, volume 59, pp.
-555–570, march .
-[j26] s. bhattacharya, a. gupta, and t. ba¸sar, “jamming in mobile networks:
-a game-theoretic approach”, in journal of numerical algebra, control and
-optimization, volume 3, number 1, pp. 1-30, .
-[j27] a. sarkar, abhishek, and u. a. yajnik, “pev scale left-right symmetry and
-baryonasymmetryoftheuniverse”,innuclearphysicsb,volume800,issue
+[J22] A. Gupta, S. Yu¨ksel, T. Ba¸sar, and C. Lang bor t On the existence of optimal
+policies for a class of static and sequential dynamic teams in SIAM Journal
+on Controland Optimization, Volume53, No. 3, pp. 1681–1712, June2015.
+CV, Abhishek Gupta 4of10
+[J23] A. Gupta, A. Nayyar, C. Langbort, and T. Ba¸sar, “Common information
+based Markovperfectequilibriaforlinear-Gaussiangameswithasymmetric
+information”, in SIAM Journal on Control and Optimization, Volume 52,
+Issue 5, pp. 3228–3260, November .
+[J24] M. Barbie and A. Gupta, “The topology of information on the space of
+probability measures over Polish spaces in Journalof Mathematical Economics,
+Volume 52, pp. 98–111, May .
+[J25] A. Nayyar, A. Gupta, C. Langbort, and T. Ba¸sar, “Common Information
+based Markov perfect e qui libri a for stochastic games with asymmetric information
+Finite games”, in IEEE Transactions of Automatic Control, Volume 59, pp.
+555–570, March .
+[J26] S. Bhatt acharya A. Gupta, and T. Ba¸sar, “Jamming in mobile networks:
+A game-theoretic approach”, in Journal of Numerical Algebra, Control and
+Optimization, Volume 3, Number 1, pp. 1-30, .
+[J27] A. Sarkar, Abhishek, and U. A. Yajnik, “Pe V scale Left-Right symmetry and
+Baryon asymmetry of the universe in Nuclear Physics B, Volume800, Issue
 1-2, pp. 253-269, .
-conference
-proceedings [c1] h.chen,j.tang,anda.gupta,“changedetectionofmarkovkernelsusing
-maximum mean discrepancy”. in ieee conference on decision and control,
+CONFERENCE
+PROCEEDINGS [C1] H. Chen, J. Tang, and A. Gupta Change Detection of Markov Kernels using
+Maximum Mean Discrepancy”. In IEEE Conference on Decision and Control,
 to appear, .
-[c2] j. regatti, h. chen, and a. gupta, “byzantine resilience with reputation
-scores ”. in proc. annual allerton conference on communication, control,
-and computing (allerton), pp. 1-8, .
-[c3] y.deng,x.zhou,a.ghosh,a.gupta,andn.shroff,“interferenceconstrained
-beamalignmentfortime-varyingchannelsviakernelizedbandits”,inproc.
-of20thinternationalsymposiumonmodelingandoptimizationinmobile,ad
-hoc, and wireless networks (wiopt), pp. 25-32, .
-[c4] y. deng, x. zhou, b. kim, a. tewari, a. gupta, and n. shroff, “weighted
-gaussianprocessbanditsfornon-stationaryenvironments”,inproc. of25th
-international conference on artificial intelligence and statistics, pp. 6909-
+[C2] J. Regatti, H. Chen, and A. Gupta, “Byzantine Resilience With Reputation
+Scores ”. In Proc. Annual Allerton Conference on Communication, Control,
+and Computing (Allerton), pp. 1-8, .
+[C3] Y. Deng, X. Zhou, A. Ghosh, A. Gupta, and N. S hr off Interference Constrained
+Beam Alignment for Time-Varying Channels via Kernelized Bandits”, in Proc.
+of20th International Symposium on Modeling and Optimization in Mobile, Ad
+hoc, and Wireless Networks (Wi Opt), pp. 25-32, .
+[C4] Y. Deng, X. Zhou, B. Kim, A. Tewari, A. Gupta, and N. Shroff, “Weighted
+Gaussian Process Banditsfor Non-stationary Environments”, in Proc. of25th
+International Conference on Artificial Intelligence and Statistics, pp. 6909-
 6932, .
-[c5] h. you, h. wang, j. r. regatti, j. hall, a. schnabel, b. hu, j. zhang,
-a. gupta, and j. wang, “intelligent health monitoring system hardware
-designforparalleleddeviceswithfastdv/dtoutput”. in2021ieeeinternational
-electric machines & drives conference (iemdc), .
-[c6] j.r.regatti,h.you,h.wang,j.hall,a.schnabel,b.hu,j.zhang,j.wang,
-and a. gupta, “a discussion of artificial intelligence applications in sic
-cv,abhishekgupta 5of10
-mosfet device operation”. in ieee international electric machines &
-drives conference (iemdc), .
-[c7] j. regatti, g. tendolkar, y. zhou, a. gupta, and y. liang, “distributed
-sgd generalizes well under asynchrony”. in proc. 57th annual allerton
-conference on communication, control, and computing (allerton), pp. 863-
+[C5] H. You, H. Wang, J. R. Regatti, J. Hall, A. Schnabel, B. Hu, J. Zhang,
+A. Gupta, and J. Wang, “Intelligent Health Monitoring System Hardware
+Designfor Paralleled Devices with Fast Dv/dt Output”. In 2021 IEEE International
+Electric Machines & Drives Conference (IEMDC), .
+[C6] J. R. Regatti, H. You, H. Wang, J. Hall, A. Schnabel, B. Hu, J. Zhang, J. Wang,
+and A. Gupta, “A Discussion of Artificial Intelligence Applications in Si C
+CV, Abhishek Gupta 5of10
+MOSFET Device Operation”. In IEEE International Electric Machines &
+Drives Conference (IEMDC), .
+[C7] J. Regatti, G. Tendolkar, Y. Zhou, A. Gupta, and Y. Liang, “Distributed
+SGD Generalizes Well Under Asynchrony”. In Proc. 57th Annual Allerton
+Conference on Communication, Control, and Computing (Allerton), pp. 863-
 870, .
-[c8] j. regatti and a. gupta, “traffic-aware adaptive routing for minimizing
-fuelconsumption”,inproc. of2019americancontrolconference,pp. 4818-
+[C8] J. Regatti and A. Gupta, “Traffic-Aware Adaptive Routing for Minimizing
+Fuel Consumption”, in Proc. of 2019 American Control Conference, pp. 4818-
 4825, .
-[c9] j. l. heyman and a. gupta, “a polynomial time algorithm to solve 2×n
-bimatrix games”, in proc. of 18th european control conference (ecc), pp.
+[C9] J. L. Heyman and A. Gupta, “A Polynomial Time Algorithm to Solve 2×n
+Bimatrix Games”, in Proc. of 18th European Control Conference (ECC), pp.
 1049-1054, .
-[c10] h. sharma, r. jain, and a. gupta, “an empirical relative value learning
-algorithm for non-parametric mdps with continuous state space”, in proc.
-of 18th european control conference (ecc), pp. 1368-1373, .
-[c11] b. dakhil and a. gupta, “selling renewable generation with a penalty for
-shortfall”,in57thieeeconferenceondecisionandcontrol(cdc),pp. 6495–
-6500, december .
-[c12] j.tanganda.gupta,“communicationlinkeliminationinstaticlqgteams”,
-in56thannualallertonconferenceoncommunication,control,andcomputing,
-pp. 290–296, ieee, .
-[c13] a. gupta, b. dakhil, and r. jain, “dynamic economic dispatch and price
-evolutionunderrampingconstraintsanduncertaindemand”,in56thannual
-allerton conference on communication, control, and computing, pp. 48–55,
-ieee, .
-[c14] j. l. heyman and a. gupta, “colonel blotto game with coalition formation
-for sharing resources”, in international conference on decision and game
-theory for security, pp. 166–185, springer, .
-[c15] a. nayyar and a. gupta, “information structures and values in zero-sum
-stochastic games”, in american control conference (acc), pp. 3658–
-3663, ieee, .
-[c16] a. gupta, “privacy-aware stochastic control with a “snoopy” adversary: a
-game-theoreticapproach”,inproc. of2016annualconferenceoninformation
-science and systems, pp. 193–197, march .
-[c17] a.gupta,r.jain,k.poolla,andp.varaiya,“equilibriaintwo-stageelectricity
-markets”,inproc. of54thieeeconferenceindecisionandcontrol(cdc),pp.
-5833–5838, december .
-cv,abhishekgupta 6of10
-[c18] a. gupta, r. jain, and p. glynn, “an empirical algorithm for relative value
-iterationforaverage-costmdps”,inproc. of54thieeeconferenceindecision
-and control (cdc), pp. 5079–5084, december .
-[c19] a. gupta, r. jain, and r. rajagopal, “scheduling, pricing, and efficiency of
-non-preemptive flexible loads under direct load control”, in proc. of 53rd
-annual allerton conference on communication, control, and computing, pp.
-1008–1015, october .
-[c20] a. gupta,s.yu¨ksel,andt.ba¸sar,“ontheexistenceofoptimalstrategiesin
-dynamic stochastic teams”, in proc. of 53rd ieee conference in decision and
-control (cdc), pp. 1681–1686, december .
-[c21] a. gupta and t. ba¸sar, “dynamic incentive design in multi-stage linear-
-gaussiangameswithasymmetricinformation: acommoninformationbased
-approach”, in proc. of 53rd ieee conference in decision and control (cdc),
-pp. 414–419, december .
-[c22] a. gupta, t. ba¸sar, and g. schwartz, “a three-stage colonel blotto game:
-when to provide more information to an adversary”, in decision and game
-theoryforsecurity(gamesec),lecturenotesincomputerscienceeditedby
-r.poovendranandw.saad,volume8840,pp. 216–233,november2014.
-[c23] a. gupta, g. schwartz, c. langbort, s. sastry, and t. ba¸sar, “a three-stage
-colonelblottogamewithapplicationstocyberphysicalsecurity”,inproc. of
-american control conference (acc), pp. 3832–3837, june .
-[c24] a. gupta,s.yu¨ksel,andt.ba¸sar,“ontheexistenceofoptimalstrategiesin
-multi-agentstochasticteams”,inproc. of2014americancontrolconference
-(acc), pp. – , june .
-[c25] a. gupta, a. nayyar, c. langbort, and t. ba¸sar, “a dynamic transmitter-
-jammergamewithasymmetricinformation”,inproc. of51stieeeconference
-on decision and control (cdc), pp. 6477–6482, december .
-[c26] a. gupta, p. grover, c. langbort, and t. ba¸sar, “on myopic strategies in
-dynamicadversarialteamdecisionproblems”,inproc. of46thannualconference
-on information sciences and systems (ciss), pp. 1–6, march .
-[c27] a. gupta,c.langbort,andt.ba¸sar,“one-stagecontroloveranadversarial
-channelwithfinitecodelength”,inproc. of50thieeeconferenceondecision
-and control (cdc), pp. 4072–4077, december .
-[c28] s.bhattacharya,a.gupta,andt.ba¸sar,“decentralizedopportunisticnavigation
-strat-egiesformulti-agentsystemsinthepresenceofanadversary”,inproc.
-of ifac world congress, vol. 18, pp. 11809–11814, august .
-[c29] a. gupta, s. bhattacharya, and t. ba¸sar, “decentralized control of multi-
+[C10] H. Sharma, R. Jain, and A. Gupta, “An empirical relative value learning
+algorithm for non-parametric MDPs with continuous state space”, in Proc.
+of 18th European Control Conference (ECC), pp. 1368-1373, .
+[C11] B. Dakhil and A. Gupta, “Selling renewable generation with a penalty for
+shortfall”, in57th IEEE Conference on Decision and Control CDC pp. 6495–
+6500, December .
+[C12] J. Tangand A. Gupta Communication link elimination in static LQGteams”,
+in56th Annual Allerton Conference on Communication, Control, and Computing,
+pp. 290–296, IEEE, .
+[C13] A. Gupta, B. Dakhil, and R. Jain, “Dynamic economic dispatch and price
+evolution under ram ping constraints and uncertain demand in56th Annual
+Allerton Conference on Communication, Control, and Computing, pp. 48–55,
+IEEE, .
+[C14] J. L. Heyman and A. Gupta, “Colonel Blotto game with coalition formation
+for sharing resources”, in International Conference on Decision and Game
+Theory for Security, pp. 166–185, Springer, .
+[C15] A. Nayyar and A. Gupta, “Information structures and values in zero-sum
+stochastic games”, in American Control Conference (ACC), pp. 3658–
+3663, IEEE, .
+[C16] A. Gupta, “Privacy-aware stochastic control with a “snoopy” adversary: A
+game-theoreticapproach”, in Proc. of 2016 Annual Conference on Information
+Science and Systems, pp. 193–197, March .
+[C17] A. Gupta, R. Jain, K. Poolla, and P. Varaiya,“Equilibriaintwo-stageelectricity
+markets”, in Proc. of54th IEEE Conference in Decision and Control CDC pp.
+5833–5838, December .
+CV, Abhishek Gupta 6of10
+[C18] A. Gupta, R. Jain, and P. Glynn, “An empirical algorithm for relative value
+iterationforaverage-cost MDPs”, in Proc. of54th IEEE Conference in Decision
+and Control (CDC), pp. 5079–5084, December .
+[C19] A. Gupta, R. Jain, and R. Rajagopal, “Scheduling, pricing, and efficiency of
+non-preemptive flexible loads under direct load control”, in Proc. of 53rd
+Annual Allerton Conference on Communication, Control, and Computing, pp.
+1008–1015, October .
+[C20] A. Gupta, S. Yu¨ksel, and T. Ba sar On the existence of optimal strategies in
+dynamic stochastic teams”, in Proc. of 53rd IEEE Conference in Decision and
+Control (CDC), pp. 1681–1686, December .
+[C21] A. Gupta and T. Ba¸sar, “Dynamic incentive design in multi-stage linear-
+Gaussian games with asymmetric information A common information based
+approach”, in Proc. of 53rd IEEE Conference in Decision and Control (CDC),
+pp. 414–419, December .
+[C22] A. Gupta, T. Ba¸sar, and G. Schwartz, “A three-stage Colonel Blotto game:
+When to provide more information to an adversary”, in Decision and Game
+Theoryfor Security Game Sec), Lecture Notesin Computer Science edited by
+R. Poo vend ran and W. Saad, Volume 8840 pp. 216–233, November2014.
+[C23] A. Gupta, G. Schwartz, C. Langbort, S. Sastry, and T. Ba¸sar, “A Three-Stage
+Colonel Blot to game with applications to cyber physical security in Proc. of
+American Control Conference (ACC), pp. 3832–3837, June .
+[C24] A. Gupta, S. Yu¨ksel, and T. Ba sar On the existence of optimal strategies in
+multi-agentstochasticteams”, in Proc. of 2014 American Control Conference
+(ACC), pp. –, June .
+[C25] A. Gupta, A. Nayyar, C. Langbort, and T. Ba¸sar, “A dynamic transmitter-
+jammer game with asymmetric information in Proc. of51st IEEE Conference
+on Decision and Control (CDC), pp. 6477–6482, December .
+[C26] A. Gupta, P. Grover, C. Langbort, and T. Ba¸sar, “On myopic strategies in
+dynamic adversarial team decision problems in Proc. of46th Annual Conference
+on Information Sciences and Systems (CISS), pp. 1–6, March .
+[C27] A. Gupta, C. Langbort, and T. Ba¸sar,“One-stagecontroloveranadversarial
+channel with finite code length in Proc. of50th IEEE Conference on Decision
+and Control (CDC), pp. 4072–4077, December .
+[C28] S. Bhatt acharya A. Gupta, and T. Ba sar Decentralized opportunistic navigation
+strat-egiesformulti-agentsystemsinthepresenceofanadversary”, in Proc.
+of IFAC World Congress, vol. 18, pp. 11809 11814 August .
+[C29] A. Gupta, S. Bhatt acharya and T. Ba¸sar, “Decentralized control of multi-
 agent system with adversarial switching topology”, in
-conference, aiaa, march .
-cv,abhishekgupta 7of10
-[c30] a. gupta, c. langbort, and t. ba¸sar, “optimal control in the presence of an
-intelligentjammerwithlimitedactions”,inproc. of49thieeeconferenceon
-decision and control (cdc), pp. 1096–1101, december .
-manuscripts
-submitted [s1] s. shao, w. haskell, and a. gupta, “robustness to modeling errors in risk-
-sensitivemarkovdecisionproblemswithmarkovriskmeasures”,submitted
-tosiamjournaloncontrolandoptimization,availableonarxiv:2209.12937,
+Conference, AIAA, March .
+CV, Abhishek Gupta 7of10
+[C30] A. Gupta, C. Langbort, and T. Ba¸sar, “Optimal control in the presence of an
+intelligent jammer with limited actions in Proc. of49th IEEE Conference on
+Decision and Control (CDC), pp. 1096–1101, December .
+MANUSCRIPTS
+SUBMITTED [S1] S. Shao, W. Haskell, and A. Gupta, “Robustness to Modeling Errors in Risk-
+Sensitive Markov Decision Problems with Markov Risk Measures”, submitted
+to SIAM Journal on Controland Optimization, available on ar Xiv:2209.12937,
 .
-[s2] s. shao, h. sartipizadeh, and a. gupta, “large-scale market ev charging
-scheduling for the demands with different reliability”, submitted to ieee
-transactions on intelligent transportation systems, .
-[s3] j. tang, j. song, and a. gupta, “a dynamic watermarking algorithm for
-finitemarkovdecisionproblems”,submittedtoieeeopenjournalonsystems
-and control, .
-[s4] a.gupta,r.jain,andp.glynn,“probabilisticcontractionanalysisofiterated
-random operators”, submitted to ieee transactions on automatic control,
-arxiv preprint arxiv:1804.01195, .
-[s5] z.zhu,s.gupta,a.gupta,andm.canova,“adeepreinforcementlearning
-framework for eco-driving in connected and automated hybrid electric
-vehicles”,submittedtoieeetransactionsonintelligenttransportationsystems,
+[S2] S. Shao, H. Sart i piz a deh and A. Gupta, “Large-scale Market EV Charging
+Scheduling for the Demands with Different Reliability”, submitted to IEEE
+Transactions on Intelligent Transportation Systems, .
+[S3] J. Tang, J. Song, and A. Gupta, “A Dynamic Watermarking Algorithm for
+Finite Markov Decision Problems”, submitted to IEEEOpen Journalon Systems
+and Control, .
+[S4] A. Gupta, R. Jain, and P. Glynn Probabilistic contraction analysis of iterated
+random operators”, Submitted to IEEE Transactions on Automatic Control,
+ar Xiv preprint ar Xiv:1804.01195, .
+[S5] Z. Zhu, S. Gupta, A. Gupta, and M. Canova A Deep Reinforcement Learning
+Framework for Eco-driving in Connected and Automated Hybrid Electric
+Vehicles”, submitted to IEEE Transactions on Intelligent Transportation Systems,
 .
-in preparation
-[p1] j. regatti, a. a. deshmukh, f. cheng, y. h. jung, a. gupta, and u. dogan,
-“offlinerlwithresourceconstrainedonlinedeployment”,inpreparation,
+IN PREPARATION
+[P1] J. Regatti, A. A. Deshmukh, F. Cheng, Y. H. Jung, A. Gupta, and U. Dogan,
+“Offline RLWith Resource Constrained Online Deployment”, in preparation
 .
-[p2] s. shao, j. pi, and a. gupta, “weak continuity of dissimilarity metrics
-between measures over polish spaces”, .
-invited talks
-& posters [it1] “recursive stochastic algorithms: a markov chain approach”, information
-theory and its applications, san diego, usa, feb .
-[it2] “recursivestochasticalgorithms: amarkovchainapproach”,tatainstitute
-of fundamental research, mumbai, india, dec .
-[it3] “recursivestochasticalgorithms: amarkovchainapproach”,universityof
-texas at austin, nov .
-[it4] “rank reduction in bimatrix games”, university of michigan, ann arbor,
-june .
-cv,abhishekgupta 8of10
-[it5] “recursivestochasticalgorithms: amarkovchainapproach”,universityof
-michigan, ann arbor, june .
-[it6] “recursivestochasticalgorithms: amarkovchainapproach”,googledeepmind
-(london), may .
-[it7] “auctioning renewable energy with a penalty for shortfall”, isaac newton
-institute, cambridge university, april .
-[it8] “recursive stochastic algorithms: a markov chain approach”, mit lids,
-april .
-[it9] “reinforcementlearningforconnectedautonomouscars”,geglobalresearch,
-niskayuna, february .
-[it10] “auctioningrenewableenergywithapenaltyforshortfall”,informspricing
-and revenue management conference, canada, june .
-[it11] “dynamicgameswithasymmetricinformation”,indianinstituteofscience,
-bangalore, india, june .
-[it12] “witsenhausen’scounterexampleandlearninginteamsofagents”,informs
-optimization society conference, princeton, usa, march .
-[it13] “maliciousattacksonnetworkedcontrolsystems”,networkingtechnology
-and systems early-career investigators (nets-eci) workshop, arlington,
-usa, july .
-[it14] “cyber-physical system security problems as dynamic games: a novel
-solutionapproach”,universityofcaliforniaatlosangeles,usa,november
+[P2] S. Shao, J. Pi, and A. Gupta, “Weak Continuity of Dissimilarity Metrics
+between Measures over Polish Spaces”, .
+INVITED TALKS
+& POSTERS [IT1] “Recursive Stochastic Algorithms: A Markov Chain Approach”, Information
+Theory and its Applications, San Diego, USA, Feb .
+[IT2] “Recursive Stochastic Algorithms: AMarkov Chain Approach”, Tata Institute
+of Fundamental Research, Mumbai, India, Dec .
+[IT3] “Recursive Stochastic Algorithms: AMarkov Chain Approach”, University of
+Texas at Austin, Nov .
+[IT4] “Rank Reduction in Bimatrix Games”, University of Michigan, Ann Arbor,
+June .
+CV, Abhishek Gupta 8of10
+[IT5] “Recursive Stochastic Algorithms: AMarkov Chain Approach”, University of
+Michigan, Ann Arbor, June .
+[IT6] “Recursive Stochastic Algorithms: AMarkov Chain Approach”, Google Deepmind
+(London), May .
+[IT7] “Auctioning Renewable Energy with a Penalty for Shortfall”, Isaac Newton
+Institute, Cambridge University, April .
+[IT8] “Recursive Stochastic Algorithms: A Markov Chain Approach”, MIT LIDS,
+April .
+[IT9] “Reinforcement Learning for Connected Autonomous Cars”, GEGlobal Research,
+Niskayuna, February .
+[IT10] “Auctioning Renewable Energy with a Penaltyfor Shortfall”, IN FORMS Pricing
+and Revenue Management Conference, Canada, June .
+[IT11] “Dynamic Gameswith Asymmetric Information”, Indian Institute of Science,
+Bangalore, India, June .
+[IT12] Wits e nhausen s Counterexample and Learningin Teamsof Agents”, INFORMS
+Optimization Society Conference, Princeton, USA, March .
+[IT13] “Malicious Attackson Networked Control Systems”, Networking Technology
+and Systems Early-Career Investigators (Ne TS-ECI) Workshop, Arlington,
+USA, July .
+[IT14] “Cyber-physical System Security Problems as Dynamic Games: A Novel
+Solution Approach”, University of California at Los Angeles, USA, November
 .
-[it15] “axiomaticfoundationsofdecisiontheory”,universityofcaliforniaatberkeley,
-usa, october .
-[it16] “cyber-physical system security problems as dynamic games: a novel
-solution approach”, carnegie mellon university, pittsburgh, usa, october
+[IT15] “Axiomatic Foundations of Decision Theory”, University of California at Berkeley,
+USA, October .
+[IT16] “Cyber-physical System Security Problems as Dynamic Games: A Novel
+Solution Approach”, Carnegie Mellon University, Pittsburgh, USA, October
 .
-[it17] “dynamicteamswithnon-classicalinformation”,carnegiemellonuniversity,
-pittsburgh, usa, october .
-[it18] “thetopologyofinformationonthespaceofmeasuresoverpolishspaces”,
-university of california at berkeley, usa, september .
-[it19] “dynamicteamswithnon-classicalinformation”,universityofcaliforniaat
-berkeley, usa, june .
-[it20] “multi-stage lqg games and incentive design problems with asymmetric
-information”,postersession,15thacmconferenceoneconomicsandcomputation,
-palo alto, usa, june .
-cv,abhishekgupta 9of10
-[it21] “dynamicsequentialdecisionproblemswithasymmetricinformation: some
-existence results”, university of southern california, los angeles, usa,
-may .
-[it22] “dynamicgamesandteamswithasymmetricinformation: someexistence
-results”, california institute of technology, pasadena, usa, may .
-[it23] “common information based markov perfect equilibrium in dynamic lqg
-games with asymmetric information”, 3rd midwest workshop on control
-and game theory, columbus, usa, april .
-[it24] “teamswithnon-classicalinformationstructures: sometechnicalchallenges”,
-university of california berkeley, usa, may .
-[it25] “optimal control in the presence of an intelligent jammer with limited
-actions”,2011nationalcontrolengineeringstudentsworkshop,university
-of maryland at college park, usa, april .
-professional • general chair for imaccs workshop at osu
-services
-• associateeditorfor2019indiancontrolconferenceand2019americancontrol
-conference
-• served as a reviewer for
-• ieee transactions on automatic control
-• siam journal on control and optimization
-• mathematics of operations research
-• ieee transactions on control of networked systems
-• automatica
-• discrete event dynamic systems
-• international game theory review
-• mathematics of control, signals, and systems
-• ieee conference on decision and control (ieee-cdc)
-• american control conference (acc)
-• informs annual meeting
-• ieeeinternationalconferenceoncomputercommunications(infocom)
-• general chair of 8th csl student conference,
-cv,abhishekgupta 10of10
+[IT17] “Dynamic Teamswith Non-classical Information”, Carnegie Mellon University,
+Pittsburgh, USA, October .
+[IT18] “The Topologyof Information on the Spaceof Measures over Polish Spaces”,
+University of California at Berkeley, USA, September .
+[IT19] “Dynamic Teamswith Non-classical Information”, University of California at
+Berkeley, USA, June .
+[IT20] “Multi-stage LQG Games and Incentive Design Problems with Asymmetric
+Information”, Poster Session 15 th ACM Conference on Economics and Computation,
+Palo Alto, USA, June .
+CV, Abhishek Gupta 9of10
+[IT21] “Dynamic Sequential Decision Problems with Asymmetric Information: Some
+Existence Results”, University of Southern California, Los Angeles, USA,
+May .
+[IT22] “Dynamic Gamesand Teamswith Asymmetric Information: Some Existence
+Results”, California Institute of Technology, Pasadena, USA, May .
+[IT23] “Common Information based Markov Perfect Equilibrium in Dynamic LQG
+Games with Asymmetric Information”, 3rd Midwest Workshop on Control
+and Game Theory, Columbus, USA, April .
+[IT24] “Teamswith Non-classical Information Structures: Some Technical Challenges”,
+University of California Berkeley, USA, May .
+[IT25] “Optimal Control in the Presence of an Intelligent Jammer with Limited
+Actions 2011 National Control Engineering Students Workshop, University
+of Maryland at College Park, USA, April .
+PROFESSIONAL • General Chair for IMACCS Workshop at OSU
+SERVICES
+• Associate Editor for 2019 Indian Control Conference and 2019 American Control
+Conference
+• Served as a reviewer for
+• IEEE Transactions on Automatic Control
+• SIAM Journal on Control and Optimization
+• Mathematics of Operations Research
+• IEEE Transactions on Control of Networked Systems
+• Automatica
+• Discrete Event Dynamic Systems
+• International Game Theory Review
+• Mathematics of Control, Signals, and Systems
+• IEEE Conference on Decision and Control (IEEE-CDC)
+• American Control Conference (ACC)
+• INFORMS Annual Meeting
+• IEEE International Conference on Computer Communications INFO COM
+• General Chair of 8th CSL Student Conference,
+CV, Abhishek Gupta 10of10

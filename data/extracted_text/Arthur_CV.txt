@@ -1,121 +1,122 @@
-w a
-illiam rthur
-research interests
-computer security, computer architecture, compilers, system security, network security, hardware/
+W A
+ILLIAM RTHUR
+Curriculum Vitae
+Research Interests
+Computer security, computer architecture, compilers, system security, network security, hardware/
 software co-design, software engineering and test, engineering education.
-education
-university of michigan – ann arbor
-ph.d. computer science and engineering
-thesis title: control-flow security advisor: todd austin
-university of michigan – ann arbor
-m.s. computer science and engineering gpa: 3.96 / 4.0
-university of michigan – flint
-b.s. computer science with high honors gpa: 4.0 / 4.0
-teaching
-courses:
-fall - winter eecs 183: elementary programming concepts 650-1000 students
-winter – fall eecs 370: introduction to computer organization 350-650 students
-spring eceg 6514: fault-tolerant computing (vising faculty, addis ababa institute of
-technology, ethiopia) 3 students
-seminars:
-fall center for research on learning and teaching in engineering (crlt-engineering)
-seminar: generating an active learning plan
-crlt-engineering instructional aide teaching orientation (eiato) seminar: handling
-office hours
-crlt-engineering engineering graduate student instructor teaching orientation
-(egsito) seminar: handling office hours
-winter crlt-engineering seminar: maximizing student learning during office hours
-crlt eiato seminar: handling office hours
-service:
--present chief program advisor – cs-lsa
-computer science program committee
--18 academic advisor, cs-engineering
-computer science and engineering committee on diversity and outreach, co-chair
-computer science and engineering committee liaison for diversity, equity, and
-inclusion to the college of engineering.
-2260 hayward street – ann arbor, mi 48109
-3640 bob and betty beyster
+Education
+University of Michigan – Ann Arbor
+Ph. D. Computer Science and Engineering
+Thesis Title: Control-Flow Security Advisor: Todd Austin
+University of Michigan – Ann Arbor
+M. S. Computer Science and Engineering GPA: 3.96 / 4.0
+University of Michigan – Flint
+B. S. Computer Science with High Honors GPA: 4.0 / 4.0
+Teaching
+Courses:
+Fall - Winter EECS 183: Elementary Programming Concepts 650-1000 Students
+Winter – Fall EECS 370: Introduction to Computer Organization 350-650 Students
+Spring ECEG 6514: Fault-Tolerant Computing (Vising Faculty, Addis Ababa Institute of
+Technology, Ethiopia) 3 Students
+Seminars:
+Fall Center for Research on Learning and Teaching in Engineering (CRLT-Engineering)
+Seminar: Generating an Active Learning Plan
+CRLT-Engineering Instructional Aide Teaching Orientation (EIATO) Seminar: Handling
+Office Hours
+CRLT-Engineering Engineering Graduate Student Instructor Teaching Orientation
+(EGSITO) Seminar: Handling Office Hours
+Winter CRLT-Engineering Seminar: Maximizing Student Learning During Office Hours
+CRLT EIATO Seminar: Handling Office Hours
+Service:
+-Present Chief Program Advisor – CS-LSA
+Computer Science Program Committee
+-18 Academic Advisor, CS-Engineering
+Computer Science and Engineering Committee on Diversity and Outreach, co-chair
+Computer Science and Engineering Committee liaison for Diversity, Equity, and
+Inclusion to the College of Engineering.
+2260 Hayward Street – Ann Arbor, MI 48109
+3640 Bob and Betty Beyster
 1|3
-multidisciplinary design program: faculty mentor – union pacific partner-sponsored
-project student engineering team.
--17 multidisciplinary design program: faculty mentor – guardian industries partner-
-sponsored project student engineering team.
-crlt-engineering: engineering teaching consultant
-crlt-engineering: teaching orientation practice teaching session facilitator
-crlt-engineering: engineering teaching consultant
-crlt-engineering: teaching orientation experienced instructor panel
-crlt-engineering: teaching orientation practice teaching session facilitator
-crlt-engineering: engineering teaching consultant
-crlt-engineering: teaching orientation practice teaching session facilitator
-publications
-william arthur, sahil madeka, reetuparna das, todd austin, “locking down insecure indirection with
-hardware-based control-data isolation,” in the proceedings of the international symposium on
-microarchitecture (micro), december .
-william arthur, ben mehne, reetuparna das, todd austin, “getting in control of your control flow
-with control-data isolation,” in the proceedings of the international symposium on code
-generation and optimization (cgo), february .
-william arthur, biruk mammo, ricardo rodriguez, todd austin, valeria bertacco, “schnauzer:
-scalable profiling for likely security bug sites,” in the proceedings of the international symposium
-on code generation and optimization (cgo), february .
-michael e. farmer, william arthur, “study of the phenomenology of ddos network attacks in phase
-space,” in the proceedings of the international conference on security and cryptography (secrypt),
-july .
-william arthur, “control-flow security,” ph.d. thesis, eecs department – cse, university of
-michigan, ann arbor, may .
-work experience
-university of michigan, lecturer iv – present
-• teaching and course development in computer science.
-• chief program advisor – computer science – college of literature, science, and the arts
-university of michigan, lecturer iii –
-• teaching and course development in computer science.
-• committee on diversity and outreach – co-chair
-• department liaison for diversity, equity, and inclusion to the college of engineering
-university of michigan, graduate student instructor –
-• eecs 183: elementary programming concepts – primary instructor
-2260 hayward street – ann arbor, mi 48109
-3640 bob and betty beyster
+Multidisciplinary Design Program: Faculty Mentor – Union Pacific Partner-Sponsored
+Project student engineering team.
+-17 Multidisciplinary Design Program: Faculty Mentor – Guardian Industries Partner-
+Sponsored Project student engineering team.
+CRLT-Engineering: Engineering Teaching Consultant
+CRLT-Engineering: Teaching Orientation Practice Teaching Session Fac il it at or
+CRLT-Engineering: Engineering Teaching Consultant
+CRLT-Engineering: Teaching Orientation Experienced Instructor Panel
+CRLT-Engineering: Teaching Orientation Practice Teaching Session Fac il it at or
+CRLT-Engineering: Engineering Teaching Consultant
+CRLT-Engineering: Teaching Orientation Practice Teaching Session Fac il it at or
+Publications
+William Arthur, Sahil Madeka, Reetuparna Das, Todd Austin, “Locking Down Insecure In direction with
+Hardware-Based Control-Data Isolation,” in the Proceedings of the International Symposium on
+Microarchitecture (MICRO), December .
+William Arthur, Ben Mehne, Reetuparna Das, Todd Austin, “Getting in Control of Your Control Flow
+with Control-Data Isolation,” in the Proceedings of the International Symposium on Code
+Generation and Optimization (CGO), February .
+William Arthur, Biruk Mammo, Ricardo Rodriguez, Todd Austin, Valeria Bertacco, “Schnauzer:
+Scalable Profiling for Likely Security Bug Sites,” in the Proceedings of the International Symposium
+on Code Generation and Optimization (CGO), February .
+Michael E. Farmer, William Arthur, “Study of the Phenomenology of DDOS Network Attacks in Phase
+Space,” in the Proceedings of the International Conference on Security and Cryptography (SECRYPT),
+July .
+William Arthur, “Control-Flow Security,” Ph. D. Thesis, EECS Department – CSE, University of
+Michigan, Ann Arbor, May .
+Work Experience
+University of Michigan, Lecturer IV – Present
+• Teaching and course development in Computer Science.
+• Chief Program Advisor – Computer Science – College of Literature, Science, and the Arts
+University of Michigan, Lecturer III –
+• Teaching and course development in Computer Science.
+• Committee on Diversity and Outreach – co-chair
+• Department Liaison for Diversity, Equity, and Inclusion to the College of Engineering
+University of Michigan, Graduate Student Instructor –
+• EECS 183: Elementary Programming Concepts – Primary Instructor
+2260 Hayward Street – Ann Arbor, MI 48109
+3640 Bob and Betty Beyster
 2|3
-• eecs 183: elementary programming concepts – graduate student instructor
-• eecs 370: intro to computer organization – graduate student instructor
-• taught undergraduate students through lecture, discussion, and office hours.
-• performed administrative duties including creating course content, course, and staff team
+• EECS 183: Elementary Programming Concepts – Graduate Student Instructor
+• EECS 370: Intro to Computer Organization – Graduate Student Instructor
+• Taught undergraduate students through lecture, discussion, and office hours.
+• Performed administrative duties including creating course content, course, and staff team
 management.
-university of michigan, engineering teaching consultant –
-• provided one-on-one consultations with individual graduate student instructors and
-undergraduate instructional aides on teaching-related issues.
-• performed classroom observations and feedback sessions for graduate student instructors and
-undergraduate instructional aides.
-addis ababa institute of technology, ethiopia, visiting faculty
-• eceg 6514: fault-tolerant computing
-• administered course for aait ph.d. cohort
-university of michigan, graduate student research assistant –
-• performed research activities in the areas of computer security, computer architecture, compilers,
-hardware/software co-design, and software test.
-• mentored undergraduate students in research through the summer undergraduate research in
-engineering program.
-self-employed, state of michigan licensed journeyman electrician –
-• resolved crisis electrical maintenance issues from service calls.
-• performed power distribution wiring maintenance and construction activities.
-ford motor company, journeyman industrial electrician –
-• conducted test engineering and management of test processes and equipment for automotive
+University of Michigan, Engineering Teaching Consultant –
+• Provided one-on-one consultations with individual Graduate Student Instructors and
+Undergraduate Instructional Aides on teaching-related issues.
+• Performed classroom observations and feedback sessions for Graduate Student Instructors and
+Undergraduate Instructional Aides.
+Addis Ababa Institute of Technology, Ethiopia, Visiting Faculty
+• ECEG 6514: Fault-Tolerant Computing
+• Administered course for AAi T Ph. D. cohort
+University of Michigan, Graduate Student Research Assistant –
+• Performed research activities in the areas of computer security, computer architecture, compilers,
+hardware software co-design, and software test.
+• Mentored undergraduate students in research through the Summer Undergraduate Research in
+Engineering program.
+Self-Employed, State of Michigan Licensed Journeyman Electrician –
+• Resolved crisis electrical maintenance issues from service calls.
+• Performed power distribution wiring maintenance and construction activities.
+Ford Motor Company, Journeyman Industrial Electrician –
+• Conducted Test Engineering and management of test processes and equipment for automotive
 transmissions operations.
-• taught apprentice electricians for the ford motor company bona fide apprenticeship program.
-• performed software maintenance and troubleshooting of industrial control software and systems.
-u.s. manufacturing corporation, engineering technician –
-• designed mechanical systems including gauging and material handling systems.
-• performed technical writing and production of technical documents.
-• performed various engineering tasks pertaining to waste treatment, industrial operations, and
+• Taught apprentice Electricians for the Ford Motor Company bona fide apprenticeship program.
+• Performed software maintenance and troubleshooting of industrial control software and systems.
+U. S. Manufacturing Corporation, Engineering Technician –
+• Designed mechanical systems including gauging and material handling systems.
+• Performed technical writing and production of technical documents.
+• Performed various engineering tasks pertaining to waste treatment, industrial operations, and
 metallurgical testing.
-service
-served as external reviewer for the following conferences: asplos '12, '13; cgo '13; date '12,'13,
-'16; dsn '14; hpca '12, '14; isca '12, '13, '14; micro '11, '12; dac '16;
-awards and honors
-college of engineering thomas m. sawyer, jr. teaching award.
-rackham merit fellowship, university of michigan
-nominee, maize and blue award, university of michigan - flint
-angell scholar, university of michigan - flint
-three-time recipient certificate of appreciation award, ford motor company - van dyke t.p.
-product quality award, ford motor company - sterling axle assembly plant
-2260 hayward street – ann arbor, mi 48109
-3640 bob and betty beyster
+Service
+Served as external reviewer for the following conferences: ASPLOS '12, '13; CGO '13; DATE '12,'13,
+'16; DSN '14; HPCA '12, '14; ISCA '12, '13, '14; MICRO '11, '12; DAC '16;
+Awards and Honors
+College of Engineering Thomas M. Sawyer, Jr. Teaching Award.
+Rackham Merit Fellowship, University of Michigan
+Nominee, Maize and Blue Award, University of Michigan - Flint
+Angell Scholar, University of Michigan - Flint
+Three-time recipient Certificate of Appreciation Award, Ford Motor Company - Van Dyke T. P.
+Product Quality Award, Ford Motor Company - Sterling Axle Assembly Plant
+2260 Hayward Street – Ann Arbor, MI 48109
+3640 Bob and Betty Beyster
 3|3

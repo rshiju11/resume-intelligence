@@ -1,943 +1,943 @@
-lee c. potter
-department of electrical and computer engineering http://u.osu.edu/potter.36
-the ohio state university email:
-neil ave., columbus, oh 43210 usa fax:
-degrees phd, e.e. cornell university, ithaca ny
-ms, e.e. university of illinois, urbana il
-bs, e.e. & math (summa cum laude) vanderbilt university, nashville, tn
-professional professor, –present the ohio state university, columbus
-experience research focus on signal processing.
-investigator, –present davis heart and lung research institute
-research focus on cardiac magnetic resonance imaging.
-founding director, - nsf i/ucrc center for surveillance research
-multi-investigator center developing millimeter-wave and optics sensing technologies.
-research scientist (ipa), - air force research laboratory, dayton, oh
-research and project management for millimeter-wave and optical imaging technologies.
-associate professor, – the ohio state university, columbus
-research focus on signal processing.
-assistant professor, – the ohio state university, columbus
-research focus on signal processing.
-post-doctoral researcher, university of illinois, urbana, il
-research focus on convex optimization for inverse problems.
-awards • osu ece department h. c. ko service award,
-and • provost’s recognition of “influential faculty and staff”
-honors
-• eta kappa nu osu-ece pumphrey distinguished teaching award: , ,
-• osu ece departmental distinguished teaching award: au20, sp20, au19, sp19, au18
-• osu college of engineering boyer undergraduate teaching innovation award,
-• osu college of engineering lumley research award: ,
-• osu college of engineering macquigg award for outstanding teaching: ,
-• osu college of engineering lumley interdisciplinary research award,
-• faculty honoree, osu salute to undergraduate achievement: , ‘04, ‘02, ‘01
-• eta kappa nu osu electrical engineering professor of the year,
-• college of engineering annual research accomplishment award,
-• darpa program award,
-• national science foundation research initiation award,
-• daily illini outstanding graduate teaching assistant award: ,
-• vanderbilt university ee program award, national merit scholar, .
-(last updated january 21, ) 1
-research advisee achievement
-supervision
-• ashutosh sabharwal, phd , ernest dell butcher professor & chair, rice univer-
-sity; fellow of ieee, fellow of national academy of inventors, ieee jack neubauer
-memorial award, ieee advances in communications award, acm sigmobile
-test-of-time award, acm mobicom community contributions award and acm
-sigmobile test-of-time award; osu college of engineering alumni award for aca-
-demic excellence; founder of warp (wireless open-access research platform); co-founder
-of cognita labs
-• joshua ash, post-doctoral advisee , associate professor, wright state university
-• taylor williams, ms , bs2011, wm. l. everitt student award ; founding math
-and computer science teacher at excel public charter school in kent, wa
-• rizwan ahmad, post-doctoral advisee -11, associate professor, biomedical engineer-
-ing, ohio state university
-• brian rigling, ms , ohio eminent scholar and professor, university of dayton; for-
-merly professor and dean, wright state university; ieee fellow; recipient of ieee
-fred nathanson memorial radar award
-• emre ertin, phd , associate professor, ohio state university. co-chair, nato re-
-search working group, “integrating compressive sensing and machine learning tech-
-niques for radar applications.”
-• timothy r. miller, phd , vp-engineering, applied signals intelligence, llc, vienna,
-va
-• michael gerry, phd , president and ceo, saab sensis corporation, east syracuse,
-ny; board member, nuair alliance
-• michael geile, ms , co-founder & director of advanced technologies, nova engi-
-neering; vice-president for advanced waveforms, raytheon bbn technologies, batavia,
-oh
-phd dissertations
-• kaiying xie, “fast spectral and convex methods in clustering,” (primary advisor,
-dustin mixon). post-doctoral fellow, johns hopkins university, baltimore, md.
-• shen zhao, “k-space reconstruction and velocity estimation in magnetic resonance
-imaging,” . post-doctoral fellow, stanford medical center, palo alto, ca
-• azer shikhaliev, “techniques for adaptive signal detection,” . lockheed martin,
-liverpool, ny (formerly nrc post-doctoral fellow)
-• adam rich, “bayesian models for practical flow imaging using phase contrast magnetic
-resonance imaging,” . battelle, columbus, oh
-• michael riedl, “new approaches to ground moving target indicator radar,” . mit
-lincoln laboratory, lexington, ma; currently battelle, columbus, oh
-• deryagol, “subspacetechniquesforparallelmagneticresonance imaging,” .siemens
-healthineers, san francisco, ca
-• subhojit som, “sparse reconstruction and applications to electron paramagnetic reso-
-nance imaging,” . data scientist, microsoft, seattle, wa
-• kerry dungan, “feature-based vehicle classification in wide-angle synthetic aperture
-radar,” . senior scientist, wright state research institute, fairborn, oh
-• ravikiran rajagopal, “an algebraic view of multidimensional multiple-input multiple-
-output finite impulse response equalizers,” . broadcom, irvine, ca
-• ashutosh sabharwal, “model based signal processing for communications and radar,”
-. ernest dell butcher professor & department chair, rice university, houston, tx
-• emre ertin, “polarimetric processing and sequential detection for automatic target
-recognition systems,” . associate professor, ohio state university, columbus, oh
-(last updated january 21, ) 2
-• timothy r. miller “detection, estimation, and discrimination of frequency-diverse tar-
-gets in ultra-wideband synthetic aperture radar data,” . chief technical officer,
-applied signals intelligence inc., vienna, va
-• michael j. gerry, “two-dimensional inverse scattering based on the gtd model,” .
-president and ceo, air traffic systems products, saab sensis corp., east syracuse, ny
-• da-ming chiang, “parametric signal processing techniques for model mismatch and
-mixed parameter estimation,” . vp of engineering, upbeat technology
-• daniel f. stewart, “minimal time-frequency localization techniques and their application
-to image compression,” (co-advised with s. ahalt). principal engineer, qualcomm,
-raleigh-durhan, nc
-ms research
-• zhizhong ma, cambricon, beijing. “bi-directional sampling in partial fourier reconstruc-
+LEE C. POTTER
+Department of Electrical and
+The Ohio State University Email:
+Neil Ave., Columbus, OH 43210 USA Fax:
+Degrees Ph D, E. E. Cornell University, Ithaca NY
+MS, E. E. University of Illinois, Urbana IL
+BS, E. E. & Math (summa cum laude) Vanderbilt University, Nashville, TN
+Professional Professor, –present The Ohio State University, Columbus
+Experience Research focus on signal processing.
+Investigator, –present Davis Heart and Lung Research Institute
+Research focus on cardiac magnetic resonance imaging.
+Founding Director, - NSF I/UCRC Center for Surveillance Research
+Multi-investigator center developing millimeter-wave and optics sensing technologies.
+Research Scientist (IPA), - Air Force Research Laboratory, Dayton, OH
+Research and project management for millimeter-wave and optical imaging technologies.
+Associate Professor, – The Ohio State University, Columbus
+Research focus on signal processing.
+Assistant Professor, – The Ohio State University, Columbus
+Research focus on signal processing.
+Post-doctoral Researcher, University of Illinois, Urbana, IL
+Research focus on convex optimization for inverse problems.
+Awards • OSU ECE Department H. C. Ko Service Award,
+and • Provost’s Recognition of “Influential Faculty and Staff”
+Honors
+• Eta Kappa Nu OSU-ECE Pumphrey Distinguished Teaching Award: , ,
+• OSU ECE Departmental Distinguished Teaching Award: Au20, Sp20, Au19, Sp19, Au18
+• OSU College of Engineering Boyer Undergraduate Teaching Innovation Award,
+• OSU College of Engineering Lumley Research Award: ,
+• OSU College of Engineering Mac Quigg Award for Outstanding Teaching: ,
+• OSU College of Engineering Lumley Interdisciplinary Research Award,
+• Faculty Honoree, OSU Salute to Undergraduate Achievement: , ‘04, ‘02, ‘01
+• Eta Kappa Nu OSU Electrical Engineering Professor of the Year,
+• College of Engineering Annual Research Accomplishment Award,
+• DARPA Program Award,
+• National Science Foundation Research Initiation Award,
+• Daily Illini Outstanding Graduate Teaching Assistant Award: ,
+• Vanderbilt University EE Program Award, National Merit Scholar, .
+(Last updated January 21, ) 1
+Research Advisee Achievement
+Supervision
+• Ashutosh Sabharwal, Ph D , Ernest Dell Butcher Professor & Chair, Rice Univer-
+sity; Fellow of IEEE, Fellow of National Academy of Inventors, IEEE Jack Neubauer
+Memorial Award, IEEE Advances in Communications Award, ACM Sigmobile
+Test-of-time Award, ACM Mobi Com Community Contributions Award and ACM
+Sigmobile Test-of-time Award; OSU College of Engineering Alumni Award for Aca-
+demic Excellence; founder of WARP (Wireless Open-Access Research Platform); co-founder
+of Cognita Labs
+• Joshua Ash, post-doctoral advisee , Associate Professor, Wright State University
+• Taylor Williams, MS , BS2011, Wm. L. Everitt Student Award ; Founding math
+and computer science teacher at Excel Public Charter School in Kent, WA
+• Rizwan Ahmad, post-doctoral advisee -11, Associate Professor, Biomedical Engineer-
+ing, Ohio State University
+• Brian Rigling, MS , Ohio Eminent Scholar and Professor, University of Dayton; for-
+merly Professor and Dean, Wright State University; IEEE Fellow; recipient of IEEE
+Fred Nathanson Memorial Radar Award
+• Emre Ertin, Ph D , Associate Professor, Ohio State University. Co-chair, NATO Re-
+search Working Group, “Integrating Compressive Sensing and Machine Learning Tech-
+niques for Radar Applications.”
+• Timothy R. Miller, Ph D , VP-Engineering, Applied Signals Intelligence, LLC, Vienna,
+VA
+• Michael Gerry, Ph D , President and CEO, SAAB Sensis Corporation, East Syracuse,
+NY; board member, NUAIR Alliance
+• Michael Geile, MS , Co-founder & director of advanced technologies, Nova Engi-
+neering; Vice-President for Advanced Waveforms, Raytheon BBN Technologies, Batavia,
+OH
+Ph D dissertations
+• Kaiying Xie, “Fast Spectral and Convex Methods in Clustering,” (primary advisor,
+Dustin Mixon). Post-doctoral fellow, Johns Hopkins University, Baltimore, MD.
+• Shen Zhao, “K-space Reconstruction and Velocity Estimation in Magnetic Resonance
+Imaging,” . Post-doctoral fellow, Stanford Medical Center, Palo Alto, CA
+• Azer Shi khali ev “Techniques for Adaptive Signal Detection,” . Lockheed Martin,
+Liverpool, NY (formerly NRC post-doctoral fellow)
+• Adam Rich, “Bayesian Models for Practical Flow Imaging Using Phase Contrast Magnetic
+Resonance Imaging,” . Battelle, Columbus, OH
+• Michael Riedl, “New Approaches to Ground Moving Target Indicator Radar,” . MIT
+Lincoln Laboratory, Lexington, MA; currently Battelle, Columbus, OH
+• Derya Gol, “Subspace Techniques for Parallel Magnetic Resonance Imaging,”. Siemens
+Health in e ers San Francisco, CA
+• Subhojit Som, “Sparse Reconstruction and Applications to Electron Para magnetic Reso-
+nance Imaging,” . Data Scientist, Microsoft, Seattle, WA
+• Kerry Dungan, “Feature-based Vehicle Classification in Wide-angle Synthetic Aperture
+Radar,” . Senior Scientist, Wright State Research Institute, Fairborn, OH
+• Ravikiran Rajagopal, “An Algebraic View of Multidimensional Multiple-Input Multiple-
+Output Finite Impulse Response Equalizers,” . Broadcom, Irvine, CA
+• Ashutosh Sabharwal, “Model Based Signal Processing for Communications and Radar,”
+. Ernest Dell Butcher Professor & Department Chair, Rice University, Houston, TX
+• Emre Ertin, Polar i metric Processing and Sequential Detection for Automatic Target
+Recognition Systems,” . Associate Professor, Ohio State University, Columbus, OH
+(Last updated January 21, ) 2
+• Timothy R. Miller “Detection, Estimation, and Discrimination of Frequency-Diverse Tar-
+gets in Ultra-Wideband Synthetic Aperture Radar Data,” . Chief Technical Officer,
+Applied Signals Intelligence Inc., Vienna, VA
+• Michael J. Gerry, “Two-Dimensional Inverse Scattering Based on the GTD Model,” .
+President and CEO, Air Traffic Systems Products, SAAB Sensis Corp., East Syracuse, NY
+• Da-Ming Chiang, “Parametric Signal Processing Techniques for Model Mismatch and
+Mixed Parameter Estimation,” . VP of Engineering, Upbeat Technology
+• Daniel F. Stewart, “Minimal Time-Frequency Localization Techniques and their Application
+to Image Compression,” (co-advised with S. Ahalt). Principal Engineer, Qualcomm,
+Raleigh-Durhan, NC
+MS research
+• Zhizhong Ma, Cambricon, Beijing. “Bi-directional Sampling in Partial Fourier Reconstruc-
 tion,” .
-• abdullah inshaar, ”polarimetric radar denoising with convolutional neural networks,”
-. applied physics laboratory, laurel, md
-• azer shikhaliev, ”low-rank structured covariance matrix estimation,” . nrc post-
-doctoral fellow, fairborn, oh
-• s. mirkazemi, “evaluation of a single frequency satellite navigation software receiver,”
-. ce doctoral candidate, columbus, oh
-• mary lenk, “respiratory motion tracking in magnetic resonance imaging with pilot tone
-technology,” . applied research laboratories, austin, tx
-• shen zhao, “fast chinese remainder theorem for phase contrast magnetic resonance
-imaging,” (co-advised with r. ahmad). osu, columbus, oh
-• rebekah farrar, “bayesian inference via low-dimensional manifolds for attributed data
-points,” (co-advised with e. ertin). lisnr, mason, oh
-• frank golub, “an estimation technique for spin echo electron paramagnetic resonance,”
-(co-advised with r. ahmad). ford motor company, detroit, mi
-• jason palmer, “dual-scan acquisition for accelerated continuous-wave epr oximetry,”
-(co-advised with r. ahmad). percolate, inc., denver, co
-• taylor williams, “compressive sensing for tomographic echo imaging in two dimen-
-sions,” . teach for america, seattle, wa
-• christine bryant, “multiple-input single-output synthetic aperture radar and space-time
-adaptive processing,” (co-advised with e. ertin). matrix, inc., dayton, oh
-• amrita ghosh, “optimum waveform scheduling with software defined radar for tracking
-applications,” (co-advised with e. ertin). software development engineer, amazon,
-seattle, wa
-• stephen yen, “parametric estimation using electron paramagnetic resonance spectral
-models of over-modulated lorentzian absorption and dispersion harmonics,” . mem-
-ber of technical staff, battelle memorial institute, columbus, oh
-• samir sharma, “three dimensional parameter estimation from sparse, multipass syn-
-thetic aperture radar,” . mr development scientist, toshiba medical research in-
-stitute, mayfield, oh
-• linda moore, “three-dimensional resolution for circular synthetic aperture,” . en-
-gineer, sensors directorate, air force research laboratory, wpafb, oh
-• subhojit som, “parametric approach to spectal-spatial electron paramagnetic resonance
-imaging,” . data scientist, microsoft, seattle, wa
-• petru cociorva, “preconditioners for sparse linear inversion” . software design en-
-gineer in test (sdet), microsoft, seattle, wa
-• a. tansu demirbilek, “three dimensional estimation of scattering centers from magni-
-tude radar images,” . risk manager, north asset management, london, england
-(last updated january 21, ) 3
-• oguz demirci, “parametric modeling of polarized synthetic aperture radar imagery,”
-. senior research engineer, sony, ca
-• anurag jain, “on the design of wideband arrays,” .
-• jawaharlal tangudu, “backprojection algorithms for ultra-wideband radar imaging,”
-. senior systems engineer, texas instruments, bengaluru, india
-• ravikiran rajagopal, “exact fir inverses of fir filters,” . broadcom, irvine, ca
-• brian rigling, “physics, fisher and phase: information content in sar images,” .
-ohio eminent scholar & professor, university of dayton, dayton, oh
-• michael geile,“investigation of non-parametric techniques for resolving localized point
-scatterers from radar returns,” . vice-president for advanced waveforms, raytheon
-bbn technologies, batavia, oh
-• harvey zien, “clutter statistics and detection of targets in ultra-wideband synthetic
-aperture radar imagery,” (r. l. moses, co-advisor) . principal engineer, broadcom,
-san diego, ca
-• ashutosh sabharwal, “constrained signal reconstruction,” . ernest dell butcher pro-
-fessor & department chair, rice university, houston, tx
-• timothy r. miller, “radio frequency interference suppression for foliage penetrating
-radar imaging,” . chief technical officer, applied signals intelligence inc., vienna,
-va
-• chung-chi li, “electrocardiogram signal preprocessing for noninvasive diagnosis of ar-
-rhythmia vulnerability,” .
-• szi-wen chen, “prony modeling for signal-averaged electrocardiogram analysis,” .
-• da-ming chiang, “non-redundant channel coding for vector quantization,” . en-
-gineering manager, intel, ca
-bs honors theses
-• shiqi yang, “image processing for synthetic aperture radar (sar) system on light-weight
-drone,” .
-• jingong huang, “fast back-projection algorithm for synthetic aperture radar imaging
-system with a lightweight unmanned aircraft system,” .
-• sergei preobrazhensky, “optimizing acoustic array beamforming to aid a speech recog-
-nition system,” .
-• taylor williams, “sonar imaging using compressive sensing,” .
-• danish siddiqui, “development and implementation of a fast factorized backprojection
+• Abdullah Inshaar, Polar i metric Radar Denoising with Convolutional Neural Networks,”
+. Applied Physics Laboratory, Laurel, MD
+• Azer Shi khali ev ”Low-Rank Structured Covariance Matrix Estimation,” . NRC post-
+doctoral fellow, Fairborn, OH
+• S. Mirkazemi, “Evaluation of a Single Frequency Satellite Navigation Software Receiver,”
+. CE doctoral candidate, Columbus, OH
+• Mary Lenk, “Respiratory Motion Tracking in Magnetic Resonance Imaging with Pilot Tone
+Technology,” . Applied Research Laboratories, Austin, TX
+• Shen Zhao, “Fast Chinese Remainder Theorem for Phase Contrast Magnetic Resonance
+Imaging,” (co-advised with R. Ahmad). OSU, Columbus, OH
+• Rebekah Farrar, “Bayesian Inference via Low-Dimensional Manifolds for Attributed Data
+Points,” (co-advised with E. Ertin). LISNR, Mason, OH
+• Frank Golub, “An Estimation Technique for Spin Echo Electron Para magnetic Resonance,”
+(co-advised with R. Ahmad). Ford Motor Company, Detroit, MI
+• Jason Palmer, “Dual-scan Acquisition for Accelerated Continuous-wave EPR Oximetry,”
+(co-advised with R. Ahmad). Percolate, Inc., Denver, CO
+• Taylor Williams, “Compressive Sensing for Tomo graphic Echo Imaging in Two Dimen-
+sions,” . Teach For America, Seattle, WA
+• Christine Bryant, “Multiple-Input Single-Output Synthetic Aperture Radar and Space-Time
+Adaptive Processing,” (co-advised with E. Ertin). Matrix, Inc., Dayton, OH
+• Amrita Ghosh, “Optimum Waveform Scheduling with Software Defined Radar for Tracking
+Applications,” (co-advised with E. Ertin). Software Development Engineer, Amazon,
+Seattle, WA
+• Stephen Yen, “Parametric Estimation using Electron Para magnetic Resonance Spectral
+Models of Over-modulated Lorentzian Absorption and Dispersion Harmonics,” . Mem-
+ber of Technical Staff, Battelle Memorial Institute, Columbus, OH
+• Samir Sharma, “Three Dimensional Parameter Estimation from Sparse, Multipass Syn-
+thetic Aperture Radar,” . MR Development Scientist, Toshiba Medical Research In-
+stitute, Mayfield, OH
+• Linda Moore, “Three-Dimensional Resolution for Circular Synthetic Aperture,” . En-
+gineer, Sensors Directorate, Air Force Research Laboratory, WPAFB, OH
+• Subhojit Som, “Parametric Approach to Spectal-Spatial Electron Para magnetic Resonance
+Imaging,” . Data Scientist, Microsoft, Seattle, WA
+• Petru Cociorva, Pre conditioners for Sparse Linear Inversion” . Software Design En-
+gineer in Test (SDET), Microsoft, Seattle, WA
+• A. Tansu Demir bile k “Three Dimensional Estimation of Scattering Centers from Magni-
+tude Radar Images,” . Risk Manager, North Asset Management, London, England
+(Last updated January 21, ) 3
+• Oguz Demirci, “Parametric Modeling of Polarized Synthetic Aperture Radar Imagery,”
+. Senior Research Engineer, Sony, CA
+• Anurag Jain, “On the Design of Wideband Arrays,” .
+• Jawaharlal Tangudu, Back projection Algorithms for Ultra-Wideband Radar Imaging,”
+. Senior Systems Engineer, Texas Instruments, Bengaluru, India
+• Ravikiran Rajagopal, “Exact FIR Inverses of FIR Filters,” . Broadcom, Irvine, CA
+• Brian Rigling, “Physics, Fisher and Phase: Information Content in SAR Images,” .
+Ohio Eminent Scholar & Professor, University of Dayton, Dayton, OH
+• Michael Gei le Investigation of Non-Parametric Techniques for Resolving Localized Point
+Scatterers from Radar Returns,” . Vice-President for Advanced Waveforms, Raytheon
+BBN Technologies, Batavia, OH
+• Harvey Zien, “Clutter Statistics and Detection of Targets in Ultra-Wideband Synthetic
+Aperture Radar Imagery,” (R. L. Moses, co-advisor) . Principal Engineer, Broadcom,
+San Diego, CA
+• Ashutosh Sabharwal, “Constrained Signal Reconstruction,” . Ernest Dell Butcher Pro-
+fessor & Department Chair, Rice University, Houston, TX
+• Timothy R. Miller, “Radio Frequency Interference Suppression for Foliage Penetrating
+Radar Imaging,” . Chief Technical Officer, Applied Signals Intelligence Inc., Vienna,
+VA
+• Chung-Chi Li, “Electrocardiogram Signal Preprocessing for Non invasive Diagnosis of Ar-
+rhythmia Vulnerability,” .
+• Szi-Wen Chen, “Prony Modeling for Signal-Averaged Electrocardiogram Analysis,” .
+• Da-Ming Chiang, “Non-Redundant Channel Coding for Vector Quantization,” . En-
+gineering Manager, Intel, CA
+BS honors theses
+• Shiqi Yang, “Image Processing for Synthetic Aperture Radar (SAR) System on Light-weight
+Drone,” .
+• Jingong Huang, “Fast Back-projection Algorithm for Synthetic Aperture Radar Imaging
+System with a Lightweight Unmanned Aircraft System,” .
+• Sergei Pre o bra zhen sky “Optimizing Acoustic Array Beam forming to Aid a Speech Recog-
+nition System,” .
+• Taylor Williams, “SONAR imaging using compressive sensing,” .
+• Danish Siddiqui, “Development and implementation of a fast factorized back projection
 code for synthetic aperture radar,” .
-• gerardo balderas, “passive time synchronization in sensor networks using opportunistic
-fm radio signals,” (co-advised with j. ash) .
-• sean winfree, “angle of arrival estimation using received signal strength with directional
-antennas,” .
-• albert joon-su byun, “analog signal conditioning design for a wireless data acquisition
-device,” .
-• abdul rahman kalash, “design and implementation of network localization service using
-angle-indexed signal strength measurements,” .
-bs student research associate advisees
-• eason he ( )
-• sarah greenbaum ( -18; -19)
-• joy smith ( -18; -19)
-• daniel wharton ( -18; -19)
-• shiqi yang ( -19, -20)
-(last updated january 21, ) 4
-• jingong huang ( -18; -19)
-• isaac zachmann ( -19)
-• brandi downs ( -18)
-• gerardo balderas, ( -11)
-• sean winfree ( - )
-• abdul rahman kalash ( - )
-post-doctoral researchers supported
-• rizwan ahmad ( - ), associate professor, biomedical engineering, ohio state uni-
+• Gerardo Balderas, “Passive time synchronization in sensor networks using opportunistic
+FM radio signals,” (co-advised with J. Ash) .
+• Sean Winfree, “Angle of Arrival Estimation using Received Signal Strength with Directional
+Antennas,” .
+• Albert Joon-Su Byun, “Analog Signal Conditioning Design for a Wireless Data Acquisition
+Device,” .
+• Abdul Rahman Kalash, “Design and Implementation of Network Localization Service using
+Angle-indexed Signal Strength Measurements,” .
+BS Student Research Associate Advisees
+• Eason He ()
+• Sarah Greenbaum (-18; -19)
+• Joy Smith (-18; -19)
+• Daniel Wharton (-18; -19)
+• Shiqi Yang (-19, -20)
+(Last updated January 21, ) 4
+• Jingong Huang (-18; -19)
+• Isaac Zachmann (-19)
+• Brandi Downs (-18)
+• Gerardo Balderas, (-11)
+• Sean Winfree (-)
+• Abdul Rahman Kalash (-)
+Post-doctoral researchers supported
+• Rizwan Ahmad (-), Associate Professor, Biomedical Engineering, Ohio State Uni-
 versity
-• joshua ash ( - ), associate professor, electrical engineering, wright state uni-
+• Joshua Ash (-), Associate Professor, Electrical Engineering, Wright State Uni-
 versity
-current students
-• david tucker
-• syed murtaza arshad (co-advised with r ahmad)
-• chong chen (co-advised with r ahmad)
-• eason he
-teaching curriculum development and laboratory donations
-• developed laboratory course, “digital communication laboratory.” textbook co-authored
-with y. yang, a digital communication laboratory: implementing a software-defined
-acoustic modem, lulu press, (ibsn ). materials freely available
-at itunes app store, google play, itunesu and mathworks matlab courseware.
-• developed laboratory course, “real-time digital signal processing.” obtained $11,913 gift
-from mathworks, inc. for hardware and curriculum development.
-• developed a senior-level technical elective, “introduction to digital signal processing.”
-• developed and maintained “signal processing laboratory” ($90,722 equipment dona-
+Current Students
+• David Tucker
+• Syed Murtaza Arshad (co-advised with R Ahmad)
+• Chong Chen (co-advised with R Ahmad)
+• Eason He
+Teaching Curriculum development and laboratory donations
+• Developed laboratory course, “Digital communication laboratory.” Textbook co-authored
+with Y. Yang, A Digital Communication Laboratory: Implementing a Software-Defined
+Acoustic Modem, Lulu Press, (IBSN ). Materials freely available
+at i Tunes App Store, Google Play, i Tunes U and Mathworks Matlab Courseware.
+• Developed laboratory course, “Real-time digital signal processing.” Obtained $11,913 gift
+from Mathworks, Inc. for hardware and curriculum development.
+• Developed a senior-level technical elective, “Introduction to Digital Signal Processing.”
+• Developed and maintained “Signal Processing Laboratory” ($90,722 equipment dona-
 tions).
-• developed a graduate-level special topics course, “pattern recognition.”
-• instituted team-teaching for technical writing and capstone design.
-courses taught
-• ece sophomore sequence ii, ece291 (sp12)
-• linear circuits, ece301 & ece2100.02 (au12, wi11, sp10, au09)
-• signals and systems, ece3050 (sp24, au23, au22, sp22, au17, au15, au13)
-• signals and systems i, ece351 (au03, au98, sp94, sp93, sp91)
-• signals and systems ii, ece352 (au10)
-• analog & digital communications, ece501 & ece5000 (sp23, au19, au18, au16, au11,
-wi09, au08)
-• communications laboratory, ece508 & ece5007 (sp20, sp19, sp18, sp17, sp16, sp15,
-au14, sp14, wi09)
-• ece capstone design, ece4901 (sp18, au17)
-• ece design i, ece582 (wi03, sp02, wi02, wi01, wi00, sp98, wi98)
-• ece design ii, ece682 (sp11, wi10, sp08, wi05, sp04, wi04, sp03)
-• introduction to digital signal processing, ece600 & ece5200 (au21, au20, sp20, sp19,
-sp18, sp17, sp16, sp15, wi12, wi08, au07, wi07, au06, au04, au03, au01, au00, au99,
-au97, wi96, wi94, au92, au91)
-(last updated january 21, ) 5
-• signal processing laboratory, ece609 & ece5207 (sp20, sp15, sp07, sp06, sp05, sp03,
-sp02, sp01, sp97)
-• communication systems, ece702 (sp95, sp92)
-• stochastic digital signal processing, ece800 (sp00, sp99, wi95, wi93, wi92, wi91)
-• detection and estimation, ece806 (sp06, sp05)
-• pattern recognition, ece808 (au96, au93)
-books • l. potter and y. yang, a digital communication laboratory: implementing a software-
-defined acoustic modem, lulu press, (ibsn ). materials freely
-available at itunes app store, google play, itunesu, and mathworks matlab courseware.
-journal citation data are available at google scholar and researcherid
-papers
-1. d. tucker∗, s. zhao∗and l. c. potter, “maximum likelihood estimation in mixed integer
-linear models,” ieee signal processing letters, vol. 30, pp. 1557-1561, . software.
-doi:10.1109/lsp. .3324833
-2. d. tucker∗, j. n. ash and l. c. potter, “sar coherent change detection with variational
-expectation maximization,”ieee transactions on aerospace and electronic systems, vol.
-59, no. 3, pp. 2165-2175, . doi:10.1109/taes. .3213634
-3. d. tucker∗, s. zhao∗, r. ahmad and l. c. potter, “alias-free arrays,”ieee signal pro-
-cessing letters, vol. 29, pp. 2457-2461, .software.doi: 10.1109/lsp. .3224834
-4. s. zhao∗, r. ahmad and l. c. potter, “venc design and velocity estimation for phase
-contrast mri,” inieee transactions on medical imaging, vol. 41, no. 12, pp. 3712-3724,
-dec. . doi:10.1109/tmi. .3193132
-5. d. tucker∗and l. c. potter, “polarimetric sar despeckling with convolutional neural
-networks,” ieee transactions on geoscience and remote sensing, vol. 60, pp. 1-12,
-. 10.1109/tgrs. .3152068
-6. s. zhao∗, l.c. potter, and r. ahmad, “high-dimensional fast convolutional framework
-(hicu) for calibrationless mri,” magnetic resonance in medicine, vol. 86, pp. 1212–
-1225, . doi:10.1002/mrm.2872. software.
-7. a. pruitt∗, a. rich∗, y. liu, n. jin, l. potter, o. simonetti, and r. ahmad, “fully self-
-gated whole-heart 4d flow imaging from a five-minute scan,” magnetic resonance in
-medicine, vol. 85, pp. 1222-1236, . doi:10.1002/mrm.28491.
-8. d. tucker∗and l.c. potter, “speckle suppression in multi-channel coherent imaging: a
-tractable bayesian approach,” ieee transactions on computational imaging, vol. 6, pp.
-1429-1439, . doi:10.1109/tci. .3029385.
-9. j. varghese∗, m. smyke∗, y. pan∗, s. rajpal, j. craft, l.c. potter, s.v. raman, r. ah-
-mad, r. and o.p. simonetti, “patient-adaptive magnetic resonance oximetry: compar-
-ison with invasive catheter measurement of blood oxygen saturation in patients with
-cardiovascular disease,”journal of magnetic resonance imaging, vol. 52, pp. 1449-1459,
-. doi:10.1002/jmri.27179. subject of jmri editorial.
-10. a. rich∗, n. jin, y. liu, lc potter, op simonetti, r. ahmad, “cartesian sampling with
-variable density and adjustable temporal resolution (cava),” magnetic resonance in
-medicine, vol. 83, pp. - , . doi:10.1002/mrm.28059. software.
-11. a. shikhaliev∗, y. chi and l.c. potter, “low-rank structured covariance matrix estima-
-tion,”ieeesignalprocessingletters,vol.26, no.5,pp. 700-704,may .doi:10.1109/lsp. .2906405.
-software.
-12. a. rich∗, lc potter, ning jin, y. liu, op simonetti, and r. ahmad, “a bayesian
-approach for 4d flow imaging of aortic valve in a single breath-hold,”magnetic resonance
-in medicine, vol. 81, pp. 811-824, . doi:10.1002/mrm.27386. software.
-13. m. riedl∗and l.c. potter, “multi-model shrinkage for knowledge-aided space-time adap-
-tive processing,” ieee transactions on aerospace and electronic systems, vol. 54, issue
-5, pp. 2601-2610, october . doi:10.1109/taes. .2813898.
-(last updated january 21, ) 6
-14. c. ebersole∗, r. ahmad, a.v. rich∗, l.c. potter, h. dong∗, a. kolipaka, “a bayesian
-methodforacceleratedmagneticresonanceelastography,”magneticresonance inmedicine,
-vol. 80, issue 3, pp. 1178-1188, september . doi:10.1002/mrm.27083.
-15. m. riedl∗and l.c. potter, “knowledge-aided bayesian space-time adaptive processing,”
-ieee transactions on aerospace and electronic systems, vol. 54, issue 4, pp. 1850-1861,
-august . doi:10.1109/taes. .2805141.
-16. j. varghese∗, l.c. potter, r. lafountain, x. pan, s.v. raman, r. ahmad, o.p. si-
-monetti, “cmr-based blood oximetry via multi-parametric estimation using multiple t2
-measurements,”journal of cardiovascular magnetic resonance, vol. 19, article 88, .
-doi:10.1186/s . patent pending.
-17. j. da silveira, m. smyke, a.v. rich∗, n. jin, d. scandling; y. liu, j.a. dickerson,
-c.e. rochitte, s.v. raman, l.c. potter, r. ahmad, o.p. simonetti, “quantification of
+• Developed a graduate-level special topics course, “Pattern Recognition.”
+• Instituted team-teaching for technical writing and capstone design.
+Courses taught
+• ECE Sophomore sequence II, ECE291 (Sp12)
+• Linear Circuits, ECE301 & ECE2100.02 (Au12, Wi11, Sp10, Au09)
+• Signals and Systems, ECE3050 (Sp24, Au23, Au22, Sp22, Au17, Au15, Au13)
+• Signals and Systems I, ECE351 (Au03, Au98, Sp94, Sp93, Sp91)
+• Signals and Systems II, ECE352 (Au10)
+• Analog & Digital Communications, ECE501 & ECE5000 (Sp23, Au19, Au18, Au16, Au11,
+Wi09, Au08)
+• Communications Laboratory, ECE508 & ECE5007 (Sp20, Sp19, Sp18, Sp17, Sp16, Sp15,
+Au14, Sp14, Wi09)
+• ECE Capstone Design, ECE4901 (Sp18, Au17)
+• ECE Design I, ECE582 (Wi03, Sp02, Wi02, Wi01, Wi00, Sp98, Wi98)
+• ECE Design II, ECE682 (Sp11, Wi10, Sp08, Wi05, Sp04, Wi04, Sp03)
+• Introduction to Digital Signal Processing, ECE600 & ECE5200 (Au21, Au20, Sp20, Sp19,
+Sp18, Sp17, Sp16, Sp15, Wi12, Wi08, Au07, Wi07, Au06, Au04, Au03, Au01, Au00, Au99,
+Au97, Wi96, Wi94, Au92, Au91)
+(Last updated January 21, ) 5
+• Signal Processing Laboratory, ECE609 & ECE5207 (Sp20, Sp15, Sp07, Sp06, Sp05, Sp03,
+Sp02, Sp01, Sp97)
+• Communication Systems, ECE702 (Sp95, Sp92)
+• Stochastic Digital Signal Processing, ECE800 (Sp00, Sp99, Wi95, Wi93, Wi92, Wi91)
+• Detection and Estimation, ECE806 (Sp06, Sp05)
+• Pattern Recognition, ECE808 (Au96, Au93)
+Books • L. Potter and Y. Yang, A Digital Communication Laboratory: Implementing a Software-
+Defined Acoustic Modem, Lulu Press, (IBSN ). Materials freely
+available at i Tunes App Store, Google Play, i Tunes U, and Mathworks Matlab Courseware.
+Journal Citation data are available at Google Scholar and Researcher ID
+Papers
+1. D. Tucker∗, S. Zhao∗and L. C. Potter, “Maximum Likelihood Estimation in Mixed Integer
+Linear Models,” IEEE Signal Processing Letters, vol. 30, pp. 1557-1561, . Software.
+DOI:10.1109/LSP..3324833
+2. D. Tucker∗, J. N. Ash and L. C. Potter, “SAR Coherent Change Detection with Variation al
+Expectation Maximization IEEE Transactions on Aerospace and Electronic Systems, vol.
+59, no. 3, pp. 2165-2175, . DOI:10.1109/TAES..3213634
+3. D. Tucker∗, S. Zhao∗, R. Ahmad and L. C. Potter, “Alias-Free Arrays IEEE Signal Pro-
+cessing Letters, vol. 29, pp. 2457-2461, . Software. DOI: 10.1109/LSP..3224834
+4. S. Zhao∗, R. Ahmad and L. C. Potter, “Venc Design and Velocity Estimation for Phase
+Contrast MRI,” in IEEE Transactions on Medical Imaging, vol. 41, no. 12, pp. 3712-3724,
+Dec. . DOI:10.1109/TMI..3193132
+5. D. Tucker∗and L. C. Potter, Polar i metric SAR De speckling with Convolutional Neural
+Networks,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12,
+. 10.1109/TGRS..3152068
+6. S. Zhao∗, L. C. Potter, and R. Ahmad, “High-dimensional fast convolutional framework
+(HICU) for calibration less MRI,” Magnetic Resonance in Medicine, vol. 86, pp. 1212–
+1225, . DOI:10.1002/mrm.2872. Software.
+7. A. Pruitt∗, A. Rich∗, Y. Liu, N. Jin, L. Potter, O. Simonetti, and R. Ahmad, “Fully Self-
+Gated Whole-Heart 4D Flow Imaging from a Five-Minute Scan,” Magnetic Resonance in
+Medicine, vol. 85, pp. 1222-1236, . DOI:10.1002/MRM.28491.
+8. D. Tucker∗and L. C. Potter, “Speckle Suppression in Multi-Channel Coherent Imaging: A
+Tractable Bayesian Approach,” IEEE Transactions on Computational Imaging, vol. 6, pp.
+1429-1439, . DOI:10.1109/TCI..3029385.
+9. J. Varghese∗, M. Smyke∗, Y. Pan∗, S. Rajpal, J. Craft, L. C. Potter, S. V. Raman, R. Ah-
+mad, R. and O. P. Simonetti, “Patient-Adaptive Magnetic Resonance Oximetry: Compar-
+ison With Invasive Catheter Measurement of Blood Oxygen Saturation in Patients With
+Cardiovascular Disease Journal of Magnetic Resonance Imaging, vol. 52, pp. 1449-1459,
+. DOI:10.1002/jmri.27179. Subject of JMRI editorial.
+10. A. Rich∗, N. Jin, Y. Liu, LC Potter, OP Simonetti, R. Ahmad, “CArtesian sampling with
+Variable density and Adjustable temporal resolution (CAVA),” Magnetic Resonance in
+Medicine, vol. 83, pp. -, . DOI:10.1002/mrm.28059. Software.
+11. A. Shi khali ev Y. Chi and L. C. Potter, “Low-Rank Structured Covariance Matrix Estima-
+tion IEEE Signal Processing Letters, vol.26, no.5, pp. 700-704, May . DOI:10.1109/LSP..2906405.
+Software.
+12. A. Rich∗, LC Potter, Ning Jin, Y. Liu, OP Simonetti, and R. Ahmad, “A Bayesian
+approach for 4D flow imaging of aortic valve in a single breath-hold,”Magnetic Resonance
+in Medicine, vol. 81, pp. 811-824, . DOI:10.1002/mrm.27386. Software.
+13. M. Riedl∗and L. C. Potter, “Multi-model shrinkage for knowledge-aided space-time adap-
+tive processing,” IEEE Transactions on Aerospace and Electronic Systems, vol. 54, issue
+5, pp. 2601-2610, October . DOI:10.1109/TAES..2813898.
+(Last updated January 21, ) 6
+14. C. Ebersole∗, R. Ahmad, A. V. Rich∗, L. C. Potter, H. Dong∗, A. Kolipaka, “A Bayesian
+Methodfor Accelerated Magnetic Resonance El as to graph y Magnetic Resonance in Medicine,
+vol. 80, issue 3, pp. 1178-1188, September . DOI:10.1002/mrm.27083.
+15. M. Riedl∗and L. C. Potter, “Knowledge-aided Bayesian space-time adaptive processing,”
+IEEE Transactions on Aerospace and Electronic Systems, vol. 54, issue 4, pp. 1850-1861,
+August . DOI:10.1109/TAES..2805141.
+16. J. Varghese∗, L. C. Potter, R. La Fountain, X. Pan, S. V. Raman, R. Ahmad, O. P. Si-
+monetti, “CMR-based blood oximetry via multi-parametric estimation using multiple T2
+measurements Journal of Cardiovascular Magnetic Resonance, vol. 19, article 88, .
+DOI:10.1186/s . Patent pending.
+17. J. da Silveira, M. Smyke, A. V. Rich∗, N. Jin, D. Scandling; Y. Liu, J. A. Dickerson,
+C. E. Rochitte, S. V. Raman, L. C. Potter, R. Ahmad, O. P. Simonetti, Quant if i cation of
 aortic stenosis diagnostic parameters in patients using a fast three-directional phase con-
-trast mri technique: comparison to unidirectional phase contrast mri and transthoracic
-echocardiography,” journal of cardiovascular magnetic resonance, vol. 19, article 35,
-. doi:10.1186/s .
-18. a. rich∗, l. c. potter, n. jin, j. ash, o. p. simonetti, r. ahmad, “a bayesian model
-for highly accelerated phase-contrast mri,” magnetic resonance in medicine, vol. 76,
-no. 2, pp. 689-701, . doi:10.1002/mrm.25904. software. us patent #10,534,059.
-19. d. gol gungor∗and l. c. potter, “a subspace-based coil combination method for parallel
-magnetic resonance imaging,” magnetic resonance in medicine vol. 75, no. 2, pp. 762-
+trast MRI technique: comparison to unidirectional phase contrast MRI and trans thoracic
+echo car dio graph y Journal of Cardiovascular Magnetic Resonance, vol. 19, article 35,
+. DOI:10.1186/s .
+18. A. Rich∗, L. C. Potter, N. Jin, J. Ash, O. P. Simonetti, R. Ahmad, “A Bayesian Model
+for Highly Accelerated Phase-Contrast MRI,” Magnetic Resonance in Medicine, vol. 76,
+no. 2, pp. 689-701, . DOI:10.1002/mrm.25904. Software. US Patent #10,534,059.
+19. D. Gol Gungor∗and L. C. Potter, “A subspace-based coil combination method for parallel
+magnetic resonance imaging,” Magnetic Resonance in Medicine vol. 75, no. 2, pp. 762-
 774, .
-20. n. goodman and l. c. potter, “pitfalls and possibilities of radar compressive sensing,”
-applied optics, vol. 54, issue 8, pp. c1-c13, march .
-21. m. riedl∗, l. c. potter c. bryant∗, and e. ertin, “joint synthetic aperture radar and space
-time adaptive processing on a single receive channel,” ieee transactions on aerospace
-and electronic systems, vol. 51, no. 1, pp. 331-341, january .
-22. j. n. ash, e. ertin, l. c. potter and e. g. zelnio, “wide-angle synthetic aperture radar
-imaging,” ieee signal processing magazine, vol. 31, no. 4, pp. 16-26, july .
-23. l. moore∗, l. potter and j. ash, “three-dimensional position accuracy in circular syn-
-thetic aperture radar,” ieee aerospace and electronic systems magazine, vol. 29, pp.
-29-40, january .
-24. f. golub∗, l. c. potter, j. n. ash, a. blank and r. ahmad, “estimation of spin-echo
-relaxation time,” journal of magnetic resonance, vol. 237, pp. 17-22, december .
-software.
-25. j. palmer∗, l. c. potter, d. h. johnson∗, j. l. zweier, and r. ahmad, “dual-scan acqui-
-sition for accelerated continuous-wave epr oximetry,” journal of magnetic resonance,
-vol. 222, pp. 53-58, september .
-26. rizwan ahmad, lee c. potter, and valery v. khramtsov, “spectral modeling for acceler-
-ated ph spectroscopy using epr,” journal of magnetic resonance, vol. 2817, pp. 86-92,
-may .
-27. r. ahmad, s. som∗, d. h. johnson∗, j. l. zweier, p. kuppusamy, l. c. potter, “multisite
-epr oximetry from multiple quadrature harmonics,”journal of magnetic resonance, vol.
-212, pp. 135-143, january .
-28. kerry e. dungan∗and lee c. potter, “classifying vehicles in wide-angle radar using
-pyramid match hashing,” ieee journal of selected topics in signal processing, vol. 5,
-no. 3, pp. 577-591, june .
-29. jason palmer∗, lee c. potter and rizwan ahmad, “optimization of magnetic field sweep
-and field modulation amplitude for continuous-wave epr oximetry,”journal of magnetic
-resonance, vol. 209, no. 2, pp. 337-340, april .
-30. kerry e. dungan∗and lee c. potter, “three-dimensional imaging of vehicles with wide-
-(last updated january 21, ) 7
-angle synthetic aperture radar,” ieee transactions on aerospace and electronic sys-
-tems, vol. 47, no. 1, pp. 187-200, january .
-31. r. ahmad, s. som∗, e. kesselring, p. kuppusamy, j.l. zweier, l.c. potter, “digital
-detection and processing of multiple quadrature harmonics for epr spectroscopy,”
-journal of magnetic resonance, vol. 207, issue 2, pp. 322-331, december .
-32. r. ahmad, g. caia, l.c. potter, s. petryakov, p. kuppusamy, and j.l. zweier, “in vivo
-multisite oximetry using epr-nmr co-imaging,” journal of magnetic resonance, vol.
-207, issue 1, pp. 69-77, november .
-33. kerry e. dungan∗and lee c. potter, “classifying sets of transformation-variant at-
-tributed point patterns,” pattern recognition, vol. 43, issue 11, pp. 3805–3816, novem-
+20. N. Goodman and L. C. Potter, “Pitfalls and Possibilities of Radar Compressive Sensing,”
+Applied Optics, vol. 54, issue 8, pp. C1-C13, March .
+21. M. Riedl∗, L. C. Potter C. Bryant∗, and E. Ertin, “Joint synthetic aperture radar and space
+time adaptive processing on a single receive channel,” IEEE Transactions on Aerospace
+and Electronic Systems, vol. 51, no. 1, pp. 331-341, January .
+22. J. N. Ash, E. Ertin, L. C. Potter and E. G. Zelnio, “Wide-angle synthetic aperture radar
+imaging,” IEEE Signal Processing Magazine, vol. 31, no. 4, pp. 16-26, July .
+23. L. Moore∗, L. Potter and J. Ash, “Three-dimensional position accuracy in circular syn-
+thetic aperture radar,” IEEE Aerospace and Electronic Systems Magazine, vol. 29, pp.
+29-40, January .
+24. F. Golub∗, L. C. Potter, J. N. Ash, A. Blank and R. Ahmad, “Estimation of spin-echo
+relaxation time,” Journal of Magnetic Resonance, vol. 237, pp. 17-22, December .
+Software.
+25. J. Palmer∗, L. C. Potter, D. H. Johnson∗, J. L. Zweier, and R. Ahmad, “Dual-scan acqui-
+sition for accelerated continuous-wave EPR oximetry,” Journal of Magnetic Resonance,
+vol. 222, pp. 53-58, September .
+26. Rizwan Ahmad, Lee C. Potter, and Valery V. Khramtsov, “Spectral modeling for acceler-
+ated p H spectroscopy using EPR,” Journal of Magnetic Resonance, vol. 2817, pp. 86-92,
+May .
+27. R. Ahmad, S. Som∗, D. H. Johnson∗, J. L. Zweier, P. Kuppusamy, L. C. Potter, “Multisite
+EPR oximetry from multiple quadrature harmonics Journal of Magnetic Resonance, vol.
+212, pp. 135-143, January .
+28. Kerry E. Dungan∗and Lee C. Potter, “Classifying Vehicles in Wide-angle Radar using
+Pyramid Match Hashing,” IEEE Journal of Selected Topics in Signal Processing, vol. 5,
+no. 3, pp. 577-591, June .
+29. Jason Palmer∗, Lee C. Potter and Rizwan Ahmad, “Optimization of magnetic field sweep
+and field modulation amplitude for continuous-wave EPR oxime try Journal of Magnetic
+Resonance, vol. 209, no. 2, pp. 337-340, April .
+30. Kerry E. Dungan∗and Lee C. Potter, “Three-dimensional Imaging of Vehicles with Wide-
+(Last updated January 21, ) 7
+angle Synthetic Aperture Radar,” IEEE Transactions on Aerospace and Electronic Sys-
+tems, vol. 47, no. 1, pp. 187-200, January .
+31. R. Ahmad, S. Som∗, E. Kessel ring P. Kuppusamy, J. L. Zweier, L. C. Potter, “Digital
+Detection and Processing of Multiple Quadrature Harmonics for EPR Spectroscopy,”
+Journal of Magnetic Resonance, vol. 207, issue 2, pp. 322-331, December .
+32. R. Ahmad, G. Caia, L. C. Potter, S. Petryakov, P. Kuppusamy, and J. L. Zweier, “In Vivo
+Multisite Oximetry using EPR-NMR Co-imaging,” Journal of Magnetic Resonance, vol.
+207, issue 1, pp. 69-77, November .
+33. Kerry E. Dungan∗and Lee C. Potter, “Classifying Sets of Transformation-variant At-
+tributed Point Patterns,” Pattern Recognition, vol. 43, issue 11, pp. 3805–3816, Novem-
 ber .
-34. lee c. potter, emre ertin, jason t. parker∗, and mujdat cetin, “sparsity and compressed
-sensing in radar imaging,”proceedings ieee, vol. 98, issue 6, pp. 1006–1020, june .
-thomson reuters highly cited paper.listed on ieeexplore top 100 downloads,
-june .
-35. emre ertin, lee c. potter and randolph l. moses, “interferometric methods for 3-d
-target reconstruction with multi-pass circular synthetic aperture radar,” iet radar,
-sonar & navigation, vol. 4, issue 3, pp. 464–473, june .
-36. joel t. johnson and lee c. potter, “a study of algorithms for detecting pulsed sinusoidal
-interference in microwave radiometry,” ieee transactions on geoscience and remote
-sensing, vol. 47, no. 2, pp. 628-636, .
-37. subhojit som∗, lee c. potter, rizwan ahmad∗, deepti s. vikram∗, and periannan kup-
-pusamy, “epr oximetry in three dimensions using sparse spin distribution,” journal
-of magnetic resonance, vol. 193, issue 2, pp. 210–217, august .
-38. rizwan ahmad∗, deepti s. vikram∗, lee c. potter and periannan kuppusamy,“analysis
-of a composite epr spectrum for accurate po2 measurements,” journal of magnetic
-resonance, vol. 192, issue 2, pp. 269-274, june .
-39. rizwan ahmad∗, deepti s. vikram∗, bradley clymer, lee c. potter, yuanmu deng,
-parthasarathy srinivasan∗, jay l. zweier and periannan kuppusamy, “uniform distribu-
-tion of projection data for improved reconstruction quality of 4d epr imaging,” journal
-of magnetic resonance, vol. 187, issue 2, pp. 277–287, august .
-40. subhojit som∗, lee c. potter, rizwan ahmad∗, and periannan kuppusamy, “a para-
-metric approach to spectral-spatial epr imaging,” journal of magnetic resonance, vol.
-186, issue 1, pp. 1–10, may .
-41. ravikiran rajagopal∗and lee c. potter, “a generic effective nullstellensatz,” linear al-
-gebra and its applications, vol. 397, pp. 1–15, march .
-42. ravikiran rajagopal∗and lee c. potter, “multi-variate mimo fir inverses,”ieee trans-
-actions on image processing, vol. 12, no. 4, pp. 458–465, april .
-43. ravikiran rajagopal∗and lee c. potter, “multi-channel multi-variate equalizer design,”
-multidimensional systems and signal processing, vol. 14, pp. 105–118, january .
-44. ashutosh sabharwal∗and lee c. potter, “wald statistics for selection of nested nonlin-
-ear models,” ieee transactions on signal processing, vol. 50, no. 4, pp. 956–965, april
+34. Lee C. Potter, Emre Ertin, Jason T. Parker∗, and Mujdat Cetin, “Sparsity and Compressed
+Sensing in Radar Imaging Proceedings IEEE, vol. 98, issue 6, pp. 1006–1020, June .
+Thomson Reuters Highly Cited Paper. Listed on IEEExplore Top 100 Downloads,
+June .
+35. Emre Ertin, Lee C. Potter and Randolph L. Moses, Inter fer o metric Methods for 3-D
+Target Reconstruction with Multi-Pass Circular Synthetic Aperture Radar,” IET Radar,
+Sonar & Navigation, vol. 4, issue 3, pp. 464–473, June .
+36. Joel T. Johnson and Lee C. Potter, “A study of algorithms for detecting pulsed sinusoidal
+interference in microwave radiometry,” IEEE Transactions on Geoscience and Remote
+Sensing, vol. 47, no. 2, pp. 628-636, .
+37. Subhojit Som∗, Lee C. Potter, Rizwan Ahmad∗, Deepti S. Vikram∗, and Periannan Kup-
+pusamy, “EPR Oximetry in Three Dimensions using Sparse Spin Distribution,” Journal
+of Magnetic Resonance, vol. 193, issue 2, pp. 210–217, August .
+38. Rizwan Ahmad∗, Deepti S. Vikram∗, Lee C. Potter and Periannan K up pusa my Analysis
+of a Composite EPR Spectrum for Accurate p O2 Measurements,” Journal of Magnetic
+Resonance, vol. 192, issue 2, pp. 269-274, June .
+39. Rizwan Ahmad∗, Deepti S. Vikram∗, Bradley Clymer, Lee C. Potter, Yuanmu Deng,
+Part has ara thy Srinivasa n Jay L. Zweier and Periannan Kuppusamy, “Uniform distribu-
+tion of projection data for improved reconstruction quality of 4D EPR imaging,” Journal
+of Magnetic Resonance, vol. 187, issue 2, pp. 277–287, August .
+40. Subhojit Som∗, Lee C. Potter, Rizwan Ahmad∗, and Periannan Kuppusamy, “A para-
+metric approach to spectral-spatial EPR imaging,” Journal of Magnetic Resonance, vol.
+186, issue 1, pp. 1–10, May .
+41. Ravikiran Raja gopal and Lee C. Potter, “A generic effective Null st ellens atz Linear Al-
+gebra and its Applications, vol. 397, pp. 1–15, March .
+42. Ravikiran Raja gopal and Lee C. Potter, “Multi-Variate MIMO FIR Inverses IEEE Trans-
+actions on Image Processing, vol. 12, no. 4, pp. 458–465, April .
+43. Ravikiran Raja gopal and Lee C. Potter, “Multi-Channel Multi-Variate Equalizer Design,”
+Multidimensional Systems and Signal Processing, vol. 14, pp. 105–118, January .
+44. Ashutosh Sabha r wal and Lee C. Potter, “Wald Statistics for Selection of Nested Nonlin-
+ear Models,” IEEE Transactions on Signal Processing, vol. 50, no. 4, pp. 956–965, April
 .
-45. hung-chih chiang∗, randolph l. moses, and lee c. potter, “model-based bayesian
-feature matching,” pattern recognition, vol. 34, no. 8, pp. 1539–1553, august .
-46. ashutosh sabharwal∗, dan avidor, and lee c. potter, “sector beam synthesis for cellular
-systems using phased antenna arrays,”ieee transactions on vehicular technology, vol.
-49, no. 5, pp. 1784–1792, september . us patent #6,127,972
-47. hung-chih chiang∗, randolph l. moses, and lee c. potter, “model-based classification
-of radar images,” ieee transactions on information theory, vol. 46, no. 5, pp. 1842–
-1854, august .
-(last updated january 21, ) 8
-48. emre ertin∗and lee c. potter, “polarimetric classification of scattering centers using
-m-ary bayesian decision rules,”ieee transactions on aerospace and electronic systems,
-vol. 36, no. 3, pp. 738–749, july .
-49. michael iverson∗, fusuno¨zgu¨ner, lee c. potter, “statistical prediction of task execution
-times through analytic benchmarking for scheduling in a heterogeneous environment,”
-ieee transactions on computers, vol. 48, no. 12, pp. 1374–1379, december .
-50. michael j. gerry∗, lee c. potter, inder j. gupta, and andria van der merwe∗, “a para-
-metric model for synthetic aperture radar measurements,” ieee transactions on an-
-tennas and propagation, vol. 47, no. 7, pp. 1179–1188, july .
-51. ching-hui ying∗and lee c. potter, “minimum variance linear estimation of amplitudes
-for exponential signal models,” ieee transactions on signal processing, vol. 47, no. 9,
-pp. 2522–2525, september .
-52. e. ertin∗and l. c. potter, “polarimetric imaging for wide band synthetic aperture
-radar,” iee proceedings – radar, sonar and navigation, vol. 145, no. 5, pp. 275–280,
-october .
-53. ashutosh sabharwal∗and lee c. potter, “convexly constrained linear inverse problems:
-iterative least-squares and regularization,”ieee transactions on signal processing, vol.
-46, no. 9, pp. 2345–2352, september .
-54. ashutosh sabharwal∗and lee c. potter, “set estimation via ellipsoidal approximations,”
-ieee transactions on signal processing, vol. 45, no. 12, pp. 3107–3112, december .
-55. timothy r. miller∗, john mccorkle and lee c. potter, “radio frequency interference
-suppression for foliage penetrating radar imaging,”ieee transactions on aerospace and
-electronic systems, vol. 33, no. 4, pp. 1142–1156, october .
-56. lee c. potter and randolph l. moses, “attributed scattering centers for sar atr,”
-ieee transactions on image processing, vol. 6, no. 1, pp. 79–91, january .
-57. lee c. potter, da-ming chiang∗, rob carri`ere∗, and michael gerry∗, “a gtd-based
-parametric model for radar scattering,” ieee transactions on antennas and propaga-
-tion, vol. 43, no. 10, pp. 1058–1067, october .
-58. da-ming chiang∗and lee c. potter, “graph covering index assignment in vector quan-
-tisation for noisy channels,” iee electronics letters, vol. 31, no. 18, pp. 1550–1552,
-august .
-59. lee c. potter and da-ming chiang∗, “minimax nonredundant channel coding,” ieee
-transactions on communications, vol. 43, no. 2/3/4, pp. 804–811, february/march/april
+45. Hung-Chih Chiang∗, Randolph L. Moses, and Lee C. Potter, “Model-Based Bayesian
+Feature Matching,” Pattern Recognition, vol. 34, no. 8, pp. 1539–1553, August .
+46. Ashutosh Sabha r wal Dan Avidor, and Lee C. Potter, “Sector Beam Synthesis for Cellular
+Systems using Phased Antenna Arrays IEEE Transactions on Vehicular Technology, vol.
+49, no. 5, pp. 1784–1792, September . US Patent #6,127,972
+47. Hung-Chih Chiang∗, Randolph L. Moses, and Lee C. Potter, “Model-Based Classification
+of Radar Images,” IEEE Transactions on Information Theory, vol. 46, no. 5, pp. 1842–
+1854, August .
+(Last updated January 21, ) 8
+48. Emre Ertin∗and Lee C. Potter, Polar i metric Classification of Scattering Centers using
+M-ary Bayesian Decision Rules IEEE Transactions on Aerospace and Electronic Systems,
+vol. 36, no. 3, pp. 738–749, July .
+49. Michael Iverson∗, Fusun O¨zgu¨ner, Lee C. Potter, “Statistical Prediction of Task Execution
+Times Through Analytic Benchmarking for Scheduling in a Heterogeneous Environment,”
+IEEE Transactions on Computers, vol. 48, no. 12, pp. 1374–1379, December .
+50. Michael J. Gerry∗, Lee C. Potter, Inder J. Gupta, and Andria van der Merwe∗, “A Para-
+metric Model for Synthetic Aperture Radar Measurements,” IEEE Transactions on An-
+tennas and Propagation, vol. 47, no. 7, pp. 1179–1188, July .
+51. Ching-Hui Ying∗and Lee C. Potter, “Minimum Variance Linear Estimation of Amplitudes
+for Exponential Signal Models,” IEEE Transactions on Signal Processing, vol. 47, no. 9,
+pp. 2522–2525, September .
+52. E. Ertin∗and L. C. Potter, Polar i metric Imaging for Wide Band Synthetic Aperture
+Radar,” IEE Proceedings – Radar, Sonar and Navigation, vol. 145, no. 5, pp. 275–280,
+October .
+53. Ashutosh Sabha r wal and Lee C. Potter, “Convexly Constrained Linear Inverse Problems:
+Iterative Least-Squares and Regular iz ation IEEE Transactions on Signal Processing, vol.
+46, no. 9, pp. 2345–2352, September .
+54. Ashutosh Sabha r wal and Lee C. Potter, “Set Estimation via Ellipsoidal Approximations,”
+IEEE Transactions on Signal Processing, vol. 45, no. 12, pp. 3107–3112, December .
+55. Timothy R. Miller∗, John Mc Corkle and Lee C. Potter, “Radio Frequency Interference
+Suppression for Foliage Penetrating Radar Imaging IEEE Transactions on Aerospace and
+Electronic Systems, vol. 33, no. 4, pp. 1142–1156, October .
+56. Lee C. Potter and Randolph L. Moses, “Attributed Scattering Centers for SAR ATR,”
+IEEE Transactions on Image Processing, vol. 6, no. 1, pp. 79–91, January .
+57. Lee C. Potter, Da-Ming Chiang∗, Rob Carri ere and Michael Gerry∗, “A GTD-Based
+Parametric Model for Radar Scattering,” IEEE Transactions on Antennas and Propaga-
+tion, vol. 43, no. 10, pp. 1058–1067, October .
+58. Da-Ming Chiang∗and Lee C. Potter, “Graph Covering Index Assignment in Vector Quan-
+tisation for Noisy Channels,” IEE Electronics Letters, vol. 31, no. 18, pp. 1550–1552,
+August .
+59. Lee C. Potter and Da-Ming Chiang∗, “Minimax Non redundant Channel Coding,” IEEE
+Transactions on Communications, vol. 43, no. 2/3/4, pp. 804–811, February March April
 .
-60. daniel f. stewart∗, lee c. potter, and stanley c. ahalt, “computationally attractive
-real gabor transforms,” ieee transactions on signal processing, vol. 43, no. 1, pp.
-77–84, january .
-61. lee c. potter and k. s. arun, “a dual approach to linear inverse problems with convex
-constraints,” siam journal of control and optimization, vol. 31, no. 4, pp. 1080–1092,
-july .
-62. k. s. arun and lee c. potter, “existence and uniqueness of band-limited, positive
-semidefinite sequences,”ieee transactions on acoustics, speech, and signal processing,
-vol. assp-38, no. 3, pp. 547–549, march .
-63. lee c. potter and k. s. arun, “energy concentration in band-limited extrapolation,”
-ieee transactions on acoustics, speech, and signal processing, vol. assp-37, no. 7, pp.
-1027–1041, july .
-patents 1. s. zhao∗, l. potter, and r. ahmad. “venc design and velocity estimation for phase-
-& pending contrast mri.” application 63/324,133, filed march 27, .
-2. s. zhao∗, l. potter, and r. ahmad. “high-dimensional fast convolutional framework
-(hicu) for calibrationless mri.” application no. 63/141,520, filed january 26, .
-3. o.p. simonetti, l.c. potter, r. ahmad, and j. varghese∗. “magnetic resonance imaging
-(last updated january 21, ) 9
-method to non-invasively measure blood oxygen saturation.” us patent #11,026,606.
-filed january 26, . awarded june 8, .
-4. a. rich∗; l. potter, r. ahmad, o. simonetti, n. jin, and j. ash. “a bayesian model for
-highly accelerated phase-contrast mri.” us patent#10,534,059. awarded january 14,
-. filed may 20, .
-5. r. ahmad, o. simonetti, l. potter, a. rich∗, and s. ting∗. “low-field mri scanner for
-cardiac imaging.” us patent #10,345,408, awarded july 9, .
-6. r. ahmad, o. simonetti, l. potter, a. rich∗, and s. ting∗. “low-field mri scanner for
-cardiac imaging.” us patent #9,874,620, awarded january 23, .
-conference 1. s zhao∗, r ahmad, lc potter, “maximizing unambiguous velocity range in phase-
-papers contrast mri with multipoint encoding.” ieee 19th international symposium on
-(selected) biomedical imaging (isbi), 1-5, doi: 10.1109/tmi. .3193132.
-2. s zhao∗, r ahmad, lc potter, “calibrationless mri reconstruction with a plug-in de-
-noiser,” ieee 18th international symposium on biomedical imaging (isbi), 1846-
-1849. doi: 10.1109/isbi48211. .9433815.
-3. s. zhao∗, l.c. potter, k. lee, and r . ahmad, “convolutional framework for accelerated
-magnetic resonance imaging,” ieee 17th international symposium on biomedical
-imaging (isbi), 1-4. doi:10.1109/isbi45749. .9098393.
-4. s. zhao∗, l.c. potter, and r . ahmad, “low-rank tensor completion for accelerated
-magnetic resonance imaging,” ismrm & smrt virtual conference, 8-14 august .
-online.
-5. a.a. pruitt∗, a. rich∗, y. liu, n. jin, lc potter, op simonetti, and r. ahmad, “self-
-gated 5-minute whole heart 4d flow imaging,” ismrm 27th annual meeting & exhibition,
-11-16 may , montreal, qc, canada
-6. a. rich∗, y. liu, lc potter, n. jin, op simonetti, r. ahmad, “4d flow assessment of
-aortic valve stenosis in a single breath-hold,” ismrm 27th annual meeting & exhibi-
-tion, 11-16 may , montreal, qc, canada
-7. s. zhao∗, lee potter, ning jin, y. liu, op simonetti, r. ahmad, “pc-mri with phase
-recovery from multiple wrapped measurements (prom).” 26th ismrm meeting & ex-
-hibition, june . (summa cum laude: top 5% of submissions)
-8. j. varghese∗, l. desai, r. ahmad, l. potter, ning jin, c. rigsby, p. tannous, a. arm-
-strong, m. markl, k. hor, s. raman, o. simonetti, “non-invasive mr-based blood oxime-
+60. Daniel F. Stewart∗, Lee C. Potter, and Stanley C. Ahalt, “Computationally Attractive
+Real Gabor Transforms,” IEEE Transactions on Signal Processing, vol. 43, no. 1, pp.
+77–84, January .
+61. Lee C. Potter and K. S. Arun, “A Dual Approach to Linear Inverse Problems with Convex
+Constraints,” SIAM Journal of Control and Optimization, vol. 31, no. 4, pp. 1080–1092,
+July .
+62. K. S. Arun and Lee C. Potter, “Existence and Uniqueness of Band-Limited, Positive
+Semi definite Sequences IEEE Transactions on Acoustics, Speech, and Signal Processing,
+vol. ASSP-38, no. 3, pp. 547–549, March .
+63. Lee C. Potter and K. S. Arun, “Energy Concentration in Band-Limited Extrapolation,”
+IEEE Transactions on Acoustics, Speech, and Signal Processing, vol. ASSP-37, no. 7, pp.
+1027–1041, July .
+Patents 1. S. Zhao∗, L. Potter, and R. Ahmad. “Venc Design and Velocity Estimation for Phase-
+& Pending Contrast MRI.” Application 63 324 133 filed March 27, .
+2. S. Zhao∗, L. Potter, and R. Ahmad. “High-dimensional Fast Convolutional Framework
+(HICU) for Calibration less MRI.” Application No. 63 141 520 filed January 26, .
+3. O. P. Simonetti, L. C. Potter, R. Ahmad, and J. Varghese∗. “Magnetic resonance imaging
+(Last updated January 21, ) 9
+method to non-invasively measure blood oxygen saturation.” US Patent #11,026,606.
+Filed January 26, . Awarded June 8, .
+4. A. Rich∗; L. Potter, R. Ahmad, O. Simonetti, N. Jin, and J. Ash. “A Bayesian Model for
+Highly Accelerated Phase-Contrast MRI.” US Patent#10,534,059. Awarded January 14,
+. Filed May 20, .
+5. R. Ahmad, O. Simonetti, L. Potter, A. Rich∗, and S. Ting∗. “Low-Field MRI Scanner for
+Cardiac Imaging.” US Patent 10 345 408 Awarded July 9, .
+6. R. Ahmad, O. Simonetti, L. Potter, A. Rich∗, and S. Ting∗. “Low-Field MRI Scanner for
+Cardiac Imaging.” US Patent 9 874 620 Awarded January 23, .
+Conference 1. S Zhao∗, R Ahmad, LC Potter, “Maximizing Unambiguous Velocity Range in Phase-
+Papers Contrast MRI with Multipoint Encoding.” IEEE 19th International Symposium on
+(Selected) Biomedical Imaging (ISBI), 1-5, DOI: 10.1109/TMI..3193132.
+2. S Zhao∗, R Ahmad, LC Potter, Calibration less MRI Reconstruction with a Plug-in De-
+noiser,” IEEE 18th International Symposium on Biomedical Imaging (ISBI), 1846-
+1849. DOI: 10.1109/ISBI48211..9433815.
+3. S. Zhao∗, L. C. Potter, K. Lee, and R . Ahmad, “Convolutional Framework for Accelerated
+Magnetic Resonance Imaging,” IEEE 17th International Symposium on Biomedical
+Imaging (ISBI), 1-4. DOI:10.1109/ISBI45749..9098393.
+4. S. Zhao∗, L. C. Potter, and R . Ahmad, “Low-Rank Tensor Completion for Accelerated
+Magnetic Resonance Imaging,” ISMRM & SMRT Virtual Conference, 8-14 August .
+Online.
+5. A. A. Pruitt∗, A. Rich∗, Y. Liu, N. Jin, LC Potter, OP Simonetti, and R. Ahmad, “Self-
+gated 5-minute whole heart 4D flow imaging,” ISMRM 27th Annual Meeting & Exhibition,
+11-16 May , Montreal, QC, Canada
+6. A. Rich∗, Y. Liu, LC Potter, N. Jin, OP Simonetti, R. Ahmad, “4D Flow Assessment of
+Aortic Valve Stenosis in a Single Breath-Hold,” ISMRM 27th Annual Meeting & Exhibi-
+tion, 11-16 May , Montreal, QC, Canada
+7. S. Zhao∗, Lee Potter, Ning Jin, Y. Liu, OP Simonetti, R. Ahmad, “PC-MRI with Phase
+Recovery from Multiple Wrapped Measurements (PRo M).” 26th ISMRM Meeting & Ex-
+hibition, June . (summa cum laude: top 5% of submissions)
+8. J. Varghese∗, L. Desai, R. Ahmad, L. Potter, Ning Jin, C. Rigsby, P. Tannous, A. Arm-
+strong, M. Markl, K. Hor, S. Raman, O. Simonetti, “Non-invasive MR-based blood oxime-
 try via multi-parametric, non-linear estimation: initial multi-center experience in adult and
-pediatric patients.” 26th ismrm meeting & exhibition, june .
-9. j. varghese∗, r. ahmad, s. raman, l. potter, o. simonetti, “non-invasive quantitative
-estimation of blood oxygen saturation with mri: feasibility of machine learning.” 26th
-ismrm meeting & exhibition, june .
-10. a. rich∗, ning jin, y. liu, l. potter, o. simonetti, r. ahmad, “cartesian sampling with
-variable density and adjustable temporal resolution (cava) .” 26th ismrm meeting &
-exhibition, june .
-11. a.v. rich∗, et al., “a bayesian approach to enable single breath-hold 4d flow mri,”
-ismrm 25th annual meeting & exhibition, honolulu, hi, april 22-27, . (ismrm
+pediatric patients.” 26th ISMRM Meeting & Exhibition, June .
+9. J. Varghese∗, R. Ahmad, S. Raman, L. Potter, O. Simonetti, “Non-invasive quantitative
+estimation of blood oxygen saturation with MRI: feasibility of machine learning.” 26th
+ISMRM Meeting & Exhibition, June .
+10. A. Rich∗, Ning Jin, Y. Liu, L. Potter, O. Simonetti, R. Ahmad, “CArtesian sampling with
+Variable density and Adjustable temporal resolution (CAVA) .” 26th ISMRM Meeting &
+Exhibition, June .
+11. A. V. Rich∗, et al., “A Bayesian Approach to Enable Single Breath-Hold 4D Flow MRI,”
+ISMRM 25th Annual Meeting & Exhibition, Honolulu, HI, April 22-27, . (ISMRM
 merit award, magna cum laude.)
-12. c. ebersole∗, r. ahmad, a. rich∗, l. potter, a. kolipaka, “highly accelerated magnetic
-resonance elastography via bayesian modeling,” 25th ismrm meeting & exhibition, april
+12. C. Ebersole∗, R. Ahmad, A. Rich∗, L. Potter, A. Kolipaka, “Highly accelerated magnetic
+resonance el as to graph y via Bayesian modeling,” 25th ISMRM Meeting & Exhibition, April
 .
-13. juliet varghese∗, rizwan ahmad, lee c. potter, orlando p. simonetti, “a calibration-
-free method to estimate blood oxygen saturation,” smra 28th annual international
-conference, chicago, il, september 21-23, .
-14. a. rich∗, et al., “joint processing of highly accelerated multi-directional pc-mri data
-using reveal,” ismrm 24th annual meeting & exhibition, singapore, may 7-13, .
-(last updated january 21, ) 10
-(selected for power pitch; only 165 out of 5,915 abstracts submitted.)
-15. j. varghese∗, et al., “non-invasive blood oxygen saturation measurement by a calibration-
-free mri method,” circulation 134 (suppl 1) a15125-a15125, . (abstract appears
+13. Juliet Varghese∗, Rizwan Ahmad, Lee C. Potter, Orlando P. Simonetti, “A calibration-
+free method to estimate blood oxygen saturation,” SMRA 28th Annual International
+Conference, Chicago, IL, September 21-23, .
+14. A. Rich∗, et al., “Joint Processing of Highly Accelerated Multi-Directional PC-MRI Data
+Using Re VEAL,” ISMRM 24th Annual Meeting & Exhibition, Singapore, May 7-13, .
+(Last updated January 21, ) 10
+(Selected for Power Pitch; only 165 out of 5,915 abstracts submitted.)
+15. J. Varghese∗, et al., “Non-invasive blood oxygen saturation measurement by a calibration-
+free MRI method,” Circulation 134 (Suppl 1) A15125-A15125, . (Abstract appears
 in a supplement to the journal.)
-16. j. varghese∗, et al., “venous oxygen saturation estimation from multiple t2 maps with
-varying inter-echo spacing,” 19th annual scientific sessions of society for cardiovascular
-magnetic resonance (scmr), los angeles, ca, january 27-30, . abstract appears
-in journal of cardiovascular magnetic resonance vol. 18 (suppl 1):w29.
-17. da silveira, et al., “highly accelerated phase-contrast mri-based multi-directional flow
-imaging for peak velocity estimation in aortic stenosis patients,” 19th annual scientific
-sessions of society for cardiovascular magnetic resonance (scmr), los angeles, ca,
-january 27-30, . abstract appears in journal of cardiovascular magnetic resonance
-vol. 18 (suppl 1):w22.
-18. a. rich∗, et al., “factor graphs for inverse problems: accelerated phase contrast mag-
-netic resonance imaging,” ieee international conference on image processing (icip
-), 27-30 september, quebec city, canada. (selected for show-n-tell demon-
+16. J. Varghese∗, et al., “Venous oxygen saturation estimation from multiple T2 maps with
+varying inter-echo spacing,” 19th Annual Scientific Sessions of Society for Cardiovascular
+Magnetic Resonance (SCMR), Los Angeles, CA, January 27-30, . Abstract appears
+in Journal of Cardiovascular Magnetic Resonance vol. 18 (Suppl 1):W29.
+17. Da Silveira, et al., “Highly accelerated phase-contrast MRI-based multi-directional flow
+imaging for peak velocity estimation in aortic stenosis patients,” 19th Annual Scientific
+Sessions of Society for Cardiovascular Magnetic Resonance (SCMR), Los Angeles, CA,
+January 27-30, . Abstract appears in Journal of Cardiovascular Magnetic Resonance
+vol. 18 (Suppl 1):W22.
+18. A. Rich∗, et al., “Factor Graphs for Inverse Problems: Accelerated Phase Contrast Mag-
+netic Resonance Imaging,” IEEE International Conference on Image Processing (ICIP
+), 27-30 September, Quebec City, Canada. (Selected for Show-N-Tell demon-
 stration session: 10% of 1270 manuscripts.)
-19. a. rich∗, et al., “a bayesian approach for accelerated phase-contrast mri,” ismrm
-23rd annual meeting & exhibition, toronto, ontario, canada (selected for power pitch:
+19. A. Rich∗, et al., “A Bayesian Approach for Accelerated Phase-contrast MRI,” ISMRM
+23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada (Selected for Power Pitch:
 2.7% of 6038 manuscripts.)
-20. m. riedl∗and l. c. potter, “knowledge-aided gmti in a bayesian framework,”
-ieee international radar conference.
-21. m. riedl∗and l. c. potter, “knowledge-aided gmti in a bayesian framework,” spie
-proceedings vol. 9475: algorithms for synthetic aperture radar imagery xxii, may .
-22. d. gol gungor∗, r. ahmad, and l. c. potter, “a subspace approach to blind coil sen-
-sitivity estimation in parallel mri,” journal of cardiovascular magnetic resonance 16
-(suppl 1), w1. abstract, 17th annual scmr scientific sessions, january 16-19, ,
-new orleans, la. 10.1186/1532-429x-16-s1-w1.
-23. r. ahmad, l. c. potter, and p. kuppusamy, “multisite epr oximetry using multiple
-field modulation harmonics,”53rd rocky mountain conference for analytical chemistry
-(epr symposium), july .
-24. r. ahmad, c. austin, and l. c. potter, “toeplitz embedding for fast iterative regularized
-imaging,” algorithms for synthetic aperture radar imagery xviii, proc. spie, e. g.
-zelnio and f. d. garber, eds., apr. .
-25. f. lee-elkin∗and l.c. potter, yan algorithm for wide aperture 3d sar imaging with
-measured data,” algorithms for synthetic aperture radar imagery xviii, proc. spie, e.
-g. zelnio and f. d. garber, eds., apr. .
-26. c. bryant∗, e. ertin and l.c. potter, “combining synthetic aperture radar and space-time
-adaptive processing using a single-receive channel,” algorithms for synthetic aperture
-radar imagery xviii, proc. spie, e. g. zelnio and f. d. garber, eds., apr. .
-27. j. parker∗, lj moore, lc potter, “resolution and side-lobe structure analysis for rf
-tomography,” ieee radar conference.
-28. e. ertin, l.c. potter, and r.l. moses, “sparse target recovery performance of multi-
-frequency chirp waveforms,” 9th european signal processing conference (eusipco
-). print issn: -1465.
-29. d. gol∗and l.c. potter, “ambiguity and regularization in parallel mri,” embc ,
-pp. 2829-2832. doi:10.1109/iembs. .6090782.
-30. s. som∗, l. c. potter, and p.schniter, “compressive imaging using approximate message
-passing and a markov-tree prior,” proceedings of the asilomar conference on signals,
-systems, and computers, (pacific grove, ca), nov. .
-31. j. ziniel∗, l. c. potter, and p. schniter, “tracking and smoothing of time-varying sparse
-(last updated january 21, ) 11
-signals via approximate belief propagation,”proceedings of the asilomar conference on
-signals, systems, and computers, (pacific grove, ca), nov. .
-32. k. e. dungan∗and l. c. potter, “effects of polarization on wide-angle sar classification
-performance,” proceedings ieee national aerospace & electronics conference, dayton,
-oh, jul. .
-33. s. som∗, l. c. potter, and p. schniter, “on approximate message passing for recon-
-struction of non-uniformly sparse signals,” proceedings ieee national aerospace &
-electronics conference, dayton, oh, jul. .
-34. j. t. parker∗and l. c. potter, “bayesian perspective on sparse regularization for stap
-post-processing,” proceedings ieee radar conference, may .
-35. r. ahmad, l. c. potter and p. kuppusamy, “nested uniform sampling for multi-resolution
-3-d tomography,” proceedings ieee international conference on acoustics, speech, and
-signal processing (icassp ’10), dallas, apr. .
-36. k.e. dungan∗, c. austin∗, j. nehrbass, and l.c. potter,“civilian vehicle radar data
-domes,” algorithms for synthetic aperture radar imagery xvii, proc. spie, e. g. zelnio
-and f. d. garber, eds., apr. . doi:10.1117/12.823462. data set.
-37. k.e. dungan∗and l.c. potter,“classifying sets of attributed scattering centers using a
-hash coded database,” algorithms for synthetic aperture radar imagery xvii, proc.
-spie, e. g. zelnio and f. d. garber, eds., apr. . student best paper award
-doi:10.1117/12.823462.
-38. l.c. potter, p. schniter, and j. ziniel∗, “sparse reconstruction for radar,” algorithms
-for synthetic aperture radar imagery xv, proc. spie, e. g. zelnio and f. d. garber,
-eds., vol. 6970, . doi:10.1117/12.786286.
-39. p. schniter, l.c. potter, and j. ziniel∗, “fast bayesian matching pursuit,” information
-theory and applications workshop, pp. 326-333, .doi:10.1109/ita. .4601068.
-40. e. ertin, c.d. austin∗, s. sharma∗, r.l. moses and l.c. potter, “gotcha experience
-report: three-dimensional sar imaging with complete circular apertures,” algorithms for
-synthetic aperture radar imagery xiv, proc. spie, e. g. zelnio and f. d. garber, eds.,
-vol. 6568, , p. 656802. doi:10.1117/12.723245.
-41. r.l. moses, l.c. potter, and m. cetin, “wide-angle sar imaging,” proc spie vol.
-5427, pp. 164-175, algorithms for synthetic aperture radar imagery xi; e. g. zelnio and
-f. d. garber, eds. (april ). doi:10.1117/12.544935.
-42. j.n. ash∗and l.c. potter, “sensor network localization via received signal strength mea-
-surements with directional antennas,” 42nd annual allerton conference on communica-
-tions, control and computing, monticello, il, september, . citeseerx.
-43. e. ertin, j.w. fisher, and l.c. potter, “maximum mutual information principle for
-dynamic sensor query problems,” information processing in sensor networks (ipsn)
+20. M. Riedl∗and L. C. Potter, “Knowledge-Aided GMTI in a Bayesian Framework,”
+IEEE International Radar Conference.
+21. M. Riedl∗and L. C. Potter, “Knowledge-Aided GMTI in a Bayesian Framework,” SPIE
+Proceedings Vol. 9475: Algorithms for Synthetic Aperture Radar Imagery XXII, May .
+22. D. Gol Gungor∗, R. Ahmad, and L. C. Potter, “A subspace approach to blind coil sen-
+sitivity estimation in parallel MRI,” Journal of Cardiovascular Magnetic Resonance 16
+(Suppl 1), W1. Abstract, 17th Annual SCMR Scientific Sessions, January 16-19, ,
+New Orleans, LA. 10.1186/1532-429X-16-S1-W1.
+23. R. Ahmad, L. C. Potter, and P. Kuppusamy, “Multisite EPR Oximetry using Multiple
+Field Modulation Harmonics 53 rd Rocky Mountain Conference for Analytical Chemistry
+(EPR Symposium), July .
+24. R. Ahmad, C. Austin, and L. C. Potter, “Toeplitz embedding for fast iterative regularized
+imaging,” Algorithms for Synthetic Aperture Radar Imagery XVIII, Proc. SPIE, E. G.
+Zelnio and F. D. Garber, Eds., Apr. .
+25. F. Lee-Elkin∗and L. C. Potter, YAn algorithm for wide aperture 3D SAR imaging with
+measured data,” Algorithms for Synthetic Aperture Radar Imagery XVIII, Proc. SPIE, E.
+G. Zelnio and F. D. Garber, Eds., Apr. .
+26. C. Bryant∗, E. Ertin and L. C. Potter, “Combining synthetic aperture radar and space-time
+adaptive processing using a single-receive channel,” Algorithms for Synthetic Aperture
+Radar Imagery XVIII, Proc. SPIE, E. G. Zelnio and F. D. Garber, Eds., Apr. .
+27. J. Parker∗, LJ Moore, LC Potter, “Resolution and Side-lobe Structure Analysis for RF
+Tomography,” IEEE Radar Conference.
+28. E. Ertin, L. C. Potter, and R. L. Moses, “Sparse Target Recovery Performance of Multi-
+frequency Chirp Waveforms,” 9th European Signal Processing Conference (EUSIPCO
+). Print ISSN: -1465.
+29. D. Gol∗and L. C. Potter, “Ambiguity and regular iz ation in parallel MRI,” EMBC ,
+pp. 2829-2832. DOI:10.1109/IEMBS..6090782.
+30. S. Som∗, L. C. Potter, and P. Schniter, “Compressive Imaging using Approximate Message
+Passing and a Markov-Tree Prior,” Proceedings of the Asilomar Conference on Signals,
+Systems, and Computers, (Pacific Grove, CA), Nov. .
+31. J. Ziniel∗, L. C. Potter, and P. Schniter, “Tracking and Smoothing of Time-Varying Sparse
+(Last updated January 21, ) 11
+Signals via Approximate Belief Propagation Proceedings of the Asilomar Conference on
+Signals, Systems, and Computers, (Pacific Grove, CA), Nov. .
+32. K. E. Dungan∗and L. C. Potter, “Effects of Polarization on Wide-angle SAR Classification
+Performance,” Proceedings IEEE National Aerospace & Electronics Conference, Dayton,
+OH, Jul. .
+33. S. Som∗, L. C. Potter, and P. Schniter, “On Approximate Message Passing for Recon-
+struction of Non-Uniformly Sparse Signals,” Proceedings IEEE National Aerospace &
+Electronics Conference, Dayton, OH, Jul. .
+34. J. T. Parker∗and L. C. Potter, “Bayesian perspective on sparse regular iz ation for STAP
+post-processing,” Proceedings IEEE Radar Conference, May .
+35. R. Ahmad, L. C. Potter and P. Kuppusamy, “Nested uniform sampling for multi-resolution
+3-D tomography,” Proceedings IEEE International Conference on Acoustics, Speech, and
+Signal Processing (ICASSP ’10), Dallas, Apr. .
+36. K. E. Dungan∗, C. Austin∗, J. Nehrbass, and L. C. Potter Civilian vehicle radar data
+domes,” Algorithms for Synthetic Aperture Radar Imagery XVII, Proc. SPIE, E. G. Zelnio
+and F. D. Garber, Eds., Apr. . DOI:10.1117/12.823462. Data set.
+37. K. E. Dungan∗and L. C. Potter Classifying sets of attributed scattering centers using a
+hash coded database,” Algorithms for Synthetic Aperture Radar Imagery XVII, Proc.
+SPIE, E. G. Zelnio and F. D. Garber, Eds., Apr. . Student Best Paper Award
+DOI:10.1117/12.823462.
+38. L. C. Potter, P. Schniter, and J. Ziniel∗, “Sparse Reconstruction for Radar,” Algorithms
+for Synthetic Aperture Radar Imagery XV, Proc. SPIE, E. G. Zelnio and F. D. Garber,
+Eds., vol. 6970, . DOI:10.1117/12.786286.
+39. P. Schniter, L. C. Potter, and J. Ziniel∗, “Fast Bayesian matching pursuit,” Information
+Theory and Applications Workshop, pp. 326-333, . DOI:10.1109/ITA..4601068.
+40. E. Ertin, C. D. Austin∗, S. Sharma∗, R. L. Moses and L. C. Potter, “GOTCHA experience
+report: three-dimensional SAR imaging with complete circular apertures,” Algorithms for
+Synthetic Aperture Radar Imagery XIV, Proc. SPIE, E. G. Zelnio and F. D. Garber, Eds.,
+vol. 6568, , p. 656802. DOI:10.1117/12.723245.
+41. R. L. Moses, L. C. Potter, and M. Cetin, “Wide-angle SAR imaging,” Proc SPIE Vol.
+5427, pp. 164-175, Algorithms for Synthetic Aperture Radar Imagery XI; E. G. Zelnio and
+F. D. Garber, Eds. (April ). DOI:10.1117/12.544935.
+42. J. N. Ash∗and L. C. Potter, “Sensor network localization via received signal strength mea-
+surements with directional antennas,” 42nd Annual Allerton Conference on Communica-
+tions, Control and Computing, Monticello, IL, September, . Citeseerx.
+43. E. Ertin, J. W. Fisher, and L. C. Potter, “Maximum Mutual Information Principle for
+Dynamic Sensor Query Problems,” Information Processing in Sensor Networks (IPSN)
 .
-44. j. tangudu∗and l.c. potter, “back-projection radar imaging for non-uniformly sampled
-apertures,” proceedings fourth annual arl federated laboratory symposium, advanced
-sensors consortium, pp. 181-185, march , college park, md.
-45. l.c. potter, “convergence of successive approximations for nonexpansive operators,”
-twenty-ninth allerton conference on communications, control and computing, pp. 149-
-158, monticello, il ( ). pdf.
-technical 1. l. c. potter, “shooting-and-bouncing rays simulation: targets on a dielectric ground
-reports plane,” september .
-(selected) 2. l. c. potter and k. e. dungan∗, “cvarray: a distance array for simulated x-band
-signatures of civilian vehicles,” january .
-3. l. c. potter, j. w. nehrbass, and k. e. dungan∗, “gotchacv: a data set of simulated
-x-band signatures of civilian vehicles,” august .
-4. l. c. potter, “wide-angle imaging,” afrl/sn technical report, september .
-(last updated january 21, ) 12
-5. j. tangudu∗and l. c. potter, “modifications to arl imaging code for aperture weight-
-ing,” ips technical report tr-99-01, ohio state university, july .
-6. l. c. potter, t. r. miller∗ e. ertin∗, anthony dean∗, and randolph moses, “ultra-
-wideband wide-angle radar target detection algorithms,” ips laboratory technical
-report tr-97-10, the ohio state university, august .
-7. l. c. potter, “feature-based automatic target recognition: final report,” ips labo-
-ratory technical report tr-97-09, the ohio state university, june .
-8. l. c. potter, t. r. miller∗, e. ertin∗ and randolph moses, “ultra-wideband wide-angle
-radar target detection algorithms,” ips laboratory technical report tr-97-08, the
-ohio state university, june .
-9. e. ertin∗and l. c. potter, “phase center corrections for arl boomsar motion com-
-pensation files,”ipslaboratory technical report tr-97-07, the ohio state university,
-march .
-10. e. erten∗, r. l. moses, and l. c. potter, “ultra-wideband wide-angle radar target
-detection algorithms,” ips laboratory technical report tr-97-03, the ohio state
-university, january .
-11. t. r. miller∗, j. mccorkle and l. c. potter, “radio frequency interference suppression
-for ultra-wideband radar imaging,”spannlaboratory technical report tr-96-04, the
-ohio state university, october .
-12. t. r. miller∗and l. c. potter, “rfi suppression algorithm and coding handbook,”
-spann laboratory technical report tr-96-01, the ohio state university, may .
-13. e. ertin∗and l. c. potter, “polarimetric feature extraction algorithms,” spann labo-
-ratory technical report tr-95-08, the ohio state university, december .
-14. a. sabharwal∗and l. c. potter, “radar target discrimination features: a review of
-existing k-band and l-band approaches,” spann laboratory technical report tr-95-
-07, the ohio state university, december .
-15. l. c. potter, m. p. desai and d.-m. chiang∗, “minimax embedding of a hypercube,”
-spann laboratory technical report tr-92-09, the ohio state university, november
+44. J. Tang u du and L. C. Potter, “Back-projection radar imaging for non-uniformly sampled
+apertures,” Proceedings Fourth Annual ARL Federated Laboratory Symposium, Advanced
+Sensors Consortium, pp. 181-185, March , College Park, MD.
+45. L. C. Potter, “Convergence of successive approximations for non expansive operators,”
+Twenty-ninth Allerton Conference on Communications, Control and Computing, pp. 149-
+158, Monticello, IL (). pdf.
+Technical 1. L. C. Potter, “Shooting-and-Bouncing Rays Simulation: Targets on a Dielectric Ground
+Reports Plane,” September .
+(Selected) 2. L. C. Potter and K. E. Dungan∗, “CVarray: A Distance Array for Simulated X-band
+Signatures of Civilian Vehicles,” January .
+3. L. C. Potter, J. W. Nehrbass, and K. E. Dungan∗, “Gotcha CV: A Data Set of Simulated
+X-band Signatures of Civilian Vehicles,” August .
+4. L. C. Potter, “Wide-Angle Imaging,” AFRL/SN Technical Report, September .
+(Last updated January 21, ) 12
+5. J. Tang u du and L. C. Potter, “Modifications to ARL Imaging Code for Aperture Weight-
+ing,” IPS Technical Report TR-99-01, Ohio State University, July .
+6. L. C. Potter, T. R. Miller∗ E. Ertin∗, Anthony Dean∗, and Randolph Moses, “Ultra-
+Wideband Wide-Angle Radar Target Detection Algorithms,” IPS Laboratory Technical
+Report TR-97-10, The Ohio State University, August .
+7. L. C. Potter, “Feature-Based Automatic Target Recognition: Final Report,” IPS Labo-
+ratory Technical Report TR-97-09, The Ohio State University, June .
+8. L. C. Potter, T. R. Miller∗, E. Ertin∗ and Randolph Moses, “Ultra-Wideband Wide-Angle
+Radar Target Detection Algorithms,” IPS Laboratory Technical Report TR-97-08, The
+Ohio State University, June .
+9. E. Ertin∗and L. C. Potter, “Phase Center Corrections for ARL Boom SAR Motion Com-
+pensation Files IPS Laboratory Technical Report TR-97-07, The Ohio State University,
+March .
+10. E. Erten∗, R. L. Moses, and L. C. Potter, “Ultra-Wideband Wide-Angle Radar Target
+Detection Algorithms,” IPS Laboratory Technical Report TR-97-03, The Ohio State
+University, January .
+11. T. R. Miller∗, J. Mc Corkle and L. C. Potter, “Radio Frequency Interference Suppression
+for Ultra-Wideband Radar Imaging Spann Laboratory Technical Report TR-96-04, The
+Ohio State University, October .
+12. T. R. Miller∗and L. C. Potter, “RFI Suppression Algorithm and Coding Handbook,”
+Spann Laboratory Technical Report TR-96-01, The Ohio State University, May .
+13. E. Ertin∗and L. C. Potter, Polar i metric Feature Extraction Algorithms,” Spann Labo-
+ratory Technical Report TR-95-08, The Ohio State University, December .
+14. A. Sabha r wal and L. C. Potter, “Radar Target Discrimination Features: A Review of
+Existing K-band and L-band Approaches,” Spann Laboratory Technical Report TR-95-
+07, The Ohio State University, December .
+15. L. C. Potter, M. P. Desai and D.-M. Chiang∗, “Minimax Embedding of a Hypercube,”
+Spann Laboratory Technical Report TR-92-09, The Ohio State University, November
 .
-16. d.-m. chiang∗and l. c. potter, “index sorting: programs and theory for nonredundant
-channel coding of vq codebooks,”spannlaboratory technical report tr-92-08, the
-ohio state university, november .
-17. l. c. potter, s. d. nelson, g. sen∗, s.-w. chen∗, m. r. carbonara∗and b. ulug∗, “an
-ecg-eps database,” spann laboratory technical report tr-92-04, the ohio state
-university, september .
-18. l. c. potter,“a survey of the method of successive projections and related least-
-squares techniques,” spann laboratory technical report tr-92-03, the ohio state
-university, august .
-book 1. j. parker∗, m. ferrara, and l. c. potter, “sparse reconstruction and compressed sensing
-chapters with applications to radar,” in principles of modern radar: advanced techniques. wh
-melvin and ja scheer, eds., scitech, .
-2. r. rajagopal∗and l. c. potter, “multi-channel multi-variate equalizer design,” in radar
-signal processign and its applications. j. li et al., eds., springer, .
-3. e. erten∗, r. l. moses, and l. c. potter, “performance analysis of anisotropic scattering
-center detection,” in selected spie papers on cd-rom series, vol 6: automatic target
-recognition, f. sadjadi, ed., .
-dissertation constrained signal reconstruction, university of illinois, urbana, il, .
-(last updated january 21, ) 13
-research principal investigator
-funding
-• “beyond linear processing (blip),” defense advanced research projects agency via ma-
-trix research,$715,540. july 11, - september 30, . (multiple coe investigators.)
-• “learning with confidence for multi-sensor exploitation,” air force research labora-
-tory sensors directorate, air force materiel command, $754,500, september 27, –
-september 20, . (multiple sub-awards to coe faculty investigators.)
-• “i/ucrcphaseii:center forsurveillance research,” nationalsciencefoundation,$593,710,
-august 1, – july 31, . (center director for multi-university industry/university
-consortium; nsf support includes arl and onr mipr transfers, as well as reu sup-
-plements. additionally, $1,014,307 industry & afrl dues supported students for multiple
+16. D.-M. Chiang∗and L. C. Potter, “Index Sorting: Programs and Theory for Non redundant
+Channel Coding of VQ Code books Spann Laboratory Technical Report TR-92-08, The
+Ohio State University, November .
+17. L. C. Potter, S. D. Nelson, G. Sen∗, S.-W. Chen∗, M. R. Carbonara and B. Ulug∗, “An
+ECG-EPS Database,” Spann Laboratory Technical Report TR-92-04, The Ohio State
+University, September .
+18. L. C. Potter,“A Survey of the Method of Successive Projections and Related Least-
+Squares Techniques,” Spann Laboratory Technical Report TR-92-03, The Ohio State
+University, August .
+Book 1. J. Parker∗, M. Ferrara, and L. C. Potter, “Sparse Reconstruction and Compressed Sensing
+Chapters with Applications to Radar,” in Principles of Modern Radar: Advanced Techniques. WH
+Melvin and JA Scheer, eds., Sci Tech, .
+2. R. Raja gopal and L. C. Potter, “Multi-channel Multi-variate Equalizer Design,” in Radar
+Signal Processign and Its Applications. J. Li et al., eds., Springer, .
+3. E. Erten∗, R. L. Moses, and L. C. Potter, “Performance analysis of anisotropic scattering
+center detection,” in Selected SPIE Papers on CD-ROM Series, Vol 6: Automatic Target
+Recognition, F. Sadjadi, ed., .
+Dissertation Constrained Signal Reconstruction, University of Illinois, Urbana, IL, .
+(Last updated January 21, ) 13
+Research Principal Investigator
+Funding
+• “Beyond Linear Processing (BLi P),” Defense Advanced Research Projects Agency via Ma-
+trix Research,$715,540. July 11, - September 30, . (Multiple Co E investigators.)
+• “Learning with Confidence for Multi-Sensor Exploitation,” Air Force Research Labora-
+tory Sensors Directorate, Air Force Materiel Command, $754,500, September 27, –
+September 20, . (Multiple sub-awards to Co E faculty investigators.)
+• I U CRC Phase II:Center for Surveillance Research,” National Science Foundation 593 710
+August 1, – July 31, . (Center director for multi-university industry university
+consortium; NSF support includes ARL and ONR MIPR transfers, as well as REU sup-
+plements. Additionally, $1,014,307 industry & AFRL dues supported students for multiple
 advisors.)
-• “rf signal processing,” air force research laboratory, fa8650-14-c-1712, $989,098,
-april 4, – june 30, (multiple subawards to ash, baker, davis, ertin, and summer
+• “RF Signal Processing,” Air Force Research Laboratory, FA8650-14-C-1712, $989,098,
+April 4, – June 30, (multiple subawards to Ash, Baker, Davis, Ertin, and summer
 interns).
-• “opera task order 2,” leidos, inc., $10,000, july 27, – july 1, (with emre
-ertin).
-• “opera task order 1,” leidos, inc., $91,400, september 27, – february 2,
-(with emre ertin and josh ash).
-• “active sensing via compressive illumination,” darpa, $2,533,804, november –
-november (with emre ertin, philip schniter, and joshua ash co-is at osu; subcon-
-tracts to rice, minnesota, wisconsin, and uc-davis).
-• “calibration, image formation, and feature extraction for polarimetric radar,” raytheon,
-$170,000, june 1, – october 31, (with emre ertin, co-i).
-• “centerfor surveillanceresearch,” nationalscience foundationi/ucrc,$400,000,march
-– february . (center director for multi-university industry/university consortium;
-$352,000/year annual industry contributions across the osu and wsu sites.)
-• “sparse multispectral processing for accelerated epr oximetry in three dimension,” na-
-tional institutes of health, r21-eb008836, $285,183, june – may .
-• “radar signal decomposition,” dayton area graduate studies institute,$189,021, septem-
-ber – september .
-• “phase ii sbir: constrained sparse inverses for synthetic aperture radar,” set asso-
-ciates, $175,000, february – december .
-• “center for automatic target recognition research,” air force research laboratory,
-fa8650-07-d-1220, $6,527,559, october – august . (subawards to three uni-
-versities, two companies, and twelve osu investigators.)
-• “afrlsensors graduatefellowship,”airforce officeofscientific research, rf-60014403,
-$39,917, october – september .
-• “phase i sbir: constrained sparse inverses for synthetic aperture radar,” set associates,
-rf-60010321 $30,000, october – december .
-• “phase ii sbir: all weather feature based combat identification,” set associates, rf-
-60008986. $150,000, may – april .
-• “intergovernmental personnel act (ipa) agreement,” air force research laboratory, rf-
-743147, $76,181, july 1, – september 30, .
-• “polarimetric feature extraction for radar target detection and recognition,” army re-
-search office augmentation award for science and engineering training (aasert), rf-
-732409, $93,790, june 1, – may 31, .
-• “arl federated laboratory, advanced sensors: signal processing,” lockheed-sanders,
-inc., rf-735331, $267,000, january 16, – may 31, .
-• “arl federated laboratory, advanced sensors: multi-sensor fusion target recognition ”
-lockheed-sanders, inc., rf-732172, $144,000, january 16, – may 31, .
-(last updated january 21, ) 14
-• ‘feature extraction module for model-based atr,” environmental research institute of
-michigan, rf-731498 and 731958, $62,080, july 1, – november 30, .
-• “feature extraction for sar target recognition,” advanced research projects agency
-(administered through the ohio aerospace institute), rf-728345,$220,146, september 1,
-– september 30, .
-• “constraint-based non-linear signal processing for high resolution signal recovery,”
-national science foundation, research initiation award, $60,000, september 1, –
-august 31, .
-co-investigator
-• “a comprehensive valvular heart disease assessment with stress cardiac mri,” national
-institutes of health, nibib, r01hl151697, $3,377,873, august 1, – july 31, ,
-(r. ahmad, pi; 5% responsibility).
-• “development and administration of a robust consortium of minority-serving institutions
-for the advancement of afrl’s research and workforce,” air force research laboratory,
-$15,271,050, august 29, - august 28, , (m. groeber, pi; 10% responsibility;
+• “OPERA Task Order 2,” Leidos, Inc., $10,000, July 27, – July 1, (with Emre
+Ertin).
+• “OPERA Task Order 1,” Leidos, Inc., $91,400, September 27, – February 2,
+(with Emre Ertin and Josh Ash).
+• “Active Sensing via Compressive Illumination,” DARPA, 2 533 804 November –
+November (with Emre Ertin, Philip Schniter, and Joshua Ash co-Is at OSU; subcon-
+tracts to Rice, Minnesota, Wisconsin, and UC-Davis).
+• “Calibration, image formation, and feature extraction for polar i metric radar,” Raytheon,
+$170,000, June 1, – October 31, (with Emre Ertin, co-I).
+• “Centerfor Surveillance Research,” National Science Foundation I U CRC 400 000 March
+– February . (Center director for multi-university industry university consortium;
+352 000 year annual industry contributions across the OSU and WSU sites.)
+• “Sparse multi spectral processing for accelerated EPR oximetry in three dimension,” Na-
+tional Institutes of Health, R21-EB008836, $285,183, June – May .
+• “Radar signal decomposition,” Dayton Area Graduate Studies Institute 189 021 Septem-
+ber – September .
+• “Phase II SBIR: Constrained Sparse Inverses for Synthetic Aperture Radar,” SET Asso-
+ciates, $175,000, February – December .
+• “Center for Automatic Target Recognition Research,” Air Force Research Laboratory,
+FA8650-07-D-1220, 6 527 559 October – August . (Subawards to three uni-
+versities, two companies, and twelve OSU investigators.)
+• AFR L Sensors Graduate Fellowship Air Force Officeof Scientific Research, RF-60014403,
+$39,917, October – September .
+• “Phase I SBIR: Constrained Sparse Inverses for Synthetic Aperture Radar,” SET Associates,
+RF-60010321 $30,000, October – December .
+• “Phase II SBIR: All Weather Feature Based Combat Identification,” SET Associates, RF-
+60008986. $150,000, May – April .
+• “Intergovernmental Personnel Act (IPA) agreement,” Air Force Research Laboratory, RF-
+743147, $76,181, July 1, – September 30, .
+• Polar i metric Feature Extraction for Radar Target Detection and Recognition,” Army Re-
+search Office Augmentation Award for Science and Engineering Training (AASERT), RF-
+732409, $93,790, June 1, – May 31, .
+• “ARL Federated Laboratory, Advanced Sensors: Signal Processing,” Lockheed-Sanders,
+Inc., RF-735331, $267,000, January 16, – May 31, .
+• “ARL Federated Laboratory, Advanced Sensors: Multi-Sensor Fusion Target Recognition ”
+Lockheed-Sanders, Inc., RF-732172, $144,000, January 16, – May 31, .
+(Last updated January 21, ) 14
+• ‘Feature Extraction Module For Model-Based ATR,” Environmental Research Institute of
+Michigan, RF-731498 and 731958, $62,080, July 1, – November 30, .
+• “Feature Extraction for SAR Target Recognition,” Advanced Research Projects Agency
+(administered through the Ohio Aerospace Institute), RF-728345,$220,146, September 1,
+– September 30, .
+• “Constraint-Based Non-Linear Signal Processing for High Resolution Signal Recovery,”
+National Science Foundation, Research Initiation Award, $60,000, September 1, –
+August 31, .
+Co-Investigator
+• “A comprehensive valvular heart disease assessment with stress cardiac MRI,” National
+Institutes of Health, NIBIB, R 01 HL 151697 3 377 873 August 1, – July 31, ,
+(R. Ahmad, PI; 5% responsibility).
+• “Development and administration of a robust consortium of minority-serving institutions
+for the advancement of AFRL’s research and workforce,” Air Force Research Laboratory,
+15 271 050 August 29, - August 28, , (M. Groeber, PI; 10% responsibility;
 multiple sub-awards partner institutions.)
-• “prospectiveslicetracking forcardiac mri,”nationalinstitutes ofhealth,nibib,$408,944,
-august - may , (r. ahmad, pi; 5% responsibility)
-• “a bayesian model for mri-based accelerated 4d flow imaging of aortic valve stenosis,”
-national institutes of health, nibib, $405,117, february - december , (r. ah-
-mad, pi; 6% responsibility).
-• “target recognition and adaption in contested environments,” leidos (subaward from
-darpa), $182,000, august – october (with e. ertin, pi; 24% responsibil-
+• Prospective slice tracking forcardiac MRI National Institutes of Health, NI BIB 408 944
+August - May , (R. Ahmad, PI; 5% responsibility)
+• “A Bayesian model for MRI-based accelerated 4D flow imaging of aortic valve stenosis,”
+National Institutes of Health, NIBIB, $405,117, February - December , (R. Ah-
+mad, PI; 6% responsibility).
+• “Target recognition and adaption in contested environments,” Leidos (subaward from
+DARPA), $182,000, August – October (with E. Ertin, PI; 24% responsibil-
 ity).
-• “optimization of epr acquistion and post-processing,” national institutes of health,
-nibib, $51,260, april – march (with d. h. johnson (pi) and j. l. zweier;
+• “Optimization of EPR acquistion and post-processing,” National Institutes of Health,
+NIBIB, $51,260, April – March (with D. H. Johnson (PI) and J. L. Zweier;
 10% responsibility).
-• “c1 afrl mipr,” air force research laboratory,$170,000, july – june (with
-e. ertin, 33% responsibility).
-• “collaborative research: i/ucrc planning grant,” national science foundation, $9,996,
-august 1, – july 31, (with r. l. moses, pi; 35% responsibility).
-• “research cluster for layered sensing,” university of dayton (ohio research scholars
-program), $936,475, august 18, – april 30, (non-erp capital with r lee, rl
-moses and jl volakis; 25% responsibility).
-• “multi-mode, multi-band software defined radar for adaptive tracking and identification
-of targets in urban environments,” air force office of scientific research, $975,024,
-january – december , (with e. ertin (pi) and j. johnson; 20% responsibility).
-• “afrl sensors fellows,”wright brothers institute, inc., $32,632, october – june
+• “C1 AFRL MIPR,” Air Force Research Laboratory 170 000 July – June (with
+E. Ertin, 33% responsibility).
+• “Collaborative research: I/UCRC planning grant,” National Science Foundation, $9,996,
+August 1, – July 31, (with R. L. Moses, PI; 35% responsibility).
+• “Research Cluster for Layered Sensing,” University of Dayton (Ohio Research Scholars
+Program), $936,475, August 18, – April 30, (non-ERP capital with R Lee, RL
+Moses and JL Volakis; 25% responsibility).
+• “Multi-mode, Multi-band Software Defined Radar for Adaptive Tracking and Identification
+of Targets in Urban Environments,” Air Force Office of Scientific Research, $975,024,
+January – December , (with E. Ertin (PI) and J. Johnson; 20% responsibility).
+• “AFRL Sensors Fellows Wright Brothers Institute, Inc., $32,632, October – June
 .
-• “muri: integrated fusion, performance prediction, and sensor management for automatic
-target exploitation,” air force office of scientific research, rf-60006916, $5,525,211,
-may – december , (with r. l. moses (pi) et al., 10% responsibility).
-• “research experience for undergraduates (reu) supplement to itr: cooperative wireless
-networking,” national science foundation, rf-60005445, june 1, - july 31,
-(with h. el gamal (pi) and j. ash, 33% responsibility).
-• “physics-based radar feature extraction and reconstruction,” air force research lab-
-oratory, $504,091, october 1, - december 29, (with r. l. moses (pi), 50%
+• “MURI: Integrated Fusion, Performance Prediction, and Sensor Management for Automatic
+Target Exploitation,” Air Force Office of Scientific Research, RF-60006916, 5 525 211
+May – December , (with R. L. Moses (PI) et al., 10% responsibility).
+• “Research Experience for Undergraduates (REU) Supplement to ITR: Cooperative Wireless
+Networking,” National Science Foundation, RF-60005445, June 1, - July 31,
+(with H. El Gamal (PI) and J. Ash, 33% responsibility).
+• “Physics-based Radar Feature Extraction and Reconstruction,” Air Force Research Lab-
+oratory, $504,091, October 1, - December 29, (with R. L. Moses (PI), 50%
 responsibility).
-• “gotcha support for sensor atr technology,” rf-746199, sverdrup, $53,000, december
-15, – august 15, (with r. l. moses (pi), 33% responsibility).
-(last updated january 21, ) 15
-• “performance assessment for foliage penetrating radar target detection.” dayton area
-graduate studies program, $108,278 july 1, – june 6, (with r. l. moses (pi),
+• “Gotcha Support for Sensor ATR Technology,” RF-746199, Sverdrup, $53,000, December
+15, – August 15, (with R. L. Moses (PI), 33% responsibility).
+(Last updated January 21, ) 15
+• “Performance assessment for foliage penetrating radar target detection.” Dayton Area
+Graduate Studies Program, $108,278 July 1, – June 6, (with R. L. Moses (PI),
 40% responsibility).
-• “auto-calibration for acoustic array networks,”battelle, $65,803, july 13, – june 30,
-(with r. l. moses (pi), 40% responsibility).
-• “feature extraction using attributed scattering center models for model-based automatic
-target recognition,” defense advanced research projects agency,$720,805, february 21,
-– february 29, (with r. l. moses (pi), 50% responsibility).
-• “arl federated laboratory, advanced sensors: radar algorithms” lockheed-sanders,
-inc., rf-731993, $769,000, january 16, – may 31, (with r. l. moses (pi),
+• “Auto-calibration for acoustic array networks Bat tell e $65,803, July 13, – June 30,
+(with R. L. Moses (PI), 40% responsibility).
+• “Feature Extraction using Attributed Scattering Center Models for Model-Based Automatic
+Target Recognition,” Defense Advanced Research Projects Agency 720 805 February 21,
+– February 29, (with R. L. Moses (PI), 50% responsibility).
+• “ARL Federated Laboratory, Advanced Sensors: Radar Algorithms” Lockheed-Sanders,
+Inc., RF-731993, $769,000, January 16, – May 31, (with R. L. Moses (PI),
 50% responsibility).
-• “signal processing techniques research for synthetic aperture uwb (ultra-wide band-
-width) radar detection and identification,” harry diamond labs daal01-93-c-0095,
-$363,269, september 16, – january 31, . (with r. l. moses (pi), 50% respon-
+• “Signal Processing Techniques Research for Synthetic Aperture UWB (Ultra-Wide Band-
+width) Radar Detection and Identification,” Harry Diamond Labs DAAL01-93-C-0095,
+$363,269, September 16, – January 31, . (with R. L. Moses (PI), 50% respon-
 sibility).
-• “detection techniques for synthetic aperture ultra wide bandwidth (uwb) radar,”
-harry diamond labs daal02-92-k-0050, $69,862, june 17, – august 31, ,
-(with r. l. moses (pi), 10% responsibility).
-• “ultrawidebandradartargetdetectionandidentification,”harrydiamondlabsaasert
-award daal03-92-g-0052,$80,968, june 1, – may 31, . (with r. l. moses (pi),
+• “Detection Techniques for Synthetic Aperture Ultra Wide Bandwidth (UWB) Radar,”
+Harry Diamond Labs DAAL02-92-K-0050, $69,862, June 17, – August 31, ,
+(with R. L. Moses (PI), 10% responsibility).
+• “Ultra Wide Band Radar Target Detection and Identification Harry Diamond Labs AASERT
+Award DAAL03-92-G-0052,$80,968, June 1, – May 31, . (with R. L. Moses (PI),
 40% responsibility).
-professional external service
-service
-• technical track chair, radar imaging, ieee radar conference, .
-• program committee, algorithms for synthetic aperture radar imagery, spie: - .
-• associate editor, ieee transactions on image processing,
-• session chair, advanced imaging, spie: , ,
-• session chair, “mimo systems,” ieee workshop on statistical signal processing,
-st. louis, mo, september .
-• panelist, first annual atr theory workshop, dayton, ohio, august 8-9, .
-• panelist, “algorithms for synthetic aperture radar imagery, vii,” spie aerosense ,
-orlando, fl, april 26, .
-• panelist, aro/darpa uwb technology conference, washington, dc, .
-• vice-chair, ieee signal processing society, columbus chapter,
-• chair, ieee signal processing society, columbus chapter: ,
-• project discovery ohio, innovative stem instruction for k-12,
-university, college, and department service
-• ece promotion & tenure committee, chair, -present
-• osp “red-team” proposal reviewer for nsf i/ucrc program,
-• proposal writer for coe submission to osu raise program, “equity by design.” proposal
-won $2m salary and start-up for three coe faculty positions. co-authored with kevin
-passino and rachel kleit.
-• ece advisory committee, -
-• oversight designee, ece promotion & tenure committee, -
-• faculty advisory board, advanced materials corridor ii, -19
-• department chair search committee , (chair)
-• college of engineering faculty mentoring committees, -present
-• college of engineering faculty professional development advisory group, -18
-(last updated january 21, ) 16
-• faculty advisory board, translational data analytics, -16
-• faculty advisor, university honors collegium: , ,
-• osu denman undergraduate research forum, judge: , , , , , ,
+Professional External Service
+Service
+• Technical Track Chair, Radar Imaging, IEEE Radar Conference, .
+• Program Committee, Algorithms for Synthetic Aperture Radar Imagery, SPIE: -.
+• Associate editor, IEEE Transactions on Image Processing,
+• Session Chair, Advanced Imaging, SPIE: , ,
+• Session Chair, “MIMO Systems,” IEEE Workshop on Statistical Signal Processing,
+St. Louis, MO, September .
+• Panelist, First Annual ATR Theory Workshop, Dayton, Ohio, August 8-9, .
+• Panelist, “Algorithms for Synthetic Aperture Radar Imagery, VII,” SPIE Aerosense ,
+Orlando, FL, April 26, .
+• Panelist, ARO/DARPA UWB Technology Conference, Washington, DC, .
+• Vice-Chair, IEEE Signal Processing Society, Columbus Chapter,
+• Chair, IEEE Signal Processing Society, Columbus Chapter: ,
+• Project Discovery Ohio, innovative STEM instruction for K-12,
+University, College, and Department Service
+• ECE Promotion & Tenure Committee, chair, -present
+• OSP “Red-Team” proposal reviewer for NSF I/UCRC program,
+• Proposal writer for Co E submission to OSU RAISE program, “Equity by Design.” Proposal
+won $2M salary and start-up for three Co E faculty positions. Co-authored with Kevin
+Passino and Rachel Kleit.
+• ECE Advisory Committee, -
+• Oversight designee, ECE Promotion & Tenure Committee, -
+• Faculty advisory board, Advanced Materials Corridor II, -19
+• Department Chair Search Committee , (chair)
+• College of Engineering Faculty Mentoring Committees, -present
+• College of Engineering Faculty Professional Development Advisory Group, -18
+(Last updated January 21, ) 16
+• Faculty advisory board, Translational Data Analytics, -16
+• Faculty advisor, University Honors Collegium: , ,
+• OSU Denman Undergraduate Research Forum, Judge: , , , , , ,
 .
-• osu first year experience program, buckeyes beyond ohio,
-• osu signatory at nile university/american chamber of commerce in egypt luncheon,
-washington, dc,
-• college faculty and professional leave committee, –
-• member, ece promotion & tenure committee, -present
-• member, ece advisory committee, -
-• member, ece recruiting committee, -
-• member, curriculum committee, – , – , –
-• member, communications/signal processing area committee, –
-• member, control/signal processing area, –
-• chair, control/signal processing area, –
-• chair, communications/signal processing area, , – , –
-• member, graduate admissions committee, –
-• member, research committee, –
-• ece faculty secretary, -
-• member, graduate examination subcommittee, – , –
-• bollinger-kissell scholarship committee, –
-• member, ad hoc strategic planning committee, summer
-• member, personnel committee, –
-• member, ad hoc committee for development staffing,
-• member, undergraduate studies committee, – , –
-• faculty advisor, eta kappa nu ece honorary society, –
-• member, ad hoc hiring search committees: , , , , , , ,
+• OSU First Year Experience Program, Buckeyes Beyond Ohio,
+• OSU Signatory at Nile University American Chamber of Commerce in Egypt Luncheon,
+Washington, DC,
+• College Faculty and Professional Leave Committee, –
+• Member, ECE Promotion & Tenure Committee, -present
+• Member, ECE Advisory Committee, -
+• Member, ECE Recruiting Committee, -
+• Member, Curriculum Committee, –, –, –
+• Member, Communications Signal Processing Area Committee, –
+• Member, Control Signal Processing Area, –
+• Chair, Control Signal Processing Area, –
+• Chair, Communications Signal Processing Area, , –, –
+• Member, Graduate Admissions Committee, –
+• Member, Research Committee, –
+• ECE Faculty Secretary, -
+• Member, Graduate Examination Subcommittee, –, –
+• Bollinger-Kissell Scholarship Committee, –
+• Member, Ad Hoc Strategic Planning Committee, Summer
+• Member, Personnel Committee, –
+• Member, Ad Hoc Committee for Development Staffing,
+• Member, Undergraduate Studies Committee, –, –
+• Faculty advisor, Eta Kappa Nu ECE Honorary Society, –
+• Member, Ad Hoc Hiring Search Committees: , , , , , , ,
 ,
-reviewer
-• nationalsciencefoundation
-• airforceresearchoffice
-• armyresearchoffice
-• airforceofficeofscientificresearch
-• defenseadvancedprojectsagency
-• ohiosupercomputercenter
-• proceedingsoftheieee
-• ieeetrans.signalprocessing
-• ieeetrans.antennasandpropagation
-• ieeetrans.aerospaceandelectronicsystems
-• ieeetrans.informationtheory
-• ieeetrans.imageprocessing
-• ieeetrans.selectedareasincommunications
-• ieeetrans.neuralnetworks
-• ieeetrans.patt.anal.machineintell.
-• ieeetrans.geoscienceandremotesensing
-• ieeegeoscienceandremotesensingletters
-• ieeetrans.microwavetheoryandtechniques
-• ieeeantennasandpropagationletters
-• ieeej.sel.topicsappl.earthobserv.&remotesensing
-• ieeej.sel.topicssignalprocessing
-(last updated january 21, ) 17
-• ieeetrans.acoust.,speech,sig.proc.
-• ieeeaesmagazine
-• ieeesignalprocessingmagazine
-• ieeesignalprocessingletters
-• ieeetrans.computationalimaging
-• ieeetrans.biomedicalengineering
-• advancesinsignalprocessing(eurasip)
-• computervisionandimageunderstanding
-• irwinpublishers
-• j.electromagneticwavesandapplications
-• j.magneticresonance
-• j.opticalsocietyofamerica,seriesa
-• magneticresonanceimaging
-• multidimensionalsignalsandsystems
-• neuralnetworks
-• numerischemathematik
-• opticsletters
-• plosone
-• remotesensing
-• sensorsmdpi
-• siamjimagingsciences
-• signalprocessing
-• acmconferenceonembeddednetworkedsensorsystems
-• americancontrolconference
-• asilomarconferenceonsignals,systems,andcomputers
-• ieeeintl.conf.imageprocessing(icip)
-• ieeeint’lconf.acoustics,speechandsignalprocessing(icassp)
-• ieeestatisticalsignalprocessingconference
-• ieeemilcomconference
-• ieeeradarconference
-• ieeesensorarrayandmultichannelsignalprocessingworkshop
-professional • senior member of ieee
-memberships • eta kappa nu
-• phi beta kappa
-consulting • technology service corporation, trumbull, connecticut,
-• atk-mission research, dayton, ohio,
-• thermotrex corporation, san diego, california, –
-• schlumberger-doll research, ridgefield, connecticut,
-invited • “multi-channel coherent imaging.” purdue university, west lafayette, in (july )
-talks • “cardiac mri: bayesian inference for quantitative computational imaging.” translation
-meetsfoundationsymposium,sponsoredbythe mathematicalbiosciences institute(mbi)
-and (dec )
-• “accelerating phase-contrast cardiac magnetic resonance imaging: a case study in com-
-putational imaging.” carnegie mellon ece graduate seminar (mar )
-• “compressive sensing for radio frequency: hype, hope, or help?” presented at optical
-society of america incubator: implications of compressive sensing concepts to imaging
-systems, washington, dc (apr )
-• “active sensing via compressive illumination radar applications.” presented at depart-
-ment of homeland security industry day (sep )
-• “cs for radio frequency: hype, history & hope.” presented to osd jasons study group
-on compressive sensing, la jolla, ca (jun )
-(last updated january 21, ) 18
-• “doing more with less: comments on linear inverse problems,” applied mathematics
-series, osu, columbus, april 21,
-• “turbo reconstruction of structured images: compressive sensing for radar,” national
-geospatial-intelligence agency, mclean, virgina, june 22, .
-• “accelerated data acquisition for epr spectral-spatial imaging,” dorothy m. davis heart
-and lung research institute, columbus, ohio, march 19, .
-• “regularization techniques for linear inverse problems:compressive sensing for radar,”
-afrl/rya, wright-patterson afb, july 15, .
-• “accelerated data acquisition for epr spectral-spatial imaging,” cesbmi seminar series,
-ohio state university, nov 30, .
-• “regularization techniques for linear inverse problems: compressive sensing for radar,”
-atr center summer seminar series, wpafb, oh, july 15, .
-• “bayes to the bone: sparse reconstruction from limited data,” compressive sensing
-workshop, durham, nc, february 25, .
-• “doing more with less: accelerated data acquisition for epr imaging,” engineer-
-ing & medicine translational research symposium, center for clinical and translational
-science, ohio state university medical center, september 29, .
-• “reduced acquisition spectral-spatial electron paramagnetic resonance imaging,” coor-
-dinatedscience laboratoryand beckmaninstitute, university ofillinois, urbana,november
+Reviewer
+• National Science Foundation
+• Air Force Research Office
+• Army Research Office
+• Air Force Officeof Scientific Research
+• Defense Advanced Projects Agency
+• Ohio Supercomputer Center
+• Proceedings of the IEEE
+• IEEETrans. Signal Processing
+• IEEETrans. Antennas and Propagation
+• IEEETrans. Aerospace and Electronic Systems
+• IEEETrans. Information Theory
+• IEEETrans. Image Processing
+• IEEETrans. Selected Areasin Communications
+• IEEETrans. Neural Networks
+• IEEETrans. Patt. Anal. Machine Intell.
+• IEEETrans. Geoscience and Remote Sensing
+• IEEE Geoscience and Remote Sensing Letters
+• IEEETrans. Microwave Theoryand Techniques
+• IEEE Antennas and Propagation Letters
+• IEEEJ. Sel. Topics Appl. Earth Observ.&Remote Sensing
+• IEEEJ. Sel. Topics Signal Processing
+(Last updated January 21, ) 17
+• IEEETrans. Acoust., Speech, Sig. Proc.
+• IEEE AES Magazine
+• IEEESignal Processing Magazine
+• IEEESignal Processing Letters
+• IEEETrans. Computational Imaging
+• IEEETrans. Biomedical Engineering
+• Advancesin Signal Processing EUR AS IP
+• Computer Visionand Image Understanding
+• Irwin Publishers
+• J. Electromagnetic Wavesand Applications
+• J. Magnetic Resonance
+• J. Optical Societyof America, Series A
+• Magnetic Resonance Imaging
+• Multidimensional Signalsand Systems
+• Neural Networks
+• Numerische Mathematik
+• Optics Letters
+• PLOSone
+• Remote Sensing
+• Sensors MDPI
+• SIAM J Imaging Sciences
+• Signal Processing
+• ACM Conference on Embedded Networked Sensor Systems
+• American Control Conference
+• Asilomar Conference on Signals, Systems, and Computers
+• IEEEIntl. Conf. Image Processing ICI P
+• IEEEInt’l Conf. Acoustics, Speechand Signal Processing I CASS P
+• IEEE Statistical Signal Processing Conference
+• IEEEMilcom Conference
+• IEEERadar Conference
+• IEEESensor Arrayand Multichannel Signal Processing Workshop
+Professional • Senior Member of IEEE
+Memberships • Eta Kappa Nu
+• Phi Beta Kappa
+Consulting • Technology Service Corporation, Trumbull, Connecticut,
+• ATK-Mission Research, Dayton, Ohio,
+• Thermo Trex Corporation, San Diego, California, –
+• Schlumberger-Doll Research, Ridgefield, Connecticut,
+Invited • “Multi-channel Coherent Imaging.” Purdue University, West Lafayette, IN (July )
+Talks • “Cardiac MRI: Bayesian Inference for Quantitative Computational Imaging.” Translation
+Meets Foundation Symposium, sponsored by The Mathematical Bioscience s Institute MBI
+and (Dec )
+• “Accelerating Phase-Contrast Cardiac Magnetic Resonance Imaging: A Case Study in Com-
+putational Imaging.” Carnegie Mellon ECE Graduate Seminar (Mar )
+• “Compressive Sensing for Radio Frequency: Hype, Hope, or Help?” Presented at Optical
+Society of America Incubator: Implications of Compressive Sensing Concepts to Imaging
+Systems, Washington, DC (Apr )
+• “Active Sensing via Compressive Illumination Radar Applications.” Presented at Depart-
+ment of Homeland Security Industry Day (Sep )
+• “CS for Radio Frequency: Hype, History & Hope.” Presented to OSD Jasons Study Group
+on Compressive Sensing, La Jolla, CA (Jun )
+(Last updated January 21, ) 18
+• “Doing More with Less: Comments on Linear Inverse Problems,” Applied Mathematics
+Series, OSU, Columbus, April 21,
+• “Turbo Reconstruction of Structured Images: Compressive Sensing for Radar,” National
+Geospatial-Intelligence Agency, Mc Lean, Virgina, June 22, .
+• “Accelerated Data Acquisition for EPR Spectral-spatial Imaging,” Dorothy M. Davis Heart
+and Lung Research Institute, Columbus, Ohio, March 19, .
+• Regular iz ation Techniques for Linear Inverse Problems Compressive Sensing for Radar,”
+AFRL/RYA, Wright-Patterson AFB, July 15, .
+• “Accelerated Data Acquisition for EPR Spectral-spatial Imaging,” CESBMI Seminar series,
+Ohio State University, Nov 30, .
+• Regular iz ation Techniques for Linear Inverse Problems: Compressive Sensing for Radar,”
+ATR Center Summer Seminar Series, WPAFB, OH, July 15, .
+• “Bayes to the Bone: Sparse Reconstruction from Limited Data,” Compressive Sensing
+Workshop, Durham, NC, February 25, .
+• “Doing More with Less: Accelerated Data Acquisition for EPR Imaging,” Engineer-
+ing & Medicine Translational Research Symposium, Center for Clinical and Translational
+Science, Ohio State University Medical Center, September 29, .
+• “Reduced Acquisition Spectral-Spatial Electron Para magnetic Resonance Imaging,” Coor-
+dinated Science Laboratory and Beckman Institute, University of Illinois, Urbana, November
 9, .
-• “convex regularization for epr tomographic imaging,” davis heart & lung institute,
-ohio state university, november 1, .
-• “ultra wideband radar imaging,” army research laboratory’s federated laboratory pro-
-gram distinguished lecturer series, november 16, .
-• “bayes feature matching for radar target classification,” department of electrical engi-
-neering, rice university, houston, texas, december .
-• “signal processing for radar applications,” beckman institute, university of illinois, ur-
-bana, illinois, march 24, .
-• “scattering models for processing high frequency and polarimetric radar data,” center
-for image and signal processing, georgia institute of technology, atlanta ga, january 27,
+• “Convex Regular iz ation for EPR Tomo graphic Imaging,” Davis Heart & Lung Institute,
+Ohio State University, November 1, .
+• “Ultra Wideband Radar Imaging,” Army Research Laboratory s Federated Laboratory Pro-
+gram Distinguished Lecturer Series, November 16, .
+• “Bayes Feature Matching for Radar Target Classification,” Department of Electrical Engi-
+neering, Rice University, Houston, Texas, December .
+• “Signal Processing for Radar Applications,” Beckman Institute, University of Illinois, Ur-
+bana, Illinois, March 24, .
+• “Scattering Models for Processing High Frequency and Polar i metric Radar Data,” Center
+for Image and Signal Processing, Georgia Institute of Technology, Atlanta GA, January 27,
 .
-• “software antennas for uwb communications,” aro-usc ultrawideband radio work-
-shop, solvang, ca, may 26, .
-• “feature extraction using attributed scattering center models,” air force institute of
-technology, dayton, ohio, february 25, .
-• “prony analysis of ecg late potentials,” invited lecture, department of biomedical en-
-gineering, the ohio state university, may 19, .
-• “dual-use signal processing in cardiology,” the ohio aerospace institute, cleveland,
-ohio, dual-use medical imaging and signal processing workshop, february 23-24, .
-• “constrained signal recovery,” university of colorado, department of electrical engineer-
-ing colloquium, boulder, co, september 10, .
-(last updated january 21, ) 19
+• “Software Antennas for UWB Communications,” ARO-USC Ultra wide band Radio Work-
+shop, Solvang, CA, May 26, .
+• “Feature Extraction using Attributed Scattering Center Models,” Air Force Institute of
+Technology, Dayton, Ohio, February 25, .
+• “Prony Analysis of ECG Late Potentials,” Invited Lecture, Department of Biomedical En-
+gineering, The Ohio State University, May 19, .
+• “Dual-Use Signal Processing in Cardiology,” The Ohio Aerospace Institute, Cleveland,
+Ohio, Dual-Use Medical Imaging and Signal Processing Workshop, February 23-24, .
+• “Constrained Signal Recovery,” University of Colorado, Department of Electrical Engineer-
+ing Colloquium, Boulder, CO, September 10, .
+(Last updated January 21, ) 19

@@ -1,80 +1,79 @@
-huseyin ergin | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-department of computer science
+| University
+Department of
 (https://
-www.bsu.edu/academics/collegesanddepartments/computer-science)
-home > academics > colleges and departments > computer science > about us > faculty and staff
-> faculty > huseyin ergin
-huseyin ergin
-associate professor of computer science
-(https://www.bsu.edu/-/media/www/departmentalcontent/computerscience/cv/erginhuseyin.pdf?sc_lang=en)
-phone:
-email:
-view email address
-add contact to outlook
-room:
+Home > Academics > Colleges and Departments > Computer Science > About Us > Faculty and Staff
+> Faculty > Huseyin Ergin
+Huseyin Ergin
+Associate Professor of Computer Science
+Curriculum Vitae /-/media/www/departmentalcontent/computerscience/cv/erginhuseyin. pdf sc lang en
+Phone:
+Email:
+View Email Address
+Add Contact to Outlook
+Room:
 1 of 3 4/21/25,
-huseyin ergin | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-rb 374
-huseyin ergin is an associate professor in the computer science department at ball state university in muncie, indiana. his
-research interests include computer science education, software engineering, and model-driven engineering. he earned his
-ph.d. and m.sc. degrees from the university of alabama, as well as an additional m.sc. from sabanci university in turkey,
-and a b.sc. from yeditepe university in turkey, all in computer science or engineering. with extensive industry experience,
-huseyin ergin has worked as a software developer in r&d departments, it departments, startups, and manufacturing
-companies, giving him a comprehensive understanding of software development practices in various settings. he has also
-participated in programming, science, robotics, idea, startup, and entrepreneurship competitions/events. currently, he is
-actively collaborating with industry partners to research software engineering techniques and practices. huseyin ergin has
-secured over $150,000 in grant money for software engineering research from industry partners. in addition to his research
+Huseyin Ergin | Ball State University
+RB 374
+Huseyin Ergin is an Associate Professor in the Computer Science Department at Ball State University in Muncie, Indiana. His
+research interests include computer science education, software engineering, and model-driven engineering. He earned his
+Ph. D. and M. Sc. degrees from the University of Alabama, as well as an additional M. Sc. from Sabanci University in Turkey,
+and a B. Sc. from Yeditepe University in Turkey, all in computer science or engineering. With extensive industry experience,
+Huseyin Ergin has worked as a software developer in R&D departments, IT departments, startups, and manufacturing
+companies, giving him a comprehensive understanding of software development practices in various settings. He has also
+participated in programming, science, robotics, idea, startup, and entrepreneurship competitions/events. Currently, he is
+actively collaborating with industry partners to research software engineering techniques and practices. Huseyin Ergin has
+secured over $150,000 in grant money for software engineering research from industry partners. In addition to his research
 work, he teaches software engineering classes and supervises software projects for local community partners, including
-startups, non-profit organizations, university branches, and local companies. he also founded the capstone connector, a
-program under the innovation connector of muncie, which connects industry partners with student capstone teams.
-education
-■ ph.d., computer science, university of alabama,
-■ m.sc., computer science, university of alabama,
-interests
-■ software engineering
-■ systems modelling
-■ model transformations
-sampling of recent scholarship
-refereed publications
-ergin, syrianai, & gray, design pattern oriented development of model transformations (https://doi.org/10.1016/j.cl. .07.004),
-computer languages, systems & structures, volume 46, november , pages 106-139
-external grants
-ergin, h., "integrating modeling to increase abstraction in the code," sponsored by security and software engineering
-research center (s2erc) (http://www.serc.net/), $49,828.00. (may 7, - may 6, ).
-related links
-faculty-maintained website (http://www.cs.bsu.edu/homepages/hergin/)
-linkedin page (https://www.linkedin.com/in/h%c3%bcseyin-ergin-39625828/)
-google scholar page (https://scholar.google.com/citations?user=6jv1tp4aaaaj&hl=en)
+startups, non-profit organizations, university branches, and local companies. He also founded the Capstone Connector, a
+program under the Innovation Connector of Muncie, which connects industry partners with student Capstone teams.
+Education
+■ Ph. D., Computer Science, University of Alabama,
+■ M. Sc., Computer Science, University of Alabama,
+Interests
+■ Software Engineering
+■ Systems Modelling
+■ Model Transformations
+Sampling of Recent Scholarship
+REFEREED PUBLICATIONS
+Ergin, Syrianai, & Gray, Design pattern oriented development of model transformations /10.1016/j. cl..07.004),
+Computer Languages, Systems & Structures, Volume 46, November , Pages 106-139
+EXTERNAL GRANTS
+Ergin, H., "Integrating Modeling to Increase Abstraction in the Code," Sponsored by Security and Software Engineering
+Research Center (S2ERC) /), $49,828.00. (May 7, - May 6, ).
+Related Links
+Faculty-maintained website homepages herg in
+Linked IN page /in/h%c3%bcseyin-ergin-39625828/)
+Google Scholar page citations user 6 j v 1 tp 4 aaaa j hl en
 2 of 3 4/21/25,
-huseyin ergin | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-course schedule
-course no. section times days location
-software engineering - t r rb, room
+Huseyin Ergin | Ball State University
+COURSE SCHEDULE
+Course No. Section Times Days Location
+Software Engineering - T R RB, room
 (https://
 1045 353
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=498)
-software engineering - t r rb, room
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 498
+Software Engineering - T R RB, room
 (https://
 1215 353
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=498)
-software engineering 690 c01 0000 - ol, room
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 498
+Software Engineering 690 C01 0000 - OL, room
 (https://
-0000 online
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=690)
-department of computer science
+0000 ONLINE
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 690
+Department of Computer Science
 
-robert bell building (rb), room 455
-ball state university
-muncie, in 47306
+Robert Bell Building (RB), Room 455
+Ball State University
+Muncie, IN 47306
 
 📠
-(https://www.bsu.edu/)
-ball state university w. university ave. muncie, in and
-copyright © ball state university
-equal opportunity policy (https://www.bsu.edu/about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
-legal information (https://www.bsu.edu/about/administrativeoffices/general-counsel)
-tty numbers (https://www.bsu.edu/about/administrativeoffices/disability-services/about/contact) sitemap (https://www.bsu.edu/sitemap)
+/)
+Ball State University W. University Ave. Muncie, IN and
+Copyright © Ball State University
+Equal Opportunity Policy /about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
+Legal Information /about/administrativeoffices/general-counsel)
+TTY Numbers /about/administrativeoffices/disability-services/about/contact) Sitemap /sitemap)
 3 of 3 4/21/25,

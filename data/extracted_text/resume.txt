@@ -1,503 +1,502 @@
-qing qu
-eecs department, mobile: (
-universityofmichigan-annarbor, e-mail:
-1301 beal avenue, 4227 eecs zoom id:
-ann arbor, mi, usa, https://qingqu.engin.umich.edu/
-research interest
-high-dimensional data analysis, theory of deep learning, machine learning for scientic discovery
-professional experience
-assistant professor jan. – present
-ece division of eecs dept., university of michigan - ann arbor, mi, usa
-moore-sloan research fellow dec. – dec.
-center for data science, new york university, ny, usa
+EECS Department, Mobile: (
+University of Michigan-Ann Arbor, E-Mail:
+1301 Beal Avenue, 4227 EECS Zoom ID:
+Ann Arbor, MI, USA,
+Research Interest
+High-dimensional Data Analysis, Theory of Deep Learning, Machine Learning for Scientic Discovery
+PROFESSIONAL EXPERIENCE
+Assistant Professor Jan. – present
+ECE division of EECS Dept., University of Michigan - Ann Arbor, MI, USA
+Moore-Sloan Research Fellow Dec. – Dec.
+Center for Data Science, New York University, NY, USA
 research assistant professor with limited term
-education
-ph.d. electrical engineering oct.
-columbia university in the city of new york, new york, usa
-thesis: nonconvex recovery of low-dimensional models [link], advisor: prof. john n. wright
-m.s.e. electrical & computer engineering may
-johns hopkins university, baltimore, usa
-research focus: compressed sensing and sparse representations, advisor: prof. trac d. tran
-b.e. electronic engineering jul.
-tsinghua university, beijing, china
-honors and awards
-best paper award, neurips workshop on diusion models
-amazon research awards, aws ai
-nsf career awards
-national science foundation’s most prestigious awards in support of early-career faculty
-top reviewer for neurips & icml -
-recognized as an outstanding reviewer (top 8%) for neurips’21, top 33% reviewer for icml’20, top
-400 (top 10%) reviewer for neurips’19, and top 30% reviewer for neurips’18
-nyu moore-sloan data science fellowship –
-microsoft research ph.d. fellowship sept. – may
-only 12 ph.d. graduate students in eecs across north amercia were awarded annually.
-best student paper award in spars’15
-joint with ju sun and john wright
-dean robert h. roy fellowship
-prestigious fellowship from the whiting school of engineering, the johns hopkins university
-first class award for student research training
-awarded for top 3 of over 700 undergraduate research projects across school, tsinghua university
-project: sparse signal recovery for compressed sensing, advisor: prof. yuantao gu
-representative publications
-total citations: 3389, h-index: 27, according to google scholar as of february 2, . please refer
-to my google scholar for updated citations. indicates equal contributions.
+EDUCATION
+Ph. D. Electrical Engineering Oct.
+Columbia University in the City of New York, New York, USA
+Thesis: Nonconvex recovery of low-dimensional models [link], Advisor: Prof. John N. Wright
+M. S. E. Electrical & Computer Engineering May
+Johns Hopkins University, Baltimore, USA
+Research focus: compressed sensing and sparse representations, Advisor: Prof. Trac D. Tran
+B. E. Electronic Engineering Jul.
+Tsinghua University, Beijing, China
+HONORS AND AWARDS
+Best Paper Award, Neur IPS Workshop on Diusion Models
+Amazon Research Awards, AWS AI
+NSF Career Awards
+National Science Foundation s most prestigious awards in support of early-career faculty
+Top Reviewer for Neur IPS & ICML -
+Recognized as an outstanding reviewer (top 8%) for Neur IPS’21, top 33% reviewer for ICML’20, top
+400 (top 10%) reviewer for Neur IPS’19, and top 30% reviewer for Neur IPS’18
+NYU Moore-Sloan Data Science Fellowship –
+Microsoft Research Ph. D. Fellowship Sept. – May
+Only 12 Ph. D. graduate students in EECS across North Amercia were awarded annually.
+Best Student Paper Award in SPARS’15
+Joint with Ju Sun and John Wright
+Dean Robert H. Roy Fellowship
+Prestigious fellowship from the Whiting School of Engineering, the Johns Hopkins University
+First Class Award for Student Research Training
+Awarded for top 3 of over 700 undergraduate research projects across school, Tsinghua University
+Project: sparse signal recovery for compressed sensing, Advisor: Prof. Yuantao Gu
+REPRESENTATIVE PUBLICATIONS
+Total citations: 3389, H-index: 27, according to Google Scholar as of February 2, . Please refer
+to my Google Scholar for updated citations. indicates equal contributions.
 †
-[1] huijie zhang , jinfan zhou , yifu lu, minzhe guo, liyue shen, and qing qu. the emergence
+[1] Huijie Zhang , Jinfan Zhou , Yifu Lu, Minzhe Guo, Liyue Shen, and Qing Qu. The Emergence
 † †
-of reproducibility and consistency in diusion models. in international conference on machine
-learning (icml), (best paper award of neurips workshop on diusion models).
-[2] can yaras, peng wang, laura balzano, and qing qu. compressible dynamics in deep overpa-
-rameterized low-rank learning & adaptation. in international conference on machine learning
-(icml), (oral, top 1.5%, best poster award at mmls’24).
-[3] bowen song, soo-min kwon, zecheng zhang, xinyu hu, qing qu, and liyue shen. solving
-inverse problems with latent diusion models via hard data consistency. in international
-conference on learning representations (iclr), (spotlight, top 4%).
-[4] zhihui zhu , tianyu ding , jinxin zhou, xiao li, chong you, jeremias sulam, and qing qu.
+of Reproducibility and Consistency in Diusion Models. In International Conference on Machine
+Learning (ICML), (Best Paper Award of Neur IPS Workshop on Diusion Models).
+[2] Can Yaras, Peng Wang, Laura Balzano, and Qing Qu. Compressible Dynamics in Deep Overpa-
+ra meter i zed Low-Rank Learning & Adaptation. In International Conference on Machine Learning
+(ICML), (Oral, top 1.5%, Best Poster Award at MMLS’24).
+[3] Bowen Song, Soo-Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, and Liyue Shen. Solving
+Inverse Problems with Latent Diusion Models via Hard Data Consistency. In International
+Conference on Learning Representations (ICLR), (Spotlight, top 4%).
+[4] Zhihui Zhu , Tianyu Ding , Jinxin Zhou, Xiao Li, Chong You, Jeremias Sulam, and Qing Qu.
 † †
-a geometric analysis of neural collapse with unconstrained features. in advances in neural
-information processing systems (neurips), (spotlight, top 3%).
-[5] qing qu, yuexiang zhai, xiao li, yuqian zhang, and zhihui zhu. geometric analysis of
-nonconvex optimization landscapes for overcomplete learning. in international conference on
-learning representations (iclr), (oral, the highest review score, top 1.9%).
-[6] chong you , zhihui zhu , qing qu, and yi ma. robust recovery via implicit bias of discrepant
+A Geometric Analysis of Neural Collapse with Un constrained Features. In Advances in Neural
+Information Processing Systems (Neur IPS), (Spotlight, top 3%).
+[5] Qing Qu, Yuexiang Zhai, Xiao Li, Yuqian Zhang, and Zhihui Zhu. Geometric Analysis of
+Nonconvex Optimization Landscapes for Over complete Learning. In International Conference on
+Learning Representations (ICLR), (Oral, the highest review score, top 1.9%).
+[6] Chong You , Zhihui Zhu , Qing Qu, and Yi Ma. Robust Recovery via Implicit Bias of Discrepant
 † †
-learning rates for double over-parameterization. in advances in neural information processing
-systems (neurips), (spotlight, top 4%).
-[7] qing qu, xiao li, and zhihui zhu. exact recovery of multichannel sparse blind deconvolution
-via gradient descent. siam journal on imaging sciences, 13(3):1630–1652, (neurips’19,
-spotlight, top 3%).
-[8] ju sun, qing qu, and john wright. a geometric analysis of phase retrieval. foundations of
-computational mathematics, 18(5):1131–1198, (frontiers of science award in mathe-
-matics, icbs’24).
-[9] ju sun, qing qu, and john wright. complete dictionary recovery using nonconvex optimiza-
-tion. in international conference on machine learning (icml), pages 2351–2360, (best
-paper award at spars’15).
-grants
-total funding raised: $6,089,280; pi’s own share: $3,286,938
-current projects
-army research oce (aro) w911nf-
-ecient and robust learning for domain shift and data scarcity at the edge. award amount:
-$300,000, period covered: 3/01/ - 02/28/
-pi: qing qu, co-pi: jj (jeong joon) park (pi’s share: $150,000)
-nsf cise medium, award #
-collaborative research: ri: medium: principled approaches to deep learning for low-dimensional
-structures award amount: $1,200,000, period covered: 7/15/ - 06/30/
-pi: qing qu, co-pi: zhihui zhu, co-pi: yi ma (pi’s share: $400,000)
-nsf cise medium, award #
-collaborative research: ri: medium: principles for optimization, generalization, and transferability
-via deep neural collapse award amount: $1,200,000, period covered: 10/01/ - 09/30/
-pi: zhihui zhu, co-pi: jeremias sulam, co-pi: qing qu (pi’s share: $400,000)
-amazon research awards, aws ai
-single pi, award amount: $70,000 gift fund + $50,000 aws credit
-kla corporation gift grant -
-domain adaptation via machine learning single pi, award amount: $100,000
-micde catalyst grant
-ecient diusion models for scientic machine learning award amount: $100,000,
-period covered: 11/01/ - 10/31/
-pi: liyue shen, co-pi: je fessler, co-pi: qing qu
-nsf career, ccf, award #2143904, single pi: qing qu
-from shallow to deep representation learning: global nonconvex optimization theories and ecient
-algorithms award amount: $633,280 + aws credit $15,000, period covered: 05/01/ - 05/01/
-nsf cise medium, award #
-collaborative research: cif: medium: taming deep unsupervised representation learning in imaging:
-theory and algorithms award amount: $1,200,000, period covered: 10/01/ - 09/30/
-pi: saiprasad ravishankar, co-pi: matthew hirn, co-pi: qing qu (pi’s share: $370,703 + reu
-$16,000 + aws credit $15,000)
-nsf cise medium, award #
-collaborative research: cif: medium: foundations of robust deep learning via data geometry and
-dyadic structure award amount: $1,200,000, period covered: 10/01/ - 09/30/
-pi: kevin moon, co-pi: abram magner, co-pi: qing qu (transferred from pi alfred hero, pi’s
-share: $471,955 + aws credit $15,000)
-oce of naval research (onr), n00014-22-s-b001, single pi: qing qu
-towardsecient(deep)representationlearningthroughnonconvexoptimizationandlow-dimensional
-models award amount: $360,000, period covered: 07/01/ - 06/30/
-completed projects
-seeding to accelerate research themes (start) grant, university of michigan
-next generation data science: from high dimensional statistics to nonconvex optimization budget:
-$75,000, period covered: 07/01/ - 06/30/
-pi: qing qu (pi’s share: $15,000), co-pi: laura balzano, co-pi: salar fatthi, co-pi: albert
-berahas, co-pi: eunshin byon
-propelling original data science (pods) grant, university of michigan
-machine learning guided co-design for reconstructive spectroscopy budget: $50,000, period covered:
+Learning Rates for Double Over-parameterization. In Advances in Neural Information Processing
+Systems (Neur IPS), (Spotlight, top 4%).
+[7] Qing Qu, Xiao Li, and Zhihui Zhu. Exact Recovery of Multichannel Sparse Blind De convolution
+via gradient descent. SIAM Journal on Imaging Sciences, 13 3 1630 1652 (Neur IPS’19,
+Spotlight, top 3%).
+[8] Ju Sun, Qing Qu, and John Wright. A Geometric Analysis of Phase Retrieval. Foundations of
+Computational Mathematics, 18 5 1131 1198 (Frontiers of Science Award in Mathe-
+matics, ICBS’24).
+[9] Ju Sun, Qing Qu, and John Wright. Complete Dictionary Recovery using Nonconvex Optimiza-
+tion. In International Conference on Machine Learning (ICML), pages 2351–2360, (Best
+Paper Award at SPARS’15).
+GRANTS
+Total funding raised: 6 089 280 PI’s own share: $3,286,938
+Current Projects
+Army Research Oce (ARO) W911NF-
+Ecient and Robust Learning for Domain Shift and Data Scarcity at the Edge. Award Amount:
+$300,000, Period Covered: 3/01/ - 02/28/
+PI: Qing Qu, Co-PI: JJ (Jeong Joon) Park (PI’s share: $150,000)
+NSF CISE Medium, Award #
+Collaborative Research: RI: Medium: Principled Approaches to Deep Learning for Low-dimensional
+Structures Award Amount: 1 200 000 Period Covered: 7/15/ - 06/30/
+PI: Qing Qu, Co-PI: Zhihui Zhu, Co-PI: Yi Ma (PI’s share: $400,000)
+NSF CISE Medium, Award #
+Collaborative Research: RI: Medium: Principles for Optimization, Generalization, and Transfer ability
+via Deep Neural Collapse Award Amount: 1 200 000 Period Covered: 10/01/ - 09/30/
+PI: Zhihui Zhu, Co-PI: Jeremias Sulam, Co-PI: Qing Qu (PI’s share: $400,000)
+Amazon Research Awards, AWS AI
+Single PI, Award Amount: $70,000 gift fund + $50,000 AWS credit
+KLA Corporation Gift Grant -
+Domain Adaptation via Machine Learning Single PI, Award Amount: $100,000
+MICDE Catalyst Grant
+Ecient Diusion Models for Scientic Machine Learning Award Amount: $100,000,
+Period Covered: 11/01/ - 10/31/
+PI: Liyue Shen, Co-PI: Je Fessler, Co-PI: Qing Qu
+NSF Career, CCF, Award #2143904, Single PI: Qing Qu
+From Shallow to Deep Representation Learning: Global Nonconvex Optimization Theories and Ecient
+Algorithms Award Amount: $633,280 + AWS Credit $15,000, Period Covered: 05/01/ - 05/01/
+NSF CISE Medium, Award #
+Collaborative Research: CIF: Medium: Taming Deep Unsupervised Representation Learning in Imaging:
+Theory and Algorithms Award Amount: 1 200 000 Period Covered: 10/01/ - 09/30/
+PI: Saiprasad Ravi shankar Co-PI: Matthew Hirn, Co-PI: Qing Qu (PI’s share: $370,703 + REU
+$16,000 + AWS Credit $15,000)
+NSF CISE Medium, Award #
+Collaborative Research: CIF: Medium: Foundations of Robust Deep Learning via Data Geometry and
+Dyadic Structure Award Amount: 1 200 000 Period Covered: 10/01/ - 09/30/
+PI: Kevin Moon, Co-PI: Abram Magner, Co-PI: Qing Qu (transferred from PI Alfred Hero, PI’s
+share: $471,955 + AWS Credit $15,000)
+Oce of Naval Research (ONR), N00014-22-S-B001, Single PI: Qing Qu
+Towards E cie nt Deep Representation Learning Through Nonconvex Optimization and Low-dimensional
+Models Award Amount: $360,000, Period Covered: 07/01/ - 06/30/
+Completed Projects
+Seeding To Accelerate Research Themes (START) Grant, University of Michigan
+Next Generation Data Science: from High Dimensional Statistics to Nonconvex Optimization Budget:
+$75,000, Period Covered: 07/01/ - 06/30/
+PI: Qing Qu (PI’s share: $15,000), Co-PI: Laura Balzano, Co-PI: Salar Fatthi, Co-PI: Albert
+Berahas, Co-PI: Eunshin Byon
+Propelling Original Data Science (PODS) Grant, University of Michigan
+Machine Learning Guided Co-design for Reconstructive Spectroscopy Budget: $50,000, Period Covered:
 08/01/ - 07/30/
-pi: qing qu (pi’s share: $30,000), co-pi: pei-cheng ku
-nsf dms, award #
-mathematical analysis of super-resolution via nonconvex optimization and machine learning
-award amount: $ 340,000, period covered: 08/01/ - 07/31/
-pi: carlos fernandez-granda, co-pi: qing qu (transferred to the pi on 12/31/ )
-full publication list
-preprints
-[1] xiaoli,zekaizhang,xiangli,siyichen,zhihuizhu,pengwang,andqing qu.understanding
-inner representation of diusion models via low-dimensional modeling. in submission to
-icml’25, .
-[2] siyi chen, yimeng zhang, sijia liu, and qing qu. the dual power of interpretable token
-embeddings: jailbreaking attacks and defenses for diusion model unlearning. in submission
-to icml’25, .
-[3] xiang li, yixiang dai, rongrong wang, and qing qu. towards understanding the mechanisms
-of classier-free guidance. in submission to icml’25, .
-[4] pengwang, yifu lu,yaodong yu, druv pai, qing qu,and yi ma. attention-onlytransformers
-via unrolled subspace denoising. in submission to icml’25, .
-[5] alec s xu, can yaras, peng wang, and qing qu. understanding how nonlinear layers create
-linearly separable features for low-dimensional data. arxiv preprint arxiv:2501.02364, in
-submission to siam journal on mathematics of data science, .
-[6] siyi chen , yixuan jia , qing qu, he sun, and jerey a fessler. flowdas: a flow-based
+PI: Qing Qu (PI’s share: $30,000), Co-PI: Pei-Cheng Ku
+NSF DMS, Award #
+Mathematical Analysis of Super-resolution via Nonconvex Optimization and Machine Learning
+Award Amount: $ 340,000, Period Covered: 08/01/ - 07/31/
+PI: Carlos Fernandez-Granda, Co-PI: Qing Qu (transferred to the PI on 12/31/)
+FULL PUBLICATION LIST
+Preprints
+[1] Xiao Li, Zekai Zhang, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, and Qing Qu. Understanding
+Inner Representation of Diusion Models via Low-Dimensional Modeling. In submission to
+ICML’25, .
+[2] Siyi Chen, Yimeng Zhang, Sijia Liu, and Qing Qu. The Dual Power of Interpret able Token
+Embedding s Jail breaking Attacks and Defenses for Diusion Model Unlearning. In submission
+to ICML’25, .
+[3] Xiang Li, Yixiang Dai, Rongrong Wang, and Qing Qu. Towards Understanding the Mechanisms
+of Classier-Free Guidance. In submission to ICML’25, .
+[4] Peng Wang, Yifu Lu, Yaodong Yu, Druv Pai, Qing Qu, and Yi Ma. Attention-Only Transformers
+via Unrolled Subspace Denoising. In submission to ICML’25, .
+[5] Alec S Xu, Can Yaras, Peng Wang, and Qing Qu. Understanding How Nonlinear Layers Create
+Linearly Separable Features for Low-Dimensional Data. Ar Xiv Preprint ar Xiv:2501.02364, in
+submission to SIAM Journal on Mathematics of Data Science, .
+[6] Siyi Chen , Yixuan Jia , Qing Qu, He Sun, and Jerey A Fessler. Flow DAS: A Flow-Based
 † †
-framework for data assimilation. arxiv preprint arxiv:2501.16642, in submission to cvpr’25,
+Framework for Data Assimilation. Ar Xiv Preprint ar Xiv:2501.16642, in submission to CVPR’25,
 .
-[7] peng wang , huijie zhang , zekai zhang, siyi chen, yi ma, and qing qu. diusion model
+[7] Peng Wang , Huijie Zhang , Zekai Zhang, Siyi Chen, Yi Ma, and Qing Qu. Diusion Model
 † †
-learns low-dimensional distributions via subspace clustering. arxiv preprint arxiv:2409.02426,
-in submission to the proceedings of the national academy of sciences (pnas), .
-[8] can yaras , siyi chen , peng wang, and qing qu. explaining and mitigating the modality
+Learns Low-Dimensional Distributions via Subspace Clustering. Arxiv Preprint ar Xiv:2409.02426,
+in submission to the Proceedings of the National Academy of Sciences (PNAS), .
+[8] Can Yaras , Siyi Chen , Peng Wang, and Qing Qu. Explaining and Mitigating the Modality
 † †
-gap in contrastive multimodal learning. arxiv preprint arxiv:2412.07909, in submission to
-cpal’25, .
-[9] huminhao zhu, fangyikang wang, tianyu ding, qing qu, and zhihui zhu. analyzing and
-improving model collapse in rectied flow models. arxiv preprint arxiv:2412.08175, in
-submission to icml’25, .
-[10] wenda li , huijie zhang , and qing qu. shallow diuse: robust and invisible watermarking
+Gap in Contrastive Multimodal Learning. Ar Xiv Preprint ar Xiv:2412.07909, in submission to
+CPAL’25, .
+[9] Huminhao Zhu, Fangyikang Wang, Tianyu Ding, Qing Qu, and Zhihui Zhu. Analyzing and
+Improving Model Collapse in Rectied Flow Models. Ar Xiv Preprint ar Xiv:2412.08175, in
+submission to ICML’25, .
+[10] Wenda Li , Huijie Zhang , and Qing Qu. Shallow Diuse: Robust and Invisible Watermarking
 † †
-through low-dimensional subspaces in diusion models. arxiv preprint arxiv:2410.21088, in
-submission to icml’25, .
-[11] ismail alkhouri, shijun liang, cheng-han huang, jimmy dai, qing qu, saiprasad ravishankar,
-and rongrong wang. sitcom: step-wise triple-consistent diusion sampling for inverse
-problems. arxiv preprint arxiv:2410.04479, in submission to icml’25, .
-[12] siyi chen, minkyu choi, zesen zhao, kuan han, qing qu, and zhongming liu. unfolding
-videos dynamics via taylor expansion. arxiv preprint arxiv:2409.02371, in submission to
-cpal’25, .
-[13] xiangli,soominkwon,ismailalkhouri,saiprasadravishankar,andqing qu.decoupleddata
-consistency with diusion purication for image restoration. arxiv preprint arxiv:2403.06054,
-in submission to iccv’25, .
-[14] peng wang , xiao li , can yaras, zhihui zhu, laura balzano, wei hu, and qing qu. under-
+through Low-Dimensional Subspaces in Diusion Models. Ar Xiv Preprint ar Xiv:2410.21088, in
+submission to ICML’25, .
+[11] Ismail Alkhouri, Shijun Liang, Cheng-Han Huang, Jimmy Dai, Qing Qu, Saiprasad Ravi shankar
+and Rongrong Wang. SITCOM: Step-wise Triple-Consistent Diusion Sampling for Inverse
+Problems. Ar Xiv Preprint ar Xiv:2410.04479, in submission to ICML’25, .
+[12] Siyi Chen, Minkyu Choi, Zesen Zhao, Kuan Han, Qing Qu, and Zhongming Liu. Unfolding
+Videos Dynamics via Taylor Expansion. Arxiv Preprint ar Xiv:2409.02371, in submission to
+CPAL’25, .
+[13] Xiang Li, Soo Min Kwon, Ismail Alkhouri, Saiprasad Ravi shankar and Qing Qu. Decoupled Data
+Consistency with Diusion Pur i cation for Image Restoration. Ar Xiv Preprint ar Xiv:2403.06054,
+in submission to ICCV’25, .
+[14] Peng Wang , Xiao Li , Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, and Qing Qu. Under-
 † †
-standing deep representation learning via layerwise feature compression and discrimination.
-arxiv preprint arxiv:2311.02960, in submission to journal of machine learning research
-(jmlr), .
-[15] can yaras , peng wang , wei hu, zhihui zhu, laura balzano, and qing qu. the law of parsi-
+standing Deep Representation Learning via Layerwise Feature Compression and Discrimination.
+Ar Xiv Preprint ar Xiv:2311.02960, in submission to Journal of Machine Learning Research
+(JMLR), .
+[15] Can Yaras , Peng Wang , Wei Hu, Zhihui Zhu, Laura Balzano, and Qing Qu. The Law of Parsi-
 † †
-mony in gradient descent for learning deep linear networks. arxiv preprint arxiv:2306.01154,
+mony in Gradient Descent for Learning Deep Linear Networks. Ar Xiv Preprint ar Xiv:2306.01154,
 .
-[16] ismail alkhouri, shijun liang, rongrong wang, qing qu, and saiprasad ravishankar. diusion-
-basedadversarialpuricationforrobustdeepmrireconstruction.arxivpreprintarxiv:2309.05794,
-in submission to ieee transactions on neural networks and learning systems (tnnls), .
-[17] yuqian zhang, qing qu, and john wright. from symmetry to geometry: tractable nonconvex
-problems. arxiv preprint arxiv: .06753, .
-[18] qing qu , zhihui zhu , xiao li, m. c. tsakiris, john wright, and ren´e vidal. finding
+[16] Ismail Alkhouri, Shijun Liang, Rongrong Wang, Qing Qu, and Saiprasad Ravishankar. Diusion-
+based Adversarial Pur i cation for Robust Deep MRIReconstruction. Ar Xiv Preprintar Xiv:2309.05794,
+in submission to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), .
+[17] Yuqian Zhang, Qing Qu, and John Wright. From Symmetry to Geometry: Tractable Nonconvex
+Problems. Ar Xiv Preprint ar Xiv:.06753, .
+[18] Qing Qu , Zhihui Zhu , Xiao Li, M. C. Tsakiris, John Wright, and Ren´e Vidal. Finding
 † †
-the sparsest vectors in a subspace: theory, algorithms, and applications. arxiv preprint
-arxiv: .06970, .
-conference proceedings
-[1] avrajit ghosh, soo min kwon, rongrong wang, saiprasad ravishankar, and qing qu. learning
-dynamicsofdeepmatrixfactorizationbeyondtheedgeofstability.ininternational conference
-on learning representations (iclr), .
-[2] siyi chen , huijie zhang , minzhe guo, yifu lu, peng wang, and qing qu. exploring low-
+the Sparsest Vectors in a Subspace: Theory, Algorithms, and Applications. Ar Xiv Preprint
+ar Xiv:.06970, .
+Conference Proceedings
+[1] Avrajit Ghosh, Soo Min Kwon, Rongrong Wang, Saiprasad Ravi shankar and Qing Qu. Learning
+Dynamicsof Deep Matrix Factorization Beyondthe Edgeof Stability. In International Conference
+on Learning Representations (ICLR), .
+[2] Siyi Chen , Huijie Zhang , Minzhe Guo, Yifu Lu, Peng Wang, and Qing Qu. Exploring Low-
 † †
-dimensional subspace in diusion models for controllable image editing. in advances in neural
-information processing systems (neurips), .
-[3] xiangli,yixiangdai,andqingqu.understandinggeneralizabilityofdiusionmodelsrequires
-rethinkingthehiddengaussianstructure.inadvances in neuralinformationprocessing systems
-(neurips), .
-[4] ismail alkhouri, shijun liang, evan bell, qing qu, rongrong wang, and saiprasad ravishankar.
-image reconstruction via autoencoding sequential deep image prior. in advances in neural
-information processing systems (neurips), .
-[5] changwoo lee, soo min kwon, qing qu, and hun-seok kim. blast: block-level adap-
-tive structured matrices for ecient deep neural network inference. in advances in neural
-information processing systems (neurips), .
-[6] huijie zhang , jinfan zhou , yifu lu, minzhe guo, liyue shen, and qing qu. the emergence
+Dimensional Subspace in Diusion Models for Controllable Image Editing. In Advances in Neural
+Information Processing Systems (Neur IPS), .
+[3] Xiang Li, Yixiang Dai, and Qing Qu. Understanding General iz ability of Diusion Models Requires
+Rethinking the Hidden Gaussian Structure. In Advances in Neural Information Processing Systems
+(Neur IPS), .
+[4] Ismail Alkhouri, Shijun Liang, Evan Bell, Qing Qu, Rongrong Wang, and Saiprasad Ravishankar.
+Image Reconstruction via Auto encoding Sequential Deep Image Prior. In Advances in Neural
+Information Processing Systems (Neur IPS), .
+[5] Changwoo Lee, Soo Min Kwon, Qing Qu, and Hun-Seok Kim. BLAST: Block-Level Adap-
+tive Structured Matrices for Ecient Deep Neural Network Inference. In Advances in Neural
+Information Processing Systems (Neur IPS), .
+[6] Huijie Zhang , Jinfan Zhou , Yifu Lu, Minzhe Guo, Liyue Shen, and Qing Qu. The Emergence
 † †
-of reproducibility and consistency in diusion models. in international conference on machine
-learning (icml), (best paper award of neurips workshop on diusion models).
-[7] can yaras, peng wang, laura balzano, and qing qu. compressible dynamics in deep overpa-
-rameterized low-rank learning & adaptation. in international conference on machine learning
-(icml), (oral, top 1.5%).
-[8] pengyu li , yutong wang , xiao li, and qing qu. neural collapse in multi-label learning
+of Reproducibility and Consistency in Diusion Models. In International Conference on Machine
+Learning (ICML), (best paper award of Neur IPS Workshop on Diusion Models).
+[7] Can Yaras, Peng Wang, Laura Balzano, and Qing Qu. Compressible Dynamics in Deep Overpa-
+ra meter i zed Low-Rank Learning & Adaptation. In International Conference on Machine Learning
+(ICML), (oral, top 1.5%).
+[8] Pengyu Li , Yutong Wang , Xiao Li, and Qing Qu. Neural Collapse in Multi-label Learning
 † †
-with pick-all-label loss. in international conference on machine learning (icml), .
-[9] jiachen jiang, jinxin zhou, peng wang, qing qu, dustin mixon, chong you, and zhihui zhu.
-generalized neural collapse for a large number of classes. in international conference on
-machine learning (icml), .
-[10] peng wang, huikang liu, druv pai, yaodong yu, zhihui zhu, qing qu, and yi ma. a global
-geometric analysis of maximal coding rate reduction. in international conference on machine
-learning (icml), .
-[11] huikang liu, peng wang, longxiu huang, qing qu, and laura balzano. matrix completion
-with relu sampling. in international conference on machine learning (icml), .
-[12] avrajit ghosh, xitong zhang, kenneth k. sun, qing qu, saiprasad ravishankar, and rongrong
-wang. optimal eye surgeon: finding image priors through sparse generators at initialization.
-in international conference on machine learning (icml), .
-[13] soo min kwon , zekai zhang , dogyoon song, laura balzano, and qing qu. ecient low-
+with Pick-all-label Loss. In International Conference on Machine Learning (ICML), .
+[9] Jiachen Jiang, Jinxin Zhou, Peng Wang, Qing Qu, Dustin Mixon, Chong You, and Zhihui Zhu.
+Generalized Neural Collapse for a Large Number of Classes. In International Conference on
+Machine Learning (ICML), .
+[10] Peng Wang, Huikang Liu, Druv Pai, Yaodong Yu, Zhihui Zhu, Qing Qu, and Yi Ma. A Global
+Geometric Analysis of Maximal Coding Rate Reduction. In International Conference on Machine
+Learning (ICML), .
+[11] Huikang Liu, Peng Wang, Longxiu Huang, Qing Qu, and Laura Balzano. Matrix Completion
+with Re LU Sampling. In International Conference on Machine Learning (ICML), .
+[12] Avrajit Ghosh, Xitong Zhang, Kenneth K. Sun, Qing Qu, Saiprasad Ravi shankar and Rongrong
+Wang. Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization.
+In International Conference on Machine Learning (ICML), .
+[13] Soo Min Kwon , Zekai Zhang , Dogyoon Song, Laura Balzano, and Qing Qu. Ecient Low-
 † †
-dimensional compression of overparameterized models. in international conference on articial
-intelligence and statistics (aistats), pages 1009–1017, .
-[14] huijie zhang , yifu lu , ismail alkhouri, saiprasad ravishankar, dogyoon song, and qing qu.
+Dimensional Compression of Over parameterized Models. In International Conference on Articial
+Intelligence and Statistics (AISTATS), pages 1009–1017, .
+[14] Huijie Zhang , Yifu Lu , Ismail Alkhouri, Saiprasad Ravi shankar Dogyoon Song, and Qing Qu.
 † †
-improving training eciency of diusion models via multi-stage framework and tailored
-multi-decoder architectures. in proceedings of the ieee conference on computer vision and
-pattern recognition (cvpr), .
-[15] bowen song, soo-min kwon, zecheng zhang, xinyu hu, qing qu, and liyue shen. solving
-inverse problems with latent diusion models via hard data consistency. in international
-conference on learning representations (iclr), (spotlight, top 4%).
-[16] yuexiang zhai, shengbang tong, xiao li, mu cai, qing qu, yong jae lee, and yi ma.
-investigating the catastrophic forgetting in multimodal large language models. in conference
-on parsimony and learning (cpal), (oral).
-[17] evan bell, shijun liang, qing qu, and saiprasad ravishankar. robust self-guided deep image
-prior. in ieee international conference on acoustics, speech and signal processing (icassp),
+Improving Training Eciency of Diusion Models via Multi-Stage Framework and Tailored
+Multi-Decoder Architectures. In Proceedings of the IEEE Conference on Computer Vision and
+Pattern Recognition (CVPR), .
+[15] Bowen Song, Soo-Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, and Liyue Shen. Solving
+Inverse Problems with Latent Diusion Models via Hard Data Consistency. In International
+Conference on Learning Representations (ICLR), (spotlight, top 4%).
+[16] Yuexiang Zhai, Shengbang Tong, Xiao Li, Mu Cai, Qing Qu, Yong Jae Lee, and Yi Ma.
+Investigating the Catastrophic Forgetting in Multimodal Large Language Models. In Conference
+on Parsimony and Learning (CPAL), (oral).
+[17] Evan Bell, Shijun Liang, Qing Qu, and Saiprasad Ravishankar. Robust Self-Guided Deep Image
+Prior. In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
 pages 1–5, (oral).
-[18] can yaras , peng wang , zhihui zhu, laura balzano, and qing qu. neural collapse with
+[18] Can Yaras , Peng Wang , Zhihui Zhu, Laura Balzano, and Qing Qu. Neural Collapse with
 † †
-normalized features: a geometric analysis over the riemannian manifold. in advances in
-neural information processing systems (neurips), .
-[19] jinxin zhou, chong you, xiao li, kangning liu, liu sheng, qing qu, and zhihui zhu. are
-all losses created equal: a neural collapse perspective. in advances in neural information
-processing systems (neurips), .
-[20] peng wang , huikang liu , can yaras , laura balzano, and qing qu. linear convergence
+Normalized Features: A Geometric Analysis over the Riemannian Manifold. In Advances in
+Neural Information Processing Systems (Neur IPS), .
+[19] Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, Liu Sheng, Qing Qu, and Zhihui Zhu. Are
+All Losses Created Equal: A Neural Collapse Perspective. In Advances in Neural Information
+Processing Systems (Neur IPS), .
+[20] Peng Wang , Huikang Liu , Can Yaras , Laura Balzano, and Qing Qu. Linear Convergence
 † † †
-analysis of neural collapse with unconstrained features. in neurips’22 workshop: optimization
-for machine learning (in preparation for siam journal on optimization), .
-[21] shuo xie, jiahao qiu, ankita pasad, qing qu, and hongyuan mei. hidden state variability
-of pretrained language models can guide computation reduction for transfer learning. in
-findings of the association for computational linguistics: emnlp, .
-[22] sheng liu, zhihui zhu, qing qu, and chong you. robust training under label noise by
-over-parameterization. in international conference on machine learning (icml), .
-[23] jinxin zhou , xiao li , tianyu ding, chong you, qing qu , and zhihui zhu . on the opti-
+Analysis of Neural Collapse with Un constrained Features. In Neur IPS’22 Workshop: Optimization
+for Machine Learning (In Preparation for SIAM Journal on Optimization), .
+[21] Shuo Xie, Jiahao Qiu, Ankita Pasad, Qing Qu, and Hongyuan Mei. Hidden State Variability
+of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning. In
+Findings of the Association for Computational Linguistics: EMNLP, .
+[22] Sheng Liu, Zhihui Zhu, Qing Qu, and Chong You. Robust Training under Label Noise by
+Over-parameterization. In International Conference on Machine Learning (ICML), .
+[23] Jinxin Zhou , Xiao Li , Tianyu Ding, Chong You, Qing Qu , and Zhihui Zhu . On the Opti-
 † † † †
-mization landscape of neural collapse under mse loss: global optimality with unconstrained
-features. in international conference on machine learning (icml), .
-[24] lijun ding , liwei jiang , yudong chen, qing qu, and zhihui zhu. rank overspecied robust
+mization Landscape of Neural Collapse under MSE Loss: Global Optimality with Un constrained
+Features. In International Conference on Machine Learning (ICML), .
+[24] Lijun Ding , Liwei Jiang , Yudong Chen, Qing Qu, and Zhihui Zhu. Rank Over spec i ed Robust
 † †
-matrix recovery: subgradient method and exact recovery. in advances in neural information
-processing systems (neurips), .
-[25] zhihui zhu , tianyu ding , jinxin zhou, xiao li, chong you, jeremias sulam, and qing qu.
+Matrix Recovery: Sub gradient Method and Exact Recovery. In Advances in Neural Information
+Processing Systems (Neur IPS), .
+[25] Zhihui Zhu , Tianyu Ding , Jinxin Zhou, Xiao Li, Chong You, Jeremias Sulam, and Qing Qu.
 † †
-a geometric analysis of neural collapse with unconstrained features. in advances in neural
-information processing systems (neurips), (spotlight, top 3%).
-[26] sheng liu , xiao li , chong you, zhihui zhu, carlos fernandez-granda, and qing qu. convo-
+A Geometric Analysis of Neural Collapse with Un constrained Features. In Advances in Neural
+Information Processing Systems (Neur IPS), (spotlight, top 3%).
+[26] Sheng Liu , Xiao Li , Chong You, Zhihui Zhu, Carlos Fernandez-Granda, and Qing Qu. Convo-
 † †
-lutional normalization: improving deep convolutional network robustness and training. in
-advances in neural information processing systems (neurips), .
-[27] chong you , zhihui zhu , qing qu, and yi ma. robust recovery via implicit bias of discrepant
+lutional Normalization: Improving Deep Convolutional Network Robustness and Training. In
+Advances in Neural Information Processing Systems (Neur IPS), .
+[27] Chong You , Zhihui Zhu , Qing Qu, and Yi Ma. Robust Recovery via Implicit Bias of Discrepant
 † †
-learning rates for double over-parameterization. in advances in neural information processing
-systems (neurips), (spotlight, top 4%).
-[28] qing qu, yuexiang zhai, xiao li, yuqian zhang, and zhihui zhu. geometric analysis of
-nonconvex optimization landscapes for overcomplete learning. in international conference on
-learning representations (iclr), (oral, the highest review score, top 1.9%).
-[29] yenson lau , qing qu , han-wen kuo, pengcheng zhou, yuqian zhang, and john wright.
+Learning Rates for Double Over-parameterization. In Advances in Neural Information Processing
+Systems (Neur IPS), (spotlight, top 4%).
+[28] Qing Qu, Yuexiang Zhai, Xiao Li, Yuqian Zhang, and Zhihui Zhu. Geometric Analysis of
+Nonconvex Optimization Landscapes for Over complete Learning. In International Conference on
+Learning Representations (ICLR), (oral, the highest review score, top 1.9%).
+[29] Yenson Lau , Qing Qu , Han-Wen Kuo, Pengcheng Zhou, Yuqian Zhang, and John Wright.
 † †
-short and sparse deconvolution — a geometric approach. in international conference on
-learning representations (iclr), .
-[30] qing qu, xiao li, and zhihui zhu. a nonconvex approach for exact and ecient multichannel
-sparse blind deconvolution. in advances in neural information processing systems (neurips),
+Short and Sparse De convolution — A Geometric Approach. In International Conference on
+Learning Representations (ICLR), .
+[30] Qing Qu, Xiao Li, and Zhihui Zhu. A Nonconvex Approach for Exact and Ecient Multichannel
+Sparse Blind Deconvolution. In Advances in Neural Information Processing Systems (Neur IPS),
 (spotlight, top 3%).
-[31] qing qu, yuqian zhang, yonina eldar, and john wright. convolutional phase retrieval. in
-advances in neural information processing systems (neurips), pages 6086–6096, .
-[32] ju sun, qing qu, and john wright. a geometric analysis of phase retrieval. in ieee
-international symposium on information theory (isit), pages 2379–2383. ieee, .
-[33] ju sun, qing qu, and john wright. complete dictionary recovery over the sphere. in
-international conference on sampling theory and applications (sampta), .
-[34] qing qu, ju sun, and john wright. finding a sparse vector in a subspace: linear sparsity
-using alternating directions. in advances in neural information processing systems (neurips),
+[31] Qing Qu, Yuqian Zhang, Yonina Eldar, and John Wright. Convolutional Phase Retrieval. In
+Advances in Neural Information Processing Systems (Neur IPS), pages 6086–6096, .
+[32] Ju Sun, Qing Qu, and John Wright. A Geometric Analysis of Phase Retrieval. In IEEE
+International Symposium on Information Theory (ISIT), pages 2379–2383. IEEE, .
+[33] Ju Sun, Qing Qu, and John Wright. Complete Dictionary Recovery Over the Sphere. In
+International Conference on Sampling Theory and Applications (Samp TA), .
+[34] Qing Qu, Ju Sun, and John Wright. Finding a Sparse Vector in a Subspace: Linear Sparsity
+Using Alternating Directions. In Advances in Neural Information Processing Systems (Neur IPS),
 pages 3401–3409, .
-[35] qing qu, xiaoxia sun, nasser m. nasrabadi, and trac d. tran. subspace vertex pursuit
-for separable non-negative matrix factorization in hyperspectral unmixing. in ieee
-international conference on acoustics, speech and signal processing (icassp), pages 8115–8119.
-ieee, .
-[36] qing qu, nasser m. nasrabadi, and trac d. tran. hyperspectral abundance estimation for
-the generalized bilinear model with joint sparsity constraint. in ieee international
-conference on acoustics, speech and signal processing (icassp), pages 2129–2133. ieee, .
-journals
-[1] shijun liang, evan bell, qing qu, rongrong wang, and saiprasad ravishankar. analysis of
-deep image prior and exploiting self-guidance for image reconstruction. ieee transactions
-on computational imaging, .
-[2] jiyi chen , pengyu li , yutong wang, pei-cheng ku, and qing qu. sim2real in reconstructive
+[35] Qing Qu, Xiaoxia Sun, Nasser M. Nasrabadi, and Trac D. Tran. Subspace Vertex Pursuit
+for Separable Non-negative Matrix Factorization in Hyper spectral Unmixing. In IEEE
+International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 8115–8119.
+IEEE, .
+[36] Qing Qu, Nasser M. Nasrabadi, and Trac D. Tran. Hyper spectral Abundance Estimation for
+the Generalized Bilinear Model with Joint Sparsity Constraint. In IEEE International
+Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 2129–2133. IEEE, .
+Journals
+[1] Shijun Liang, Evan Bell, Qing Qu, Rongrong Wang, and Saiprasad Ravishankar. Analysis of
+Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction. IEEE Transactions
+on Computational Imaging, .
+[2] Jiyi Chen , Pengyu Li , Yutong Wang, Pei-Cheng Ku, and Qing Qu. Sim2Real in Reconstructive
 † †
-spectroscopy: deep learning with augmented device-informed data simulation. apl machine
-learning, 2(3):036106, august .
-[3] xiao li , sheng liu , jinxin zhou, xinyu lu, carlos fernandez-granda, zhihui zhu, and qing
+Spectroscopy: Deep Learning with Augmented Device-Informed Data Simulation. APL Machine
+Learning, 2 3 036106 August .
+[3] Xiao Li , Sheng Liu , Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, and Qing
 † †
-qu. understanding and improving transfer learning of deep models via neural collapse.
-transactions on machine learning research, .
-[4] tuba sarwar, can yaras, xiang li, qing qu, and pei-cheng ku. miniaturizing a chip-scale
-spectrometer using local strain engineering and total-variation regularized reconstruction.
-nano letters, 22(20):8174–8180, .
-[5] xiao li , shixiang chen , zengde deng, qing qu, zhihui zhu, and anthony man cho so.
+Qu. Understanding and Improving Transfer Learning of Deep Models via Neural Collapse.
+Transactions on Machine Learning Research, .
+[4] Tuba Sarwar, Can Yaras, Xiang Li, Qing Qu, and Pei-Cheng Ku. Miniaturizing a Chip-Scale
+Spectrometer Using Local Strain Engineering and Total-Variation Regularized Reconstruction.
+Nano Letters, 22 20 8174 8180 .
+[5] Xiao Li , Shixiang Chen , Zengde Deng, Qing Qu, Zhihui Zhu, and Anthony Man Cho So.
 † †
-weakly convex optimizationover stiefelmanifoldusingriemannian subgradient-typemethods.
-siam journal on optimization, 31(3):1605–1634, .
-[6] qing qu, xiao li, and zhihui zhu. exact recovery of multichannel sparse blind deconvolution
-via gradient descent. siam journal on imaging sciences, 13(3):1630–1652, .
-[7] qing qu, yuqian zhang, yonina c. eldar, and john wright. convolutional phase retrieval via
-gradient descent. ieee trans. on information theory, 66(3):1785–1821, .
-[8] ju sun, qing qu, and john wright. a geometric analysis of phase retrieval. foundations of
-computational mathematics, 18(5):1131–1198, .
-[9] qing qu, ju sun, and john wright. finding a sparse vector in a subspace: linear sparsity
-using alternating directions. ieee trans. on information theory, 62(10):5855–5880, .
-[10] ju sun, qing qu, and john wright. complete dictionary recovery over the sphere i: overview
-and the geometric picture. ieee trans. on information theory, 63(2):853–884, .
-[11] ju sun, qing qu, and john wright. complete dictionary recovery over the sphere ii: recovery
-by riemannian trust-region method. ieee trans. on information theory, 63(2):885–914, .
-[12] qing qu, nasser m. nasrabadi, and trac d. tran. subspace vertex pursuit: a fast and robust
-near-separable nonnegative matrix factorization method for hyperspectral unmixing. ieee
-journal of selected topics in signal processing, 9(6):1142–1155, .
-[13] qing qu, nasser m. nasrabadi, and trac d. tran. abundance estimation for bilinear mixture
-models via joint sparse and low-rank representation. ieee trans. on geoscience and remote
-sensing, 52(7):4404–4423, .
-[14] xiaoxia sun, qing qu, nasser m. nasrabadi, and trac d. tran. structured priors for sparse-
-representation-based hyperspectral image classication. ieee geoscience and remote sensing
-letters, 11(7):1235–1239, .
-[15] jianjin,qingqu,andyuantaogu.robustzero-pointattractionleastmeansquarealgorithm
-on near sparse system identication. iet signal processing, 7(3):210–218, .
-selected presentations
-the emergence of generalizability and semantic low-dim subspaces in diusion models
-jan. - jan.
-invited talks at ucsd hdsi special seminar, uc berkeley stats seminar, ita workshop, kaist, kla
-corporation, neurips’23 diusion model workshop, ku ids, umich genai symposium, deepmath
-conference, gatech ml seminar
-invariant low-dimensional subspaces in gradient descent for learning deep networks
-sept. - apr.
-invited talks at umich csp seminar, allerton’23, nyu mad seminar, umn dsi seminar, columbia
-ee seminar, uw madison silo seminar, young scientist forum at nus, google research, uc davis
-math seminar
-understanding deep representation learning via neural collapse sept. - jun.
-invited talks at google research nyc, flatiron institute ccm, slowdnn workshop, informs’22,
-allerton’22, umich csp seminar, msu, hkust, cuhk
-from shallow to deep representation learning sept. - dec.
-invitedseminartalksatieee spswebinar,universityofmichiganstatsseminar,columbiauniversity
-stats department, princeton ee department
-learning low-complexity models from data feb. - apr.
-invited seminar talks at michigan state u. cmse, northeastern u. ece, university of maryland
-college park ece, university of michigan ece, university of british columbia ece, university of
-colordao boulder ecee, penn. state u. ee, dartmouth u. cs, university of florida cise & ece
-sparse deconvolution: geometry, methods & applications nov. - jan.
-invited talk at uc berkeley eecs, johns hopkins university minds, nyu center for data science,
-tsinghua university ee, xiamen university, nyu tandon ece
-nonconvex optimization for multichannel sparse blind deconvolution aug. - dec.
-invited talk in the sixth international conference on continuous optimization (iccopt).
-poster presentation at ima computational imaging workshop, university of minnesota.
-spotlight representation in advances in neural information processing systems (neurips).
-short-and-sparse deconvolution – a geometric approach aug. - oct.
-contributed talk in the sixth international conference on continuous optimization (iccopt).
-poster presentation at ima computational imaging workshop, university of minnesota.
-nonconvex recovery of low-complexity models for data science jan.
-invited talk at nyu cds lunch seminar, purdue university ece, jhu minds.
-tutorials & teaching
-leading organizer & instructor aug.
-one week k12 summer camp: ai magic
-co-taught with changxiao cai, jj park, and liyue shen
-leading organizer & instructor jun.
-one-day tutorial at cvpr’24: learning deep low-dimensional models from high-dimensional data:
-from theory to practice
-co-taught with sam buchanan, yi ma, yuqian zhang, and zhihui zhu
-leading organizer & instructor apr.
-half-day tutorial at icassp’24: understanding deep representation learning via neural collapse
-joint presenting with laura balzano, peng wang, and zhihui zhu
-leading organizer & instructor ,
-short education course at icassp’22 and icassp’23: learning nonlinear and deep low-dimensional
-representations from high-dimensional data: from theory to practice
-co-taught with sam buchanan, yi ma, atlas wang, john wright, yuqian zhang, and zhihui zhu
-invited instructor jun.
-deep learning international summer school: advanced course on data science & machine learning
-given 4 lectures to over 200 graduate students
-instructor university of michigan
-eecs 453: principles of machine learning, fall -
-instructor university of michigan
-eecs 559: optimization methods for sipml, winter -
-project supervisor new york university
-cds-ga-1006: capstone project in data science, fall , fall
-leading four master students on a research project of data science.
-course advisor new york university
-cds-ga 1009: practical training for data science, fall - fall (4 consecutive semesters)
-academic advisor for 10 master students for their data science internship in top tech companies in nyc.
-professional services
-conference & workshop organizations
-generative ai: from theory to scientic applications sept.
-organizer of midas mini-symposium, joint with liyue shen
-computational imaging workshop, imsi, uchicago aug.
-co-organizer, joint with saiprasad ravishankar, ulugbek kamilov, rebecca willett, jong chul ye, and
-brendt wohlberg
-midwest machine learning symposium (mmls’24), university of minnesota
-co-organizer, joint with mingyi hong, ju sun, qiaomin xie, soumik sarkar, and elena zheleva.
-conference on parsimony and learning (cpal) -present
-co-founder and program chair, joint with yi ma, atlas wang, yuejie chi, zhihui zhu, gitta kutyniok,
-rene vidal, harry shum, gintare karolina dziugaite
-generative ai: diusion models for scientic machine learning sept.
-organizer of midas mini-symposium, joint with liyue shen and je fessler
-umich ece communications and signal processing (csp) seminar fall - present
-leading organizer, joint with lei ying, liyue shen
-workshoponseekinglow-dimensionalityindeepneuralnetworks(slowdnn) -
-organizer, joint with atlas wang, zhihui zhu, chong you, jeremias sulam, yuejie chi, yi ma
-mini-symposium at siam conference on optimization (op23) jun.
-tractable non-convex problems in low-dimensional learning, co-organizer, joint peng wang and
-laura balzano
-mini-symposiumatsiamconferenceonmathematicsofdatascience(mds22) sept.
-deep learning with low-dimensional models, co-organizer, joint with chong you and zhihui zhu
-ieee sps computational imaging webinar series -
-co-organizer, joint saiprasad ravishankar, bihan wen, raja giryes, zhizhen zhao, jong chul ye
-aiations & services
-member of ieee machine learning and signal processing (mlsp) technical committee,
-member of ieee computational imaging (ci) technical committee,
-conference area chair & reviewer
-area chair for icassp’22, aaai’22, icassp’23, neurips’23-24, iclr’24-25, icassp’24, icml’25
-reviewer for conference on learning theory (colt), neural information processing systems
-(neurips), international conference on learning representations (iclr), international conference on
-machinelearning(icml),internationalconferenceonarticialintelligenceandstatistics(aistats),
-aaai conference on articial intelligence (aaai), international symposium on information theory
-(isit), international conference on acoustics, speech and signal processing (icassp), ieee global
-conference on signal and information processing (globalsip), deepmath, mlsp workshop
-journal editor & reviewer
-action editor for transaction on machine learning research (tmlr)
-reviewer for annals of statistics, information and inference, siam journal on imaging sciences
-(siims), siam journal on optimization (siopt), mathematical programming (mp), applied and
-computationalharmonicanalysis(acha),journalofmachinelearningresearch(jmlr),operations
-research, ieee transactions on neural networks and learning systems (tnnls), ieee signal
-processing magazine, ieee transactions on pattern recognition and machine intelligence (tpami),
-ieee transactions on information theory (tit), ieee transactions on image processing (tip),
-ieee transactions on signal processing (tsp), ieee transactions on computational imaging (tci),
-ieee transactions on geoscience and remote sensing (tgrs), ieee trans. on circuit and system
-for video technology (tcsvt), ieee journal of selected topics on signal processing (jstsp), ieee
-signal processing letters (spl), signal processing (sp), neurocomputing, pattern recognition (pr),
-plos one
-government grant panelist
-national science foundation (nsf) cise panelist
-mentorship
-ph.d. students
-lianghe shi (ph.d candidate at university of michigan) fall - present
-yixuan jia (ph.d candidate at university of michigan) summer - present
-zekai zhang (ph.d candidate at university of michigan) summer - present
-alec xu (ph.d candidate at university of michigan) fall - present
-soo-min kwon (ph.d candidate at university of michigan) fall - present
-huijie zhang (ph.d candidate at university of michigan) fall - present
-siyi chen (ph.d candidate at university of michigan) fall - present
-xiang li (ph.d candidate at university of michigan) winter - present
-can yaras (ph.d candidate at university of michigan) fall - present
-xiao li (ph.d candidate at university of michigan) fall - present
-sheng liu (ph.d. new york university, now postdoc at stanford) fall - summer
-yuexiang zhai (m.s. at columbia university, ph.d. at uc berkeley) spring - winter
-xiao li (ph.d. cuhk ee, now faculty at cuhk sz) spring - summer
-postdocs
-ismail alkhouri (ph.d. university of central florida) summer - present
-peng wang (ph.d. cuhk) winter - present
-yutong wang (ph.d. umich, now assistant professor at iit) summer - summer
-dogyoon song (ph.d. mit, now assistant professor at uc davis) summer - summer
-undergraduate/master students
-meng wu (m.s. at university of michigan) fall - present
-wenda li (b.s. at university of michigan) fall - present
-minzhe guo (b.s. at university of michigan, now phd at uc davis) summer - summer
-yifu lu (b.s. at university of michigan) winter - present
-jiyi chen (m.s. at university of michigan, noew phd at iit) winter - summer
-saaketh medepalli (b.s. at university of michigan) fall - fall
-jiahao qiu (b.s. at university of michigan, now ph.d. at princeton) fall - summer
-xinyu lu (b.s. university of michigan, now m.s. at cmu) fall - summer
-zhexin wu (m.s. at university of michigan, now at eth) winter -summer
-phd dissertation committees
-mingchen li (adviser: prof. samet oymak)
-zeyun sun (adviser: prof. alfred hero)
-bowen liu (adviser: prof. hun-seok kim)
-zongyu li (adviser: prof. je fessler) dec.
-jiachen sun (adviser: prof. morley mao) oct.
-haonan zhu (adviser: prof. alfred hero) aug.
-guanhua wang (adviser: prof. je fessler & douglas noll) may
-sheng liu (adviser: prof. carlos fernandez-granda) apr.
-tuba sarwar (adviser: prof. pei-cheng ku) mar.
-kuan han (adviser: prof. zhongming liu) feb.
-caroline crockett (adviser: prof. je fessler & cindy finelli) jul.
-yutong wang (adviser: prof. clayton scott) jul.
+Weakly Convex Optimization over Stiefel Manifold Using Riemannian Subgradient-Type Methods.
+SIAM Journal on Optimization, 31 3 1605 1634 .
+[6] Qing Qu, Xiao Li, and Zhihui Zhu. Exact Recovery of Multichannel Sparse Blind De convolution
+via gradient descent. SIAM Journal on Imaging Sciences, 13 3 1630 1652 .
+[7] Qing Qu, Yuqian Zhang, Yonina C. Eldar, and John Wright. Convolutional Phase Retrieval via
+Gradient Descent. IEEE Trans. on Information Theory, 66 3 1785 1821 .
+[8] Ju Sun, Qing Qu, and John Wright. A Geometric Analysis of Phase Retrieval. Foundations of
+Computational Mathematics, 18 5 1131 1198 .
+[9] Qing Qu, Ju Sun, and John Wright. Finding a Sparse Vector in a Subspace: Linear Sparsity
+Using Alternating Directions. IEEE Trans. on Information Theory, 62 10 5855 5880 .
+[10] Ju Sun, Qing Qu, and John Wright. Complete Dictionary Recovery Over the Sphere I: Overview
+and the Geometric Picture. IEEE Trans. on Information Theory, 63 2 853 884 .
+[11] Ju Sun, Qing Qu, and John Wright. Complete Dictionary Recovery Over the Sphere II: Recovery
+by Riemannian Trust-Region Method. IEEE Trans. on Information Theory, 63 2 885 914 .
+[12] Qing Qu, Nasser M. Nasrabadi, and Trac D. Tran. Subspace Vertex Pursuit: A Fast and Robust
+Near-Separable Non negative Matrix Factorization Method for Hyper spectral Unmixing. IEEE
+Journal of Selected Topics in Signal Processing, 9 6 1142 1155 .
+[13] Qing Qu, Nasser M. Nasrabadi, and Trac D. Tran. Abundance Estimation for Bilinear Mixture
+Models via Joint Sparse and Low-Rank Representation. IEEE Trans. on Geoscience and Remote
+Sensing, 52 7 4404 4423 .
+[14] Xiaoxia Sun, Qing Qu, Nasser M. Nasrabadi, and Trac D. Tran. Structured Priors for Sparse-
+Representation-Based Hyper spectral Image Classication. IEEE Geoscience and Remote Sensing
+Letters, 11 7 1235 1239 .
+[15] Jian Jin, Qing Qu, and Yuantao Gu. Robust Zero-Point Attraction Least Mean Square Algorithm
+on Near Sparse System Identication. IET Signal Processing, 7 3 210 218 .
+SELECTED PRESENTATIONS
+The Emergence of General iz ability and Semantic Low-dim subspaces in Diusion Models
+Jan. - Jan.
+Invited talks at UCSD HDSI Special Seminar, UC Berkeley Stats Seminar, ITA Workshop, KAIST, KLA
+Corporation, Neur IPS’23 Diusion Model Workshop, KU IDS, UMich Gen AI symposium, Deep Math
+Conference, Gatech ML Seminar
+Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks
+Sept. - Apr.
+Invited talks at UMich CSP Seminar, Allerton 23 NYU Ma D Seminar, UMN DSI Seminar, Columbia
+EE Seminar, UW Madison SILO Seminar, Young Scientist Forum at NUS, Google Research, UC Davis
+Math Seminar
+Understanding Deep Representation Learning via Neural Collapse Sept. - Jun.
+Invited talks at Google Research NYC, Flatiron Institute CCM, SLow DNN Workshop, IN FORMS 22
+Allerton 22 UMich CSP Seminar, MSU, HKUST, CUHK
+From Shallow to Deep Representation Learning Sept. - Dec.
+Invited seminar talks at IEEE SP S Web in ar University of Michigan Stats Seminar, Columbia University
+Stats Department, Princeton EE Department
+Learning Low-Complexity Models from Data Feb. - Apr.
+Invited seminar talks at Michigan State U. CMSE, Northeastern U. ECE, University of Maryland
+College Park ECE, University of Michigan ECE, University of British Columbia ECE, University of
+Colordao Boulder ECEE, Penn. State U. EE, Dartmouth U. CS, University of Florida CISE & ECE
+Sparse De convolution Geometry, Methods & Applications Nov. - Jan.
+Invited talk at UC Berkeley EECS, Johns Hopkins University MINDS, NYU Center for Data Science,
+Tsinghua University EE, Xiamen University, NYU Tandon ECE
+Nonconvex Optimization for Multichannel Sparse Blind De convolution Aug. - Dec.
+Invited talk in the Sixth International Conference on Continuous Optimization (ICCOPT).
+Poster presentation at IMA Computational Imaging workshop, University of Minnesota.
+Spotlight representation in Advances in Neural Information Processing Systems (Neur IPS).
+Short-and-Sparse De convolution – A Geometric Approach Aug. - Oct.
+Contributed talk in the Sixth International Conference on Continuous Optimization (ICCOPT).
+Poster presentation at IMA Computational Imaging workshop, University of Minnesota.
+Nonconvex Recovery of Low-Complexity Models for Data Science Jan.
+Invited talk at NYU CDS lunch seminar, Purdue University ECE, JHU MINDS.
+TUTORIALS & TEACHING
+Leading Organizer & Instructor Aug.
+One week K12 Summer Camp: AI Magic
+Co-taught with Changxiao Cai, JJ Park, and Liyue Shen
+Leading Organizer & Instructor Jun.
+One-day tutorial at CVPR’24: Learning Deep Low-Dimensional Models from High-Dimensional Data:
+From Theory to Practice
+Co-taught with Sam Buchanan, Yi Ma, Yuqian Zhang, and Zhihui Zhu
+Leading Organizer & Instructor Apr.
+Half-day tutorial at ICASSP’24: Understanding Deep Representation Learning via Neural Collapse
+joint presenting with Laura Balzano, Peng Wang, and Zhihui Zhu
+Leading Organizer & Instructor ,
+Short Education Course at ICASSP’22 and ICASSP’23: Learning Nonlinear and Deep Low-Dimensional
+Representations from High-Dimensional Data: From Theory to Practice
+Co-taught with Sam Buchanan, Yi Ma, Atlas Wang, John Wright, Yuqian Zhang, and Zhihui Zhu
+Invited Instructor Jun.
+Deep learning international summer school: Advanced Course on Data Science & Machine Learning
+Given 4 lectures to over 200 graduate students
+Instructor University of Michigan
+EECS 453: Principles of Machine Learning, Fall -
+Instructor University of Michigan
+EECS 559: Optimization Methods for SIPML, Winter -
+Project Supervisor New York University
+CDS-GA-1006: Capstone Project in Data Science, Fall , Fall
+Leading four master students on a research project of data science.
+Course Advisor New York University
+CDS-GA 1009: Practical Training for Data Science, Fall - Fall (4 consecutive semesters)
+Academic advisor for 10 master students for their data science internship in top tech companies in NYC.
+PROFESSIONAL SERVICES
+Conference & Workshop Organizations
+Generative AI: From Theory to Scientic Applications Sept.
+Organizer of MIDAS Mini-Symposium, joint with Liyue Shen
+Computational Imaging Workshop, IMSI, UChicago Aug.
+Co-Organizer, joint with Saiprasad Ravi shankar Ulugbek Kamilov, Rebecca Willett, Jong Chul Ye, and
+Brendt Wohlberg
+Midwest Machine Learning Symposium (MMLS’24), University of Minnesota
+Co-Organizer, joint with Mingyi Hong, Ju Sun, Qiaomin Xie, Soumik Sarkar, and Elena Zheleva.
+Conference on Parsimony and Learning (CPAL) -present
+Co-founder and Program Chair, joint with Yi Ma, Atlas Wang, Yuejie Chi, Zhihui Zhu, Gitta Kutyniok,
+Rene Vidal, Harry Shum, Gintare Karolina Dziugaite
+Generative AI: Diusion Models for Scientic Machine Learning Sept.
+Organizer of MIDAS Mini-Symposium, joint with Liyue Shen and Je Fessler
+UMich ECE Communications and Signal Processing (CSP) Seminar Fall - present
+Leading Organizer, joint with Lei Ying, Liyue Shen
+Workshopon Seeking Low-dimensionalityin Deep Neural Networks SLow DNN) -
+Organizer, joint with Atlas Wang, Zhihui Zhu, Chong You, Jeremias Sulam, Yuejie Chi, Yi Ma
+Mini-Symposium at SIAM Conference on Optimization (OP23) Jun.
+Tractable Non-Convex Problems in Low-Dimensional Learning, Co-organizer, joint Peng Wang and
+Laura Balzano
+Mini-Symposiumat SIAM Conference on Mathematics of Data Science MDS 22 Sept.
+Deep Learning with Low-Dimensional Models, Co-organizer, joint with Chong You and Zhihui Zhu
+IEEE SPS Computational Imaging Webinar Series -
+Co-organizer, joint Saiprasad Ravi shankar Bihan Wen, Raja Giryes, Zhizhen Zhao, Jong Chul Ye
+Aiations & Services
+Member of IEEE Machine Learning and Signal Processing (MLSP) Technical Committee,
+Member of IEEE Computational Imaging (CI) Technical Committee,
+Conference Area Chair & Reviewer
+Area Chair for ICASSP’22, AAAI’22, ICASSP’23, Neur IPS’23-24, ICLR’24-25, ICASSP’24, ICML’25
+Reviewer for Conference on Learning Theory (COLT), Neural Information Processing Systems
+(Neur IPS), International Conference on Learning Representations (ICLR), International Conference on
+Machine Learning IC ML International Conference on Articial Intelligence and Statistics A IS TATS
+AAAI Conference on Articial Intelligence (AAAI), International Symposium on Information Theory
+(ISIT), International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE Global
+Conference on Signal and Information Processing (Global SIP), Deep Math, MLSP Workshop
+Journal Editor & Reviewer
+Action Editor for Transaction on Machine Learning Research (TMLR)
+Reviewer for Annals of Statistics, Information and Inference, SIAM Journal on Imaging Sciences
+(SIIMS), SIAM Journal on Optimization (SIOPT), Mathematical Programming (MP), Applied and
+Computational Harmonic Analysis ACHA Journalof Machine Learning Research J ML R Operations
+Research, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Signal
+Processing Magazine, IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI),
+IEEE Transactions on Information Theory (TIT), IEEE Transactions on Image Processing (TIP),
+IEEE Transactions on Signal Processing (TSP), IEEE Transactions on Computational Imaging (TCI),
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Trans. on Circuit and System
+for Video Technology (TCSVT), IEEE Journal of Selected Topics on Signal Processing (JSTSP), IEEE
+Signal Processing Letters (SPL), Signal Processing (SP), Neuro computing Pattern Recognition (PR),
+PLOS One
+Government Grant Panelist
+National Science Foundation (NSF) CISE panelist
+MENTORSHIP
+Ph. D. Students
+Lianghe Shi (Ph. D candidate at University of Michigan) Fall - present
+Yixuan Jia (Ph. D candidate at University of Michigan) Summer - present
+Zekai Zhang (Ph. D candidate at University of Michigan) Summer - present
+Alec Xu (Ph. D candidate at University of Michigan) Fall - present
+Soo-Min Kwon (Ph. D candidate at University of Michigan) Fall - present
+Huijie Zhang (Ph. D candidate at University of Michigan) Fall - present
+Siyi Chen (Ph. D candidate at University of Michigan) Fall - present
+Xiang Li (Ph. D candidate at University of Michigan) Winter - present
+Can Yaras (Ph. D candidate at University of Michigan) Fall - present
+Xiao Li (Ph. D candidate at University of Michigan) Fall - present
+Sheng Liu (Ph. D. New York University, now postdoc at Stanford) Fall - Summer
+Yuexiang Zhai (M. S. at Columbia University, Ph. D. at UC Berkeley) Spring - Winter
+Xiao Li (Ph. D. CUHK EE, now faculty at CUHK SZ) Spring - Summer
+Postdocs
+Ismail Alkhouri (Ph. D. University of Central Florida) Summer - present
+Peng Wang (Ph. D. CUHK) Winter - present
+Yutong Wang (Ph. D. UMich, now Assistant Professor at IIT) Summer - Summer
+Dogyoon Song (Ph. D. MIT, now Assistant Professor at UC Davis) Summer - Summer
+Undergraduate Master Students
+Meng Wu (M. S. at University of Michigan) Fall - present
+Wenda Li (B. S. at University of Michigan) Fall - present
+Minzhe Guo (B. S. at University of Michigan, now Ph D at UC Davis) Summer - Summer
+Yifu Lu (B. S. at University of Michigan) Winter - present
+Jiyi Chen (M. S. at University of Michigan, noew Ph D at IIT) Winter - Summer
+Saaketh Medepalli (B. S. at University of Michigan) Fall - Fall
+Jiahao Qiu (B. S. at University of Michigan, now Ph. D. at Princeton) Fall - Summer
+Xinyu Lu (B. S. University of Michigan, now M. S. at CMU) Fall - Summer
+Zhexin Wu (M. S. at University of Michigan, Now at ETH) Winter -Summer
+Ph D Dissertation Committees
+Mingchen Li (adviser: Prof. Samet Oymak)
+Zeyun Sun (adviser: Prof. Alfred Hero)
+Bowen Liu (adviser: Prof. Hun-Seok Kim)
+Zongyu Li (adviser: Prof. Je Fessler) Dec.
+Jiachen Sun (adviser: Prof. Morley Mao) Oct.
+Haonan Zhu (adviser: Prof. Alfred Hero) Aug.
+Guanhua Wang (adviser: Prof. Je Fessler & Douglas Noll) May
+Sheng Liu (adviser: Prof. Carlos Fernandez-Granda) Apr.
+Tuba Sarwar (adviser: Prof. Pei-Cheng Ku) Mar.
+Kuan Han (adviser: Prof. Zhongming Liu) Feb.
+Caroline Crockett (adviser: Prof. Je Fessler & Cindy Finelli) Jul.
+Yutong Wang (adviser: Prof. Clayton Scott) Jul.

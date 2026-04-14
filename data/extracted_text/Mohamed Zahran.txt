@@ -1,699 +1,697 @@
-mohamed zahran
-http://www.mzahran.com
-education ⋄ university of maryland, college park, md.
-ph.d. in electrical and computer eng., may
-dissertation title: “hierarchical multithreading architecture”
-adviser: prof. manoj franklin gpa = 3.9/4.0
-⋄ cairo university, egypt.
-m.sc. in computer engineering, july .
-thesis title: “a new adaptive genetic algorithm”
-⋄ cairo university, egypt.
-b.sc. in computer engineering, july .
-graduation project: “computer chess”
-research ⋄ ai support for architecture
+Education ⋄ University of Maryland, College Park, MD.
+Ph. D. in Electrical and Computer Eng., May
+Dissertation Title: “Hierarchical Multithreading Architecture”
+Adviser: Prof. Manoj Franklin GPA = 3.9/4.0
+⋄ Cairo University, Egypt.
+M. Sc. in Computer Engineering, July .
+Thesis title: “A New Adaptive Genetic Algorithm”
+⋄ Cairo University, Egypt.
+B. Sc. in Computer Engineering, July .
+Graduation Project: “Computer Chess”
+Research ⋄ AI Support for Architecture
 interests
-⋄ graphics processing units and other hardware accelerators
-⋄ memory hierarchy design for heterogeneous computing
-⋄ hardware-software interaction
-work ⋄ new york university (sep - present)
-experience professor(clinical) with computersciencedepartment, courant instituteofmathematical
-sciences, nyu
-⋄ new york university (sep - aug )
-associate professor (clinical) with computer science department, courant institute of
-mathematical sciences, nyu
-⋄ new york university (jan - may )
-adjunct associate professor with computer science department, courant institute of
-mathematical sciences, nyu
-⋄ polytechnic institute of new york university (jan - dec )
-research associate professor, electrical and computer engineering department
-⋄ consultancy work ( - )
-· polytechnic institute of nyu:
-– designing power-efficient supercomputer based on hybrid fpga and general pur-
+⋄ Graphics Processing Units and other Hardware Accelerators
+⋄ Memory hierarchy design for Heterogeneous Computing
+⋄ Hardware-software interaction
+Work ⋄ New York University (Sep - present)
+experience Professor clinical with Computer Science Department, Courant Institute of Mathematical
+Sciences, NYU
+⋄ New York University (Sep - Aug )
+Associate Professor (clinical) with Computer Science Department, Courant Institute of
+Mathematical Sciences, NYU
+⋄ New York University (Jan - May )
+Adjunct Associate Professor with Computer Science Department, Courant Institute of
+Mathematical Sciences, NYU
+⋄ Polytechnic Institute of New York University (Jan - Dec )
+Research Associate Professor, Electrical and Computer Engineering Department
+⋄ Consultancy Work (-)
+· Polytechnic Institute of NYU:
+– Designing power-efficient supercomputer based on hybrid FPGA and general pur-
 pose processors using switched networks.
-– architecture support for trusted platform management for single core, multicore,
+– Architecture support for Trusted Platform Management for single core, multicore,
 and manycore processors.
-· cairo microsoft innovation center (cmic):
-proposed and supervised research projects related to high-performance computing.
-the projects i have contributed to are related to parallelization and analysis of bioin-
+· Cairo Microsoft Innovation Center (CMIC):
+Proposed and supervised research projects related to high-performance computing.
+The projects I have contributed to are related to parallel iz ation and analysis of bioin-
 formatics applications.
-⋄ city university of new york - city college (sep 04 - may 10)
-department of electrical engineering and the computer engineering program,
-assistant professor (sep 04 - aug 09), then adjunct associate professor (sep 09 - may 10)
-⋄ the george washington university (sep 03 - jul 04)
-research scientist with the department of electrical and computer engineering.
-duties included directing two groups of graduate students:
-mohamed zahran
-· thefirstgroupdidresearchonthespecificationsandperformanceofaparallelversion
-of the c language, called unified parallel c (upc).
-· the second group focused on reconfigurable architecture, and how to dynamically
+⋄ City University of New York - City College (Sep 04 - May 10)
+Department of Electrical Engineering and the Computer Engineering program,
+Assistant Professor (Sep 04 - Aug 09), then Adjunct Associate Professor (Sep 09 - May 10)
+⋄ The George Washington University (Sep 03 - Jul 04)
+Research Scientist with the Department of Electrical and Computer Engineering.
+Duties included directing two groups of graduate students:
+Mohamed Zahran
+· The first group did research on the specifications and performance of a parallel version
+of the C language, called unified parallel C (UPC).
+· The second group focused on re configurable architecture, and how to dynamically
 reconfigure a device to adapt to program(s) behavior.
-⋄ university of maryland at college park
-· research assistant (aug 99 - aug 03):
-department of electrical and computer engineering
-research topic: the microarchitecture of speculative multithreaded processors.
-· teaching assistant (aug 99 - may ):
-department of electrical and computer engineering
-assisted in teaching: digital logic design, computer organization.
-duties: holding weekly recitation classes, office hours as well as grading
+⋄ University of Maryland at College Park
+· Research Assistant (Aug 99 - Aug 03):
+Department of Electrical and Computer Engineering
+Research topic: The Microarchitecture of Speculative Multi threaded Processors.
+· Teaching Assistant (Aug 99 - May ):
+Department of Electrical and Computer Engineering
+Assisted in teaching: Digital Logic Design, Computer Organization.
+Duties: holding weekly recitation classes, office hours as well as grading
 homework assignments and exams.
-⋄ cairo university, egypt (sep 97 - may 99)
-assistant lecturer:
-teaching: c programming language, digital logic design,
-computer architecture, software engineering and operating systems.
-⋄ american university in cairo (auc) (spring 98)
-lecturer:
-center of adult and continuing education (cace),
-duties: teaching computer architecture and assembly language programming course.
-⋄ ibm egypt (summer 96)
-summer intern:
-performance analysis and tuning of ibm risc/6000.
-⋄ at&t global information system, egypt
-summer intern:
-· (summer 95): unix operating system and unix shell programming workshops, data
-communication and lan and wan concepts workshops.
-· (summer 94): windows applications workshop, c programming language and clipper
+⋄ Cairo University, Egypt (Sep 97 - May 99)
+Assistant Lecturer:
+Teaching: C programming language, Digital Logic Design,
+Computer Architecture, Software Engineering and Operating Systems.
+⋄ American University in Cairo (AUC) (Spring 98)
+Lecturer:
+Center of Adult and Continuing Education (CACE),
+Duties: Teaching computer architecture and assembly language programming course.
+⋄ IBM Egypt (Summer 96)
+Summer Intern:
+Performance analysis and tuning of IBM RISC/6000.
+⋄ AT&T Global Information System, Egypt
+Summer Intern:
+· (Summer 95): UNIX operating system and Unix Shell programming workshops, Data
+communication and LAN and WAN concepts workshops.
+· (Summer 94): Windows applications workshop, C programming language and Clipper
 application workshops.
-honors and⋄ elected ieee distinguished contributor ( )
-awards
-⋄ acm distinguished speaker ( )
-⋄ best poster award for cs and mathematics, for my student daniel cohen on his research
-workwithme,inthe41stundergraduateresearchconference,collegeofartsandscience,
-nyu, .
-⋄ first place in acm student research competition with my undergraduate student yi
-(louisa) lu, held in conjunction with the international symposium on code generation
-and optimization (cgo) .
-⋄ best poster award in trusted infrastructure workshop (tiw), june .
-⋄ first place in acm student research competition with my ph.d student bushra ahsan,
-held in the 18th international conference on parallel architectures and compilation tech-
-niques (pact) .
-mohamed zahran
-⋄ elected senior member of acm.
-⋄ elected senior member of ieee.
-⋄ certificate of recognition at city university of new york on the occasion of the “salute to
-scholars” event in dec in honor of outstanding scholarly achievements.
-⋄ top three nationwide (second place) in acm student research competition with my un-
-dergraduate student jerry backer, .
-⋄ awarded grant from ibm to attend 39th international symposium on microarchitecture
-(micro), .
-⋄ awardedgrantfromacmsigarchforyoungfacultiestoattendinternationalconference
-on microarchitecture, held in oregon, december .
-⋄ best paper award in international conference on computer design (iccd), san jose, ca,
-october, .
-⋄ acm/sigarch conference student grant award: isca/fcrc
-⋄ best graduate student scientific talk in electrical and computer engineering dept., uni-
-versity of maryland, fall .
-⋄ honors with distinction (first place) in university of maryland graduate research inter-
-action day (grid), .
-⋄ honors with distinction at m.sc (top 5), cairo university, .
-⋄ honors with distinction at b.sc, cairo university .
-publications books:
-· mohamed zahran,heterogeneous computing: hardware and software perspectives,
-acm books, isbn: , .
-book chapters:
-· bushra ahsan and mohamed zahran, cache hierarchy for manycore processors, in
-thebookmulticorecomputing: algorithms, architectures, andapplications,chapman
-and hall/crc, dec .
-refereed papers:
-1. d. tantawy, m. zahran and a. g. wassal, ptcomp: post-training compression
-technique for generative adversarial networks, in ieee access, vol. 11, pp. 9763-
+Honors and⋄ Elected IEEE Distinguished Contributor ()
+Awards
+⋄ ACM Distinguished Speaker ( )
+⋄ Best poster award for CS and Mathematics, for my student Daniel Cohen on his research
+work with me inthe41st Undergraduate Research Conference, Collegeof Artsand Science,
+NYU, .
+⋄ First place in ACM Student Research Competition with my undergraduate student Yi
+(Louisa) Lu, held in conjunction with The International Symposium on Code Generation
+and Optimization (CGO) .
+⋄ Best Poster Award in Trusted Infrastructure Workshop (TIW), June .
+⋄ First place in ACM Student Research Competition with my Ph. D student Bushra Ahsan,
+held in the 18th International Conference on Parallel Architectures and Compilation Tech-
+niques (PACT) .
+Mohamed Zahran
+⋄ Elected Senior member of ACM.
+⋄ Elected Senior member of IEEE.
+⋄ Certificate of Recognition at City University of New York on the occasion of the “Salute to
+Scholars” event in Dec in honor of outstanding scholarly achievements.
+⋄ Top three nationwide (second place) in ACM Student Research Competition with my un-
+der graduate student Jerry Backer, .
+⋄ Awarded grant from IBM to attend 39th International Symposium on Microarchitecture
+(MICRO), .
+⋄ Awarded grant from ACM SIG ARCH for young faculties to attend International Conference
+on Microarchitecture, held in Oregon, December .
+⋄ Best paper award in International Conference on Computer Design (ICCD), San Jose, CA,
+October, .
+⋄ ACM SIG ARCH conference student grant award: ISCA/FCRC
+⋄ Best Graduate student scientific talk in Electrical and Computer Engineering dept., Uni-
+versity of Maryland, fall .
+⋄ Honors with Distinction (First Place) in University of Maryland Graduate Research Inter-
+action Day (GRID), .
+⋄ Honors with Distinction at M. Sc (top 5), Cairo University, .
+⋄ Honors with Distinction at B. Sc, Cairo University .
+Publications Books:
+· Mohamed Zahran, Heterogeneous Computing: Hardware and Software Perspectives,
+ACM Books, ISBN: , .
+Book Chapters:
+· Bushra Ahsan and Mohamed Zahran, Cache Hierarchy for Manycore Processors, in
+thebook Multicore Computing: Algorithms, Architectures, and Applications, Chapman
+and Hall/CRC, Dec .
+Refereed Papers:
+1. D. Tantawy, M. Zahran and A. G. Wassal, PTcomp: Post-Training Compression
+Technique for Generative Adversarial Networks, in IEEE Access, vol. 11, pp. 9763-
 9774, .
-2. dina tantawy, mohamed zahran, amr wassal, a survey on gan acceleration
-using memory compression technique, journal of engineering and applied science,
-, springer nature, .
-3. nick greenquist, doruk kilitcioglu, mohamed zahran and anasse bari, gpu ac-
-celerated matrix factorization for recommender systems, the 6th ieee international
-conference on big data analytics (icbda ), march .
-4. antonio mallia, michal siedlaczek, torsten suel, and mohamed zahran , gpu-
-accelerated decoding of integer lists, in the 28th acm international conference on
-information and knowledge management (cikm), beijing, china, november .
-5. tulsi jain, nitish agarwal, and mohamed zahran,performance prediction for mul-
-tithreaded applications, in the 2nd international workshop on ai-assisted design for
-architecture (aidarc), to held in conjunction with the international symposium on
-computer architecture, june .
-6. mohamed zahran and marsha berger, parallel computing at the undergraduate
-level: lessons learned and insights, in workshop on computer architecture educa-
-tion held in conjunction with 46th international symposium on computer architec-
-ture, june .
-mohamed zahran
-7. mahmoud khairy, amr wassal, and mohamed zahran, a survey of architectural
-approaches for improving gpgpu performance, programmability and heterogeneity,
-elsevierjournalofparallelanddistributedcomputing,volume127,may2019,pages
+2. Dina Tantawy, Mohamed Zahran, Amr Wassal, A Survey on GAN Acceleration
+Using Memory Compression Technique, Journal of Engineering and Applied Science,
+, Springer Nature, .
+3. Nick Green qui st Doruk Kili t cio g lu Mohamed Zahran and Anasse Bari, GPU Ac-
+celerated Matrix Factorization for Recommend er Systems, the 6th IEEE International
+Conference on Big Data Analytics (ICBDA ), March .
+4. Antonio Mallia, Michal Sie d la cz ek Torsten Suel, and Mohamed Zahran , GPU-
+Accelerated Decoding of Integer Lists, in The 28th ACM International Conference on
+Information and Knowledge Management (CIKM), Beijing, China, November .
+5. Tulsi Jain, Nitish Agarwal, and Mohamed Zahran, Performance Prediction for Mul-
+tithreaded Applications, in The 2nd International Workshop on AI-assisted Design for
+Architecture (AIDArc), to held in conjunction with the International Symposium on
+Computer Architecture, June .
+6. Mohamed Zahran and Marsha Berger, Parallel Computing At The Undergraduate
+Level: Lessons Learned and Insights, in Workshop on Computer Architecture Educa-
+tion Held in conjunction with 46th International Symposium on Computer Architec-
+ture, June .
+Mohamed Zahran
+7. Mahmoud Khairy, Amr Wassal, and Mohamed Zahran, A survey of architectural
+approaches for improving GPGPU performance, programm ability and heterogeneity,
+Elsevier Journalof Parallel and Distributed Computing, Volume127, May2019, Pages
 65-88.
-8. chris quackenbush and mohamed zahran, beyond profiling, in the 1st interna-
-tional workshop on ai-assisted design for architecture (aidarc), to held in conjunc-
-tion with the international symposium on computer architecture, june .
-9. mahmoud khairy , mohamed zahran, and amr wassal, sacat: streaming-aware
-conflict-avoiding thrashing-resistant gpgpu cache management scheme, ieee
-transactions on parallel and distributed systems, vol 28, issue 6, june .
-10. numair khan and mohamed zahran, space-efficient pointwise computation of the
-distance transform on gpus, in 7th ieee workshop parallel / distributed com-
-puting and optimization (pdco ), in conjunction with 31st ieee international
-parallel & distributed processing symposium (ipdps), may .
-11. chris rohlfs and mohamed zahran, optimal bandwidth selection for kernel re-
-gression using a fast grid search and a gpu, in 7th ieee workshop parallel / dis-
-tributed computing and optimization (pdco ), in conjunction with 31st ieee
-international parallel & distributed processing symposium (ipdps), may .
-12. m.zahran,heterogeneouscomputing: heretostay,acmqueuemagazine,nov/dec
-, also appears in communications of the acm magazine, march .
-13. mohamed zahran, brain-inspired machines what, exactly, are we looking for?,
-ieee pulse magazine, march .
-14. mahmoud khairy, mohamed zahran, and amr g. wassal, efficient utilization of
-gpgpu cache hierarchy, in the 8th workshop on general-purpose processing using
-gpus held in conjunction with the 20th acm sigplan symposium on principles
-and practice of parallel programming, .
-15. j. rajendran, a. k. kanuparthi, m. zahran, s. addepalli, g. ormazabal, and r.
-karri,securingprocessorsagainstinsiderattacks: acircuit-microarchitectureco-design
-approach, ieee design and test of computers magazine, vol 30, issue 2, mar/apr,
+8. Chris Quackenbush and Mohamed Zahran, Beyond Profiling, in The 1st Interna-
+tional Workshop on AI-assisted Design for Architecture (AIDArc), to held in conjunc-
+tion with the International Symposium on Computer Architecture, June .
+9. Mahmoud Khairy , Mohamed Zahran, and Amr Wassal, SACAT: Streaming-Aware
+Conflict-Avoiding Thrashing-Resistant GPGPU Cache Management Scheme, IEEE
+Transactions on Parallel and Distributed Systems, vol 28, issue 6, June .
+10. Numair Khan and Mohamed Zahran, Space-efficient Pointwise Computation of the
+Distance Transform on GPUs, in 7th IEEE Workshop Parallel / Distributed Com-
+puting and Optimization (PDCO ), in conjunction with 31st IEEE International
+Parallel & Distributed Processing Symposium (IPDPS), May .
+11. Chris Rohlfs and Mohamed Zahran, Optimal Bandwidth Selection for Kernel Re-
+gression Using a Fast Grid Search and a GPU, in 7th IEEE Workshop Parallel / Dis-
+tributed Computing and Optimization (PDCO ), in conjunction with 31st IEEE
+International Parallel & Distributed Processing Symposium (IPDPS), May .
+12. M. Zahran, Heterogeneous Computing: Hereto Stay, ACM Queue magazine Nov/Dec
+, also appears in Communications of the ACM magazine, March .
+13. Mohamed Zahran, Brain-Inspired Machines What, Exactly, Are We Looking for?,
+IEEE Pulse Magazine, March .
+14. Mahmoud Khairy, Mohamed Zahran, and Amr G. Wassal, Efficient utilization of
+GPGPU cache hierarchy, in the 8th Workshop on General-purpose processing using
+GPUs held in conjunction with the 20th ACM SIGPLAN Symposium on Principles
+and Practice of Parallel Programming, .
+15. J. Rajendran, A. K. Kanu part hi M. Zahran, S. Addepalli, G. Ormazabal, and R.
+Karri, Securing processors against insider attacks acircuit-microarchitectureco-design
+approach, IEEE Design and Test of Computers Magazine, Vol 30, issue 2, Mar/Apr,
 .
-16. arunk.kanuparthi,mohamedzahran,andrameshkarri,architecturesupportfor
-dynamicintegritychecking,ieeetransactionsoninformationforensicsandsecurity,
-vol. 7, issue 1, pp. 321-332, .
-17. h.chtioui,s.niarlamih,r.ben-atitallah,m.zahran,jl. dekeyser,andm.abid,a
-dynamic hybrid cache coherency protocol for shared-memory mpsoc architectures,
-international journal of computer applications, volume 47, number 3, .
-18. corey malone, mohamed zahran, and ramesh karri, are hardware performance
-counters a cost effective way for integrity checking of programs?, the sixth acm
-workshop on scalable trusted computing, october .
-19. artem durytskyy, mohamed zahran, and ramesh karri, improving robustness of
-gpus by making use of faulty parts, proc. international conference on computer
-design (iccd11), october .
-20. mohamed salah souahi, smail niar, mohamed zahran, mohamed benmohamed,
-towards dynamic cache block placement for multi-processor nuca, ieee interna-
-tional conference on microelectronics, december .
-21. arunk.kanuparthi,mohamed zahran,andrameshkarri,feasibility study of dy-
-namic trusted platform module, proc. international conference on computer design
-(iccd10), october .
-22. ahmed youssef, mohamed zahran, mohab anis, and mohamed elmasry, on the
-power management of simultaneous multithreading processors, ieee transactions on
-vlsi systems, pp. 1243-1248, vol. 18, august .
-mohamed zahran
-23. mohamed zahran and sally a. mckee, global management of cache hierarchies,
-theacminternationalconferenceoncomputingfrontiers(cf’10), italy, may2010.
-24. yufu zhang, ankur srivastava, and mohamed zahran, on-chip sensor driven ef-
-ficient thermal profile estimation algorithms, acmtransactionsondesignautoma-
-tion of electronic systems, volume 15 , issue 3, may .
-25. najla alfaraj, h. jonathan chao, and mohamed zahran, nbc: network-based
-cache coherence protocol for multistage nocs, inthe internationalsoc designcon-
-ference (isocc), .
-26. kim hazelwood and mohamed zahran, challenges and opportunities at all levels:
-interactions among operating systems, compilers, and multicore processors, acm
-sigops operating system review. volume 43, issue 2. april .
-27. bushra ahsan and mohamed zahran, managing off-chip bandwidth: a case for
-bandwidth-friendlyreplacementpolicy,inthe2ndworkshoponmanagedmulti-core
-systems (mmcs’09), held in conjunction with asplos .
-28. mohamed zahran and sally a. mckee, adaptive block placement policy for cache
-hierarchies , in 3rd workshop on statistical and machine learning approaches to ar-
-chitectures and compilation (smart’09), held in conjunction with hipeac’09.
-29. bushra ahsan and mohamed zahran, cache performance, system performance,
-and off-chip bandwidth... pick any two, in 3rd workshop interconnection network
-architectures: on-chip, multi-chip (ina-ocmc), held in conjunction with hipeac
+16. Arun K. Kanu part hi Mohamed Zahran, and Ramesh Karri, Architecture Supportfor
+Dynamic Integrity Checking, IEEE Transactions on Information Forensics and Security,
+Vol. 7, Issue 1, pp. 321-332, .
+17. H. Chtioui, S. Niar Lamih, R. Ben-Atitallah, M. Zahran, Jl. Dekeyser, and M. Abid, A
+Dynamic Hybrid Cache Coherency Protocol for Shared-Memory MPSo C Architectures,
+International Journal of Computer Applications, Volume 47, Number 3, .
+18. Corey Malone, Mohamed Zahran, and Ramesh Karri, Are Hardware Performance
+Counters a Cost Effective Way for Integrity Checking of Programs?, The Sixth ACM
+Workshop on Scalable Trusted Computing, October .
+19. Artem Durytskyy, Mohamed Zahran, and Ramesh Karri, Improving Robustness of
+GPUs by Making Use of Faulty Parts, Proc. International Conference on Computer
+Design (ICCD11), October .
+20. Mohamed Salah Souahi, Smail Niar, Mohamed Zahran, Mohamed Ben mohamed
+Towards Dynamic Cache Block Placement for Multi-processor NUCA, IEEE Interna-
+tional Conference on Microelectronics, December .
+21. Arun K. Kanu part hi Mohamed Zahran, and Ramesh Karri, Feasibility Study of Dy-
+namic Trusted Platform Module, Proc. International Conference on Computer Design
+(ICCD10), October .
+22. Ahmed Youssef, Mohamed Zahran, Mohab Anis, and Mohamed Elmasry, On the
+Power Management of Simultaneous Multithreading Processors, IEEE Transactions on
+VLSI Systems, pp. 1243-1248, Vol. 18, August .
+Mohamed Zahran
+23. Mohamed Zahran and Sally A. Mc Kee, Global Management of Cache Hierarchies,
+The ACM International Conference on Computing Frontiers CF 10 Italy, May2010.
+24. Yufu Zhang, Ankur Sri vast ava and Mohamed Zahran, On-Chip Sensor Driven Ef-
+ficient Thermal Profile Estimation Algorithms, ACM Transactions on Design Automa-
+tion of Electronic Systems, Volume 15 , Issue 3, May .
+25. Najla Alfaraj, H. Jonathan Chao, and Mohamed Zahran, NBC: Network-based
+Cache Coherence Protocol for Multistage No Cs, in The International So C Design Con-
+ference (ISOCC), .
+26. Kim Hazelwood and Mohamed Zahran, Challenges and Opportunities at All Levels:
+Interactions Among Operating Systems, Compilers, and Multicore Processors, ACM
+SIGOPS Operating System Review. Volume 43, Issue 2. April .
+27. Bushra Ahsan and Mohamed Zahran, Managing Off-Chip Bandwidth: A Case for
+Bandwidth-Friendly Replacement Policy, in The2nd Workshopon Managed Multi-Core
+Systems (MMCS’09), held in conjunction with ASPLOS .
+28. Mohamed Zahran and Sally A. Mc Kee, Adaptive Block Placement Policy for Cache
+Hierarchies , in 3rd Workshop on statistical and Machine learning approaches to AR-
+chi tec ture s and compila Tion SMART 09 held in conjunction with Hi PEAC’09.
+29. Bushra Ahsan and Mohamed Zahran, Cache Performance, System Performance,
+and Off-Chip Bandwidth... Pick any Two, in 3rd workshop Interconnection Network
+Architectures: On-Chip, Multi-Chip (INA-OCMC), held in conjunction with Hi PEAC
 .
-30. yufu zhang, ankur srivastava and mohamed zahran, chip level thermal profile
-estimation using on-chip temperature sensors, proc. international conference on
-computer design (iccd08), october .
-31. mohamed zahran,cache replacement policy revisited,intheannualduplicating,
-deconstructing, and debunking (wddd)held in conjunction with the international
-symposium on computer architecture (isca), .
-32. mohamed zahran, kursad albayraktaroglu, and manoj franklin, non-inclusion
-property in multi-level caches revisited, in the international journal of computers
-and their applications, special issue on techniques and architectures for high per-
-formance and energy efficient computing systems, vol 14, num 2, june .
-33. mohamed zahran, cache hierarchy for 100 on-chip cores, fifth annual boston
-area architecture (barc), jan .
-34. mohamed zahran,on cache blocks behavior,ininternationalcomputerengineer-
-ing conference (icenco), dec .
-35. mohamed zahranandmanojfranklin,rht:acontext-basedreturnaddresspre-
-dictor, in the international conference on computer design (cdes’06), las
-vegas, june .
-36. mohamed zahran and anasua bhowmik, bandwidth-friendly cache hierarchy, in
-the international conference on computer design (cdes’06), las vegas, june
+30. Yufu Zhang, Ankur Srivastava and Mohamed Zahran, Chip Level Thermal Profile
+Estimation Using On-chip Temperature Sensors, Proc. International Conference on
+Computer Design (ICCD08), October .
+31. Mohamed Zahran, Cache Replacement Policy Revisited, in The Annual Duplicating,
+De constructing and Debunking (WDDD)held in conjunction with the International
+Symposium on Computer Architecture (ISCA), .
+32. Mohamed Zahran, Kursad Albay rak taro g lu and Manoj Franklin, Non-Inclusion
+Property in Multi-Level Caches Revisited, in the International Journal of Computers
+and Their Applications, Special Issue on Techniques and Architectures for High Per-
+formance and Energy Efficient Computing Systems, Vol 14, Num 2, June .
+33. Mohamed Zahran, Cache Hierarchy for 100 On-Chip Cores, Fifth Annual Boston
+Area Architecture (BARC), Jan .
+34. Mohamed Zahran, On Cache Blocks Behavior, in International Computer Engineer-
+ing Conference (ICENCO), Dec .
+35. Mohamed Zahranand Manoj Franklin, RHT:AContext-Based Return Address Pre-
+dictor, in The International Conference on Computer Design (CDES’06), Las
+Vegas, June .
+36. Mohamed Zahran and Anasua Bhowmik, Bandwidth-Friendly Cache Hierarchy, in
+The International Conference on Computer Design (CDES’06), Las Vegas, June
 .
-37. mohamed zahran and anasua bhowmik, hybrid compiler and microarchitecture
-technique for cache traffic optimization,ininteractionbetweencompilersandcom-
-puter architectures (interact 9), feb .
-38. francois cantonnet, yiyi yao, mohamed zahran and tarek el-ghazawi, produc-
-tivity analysis of the upc language, in 3rd international workshop on performance
-modeling, evaluation, and optimization of parallel and distributed systems (pmeo-
-pds), to be held in conjunction with the international parallel and distributed pro-
-cessing symposium (ipdps ).
-mohamed zahran
-39. mohamed zahran and manoj franklin, dynamic thread resizing for speculative
-multithreaded processors, in international conference on computer design (iccd),
-san jose, ca, october, . (best paper award)
-40. mohamed zahran, manoj franklin and renju thomas, confidence estimation for
-registervaluecommunicationinspeculativemultithreadedarchitectures,infirstvalue
-prediction workshop (vpw1), held in conjunction with the 30th annual international
-symposium on computer architecture (isca), san diego, california, .
-41. mohamedzahran,oncachememoryhierarchyforchip-multiprocessor,inmedea
-workshop held in conjunction with pact conference, charlottesville, virginia,
-. also appeared in acm computer architecture news, vol 31, no. 1, march
+37. Mohamed Zahran and Anasua Bhowmik, Hybrid Compiler and Microarchitecture
+Technique for Cache Traffic Optimization, in Interaction between Compilers and Com-
+puter Architectures (INTERACT 9), Feb .
+38. Francois Cantonnet, Yiyi Yao, Mohamed Zahran and Tarek El-Ghazawi, Produc-
+tivity Analysis of the UPC Language, in 3rd International Workshop on Performance
+Modeling, Evaluation, and Optimization of Parallel and Distributed Systems (PMEO-
+PDS), to be held in conjunction with the International Parallel and Distributed Pro-
+cessing Symposium (IPDPS ).
+Mohamed Zahran
+39. Mohamed Zahran and Manoj Franklin, Dynamic Thread Resizing for Speculative
+Multi threaded Processors, in International Conference on Computer Design (ICCD),
+San Jose, CA, October, . (BEST PAPER AWARD)
+40. Mohamed Zahran, Manoj Franklin and Renju Thomas, Confidence Estimation for
+Register Value Communication in Speculative Multi threaded Architectures, in first value
+prediction workshop (VPW1), held in conjunction with the 30th Annual International
+Symposium on Computer Architecture (ISCA), San Diego, California, .
+41. Mohamed Zahran, On Cache Memory Hierarchy for Chip-Multiprocessor, in MEDEA
+workshop held in conjunction with PACT Conference, Charlottesville, Virginia,
+. Also Appeared in ACM Computer Architecture News, Vol 31, No. 1, March
 .
-42. mohamed zahran and manoj franklin, return address prediction in speculative
-multithreadedenvironments,inint’lconferenceonhi-performancecomputing(hipc’02),
-bangalore, india, .
-43. mohamed zahran and manoj franklin, a feasibility study of hierarchical multi-
-threading, in international parallel and distributed processing symposium (ipdps
-), marriott marina, fort lauderdale, florida, .
-44. mohamed zahran and manoj franklin, hierarchical multi-threading for exploit-
-ing parallelism at multiple granularities,workshoponmultithreadedexecu-
-tion, architecture and compilation (mteac-5), austin, texas, .
-45. mohamed zahran, ashraf abdel-wahab and samir shaheen, adaptive genetic al-
-gorithm for multiprocessor scheduling, poster presentation at the genetic and evolu-
-tionary computation conference (gecco), orlando, .
-refereed posters, abstracts, invited papers, and technical reports:
-1. marcelo pias, brett becker, qiao xiang, mohamed zahran, and monica anderson,
-should quantum processor design be considered a topic in computer architecture
-education? in proceedings of the 53rd acm technical symposium on computer
-science education v. 2 (sigcse ).
-2. mohamed zahran, the future of high-performance computing, 17th international
-computer engineering conference (icenco), pp 129 - 134, (invited paper).
-3. m. zahran, multicore processors: status quo and future directions, in 10th interna-
-tional computer engineering conference (icenco), dec (invited paper).
-4. yi (louisa) lu and mohamed zahran, unleashing the power of general purpose
-graphics processing units, poster at acm students research competition, held in
-conjunction with the international symposium on code generation and optimiza-
-tion, fl, (winner of acm src, first prize).
-5. arun k. kanuparthi, mohamed zahran, and ramesh karri, on-chip dynamic
-trusted platform module, trusted infrastructure workshop (tiw), june , pitts-
-burgh, pa, (best poster award).
-6. bushra ahasan and mohamed zahran, a hybrid compiler-architecture technique
-to manage off-chip traffic for multicore chips, poster at acm students research
-competition, held in conjunction with the 18th international conference on parallel
-architecture and compilation techniques, nc, (winner of acm src, first
-prize).
-7. mohamed zahran and sally a. mckee, enterprise-like cache hierarchy manage-
-ment in the manycore era, position abstract, acm sigplan workshop on memory
-systems performance and correctness (mspc) held in conjunction with asplos,
-march, .
-mohamed zahran
-8. bushra ahsan, fatma omara and mohamed zahran, chip multiprocessor: chal-
-lenges and opportunities, infos . (invited paper)
-9. jerrybackerandmohamed zahran, the effect of memory bandwidth on processor
-performance, poster at richard tapia conference, fl (winner of acm src
-grand final).
-10. bushra ahasan and mohamed zahran, cache improvement techniques reconsid-
-ered: a write-buffer case study, poster at richard tapia conference, fl .
-11. a. bhowmik and m. zahran, cache traffic optimization, computer science and
-automation, indian institute of science, india, , iisc-csa-tr- -1.
-12. mohamed zahran, on cache memory hierarchy for chip-multiprocessor, acm
-computer architecture news, vol 31, no. 1, march .
-presentations
-& talks
-1. artificial intelligence leaps in digital banking, university of cranfield, uk, distin-
-guished speaker, may .
-2. artificial intelligence leaps and financial applications, university of cranfield, uk,
-distinguished speaker, november .
-3. ai support for computer architecture,seminarinadvancesincomputing,
-university of south carolina (uofsc), september .
-4. ai in the middle east and north africa: visions and realities, panel organized by ai
-for good and un, june .
-5. ai support for architecture: challenges and opportunities,amdresearch,july2020.
-6. towardexascalemachine: challengesandopportunities,ibmt.j.watsonlab,april
+42. Mohamed Zahran and Manoj Franklin, Return Address Prediction in Speculative
+Multi threaded Environments, in Int’l Conference on Hi-Performance Computing Hi PC’02),
+Bangalore, India, .
+43. Mohamed Zahran and Manoj Franklin, A Feasibility Study of Hierarchical Multi-
+threading, in International Parallel and Distributed Processing Symposium (IPDPS
+), Marriott Marina, Fort Lauderdale, Florida, .
+44. Mohamed Zahran and Manoj Franklin, Hierarchical Multi-threading For Exploit-
+ing Parallelism at Multiple Granular i ties Workshopon MULTITHREADEDEXECU-
+TION, ARCHITECTURE and COMPILATION (MTEAC-5), Austin, Texas, .
+45. Mohamed Zahran, Ashraf Abdel-Wahab and Samir Shaheen, Adaptive Genetic Al-
+gorithm for Multiprocessor Scheduling, poster presentation at the Genetic and Evolu-
+tionary Computation Conference (GECCO), Orlando, .
+Refereed Posters, Abstracts, Invited Papers, and Technical Reports:
+1. Marcelo Pias, Brett Becker, Qiao Xiang, Mohamed Zahran, and Monica Anderson,
+Should Quantum Processor Design be Considered a Topic in Computer Architecture
+Education? In Proceedings of the 53rd ACM Technical Symposium on Computer
+Science Education V. 2 (SIGCSE ).
+2. Mohamed Zahran, The Future of High-Performance Computing, 17th International
+Computer Engineering Conference (ICENCO), pp 129 - 134, (Invited Paper).
+3. M. Zahran, Multicore processors: Status quo and future directions, in 10th Interna-
+tional Computer Engineering Conference (ICENCO), Dec (Invited Paper).
+4. Yi (Louisa) Lu and Mohamed Zahran, Unleashing the Power of General Purpose
+Graphics Processing Units, poster at ACM Students Research Competition, held in
+Conjunction with The International Symposium on Code Generation and Optimiza-
+tion, FL, (Winner of ACM SRC, First Prize).
+5. Arun K. Kanu part hi Mohamed Zahran, and Ramesh Karri, On-Chip Dynamic
+Trusted Platform Module, Trusted Infrastructure Workshop (TIW), June , Pitts-
+burgh, PA, (Best Poster Award).
+6. Bushra Ahasan and Mohamed Zahran, A Hybrid Compiler-Architecture Technique
+to Manage Off-Chip Traffic for Multicore Chips, poster at ACM Students Research
+Competition, held in Conjunction with The 18th International Conference on Parallel
+Architecture and Compilation Techniques, NC, (Winner of ACM SRC, First
+Prize).
+7. Mohamed Zahran and Sally A. Mc Kee, Enterprise-Like Cache Hierarchy Manage-
+ment in the Manycore Era, position abstract, ACM SIGPLAN Workshop on Memory
+Systems Performance and Correctness (MSPC) held in conjunction with ASPLOS,
+March, .
+Mohamed Zahran
+8. Bushra Ahsan, Fatma Omara and Mohamed Zahran, Chip Multiprocessor: Chal-
+lenges and Opportunities, INFOS . (Invited Paper)
+9. Jerry Backerand Mohamed Zahran, The Effect of Memory Bandwidth on Processor
+Performance, poster at Richard Tapia Conference, FL (Winner of ACM SRC
+Grand Final).
+10. Bushra Ahasan and Mohamed Zahran, Cache Improvement Techniques Reconsid-
+ered: A Write-Buffer Case Study, poster at Richard Tapia Conference, FL .
+11. A. Bhowmik and M. Zahran, Cache Traffic Optimization, Computer Science and
+Automation, Indian Institute of Science, India, , IISc-CSA-TR--1.
+12. Mohamed Zahran, On Cache Memory Hierarchy for Chip-Multiprocessor, ACM
+Computer Architecture News, Vol 31, No. 1, March .
+Presentations
+& Talks
+1. Artificial Intelligence Leaps in Digital Banking, University of Cranfield, UK, distin-
+guished speaker, May .
+2. Artificial Intelligence Leaps and Financial Applications, University of Cranfield, UK,
+distinguished speaker, November .
+3. AI Support for Computer Architecture, SEMINAR IN ADVANCES IN COMPUTING
+University of South Carolina (Uof SC), September .
+4. AI in the Middle East and North Africa: visions and realities, panel organized by AI
+for Good and UN, June .
+5. AI Support for Architecture: Challenges and Opportunities, AMD Research July2020.
+6. Toward Exascale Machine: Challenges and Opportunities, IBMT. J. Watsonlab, April
 .
-7. architecture support for big data, bloomberg, november .
-8. panelatibmresearchworkshoponarchitecturesforcognitivecomputinganddat-
-acenters, ibm t. j. watson lab , october .
-9. heterogeneous computing: hardware and software perspective, acm applicative,
-june .
-10. hardware advances for the big data era, centerfordatasciences, newyorkuniver-
-sity, november .
-11. off-chip bandwidth: the new wall in the multicore era,computer and information
-sciences departmental seminar series, university of delaware, march .
-12. multicore chips and the green revolution, it symposium by uptime institute, april
+7. Architecture Support for Big Data, Bloomberg, November .
+8. Panelat IBM Research Workshopon Architectures for Cognitive Computing and Dat-
+acenters, IBM T. J. Watson lab , October .
+9. Heterogeneous Computing: Hardware and Software Perspective, ACM App li cat ive
+June .
+10. Hardware Advances for the Big Data Era, Centerfor Data Sciences, New York Univer-
+sity, November .
+11. Off-Chip Bandwidth: The New Wall in The Multicore Era, Computer and Information
+Sciences Departmental seminar series, University of Delaware, March .
+12. Multicore Chips and The Green Revolution, IT Symposium by Uptime Institute, April
 .
-13. off-chipbandwidth: thenewwallinthemulticoreera,intel-vssad,hudson,ma,
-may .
-14. adaptiveblockplacementpolicyforcachehierarchiesinsmart’09,heldinconjunc-
-tion with hipeac’09.
-15. cache performance, system performance, and off-chip bandwidth... pick any two,
-ina-ocmc, held in conjunction with hipeac’09.
-16. enterprise-like cache hierarchy management in the manycore era, acm sigplan
-workshoponmemorysystemsperformanceandcorrectness(mspc)heldinconjunc-
-tion with asplos, march, .
-17. attacking the von-neumann bottleneck: cache hierarchy in the chip multiprocessor
-era, as part of the departmental seminar series of fall , the ece/cs dept of
-polytechnic university.
-mohamed zahran
-18. attacking the von-neumann bottleneck: cache hierarchy in the chip multiprocessor
-era, as partof the departmentalseminarseries of fall , the csdept, university of
-massachusetts at amherst.
-19. cache replacement policy revisited, the annual workshop on duplicating, decon-
-structing, and debunking (wddd)held in conjunction with the international sympo-
-sium on computer architecture (isca), .
-20. attacking the von-neumann bottleneck: smart and scalable cache hierarchy in the
-chip multiprocessor era, ibm t. j. watson, feb .
-21. computer hardware: a different perspective, keynotespeech, 2ndinternationalcom-
-puter engineering conference (icenco), dec .
-22. rht: a context-based return address predictor, the international conference
-on computer design (cdes’06), las vegas, june .
-23. bandwidth-friendlycachehierarchy,the2006internationalconferenceoncomputer
-design (cdes’06), las vegas, june .
-24. chip multithreading: issues and challenges, part of the departmental seminar series
-of fall in the ece dept, university of massachusetts at amherst.
-25. cache traffic optimization and cache on demand system, at a meeting at nsf with
-csr program directory prof. peter varman, june .
-26. hybridcompilerandmicroarchitecturetechniqueforcachetrafficoptimization,interact-
-9 (interaction between compilers and computer architectures), feb .
-27. confidence estimation for register value communication in speculative multithreaded
-architectures, first value prediction workshop (vpw1), held in conjunction with the
-30th annual international symposium on computer architecture (isca), san diego,
-california, .
-28. speculative multithreading...the future of microprocessors, electrical and computer
-engineering graduate students association (ecegsa)graduate student seminar,
-fall , best scientific talk award
-29. microprocessors...can we make further progress, university of maryland graduate
-research interaction day (grid), spring , best talk award
-30. oncachememoryhierarchyforchip-multiprocessor,medeaworkshop,heldincon-
-junction with pact, virginia, .
-31. feasibility study of hierarchical multithreading, ipdps conference, florida, .
-grants ⋄ external funding:
-· equipment: xilinx: , several fpga boards and software tools to support our
+13. Off-Chip Bandwidth: The New Wallin The Multicore Era, Intel-VSSAD, Hudson, MA,
+May .
+14. Adaptive Block Placement Policyfor Cache Hierarchies in SMART’09, heldinconjunc-
+tion with Hi PEAC’09.
+15. Cache Performance, System Performance, and Off-Chip Bandwidth... Pick any Two,
+INA-OCMC, held in conjunction with Hi PEAC’09.
+16. Enterprise-Like Cache Hierarchy Management in the Manycore Era, ACM SIGPLAN
+Workshopon Memory Systems Performance and Correctness(MSPC)heldinconjunc-
+tion with ASPLOS, March, .
+17. Attacking The Von-Neumann Bottleneck: Cache Hierarchy in The Chip Multiprocessor
+Era, as part of the departmental seminar series of Fall , the ECE/CS dept of
+Polytechnic University.
+Mohamed Zahran
+18. Attacking The Von-Neumann Bottleneck: Cache Hierarchy in The Chip Multiprocessor
+Era, as partof the departmental seminar series of Fall , the CSdept, university of
+Massachusetts at Amherst.
+19. Cache Replacement Policy Revisited, The Annual Workshop on Duplicating, Decon-
+structing, and Debunking (WDDD)held in conjunction with the International Sympo-
+sium on Computer Architecture (ISCA), .
+20. Attacking the Von-Neumann Bottleneck: Smart and Scalable Cache Hierarchy in The
+Chip Multiprocessor Era, IBM T. J. Watson, Feb .
+21. Computer Hardware: A Different Perspective, keynote speech 2nd International Com-
+puter Engineering Conference (ICENCO), Dec .
+22. RHT: A Context-Based Return Address Predictor, The International Conference
+on Computer Design (CDES’06), Las Vegas, June .
+23. Bandwidth-Friendly Cache Hierarchy, The 2006 International Conference on Computer
+Design (CDES’06), Las Vegas, June .
+24. Chip Multithreading: Issues and Challenges, part of the departmental seminar series
+of fall in the ECE dept, university of Massachusetts at Amherst.
+25. Cache Traffic Optimization and Cache on Demand System, at a meeting at NSF with
+CSR program directory Prof. Peter Varman, June .
+26. Hybrid Compiler and Microarchitecture Technique for Cache Traffic Optimization, INTERACT-
+9 (Interaction between Compilers and Computer Architectures), Feb .
+27. Confidence Estimation for Register Value Communication in Speculative Multi threaded
+Architectures, first value prediction workshop (VPW1), held in conjunction with the
+30th Annual International Symposium on Computer Architecture (ISCA), San Diego,
+California, .
+28. Speculative Multithreading... The Future of Microprocessors, Electrical and Computer
+Engineering Graduate Students Association ECE GS A Graduate Student Seminar,
+Fall , BEST SCIENTIFIC TALK AWARD
+29. Microprocessors... Can We Make Further Progress, University of Maryland Graduate
+Research Interaction Day (GRID), Spring , BEST TALK AWARD
+30. On Cache Memory Hierarchy for Chip-Multiprocessor, MEDEA workshop heldincon-
+junction with PACT, Virginia, .
+31. Feasibility Study of Hierarchical Multithreading, IPDPS Conference, Florida, .
+Grants ⋄ External Funding:
+· Equipment: Xilinx: , several FPGA boards and software tools to support our
 research and teaching in heterogeneous computing.
-· cra-creu / , computing research association, title:“dealing with mem-
-ory in the parallel computing era”, ($7,500).
-· cra-creu2013/ ,computingresearchassociation,title:“generalpurposegraph-
-ics processor units (gpgpus) bottleneck analysis”, ($4,500).
-· nsf-sger / : “sger: exploring the potential for software-informed hard-
-ware reconfigurability in the memory hierarchy of embedded systems” ($ 40,000).
-· nsf-cbet - , “mri: acquisition of an advanced micro-computed tomogra-
-phy imaging facility”, ($ 339,450) [co-pi].
-· cra-creu / , computing research association, title:“toward better mem-
-ory hierarchy for chip-multiprocessor”, ($9,500).
-· cra-creu / , computing research association, title:“effect of bus traffic
-on cache hierarchy performance”, ($3,500).
-mohamed zahran
-⋄ internal funding:
-· nyu - university research challenge fund,( / ), generalized profiling: ex-
-tracting wisdom from profiling data, ($15,000).
-· psc-cuny grant 40 ( / ), the professional staff congress-city university
-of new york award for research on off-chip bandwidth management for multicore
-processors,($2,700).
-· psc-cuny grant 38 ( / ), the professional staff congress-city university of
-new york award for research on global replacement policy,($3,950).
-· psc-cuny grant 36 ( / ), the professional staff congress-city university of
-new york award for research on improving cache memory performance in current
-and new microarchitecture environments($2,320).
-professional
-activities
-⋄ general chair:
-· the ieee/acm 49th international symposium on computer architecture (isca
-), co-chair with valentina salapura
-⋄ review panel:
-· national science foundation (nsf)
-· department of energy (doe)
-⋄ program committee member:
-· the 56th ieee/acm international symposium on microarchitecture (micro )
-· the50thieee/acminternationalsyposiumoncomputerarchitecture(isca2023)
-· internationalworkshoponperformanceanalysisofmachinelearningsystems(fast-
-path )
-· the 40th ieee international conference on computer design (iccd )
-· the 39th ieee international conference on computer design (iccd )
-· the 38th ieee international conference on computer design (iccd )
-· the acm international conference on computing frontiers (cf )
-· the 20th ieee/acm international symposium on cluster, cloud and internet com-
-puting (ccgrid )
-· the international conference for high performance computing, networking, storage,
-and analysis (sc )
-· the 33rd ieee international parallel & distributed processing symposium (ipdps
+· CRA-CREU /, Computing Research Association, title Dealing With Mem-
+ory in the Parallel Computing Era”, ($7,500).
+· CRA-CREU2013/, Computing Research Association, title General Purpose Graph-
+ics Processor Units (GPGPUs) Bottleneck Analysis”, ($4,500).
+· NSF-SGER /: “SGER: Exploring the Potential for Software-Informed Hard-
+ware Re config ur ability in the Memory Hierarchy of Embedded Systems” ($ 40,000).
+· NSF-CBET -, “MRI: Acquisition of an advanced micro-Computed Tomogra-
+phy imaging facility”, ($ 339,450) [Co-PI].
+· CRA-CREU /, Computing Research Association, title Toward Better Mem-
+ory Hierarchy for Chip-Multiprocessor”, ($9,500).
+· CRA-CREU /, Computing Research Association, title Effect of Bus Traffic
+on Cache Hierarchy Performance”, ($3,500).
+Mohamed Zahran
+⋄ Internal Funding:
+· NYU - University Research Challenge Fund,(/), Generalized Profiling: Ex-
+tracting Wisdom from Profiling Data, ($15,000).
+· PSC-CUNY grant 40 (/), The Professional Staff Congress-City University
+of New York award for research on Off-Chip Bandwidth Management for Multicore
+Processors,($2,700).
+· PSC-CUNY grant 38 (/), The Professional Staff Congress-City University of
+New York award for research on Global Replacement Policy,($3,950).
+· PSC-CUNY grant 36 (/), The Professional Staff Congress-City University of
+New York award for research on Improving Cache Memory Performance in Current
+and New Microarchitecture Environments($2,320).
+Professional
+Activities
+⋄ General Chair:
+· The IEEE/ACM 49th International Symposium on Computer Architecture (ISCA
+), co-Chair with Valentina Salapura
+⋄ Review Panel:
+· National Science Foundation (NSF)
+· Department of Energy (Do E)
+⋄ Program committee member:
+· The 56th IEEE/ACM International Symposium on Microarchitecture (MICRO )
+· The50th IEEE ACM International Syposiumon Computer Architecture ISCA 2023
+· International Workshopon Performance Analysisof Machine Learning Systems(FAST-
+PATH )
+· The 40th IEEE International Conference on Computer Design (ICCD )
+· The 39th IEEE International Conference on Computer Design (ICCD )
+· The 38th IEEE International Conference on Computer Design (ICCD )
+· The ACM International Conference on Computing Frontiers (CF )
+· The 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Com-
+puting (CCGRID )
+· The International Conference for High Performance Computing, Networking, Storage,
+and Analysis (SC )
+· The 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS
 )
-· the acm international conference on computing frontiers (cf )
-· the acm international conference on computing frontiers (cf )
-· the acm international conference on computing frontiers (cf )
-· the23rdieeesymposiumonhighperformancecomputerarchitecture(hpca2017)
-· the 30th ieee international parallel & distributed processing symposium (ipdps
+· The ACM International Conference on Computing Frontiers (CF )
+· The ACM International Conference on Computing Frontiers (CF )
+· The ACM International Conference on Computing Frontiers (CF )
+· The23rd IEEE Symposium on High Performance Computer Architecture HPC A 2017
+· The 30th IEEE International Parallel & Distributed Processing Symposium (IPDPS
 )
-· the acm international conference on computing frontiers (cf )
-· the acm international conference on computing frontiers (cf )
-· the 29th ieee international parallel & distributed processing symposium (ipdps
+· The ACM International Conference on Computing Frontiers (CF )
+· The ACM International Conference on Computing Frontiers (CF )
+· The 29th IEEE International Parallel & Distributed Processing Symposium (IPDPS
 )
-· the 11th ifip international conference on network and parallel computing (npc
+· The 11th IFIP International Conference on Network and Parallel Computing (NPC
 )
-mohamed zahran
-· the11thieee/ifipinternationalconferenceonembeddedandubiquitouscomput-
-ing (euc-13)
-· studentresearchsymposiumheldinhigh-performancecomputingconference(srs-
-hipc )
-· the10thieee/ifipinternationalconferenceonembeddedandubiquitouscomput-
-ing (euc )
-· the 25th international conference on supercomputing (ics- )
-· the24thieeeinternationalparallelanddistributedprocessingsymposium(ipdps-
+Mohamed Zahran
+· The11th IEEE IF IP International Conference on Embedded and Ubiquitous Comput-
+ing (EUC-13)
+· Student Research Symposium held in High-Performance Computing Conference(SRS-
+Hi PC )
+· The10th IEEE IF IP International Conference on Embedded and Ubiquitous Comput-
+ing (EUC )
+· The 25th International Conference on Super computing (ICS-)
+· The24th IEEE International Parallel and Distributed Processing Symposium(IPDPS-
 )
-· the international symposium on code generation and optimization (cgo- )
-· thefourthinternationalworkshoponautomaticperformancetuning(iwapt2009)
-· the 11th ieee international conference on high performance computing and com-
-munications (hpcc-09)
-· the 2nd international conference on computer science and its applications (csa
+· The International Symposium on Code Generation and Optimization (CGO-)
+· The Fourth international Workshopon Automatic Performance Tuning(i WAPT2009)
+· The 11th IEEE International Conference on High Performance Computing and Com-
+muni cations (HPCC-09)
+· The 2nd International Conference on Computer Science and its Applications (CSA
 )
-· ieee international conference on microelectronics (icm) , , and
-· the international computer design conference (cdes- )
-⋄ editorial:
-· steeringcommitteemember,ieeetransactiononmulti-scalecomputing(term2018-
+· IEEE International Conference on Microelectronics (ICM) , , and
+· The International Computer Design Conference (CDES-)
+⋄ Editorial:
+· Steering Committee member IEEE Transaction on Multi-Scale Computing(term2018-
 ).
-· co-guest editor for a special issue of acm operating system review about the inter-
-action among compilers, operating systems, and multicore; april .
-⋄ organizing committee member:
-· publicity chair for the acm international conference on computing frontiers
-(cf )
-· publicationchairfortheacminternationalconferenceoncomputingfrontiers2011
+· Co-guest editor for a special issue of ACM Operating System Review about The inter-
+action among Compilers, Operating Systems, and Multicore; April .
+⋄ Organizing Committee Member:
+· Publicity chair for the ACM International Conference on Computing Frontiers
+(CF )
+· Publication Chair for the ACM International Conference on Computing Frontiers 2011
 and
-· workshops and tutorials co-chair for the 23rd international conference on supercom-
-puting (ics )
-· publicity chair for the eighteenth international conference on parallel architectures
-and compilation techniques (pact )
-· co-organizer of 2nd reconfigurable and adaptive architecture workshop (raaw),
-held in conjunction of the 40th annual ieee/acm international symposium on mi-
-croarchitecture, dec .
-· co-organizer of 1st reconfigurable and adaptive architecture workshop (raaw),
-held in conjunction of the 39th annual ieee/acm international symposium on mi-
-croarchitecture, dec .
-⋄ reviewing activities:
-· elsevier microprocessors and microsystem journal
-· the international journal of parallel programming (ijpp)
-· international journal of parallel, emergent, and distributed systems
-· reviewer for air force office of scientific research
-· ieee transactions on computer-aided design of integrated circuits and systems
-· acm transactions on architecture and code optimization (taco)
-· ieee computer architecture letters (cal)
-mohamed zahran
-· journal of circuits, systems, and computers
-· journal of computers and their applications
-· international journal of embedded systems (ijes)
-· international conference on supercomputing (ics)
-· international symposium on computer architecture (isca)
-· international symposium on high performance computer architecture (hpca)
-· international symposium on circuits and systems (iscas)
-· international parallel and distributed processing symposium (ipdps)
-· international conference on high performance computing (hipc)
-· ieeeinternationalsymposiumonperformanceanalysisofsystemsandsoftware(is-
-pass)
-· international computer engineering conference (icenco).
-societies ⋄ full member of sigma xi honor society since
+· Workshops and tutorials co-chair for the 23rd International Conference on Supercom-
+puting (ICS )
+· Publicity chair for the Eighteenth International Conference on Parallel Architectures
+and Compilation Techniques (PACT )
+· Co-organizer of 2nd Re configurable and Adaptive Architecture Workshop (RAAW),
+held in conjunction of The 40th Annual IEEE/ACM International Symposium on Mi-
+cro architecture Dec .
+· Co-organizer of 1st Re configurable and Adaptive Architecture Workshop (RAAW),
+held in conjunction of The 39th Annual IEEE/ACM International Symposium on Mi-
+cro architecture Dec .
+⋄ Reviewing activities:
+· Elsevier Microprocessors and Micro system journal
+· The International Journal of Parallel Programming (IJPP)
+· International Journal of Parallel, Emergent, and Distributed Systems
+· Reviewer for Air Force Office of Scientific Research
+· IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+· ACM Transactions on Architecture and Code Optimization (TACO)
+· IEEE Computer Architecture Letters (CAL)
+Mohamed Zahran
+· Journal Of Circuits, Systems, and Computers
+· Journal of Computers and Their Applications
+· International journal of embedded systems (IJES)
+· International Conference on Super computing (ICS)
+· International Symposium on Computer Architecture (ISCA)
+· International Symposium on High Performance Computer Architecture (HPCA)
+· International Symposium on Circuits and Systems (ISCAS)
+· International Parallel and Distributed Processing Symposium (IPDPS)
+· International Conference on High Performance Computing (Hi PC)
+· IEEE International Symposium on Performance Analysisof Systemsand Software(IS-
+PASS)
+· International Computer Engineering Conference (ICENCO).
+Societies ⋄ Full Member of Sigma Xi Honor society since
 and
-⋄ senior member of ieee (including computer society).
-affiliations
-⋄ member of the following ieee computer society technical committees :
-· computer architecture (tcca)
-· microprocessors and microcomputers (tcmcmp)
-· microprogramming and microarchitecture (tcmarch)
-⋄ senior member of acm.
-⋄ member of the following acm special interest groups (sig) :
-· computer architecture (sigarch)
-· microprogramming (sigmicro)
-· operating systems (sigops)
-· computer science education (sigcse)
-· design automation (sigda)
-· programming languages (sigplan)
-⋄ member of egyptians syndicate professional engineers society, since .
-teaching ⋄ multicore processors: architecture and programming
-experience in computer science department of new york university
-a graduate course that studies multicore processors, including homogeneous and heteroge-
+⋄ Senior member of IEEE (including Computer Society).
+Affiliations
+⋄ Member of the following IEEE Computer society technical committees :
+· Computer Architecture (TCCA)
+· Microprocessors and Micro Computers (TCMCMP)
+· Microprogramming and Microarchitecture (TCMARCH)
+⋄ Senior Member of ACM.
+⋄ Member of the following ACM Special Interest Groups (SIG) :
+· Computer Architecture (SIGARCH)
+· Microprogramming (SIGMICRO)
+· Operating Systems (SIGOPS)
+· Computer Science Education (SIGCSE)
+· Design Automation (SIGDA)
+· Programming Languages (SIGPLAN)
+⋄ Member of Egyptians Syndicate Professional Engineers society, since .
+Teaching ⋄ Multicore Processors: Architecture and Programming
+Experience In Computer Science Department of New York University
+A graduate course that studies multicore processors, including homogeneous and heteroge-
 neous, from hardware and software perspective.
-⋄ graphics processing units (gpus): architecture and programming
-in computer science department of new york university
-a graduate course that studies gpus from hardware and software perspective.
-⋄ parallel computing
-in computer science department of new york university
-anundergraduatecoursethatintroducesstudentstoboththehardwareandsoftwareaspects
-of parallel computing. students are introduced to both shared-memory and distributed
-memory architectures. they learn to program in mpi (for distributed-memory systems),
-openmp (for shared-memory systems), and cuda (for gpus).
-mohamed zahran
-⋄ computer systems organization
-in computer science department of new york university
-an undergraduate course that discusses what happens under the hood in a computer sys-
-tems. it includes linkers, loaders, memory allocation, virtual memory, memory hierarchy,
-as well as c programming language and x86 assembly.
-⋄ virtual machines: concepts and applications
-in computer science department of new york university
-a graduate course that studies the design and implementation of virtual machines, virtual
-machine monitors, as well other recent trends in virtualization. it discusses virtual ma-
+⋄ Graphics Processing Units (GPUs): Architecture and Programming
+In Computer Science Department of New York University
+A graduate course that studies GPUs from hardware and software perspective.
+⋄ Parallel Computing
+In Computer Science Department of New York University
+An undergraduate course that introduces students to both the hardware and software aspects
+of parallel computing. Students are introduced to both shared-memory and distributed
+memory architectures. They learn to program in MPI (for distributed-memory systems),
+Open MP (for shared-memory systems), and CUDA (for GPUs).
+Mohamed Zahran
+⋄ Computer Systems Organization
+In Computer Science Department of New York University
+An undergraduate course that discusses what happens under the hood in a computer sys-
+tems. It includes linkers, loaders, memory allocation, virtual memory, memory hierarchy,
+as well as C programming language and x86 assembly.
+⋄ Virtual Machines: Concepts and Applications
+In Computer Science Department of New York University
+A graduate course that studies the design and implementation of virtual machines, virtual
+machine monitors, as well other recent trends in virtualization. It discusses virtual ma-
 chines across the disciplines that use them: operating systems, programming languages,
 and computer architecture.
-⋄ operating systems
-in computer science department of new york university
-a course that discusses the main concepts of operating systems design.
-i taught both the graduate and undergraduate editions.
-⋄ compilers construction:
-in computer science department of new york university
-a graduate course in compilers design, that involves building a full compiler.
-⋄ pac ii (preparatory accelerated course):
-in computer science department of new york university
-a graduate course to prepare non-cs students for graduate studies. it explores the whole
+⋄ Operating Systems
+In Computer Science Department of New York University
+A course that discusses the main concepts of operating systems design.
+I taught both the graduate and undergraduate editions.
+⋄ Compilers Construction:
+In Computer Science Department of New York University
+A graduate course in compilers design, that involves building a full compiler.
+⋄ PAC II (Preparatory Accelerated Course):
+In Computer Science Department of New York University
+A graduate course to prepare non-CS students for graduate studies. It explores the whole
 computing stack from algorithms to transistors.
-⋄ capstone project:
-in electrical engineering department at city college of city university of new york
-supervisingseveralseniordesignprojects, including: interfacing, softwaretooltohelpcom-
+⋄ Capstone Project:
+In Electrical Engineering Department at City College of City University of New York
+Supervising several senior design projects including: interfacing, softwaretooltohelpcom-
 puter architecture researchers, and microprocessor design
-⋄ digital computer systems (spring , fall , spring , fall , spring ,
-fall , spring , fall , spring , fall , spring ) in electrical engi-
-neering department at city college of city university of new york
-this is a senior-level course about computer architecture.
-⋄ computer engineering laboratory: (fall )
-in electrical engineering department at city college of city university of new york
-this senior-level lab consists of several hands-on experiments in interfacing and fpga.
-i have also been faculty co-ordinator for that course (spring , fall , spring ,
+⋄ Digital Computer Systems (Spring , Fall , Spring , fall , Spring ,
+Fall , Spring , Fall , Spring , Fall , Spring ) In Electrical Engi-
+neering Department at City College of City University of New York
+This is a senior-level course about computer architecture.
+⋄ Computer Engineering Laboratory: (Fall )
+In Electrical Engineering Department at City College of City University of New York
+This senior-level lab consists of several hands-on experiments in interfacing and FPGA.
+I have also been faculty co-ordinator for that course (Spring , Fall , Spring ,
 and fall )
-⋄ co-teaching graduate course in computer architecture: (spring 04)
-advanced graduate course in computer architecture and microprocessor design
-in ece department at the george washington university
-duties include helping in preparing the syllabus, exams, projects, and giving lectures.
-⋄ teaching assistant: (fall 99 - spring 01)
-in ece department, university of maryland at college park. assisted in teaching: digital
-logic design, computer organization.
-duties: holding weekly recitation classes, office hours as well as grading
+⋄ Co-Teaching Graduate Course in Computer Architecture: (Spring 04)
+Advanced graduate course in computer architecture and microprocessor design
+In ECE department at The George Washington University
+Duties include helping in preparing the syllabus, exams, projects, and giving lectures.
+⋄ Teaching assistant: (Fall 99 - Spring 01)
+In ECE department, University of Maryland at College Park. Assisted in teaching: Digital
+Logic Design, Computer Organization.
+Duties: holding weekly recitation classes, office hours as well as grading
 homework assignments and exams.
-⋄ assistant lecturer (sep 97 - may 99)
-cairo university, egypt.
-teaching: c programming language, digital logic design,
-computer architecture, software engineering and operating systems.
-⋄ lecturer (spring 98)
-center of adult and continuing education (cace),
-american university in cairo (auc).
-mohamed zahran
-duties: teaching computer architecture and assembly language programming course.
-advising ⋄ ph.d. adviser of:
-· bushra ahsan, dissertation title: off-bandwidth for multicore processors: the next
-big wall, first employment: postdoc at university of cyprus in / ; now at
-intel hudson, ma.
-⋄ ph.d committee member of the following students:
-· ahmed elkammar, city university of new york, august
-· zahidur rahman, city university of new york, june
-· zhaoming li, city university of new york, may
-· qiang song, city university of new york, may
-· hassan bajwa, city university of new york, apr
-· flavio de angelis, city university of new york,
-· kafi hassan, city university of new york, .
-· osama hussein, city university of new york, .
-· hooshang sharif, city university of new york, .
-⋄ m.sc. committee member of the following students:
-· hassan bajwa, city college of city university of new york, feb
-· jonathan cardenas, city college of city university of new york, dec
-· francois cantonnet, ece dept, the george washington university, spring 04.
-⋄ supervisor of m.sc. students for their m.sc. thesis:
-· kumar prasun, configurable gpus, (expected may )
-· chris quackenbush, a new method for using profiling data to improve efficiency
-across multiple applications, computer science department, courant institute of
-mathematical sciences, nyu (graduated spring ).
-· beihong chen, cache geometry and architecture acceleration for machine learning
-approaches, ece department, tandon school of engineering, nyu, (graduated sum-
+⋄ Assistant Lecturer (Sep 97 - May 99)
+Cairo University, Egypt.
+Teaching: C programming language, Digital Logic Design,
+Computer Architecture, Software Engineering and Operating Systems.
+⋄ Lecturer (Spring 98)
+Center of Adult and Continuing Education (CACE),
+American University in Cairo (AUC).
+Mohamed Zahran
+Duties: Teaching computer architecture and assembly language programming course.
+Advising ⋄ Ph. D. Adviser of:
+· Bushra Ahsan, Dissertation Title: Off-Bandwidth for Multicore Processors: The Next
+Big Wall, First employment: postdoc at University of Cyprus in /; Now at
+Intel Hudson, MA.
+⋄ Ph. D committee member of the following students:
+· Ahmed Elkammar, City University of New York, August
+· Zahidur Rahman, City University of New York, June
+· Zhaoming Li, City University of New York, May
+· Qiang Song, City University of New York, May
+· Hassan Bajwa, City University of New York, Apr
+· Flavio De Angelis, City University of New York,
+· Kafi Hassan, City University of New York, .
+· Osama Hussein, City University of New York, .
+· Hooshang Sharif, City University of New York, .
+⋄ M. Sc. committee member of the following Students:
+· Hassan Bajwa, City College of City University of New York, Feb
+· Jonathan Cardenas, City College of City University of New York, Dec
+· Francois Cantonnet, ECE Dept, The George Washington University, Spring 04.
+⋄ Supervisor of M. Sc. students for their M. Sc. thesis:
+· Kumar Prasun, Configurable GPUs, (Expected May )
+· Chris Quackenbush, A New Method for Using Profiling Data to Improve Efficiency
+Across Multiple Applications, Computer Science Department, Courant Institute of
+Mathematical Sciences, NYU (Graduated Spring ).
+· Beihong Chen, Cache Geometry and Architecture Acceleration for Machine Learning
+Approaches, ECE Department, Tandon School of Engineering, NYU, (graduated sum-
 mer ).
-· artemdurytskyy,ecedepartment,polytechnicinstituteofnyu,(graduatedspring
+· Artem Durytskyy, ECE Department Polytechnic Institute of NYU Graduated Spring
 )
-· lakshmicuddalorearivudainambi,citycollegeofcityuniversityofnewyork,(fall
+· Lakshmi Cuddalore Ariv uda in ambi City Collegeof City University of New York,(Fall
 )
-· preethi gopinath, city college of city university of new york, (fall )
-· sravan paruchuri, city college of city university of new york, (spring )
-· gurpreet kaur, city college of city university of new york, (spring )
-· bhaveshkumar patel, city college of city university of new york, (spring )
-· khurram malik, city college of city university of new york, (spring )
-· sandy sakani, city college of city university of new york, (fall )
-· prasanna uday patil, city college of city university of new york, (fall )
-· mattupalli susheela, city college of city university of new york, (fall )
-· varun kumar yadav nalla, city college of city university of new york, (fall )
-· qasim ali mir, city college of city university of new york, (fall )
-· babji reddy, city college of city university of new york, (fall )
-mohamed zahran
-· mehul shah, city college of city university of new york, (summer )
-· pramod yadav, city college of city university of new york, (spring )
-⋄ supervisor of graduate research (independent study) of:
-· anthony christopher lanzisera (nyu, fall )
-· jeewon ha (nyu, fall )
-· siddesh ramesh (nyu, fall )
-· chia-hao wu (nyu, summer )
-· dhara mungra (nyu, spring )
-· tulsi jain (nyu, summer )
-· anshu tomar (nyu, spring )
-· aviral khatta (nyu, fall )
-· arnav kansal (nyu, fall )
-· ramani kothadia (nyu, fall )
-· yew wong (nyu, spring )
-⋄ supervisor of undergraduate research of:
-· xin xiang (nyu, fall )
-· nate smith (nyu, fall )
-· andy huang (nyu, fall )
-· isabella tochterman (nyu, summer )
-· neal k moorthy (nyu, fall )
-· shiyang wang (nyu, spring )
-· reese hyde (nyu, summer )
-· sanjna verma (nyu, summer and fall )
-· katelyn s mulgrew (nyu, summer and fall )
-· daniel cohen (nyu, spring, summer, and fall )
-· louisa lu (nyu, summer and fall , and spring )
-· abhi kumar (cuny, spring )
-· lina cordero (cuny, fall )
-· heba gabre(cuny, fall )
-· stephany soria (cuny, fall )
-· jumie yuventi(cuny, fall )
-· jerry backer (cuny, spring , fall )
-· elbert tsang (cuny, fall )
-· rajai gooden (cuny, spring 06)
-· mamadou lame (cuny, fall 05)
-· juan p. monzon (cuny, spring 05-fall 05)
-· ruhul amin (cuny, spring 05)
-· mahfuzur rahman (cuny, spring 05)
-research ⋄ ai support for architecture( -present)
-summary canwemakeuseofaitechniquestomakethehardwaremoreefficient. morespecifically,can
-the execution of program a on a hardware make that hardware more efficient in executing
-a different program b?
-mohamed zahran
-⋄ graphics processing units (gpus)( -present)
-inthisresearchprojectwestudytheopportunitiesforusinggpusinmanynon-scientificap-
-plications. we also strive to overcome many challenges ranging from bandwidth bottleneck
+· Preethi Gopinath, City College of City University of New York, (Fall )
+· Sravan Paruchuri, City College of City University of New York, (Spring )
+· Gurpreet Kaur, City College of City University of New York, (Spring )
+· Bhave sh kumar Patel, City College of City University of New York, (Spring )
+· Khurram Malik, City College of City University of New York, (Spring )
+· Sandy Sakani, City College of City University of New York, (fall )
+· Prasanna Uday Patil, City College of City University of New York, (fall )
+· mattupalli susheela, City College of City University of New York, (fall )
+· Varun Kumar Yadav Nalla, City College of City University of New York, (fall )
+· Qasim Ali Mir, City College of City University of New York, (fall )
+· Babji Reddy, City College of City University of New York, (fall )
+Mohamed Zahran
+· Mehul shah, City College of City University of New York, (summer )
+· Pramod Yadav, City College of City University of New York, (spring )
+⋄ Supervisor of graduate research (independent study) of:
+· Anthony Christopher Lanzisera (NYU, Fall )
+· Jeewon Ha (NYU, Fall )
+· Siddesh Ramesh (NYU, Fall )
+· Chia-hao Wu (NYU, Summer )
+· Dhara Mungra (NYU, Spring )
+· Tulsi Jain (NYU, Summer )
+· Anshu Tomar (NYU, Spring )
+· Aviral Khatta (NYU, Fall )
+· Arnav Kansal (NYU, Fall )
+· Ramani Kothadia (NYU, Fall )
+· Yew Wong (NYU, Spring )
+⋄ Supervisor of undergraduate research of:
+· Xin Xiang (NYU, Fall )
+· Nate Smith (NYU, Fall )
+· Andy Huang (NYU, Fall )
+· Isabella Tochterman (NYU, summer )
+· Neal K Moorthy (NYU, Fall )
+· Shiyang Wang (NYU, Spring )
+· Reese Hyde (NYU, Summer )
+· Sanjna Verma (NYU, Summer and Fall )
+· Katelyn S Mulgrew (NYU, Summer and Fall )
+· Daniel Cohen (NYU, Spring, Summer, and Fall )
+· Louisa Lu (NYU, Summer and Fall , and Spring )
+· Abhi Kumar (CUNY, Spring )
+· Lina Cordero (CUNY, Fall )
+· Heba Gab re CUNY Fall )
+· Stephany Soria (CUNY, Fall )
+· Jumie Yu vent i CUNY Fall )
+· Jerry Backer (CUNY, Spring , Fall )
+· Elbert Tsang (CUNY, Fall )
+· Rajai Gooden (CUNY, Spring 06)
+· Mamadou Lame (CUNY, Fall 05)
+· Juan P. Monzon (CUNY, Spring 05-Fall 05)
+· Ruhul Amin (CUNY, Spring 05)
+· Mahfuzur Rahman (CUNY, Spring 05)
+Research ⋄ AI Support for Architecture(-present)
+Summary Can we make use of AItechniquestomakethehardwaremoreefficient. More specifically can
+the execution of program A on a hardware make that hardware more efficient in executing
+a different program B?
+Mohamed Zahran
+⋄ Graphics Processing Units (GPUs)(-present)
+In this research project we study the opportunities for using GPUsinmanynon-scientificap-
+plications. We also strive to overcome many challenges ranging from bandwidth bottleneck
 and power-dissipation, to exposing different types of parallelism.
-⋄ memory design and management for heterogeneous computing ( -present)
-there are many challenges facing exascale computing. one of them is the heterogeneity
-involved in computing nodes, memory technology, interconnect, etc. memory system is one
-ofthecrucialpartsofthewholesystem. whattechnologyshallweuseformemorymodules?
-and why? how to manage them? what is the role of the compiler, operating system, and
+⋄ Memory Design and Management for Heterogeneous Computing (-present)
+There are many challenges facing exascale computing. One of them is the heterogeneity
+involved in computing nodes, memory technology, interconnect, etc. Memory system is one
+ofthecrucialpartsofthewholesystem. What technology shall we use for memory modules
+And why? How to manage them? What is the role of the compiler, operating system, and
 the architecture?
-⋄ cache hierarchy extremely scalable and smart ( - )
-in this project, we design the cache hierarchy for many-core chips (i.e. more than 100 on-
-chip cores). the desired hierarchy must allow cores to exchange information in a fast way,
-even during very short cycle time, while decreasing off-chip bandwidth requirement. this
+⋄ Cache Hierarchy Extremely Scalable and Smart (-)
+In this project, we design the cache hierarchy for many-core chips (i. e. more than 100 on-
+chip cores). The desired hierarchy must allow cores to exchange information in a fast way,
+even during very short cycle time, while decreasing off-chip bandwidth requirement. This
 requires rethinking of many aspects of cache design such as the interaction among caches
 and the bandwidth wall, the need for a global replacement and placement policy, and the
 hierarchical decision making in cache hierarchy.
-⋄ dynamic trusted platform modules( - )
-trustedplatformmodule(tpm)isamoduleplacedon-boardtoprovideload-timeauthen-
-tication of general purpose computing systems. this project has three goals. the first is to
-extend tpm to provide trusted execution of programs, and not be limited to load-time or
-boot-time. thesecondistosolvethescalabilityissuesoftpms. thethirdgoalistoembed
-tpms into multicore and manycore chips for tighter interaction with the different cores.
-⋄ chip multithreading( - )
-as the number of transistors has already exceeded billion transistors per chip, the inclusion
-of several processing elements per chip is now feasible. making the best use of this chip-
-multiprocessingcapabilityisachallengingproblem. toachievethatgoal,westudyproblems
+⋄ Dynamic Trusted Platform Modules(-)
+Trusted Platform Module(TPM)isamoduleplacedon-boardtoprovideload-timeauthen-
+tication of general purpose computing systems. This project has three goals. The first is to
+extend TPM to provide trusted execution of programs, and not be limited to load-time or
+boot-time. The second is to solve the s cal ability issues of TPMs. The third goal is to embed
+TPMs into multicore and manycore chips for tighter interaction with the different cores.
+⋄ Chip Multithreading(-)
+As the number of transistors has already exceeded billion transistors per chip, the inclusion
+of several processing elements per chip is now feasible. Making the best use of this chip-
+multiprocessingcapabilityisachallengingproblem. To achieve that goal we study problems
 such as: dynamic balancing between high throughput and high single-thread performance,
 fast and dynamic pattern detection of different application behaviors, and the dynamic
 reconfiguration of several processing elements on-chip.
-⋄ reconfigurable and parallel architecture:( - )
-in this project, we study the integration of both general-purpose processors as well as
-reconfigurable engines in order to allow the machine to dynamically reconfigure itself based
-on run-time information to achieve the performance of an asic with the flexibility of a
-general purpose machine. moreover, the project involves the design of language extension
-to the c-programming language for shared memory architectures. the language is called
-unified parallel c (upc).
-⋄ hierarchical multithreading ( - )
-this is a new execution model i proposed in my ph.d thesis that makes use of speculative
-multithreadinginanovelway. itisusedtoparallelizeasequentialprogramusingacombined
+⋄ Re configurable and Parallel Architecture:(-)
+In this project, we study the integration of both general-purpose processors as well as
+re configurable engines in order to allow the machine to dynamically reconfigure itself based
+on run-time information to achieve the performance of an ASIC with the flexibility of a
+general purpose machine. Moreover, the project involves the design of language extension
+to the C-programming language for shared memory architectures. The language is called
+Unified Parallel C (UPC).
+⋄ Hierarchical Multithreading (-)
+This is a new execution model I proposed in my Ph. D thesis that makes use of speculative
+multithreadinginanovelway. It is used to parallel ize a sequential program using a combined
 hardware and software approaches.

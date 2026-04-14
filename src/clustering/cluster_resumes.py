@@ -63,4 +63,3 @@ plt.scatter(embeddings_2d[:,0],embeddings_2d[:,1],c=labels,cmap="tab10")
 plt.title("UMAP + HDBSCAN Resume Clusters")
 plt.show()
 
-

@@ -1,1013 +1,997 @@
-mike v. d. burmester
-august,
-general information
-university address: computer science
-college of arts and sciences
-love building 0268
-florida state university
-tallahassee, florida
-phone: ; fax:
-e-mail address:
-web site: http://www.cs.fsu.edu/~burmeste/
-professional preparation
-dott. mat., university of rome "la sapienza", italy. major: mathematics.
-supervisor: b. segre. summa cum laude.
-ba, university of athens, greece. major: mathematics. supervisor: k.
-kappos.
-professional experience
-–present courtesy professor, computer and information sciences (cis), florida a&m
-university.
-–present professor, florida state university.
-– reader, information security group, royal holloway, university of london.
-– lecturer, mathematics, royal holloway, university of london.
-– associate professor, illinois state university, normal, illinois.
-– assistant professor, computer science, university of illinois, chicago circle,
-chicago.
-vita for mike v. d. burmester
-visiting professorship(s)
-university of calgary, canada.
-george mason university, fairfax, va.
-queensland university of technology, brisbane, australia.
-japan advanced institute of science and technology (jaist), kanasawa,
-japan.
-– university of piraeus, athens, greece.
-– adjunct associate professor, university of wisconsin, milwaukee.
-visiting associate professor, university of wisconsin, milwaukee.
-honors, awards, and prizes
-mainline information systems endowed professorship ( ).
-fellowship(s)
-institute of mathematics and its applications (fima) ( – ).
-hellenic mathematical society ( – ).
-current membership in professional organizations
-cyber-physical systems virtual organization, nsf (cps-vo)
-ieee computer society, senior member
-ifip wg 11.14 (secure service engineering)
-institute for systems and technologies of information, control and communication (insticc)
-institute of electronics, information and communication engineers (ieice)
-international association of cryptologic research (iacr)
-research and original creative work
-program of research and/or focus of original creative work
-program area: cyber security, information assurance
-focus areas: (a) pervasive/ubiquitous systems, (b) cyber physical systems.
-focus subareas: cryptography, network security, internet of things (iot), sensor networks,
-rfid, trust management, privacy/uncoercibility, watermarking/fingerprinting, information
-hiding.
-page 2
-vita for mike v. d. burmester
-publications
-refereed journal articles
-malamas, v., kotzanikolaou, p., dasaklis, thomas, k, & burmester, m. v. d. ( ). a
-hierarchical multi blockchain for fine grained access to medical data. ieee access.
-retrieved from https://ieeexplore.ieee.org/document/9146294
-doi:10.1109/access. .3011201
-gonzales, s., burmester, m. v., rivero-garcia, a., munilla, j., & caballero-gil, p. ( ).
-secure lightweight password authenticated key exchange for heterogeneous wireless
-sensor networks. information systems, elsevier, 88, 101423.
-doi:10.1016/j.is. .101423
-alcaraz, c., burmester, m., cuella, j., xinyi huang, x., kotzanikolaou, p., & psarakis, m.
-( ). guest editorial special issue on secure embedded iot devices for resilient
-critical infrastructures. ieee internet of things journal, 6(5), 7988-7991.
-doi:10.1109/jiot. .2940394
-burmester, m., munilla, j., & ortiz, a. ( ). comments on "unreconciled collisions uncover
-cloning attacks in anonymous rfid systems". ieee transactions on
-information forensics and security, 13, 1-3. retrieved from
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356598 doi:10.1109
-burmester, m., munilla, j., ortiz, a., & caballero-gil, p. ( ). an rfid-based smart
-structure for the supply chain: resilient scanning proofs and ownership transfer with
-positive secrecy capacity channels. sensors (jrc-if:2.67), 17(7), 1562.
+Mike V. D. Burmester
+August,
+General Information
+University address: Computer Science
+College of Arts and Sciences
+Love Building 0268
+Florida State University
+Tallahassee, Florida
+Phone: ; Fax:
+E-mail address:
+Web site:
+Professional Preparation
+Dott. Mat., University of Rome "La Sapienza", Italy. Major: Mathematics.
+Supervisor: B. Segre. Summa cum laude.
+BA, University of Athens, Greece. Major: Mathematics. Supervisor: K.
+Kappos.
+Professional Experience
+–present Courtesy Professor, Computer and Information Sciences (CIS), Florida A&M
+University.
+–present Professor, Florida State University.
+– Reader, Information Security Group, Royal Holloway, University of London.
+– Lecturer, Mathematics, Royal Holloway, University of London.
+– Associate Professor, Illinois State University, Normal, Illinois.
+– Assistant Professor, Computer Science, University of Illinois, Chicago Circle,
+Chicago.
+Vita for Mike V. D. Burmester
+Visiting Professorship s
+University of Calgary, Canada.
+George Mason University, Fairfax, VA.
+Queensland University of Technology, Brisbane, Australia.
+Japan Advanced Institute of Science and Technology (JAIST), Kanasawa,
+Japan.
+– University of Piraeus, Athens, Greece.
+– Adjunct Associate Professor, University of Wisconsin, Milwaukee.
+Visiting Associate Professor, University of Wisconsin, Milwaukee.
+Honors, Awards, and Prizes
+Mainline Information Systems Endowed Professorship ().
+Fellowship s
+Institute of Mathematics and its Applications (FIMA) (–).
+Hellenic Mathematical Society (–).
+Current Membership in Professional Organizations
+Cyber-Physical Systems Virtual Organization, NSF (CPS-VO)
+IEEE Computer Society, Senior Member
+IFIP WG 11.14 (Secure Service Engineering)
+Institute for Systems and Technologies of Information, Control and Communication (INSTICC)
+Institute of Electronics, Information and Communication Engineers (IEICE)
+International Association of Crypto logic Research (IACR)
+Research and Original Creative Work
+Program of Research and/or Focus of Original Creative Work
+Program Area: Cyber Security, Information Assurance
+Focus Areas: (a) Pervasive Ubiquitous systems, (b) Cyber Physical Systems.
+Focus Subareas: Cryptography, Network Security, Internet of Things (IOT), Sensor networks,
+RFID, Trust Management, Privacy Unco er ci bil it y Watermarking Fingerprinting Information
+Hiding.
+Page 2
+Vita for Mike V. D. Burmester
+Publications
+Refereed Journal Articles
+Malamas, V., Kot za nikola ou P., Dasaklis, Thomas, K, & Burmester, M. V. D. (). A
+hierarchical multi blockchain for fine grained access to medical data. IEEE Access.
+Retrieved from
+doi:10.1109/ACCESS..3011201
+Gonzales, S., Burmester, M. V., Rivero-Garcia, A., Munilla, J., & Caballero-Gil, P. ().
+Secure lightweight password authenticated key exchange for heterogeneous wireless
+sensor networks. Information Systems, Elsevier, 88, 101423.
+doi:10.1016/j. is..101423
+Alcaraz, C., Burmester, M., Cuella, J., Xinyi Huang, X., Kot za nikola ou P., & Psarakis, M.
+(). Guest Editorial Special Issue on Secure Embedded Io T Devices for Resilient
+Critical Infrastructures. IEEE Internet of Things Journal, 6(5), 7988-7991.
+doi:10.1109/JIOT..2940394
+Burmester, M., Munilla, J., & Ortiz, A. (). Comments on Un reconciled Collisions Uncover
+Cloning Attacks in Anonymous RFID Systems". IEEE TRANSACTIONS ON
+INFORMATION FORENSICS AND SECURITY, 13, 1-3. Retrieved from
+doi:10.1109
+Burmester, M., Munilla, J., Ortiz, A., & Caballero-Gil, P. (). An RFID-Based Smart
+Structure for the Supply Chain: Resilient Scanning Proofs and Ownership Transfer with
+Positive Secrecy Capacity Channels. Sensors (JRC-IF:2.67), 17(7), 1562.
 doi:10.3390/s17071562
-kotzanikolaou, p., chatzisofroniou, g., & burmester, m. ( ). broadcast anonymous routing
-(bar): scalable real-time anonymous communication. int. j. inf. sec. (jcr-if:1.95),
+Kot za nikola ou P., Chat z is of roni ou G., & Burmester, M. (). Broadcast anonymous routing
+(BAR): scalable real-time anonymous communication. Int. J. Inf. Sec. (JCR-IF:1.95),
 16(3), 313-326. doi:10.1007/s
-á, lvarez-dí, az, n., stor, caballero-gil, p., & burmester, m. ( ). a luggage control system
-based on nfc and homomorphic cryptography. mobile information systems (jcr-if
-1.5), , 18. doi:10.1155/ /2095161
-burmester, m., & munilla, j. ( ). performance analysis of ldpc based rfid group
-coding. ieee trans. automation science and engineering (jrc-if:2.7), 14(1), 398-402.
-doi:doi: 10.1109/tase. .2604339
-munilla, j., burmester, m. v., a peinado, a., yang, g., & susilo, w. ( ). rfid ownership
-transfer with positive secrecy capacity channels. sensors (jrc-if 2.03), 17(1), 53.
+Á, lvarez-Dí, az, N., stor, Caballero-Gil, P., & Burmester, M. (). A Luggage Control System
+based on NFC and Homo m orphic Cryptography. Mobile Information Systems (JCR-IF
+1.5), , 18. doi:10.1155//2095161
+Burmester, M., & Munilla, J. (). Performance Analysis of LDPC based RFID Group
+Coding. IEEE Trans. Automation Science and Engineering (JRC-IF:2.7), 14(1), 398-402.
+doi:DOI: 10.1109/TASE..2604339
+Munilla, J., Burmester, M. V., A Peinado, A., Yang, G., & Susilo, W. (). RFID Ownership
+Transfer with Positive Secrecy Capacity Channels. Sensors (JRC-IF 2.03), 17(1), 53.
 doi:doi:10.3390/s17010053
-page 3
-vita for mike v. d. burmester
-munilla, j., burmester, m., & peinado, a. ( ). attacks on ownership transfer for multi-tag
-multi-owner passive rfid environments. computer communications, elsevier
-(jrc-if:2.1), 88, 84--88. doi:doi:10.1016/j.comcom. .05.007
-burmester, m., & munilla, j. ( ). tag memory-erasure tradeoff of rfid grouping codes.
-ieee communications letters (jrc-if:1.3), 20(6), 1144-1147. retrieved from
-http://ieeexplore.ieee.org/xpl/articledetails.jsp?arnumber=7440837
-doi:10.1109/lcomm. .2546857
-liu, x., burmester, m., wilder, f., redwood, w. o., & butler, j. ( ). zero-day
-vulnerabilities: what to do when it's too late to prevent an attack. marine safety and
-security council, 71(4), 28--33.
-burmester, m., & munilla, j. ( ). pre vs post state update: trading privacy for availability
-in rfid. ieee wireless communications letters (jrc-if:1.3), 3, 317-320.
-doi:10.1109/wcl.
-burmester, m., magkos, e., & chrissikopoulos, v. ( ). modeling security in cyber physical
-systems. int. j. critical infrastructure protection, elsevier, 5(3-4), 118-126.
-burmester, m., magkos, e., & chrissikopoulos, v. ( ). secure and privacy-preserving,
-timed vehicular communication. int. j. ad hoc and ubiquitous computing,
-inderscience, 10(4), 219-229.
-kotzanikolaou, p., avramidis, a., douligeris, c., & burmester, m. ( ). chord-pki: a
-distributed trust infrastructure based on p2p networks. computer networks, 56(1),
+Page 3
+Vita for Mike V. D. Burmester
+Munilla, J., Burmester, M., & Peinado, A. (). Attacks on Ownership Transfer for Multi-Tag
+Multi-Owner Passive RFID Environments. Computer Communications, Elsevier
+(JRC-IF:2.1), 88, 84--88. com..05.007
+Burmester, M., & Munilla, J. (). Tag Memory-Erasure Tradeoff of RFID Grouping Codes.
+IEEE Communications Letters (JRC-IF:1.3), 20(6), 1144-1147. Retrieved from
+doi:10.1109/LCOMM..2546857
+Liu, X., Burmester, M., Wilder, F., Redwood, W. O., & Butler, J. (). Zero-Day
+Vulnerabilities: What to do when it's too late to prevent an attack. Marine Safety and
+Security Council, 71(4), 28--33.
+Burmester, M., & Munilla, J. (). Pre vs Post State Update: Trading Privacy for Availability
+in RFID. IEEE Wireless Communications Letters (JRC-IF:1.3), 3, 317-320.
+doi:10.1109/WCL.
+Burmester, M., Magkos, E., & Chris sik o poul os V. (). Modeling security in cyber physical
+systems. Int. J. Critical Infrastructure Protection, Elsevier, 5(3-4), 118-126.
+Burmester, M., Magkos, E., & Chris sik o poul os V. (). Secure and Privacy-preserving,
+Timed Vehicular Communication. Int. J. Ad Hoc and Ubiquitous Computing,
+In der science 10(4), 219-229.
+Kot za nikola ou P., Avramidis, A., Dou liger is C., & Burmester, M. (). Chord-PKI: A
+distributed trust infrastructure based on P2P networks. Computer Networks, 56(1),
 378-398.
-burmester, m., & munilla, j. ( ). lightweight rfid authentication with forward and
-backward security. acm trans. inf. syst. secur, 14(1), 11 pages.
-burmester, m., & de medeiros, b. ( ). on the security of route discovery in manets.
-ieee trans. mobile computing, 8(9), 1180-1188.
-bhattacharya, b., burmester, m., hu, y., kranakis, e., shi, q., & wiese, a. ( ). optimal
-movement of mobile sensors for barrier coverage of a planar region. theoretical
-computer science, 410(52), 5515-5528.
-burmester, m., van le, t., de medeiros, b., & tsudik, g. ( ). universally composable
-rfid identification and authentication protocols. acm trans. inf. syst. secur, 12(4), 33
+Burmester, M., & Munilla, J. (). Lightweight RFID authentication with forward and
+backward security. ACM Trans. Inf. Syst. Secur, 14(1), 11 pages.
+Burmester, M., & De Medeiros, B. (). On the Security of Route Discovery in MANETs.
+IEEE Trans. Mobile Computing, 8(9), 1180-1188.
+Bhatt acharya B., Burmester, M., Hu, Y., Kranakis, E., Shi, Q., & Wiese, A. (). Optimal
+movement of mobile sensors for barrier coverage of a planar region. Theoretical
+Computer Science, 410(52), 5515-5528.
+Burmester, M., Van Le, T., De Medeiros, B., & Tsudik, G. (). Universally Composable
+RFID Identification and Authentication Protocols. ACM Trans. Inf. Syst. Secur, 12(4), 33
 pages.
-burmester, m., de medeiros, b., & motta, r. ( ). anonymous rfid authentication with
-constant key-lookup. int. j. applied cryptography, 1(2), 79-90.
-page 4
-vita for mike v. d. burmester
-burmester, m., van le, t., & yasinsac, a. ( ). adaptive gossip protocols: managing
-security and redundancy in dense ad hoc networks. j. ad hoc networks, elsevier, 5(3),
+Burmester, M., De Medeiros, B., & Motta, R. (). Anonymous RFID Authentication with
+Constant Key-Lookup. Int. J. Applied Cryptography, 1(2), 79-90.
+Page 4
+Vita for Mike V. D. Burmester
+Burmester, M., van Le, T., & Yasinsac, A. (). Adaptive Gossip Protocols: Managing
+security and redundancy in dense Ad Hoc networks. J. Ad hoc Networks, Elsevier, 5(3),
 313-323.
-burmester, m., & desmedt, y. ( ). a secure and scalable group key exchange system. inf.
-processing letters, elsevier, 94(3), 137-143.
-yasinsac, a., & burmester, m. ( ). centers of excellence: a case study. security & privacy,
-ieee computer society, 3(1), 62-65.
-burmester, m., henry, p., & kermes, l. ( ). tracking cyberstalkers: a cryptographic
-approach. acm sigcas computers and society, 35(3), 16 pages.
-burmester, m., & van le, t. ( ). attack on the sebé, domingo-ferrer and
-herrera-joancomarti fingerprinting schemes. electronics letters, institute of engineering
-and technology, 40(2), p. 172.
-burmester, m., & desmedt, y. ( ). is hierarchical public-key certification the next target for
-hackers? communications of the acm, 47(8), 68-74.
-burmester, m., & yasinsac, a. ( ). trust infrastructures for wireless mobile networks.
-wsaes transactions on communications, 3(1), 377-381.
-burmester, m., magkos, e., & chrissikopoulos, v. ( ). uncoercible e-bidding games.
-electronic commerce research, kluwer academic publishers, 4(1-20), 113-125.
-burmester, m., desmedt, y., mambo, m., & okamoto, e. ( ). formal model of ordered
-multi-party cryptography and its concrete examples. trans. fund. of electronics,
-communications and computer sciences, institute of electronics, information and
-communication engineers (ieice), e85-a(3), 346-357.
-kotzanikolaou, p., burmester, m., chrissikopoulos, v., & douligeris, d. ( ). role based
-access control policies in the mobile agent paradigm. informatik forum journal, special
-issue on mobile agent technology, 14(2), 62-69.
-beimel, a., burmester, m., desmedt, y., & kushilevitz, e. ( ). computing functions of a
-shared secret. siam j. of discrete math, 13(3), 324-345.
-wang, y., desmedt, y., & burmester, m. ( ). models for dependable computation with
-multiple inputs and some hardness results. fundamenta informaticae, 42(1), 61-73.
-burmester, m., desmedt, y., alexandris, n., & chrissikopoulos, v. ( ). secure linking of
-customers, shops and banks in electronic commerce. security on the web, future
-generation computer systems, elsevier science b.v, 16, 393-401.
-page 5
-vita for mike v. d. burmester
-burmester, m., desmedt, y. g., itoh, t., sakurai, k., & shizuya, h. ( ). divertible and
-subliminal-free zero-knowledge proofs of languages. j. of cryptology, springer-verlag,
-berlin, 12(3), 197-223.
-burmester, m., & desmedt, y. ( ). secure communication in an unknown network with
-byzantine faults. electronics letters, institute of engineering and technology, 34(8),
+Burmester, M., & Desmedt, Y. (). A Secure and Scalable Group Key Exchange System. Inf.
+Processing Letters, Elsevier, 94(3), 137-143.
+Yasinsac, A., & Burmester, M. (). Centers of Excellence: A case study. Security & Privacy,
+IEEE Computer Society, 3(1), 62-65.
+Burmester, M., Henry, P., & Kermes, L. (). Tracking Cyber stalkers a cryptographic
+approach. ACM SIGCAS Computers and Society, 35(3), 16 pages.
+Burmester, M., & Van Le, T. (). Attack on the Sebé, Domingo-Ferrer and
+Herrera-Joancomarti fingerprinting schemes. Electronics Letters, Institute of Engineering
+and Technology, 40(2), p. 172.
+Burmester, M., & Desmedt, Y. (). Is hierarchical public-key certification the next target for
+hackers? Communications of the ACM, 47(8), 68-74.
+Burmester, M., & Yasinsac, A. (). Trust infrastructures for wireless mobile networks.
+WSAES Transactions on Communications, 3(1), 377-381.
+Burmester, M., Magkos, E., & Chris sik o poul os V. (). Unco er ci ble e-Bidding Games.
+Electronic Commerce Research, Kluwer Academic Publishers, 4(1-20), 113-125.
+Burmester, M., Desmedt, Y., Mambo, M., & Okamoto, E. (). Formal model of ordered
+multi-party cryptography and its concrete examples. Trans. Fund. of Electronics,
+Communications and Computer Sciences, Institute of Electronics, Information and
+Communication Engineers (IEICE), E85-A(3), 346-357.
+Kot za nikola ou P., Burmester, M., Chris sik o poul os V., & Dou liger is D. (). Role based
+access control policies in the mobile agent paradigm. Informatik Forum Journal, Special
+issue on Mobile Agent Technology, 14(2), 62-69.
+Beimel, A., Burmester, M., Desmedt, Y., & Kush i levi tz E. (). Computing Functions of a
+Shared Secret. SIAM J. of Discrete Math, 13(3), 324-345.
+Wang, Y., Desmedt, Y., & Burmester, M. (). Models For Dependable Computation with
+Multiple Inputs and Some Hardness Results. Fundamenta In format i cae 42(1), 61-73.
+Burmester, M., Desmedt, Y., Alexandr is N., & Chris sik o poul os V. (). Secure Linking of
+Customers, Shops and Banks in Electronic Commerce. Security on the Web, Future
+Generation Computer Systems, Elsevier Science B. V, 16, 393-401.
+Page 5
+Vita for Mike V. D. Burmester
+Burmester, M., Desmedt, Y. G., Itoh, T., Sakurai, K., & Shizuya, H. (). Divertible and
+subliminal-free zero-knowledge proofs of languages. J. of Cryptology, Springer-Verlag,
+Berlin, 12(3), 197-223.
+Burmester, M., & Desmedt, Y. (). Secure Communication in an Unknown Network with
+Byzantine Faults. Electronics Letters, Institute of Engineering and Technology, 34(8),
 741-742.
-burmester, m., desmedt, y., piper, f. c., & walker, m. ( ). a general zero-knowledge
-scheme. designs, codes and cryptography, 12(1), 13-37.
-burmester, m., desmedt, y., & yung, m. ( ). canali "subliminal-free": una soluzione verso
-canali "covert-free". rivista di informatica, xx(1), 5-14.
-burmester, m. ( ). an almost-constant round interactive zero-knowledge proof. information
-processing letters, 42(2), 81-87.
-burmester, m., desmedt, y., & beth, t. ( ). efficient zero-knowledge identification schemes
-for smart cards. the computer journal, special issue on safety and security, 35(1),
+Burmester, M., Desmedt, Y., Piper, F. C., & Walker, M. (). A general zero-knowledge
+scheme. Designs, Codes and Cryptography, 12(1), 13-37.
+Burmester, M., Desmedt, Y., & Yung, M. (). Canali "subliminal-free": Una soluzione verso
+canali "covert-free". Rivista di In format ica XX(1), 5-14.
+Burmester, M. (). An almost-constant round interactive zero-knowledge proof. Information
+Processing Letters, 42(2), 81-87.
+Burmester, M., Desmedt, Y., & Beth, T. (). Efficient zero-knowledge identification schemes
+for smart cards. The Computer Journal, Special issue on Safety and Security, 35(1),
 21-29.
-burmester, m., chrissikopoulos, v., & alexandris, n. ( ). security of smart cards.
-mathematical reviews of the hellenic mathematical society, 38, 72-84.
-burmester, m. ( ). comments on the cryptanalysis of public key distribution systems.
-electronics letters, institute of engineering and technology, iee 27, p. .
-burmester, m., chrissikopoulos, v., & alexandris, n. ( ). the structure and complexity of
-zero-knowledge proofs. bulletin of the hellenic mathematical society, 30, 1-20.
-burmester, m. v. d., & desmedt, y. g. ( ). remarks on the soundness of proofs.
-electronics letters, institute of engineering and technology, 25, 1509-1511.
-burmester, m., chrissikopoulos, v., & alexandris, n. ( ). minimum knowledge systems.
-mathematical reviews of the hellenic mathematical society, 36, 1-8.
-burmester, m. v. d., & exarchakos, t. ( ). the function g(x) for which |a(g)|p ≥ ph
-whenever |g| ≥ pg(h), g a finite group. bulletin of the hellenic mathematical society, 29,
+Burmester, M., Chris sik o poul os V., & Alexandr is N. (). Security of smart cards.
+Mathematical Reviews of the Hellenic Mathematical Society, 38, 72-84.
+Burmester, M. (). Comments on the cryptanalysis of public key distribution systems.
+Electronics Letters, Institute of Engineering and Technology, IEE 27, p. .
+Burmester, M., Chris sik o poul os V., & Alexandr is N. (). The structure and complexity of
+zero-knowledge proofs. Bulletin of the Hellenic Mathematical Society, 30, 1-20.
+Burmester, M. V. D., & Desmedt, Y. G. (). Remarks on the soundness of proofs.
+Electronics Letters, Institute of Engineering and Technology, 25, 1509-1511.
+Burmester, M., Chris sik o poul os V., & Alexandr is N. (). Minimum knowledge systems.
+Mathematical Reviews of the Hellenic Mathematical Society, 36, 1-8.
+Burmester, M. V. D., & Ex arch a kos T. (). The function g(x) for which |A(G)|p ≥ ph
+whenever |G| ≥ pg(h), G a finite group. Bulletin of the Hellenic Mathematical Society, 29,
 27-44.
-burmester, m. v. d., forcade, r., & jacobs, e. ( ). circles of numbers. glasgow math. j,
+Burmester, M. V. D., Forcade, R., & Jacobs, E. (). Circles of numbers. Glasgow Math. J,
 19, 115-119.
-burmester, m. v. d., & hughes, d. r. ( ). on the solvability of autotopism groups. archiv
-der mathematik, springer, 16(1), 178-183.
-page 6
-vita for mike v. d. burmester
-burmester, m. v. d. ( ). sulla solubilità del gruppo delle collineazioni di un piano sopra un
-quasicorpo distributivo di ordine non-quadrata. accad. nazionale dei lincei, 36, 1-4.
-burmester, m. v. d. ( ). on the non-uniqueness of translation planes over division rings.
-archiv der matematik, springer, 15, 364-370.
-burmester, m. v. d. ( ). on the commutative non-associative division algebras of even order
-of l. e. dickson. rend. mat. e appl, v. ser.(6), 143-166.
-invited books
-burmester, m., gritzalis, s., katsikas, s., & chrissikopoulos, v. ( ). modern cryptography:
-theory and applications (pp. 728). athens, greece, papasotiriou pubs (in greek).
-edited books
-garcía, c. r., caballero-gil, p., burmester, m., & quesada-arencibia, a. (eds.). ( ).
-ubiquitous computing and ambient intelligence - 10th international conference, ucami
-, proceedings part i. san bartolomé de tirajana, gran canaria, spain, lecture
-notes in computer science 10069, springer, switzerland.
-garcía, c. r., caballero-gil, p., burmester, m., & quesada-arencibia, a. (eds.). ( ).
-ubiquitous computing and ambient intelligence - 10th international conference, ucami
-, proceedings part ii. san bartolomé de tirajana, gran canaria, spain, lecture
-notes in computer science 10070, springer, switzerland.
-burmester, m., tsudik, g., magliveras, s. s., & ilic, i. (eds.). ( ). information security -
-13th international conference (isc ), revised selected papers, boca raton, fl,
-usa. lecture notes in computer science #6531, springer-verlag, berlin.
-burmester, m., & yasinsac, a. (eds.). ( ). international workshop, secure mobile ad-hoc
-networks and sensors (madnes'05), revised selected papers. lecture notes in
-computer science #4074, springer-verlag, berlin.
-invited book chapters
-burmester, m. ( ). localization privacy. in david naccache (ed.), cryptography and
-security: from theory to applications - essays - essays dedicated to jean-jacques
-quisquater on the occasion of his 65th birthday (pp. 425--441). lecture notes in
-computer science #6805, springer-verlag, berlin.
-magkos, e., burmester, m., & chrissikopoulos, v. ( ). ch. 14 authenticated key
-establishment. in m. burmester, s. gritzalis, s. katsikas, & v. chrisikopoulos (eds.),
-page 7
-vita for mike v. d. burmester
-modern cryptography: theory and applications (pp. 499-538). athens, greece,
-papasotiriou (in greek).
-refereed book chapters
-shuyuan, m. h., burmester, m., & raghav, r. (in press). timestamp analysis for cyber
-forensics on internet of things: slicing and dicing raspberry pi. in advances in
-security, privacy and trust for internet-of-things (iot) and cyber-physical systems
-(cps) (15 pages). crc press, taylor & francis.
-burmester, m. v., & munilla, j. ( ). lightweight stream authentication for mobile objects. in
-george a. tsihrintzis, & maria virvou (eds.), advances in core computer
-science-based technologies (pp. 13). springer international publishing.
-redwood, w. o., reynolds, j., & burmester, m. ( ). integrating simulated physics and
-device virtualization in control system tetbeds. in sujeet shenoi (ed.), critical
-infrastructure protection x (pp. pp 185-202). springer, new york.
-redwood, o., & burmester, m. ( ). a symbolic honeynet framework for scada threat
-intelligence. in mason rice, & shenoi sujeet (eds.), critical infrastructure protection
-ix, 9th ifip wg 11.10 (pp. 103-118). springer.
-jenkins, j., & burmester, m. ( ). run-time integrity for cyber-physical infrastructures. in
-mason rice, & sujeet shenoi (eds.), critical infrastructure protection ix, 9th ifip wg
-11.10 (pp. pp.153-167). springer.
-jenkins, j., & burmester, m. ( ). chapter 6, protecting infrastructure assets from real-time
-and run-time threats. in butts, jonathan, & shenoi, sujeet (eds.), critical infrastructure
-protection vii (pp. 97-110). springer.
-burmester, m., & redwood, o. w. ( ). dynamic trust management: network profiling for
-high assurance resilience. in evangelos kranakis (ed.), mathematics in industry,
-advances in network analysis and its applications (pp. 91-116). springer-verlag, berlin.
-retrieved from
-http://www.springer.com/new+%26+forthcoming+titles+%28default%29/book/978-3-64
+Burmester, M. V. D., & Hughes, D. R. (). On the so lv ability of autotopism groups. Archiv
+der Ma them a tik Springer, 16(1), 178-183.
+Page 6
+Vita for Mike V. D. Burmester
+Burmester, M. V. D. (). Sulla solubilità del gruppo delle colline a zion i di un piano sopra un
+quasicorpo d is tri but ivo di ordine non-quadrata. Accad. Nazionale dei Lincei, 36, 1-4.
+Burmester, M. V. D. (). On the non-uniqueness of translation planes over division rings.
+Archiv der Matematik, Springer, 15, 364-370.
+Burmester, M. V. D. (). On the commutative non-associative division algebras of even order
+of L. E. Dickson. Rend. Mat. e Appl, V. Ser.(6), 143-166.
+Invited Books
+Burmester, M., Gritzalis, S., Katsikas, S., & Chris sik o poul os V. (). Modern Cryptography:
+Theory and Applications (pp. 728). Athens, Greece, Papa so ti riou Pubs (in Greek).
+Edited Books
+García, C. R., Caballero-Gil, P., Burmester, M., & Quesada-Arencibia, A. (Eds.). ().
+Ubiquitous Computing and Ambient Intelligence - 10th International Conference, UCAm I
+, Proceedings Part I. San Bartolomé de Tirajana, Gran Canaria, Spain, Lecture
+Notes in Computer Science 10069, Springer, Switzerland.
+García, C. R., Caballero-Gil, P., Burmester, M., & Quesada-Arencibia, A. (Eds.). ().
+Ubiquitous Computing and Ambient Intelligence - 10th International Conference, UCAm I
+, Proceedings Part II. San Bartolomé de Tirajana, Gran Canaria, Spain, Lecture
+Notes in Computer Science 10070, Springer, Switzerland.
+Burmester, M., Tsudik, G., Mag liver as S. S., & Ilic, I. (Eds.). (). Information Security -
+13th International Conference (ISC ), Revised Selected Papers, Boca Raton, FL,
+USA. Lecture Notes in Computer Science #6531, Springer-Verlag, Berlin.
+Burmester, M., & Yasinsac, A. (Eds.). (). International Workshop, Secure Mobile AD-hoc
+NEtworks and Sensors MAD NES ' 05 Revised Selected Papers. Lecture Notes in
+Computer Science #4074, Springer-Verlag, Berlin.
+Invited Book Chapters
+Burmester, M. (). Localization Privacy. In David Naccache (Ed.), Cryptography and
+Security: From Theory to Applications - Essays - Essays Dedicated to Jean-Jacques
+Quisquater on the Occasion of His 65th Birthday (pp. 425--441). Lecture Notes in
+Computer Science #6805, Springer-Verlag, Berlin.
+Magkos, E., Burmester, M., & Chris sik o poul os V. (). Ch. 14 Authenticated Key
+Establishment. In M. Burmester, S. Gritzalis, S. Katsikas, & V. Chris i kop ou los (Eds.),
+Page 7
+Vita for Mike V. D. Burmester
+Modern Cryptography: Theory and Applications (pp. 499-538). Athens, Greece,
+Papa so ti riou (in Greek).
+Refereed Book Chapters
+Shuyuan, M. H., Burmester, M., & Raghav, R. (in press). Timestamp Analysis for Cyber
+Forensics on Internet of Things: Slicing and Dicing Raspberry Pi. In Advances in
+Security, Privacy and Trust for Internet-of-Things (Io T) and Cyber-Physical Systems
+(CPS) (15 pages). CRC Press, Taylor & Francis.
+Burmester, M. V., & Munilla, J. (). Lightweight stream authentication for mobile objects. In
+George A. Ts ihr in tz is & Maria Virvou (Eds.), Advances in Core Computer
+Science-Based Technologies (pp. 13). Springer International Publishing.
+Redwood, W. O., Reynolds, J., & Burmester, M. (). Integrating Simulated Physics and
+Device Virtualization in Control System Tetbeds. In Sujeet Shenoi (Ed.), Critical
+Infrastructure Protection X (pp. pp 185-202). Springer, New York.
+Redwood, O., & Burmester, M. (). A Symbolic Honeynet Framework for SCADA Threat
+Intelligence. In Mason Rice, & Shenoi Sujeet (Eds.), Critical Infrastructure Protection
+IX, 9th IFIP WG 11.10 (pp. 103-118). Springer.
+Jenkins, J., & Burmester, M. (). Run-Time Integrity for Cyber-Physical Infrastructures. In
+Mason Rice, & Sujeet Shenoi (Eds.), Critical Infrastructure Protection IX, 9th IFIP WG
+11.10 (pp. pp.153-167). Springer.
+Jenkins, J., & Burmester, M. (). Chapter 6, Protecting infrastructure assets from real-time
+and run-time threats. In Butts, Jonathan, & Shenoi, Sujeet (Eds.), Critical Infrastructure
+Protection VII (pp. 97-110). Springer.
+Burmester, M., & Redwood, O. W. (). Dynamic Trust Management: Network Profiling for
+High Assurance Resilience. In Evangelos Kranakis (Ed.), Mathematics in Industry,
+Advances in Network Analysis and its Applications (pp. 91-116). Springer-Verlag, Berlin.
+Retrieved from
 2-30903-8
-burmester, m., magkos, e., & chrissikopoulos, v. ( ). modeling security in cyber-physical
-systems. in shenoi, sujeet (ed.), critical infrastructure protection vi, ifip wg 11.10
-(pp. 118-126). springer.
-burmester, m., & munilla, j. ( ). rfid grouping-proofs. in pedro peris-lopez, julio c.
-hernandez-castro, & tieyan li. (eds.), security and trends in wireless identification
-and sensing platform tags: advancements in rfid (pp. 89-119). igi global.
-page 8
-vita for mike v. d. burmester
-burmester, m. ( ). trust models for ubiquitous mobile systems. in humphry hung, y h
-wong, & vincent cho (eds.), ubiquitous commerce for creating the personalized
-marketplace: concepts for next generation adoption (pp. 249-254). idea group inc,
-hershey, pa.
-hu, j., & burmester, m. ( ). cooperation in mobile ad hoc networks. in sudip misra, isaac
-wounsang, & subhas misra (eds.), guide to wireless ad hoc networks (pp. 43-58).
-london, springer-verlag.
-de medeiros, b., & burmester, m. ( ). ch 35. rfid authentication: reconciling anonymity
-and availability. in s. a. ahson, & m. ilyas (eds.), rfid handbook: application,
-technology, security, and privacy (pp. 642-655). crc press, boca raton, fl.
-burmester, m. ( ). section 1: network security and survivability. in evangelos kranakis,
-evgueni a. haroutunian, & elisa shahbazia (eds.), section 1. aspects of network and
-information security, nato science for peace and security series: information and
-communication security (pp. 3-9). ios press.
-burmester, m., kotzanikolaou, p., & douligeris, c. ( ). ch 20. security in mobile ad hoc
-networks. in christos douligeris, & dimitris serpanos (eds.), network security: current
-status and future directions (pp. 355-370). john wiley & sons.
-burmester, m., & magkos, e. ( ). towards secure and practical e-elections in the new era.
-in dimitris gritzalis (ed.), secure electronic voting, advances in information security
-(pp. 63-76). springer-verlag, berlin.
-burmester, m., henderson, m., dawson, e., & okamoto, e. ( ). the dark side of digital
-signatures. in business briefing - global infosecurity (pp. 22). information
-technology association of america (itaa) and world information technology service
-alliance (witsa).
-burmester, m., desmedt, y., & kabatianski, g. ( ). a new look at the byzantine generals
-problem. in r.r. wright, & p. neuman (eds.), network threats, dimacs series in
-discrete mathematics and theoretical computer science, series 38 (pp. 75-83).
-american mathematical society.
-alexandris, n., burmester, m., & chrissikopouls, v. ( ). cryptology for the protection of
-information. in n. alexandris, e. kiountouzis, & a. trapezoglou (eds.), information
-security (pp. 231-248). the hellenic society for computers and informatics, athens,
-greece.
-page 9
-vita for mike v. d. burmester
-invited monograph chapters
-burmester, m., & kotzanikolaou, p. ( ). securing networks against extreme attacks. in
-essays in honor of professor antonios c. panaiotopoulos (pp. 875-886). university of
-piraeus, greece.
-burmester, m. ( ). trust and confidence in a wireless, mobile environment. in ebusiness
-forum working group st3 (pp. 6). ebusiness forum working group st3.
-refereed encyclopedia entries
-burmester, m. ( ). group key agreement. in henk c. a. van tilborg and, & sushil jajodia
-(eds.), encyclopedia of cryptography and security (2nd ed., p. 520-526).
-springer-verlag, berlin.
-burmester, m. ( ). group key exchange. in henk c.a.van tilborg (ed.), encyclopedia of
-cryptography and security (1st ed.). springer-verlag, berlin.
-refereed proceedings
-goble, w., braddy, e., burmester, m. v. d., schwartz, d., sloan, r., drizis, d., ahir, n., ma,
-m., bayes, m., & chastain, m. ( ). challenges of securing and defending unmanned
-aerial vehicles. in kim-kwang r. choo, tommy morris, & gilbert l. peterson (eds.),
-national cyber summit (ncs) research track (ncs '20) (pp. 16). huntsville, al :
-springer.
-malamas, v., dasaklis, t., kotzanikolaou, p., burmester, m. v., & katsikas, s. ( ). a
-forensics-by-design management framework for medical devices based on blockchain. in
-ieee world congress on services (services) (pp. 35--40). ieee.
-redwood, w. o., burmester, m., & liu, x. ( ). offensive computer security open
-courseware. in t. morris (ed.), proceedings, national cyber summit (ncs )
-(pp. 69-72). university of alabama, huntsville. retrieved from
-https://www.nationalcybersummit.com/wp-content/uploads/ /06/ncs17_research_t
-rack_proceedings.pdf
-burmester, m., munilla, j., & liu, x. ( ). protecting the supply chain with rfid
-technologies. in t. morris (ed.), national cyber summit (ncs ) (pp. 79-84).
-huntsville, university of alabama. retrieved from
-https://www.nationalcybersummit.com/wp-content/uploads/ /06/ncs17_research_t
-rack_proceedings.pdf
-burmester, m., & munilla fajardo, j. ( ). resilient grouping proofs with missing tag
-identification. in pino caballero-gil, mike burmester, & carmelo r. carcva (eds.), 10th
-page 10
-vita for mike v. d. burmester
-international conference on computing and ambient intelligence (ucami ), san
-bartolomé de tirajana, gran canaria, spain (pp. 544-555). lecture notes in computer
-science 10070, springer. retrieved from
-https://link.springer.com/chapter/10.1007/ _59
-munilla fajardo, j., & burmester, m. ( ). some unsolved concerns and future directions
-for resilient rfid smart structures in the supply chain. in k. wang (ed.), international
-workshop on advanced manufacturing and automation iwama (pp. 98-102).
-manchester, u.k.: advances in economics, business and management research,
-atlantis press. retrieved from
-https://www.ntnu.no/documents/ / /call+for+papers+iwama201
+Burmester, M., Magkos, E., & Chris sik o poul os V. (). Modeling Security in Cyber-Physical
+Systems. In Shenoi, Sujeet (Ed.), Critical Infrastructure Protection VI, IFIP WG 11.10
+(pp. 118-126). Springer.
+Burmester, M., & Munilla, J. (). RFID Grouping-Proofs. In Pedro Peris-Lopez, Julio C.
+Hernandez-Castro, & Tieyan Li. (Eds.), Security and Trends in Wireless Identification
+and Sensing Platform Tags: Advancements in RFID (pp. 89-119). IGI Global.
+Page 8
+Vita for Mike V. D. Burmester
+Burmester, M. (). Trust Models for Ubiquitous Mobile Systems. In Humphry Hung, Y H
+Wong, & Vincent Cho (Eds.), Ubiquitous Commerce for Creating the Personalized
+Marketplace: Concepts for Next Generation Adoption (pp. 249-254). Idea Group Inc,
+Hershey, PA.
+Hu, J., & Burmester, M. (). Cooperation in Mobile Ad Hoc Networks. In Sudip Misra, Isaac
+Wounsang, & Subhas Misra (Eds.), Guide to Wireless Ad Hoc Networks (pp. 43-58).
+London, Springer-Verlag.
+De Medeiros, B., & Burmester, M. (). Ch 35. RFID Authentication: Reconciling Anonymity
+and Availability. In S. A. Ahson, & M. Ilyas (Eds.), RFID Handbook: Application,
+Technology, Security, and Privacy (pp. 642-655). CRC Press, Boca Raton, Fl.
+Burmester, M. (). Section 1: Network Security and Survivability. In Evangelos Kranakis,
+Evgueni A. Har out uni an & Elisa Shahbazia (Eds.), Section 1. Aspects of Network and
+Information Security, NATO Science for Peace and Security Series: Information and
+Communication Security (pp. 3-9). IOS Press.
+Burmester, M., Kot za nikola ou P., & Dou liger is C. (). Ch 20. Security in Mobile ad hoc
+networks. In Christos Dou liger is & Dimitris Serpanos (Eds.), Network Security: Current
+status and future directions (pp. 355-370). John Wiley & Sons.
+Burmester, M., & Magkos, E. (). Towards Secure and Practical E-Elections in the New Era.
+In Dimitris Gritzalis (Ed.), Secure Electronic Voting, Advances in Information Security
+(pp. 63-76). Springer-Verlag, Berlin.
+Burmester, M., Henderson, M., Dawson, E., & Okamoto, E. (). The Dark Side of Digital
+Signatures. In Business Briefing - GLOBAL INFO SECURITY (pp. 22). Information
+Technology Association of America (ITAA) and World Information Technology Service
+Alliance (WITSA).
+Burmester, M., Desmedt, Y., & Kaba tian ski G. (). A New Look at the Byzantine Generals
+Problem. In R. R. Wright, & P. Neuman (Eds.), Network Threats, DIMACS Series in
+Discrete Mathematics and Theoretical Computer Science, Series 38 (pp. 75-83).
+American Mathematical Society.
+Alexandr is N., Burmester, M., & Chris sik o poul s V. (). Cryptology for the Protection of
+Information. In N. Alexandr is E. Kio unto uzis & A. Trap ezo g lou (Eds.), Information
+Security (pp. 231-248). The Hellenic Society for Computers and Informatics, Athens,
+Greece.
+Page 9
+Vita for Mike V. D. Burmester
+Invited Monograph Chapters
+Burmester, M., & Kot za nikola ou P. (). Securing Networks Against Extreme Attacks. In
+Essays in honor of Professor Antonios C. Pan aio to poul os (pp. 875-886). University of
+Piraeus, Greece.
+Burmester, M. (). Trust and Confidence in a Wireless, Mobile Environment. In e Business
+Forum Working Group ST3 (pp. 6). e Business Forum Working Group ST3.
+Refereed Encyclopedia Entries
+Burmester, M. (). Group Key Agreement. In Henk C. A. van Tilborg and, & Sushil Jajodia
+(Eds.), Encyclopedia of Cryptography and Security (2nd ed., p. 520-526).
+Springer-Verlag, Berlin.
+Burmester, M. (). Group Key Exchange. In Henk C. A. van Tilborg (Ed.), Encyclopedia of
+Cryptography and Security (1st ed.). Springer-Verlag, Berlin.
+Refereed Proceedings
+Goble, W., Braddy, E., Burmester, M. V. D., Schwartz, D., Sloan, R., Drizis, D., Ahir, N., Ma,
+M., Bayes, M., & Chastain, M. (). Challenges of Securing and Defending Unmanned
+Aerial Vehicles. In Kim-Kwang R. Choo, Tommy Morris, & Gilbert L. Peterson (Eds.),
+National Cyber Summit (NCS) Research Track (NCS '20) (pp. 16). Huntsville, AL :
+Springer.
+Malamas, V., Dasaklis, T., Kot za nikola ou P., Burmester, M. V., & Katsikas, S. (). A
+forensics-by-design management framework for medical devices based on blockchain. In
+IEEE World Congress on Services (SERVICES) (pp. 35--40). IEEE.
+Redwood, W. O., Burmester, M., & Liu, X. (). Offensive Computer Security Open
+Courseware. In T. Morris (Ed.), Proceedings, National Cyber Summit (NCS )
+(pp. 69-72). University of Alabama, Huntsville. Retrieved from
+rack_Proceedings. pdf
+Burmester, M., Munilla, J., & Liu, X. (). Protecting the Supply Chain with RFID
+Technologies. In T. Morris (Ed.), National Cyber Summit (NCS ) (pp. 79-84).
+Huntsville, University of Alabama. Retrieved from
+rack_Proceedings. pdf
+Burmester, M., & Munilla Fajardo, J. (). Resilient Grouping Proofs with Missing Tag
+Identification. In Pino Caballero-Gil, Mike Burmester, & Carmelo R. Carcva (Eds.), 10th
+Page 10
+Vita for Mike V. D. Burmester
+International Conference on Computing and Ambient Intelligence (UCAm I ), San
+Bartolomé de Tirajana, Gran Canaria, Spain (pp. 544-555). Lecture Notes in Computer
+Science 10070, Springer. Retrieved from
+Munilla Fajardo, J., & Burmester, M. (). Some Unsolved Concerns and Future Directions
+for Resilient RFID Smart Structures in the Supply Chain. In K. Wang (Ed.), International
+Workshop on Advanced Manufacturing and Automation IWAMA (pp. 98-102).
+Manchester, U. K.: Advances in Economics, Business and Management Research,
+Atlantis Press. Retrieved from
 6/06ce8618-58d7-450d-a8cb-c7badb2dcedd
-liu, x., gibbens, a., yang, j., redwood, o., & burmester, m. ( ). offensive computer
-security fundamentals visualized via seckoloring. in morris, t (ed.), national cyber
-summit (ncs '16) (pp. 6). huntsville, al.
-burmester, m., & munilla, j. ( ). an anonymous rfid grouping-proof with missing tag
-identification. in 10th annual ieee international conference on rfid (ieee rfid
-) (pp. 146-152). orlando, florida, ieee. retrieved from
-http:// .ieee-rfid.org/wp-content/blogs.dir/22/files/ /04/ieee-rfid- -progra
-m-brief-ver-08-final.pdf
-burmester, m., & munilla, j. ( ). resilient metro-scale smart structures: challenges &
-future directions. in victor chang, muthu ramachandran, gary wills, & robert walters
-(eds.), international conference on internet of things and big data (iotbd ) (pp.
-12). rome, italy. retrieved from http://iotbd.org/technicalprogram/view/paper.aspx
-ho, s., hancock, j., booth, c., burmester, m., liu, x., & timmarajus, s. ( ). demystifying
-insider threat: language-action cues in group dynamics. in 49th hawaii international
-conference on system sciences (pp. ). kauai, hawaii. retrieved from
-http://shidler.hawaii.edu/sites/shidler.hawaii.edu/files/users/tung.bui/hicss-49/final_hicss
-49_to_print.pdf
-ho, s., hancock, j., booth, c., liu, x., liu, m., timmarajus, s., & burmester, m. ( ). real
-or spiel? a decision tree approach for automated detection of deceptive
-language-action cues. in 49th hawaii international conference on system sciences
-(hicss) (pp. 3706-3715). kauai, hawaii. retrieved from
-http://shidler.hawaii.edu/sites/shidler.hawaii.edu/files/users/tung.bui/hicss-49/final_hicss
-49_to_print.pdf
-ho, s. m., hancock, j. t., booth, c., liu, x., timmarajus, s., & burmester, m. ( ). liar,
-liar, im on fire: deceptive language action cues in spontaneous online
-communication. in ieee intelligence and security informatics (isi ) (pp. pp.
-157-159). baltimore, maryland, ieee.
-page 11
-vita for mike v. d. burmester
-burmester, m., & munilla, j. ( ). group-scanning for supply chain management. in manos
-tentzeris, & apostolos georgiadis (eds.), ieee rfid technology and applications
-(rfid-ta) (pp. 6). ieee xplore®.
-hu, j., & burmester, m. ( ). establishing a pki in an open adversarial environment. in 9th
-ieee international conference on networking, architecture, and storage (nas) (pp. pp.
-73-77). tianjin, china. retrieved from
-http://www.nas-conference.org/nas- /index.html
-ho, s. m., timmarajus, s. s., burmester, m., & liux, x. ( ). dyadic attribution: a
-theoretical model for interpreting online words and actions. in international
-conference on social computing, behavioral-cultural modeling, & prediction (sbp14)
-(pp. 277-284). springer, lecture notes in computer science (lcns). retrieved from
-http://casci.umd.edu/ /10/06/ -international-conference-on-social-computing-beh
+Liu, X., Gibbens, A., Yang, J., Redwood, O., & Burmester, M. (). Offensive Computer
+Security Fundamentals Visualized via Sec Koloring. In Morris, T (Ed.), National Cyber
+Summit (NCS '16) (pp. 6). Huntsville, AL.
+Burmester, M., & Munilla, J. (). An Anonymous RFID Grouping-Proof with Missing Tag
+Identification. In 10th Annual IEEE International Conference on RFID (IEEE RFID
+) (pp. 146-152). Orlando, Florida, IEEE. Retrieved from
+m-Brief-ver-08-FINAL. pdf
+Burmester, M., & Munilla, J. (). Resilient Metro-Scale Smart Structures: Challenges &
+Future Directions. In Victor Chang, Muthu Rama chandra n Gary Wills, & Robert Walters
+(Eds.), International Conference on Internet of Things and Big Data (Io TBD ) (pp.
+12). Rome, Italy. Retrieved from
+Ho, S., Hancock, J., Booth, C., Burmester, M., Liu, X., & Tim maraj us S. (). De mystifying
+Insider Threat: Language-Action Cues in Group Dynamics. In 49th Hawaii International
+Conference on System Sciences (pp. ). Kauai, Hawaii. Retrieved from
+49_to_print. pdf
+Ho, S., Hancock, J., Booth, C., Liu, X., Liu, M., Tim maraj us S., & Burmester, M. (). Real
+or Spiel? A Decision Tree Approach for Automated Detection of Deceptive
+Language-Action Cues. In 49th Hawaii International Conference on System Sciences
+(HICSS) (pp. 3706-3715). Kauai, Hawaii. Retrieved from
+49_to_print. pdf
+Ho, S. M., Hancock, J. T., Booth, C., Liu, X., Tim maraj us S., & Burmester, M. (). Liar,
+Liar, IM on Fire: Deceptive Language action Cues in Spontaneous Online
+Communication. In IEEE Intelligence and Security Informatics (ISI ) (pp. pp.
+157-159). Baltimore, Maryland, IEEE.
+Page 11
+Vita for Mike V. D. Burmester
+Burmester, M., & Munilla, J. (). Group-scanning for Supply Chain Management. In Manos
+Tentzeris, & Apostolos Georgiadis (Eds.), IEEE RFID Technology and Applications
+(RFID-TA) (pp. 6). IEEE Xplore®.
+Hu, J., & Burmester, M. (). Establishing a PKI in an Open Adversarial Environment. In 9th
+IEEE International Conference on Networking, Architecture, and Storage (NAS) (pp. pp.
+73-77). Tianjin, China. Retrieved from
+Ho, S. M., Tim maraj us S. S., Burmester, M., & Liux, X. (). Dyadic attribution: A
+theoretical model for interpreting online words and actions. In International
+Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction (SBP14)
+(pp. 277-284). Springer, Lecture Notes in Computer Science (LCNS). Retrieved from
 avioral-cultural-modeling-prediction-sbp14/
-jenkins, j., easton, s., guidry, d., burmester, m., liu, x., yuan, s., laurence, j., & ty, s.
-( ). trusted group key management for real-time critical infrastructure
-protection. in 32nd annual military communications conference, milcom (pp. 6).
-ieee communication society.
-burmester, m. ( ). a trusted computing architecture for critical infrastructure protection.
-in nikolaos bourbakis, george a. tsihrintzis, maria virvou, & despina kavraki (eds.),
-fourth international conference on information, intelligence, systems and applications
-(iisa ) (pp. 1-6). piraeus - athens, ieee xplore. retrieved from
-ieeexplore.ieee.org/xpl/mostrecentissue.jsp?punumber=6598374
-burmester, m., magkos, e., & chrissikopulos, v. ( ). t-abac: an attribute-based access
-control model for real-time availability in highly dynamic systems. in ivina brandic,
-stipe celar, hrvoje dujmic, & tajana simunic rosing (eds.), eighth ieee symposium
-on computers and communications (iscc'13) (pp. 6). split, croatia, ieee. retrieved
-from http://www.ieee-iscc.org/
-burmester, m. ( ). trusted computing. in james clark, rebecca wright, julie grady, aljosa
-pasic, siani r pearson, & keyun ruan (eds.), dimac/bic/a4cloud/csa international
-workshop on trustworthiness, accountability and forensics in the cloud (tafc) (pp. 6).
-malaga, spain, dimacs. retrieved from http://dimacs.tutgers.edu/workshops/tafc/
-burmester, m., laurence, j., guidry, d., easton, s., ty, s., liu, x., yan, x., & jenkins, j.
-( ). towards a secure electricity grid. in ieee international conference on
-intelligent sensors, sensor networks and information processing (issnip) (pp. 6).
-melbourne, australia. retrieved from http://www.issnip.org/ /
-jenkins, j., & burmester, m. ( ). trusted computing for critical infrastructure protection
-against real-time and run-time threats. in jonathan butts, & sujeet shenoi (eds.),
-seventh annual ifip wg 11.10 international conference on critical infrastructure
-page 12
-vita for mike v. d. burmester
-protection (pp. 12). washington, dc, ifip. retrieved from
-http://www.ifip1110.org/conferences/wg11-10callforpapers2013.pdf
-guidry, d., burmester, m., yuan, x., liu, x., jenkins, j., & easton, s. ( ). techniques for
-securing substation automation systems. in proceedings, 7th international workshop
-on critical information infrastructures security (critis ) (pp. 10). lillehammer,
-norway.
-burmester, m. ( ). his late master's voice: barking for location privacy. in bruce
-christianson, bruno crispo, james a. malcolm, & frank stajano (eds.), security
-protocols, xix - 19th international workshop, cambridge, uk, march 28-30, ,
-revised selected papers (pp. 15-24). lecture notes in computer science (lncs) vol.
-7114, springer-verlag, berlin.
-burmester, m. ( ). lightweight cryptographic mechanisms based on pseudorandom number
-generators. in magliveras, spyros (ed.), lightweight cryptographic mechanisms fourth
-pythagorean conference, geometry, combinatorial designs and cryptology. florida
-atlantic university, boca raton.
-redwood, o., & burmester, m. ( ). markov anomaly modeling for trust management in
-variable threat environments. in ruth, paul, & kraft, nicholas a. (eds.), proceedings of
-the 48th annual acm southeast regional conference, oxford, ms. art 114, acm, new
-york.
-burmester, m., & munilla, j. ( ). flyweight authentication with forward and backward
-security. in wisp summit , first workshop on wireless powered sensor networks
-and computational rfid (pp. 1). berkeley, california, intel. retrieved from
-http://www.seattle.intel-research.net/wisp/summit/abstracts/burmester.pdf
-burmester, m., das, p., edwards, m., & yasinsac, a. ( ). multi-domain trust management
-in variable threat environments —a user-centric model. in proceedings of the military
-communications conference, (milcom ), boston. ieee.
-burmester, m., de medeiros, b., munilla, j., & peinado, a. ( ). secure epc gen2
-compliant radio frequency identification. in pedro m. ruiz, jose joaquin, &
-garcia-luna-aceves (eds.), 8th international conference, ad-hoc mobile and wireless
-networks (adhoc-now ), murcia, spain (pp. 227-240). lecture notes in
-computer science, vol. 5793, springer-verlag, berlin.
-burmester, m., & munilla, j. ( ). a flyweight rfid authentication protocol. in workshop
-on rfid security . esat/scd-cosic, ku leuven, belgium. retrieved from
-http://www.cosic.esat.kuleuven.be/rfidsec09/
-page 13
-vita for mike v. d. burmester
-burmester, m., safavi-naini, r., & taban, g. ( ). secure random key pre-distribution
-against semi-honest adversaries. in sixth international conference on networked
-sensing systems (inss09). carnegie mellon university, pittsburgh.
-burmester, m., das, p., edwards, m., & yasinsac, a. ( ). multi-domain trust management
-in variable threat environments using rollback-access. in ieee proceedings of the
-military communications conference, (milcom ), san diego. ieee.
-burmester, m., magkos, e., & chrissikopoulos, v. ( ). strengthening privacy protection in
-vanets. in ieee international conference on wireless and mobile computing
-(wimob'08), networking and communications (pp. 508-513). avignon, france, ieee.
-burmester, m., de medeiros, b., & motta, r. ( ). provably secure grouping-proofs for rfid
-tags. in 8th international conference on smart card research and advanced
-applications (cardis ) (pp. 176-190). royal holloway, egham, surrey, england,
-lecture notes in computer science #5185, springer-verlag, berlin.
-batttacharia, b., burmester, m., hu, y., kranakis, e., shi, q., & wiese, a. ( ). optimal
-movement of mobile sensors for barrier coverage of a planar region. in 2nd annual
-international conference on combinatorial optimization and applications (cocoa'08)
-(pp. 103-115). st. johns, newfoundland, canada, lecture notes in computer science
-#5165, springer-verlag, berlin.
-burmester, m., & de medeiros, b. ( ). the security of epc gen2 compliant rfid protocols.
-in proceedings, 6th international conference on applied cryptography and network
-security (acns ), columbia university, new york (pp. 490-506). lecture notes in
-computer science, vol. 5037, springer-verlag, berlin.
-tsudik, g., burmester, m., juels, a., kobsa, a., molnar, d., di pietro, r., & rieback, m. ( ).
-rfid security and privacy: long-term research or short-term tinkering? in first acm
-conference on wireless network security (wisec ), alexandria, va (pp. p. 160).
-acm, new york, ny, usa. retrieved from http://dl.acm.org/citation.cfm?id=1352560
-burmester, m., de medeiros, b., & motta, r. ( ). robust, anonymous rfid authentication
-with constant key-lookup. in masayuki abe, & virgil d. gligor (eds.), acm
-symposium on information, computer and communications security (asiaccs ).
-tokyo, japan, acm.
-burmester, m., de medeiros, b., & motta, r. ( ). anonymous rfid authentication with
-constant lookup. in 6th rfid academic convocation, the rfid journal conference,
-chicago (pp. 5). the rfid journal.
-burmester, m., & de medeiros, b. ( ). persistent security for rfid. in international
-conference on rfid security (rfidsec07), malaga, spain (pp. 101-112). university of
-malaga. retrieved from http://www.rfidsec07.etsit.uma.es/program/program.htm
-page 14
-vita for mike v. d. burmester
-burmester, m., & de medeiros, b. ( ). rfid security: attacks, countermeasures and
-challenges. in 5th rfid academic convocation, the rfid journal conference,
-orlando (pp. 9). the rfid journal. retrieved from
-http://www.rfidjournal.net/industry_newsletters/retail_030807.html
-burmester, m., de medeiros, b., & yasinsac, a. ( ). community-centric vanilla-rollback
-access, or: how i stopped worrying and learned to love my computer. in 13th
-international security protocols workshop, cambridge, england (pp. 228-237). revised
-selected papers, lecture notes in computer science vol. 4631, springer-verlag, berlin.
-van le, t., burmester, m., & de medeiros, b. ( ). universally composable and
-forward-secure rfid authentication and authenticated key exchange. in acm
-symposium on information, computer and communications security (asiaccs'07)
-singapore (pp. 242-252). acm new york, usa.
-desmedt, y., lang, t., & burmester, m. ( ). scalable authenticated tree based group key
-exchange for ad-hoc groups. in 11th international conference, financial
-cryptography and data security (fc'07), trinidad (pp. 104-118). lecture notes in
-computer science #4886, springer-verlag, berlin.
-burmester, m., gligor, v., kranakis, e., tyger, d., & zheng, y. ( ). authentication in
-constrained environments. in mike burmester, & alec yasinsac (eds.), secure mobile
-ad-hoc networks and sensors (madnes ), singapore (pp. 186-191). lecture notes
-in computer science # 4078, springer-verlag, berlin.
-burmester, m., de medeiros, b., & vam le, t. ( ). provably secure ubiquitous systems:
-universally composable rfid authentication protocols. in 2nd international
-conference on security and privacy in communication networks (securecomm ),
-baltimore (pp. 1-9). ieee.
-desmedt, y., wang, y., & burmester, m. ( ). revisiting colored networks and privacy
-preserving censorship. in 1st international workshop on critical information
-infrastructure security, critis (pp. 140-150). lecture notes in computer science
-#4347, springer-verlag, berlin.
-burmester, m., van le, t., & de medeiros, b. ( ). towards provable security for ubiquitous
-applications. in 11th australasian conference, information security and privacy (acisp
-) (pp. 295-312). lecture notes in computer science #4058, springer-verlag, berlin.
-burmester, m., desmedt, y., wright, r., & yasinsac, a. ( ). accountable privacy. in 12th
-international security protocols workshop, cambridge, england (pp. 83-95). lecture
-notes in computer science #3957, springer-verlag, berlin.
-page 15
-vita for mike v. d. burmester
-burmester, m., & mulholland, j. ( ). the advent of trusted computing: implications for
-digital forensics. in hisham haddad (ed.), 21st acm symposium on applied
-computing, computer forensics track (sac ), dijon, france (pp. 283-287). acm.
-burmester, m., & hu, j. ( ). lars - a locally aware reputation system for mobile ad hoc
-networks, melbourne, florida. in 44th acm southeast regional conference (pp.
-119-123). acm new york.
-burmester, m., & van le, t. ( ). optimistic fault tracing and adaptive multipath routing in
-manets. in nsf int. workshop on research challenges in security and privacy for
-mobile wireless networks (wspwn'06) (pp. 45-60). miami.
-burmester, m., & van le, t. ( ). reactive and proactive approaches to secure routing in
-manets. in nsf int. workshop on research challenges in security and privacy for
-mobile wireless networks (wspwn'06) (pp. 10). miami.
-desmedt, y., wang, y., & burmester, m. ( ). a complete characterization of tolerable
-adversary structures for secure point-to-point transmissions. in 16th international
-symposium on algorithms and computation (isaac ), hainan, china (pp.
-277-287). lecture notes in computer science #3827, springer-verlag, berlin.
-aggarwal, s., burmester, m., henry, p., kermes, l., & mulholland, j. ( ). anti
-cyberstalking: the predator and prey alert (papa) system. in first international
-workshop on systematic approaches to digital forensics engineering (sadfe '05) (pp.
-195-205). ieee computer society, washington, dc, usa.
-burmester, m. ( ). information theory, cryptography and the internet (in greek). in 22nd
-panhellenic conference on mathematical education, lamia, greece (pp. 744-754). the
-hellenic mathematical society.
-burmester, m., & yasinsac, a. ( ). protocols for supporting a public key infrastructure in
-ad hoc networks. in 11th international workshop on security protocols, cambridge,
-england, april 2–4, . lecture notes in computer science #336, springer-verlag,
-berlin.
-desmedt, y., & burmester, m. ( ). identity-based key infrastructures (iki). in yves
-deswarte, frédéric cuppens, sushil jajodia, lingyu wang, & 147, pp. 167 - 176,
-(eds.), security and protection in information processing systems, ifip 18th
-worldcomputer congress, tc11 19th international information security conference,
-toulouse, france (pp. 167-176). kluwer.
-page 16
-vita for mike v. d. burmester
-burmester, m., van le, t., & yasinsac, a. ( ). weathering the storm: managing
-redundancy and security in ad hoc networks. in ioanis nikolaidis, michel barbeau, &
-evangelos kranakis (eds.), ad-hoc, mobile, and wireless networks: third international
-conference, adhoc-now , vancouver, canada (pp. 96-107). lecture notes in
-computer science #3158, springer-verlag, berlin.
-burmester, m., & van le, t. ( ). secure communication in ad hoc networks. in 5th annual
-ieee information assurance workshop (iaw ), west point, new york (pp.
-234-241). ieee conference publications.
-burmester, m., & van le, t. ( ). secure multipath communication in mobile ad hoc
-networks. in international conference on information technology coding and
-computing (itcc04), las vegas, nevada (pp. 405--409). ieee computer society.
-burmester, m., & desmedt, y. ( ). a critical analysis of models for fault-tolerant and
-secure computation. in m.h. hamza (ed.), communication, network, and information
-security (cnis ) (pp. 147-152). acta press.
-burmester, m., van le, t., & weir, m. ( ). tracing byzantine faults in ad hoc networks. in
-m.h. hamza (ed.), communication, network, and information security (cnis ) (pp.
-105--106). acta press.
-van le, t., burmester, m., & hu, j. ( ). short c-secure fingerprinting codes. in 6th
-information security conference (isc'03), bristol, uk (pp. 422-427). lecture notes in
-computer science vol. 2851, springer-verlag, berlin.
-yvo, d., burmester, m., & kurasawa, k. ( ). on perfect traitor tracing. in ieee
-international symposium on information theory, lausanne, switzerland (pp. 439). ieee.
-adams, c., burmester, m., desmedt, y., reiter, m., & zimmermann, p. ( ). panel: which
-pki (public key infrastructure) is the right one? in sushil jajodia, & pierangela samarati
-(eds.), 7th acm conference on computer and communications security, athens, greece
-(pp. 98--01). acm new york, ny, usa.
-burmester, m., & desmedt, y. ( ). hierarchical public-key certification: the next target for
-hackers. in 1st international workshop for asian public key infrastructures (iwap
-), daejon, korea (pp. 31-43). international research center for information
-security, korea.
-burmester, m., magkos, e., & chrissikopouls, v. ( ). receipt-freeness in large-scale
-elections without untappable channels. in b. schmid, k. stanoevska-slabeva, & v.
-tschammer (eds.), towards the e-society: e-commerce, e-business, and
-e-government, the first ifip conference on e-commerce, e-business, e-government
-(i3e ), zürich, switzerland (pp. 683-694). ifip conference proceedings, kluwer.
-page 17
-vita for mike v. d. burmester
-kotzanikilaou, p., burmester, m., & chrissikopoulos, v. ( ). dynamic multi-signatures for
-secure autonomous agents. in a. min tjoa, & roland wagner (eds.), 12th
-international workshop on database and expert systems applications (dexa ) (pp.
-587-591). ieee computer society.
-burmester, m., chrissikopoulos, v., kotzanikolaou, p., & magkos, e. ( ). strong forward
-security. in m. dupuy, & p. paradinas (eds.), ifip-tc11 sixteenth annual conference
-on information security (ifip/ sec '01), trusted information – the new decade
-challenge, vol. 193, paris, france (pp. 109-119). kluwer academic publishers, boston.
-desmedt, y., burmester, m., safavi-naini, r., & wang, h. ( ). threshold things that think
-(t4): security requirements to cope with theft of handheld/handless internet devices.
-in symposium on requirements engineering for information security (sreis),
-indianapolis (pp. 354-367). center for education and research in information assurance
-and security (cerias), purdue university.
-desmedt, y., burmester, m., & seberry, j. ( ). equitability in retroactive data confiscation
-versus proactive key escrow. in kwangjo kim (ed.), 4th international workshop on
-practice and theory in public key cryptography (pkc ), cheju island, korea (pp.
-277-286). lecture notes in computer science vol. , springer-verlag, berlin.
-henderson, m., burmester, m., ed dawson, e., & okamoto, e. ( ). weaknesses in public
-key infrastructures. in proc. 1st workshop in information security applications, seoul,
-korea (pp. 53-66). korea institute of information security and cryptology (kiisc).
-burmester, m., desmedt, y., alexandris, n., & chrissikopoulos, v. ( ). designated
-2-verifier proofs and their application to electronic commerce. in kwok-yan lam,
-huaxiong wang, igor e sparlinskij, & chaoping xing (eds.), cryptography and
-computational number theory : proceedings of the workshop on cryptography and
-computational number theory, ccnt'99, singapore nov (pp. 149-164). basel :
-birkhäuser verlag.
-burmester, m., desmedt, y., doi, h., mambo, m., & yosifuji, y. ( ). a structured
-elgamal-type multisignature scheme. in hideki imai, & yuliang zheng (eds.), public
-key cryptography, third international workshop on practice and theory in public key
-cryptography (pkc ), melbourne, australia (pp. 466-483). lecture notes in
-computer science vol. 1751, springer-verlag, berlin.
-magkos, e., burmester, m., & chrissikopoulos, v. ( ). an equitably fair on-line auction
-scheme. in kurt bauknecht, sanjay kumar madria, & günther pernul (eds.), electronic
-commerce and web technologies, first int. conf. ec-web , london, uk (pp.
-72-83). lecture notes in computer science vol. 1875, springer-verlag, berlin.
-kotzanikolaou, p., burmester, m., & chrissikopoulos, v. ( ). secure transactions with
-mobile agents in hostile environments. in ed dawson, andrew clark, & colin boyd
-(eds.), 5th australasian conference (acisp ), information security and privacy,
-page 18
-vita for mike v. d. burmester
-brisbane, australia (pp. 289-297). lecture notes in computer science, vol. 1841,
-springer-verlag, berlin.
-burmester, m., desmedt, y., & seberry, j. ( ). equitable key escrow with limited time
-span (or, how to enforce time expiration cryptographically. in kazuo ohta, & dingyi
-pei (eds.), advances in cryptology - asiacrypt '98, international conference on the
-theory and applications of cryptology and information security, beijing, china (pp.
-18-22). lecture notes in computer science vol. 1514, springer-verlag, berlin.
-kurosawa, k., yoshida, t., desmedt, y., & burmester, m. ( ). some bounds and a
-construction for secure broadcast encryption. in kazuo ohta, & dingyi pei (eds.),
-advances in cryptology - asiacrypt '98, international conference on the theory and
-applications of cryptology and information security, beijing, china (pp. 420-433).
-lecture notes in computer science vol. 1514, springer-verlag, berlin.
-blackburn, s., blake-wilson, s., burmester, m., & galbraith, s. ( ). weaknesses in shared
-rsa key generation protocols. in michael walker (ed.), 7th ima international
-conference, cryptography and coding, cirencester, england (pp. 7300-306). lecture
-notes in computer science vol. 1746, springer-verlag, berlin.
-burmester, m., & desmedt, y. ( ). secure communication in an unknown network using
-certificates. in kwok-yan lam, eiji okamoto, & chaoping xing (eds.), advances in
-cryptology - asiacrypt '99 (pp. 274–287). lecture notes in computer science vol. 1716,
-springer, berlin-verlag, berlin.
-burmester, m., desmedt, y., & wang, y. ( ). using approximation hardness to achieve
-dependable computation. in michael luby, josè d. p. rolim, & maria j. serna (eds.),
-randomization and approximation techniques in computer science, second
-international workshop, random'98, barcelona, spain (pp. 172-186). lecture notes in
-computer science vol. 1518, springer-verlag, berlin.
-bassalygo, l. a., burmester, m., dyachkov, a., & kabatianski, g. ( ). hash codes. in ieee
-international symposium on information theory (isit' ) (pp. 174). ieee.
-alexandris, n., burmester, m., & chrissikopoulos, v. ( ). secure group communications: a
-dynamic approach. in s.k. katsikas (ed.), communications and multimedia security
-(cms '97) (pp. 41-51). chapman & hall.
-burmester, m., desmedt, y., ito, t., sakurai, k., shizuya, h., & yung, m. ( ). a progress
-report on subliminal-free channels. in ross j. anderson (ed.), information hiding,
-first international workshop, cambridge (pp. 157-168). lecture notes in computer
-science vol. 1174, springer-verlag, berlin.
-alexandris, n., burmester, m., chrissikopoulos, v., & peppes, d. ( ). efficient and provably
-secure key agreement. in sokratis k. katsikas, & dimitris gritzalis (eds.), information
-page 19
-vita for mike v. d. burmester
-systems security, facing the information society of the 21st century (sec) (pp.
-227-236). ifip conference proceedings vol. 54, chapman & hall.
-blackburn, s. r., burmester, m., desmedt, y., & wild, peter, r. ( ). efficient multiplicative
-sharing schemes. in ueli m. maurer (ed.), advances in cryptology - eurocrypt '96,
-int. conf. on the theory and application of cryptographic techniques, saragossa, spain
-(pp. 107-118). lecture notes in computer science vol. 1070, springer-verlag, berlin.
-burmester, m. ( ). homomorphisms of secret sharing schemes: a tool for verifiable
-signature sharing. in ueli m. maurer (ed.), advances in cryptology - eurocrypt '96,
-int. conf. on the theory and application of cryptographic techniques, saragossa, spain
-(pp. 96-106). lecture notes in computer science vol. 1070, springer-verlag, berlin.
-burmester, m., & desmedt, y. ( ). efficient and secure conference-key distribution. in t.
-mark a. lomas (ed.), security protocols, international workshop, cambridge, united
-kingdom (pp. 119-129). lecture notes in computer science vol. 1189, springer, berlin.
-desmedt, y., di crescenzo, g., & burmester, m. ( ). multiplicative non-abelian sharing
-schemes and their application to threshold cryptography. in josef pieprzyk, &
-reihaneh safavi-nain (eds.), advances in cryptology - asiacrypt '94, 4th int. conf.
-on the theory and applications of cryptology, wollongong, australia (pp. 21-32).
-lecture notes in computer science vol. 917, springer-verlag, berlin.
-burmester, m., & desmedt, y. ( ). a secure and efficient conference key distribution
-system. in alfredo de santis (ed.), advances in cryptology - eurocrypt '94,
-workshop on the theory and application of cryptographic techniques, perugia, italy
-(pp. 275-286). lecture notes in computer science vol. 950, springer-verlag, berlin.
-burmester, m., alexandris, n., chrissikopoulos, v., & pepes, d. ( ). key agreement
-protocols: two efficient models for provable security. in 5th panhellenic conference on
-information theory, athens, greece (pp. 177-187). hellenic mathematical society.
-chen, l., & burmester, m. ( ). a practical voting scheme which allows voters to abstain. in
-chinacrypt '94 (pp. 100-107). xidian, china.
-burmester, m. ( ). on the risk of opening distributed keys. in yvo desmedt (ed.),
-advances in cryptology - crypto '94, 14th annual international cryptology
-conference, santa barbara, california, usa (pp. 308-317). lecture notes in computer
-science vol. 839, springer-verlag, berlin.
-burmester, m. ( ). cryptoanalysis of the chang-wu-chen key distribution system. in tor
-helleseth (ed.), advances in cryptology - eurocrypt '93, workshop on the theory
-and application of of cryptographic techniques, lofthus, norway (pp. 440-442). lecture
-notes in computer science vol. 765, springer-verlag, berlin.
-page 20
-vita for mike v. d. burmester
-desmedt, y., & burmester, m. ( ). towards practical ``proven secure'' authenticated key
-distribution. in dorothy e. denning, raymond pyle, ravi ganesan, ravi s. sandhu, &
-victoria ashby (eds.), ccs '93, proceedings of the 1st acm conference on computer
-and communications security, fairfax, virginia, usa (pp. 228-231). acm.
-desmedt, y., & burmester, m. ( ). an efficient zero-knowledge scheme for the discrete
-logarithm based on smooth numbers. in hideki imai, ronald l. rivest, & tsutomu
-matsumoto (eds.), advances in cryptology - asiacrypt '91, international conference
-on the theory and applications of cryptology, fujiyoshida, japan (pp. 360-367). lecture
-notes in computer science vol. 739, springer-verlag, berlin.
-frankel, y., desmedt, y., & burmester, m. ( ). non-existence of homomorphic general
-sharing schemes for some key spaces. in ernest f. brickell (ed.), advances in
-cryptology - crypto '92, 12th annual international cryptology conference, santa
-barbara, california, usa (pp. 549-557). lecture notes in computer science vol. 740,
-springer-verlag, berlin.
-alexandris, n., burmester, m., chrissikopulos, v., & desmedt, y. ( ). a secure key
-distribution system. in w. wolfowicz (ed.), 3rd symposium on: state and progress of
-research in cryptography (pp. 30-34). fondazione ugo bordoni, rome.
-burmester, m., alexandris, n., & chrissikopulos, v. ( ). network security and
-authentication (in greek). in 4th panhellenic conference on information theory, vol ii,
-patras (pp. 249-256). hellenic mathematical society (epi).
-alexandris, n., burmester, m., & chrissikopoulos, v. ( ). an efficient public key
-distribution system. in robert m. aiken (ed.), education and society - information
-processing '92, volume 2, proceedings of the ifip 12th world computer congress,
-madrid, spain (pp. 532-539). ifip transactions a-13, north-holland.
-burmester, m., & desmedt, y. ( ). zero-knowledge based identification: from a
-theoretical concept towards a practical token. in robert m. aiken (ed.), education
-and society - information processing '92, volume 2, proceedings of the ifip 12th world
-computer congress, madrid, spain (pp. 479-485). ifip transactions a-13,
-north-holland.
-desmedt, y., & burmester, m. ( ). an efficient zero-knowledge scheme for the discrete
-logarithm based on smooth numbers. in h. imai, r.l. rivest, & t. matsumoto (eds.),
-advances in cryptology – asiacrypt '91 (pp. 360-367). lecture notes in computer
-science #739, springer-verlag, berlin.
-burmester, m., & desmedt, y. ( ). broadcast interactive proofs. in d. w. davies (ed.),
-advances in cryptology - eurocrypt '91, workshop on the theory and application of
-of cryptographic techniques, brighton, uk (pp. 81-95). lecture notes in computer
-science vol. 547, springer-verlag, berlin.
-page 21
-vita for mike v. d. burmester
-burmester, m. ( ). a remark on the efficiency of identification scheme. in ivan damgard
-(ed.), advances in cryptology - eurocrypt '90, workshop on the theory and
-application of of cryptographic techniques, aarhus, denmark (pp. 493-495). lecture
-notes in computer science vol. 473, springer-verlag, berlin.
-burmester, m., & desmedt, y. ( ). all languages in np have divertible zero-knowledge
-proofs and arguments under cryptographic assumptions. in i. damgard (ed.), advances
-in cryptology - eurocrypt '90, workshop on the theory and application of of
-cryptographic techniques, aarhus, denmark (pp. 1-10). lecture notes in computer
-science vol. 473, springer-verlag, berlin.
-burmester, m., chrissikopulos, v., & alexandris, n. ( ). applications of cryptography to
-network security. in 3rd panhellenic conference on information theory, athens (pp.
-570-580). hellenic information association (epy).
-burmester, m., desmedt, y., & yung, m. ( ). subliminal-free channels: a solution towards
-covert-free channels. in w. wolfowicz (ed.), symposium on computer security, threats
-and countermeasures (pp. 188-197). fondazione ugo bordoni, rome.
-burmester, m., desmedt, y., piper, f., & walker, m. ( ). a general zero-knowledge
-scheme. in j.-j. quisquater, & j. vandewalle (eds.), advances in cryptology - eurocrypt
-'89, workshop on the theory and application of of cryptographic techniques,
-houthalen, belgium (pp. 122-133). lecture notes in computer science vol. 434,
-springer-verlag, berlin.
-burmester, m. v. d. ( ). automorphisms of division rings. in symposium on projective
-geometry (pp. 13-15). university of illinois, chicago.
-refereed reports
-burmester, m., liu, x., lawrence, j., steurer, m., sloderbeck, m., stanovich, m., & yu, m.
-( ). developing a resilience testbed for vulnerability analysis and hil testing of
-electrical grids (poster presentation, national cyber summit (ncs '16)). huntsville,
-al, ncs'16. retrieved from http://www.nationalcybersummit.com/
-presentations
-refereed papers at conferences
-burmester, m. (presented , december). resilient grouping proofs with missing tag
-identification. paper presented at 10th international conference on computing and
-ambient intelligence (ucami ), ubiquitous computing and ambient intelligence,
-san bartolomé de tirajana, gran canaria, spain. (international)
-page 22
-vita for mike v. d. burmester
-burmester, m. (presented , june). offensive computer security fundamentals visualized
-via seckoloring. paper presented at national cyber summit, national cyber
-summit, huntsville, alabama. (international)
-burmester, m. (presented , may). an anonymous rfid grouping-proof with missing tag
-identification. paper presented at 10th annual ieee international conference on rfid
-(ieee rfid ), ieee, orlando, florida. (international)
-burmester, m. (presented , april). resilient metro-scale smart structures: challenges &
-future directions. paper presented at international conference on internet of things and
-big data, institute for systems and technologies of information, control and
-communication (insticc), rome, italy. (international)
-burmester, m. (presented , march). run-time integrity for cyber-physical infrastructures.
-paper presented at ninth annual ifip wg 11.10 international conference on critical
-infrastructure protection, ifip wg 11.10, international federation for information
-processing (ifip wg 11.10), arlington, virginia, usa. (international)
-burmester, m. (presented , july). t-abac: an attribute-based access control model for
-real-time availability in highly dynamic systems. paper presented at eighth ieee
-symposium on computers and communications (iscc'13), ieee, split, croatia.
-(international)
-burmester, m. (presented , april). towards a secure electricity grid. paper presented at
-ieee eighth international conference on intelligent sensors, sensor networks and
-information processing (issnip ), ieee, melbourne, australia. (international)
-burmester, m. (presented , march). trusted computing for critical infrastructure
-protection against real-time and run-time threats. paper presented at seventh annual
-ifip wg 11.10 international conference on critical infrastructure protection,
-international federation for information processing (ifip wg 11.10), washington, dc.
-(international)
-burmester, m. (presented , september). techniques for securing substation automation
-systems. paper presented at critical information infrastructures security (critis ),
-lillehammer, norway, høgskolen i gjøvik. (international)
-burmester, m. (presented , march). his late master's voice: barking for location privacy.
-paper presented at 19th international workshop on security protocols, university of
-cambridge, england. (international)
-burmester, m. (presented , june). lightweight cryptographic mechanisms based on
-pseudorandom number generators. paper presented at fourth pythagorean conference,
-geometry, combinatorial designs and cryptology, corfu, greece, florida atlantic
-university. (international)
-page 23
-vita for mike v. d. burmester
-burmester, m. (presented , june). network profiling for high assurance survivability.
-paper presented at workshop on network security & cryptography, toronto, mitacs,
-canada. (international)
-burmester, m. (presented , june). network profiling for high assurance survivability.
-paper presented at network profiling for high workshop on network security &
-cryptography, toronto, canada, mitacs. (international)
-burmester, m. (presented , november). multi-domain trust management in variable threat
-environments using rollback-access. paper presented at the military communications
-conference, (milcom-08), ieee, san diego, ca. (international)
-burmester, m. (presented , september). provably secure grouping-proofs for rfid tags.
-paper presented at provably secure grouping-proofs for rfid tags – 8th international
-conference on smart card research and advanced applications (cardis ), royal
-holloway, egham, england. (international)
-burmester, m. (presented , august). movement of mobile sensors for barrier coverage of a
-planar region. paper presented at 2nd annual international conference on
-combinatorial optimization and applications (cocoa ), st. johns, memorial
-university of newfoundland, canada. (international)
-burmester, m. (presented , april). rfid security and privacy: long-term research or
-short-term tinkering? paper presented at 1st acm conference on wireless network
-security (wisec ), alexandria, va, usa, acm. (international)
-burmester, m. (presented , october). anonymous rfid authentication with constant
-key-lookup. paper presented at 6th rfid academic convocation, the rfid journal.
-(national)
-burmester, m. (presented , july). persistent security for rfid. paper presented at rfid
-security (rfidsec07), university of malaga, spain. (national)
-burmester, m. (presented , may). rfid security: attacks, countermeasures and
-challenges. paper presented at 5th rfid academic convocation, orlando, the rfid
-journal. (international)
-burmester, m. (presented , march). universally composable and forward-secure rfid
-authentication and authenticated key exchange. paper presented at acm symposium
-on information, computer and communications security (asiaccs'07), singapore,
-acm. (international)
-burmester, m. (presented , march). reactive and proactive approaches to secure routing
-in manets. paper presented at nsf international workshop on research challenges in
-security and privacy for mobile wireless networks, miami, nsf. (national)
-page 24
-vita for mike v. d. burmester
-burmester, m. (presented , april). community-centric vanilla-rollback access, or: how i
-stopped worrying and learned to love my computer. paper presented at thirteenth
-international workshop on security protocols, cambridge, university of hertfordshire,
-england. (international)
-burmester, m. (presented , july). weathering the storm: managing redundancy and security
-in ad hoc networks. paper presented at third international conference on ad hoc and
-wireless networks, adhoc-now'04, vancouver, university of british columbia.
-(national)
-burmester, m. (presented , april). responsible privacy. paper presented at 12th
-international workshop on security protocols, cambridge, university of hertfordshire,
-england. (international)
-burmester, m. (presented , april). secure multipath communication in mobile ad hoc
-networks. paper presented at international conference on information technology
-coding and computing (itcc ), las vegas, nevada, ieee computer society.
-(international)
-burmester, m. (presented , december). a critical analysis of models for fault-tolerant
-and secure computation. paper presented at iasted international conference on
-computer, network and information security (cnis ), international association of
-science and technology for development, new york. (international)
-burmester, m. (presented , december). tracing byzantine faults in ad hoc networks. paper
-presented at iasted international conference on computer, network and information
-security (cnis ), international association of science and technology for
-development, new york. (international)
-burmester, m. (presented , october). short c-secure fingerprinting codes. paper presented
-at 6th information security conference (isc'03), hewlett-packard laboratories, bristol,
-united kingdom. (international)
-burmester, m. (presented , june). strong forward security. paper presented at 16th
-international conference on information security, ifip/tc11, paris, france.
-(international)
-burmester, m. (presented , july). secure transactions with mobile agents in hostile
-environments. paper presented at 5th annual australasian conference on information
-security and privacy (acisp ), queensland university of technology, brisbane,
-australia. (international)
-burmester, m. (presented , july). securing large e-commerce networks. paper presented
-at 5th annual australasian conference on information security and privacy (acisp
-), queensland university of technology, brisbane, australia. (international)
-page 25
-vita for mike v. d. burmester
-burmester, m. (presented , november). secure communication in an unknown network
-using certificates. paper presented at international conference on the theory and
-application of cryptology and information security (asiacrypt 99), international
-association for cryptology research, singapore. (international)
-burmester, m. (presented , september). secure group communications: a dynamic
-approach. paper presented at ifip joint working conference, communications and
-multimedia security (cms '97), ifip tc6/tc11, athens, greece. (international)
-burmester, m. (presented , december). a network security threat in general, even when
-cryptography is used. paper presented at dimacs workshop on network threats,
-center for discrete mathematics and theoretical computer science (dimacs), newark
-ny. (national)
-burmester, m. (presented , october). linking trust with network reliability. paper presented
-at dimacs workshop on network threats, center for discrete mathematics and
-theoretical computer science (dimacs), newark ny. (national)
-burmester, m. (presented , october). new directions in mathematics: the management and
-protection of information. paper presented at mathematics in education and society,
-panhellenic congress, hellenic mathematical society, athens, greece. (national)
-burmester, m. (presented , may). efficient and provably secure key agreement. paper
-presented at information systems security, facing the information society of the 21st
-century (ifip sec '96), international federation for information processing, samos,
-greece. (international)
-burmester, m. (presented , may). efficient multiplicative sharing schemes. paper presented
-at eurocrypt '96, international association for cryptologic research, zaragoza,
-spain. (international)
-burmester, m. (presented , may). homomorphisms of secret sharing schemes: a tool for
-verifiable signature sharing. paper presented at eurocrypt '96, international
-association for cryptologic research, zaragoza, spain. (international)
-burmester, m. (presented , december). key agreement protocols: two efficient models for
-provable security. paper presented at 5th panhellenic conference on information theory,
-hellenic society for computers and informatics, athens, greece. (national)
-burmester, m. (presented , august). on the risk of opening distributed keys. paper
-presented at crypto '94, international association for cryptologic research, santa
-barbara, ca, usa. (international)
-page 26
-vita for mike v. d. burmester
-burmester, m. (presented , may). a secure and efficient conference key distribution system.
-paper presented at eurocrypt '96, international association for cryptologic research,
-perugia, italy. (international)
-burmester, m. (presented , november). towards practical 'proven secure' authenticated key
-distribution –. paper presented at 1st acm conference on computer and
-communications security, acm, fairfax, virginia. (international)
-burmester, m. (presented , may). cryptanalysis of the chang-wu-chen key distribution
-system. paper presented at eurocrypt '93, international association for cryptologic
-research, lofthus, norway. (international)
-burmester, m. (presented , february). a secure key distribution system. paper presented at
-3rd symposium on state and progress of research in cryptography (sprc '93),
-fondazione ugo bordoni, rome, italy. (international)
-burmester, m. (presented , september). an efficient public key distribution system. paper
-presented at ifip 12th world computer congress, international federation for
-information processing, madrid, spain. (international)
-burmester, m. (presented , september). zero-knowledge based identification: from a
-theoretical concept towards a practical token. paper presented at ifip 12th world
-computer congress, international federation for information processing, madrid, spain.
-(international)
-burmester, m. (presented , august). non-existence of homomorphic general sharing
-schemes for some key spaces. paper presented at crypto '92, international association for
-cryptologic research, santa barbara, ca. (international)
-invited keynote and plenary presentations at conferences
-burmester, m. (presented , december). reliability & resilience for emergencies and critical
-infrastructure. keynote presentation at 1st workshop for mobile tools for emergencies
-& critical infrastructures, university of la laguna, tenerife, spain. (international)
-retrieved from
-http://cryptull.webs.ull.es/casus/webcasuscontenido/workshop1/index.htm
-burmester, m. (presented , april). reliable and resilient interdependent systems. keynote
-presentation at ii workshop on security in internet of things (sit), university of la
-laguna, tenerife spain. (international)
-burmester, m. (presented , july). trusted computing for critical infrastructures. keynote
-presentation at fourth international conference on information, intelligence, systems
-and applications iisa , ieee, university of piraeus, piraeus, greece. (international)
-page 27
-vita for mike v. d. burmester
-burmester, m. (presented , march). localization privacy for rfid. keynote presentation at
-sit2013, workshop on security in internet of things, university of la laguna, tenerife,
-spain. (international)
-burmester, m. (presented , march). resilient ad-hoc networking supporting fault
-traceability. keynote presentation at communication, networks and security (cns),
-carlton wireless security day, ottawa, mitacs, canada. (international)
-burmester, m. (presented , march). secure group key exchange, revisited i & ii –.
-keynote presentation at 38th southeastern international conference on combinatorics,
-graph theory and computing, florida atlantic university, boca raton, florida.
-(international)
-burmester, m. (presented , july). towards provable security for ubiquitous applications.
-keynote presentation at 11th annual australasian conference on information security
-and privacy acisp, melbourne, international association of cryptological research,
-australia. (international)
-burmester, m. (presented , march). provable security for manets. keynote presentation at
-nsf international workshop on research in security and privacy for mobile and
-wireless networks (wspwn ), nsf, miami. (international)
-burmester, m. (presented , november). theory of information, cryptograsphy and the
-internet. keynote presentation at panhellenic conference on mathematical education,
-the hellenic mathematical society, lamia, greece. (national)
-burmester, m. (presented , june). extreme security – network-centric information systems.
-keynote presentation at one-day workshop, university of piraeus, greece. (national)
-burmester, m. (presented , october). securing ad hoc networks. keynote presentation at
-3rd annual conference on information security: from theory to practice, nicosia,
-cyprus computer society, cyprus. (national)
-burmester, m. (presented , july). a survey of key distribution. keynote presentation at 5th
-annual australasian conference on information security and privacy acisp, brisbane,
-international association for cryptological research, australia. (international)
-burmester, m. (presented , june). security over the internet. keynote presentation at 5th
-panhellenic congress in mathematical education, athens, hellenic mathematical
-society, greece. (national)
-page 28
-vita for mike v. d. burmester
-invited workshops
-burmester, m. ( , january). nsf workshop for satc eager grantees. workshop delivered
-at nsf and george washington university, washington, dc. (national)
-burmester, m. ( , june). rfid and ubiquitous applications - practical security for
-constrained devices (one-day workshop course). workshop delivered at mitacs
-workshop on network security and cryptography, toronto, canada. (international)
-patented inventions
-burmester, m., van le, t., de medeiros, b., & chatmon, c. ( ). systems, methods, and
+Jenkins, J., Easton, S., Guidry, D., Burmester, M., Liu, X., Yuan, S., Laurence, J., & Ty, S.
+(). Trusted Group Key Management For Real-Time Critical Infrastructure
+Protection. In 32nd annual Military Communications Conference, MILCOM (pp. 6).
+IEEE Communication Society.
+Burmester, M. (). A Trusted Computing Architecture for Critical Infrastructure Protection.
+In Nikolaos Bourbakis, George A. Ts ihr in tz is Maria Virvou, & Despina Kavraki (Eds.),
+Fourth International Conference on Information, Intelligence, Systems and Applications
+(IISA ) (pp. 1-6). Piraeus - Athens, IEEE Xplore. Retrieved from
+/xpl/most Recent Issue. jsp pu number 6598374
+Burmester, M., Magkos, E., & Chris sik op u los V. (). T-ABAC: An Attribute-Based Access
+Control Model for Real-Time Availability in Highly Dynamic Systems. In Ivina Brandic,
+Stipe Celar, Hrvoje Dujmic, & Tajana Simunic Rosing (Eds.), Eighth IEEE Symposium
+on Computers and Communications (ISCC'13) (pp. 6). Split, Croatia, IEEE. Retrieved
+from
+Burmester, M. (). Trusted Computing. In James Clark, Rebecca Wright, Julie Grady, Aljosa
+Pasic, Siani R Pearson, & Keyun Ruan (Eds.), D IMAC BIC A 4 Cloud CSA International
+Workshop on Trustworthiness, Accountability and Forensics in the Cloud (TAFC) (pp. 6).
+Malaga, Spain, DIMACS. Retrieved from
+Burmester, M., Laurence, J., Guidry, D., Easton, S., Ty, S., Liu, X., Yan, X., & Jenkins, J.
+(). Towards a Secure Electricity Grid. In IEEE International Conference on
+Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP) (pp. 6).
+Melbourne, Australia. Retrieved from
+Jenkins, J., & Burmester, M. (). Trusted Computing for Critical Infrastructure Protection
+Against Real-time and Run-time Threats. In Jonathan Butts, & Sujeet Shenoi (Eds.),
+Seventh Annual IFIP WG 11.10 International Conference on Critical Infrastructure
+Page 12
+Vita for Mike V. D. Burmester
+Protection (pp. 12). Washington, DC, IFIP. Retrieved from
+Guidry, D., Burmester, M., Yuan, X., Liu, X., Jenkins, J., & Easton, S. (). Techniques for
+Securing Substation Automation Systems. In Proceedings, 7th International Workshop
+on Critical Information Infrastructures Security (CRITIS ) (pp. 10). Lillehammer,
+Norway.
+Burmester, M. (). His Late Master's Voice: Barking for Location Privacy. In Bruce
+Christianson, Bruno Crispo, James A. Malcolm, & Frank Stajano (Eds.), Security
+Protocols, XIX - 19th International Workshop, Cambridge, UK, March 28-30, ,
+Revised Selected Papers (pp. 15-24). Lecture Notes in Computer Science (LNCS) Vol.
+7114, Springer-Verlag, Berlin.
+Burmester, M. (). Lightweight cryptographic mechanisms based on pseudorandom number
+generators. In Mag liver as Spyros (Ed.), Lightweight cryptographic mechanisms Fourth
+Pythagorean Conference, Geometry, Combinatorial Designs and Cryptology. Florida
+Atlantic University, Boca Raton.
+Redwood, O., & Burmester, M. (). Markov anomaly modeling for Trust Management in
+variable threat environments. In Ruth, Paul, & Kraft, Nicholas A. (Eds.), Proceedings of
+the 48th Annual ACM Southeast Regional Conference, Oxford, MS. Art 114, ACM, New
+York.
+Burmester, M., & Munilla, J. (). Flyweight authentication with forward and backward
+security. In WISP Summit , First workshop on Wireless Powered Sensor Networks
+and Computational RFID (pp. 1). Berkeley, California, INTEL. Retrieved from
+Burmester, M., Das, P., Edwards, M., & Yasinsac, A. (). Multi-Domain trust management
+in variable threat environments —a user-centric model. In Proceedings of the Military
+Communications Conference, (MILCOM ), Boston. IEEE.
+Burmester, M., De Medeiros, B., Munilla, J., & Peinado, A. (). Secure EPC Gen2
+Compliant Radio Frequency Identification. In Pedro M. Ruiz, Jose Joaquin, &
+Garcia-Luna-Aceves (Eds.), 8th International Conference, Ad-Hoc Mobile and Wireless
+Networks (ADHOC-NOW ), Murcia, Spain (pp. 227-240). Lecture Notes in
+Computer Science, Vol. 5793, Springer-Verlag, Berlin.
+Burmester, M., & Munilla, J. (). A Flyweight RFID Authentication Protocol. In Workshop
+on RFID Security . ESAT/SCD-COSIC, KU Leuven, Belgium. Retrieved from
+Page 13
+Vita for Mike V. D. Burmester
+Burmester, M., Safavi-Naini, R., & Taban, G. (). Secure Random Key Pre-Distribution
+Against Semi-Honest Adversaries. In Sixth International Conference on Networked
+Sensing Systems (INSS09). Carnegie Mellon University, Pittsburgh.
+Burmester, M., Das, P., Edwards, M., & Yasinsac, A. (). Multi-Domain trust management
+in variable threat environments using rollback-access. In IEEE Proceedings of the
+Military Communications Conference, (MILCOM ), San Diego. IEEE.
+Burmester, M., Magkos, E., & Chris sik o poul os V. (). Strengthening Privacy Protection in
+VANETs. In IEEE International Conference on Wireless and Mobile Computing
+WI MOB ' 08 Networking and Communications (pp. 508-513). Avignon, France, IEEE.
+Burmester, M., de Medeiros, B., & Motta, R. (). Provably secure grouping-proofs for RFID
+tags. In 8th International Conference on Smart Card Research and Advanced
+Applications (CARDIS ) (pp. 176-190). Royal Holloway, Egham, Surrey, England,
+Lecture Notes in Computer Science #5185, Springer-Verlag, Berlin.
+Bat tt a chari a B., Burmester, M., Hu, Y., Kranakis, E., Shi, Q., & Wiese, A. (). Optimal
+Movement of Mobile Sensors for Barrier Coverage of a Planar Region. In 2nd Annual
+International Conference on Combinatorial Optimization and Applications (COCOA'08)
+(pp. 103-115). St. Johns, Newfoundland, Canada, Lecture Notes in Computer Science
+#5165, Springer-Verlag, Berlin.
+Burmester, M., & De Medeiros, B. (). The security of EPC Gen2 compliant RFID protocols.
+In Proceedings, 6th International Conference on Applied Cryptography and Network
+Security (ACNS ), Columbia University, New York (pp. 490-506). Lecture Notes in
+Computer Science, Vol. 5037, Springer-Verlag, Berlin.
+Tsudik, G., Burmester, M., Juels, A., Kobsa, A., Molnar, D., di Pietro, R., & Rieback, M. ().
+RFID security and privacy: long-term research or short-term tinkering? In First ACM
+Conference on Wireless Network Security (WISEC ), Alexandria, VA (pp. p. 160).
+ACM, New York, NY, USA. Retrieved from
+Burmester, M., De Medeiros, B., & Motta, R. (). Robust, Anonymous RFID Authentication
+with Constant Key-Lookup. In Masayuki Abe, & Virgil D. Gligor (Eds.), ACM
+Symposium on Inform Ation, Computer and Communications Security (ASIACCS ).
+Tokyo, Japan, ACM.
+Burmester, M., De Medeiros, B., & Motta, R. (). Anonymous RFID Authentication with
+Constant Lookup. In 6th RFID Academic Convocation, The RFID Journal Conference,
+Chicago (pp. 5). The RFID Journal.
+Burmester, M., & De Medeiros, B. (). Persistent Security for RFID. In International
+Conference on RFID Security RFID Sec 07 Malaga, Spain (pp. 101-112). University of
+Malaga. Retrieved from
+Page 14
+Vita for Mike V. D. Burmester
+Burmester, M., & De Medeiros, B. (). RFID Security: Attacks, Countermeasures and
+Challenges. In 5th RFID Academic Convocation, The RFID Journal Conference,
+Orlando (pp. 9). The RFID Journal. Retrieved from
+Burmester, M., De Medeiros, B., & Yasinsac, A. (). Community-centric vanilla-rollback
+access, or: How I stopped worrying and learned to love my computer. In 13th
+International Security Protocols Workshop, Cambridge, England (pp. 228-237). Revised
+Selected Papers, Lecture Notes in Computer Science Vol. 4631, Springer-Verlag, Berlin.
+Van Le, T., Burmester, M., & De Medeiros, B. (). Universally Composable and
+Forward-secure RFID Authentication and Authenticated Key Exchange. In ACM
+Symposium on Inform Ation, Computer and Communications Security ASIA CCS ' 07
+Singapore (pp. 242-252). ACM New York, USA.
+Desmedt, Y., Lang, T., & Burmester, M. (). Scalable Authenticated Tree Based Group Key
+Exchange for Ad-Hoc Groups. In 11th International Conference, Financial
+Cryptography and Data Security (FC'07), Trinidad (pp. 104-118). Lecture Notes in
+Computer Science #4886, Springer-Verlag, Berlin.
+Burmester, M., Gligor, V., Kranakis, E., Tyger, D., & Zheng, Y. (). Authentication in
+constrained Environments. In Mike Burmester, & Alec Yasinsac (Eds.), Secure Mobile
+Ad-hoc networks and Sensors (MADNES ), Singapore (pp. 186-191). Lecture Notes
+in Computer Science # 4078, Springer-Verlag, Berlin.
+Burmester, M., de Medeiros, B., & vam Le, T. (). Provably Secure Ubiquitous Systems:
+Universally Composable RFID Authentication Protocols. In 2nd International
+Conference on Security and Privacy in Communication Networks (Secure Comm ),
+Baltimore (pp. 1-9). IEEE.
+Desmedt, Y., Wang, Y., & Burmester, M. (). Revisiting Colored Networks and Privacy
+Preserving Censorship. In 1st International Workshop on Critical Information
+Infrastructure Security, CRITIS (pp. 140-150). Lecture Notes in Computer Science
+#4347, Springer-Verlag, Berlin.
+Burmester, M., van Le, T., & de Medeiros, B. (). Towards Provable Security for Ubiquitous
+Applications. In 11th Australasian Conference, Information Security and Privacy (ACISP
+) (pp. 295-312). Lecture Notes in Computer Science #4058, Springer-Verlag, Berlin.
+Burmester, M., Desmedt, Y., Wright, R., & Yasinsac, A. (). Accountable Privacy. In 12th
+International Security Protocols Workshop, Cambridge, England (pp. 83-95). Lecture
+Notes in Computer Science #3957, Springer-Verlag, Berlin.
+Page 15
+Vita for Mike V. D. Burmester
+Burmester, M., & Mulholland, J. (). The Advent of Trusted Computing: Implications for
+Digital Forensics. In Hisham Haddad (Ed.), 21st ACM Symposium on Applied
+Computing, Computer Forensics Track (SAC ), Dijon, France (pp. 283-287). ACM.
+Burmester, M., & Hu, J. (). LARS - A Locally Aware Reputation System for Mobile Ad hoc
+Networks, Melbourne, Florida. In 44th ACM Southeast Regional Conference (pp.
+119-123). ACM New York.
+Burmester, M., & Van Le, T. (). Optimistic fault tracing and adaptive multipath routing in
+MANETs. In NSF Int. Workshop on Research Challenges in Security and Privacy for
+Mobile Wireless Networks (WSPWN'06) (pp. 45-60). Miami.
+Burmester, M., & Van Le, T. (). Reactive and Proactive Approaches to Secure Routing in
+MANETs. In NSF Int. Workshop on Research Challenges in Security and Privacy for
+Mobile Wireless Networks (WSPWN'06) (pp. 10). Miami.
+Desmedt, Y., Wang, Y., & Burmester, M. (). A Complete Characterization of Tolerable
+Adversary Structures for Secure Point-to-Point Transmissions. In 16th International
+Symposium on Algorithms and Computation (ISAAC ), Hainan, China (pp.
+277-287). Lecture Notes in Computer Science #3827, Springer-Verlag, Berlin.
+Aggarwal, S., Burmester, M., Henry, P., Kermes, L., & Mulholland, J. (). Anti
+Cyberstalking: The Predator and Prey Alert (PAPA) System. In First International
+Workshop on Systematic Approaches to Digital Forensics Engineering (SADFE '05) (pp.
+195-205). IEEE Computer Society, Washington, DC, USA.
+Burmester, M. (). Information Theory, Cryptography and the Internet (in Greek). In 22nd
+Pan hellenic Conference on Mathematical Education, Lamia, Greece (pp. 744-754). The
+Hellenic Mathematical Society.
+Burmester, M., & Yasinsac, A. (). Protocols for Supporting a Public Key Infrastructure in
+Ad Hoc Networks. In 11th International Workshop on Security Protocols, Cambridge,
+England, April 2–4, . Lecture Notes in Computer Science #336, Springer-Verlag,
+Berlin.
+Desmedt, Y., & Burmester, M. (). Identity-based Key Infrastructures (IKI). In Yves
+Deswarte, Frédéric Cuppens, Sushil Jajodia, Lingyu Wang, & 147, pp. 167 - 176,
+(Eds.), Security and Protection in Information Processing Systems, IFIP 18th
+World Computer Congress, TC11 19th International Information Security Conference,
+Toulouse, France (pp. 167-176). Kluwer.
+Page 16
+Vita for Mike V. D. Burmester
+Burmester, M., Van Le, T., & Yasinsac, A. (). Weathering the Storm: Managing
+Redundancy and Security in Ad Hoc Networks. In Ioanis Nikolai d is Michel Barbeau, &
+Evangelos Kranakis (Eds.), Ad-Hoc, Mobile, and Wireless Networks: Third International
+Conference, ADHOC-NOW , Vancouver, Canada (pp. 96-107). Lecture Notes in
+Computer Science #3158, Springer-Verlag, Berlin.
+Burmester, M., & Van Le, T. (). Secure Communication in Ad hoc Networks. In 5th Annual
+IEEE Information Assurance Workshop (IAW ), West Point, New York (pp.
+234-241). IEEE Conference Publications.
+Burmester, M., & Van Le, T. (). Secure Multipath Communication in Mobile Ad hoc
+Networks. In International Conference on Information Technology Coding and
+Computing (ITCC04), Las Vegas, Nevada (pp. 405--409). IEEE Computer Society.
+Burmester, M., & Desmedt, Y. (). A Critical Analysis of Models for Fault-Tolerant and
+Secure Computation. In M. H. Hamza (Ed.), Communication, Network, and Information
+Security (CNIS ) (pp. 147-152). ACTA Press.
+Burmester, M., Van Le, T., & Weir, M. (). Tracing Byzantine faults in ad hoc networks. In
+M. H. Hamza (Ed.), Communication, Network, and Information Security (CNIS ) (pp.
+105--106). ACTA Press.
+Van Le, T., Burmester, M., & Hu, J. (). Short c-secure Fingerprinting Codes. In 6th
+Information Security Conference (ISC'03), Bristol, UK (pp. 422-427). Lecture Notes in
+Computer Science Vol. 2851, Springer-Verlag, Berlin.
+Yvo, D., Burmester, M., & Kurasawa, K. (). On Perfect Traitor Tracing. In IEEE
+International Symposium on Information Theory, Lausanne, Switzerland (pp. 439). IEEE.
+Adams, C., Burmester, M., Desmedt, Y., Reiter, M., & Zimmermann, P. (). Panel: Which
+PKI (public key infrastructure) is the right one? In Sushil Jajodia, & Pierangela Samarati
+(Eds.), 7th ACM Conference on Computer and Communications Security, Athens, Greece
+(pp. 98--01). ACM New York, NY, USA.
+Burmester, M., & Desmedt, Y. (). Hierarchical public-key certification: the next target for
+hackers. In 1st International Workshop for Asian Public key Infrastructures (IWAP
+), Daejon, Korea (pp. 31-43). International Research Center for Information
+Security, Korea.
+Burmester, M., Magkos, E., & Chris sik o poul s V. (). Receipt-Freeness in Large-Scale
+Elections without Untappable Channels. In B. Schmid, K. Stanoevska-Slabeva, & V.
+Tschammer (Eds.), Towards The E-Society: E-Commerce, E-Business, and
+E-Government, The First IFIP Conference on E-Commerce, E-Business, E-Government
+(I3E ), Zürich, Switzerland (pp. 683-694). IFIP Conference Proceedings, Kluwer.
+Page 17
+Vita for Mike V. D. Burmester
+Kot za niki lao u P., Burmester, M., & Chris sik o poul os V. (). Dynamic Multi-signatures for
+Secure Autonomous Agents. In A. Min Tjoa, & Roland Wagner (Eds.), 12th
+International Workshop on Database and Expert Systems Applications (DEXA ) (pp.
+587-591). IEEE Computer Society.
+Burmester, M., Chris sik o poul os V., Kot za nikola ou P., & Magkos, E. (). Strong Forward
+Security. In M. Dupuy, & P. Paradinas (Eds.), IFIP-TC11 Sixteenth Annual Conference
+on Information Security (IFIP/ SEC '01), Trusted Information – The New Decade
+Challenge, Vol. 193, Paris, France (pp. 109-119). Kluwer Academic Publishers, Boston.
+Desmedt, Y., Burmester, M., Safavi-Naini, R., & Wang, H. (). Threshold Things That Think
+(T4): Security Requirements to Cope with Theft of Handheld Handles s Internet Devices.
+In Symposium on Requirements Engineering for Information Security (SREIS),
+Indianapolis (pp. 354-367). Center for Education and Research in Information Assurance
+and Security (CERIAS), Purdue University.
+Desmedt, Y., Burmester, M., & Seberry, J. (). E quit ability in Retroactive Data Confiscation
+versus Proactive Key Escrow. In Kwangjo Kim (Ed.), 4th International Workshop on
+Practice and Theory in Public Key Cryptography (PKC ), Cheju Island, Korea (pp.
+277-286). Lecture Notes in Computer Science Vol. , Springer-Verlag, Berlin.
+Henderson, M., Burmester, M., Ed Dawson, E., & Okamoto, E. (). Weaknesses in Public
+Key Infrastructures. In Proc. 1st Workshop in Information Security Applications, Seoul,
+Korea (pp. 53-66). Korea Institute of Information Security and Cryptology (KIISC).
+Burmester, M., Desmedt, Y., Alexandr is N., & Chris sik o poul os V. (). Designated
+2-Verifier Proofs and their Application to Electronic Commerce. In Kwok-Yan Lam,
+Huaxiong Wang, Igor E Sp arlin ski j & Chaoping Xing (Eds.), Cryptography and
+computational number theory : Proceedings of the workshop on Cryptography and
+Computational Number Theory, CCNT'99, Singapore Nov (pp. 149-164). Basel :
+Birkhäuser Verlag.
+Burmester, M., Desmedt, Y., Doi, H., Mambo, M., & Yosifuji, Y. (). A Structured
+El Gamal-Type Multi signature Scheme. In Hideki Imai, & Yuliang Zheng (Eds.), Public
+Key Cryptography, Third International Workshop on Practice and Theory in Public Key
+Cryptography (PKC ), Melbourne, Australia (pp. 466-483). Lecture Notes in
+Computer Science Vol. 1751, Springer-Verlag, Berlin.
+Magkos, E., Burmester, M., & Chris sik o poul os V. (). An Equitably Fair On-line Auction
+Scheme. In Kurt Bauknecht, Sanjay Kumar Madria, & Günther Pernul (Eds.), Electronic
+Commerce and Web Technologies, First Int. Conf. EC-Web , London, UK (pp.
+72-83). Lecture Notes in Computer Science Vol. 1875, Springer-Verlag, Berlin.
+Kot za nikola ou P., Burmester, M., & Chris sik o poul os V. (). Secure Transactions with
+Mobile Agents in Hostile Environments. In Ed Dawson, Andrew Clark, & Colin Boyd
+(Eds.), 5th Australasian Conference (ACISP ), Information Security and Privacy,
+Page 18
+Vita for Mike V. D. Burmester
+Brisbane, Australia (pp. 289-297). Lecture Notes in Computer Science, Vol. 1841,
+Springer-Verlag, Berlin.
+Burmester, M., Desmedt, Y., & Seberry, J. (). Equitable Key Escrow with Limited Time
+Span (or, How to Enforce Time Expiration Cryptographically. In Kazuo Ohta, & Dingyi
+Pei (Eds.), Advances in Cryptology - ASIACRYPT '98, International Conference on the
+Theory and Applications of Cryptology and Information Security, Beijing, China (pp.
+18-22). Lecture Notes in Computer Science Vol. 1514, Springer-Verlag, Berlin.
+Kurosawa, K., Yoshida, T., Desmedt, Y., & Burmester, M. (). Some Bounds and a
+Construction for Secure Broadcast Encryption. In Kazuo Ohta, & Dingyi Pei (Eds.),
+Advances in Cryptology - ASIACRYPT '98, International Conference on the Theory and
+Applications of Cryptology and Information Security, Beijing, China (pp. 420-433).
+Lecture Notes in Computer Science Vol. 1514, Springer-Verlag, Berlin.
+Blackburn, S., Blake-Wilson, S., Burmester, M., & Galbraith, S. (). Weaknesses in Shared
+RSA Key Generation Protocols. In Michael Walker (Ed.), 7th IMA International
+Conference, Cryptography and Coding, Cirencester, England (pp. 7300-306). Lecture
+Notes in Computer Science Vol. 1746, Springer-Verlag, Berlin.
+Burmester, M., & Desmedt, Y. (). Secure Communication in an Unknown Network Using
+Certificates. In Kwok-Yan Lam, Eiji Okamoto, & Chaoping Xing (Eds.), Advances in
+Cryptology - Asiacrypt '99 (pp. 274–287). Lecture Notes in Computer Science Vol. 1716,
+Springer, Berlin-Verlag, Berlin.
+Burmester, M., Desmedt, Y., & Wang, Y. (). Using Approximation Hardness to Achieve
+Dependable Computation. In Michael Luby, Josè D. P. Rolim, & Maria J. Serna (Eds.),
+Random iz ation and Approximation Techniques in Computer Science, Second
+International Workshop, RANDOM'98, Barcelona, Spain (pp. 172-186). Lecture Notes in
+Computer Science Vol. 1518, Springer-Verlag, Berlin.
+Bassalygo, L. A., Burmester, M., Dyachkov, A., & Kaba tian ski G. (). Hash Codes. In IEEE
+International Symposium on Information Theory (ISIT') (pp. 174). IEEE.
+Alexandr is N., Burmester, M., & Chris sik o poul os V. (). Secure Group Communications: a
+dynamic approach. In S. K. Katsikas (Ed.), Communications and Multimedia Security
+(CMS '97) (pp. 41-51). Chapman & Hall.
+Burmester, M., Desmedt, Y., Ito, T., Sakurai, K., Shizuya, H., & Yung, M. (). A Progress
+Report on Subliminal-Free Channels. In Ross J. Anderson (Ed.), Information Hiding,
+First International Workshop, Cambridge (pp. 157-168). Lecture Notes in Computer
+Science Vol. 1174, Springer-Verlag, Berlin.
+Alexandr is N., Burmester, M., Chris sik o poul os V., & Peppes, D. (). Efficient and provably
+secure key agreement. In Sokratis K. Katsikas, & Dimitris Gritzalis (Eds.), Information
+Page 19
+Vita for Mike V. D. Burmester
+Systems Security, Facing the information society of the 21st Century (SEC) (pp.
+227-236). IFIP Conference Proceedings Vol. 54, Chapman & Hall.
+Blackburn, S. R., Burmester, M., Desmedt, Y., & Wild, Peter, R. (). Efficient Multiplicative
+Sharing Schemes. In Ueli M. Maurer (Ed.), Advances in Cryptology - EUROCRYPT '96,
+Int. Conf. on the Theory and Application of Cryptographic Techniques, Saragossa, Spain
+(pp. 107-118). Lecture Notes in Computer Science Vol. 1070, Springer-Verlag, Berlin.
+Burmester, M. (). Homo morphism s of Secret Sharing Schemes: A Tool for Verifiable
+Signature Sharing. In Ueli M. Maurer (Ed.), Advances in Cryptology - EUROCRYPT '96,
+Int. Conf. on the Theory and Application of Cryptographic Techniques, Saragossa, Spain
+(pp. 96-106). Lecture Notes in Computer Science Vol. 1070, Springer-Verlag, Berlin.
+Burmester, M., & Desmedt, Y. (). Efficient and Secure Conference-Key Distribution. In T.
+Mark A. Lomas (Ed.), Security Protocols, International Workshop, Cambridge, United
+Kingdom (pp. 119-129). Lecture Notes in Computer Science Vol. 1189, Springer, Berlin.
+Desmedt, Y., Di Crescenzo, G., & Burmester, M. (). Multiplicative Non-abelian Sharing
+Schemes and their Application to Threshold Cryptography. In Josef Pieprzyk, &
+Reihaneh Safavi-Nain (Eds.), Advances in Cryptology - ASIACRYPT '94, 4th Int. Conf.
+on the Theory and Applications of Cryptology, Wollongong, Australia (pp. 21-32).
+Lecture Notes in Computer Science Vol. 917, Springer-Verlag, Berlin.
+Burmester, M., & Desmedt, Y. (). A Secure and Efficient Conference Key Distribution
+System. In Alfredo De Santis (Ed.), Advances in Cryptology - EUROCRYPT '94,
+Workshop on the Theory and Application of Cryptographic Techniques, Perugia, Italy
+(pp. 275-286). Lecture Notes in Computer Science Vol. 950, Springer-Verlag, Berlin.
+Burmester, M., Alexandr is N., Chris sik o poul os V., & Pepes, D. (). Key agreement
+protocols: two efficient models for provable security. In 5th Pan hellenic Conference on
+Information Theory, Athens, Greece (pp. 177-187). Hellenic Mathematical Society.
+Chen, L., & Burmester, M. (). A practical voting scheme which allows voters to abstain. In
+Chinacrypt '94 (pp. 100-107). Xidian, China.
+Burmester, M. (). On the Risk of Opening Distributed Keys. In Yvo Desmedt (Ed.),
+Advances in Cryptology - CRYPTO '94, 14th Annual International Cryptology
+Conference, Santa Barbara, California, USA (pp. 308-317). Lecture Notes in Computer
+Science vol. 839, Springer-Verlag, Berlin.
+Burmester, M. (). Crypto analysis of the Chang-Wu-Chen Key Distribution System. In Tor
+Helleseth (Ed.), Advances in Cryptology - EUROCRYPT '93, Workshop on the Theory
+and Application of of Cryptographic Techniques, Lofthus, Norway (pp. 440-442). Lecture
+Notes in Computer Science Vol. 765, Springer-Verlag, Berlin.
+Page 20
+Vita for Mike V. D. Burmester
+Desmedt, Y., & Burmester, M. (). Towards Practical ``Proven Secure'' Authenticated Key
+Distribution. In Dorothy E. Denning, Raymond Pyle, Ravi Ganesan, Ravi S. Sandhu, &
+Victoria Ashby (Eds.), CCS '93, Proceedings of the 1st ACM Conference on Computer
+and Communications Security, Fairfax, Virginia, USA (pp. 228-231). ACM.
+Desmedt, Y., & Burmester, M. (). An Efficient Zero-Knowledge Scheme for the Discrete
+Logarithm Based on Smooth Numbers. In Hideki Imai, Ronald L. Rivest, & Tsutomu
+Matsumoto (Eds.), Advances in Cryptology - ASIACRYPT '91, International Conference
+on the Theory and Applications of Cryptology, Fuji yoshida Japan (pp. 360-367). Lecture
+Notes in Computer Science Vol. 739, Springer-Verlag, Berlin.
+Frankel, Y., Desmedt, Y., & Burmester, M. (). Non-Existence of Homo m orphic General
+Sharing Schemes for Some Key Spaces. In Ernest F. Brickell (Ed.), Advances in
+Cryptology - CRYPTO '92, 12th Annual International Cryptology Conference, Santa
+Barbara, California, USA (pp. 549-557). Lecture Notes in Computer Science Vol. 740,
+Springer-Verlag, Berlin.
+Alexandr is N., Burmester, M., Chris sik op u los V., & Desmedt, Y. (). A secure key
+distribution system. In W. Wolfowicz (Ed.), 3rd Symposium on: State and Progress of
+Research in Cryptography (pp. 30-34). Fondazione Ugo Bordoni, Rome.
+Burmester, M., Alexandr is N., & Chris sik op u los V. (). Network security and
+authentication (in greek). In 4th Pan hellenic Conference on Information Theory, Vol II,
+Patras (pp. 249-256). Hellenic Mathematical Society (EPI).
+Alexandr is N., Burmester, M., & Chris sik o poul os V. (). An Efficient Public Key
+Distribution System. In Robert M. Aiken (Ed.), Education and Society - Information
+Processing '92, Volume 2, Proceedings of the IFIP 12th World Computer Congress,
+Madrid, Spain (pp. 532-539). IFIP Transactions A-13, North-Holland.
+Burmester, M., & Desmedt, Y. (). Zero-Knowledge Based Identification: From a
+Theoretical Concept Towards a Practical Token. In Robert M. Aiken (Ed.), Education
+and Society - Information Processing '92, Volume 2, Proceedings of the IFIP 12th World
+Computer Congress, Madrid, Spain (pp. 479-485). IFIP Transactions A-13,
+North-Holland.
+Desmedt, Y., & Burmester, M. (). An efficient zero-knowledge scheme for the discrete
+logarithm based on smooth numbers. In H. Imai, R. L. Rivest, & T. Matsumoto (Eds.),
+Advances in Cryptology – Asiacrypt '91 (pp. 360-367). Lecture Notes in Computer
+Science #739, Springer-Verlag, Berlin.
+Burmester, M., & Desmedt, Y. (). Broadcast Interactive Proofs. In D. W. Davies (Ed.),
+Advances in Cryptology - EUROCRYPT '91, Workshop on the Theory and Application of
+of Cryptographic Techniques, Brighton, UK (pp. 81-95). Lecture Notes in Computer
+Science Vol. 547, Springer-Verlag, Berlin.
+Page 21
+Vita for Mike V. D. Burmester
+Burmester, M. (). A Remark on the Efficiency of Identification Scheme. In Ivan Damgard
+(Ed.), Advances in Cryptology - EUROCRYPT '90, Workshop on the Theory and
+Application of of Cryptographic Techniques, Aarhus, Denmark (pp. 493-495). Lecture
+Notes in Computer Science Vol. 473, Springer-Verlag, Berlin.
+Burmester, M., & Desmedt, Y. (). All Languages in NP Have Divertible Zero-Knowledge
+Proofs and Arguments Under Cryptographic Assumptions. In I. Damgard (Ed.), Advances
+in Cryptology - EUROCRYPT '90, Workshop on the Theory and Application of of
+Cryptographic Techniques, Aarhus, Denmark (pp. 1-10). Lecture Notes in Computer
+Science Vol. 473, Springer-Verlag, Berlin.
+Burmester, M., Chris sik op u los V., & Alexandr is N. (). Applications of cryptography to
+network security. In 3rd Pan hellenic Conference on Information Theory, Athens (pp.
+570-580). Hellenic Information Association (EPY).
+Burmester, M., Desmedt, Y., & Yung, M. (). Subliminal-free channels: a solution towards
+covert-free channels. In W. Wolfowicz (Ed.), Symposium on Computer Security, Threats
+and Countermeasures (pp. 188-197). Fondazione Ugo Bordoni, Rome.
+Burmester, M., Desmedt, Y., Piper, F., & Walker, M. (). A General Zero-Knowledge
+Scheme. In J.-J. Qui squat er & J. Vandewalle (Eds.), Advances in Cryptology - Eurocrypt
+'89, Workshop on the Theory and Application of of Cryptographic Techniques,
+Houthalen, Belgium (pp. 122-133). Lecture Notes in Computer Science Vol. 434,
+Springer-Verlag, Berlin.
+Burmester, M. V. D. (). Automorphism s of division rings. In Symposium on Projective
+Geometry (pp. 13-15). University of Illinois, Chicago.
+Refereed Reports
+Burmester, M., Liu, X., Lawrence, J., Steurer, M., Slo der beck M., Stanovich, M., & Yu, M.
+(). Developing a Resilience Testbed for Vulnerability Analysis and HIL testing of
+Electrical Grids (Poster Presentation, National Cyber Summit (NCS '16)). Huntsville,
+AL, NCS'16. Retrieved from
+Presentations
+Refereed Papers at Conferences
+Burmester, M. (presented , December). Resilient Grouping Proofs with Missing Tag
+Identification. Paper presented at 10th International Conference on Computing and
+Ambient Intelligence (UCAm I ), Ubiquitous Computing and Ambient Intelligence,
+San Bartolomé de Tirajana, Gran Canaria, Spain. (International)
+Page 22
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , June). Offensive Computer Security Fundamentals Visualized
+via Sec Koloring. Paper presented at National Cyber Summit, National Cyber
+Summit, Huntsville, Alabama. (International)
+Burmester, M. (presented , May). An Anonymous RFID Grouping-Proof with Missing Tag
+Identification. Paper presented at 10th Annual IEEE International Conference on RFID
+(IEEE RFID ), IEEE, Orlando, Florida. (International)
+Burmester, M. (presented , April). Resilient Metro-Scale Smart Structures: Challenges &
+Future Directions. Paper presented at International Conference on Internet of Things and
+Big Data, Institute for Systems and Technologies of Information, Control and
+Communication (INSTICC), Rome, Italy. (International)
+Burmester, M. (presented , March). Run-Time Integrity for Cyber-Physical Infrastructures.
+Paper presented at Ninth Annual IFIP WG 11.10 International Conference on Critical
+Infrastructure Protection, IFIP WG 11.10, International Federation for Information
+Processing (IFIP WG 11.10), Arlington, Virginia, USA. (International)
+Burmester, M. (presented , July). T-ABAC: An Attribute-Based Access Control Model for
+Real-Time Availability in Highly Dynamic Systems. Paper presented at Eighth IEEE
+Symposium on Computers and Communications (ISCC'13), IEEE, Split, Croatia.
+(International)
+Burmester, M. (presented , April). Towards a Secure Electricity Grid. Paper presented at
+IEEE Eighth International Conference on Intelligent Sensors, Sensor Networks and
+Information Processing (ISSNIP ), IEEE, Melbourne, Australia. (International)
+Burmester, M. (presented , March). Trusted Computing for Critical Infrastructure
+Protection Against Real-time and Run-time Threats. Paper presented at Seventh Annual
+IFIP WG 11.10 International Conference on Critical Infrastructure Protection,
+International Federation for Information Processing (IFIP WG 11.10), Washington, DC.
+(International)
+Burmester, M. (presented , September). Techniques for Securing Substation Automation
+Systems. Paper presented at Critical Information Infrastructures Security (CRITIS ),
+Lillehammer, Norway, Høgskolen i Gjøvik. (International)
+Burmester, M. (presented , March). His Late Master's Voice: Barking for location privacy.
+Paper presented at 19th International Workshop on Security Protocols, University of
+Cambridge, England. (International)
+Burmester, M. (presented , June). Lightweight cryptographic mechanisms based on
+pseudorandom number generators. Paper presented at Fourth Pythagorean Conference,
+Geometry, Combinatorial Designs and Cryptology, Corfu, Greece, Florida Atlantic
+University. (International)
+Page 23
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , June). Network Profiling for High Assurance Survivability.
+Paper presented at Workshop on Network Security & Cryptography, Toronto, MITACS,
+Canada. (International)
+Burmester, M. (presented , June). Network Profiling for High Assurance Survivability.
+Paper presented at Network Profiling for High Workshop on Network Security &
+Cryptography, Toronto, Canada, MITACS. (International)
+Burmester, M. (presented , November). Multi-Domain trust management in variable threat
+environments using rollback-access. Paper presented at The Military Communications
+Conference, (MILCOM-08), IEEE, San Diego, CA. (International)
+Burmester, M. (presented , September). Provably Secure Grouping-Proofs for RFID Tags.
+Paper presented at Provably Secure Grouping-Proofs for RFID Tags – 8th International
+Conference on Smart Card Research and Advanced Applications (CARDIS ), Royal
+Holloway, Egham, England. (International)
+Burmester, M. (presented , August). Movement of Mobile Sensors for Barrier Coverage of a
+Planar Region. Paper presented at 2nd Annual International Conference on
+Combinatorial Optimization and Applications (COCOA ), St. Johns, Memorial
+University of Newfoundland, Canada. (International)
+Burmester, M. (presented , April). RFID security and privacy: long-term research or
+short-term tinkering? Paper presented at 1st ACM Conference on Wireless Network
+Security (WISEC ), Alexandria, VA, USA, ACM. (International)
+Burmester, M. (presented , October). Anonymous RFID Authentication with Constant
+Key-Lookup. Paper presented at 6th RFID Academic Convocation, The RFID Journal.
+(National)
+Burmester, M. (presented , July). Persistent Security for RFID. Paper presented at RFID
+Security RFID Sec 07 University of Malaga, Spain. (National)
+Burmester, M. (presented , May). RFID Security: Attacks, Countermeasures and
+Challenges. Paper presented at 5th RFID Academic Convocation, Orlando, The RFID
+Journal. (International)
+Burmester, M. (presented , March). Universally Composable and Forward-Secure RFID
+Authentication and Authenticated Key Exchange. Paper presented at ACM Symposium
+on Information, Computer and Communications Security ASIA CCS ' 07 Singapore,
+ACM. (International)
+Burmester, M. (presented , March). Reactive and Proactive approaches to Secure Routing
+in MANETs. Paper presented at NSF International Workshop on Research Challenges in
+Security and Privacy for Mobile Wireless Networks, Miami, NSF. (National)
+Page 24
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , April). Community-centric vanilla-rollback access, or: How I
+stopped worrying and learned to love my computer. Paper presented at Thirteenth
+International Workshop on Security Protocols, Cambridge, University of Hertfordshire,
+England. (International)
+Burmester, M. (presented , July). Weathering the storm: managing redundancy and security
+in ad hoc networks. Paper presented at Third International Conference on Ad hoc and
+Wireless networks, ADHOC-NOW'04, Vancouver, University of British Columbia.
+(National)
+Burmester, M. (presented , April). Responsible Privacy. Paper presented at 12th
+International Workshop on Security Protocols, Cambridge, University of Hertfordshire,
+England. (International)
+Burmester, M. (presented , April). Secure Multipath Communication in Mobile Ad hoc
+Networks. Paper presented at International Conference on Information Technology
+Coding and Computing (ITCC ), Las Vegas, Nevada, IEEE Computer Society.
+(International)
+Burmester, M. (presented , December). A Critical Analysis of Models for Fault-Tolerant
+and Secure Computation. Paper presented at IASTED International Conference on
+Computer, Network and Information Security (CNIS ), International Association of
+Science and Technology for Development, New York. (International)
+Burmester, M. (presented , December). Tracing Byzantine faults in ad hoc networks. Paper
+presented at IASTED International Conference on Computer, Network and Information
+Security (CNIS ), International Association of Science and Technology for
+Development, New York. (International)
+Burmester, M. (presented , October). Short c-secure Fingerprinting Codes. Paper presented
+at 6th Information Security Conference (ISC'03), Hewlett-Packard Laboratories, Bristol,
+United Kingdom. (International)
+Burmester, M. (presented , June). Strong Forward Security. Paper presented at 16th
+International Conference on Information Security, IFIP/TC11, Paris, France.
+(International)
+Burmester, M. (presented , July). Secure Transactions with Mobile Agents in Hostile
+environments. Paper presented at 5th Annual Australasian Conference on Information
+Security and Privacy (ACISP ), Queensland University of Technology, Brisbane,
+Australia. (International)
+Burmester, M. (presented , July). Securing Large E-Commerce Networks. Paper presented
+at 5th Annual Australasian Conference on Information Security and Privacy (ACISP
+), Queensland University of Technology, Brisbane, Australia. (International)
+Page 25
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , November). Secure Communication in an Unknown Network
+Using Certificates. Paper presented at International Conference on the Theory and
+Application of Cryptology and Information Security (Asiacrypt 99), International
+Association for Cryptology Research, Singapore. (International)
+Burmester, M. (presented , September). Secure Group Communications: a dynamic
+approach. Paper presented at IFIP Joint Working Conference, Communications and
+Multimedia Security (CMS '97), IFIP TC6/TC11, Athens, Greece. (International)
+Burmester, M. (presented , December). A network security threat in general, even when
+cryptography is used. Paper presented at DIMACS Workshop on Network Threats,
+Center for Discrete Mathematics and Theoretical Computer Science (DIMACS), Newark
+NY. (National)
+Burmester, M. (presented , October). Linking trust with network reliability. Paper presented
+at DIMACS Workshop on Network Threats, Center for Discrete Mathematics and
+Theoretical Computer Science (DIMACS), Newark NY. (National)
+Burmester, M. (presented , October). New directions in Mathematics: the management and
+protection of information. Paper presented at Mathematics in Education and Society,
+Pan hellenic Congress, Hellenic Mathematical Society, Athens, Greece. (National)
+Burmester, M. (presented , May). Efficient and provably secure key agreement. Paper
+presented at Information Systems Security, Facing the Information Society of the 21st
+century (IFIP SEC '96), International Federation for Information Processing, Samos,
+Greece. (International)
+Burmester, M. (presented , May). Efficient Multiplicative Sharing Schemes. Paper presented
+at EUROCRYPT '96, International Association for Crypto logic Research, Zaragoza,
+Spain. (International)
+Burmester, M. (presented , May). Homo morphism s of Secret Sharing Schemes: a Tool for
+Verifiable Signature Sharing. Paper presented at EUROCRYPT '96, International
+Association for Crypto logic Research, Zaragoza, Spain. (International)
+Burmester, M. (presented , December). Key agreement protocols: two efficient models for
+provable security. Paper presented at 5th Pan hellenic Conference on Information Theory,
+Hellenic Society for Computers and Informatics, Athens, Greece. (National)
+Burmester, M. (presented , August). On the risk of opening distributed keys. Paper
+presented at Crypto '94, International Association for Crypto logic Research, Santa
+Barbara, CA, USA. (International)
+Page 26
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , May). A secure and efficient conference key distribution system.
+Paper presented at Eurocrypt '96, International Association for Crypto logic Research,
+Perugia, Italy. (International)
+Burmester, M. (presented , November). Towards practical 'proven secure' authenticated key
+distribution –. Paper presented at 1st ACM Conference on Computer and
+Communications Security, ACM, Fairfax, Virginia. (International)
+Burmester, M. (presented , May). Cryptanalysis of the Chang-Wu-Chen key distribution
+system. Paper presented at Eurocrypt '93, International Association for Crypto logic
+Research, Lofthus, Norway. (International)
+Burmester, M. (presented , February). A secure key distribution system. Paper presented at
+3rd Symposium on State and Progress of Research in Cryptography (SPRC '93),
+Fondazione Ugo Bordoni, Rome, Italy. (International)
+Burmester, M. (presented , September). An efficient public key distribution system. Paper
+presented at IFIP 12th World Computer Congress, International Federation for
+Information Processing, Madrid, Spain. (International)
+Burmester, M. (presented , September). Zero-knowledge Based Identification: From a
+Theoretical Concept Towards a Practical Token. Paper presented at IFIP 12th World
+Computer Congress, International Federation for Information Processing, Madrid, Spain.
+(International)
+Burmester, M. (presented , August). Non-existence of homo m orphic general sharing
+schemes for some key spaces. Paper presented at Crypto '92, International Association for
+Crypto logic Research, Santa Barbara, CA. (International)
+Invited Keynote and Plenary Presentations at Conferences
+Burmester, M. (presented , December). Reliability & resilience for emergencies and critical
+infrastructure. Keynote presentation at 1st Workshop for Mobile Tools for Emergencies
+& Critical Infrastructures, University of La Laguna, Tenerife, Spain. (International)
+Retrieved from
+Burmester, M. (presented , April). Reliable and resilient interdependent systems. Keynote
+presentation at II Workshop on Security in Internet of Things (SIT), University of La
+Laguna, Tenerife Spain. (International)
+Burmester, M. (presented , July). Trusted Computing for Critical infrastructures. Keynote
+presentation at Fourth International Conference on Information, Intelligence, Systems
+and Applications IISA , IEEE, University of Piraeus, Piraeus, Greece. (International)
+Page 27
+Vita for Mike V. D. Burmester
+Burmester, M. (presented , March). Localization privacy for RFID. Keynote presentation at
+SIT2013, Workshop on Security in Internet of Things, University of La Laguna, Tenerife,
+SPAIN. (International)
+Burmester, M. (presented , March). Resilient Ad-hoc Networking Supporting Fault
+Traceability. Keynote presentation at Communication, Networks and Security (CNS),
+Carlton Wireless Security Day, Ottawa, MITACS, Canada. (International)
+Burmester, M. (presented , March). Secure Group Key Exchange, Revisited I & II –.
+Keynote presentation at 38th Southeastern International Conference on Combinatorics,
+Graph Theory and Computing, Florida Atlantic University, Boca Raton, Florida.
+(International)
+Burmester, M. (presented , July). Towards provable security for ubiquitous applications.
+Keynote presentation at 11th Annual Australasian Conference on Information Security
+and Privacy ACISP, Melbourne, International Association of Crypto logical Research,
+Australia. (International)
+Burmester, M. (presented , March). Provable Security for MANETs. Keynote presentation at
+NSF International Workshop on Research in Security and Privacy for Mobile and
+Wireless Networks (WSPWN ), NSF, Miami. (International)
+Burmester, M. (presented , November). Theory of Information, Crypto grasp hy and the
+Internet. Keynote presentation at Pan hellenic Conference on Mathematical Education,
+The Hellenic Mathematical Society, Lamia, Greece. (National)
+Burmester, M. (presented , June). Extreme Security – Network-centric Information Systems.
+Keynote presentation at One-day Workshop, University of Piraeus, Greece. (National)
+Burmester, M. (presented , October). Securing Ad hoc Networks. Keynote presentation at
+3rd Annual Conference on Information Security: From Theory to Practice, Nicosia,
+Cyprus Computer Society, Cyprus. (National)
+Burmester, M. (presented , July). A survey of Key distribution. Keynote presentation at 5th
+Annual Australasian Conference on Information Security and Privacy ACISP, Brisbane,
+International Association for Crypto logical research, Australia. (International)
+Burmester, M. (presented , June). Security over the Internet. Keynote presentation at 5th
+Pan hellenic Congress in Mathematical Education, Athens, Hellenic Mathematical
+Society, Greece. (National)
+Page 28
+Vita for Mike V. D. Burmester
+Invited Workshops
+Burmester, M. (, January). NSF Workshop for Sa TC EAGER Grantees. Workshop delivered
+at NSF and George Washington University, Washington, DC. (National)
+Burmester, M. (, June). RFID and Ubiquitous applications - practical security for
+constrained devices (One-day workshop course). Workshop delivered at MITACS
+Workshop on Network Security and Cryptography, Toronto, Canada. (International)
+Patented Inventions
+Burmester, M., van Le, T., de Medeiros, B., & Chatmon, C. (). Systems, methods, and
 computer program products for secure optimistic mechanisms for constrained devices.
-us 8,793,496 b2, fsu.
-burmester, m., & van le, t. ( ). method and system for generating and using digital
-fingerprints for electronic documents. us 7,817,820 b2, fsu.
-page 29
+US 8,793,496 B2, FSU.
+Burmester, M., & Van Le, T. (). Method and system for generating and using digital
+fingerprints for electronic documents. US 7,817,820 B2, FSU.
+Page 29

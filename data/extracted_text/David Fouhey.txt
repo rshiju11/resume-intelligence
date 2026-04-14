@@ -1,736 +1,735 @@
-4/21/25, am david fouhey
-david fouhey
-quick info: cv google scholar
-email: (please read about admissions or
-ra/ta/ga positions)
-physical locations: you can find me at either:
-60 fifth avenue, new york, ny 10011
-370 jay street, brooklyn, ny 11201
-name faq: `foe'-`eee'. it rhymes with snowy or joey: the key is to
-forget how it is spelled. it (but not me) is from county cork, ireland.
-photos: one picture is hard to identify a person with. here are some
+4/21/25, AM
+Quick info: CV Google Scholar
+Email: (Please read about Admissions or
+RA/TA/GA positions)
+Physical Locations: You can find me at either:
+60 Fifth Avenue, New York, NY 10011
+370 Jay Street, Brooklyn, NY 11201
+Name FAQ: `foe'-`eee'. It rhymes with snowy or Joey: the key is to
+forget how it is spelled. It (but not me) is from County Cork, Ireland.
+Photos: One picture is hard to identify a person with. Here are some
 more (but dated).
-summary: i am an assistant professor at nyu, jointly appointed between computer science in
-the courant institute of mathematical sciences and electrical and computer engineering in the
-tandon school of engineering. from to , i was an assistant professor at cse at the
-university of michigan. before that, i was a postdoctoral fellow at uc berkeley (with alyosha
-efros and jitendra malik). before that, i received a ph.d. in robotics from cmu (with abhinav
-gupta and martial hebert).
-i work on learning-based computer vision, with a particular focus on systems that reliably
-estimate physical properties and dynamics from images. this has led to three interrelated
+Summary: I am an Assistant Professor at NYU, jointly appointed between Computer Science in
+the Courant Institute of Mathematical Sciences and Electrical and Computer Engineering in the
+Tandon School of Engineering. From to , I was an Assistant Professor at CSE at the
+University of Michigan. Before that, I was a postdoctoral fellow at UC Berkeley (with Alyosha
+Efros and Jitendra Malik). Before that, I received a Ph. D. in robotics from CMU (with Abhinav
+Gupta and Martial Hebert).
+I work on learning-based computer vision, with a particular focus on systems that reliably
+estimate physical properties and dynamics from images. This has led to three interrelated
 interests:
-measurements for the sciences: an immensely promising area for computer vision is
-providing new sensors and capabilities to other disciplines. successful work here requires
-long-term partnership and collaborations. i have worked in solar physics and evolutionary
-ecology. solar missions that i've provided expertise to include sdo and muse.
-3d from pictures: for the past 15+ years, i've built systems that produce 3d from images,
+Measurements for the Sciences: An immensely promising area for computer vision is
+providing new sensors and capabilities to other disciplines. Successful work here requires
+long-term partnership and collaborations. I have worked in solar physics and evolutionary
+ecology. Solar missions that I've provided expertise to include SDO and MUSE.
+3D from Pictures: For the past 15+ years, I've built systems that produce 3D from images,
 with a focus on how to ideally use multiple images and how to best incorporate our
 knowledge of the problem.
-interaction: images depict a world of possibility in which one can act. i am interested in
+Interaction: Images depict a world of possibility in which one can act. I am interested in
 develping systems that reliably understand how humans interact with objects, including
 systems for finding hands and reconstructing them.
-students teaching publications misc.
-fun
-student collaborators
-postdoc:
-dr. jacob berv, schmidt ai in science postdoc (co-advised with brian weeks)
-current phd student collaborators:
-dandan shan, sep — present, previously ece ms student with me, rackham
-international student fellowship winner
-https://cs.nyu.edu/~fouhey/ 1/18
-4/21/25, am david fouhey
-chris rockwell, sep — present, (co-advised with justin johnson), previously cse ms
-student with me
-sarah jabbour, sep — present, (co-advised with jenna wiens)
-linyi jin, may — present, previously robotics ms student with me
-ruoyu wang, sept — present, previously undergrad (cs+physics) with me
-denis akola, july — present
-yidan gao, sept — present (co-advised with daniele panozzo)
-joseph tung, sept — present
-samuel pérez-díaz, starting january
-phd graduates:
-dr. shengyi qian, july . next position: research scientist, meta fundamental ai
-research (fair)
-dr. nilesh kulkarni, august . co-advised with justin johnson. next position: research
-scientist, netflix
-dr. richard higgins, defended january .
-i am also proud of my past student ug/ms collaborators who are off doing great things
-elsewhere! for a complete list, please see my cv.
-teaching
-nyu:
-spring : computer vision for science & engineering
-fall : selected topics in signal processing: advanced topics in computer vision
-spring : computer vision for science & engineering
-university of michigan: while i no longer teach at um, i am keeping an archived version of the
+Students Teaching Publications Misc.
+Fun
+Student Collaborators
+Postdoc:
+Dr. Jacob Berv, Schmidt AI in Science Postdoc (Co-advised with Brian Weeks)
+Current Ph D student collaborators:
+Dandan Shan, Sep — present, previously ECE MS Student with me, Rackham
+International Student Fellowship winner
+1/18
+4/21/25, AM David Fouhey
+Chris Rockwell, Sep — present, (co-advised with Justin Johnson), previously CSE MS
+Student with me
+Sarah Jabbour, Sep — present, (co-advised with Jenna Wiens)
+Linyi Jin, May — present, previously Robotics MS student with me
+Ruoyu Wang, Sept — present, previously Undergrad CS Physics with me
+Denis Akola, July — present
+Yidan Gao, Sept — present (co-advised with Daniele Panozzo)
+Joseph Tung, Sept — present
+Samuel Pérez-Díaz, Starting January
+Ph D Graduates:
+Dr. Shengyi Qian, July . Next position: Research Scientist, Meta Fundamental AI
+Research (FAIR)
+Dr. Nilesh Kulkarni, August . Co-advised with Justin Johnson. Next position: Research
+Scientist, Netflix
+Dr. Richard Higgins, defended January .
+I am also proud of my past student UG/MS collaborators who are off doing great things
+elsewhere! For a complete list, please see my CV.
+Teaching
+NYU:
+Spring : Computer Vision for Science & Engineering
+Fall : Selected Topics in Signal Processing: Advanced Topics in Computer Vision
+Spring : Computer Vision for Science & Engineering
+University of Michigan: while I no longer teach at UM, I am keeping an archived version of the
 final form of each course in case they are useful for others.
-eecs 542 (advanced topics in computer vision — i.e., let's read papers and discuss
+EECS 542 (Advanced Topics in Computer Vision — i. e., let's read papers and discuss
 where vision is heading)
-fall (53 students), fall (50 students)
-eecs 442 (computer vision — i.e., let's learn about computer vision):
-winter (280 students), winter (300 students), winter (with justin
-johnson) (329 students), fall (155 students), winter (151 students)
-eecs 598 (special topics: the ecological approach to visual perception — i.e., let's talk
+Fall (53 students), Fall (50 students)
+EECS 442 (Computer Vision — i. e., let's learn about computer vision):
+Winter (280 students), Winter (300 students), Winter (With Justin
+Johnson) (329 students), Fall (155 students), Winter (151 students)
+EECS 598 (Special Topics: The Ecological Approach to Visual Perception — i. e., let's talk
 about how embodiment and vision relate):
-winter (31 students)
-ai4all (a two-week residential program for high schoolers):
-summers , , ,
-intro to cse grad research (our first year of grad school cohort-building + grad school
+Winter (31 students)
+AI4All (a two-week residential program for high schoolers):
+Summers , , ,
+Intro to CSE Grad Research (our first year of grad school cohort-building + grad school
 skills seminar):
-fall , ,
-selected publications
-for a full publication list, please see my google scholar profile.
-https://cs.nyu.edu/~fouhey/ 2/18
-4/21/25, am david fouhey
-sarah jabbour, gregory kondas, ela
-kazerooni, michael sjoding, david
-fouhey, jenna wiens
-depict: diffusion-enabled permutation
-importance for image classification tasks
-eccv
-if you're careful about it, you can use
+Fall , ,
+Selected Publications
+For a full publication list, please see my Google Scholar Profile.
+2/18
+4/21/25, AM David Fouhey
+Sarah Jabbour, Gregory Kondas, Ela
+Kazerooni, Michael Sjoding, David
+Fouhey, Jenna Wiens
+DEPICT: Diffusion-Enabled Permutation
+Importance for Image Classification Tasks
+ECCV
+If you're careful about it, you can use
 diffusion models to let you perform classic
 permutation importance testing (as in
-random forests), but on image classifiers.
-ruoyu wang, david fouhey, richard
-higgins, spiro k. antiochos, graham
-barnes, j. todd hoeksema, k.d. leka,
-yang liu, peter w. schuck, tamas i.
-gombosi
-supersynthia: physics-ready full-disk
-vector magnetograms from hmi, hinode,
-and machine learning
-to appear in the astrophysical journal,
-we produce solar magnetograms
+Random Forests), but on image classifiers.
+Ruoyu Wang, David Fouhey, Richard
+Higgins, Spiro K. Antiochos, Graham
+Barnes, J. Todd Hoeksema, K. D. Leka,
+Yang Liu, Peter W. Schuck, Tamas I.
+Gombosi
+Super Synth IA: Physics-Ready Full-Disk
+Vector Magneto grams from HMI, Hinode,
+and Machine Learning
+To appear in the Astrophysical Journal,
+We produce solar magneto grams
 combining the best features of multiple
 instruments and producing data products
 that can be immediately used in
-downstream systems (e.g., surface flux
+downstream systems (e. g., surface flux
 transport or solar wind forecasting)
-[project page] [code] [paper]
-chris rockwell, nilesh kulkarni, linyi jin,
-jj park, justin johnson, david fouhey
-far: flexible, accurate and robust 6dof
-relative camera pose estimation
-cvpr
-[project page] [code]
-by combining deep learning with classic
+[Project Page] [Code] [Paper]
+Chris Rockwell, Nilesh Kulkarni, Linyi Jin,
+JJ Park, Justin Johnson, David Fouhey
+FAR: Flexible, Accurate and Robust 6Do F
+Relative Camera Pose Estimation
+CVPR
+[Project Page] [Code]
+By combining deep learning with classic
 geometry in the right way, you can get a
 method that's super accurate like
 geometry, but robust like learning-based
 methods
-https://cs.nyu.edu/~fouhey/ 3/18
-4/21/25, am david fouhey
-linyi jin, nilesh kulkarni, david fouhey
-3dfires: few image 3d reconstruction
-for scenes with hidden surface
-cvpr
-[project page] [arxiv (pdf)]
-you can train a model to take one or a few
+3/18
+4/21/25, AM David Fouhey
+Linyi Jin, Nilesh Kulkarni, David Fouhey
+3DFIRES: Few Image 3D REconstruction
+for Scenes with Hidden Surface
+CVPR
+[Project Page] [Arxiv (PDF)]
+You can train a model to take one or a few
 posed images as input and produce
 scenes, including hidden surfaces
-georgios pavlakos, dandan shan, ilija
-radosavovic, angjoo kanazawa, david
-fouhey, jitendra malik
-reconstructing hands in 3d with
-transformers
-cvpr
-[project page]
-scaling models + data up works really
-well for reconstructing hands in 3d
-sarah jabbour, david fouhey, stephanie
-shepard, thomas s. valley, ella a.
-kazerooni, nikola banovic, jenna wiens,
-michael w. sjoding
-measuring the impact of ai in the
-diagnosis of hospitalized patients a
-randomized clinical vignette survey
-study
-jama 330(23)
-showing explanations doesn't help
+Georgios Pavlakos, Dandan Shan, Ilija
+Ra dosa vo vic Angjoo Kanazawa, David
+Fouhey, Jitendra Malik
+Reconstructing Hands in 3D with
+Transformers
+CVPR
+[Project Page]
+Scaling models + data up works really
+well for reconstructing hands in 3D
+Sarah Jabbour, David Fouhey, Stephanie
+Shepard, Thomas S. Valley, Ella A.
+Kazerooni, Nikola Banovic, Jenna Wiens,
+Michael W. Sjoding
+Measuring the Impact of AI in the
+Diagnosis of Hospitalized Patients A
+Randomized Clinical Vignette Survey
+Study
+JAMA 330(23)
+Showing explanations doesn't help
 clinicians recover from being negatively
 influenced by systematically biased
 models.
-tianyi cheng*, dandan shan*, ayda
-sultan, richard higgins, david fouhey
-towards a richer 2d understanding of
-hands at scale
-neurips
-[project page] [code] [data]
-new dataset, tasks, and model for
+Tianyi Cheng*, Dandan Shan*, Ayda
+Sultan, Richard Higgins, David Fouhey
+Towards A Richer 2D Understanding of
+Hands at Scale
+Neur IPS
+[Project Page] [Code] [Data]
+New dataset, tasks, and model for
 understanding more complex hand
 interactions, including bimanual
 manipulation and tool use
-https://cs.nyu.edu/~fouhey/ 4/18
-4/21/25, am david fouhey
-vadim tschernezki*, ahmad darkhalil*,
-zhifan zhu*, david fouhey iro laina
-diane larlus dima damen andrea vedaldi
-epic fields marrying 3d geometry and
-video understanding
-neurips datasets & benchmarks
-[project page]
-accurate camera poses for epic kitchens
+4/18
+4/21/25, AM David Fouhey
+Vadim Ts cher nez ki Ahmad Dar khalil
+Zhifan Zhu*, David Fouhey Iro Laina
+Diane Larlus Dima Damen Andrea Vedaldi
+EPIC Fields Marrying 3D Geometry and
+Video Understanding
+Neur IPS Datasets & Benchmarks
+[Project Page]
+Accurate camera poses for EPIC Kitchens
 leads to a number of exciting new
 challenges
-shengyi qian, david fouhey
-understanding 3d object interaction from
-a single image.
-iccv
-[project page]
-we use human judgments to get a first
+Shengyi Qian, David Fouhey
+Understanding 3D Object Interaction from
+a Single Image.
+ICCV
+[Project Page]
+We use human judgments to get a first
 pass understanding of potential
-interaction in 3d from a single image
-richard higgins, david fouhey
-moves: moving objects in video enable
-segmentation
-cvpr
-[project page] disagreement with a really
+interaction in 3D from a single image
+Richard Higgins, David Fouhey
+MOVES: Moving Objects in Video Enable
+Segmentation
+CVPR
+[Project Page] Disagreement with a really
 simple background model provides
-surprisingly effective pseudolabel cues for
+surprisingly effective pseudo label cues for
 performing grouping and hand-object
 association
-nilesh kulkarni, linyi jin, justin johnson,
-david fouhey
-learning to predict scene-level implicit
-3d from posed rgbd data
-cvpr
-[project page] we can learn to predict
-implicit function-based 3d from posed
-rgbd.
-https://cs.nyu.edu/~fouhey/ 5/18
-4/21/25, am david fouhey
-linyi jin, jianming zhang, yannick hold-
-geoffroy, oliver wang, kevin matzen,
-matthew sticha, david fouhey
-perspective fields for single image
-camera calibration
-cvpr (highlight -- 2.5% accept
+Nilesh Kulkarni, Linyi Jin, Justin Johnson,
+David Fouhey
+Learning to Predict Scene-Level Implicit
+3D from Posed RGBD Data
+CVPR
+[Project Page] We can learn to predict
+implicit function-based 3D from posed
+RGBD.
+5/18
+4/21/25, AM David Fouhey
+Linyi Jin, Jianming Zhang, Yannick Hold-
+Geoffroy, Oliver Wang, Kevin Matzen,
+Matthew Sticha, David Fouhey
+Perspective Fields for Single Image
+Camera Calibration
+CVPR (Highlight -- 2.5% accept
 rate)
-[project page]
-we develop a effective representation for
+[Project Page]
+We develop a effective representation for
 camera geometry that distributes the
 parameters throughout the image,
 resulting in robustness and lots of fun
 applications
-david f. fouhey, richard e.l. higgins,
-spiro k. antiochos, graham barnes, marc
-derosa, j. todd hoeksema, k.d. leka,
-yang liu, peter w. schuck, tamas i.
-gombosi
-large-scale spatial cross-calibration of
-hinode/sot-sp and sdo/hmi
-accepted in the astrophysics journal
-supplement series
-[arxiv]
-we fix a more than decade-long issue with
+David F. Fouhey, Richard E. L. Higgins,
+Spiro K. Antiochos, Graham Barnes, Marc
+De Rosa, J. Todd Hoeksema, K. D. Leka,
+Yang Liu, Peter W. Schuck, Tamas I.
+Gombosi
+Large-Scale Spatial Cross-Calibration of
+Hinode/SOT-SP and SDO/HMI
+Accepted in The Astrophysics Journal
+Supplement Series
+[Arxiv]
+We fix a more than decade-long issue with
 pointing and pixel scale in the
-spectropolarimeter onboard hinode (which
+spec tro polar i meter onboard Hinode (which
 gets cold during eclipse season)
-ahmad darkhalil*, dandan shan*, bin
-zhu*, jian ma*, amlan kar, richard e.l.
-higgins, sanja fidler, david f. fouhey,
-dima damen.
-epic-kitchens visor benchmark: video
-segmentations and object relations
-neurips datasets and benchmarks
-[paper and reviews] [project webpage]
-[download] [trailer]
-a new large-scale dataset of segments of
+Ahmad Dar khalil Dandan Shan*, Bin
+Zhu*, Jian Ma*, Amlan Kar, Richard E. L.
+Higgins, Sanja Fidler, David F. Fouhey,
+Dima Damen.
+EPIC-KITCHENS VISOR Benchmark: VIdeo
+Segmentation s and Object Relations
+Neur IPS Datasets and Benchmarks
+[Paper and Reviews] [Project Webpage]
+[Download] [Trailer]
+A new large-scale dataset of segments of
 people engaged in interaction with
 objects, including three new challenges
 and loads of data.
-https://cs.nyu.edu/~fouhey/ 6/18
-4/21/25, am david fouhey
-chris rockwell, justin johnson, david f.
-fouhey
-the 8-point algorithm as an inductive bias
-for relative pose prediction by vits
-3dv
-[project page] [paper] [bibtex]
-small tweaks let vision transformers
+6/18
+4/21/25, AM David Fouhey
+Chris Rockwell, Justin Johnson, David F.
+Fouhey
+The 8-Point Algorithm as an Inductive Bias
+for Relative Pose Prediction by Vi Ts
+3DV
+[Project Page] [Paper] [Bibtex]
+Small tweaks let vision transformers
 imitate much of the 8-pt algorithm, which
-facilitates learning to estimate full 6d
+facilitates learning to estimate full 6D
 relative camera pose, especially in few-
 sample settings
-nilesh kulkarni, justin johnson, david f.
-fouhey
-what's behind the couch? directed ray
-distance functions for 3d scene
-reconstruction
-eccv
-[arxiv] [pdf] [project page]
-we can produce high-quality 3d
-reconstructions from a single rgb image
+Nilesh Kulkarni, Justin Johnson, David F.
+Fouhey
+What's behind the couch? Directed Ray
+Distance Functions for 3D Scene
+Reconstruction
+ECCV
+[Arxiv] [PDF] [Project Page]
+We can produce high-quality 3D
+reconstructions from a single RGB image
 via implicit function by carefully analyzing
 what we expect networks to produce
 during training.
-samir agarwala, linyi jin, chris rockwell,
-david f. fouhey
-planeformers: from sparse view planes
-to 3d reconstruction
-eccv
-[arxiv] [pdf] [project page] [bibtex]
-transformers are really good at
+Samir Agarwala, Linyi Jin, Chris Rockwell,
+David F. Fouhey
+Plane Formers: From Sparse View Planes
+to 3D Reconstruction
+ECCV
+[Arxiv] [PDF] [Project Page] [Bibtex]
+Transformers are really good at
 integrating evidence across multiple views
 and producing a planar reconstruction.
-shengyi qian, linyi jin, chris rockwell,
-siyi chen, david f. fouhey
-understanding 3d object articulation in
-internet videos
-cvpr
-[arxiv] [arxiv pdf] [bibtex]
-by training on both video data and 3d
+Shengyi Qian, Linyi Jin, Chris Rockwell,
+Siyi Chen, David F. Fouhey
+Understanding 3D Object Articulation in
+Internet Videos
+CVPR
+[Arxiv] [Arxiv PDF] [Bibtex]
+By training on both video data and 3D
 reconstructions in the right way, we can
-build models of articulations of 3d objects
+build models of articulations of 3D objects
 on ordinary video data.
-https://cs.nyu.edu/~fouhey/ 7/18
-4/21/25, am david fouhey
-brian c. weeks, zhizhuo zhou, bruce k.
-o'brien, rachel darling, morgan dean,
-tiffany dias, gemmechu hassena, mingyu
-zhang, and david f. fouhey
-a deep neural network for high
+7/18
+4/21/25, AM David Fouhey
+Brian C. Weeks, Zhizhuo Zhou, Bruce K.
+O'Brien, Rachel Darling, Morgan Dean,
+Tiffany Dias, Gemmechu Hassena, Mingyu
+Zhang, and David F. Fouhey
+A deep neural network for high
 throughput measurement of functional
 traits on museum skeletal specimens.
-accepted in methods in ecology and
-evolution.
-[paper]
-bird sizes correlate with temperature. we
+Accepted in Methods in Ecology and
+Evolution.
+[Paper]
+Bird sizes correlate with temperature. We
 reduce measurement time of museum
 specimens by ≈10x, leading to datasets at
 previously unexplored scales.
-richard e.l. higgins, david f. fouhey,
-spiro k. antiochos, graham barnes, mark
-c.m. cheung, j. todd hoeksema, k.d.
-leka, yang liu, peter w. schuck, tamas i.
-gombosi
-synthia: a synthetic inversion
-approximation for the stokes vector
-fusing sdo and hinode into a virtual
-observatory
-accepted in the astrophysics journal
-supplement series
-[arxiv] [open access] [video of
-synthia outputs from may 5 to june 24,
+Richard E. L. Higgins, David F. Fouhey,
+Spiro K. Antiochos, Graham Barnes, Mark
+C. M. Cheung, J. Todd Hoeksema, K. D.
+Leka, Yang Liu, Peter W. Schuck, Tamas I.
+Gombosi
+Synth IA: A Synthetic Inversion
+Approximation for the Stokes Vector
+Fusing SDO and Hinode into a Virtual
+Observatory
+Accepted in The Astrophysics Journal
+Supplement Series
+[Arxiv] [Open Access] [Video of
+Synth IA outputs from May 5 to June 24,
 ]
-our system produces synthetic solar
-magnetograms that combine the best
-aspects of multiple instruments. this
+Our system produces synthetic solar
+magneto grams that combine the best
+aspects of multiple instruments. This
 system formed the basis of a successful
-nasa heliophysics division tools and
-method grant to integrate the system into
-sdo/hmi's joint science center.
-dandan shan*, richard e.l. higgins*,
-david f. fouhey
-cohesiv: contrastive object and hand
-embedding segmentation in video
-neurips
-[pdf] [bibtex]
-by applying the gestalt principle of
+NASA He lio physics Division Tools and
+Method grant to integrate the system into
+SDO/HMI's Joint Science Center.
+Dandan Shan*, Richard E. L. Higgins*,
+David F. Fouhey
+COHESIV: Contrastive Object and Hand
+Embedding Segmentation In Video
+Neur IPS
+[PDF] [Bibtex]
+By applying the Gestalt principle of
 common fate at scale, we can learn how
 to segment hand-held objects with fairly
 minimal supervision.
-https://cs.nyu.edu/~fouhey/ 8/18
-4/21/25, am david fouhey
-alexander raistrick, nilesh kulkarni,
-david f. fouhey
-collision replay: what does bumping into
-things tell you about scene geometry?
-bmvc (oral)
-[pdf] [supplement (pdf)]
-[supplement video (mp4)] [bibtex]
-collisions with the world are usually seen
-as a nuisance. at scale and with a
+8/18
+4/21/25, AM David Fouhey
+Alexander Raistrick, Nilesh Kulkarni,
+David F. Fouhey
+Collision Replay: What Does Bumping Into
+Things Tell You About Scene Geometry?
+BMVC (Oral)
+[PDF] [Supplement (PDF)]
+[Supplement Video (MP4)] [Bibtex]
+Collisions with the world are usually seen
+as a nuisance. At scale and with a
 random-walk-inspired formulation, they
 can be used to learn a depth sensor
-linyi jin, shengyi qian, andrew owens,
-david f. fouhey
-planar surface reconstruction from
-sparse views
-iccv (oral)
-[arxiv] [pdf] [project page]
-we can learn to reconstruct scenes from a
+Linyi Jin, Shengyi Qian, Andrew Owens,
+David F. Fouhey
+Planar Surface Reconstruction from
+Sparse Views
+ICCV (Oral)
+[Arxiv] [PDF] [Project Page]
+We can learn to reconstruct scenes from a
 handful of views with an unknown
-relationship. humans seem to do this fine,
+relationship. Humans seem to do this fine,
 but it poses serious challenges for
 computers.
-chris rockwell, david f. fouhey, justin
-c. johnson
-pixelsynth: generating a 3d-consistent
-experience from a single image
-iccv
-[arxiv [pdf [project page] [bibtex]
-[cse news piece]
-pixelsynth fuses the complementary
-strengths of 3d reasoning and
-autoregressive modeling to create an
+Chris Rockwell, David F. Fouhey, Justin
+C. Johnson
+Pixel Synth: Generating a 3D-Consistent
+Experience from a Single Image
+ICCV
+[Arxiv [PDF [Project Page] [Bibtex]
+[CSE News Piece]
+Pixel Synth fuses the complementary
+strengths of 3D reasoning and
+auto regressive modeling to create an
 immersive experience from a single
 image.
-zhizhuo zhou, gemmechu hassena, brian
-c. weeks, david f. fouhey
-quantifying bird skeletons
-cv4animals workshop
-[pdf] [bibtex]
-we can measure bird skeleton specimens
+Zhizhuo Zhou, Gemmechu Hassena, Brian
+C. Weeks, David F. Fouhey
+Quantifying Bird Skeletons
+CV4Animals Workshop
+[PDF] [Bibtex]
+We can measure bird skeleton specimens
 extraordinarily accurately and quite fast
-with deep learning. this system can
+with deep learning. This system can
 unlock datasets of birds at unprecedented
 scales.
-https://cs.nyu.edu/~fouhey/ 9/18
-4/21/25, am david fouhey
-richard e.l. higgins, david f. fouhey,
-dichang zhang, spiro k. antiochos,
-graham barnes, j. todd hoeksema, k.d.
-leka, yang liu, peter w. schuck, tamas i.
-gombosi
-fast and accurate emulation of the
-sdo/hmi stokes inversion with
-uncertainty quantification
-the astrophysical journal (apj), volume
-911, number 2,
-[arxiv] [published pdf] [bibtex]
-[project page] [hmi nugget]
-we can emulate the magnetogram
-production pipeline of sdo/hmi, a key
-nasa mission. this system lays the
-ground-work for synthia, which produces
-best-of-both-worlds style magnetograms
-s. qian*, l. jin*, d. f. fouhey
-associative3d: volumetric reconstruction
-from sparse views
-eccv
-[arxiv] [project page] [code] [bibtex]
-we can build a voxel-based reconstruction
+9/18
+4/21/25, AM David Fouhey
+Richard E. L. Higgins, David F. Fouhey,
+Dichang Zhang, Spiro K. Antiochos,
+Graham Barnes, J. Todd Hoeksema, K. D.
+Leka, Yang Liu, Peter W. Schuck, Tamas I.
+Gombosi
+Fast and Accurate Emulation of the
+SDO/HMI Stokes Inversion with
+Uncertainty Quant if i cation
+The Astrophysical Journal (Ap J), Volume
+911, Number 2,
+[Arxiv] [Published PDF] [Bibtex]
+[Project Page] [HMI Nugget]
+We can emulate the magneto gram
+production pipeline of SDO/HMI, a key
+NASA mission. This system lays the
+ground-work for Synth IA, which produces
+best-of-both-worlds style magneto grams
+S. Qian*, L. Jin*, D. F. Fouhey
+Associative 3 D Volumetric Reconstruction
+from Sparse Views
+ECCV
+[Arxiv] [Project Page] [Code] [Bibtex]
+We can build a voxel-based reconstruction
 of images from two views, even without
 access to the relative camera positions
-c. rockwell, d. f. fouhey
-full-body awareness from partial
-observations
-eccv
-[arxiv] [project page] [bibtex] [code]
-human 3d pose estimation systems work
+C. Rockwell, D. F. Fouhey
+Full-Body Awareness from Partial
+Observations
+ECCV
+[Arxiv] [Project Page] [Bibtex] [Code]
+Human 3D pose estimation systems work
 poorly on people as they are usually
-depicted in video. a self-training method
+depicted in video. A self-training method
 works well at fixing this problem.
-s. jabbour, d.f. fouhey, e. kazerooni,
-m.w. sjoding, j. wiens
-deep learning applied to chest x-rays:
-exploiting and preventing shortcuts
-mlhc
-[pdf] [bibtex] [code]
-deep nets can easily exploit shortcuts
-(e.g., apparent bone density), but a
-https://cs.nyu.edu/~fouhey/ 10/18
-4/21/25, am david fouhey
+S. Jabbour, D. F. Fouhey, E. Kazerooni,
+M. W. Sjoding, J. Wiens
+Deep Learning Applied to Chest X-Rays:
+Exploiting and Preventing Shortcuts
+MLHC
+[PDF] [Bibtex] [Code]
+Deep nets can easily exploit shortcuts
+(e. g., apparent bone density), but a
+10/18
+4/21/25, AM David Fouhey
 simple transfer learning approach can help
 mitigate the use of shortcuts.
-d. shan, j. geng*, m. shu*, d.f. fouhey
-understanding human hands in contact at
-internet scale
-cvpr (oral)
-[pdf] [bibtex] [project page & code]
-we built a new dataset and model that
+D. Shan, J. Geng*, M. Shu*, D. F. Fouhey
+Understanding Human Hands in Contact at
+Internet Scale
+CVPR (Oral)
+[PDF] [Bibtex] [Project Page & Code]
+We built a new dataset and model that
 enables really accurate recognition of
-basic hand information. since hands are
+basic hand information. Since hands are
 key to interaction, this basic information
 unlocks tons of useful new problems.
-m. el banani, j. corso, d.f. fouhey
-novel object viewpoint estimation
-through reconstruction alignment
-cvpr
-[pdf] [supp.] [bibtex] [code and
-project page]
-we can learn to do relative pose
+M. El Banani, J. Corso, D. F. Fouhey
+Novel Object Viewpoint Estimation
+through Reconstruction Alignment
+CVPR
+[PDF] [Supp.] [Bibtex] [Code and
+Project Page]
+We can learn to do relative pose
 estimation by aligning reconstructions
-n. kulkarni, a. gupta, d.f. fouhey, s.
-tulsiani
-articulation-aware canonical surface
-mapping
-cvpr
-[arxiv] [pdf] [bibtex]
-we can build canonical surface maps for
+N. Kulkarni, A. Gupta, D. F. Fouhey, S.
+Tulsiani
+Articulation-aware Canonical Surface
+Mapping
+CVPR
+[Arxiv] [PDF] [Bibtex]
+We can build canonical surface maps for
 objects that articulate, such as elephants
 and horses
-a. szenicer*, d.f. fouhey*, a. munoz-
-jaramillo, p.j. wright, r. thomas, r.
-galvez, m. jin, m.c.m. cheung
-a deep learning virtual instrument for
-monitoring extreme uv solar spectral
-irradiance
-science advances, vol. 5, number 10,
-[open acess] [bibtex] [prediction
-video] [activations video] [overview
-video]
-we built a virtual version of the eve
-megs-a instrument that can serve as a
+A. Szenicer*, D. F. Fouhey*, A. Munoz-
+Jaramillo, P. J. Wright, R. Thomas, R.
+Galvez, M. Jin, M. C. M. Cheung
+A Deep Learning Virtual Instrument for
+Monitoring Extreme UV Solar Spectral
+Irradiance
+Science Advances, Vol. 5, Number 10,
+[Open Acess] [Bibtex] [Prediction
+Video] Activation s Video] [Overview
+Video]
+We built a virtual version of the EVE
+MEGS-A instrument that can serve as a
 replacement after its electrical short
-https://cs.nyu.edu/~fouhey/ 11/18
-4/21/25, am david fouhey
-press coverage/releases:
-(inverse.com)
-(seti institute)
-(theregister.co.uk)
-(phys.org)
-(techexplorist.com)
-(scientificamerican.com)
-(earth & space science news)
-(hpcwire.com)
-(sciencedaily.com)
-d. zhukov, j.-b. alayrac, g. cinbis, d.f.
-fouhey, i. laptev, j. sivic
-cross-task weakly-supervised learning
+11/18
+4/21/25, AM David Fouhey
+Press coverage releases
+)
+(SETI Institute)
+. uk)
+)
+)
+)
+(Earth & Space Science News)
+)
+)
+D. Zhukov, J.-B. Alayrac, G. Cinbis, D. F.
+Fouhey, I. Laptev, J. Sivic
+Cross-task weakly-supervised learning
 from instructional videos
-cvpr
-[pdf] [project page] [arxiv] [bibtex]
-by accounting for the compositional
+CVPR
+[PDF] [Project Page] [Arxiv] [Bibtex]
+By accounting for the compositional
 nature of language, we can learn better
 models from instructional videos
-r. galvez*, d.f. fouhey*, m. jin, a.
-szenicer, a. munoz-jaramillo, m.c.m.
-cheung, p.j. wright, m.g. bobra, y. liu, j.
-mason, r. thomas
-a machine learning dataset prepared
-from the nasa solar dynamics
-observatory mission
-the astrophysical journal supplement,
+R. Galvez*, D. F. Fouhey*, M. Jin, A.
+Szenicer, A. Munoz-Jaramillo, M. C. M.
+Cheung, P. J. Wright, M. G. Bobra, Y. Liu, J.
+Mason, R. Thomas
+A Machine Learning Dataset Prepared
+From the NASA Solar Dynamics
+Observatory Mission
+The Astrophysical Journal Supplement,
 242:1,
-[pdf] [arxiv] [bibtex] [movie &
-explanation] [small dataset + demo]
-we produced a machine-learning-ready
+[PDF] [Arxiv] [Bibtex] [Movie &
+Explanation] [Small dataset + demo]
+We produced a machine-learning-ready
 dataset that merges the three instruments
-aboard the nasa sdo mission
-earlier
-a. kumar, s. gupta, d. f. fouhey, s.
-levine, j. malik
-visual memory for robust path following
-neurips (oral)
-[project page] [pdf] [bibtex]
-https://cs.nyu.edu/~fouhey/ 12/18
-4/21/25, am david fouhey
-d. f. fouhey, w. kuo, a. a. efros, j.
-malik
-from lifestyle vlogs to everyday
-interactions
-cvpr
-[project page] [arxiv] [bibtex]
-s. tulsiani, s. gupta, d. f. fouhey, a. a.
-efros, j. malik
-factoring shape, pose, and layout from
-the 2d image of a 3d scene
-cvpr
-[project page] [arxiv] [bibtex]
-m. lescroart, d. f. fouhey, j. malik
-convolutional neural networks represent
+aboard the NASA SDO mission
+Earlier
+A. Kumar, S. Gupta, D. F. Fouhey, S.
+Levine, J. Malik
+Visual Memory for Robust Path Following
+Neur IPS (Oral)
+[Project Page] [PDF] [Bibtex]
+12/18
+4/21/25, AM David Fouhey
+D. F. Fouhey, W. Kuo, A. A. Efros, J.
+Malik
+From Lifestyle VLOGs to Everyday
+Interactions
+CVPR
+[Project Page] [Arxiv] [Bibtex]
+S. Tulsiani, S. Gupta, D. F. Fouhey, A. A.
+Efros, J. Malik
+Factoring Shape, Pose, and Layout from
+the 2D Image of a 3D Scene
+CVPR
+[Project Page] [Arxiv] [Bibtex]
+M. Lescroart, D. F. Fouhey, J. Malik
+Convolutional neural networks represent
 shape dimensions -- but not as accurately
 as humans
-abstract at vss
-[abstract]
-s. gupta, d.f. fouhey, s. levine, j. malik
-unifying map and landmark based
-representations for visual navigation
-arxiv
-[project page] [arxiv] [bibtex]
-d. f. fouhey, a. gupta, a. zisserman
-from images to 3d shape attributes
-tpami (pre-print on arxiv)
-the tpami version has ugly typesetting
-(full-width tables on the bottom?) that i
-was unable to change. read the arxiv
+Abstract at VSS
+[Abstract]
+S. Gupta, D. F. Fouhey, S. Levine, J. Malik
+Unifying Map and Landmark Based
+Representations for Visual Navigation
+Arxiv
+[Project Page] [Arxiv] [Bibtex]
+D. F. Fouhey, A. Gupta, A. Zisserman
+From Images to 3D Shape Attributes
+TPAMI (Pre-print on Arxiv)
+The TPAMI version has ugly typesetting
+(full-width tables on the bottom?) that I
+was unable to change. Read the Arxiv
 one.
-[arxiv] [bibtex]
-r. girdhar, d. f. fouhey, m. rodriguez,
-a. gupta
-learning a predictable and generative
-vector representation for objects
-eccv (spotlight)
-[publication (pdf)] [bibtex]
-[project page]
-d. f. fouhey
-factoring scenes into 3d structure and
-style
-doctoral dissertation
-[dissertation (pdf)] [bibtex]
-[defense slides (pdf)]
-https://cs.nyu.edu/~fouhey/ 13/18
-4/21/25, am david fouhey
-d. f. fouhey, a. gupta, a. zisserman
-3d shape attributes
-cvpr (oral - watch the
-presentation on youtube)
-[publication (pdf)] [bibtex]
-[project page] [poster (pdf)] [talk
-(pptx)] [talk (pdf)]
-r. girdhar, d. f. fouhey, k. m. kitani, a.
-gupta, m. hebert
-cutting through the clutter: task-
-relevant features for image matching
-wacv
-[publication (pdf)] [bibtex]
-d. f. fouhey, w. hussain, a. gupta, m.
-hebert
-single image 3d without a single 3d
-image
-iccv
-[publication (pdf)] [bibtex]
-[poster (pdf)] [supplemental (pdf)]
-[bonus details (pdf)]
-x. wang, d. f. fouhey, a. gupta
-designing deep networks for surface
-normal estimation
-cvpr
-[publication (pdf)] [bibtex]
-d. f. fouhey, a. gupta, and m. hebert
-unfolding an indoor origami world
-eccv (oral - watch the
-presentation on videolectures.net)
-[publication (pdf)] [bibtex]
-[project page] [extended results (pdf)]
-d. f. fouhey and c.l. zitnick
-predicting object dynamics in scenes
-cvpr
-[publication (pdf)] [bibtex]
-[poster (pdf)] [supplemental (pdf)]
-d. f. fouhey, v. delaitre, a. gupta, a.
-efros, i. laptev, and j. sivic.
-people watching: human actions as a cue
-for single view geometry.
-ijcv (extended version of eccv
+[Arxiv] [Bibtex]
+R. Girdhar, D. F. Fouhey, M. Rodriguez,
+A. Gupta
+Learning a Predictable and Generative
+Vector Representation for Objects
+ECCV (Spotlight)
+[Publication (PDF)] [Bibtex]
+[Project Page]
+D. F. Fouhey
+Factoring Scenes into 3D Structure and
+Style
+Doctoral Dissertation
+[Dissertation (PDF)] [Bibtex]
+[Defense Slides (PDF)]
+13/18
+4/21/25, AM David Fouhey
+D. F. Fouhey, A. Gupta, A. Zisserman
+3D Shape Attributes
+CVPR (Oral - Watch the
+presentation on Youtube)
+[Publication (PDF)] [Bibtex]
+[Project Page] [Poster (PDF)] [Talk
+(PPTX)] [Talk (PDF)]
+R. Girdhar, D. F. Fouhey, K. M. Kitani, A.
+Gupta, M. Hebert
+Cutting through the Clutter: Task-
+Relevant Features for Image Matching
+WACV
+[Publication (PDF)] [Bibtex]
+D. F. Fouhey, W. Hussain, A. Gupta, M.
+Hebert
+Single Image 3D Without a Single 3D
+Image
+ICCV
+[Publication (PDF)] [Bibtex]
+[Poster (PDF)] [Supplemental (PDF)]
+[Bonus Details (PDF)]
+X. Wang, D. F. Fouhey, A. Gupta
+Designing Deep Networks for Surface
+Normal Estimation
+CVPR
+[Publication (PDF)] [Bibtex]
+D. F. Fouhey, A. Gupta, and M. Hebert
+Unfolding an Indoor Origami World
+ECCV (Oral - Watch the
+presentation on )
+[Publication (PDF)] [Bibtex]
+[Project Page] [Extended Results (PDF)]
+D. F. Fouhey and C. L. Zitnick
+Predicting Object Dynamics in Scenes
+CVPR
+[Publication (PDF)] [Bibtex]
+[Poster (PDF)] [Supplemental (PDF)]
+D. F. Fouhey, V. Delaitre, A. Gupta, A.
+Efros, I. Laptev, and J. Sivic.
+People Watching: Human Actions as a Cue
+for Single View Geometry.
+IJCV (extended version of ECCV
 paper)
-https://cs.nyu.edu/~fouhey/ 14/18
-4/21/25, am david fouhey
-[preprint (pdf)] [final version (via
-springer)]
-d. f. fouhey, a. gupta, and m. hebert
-data-driven 3d primitives for single
-image understanding
-iccv
-[publication (pdf)] [bibtex]
-[project page] [poster (pdf)]
-d. f. fouhey, v. delaitre, a. gupta, a.
-efros, i. laptev, and j. sivic.
-people watching: human actions as a cue
-for single view geometry.
-eccv (oral - watch the
-presentation on videolectures.net )
-[publication (pdf)] [bibtex]
-[project page]
-v. delaitre, d. f. fouhey, i. laptev, j.
-sivic, a. gupta, and a. efros.
-scene semantics from long-term
-observation of people.
-eccv
-[publication (pdf)] [bibtex]
-[project page]
-d. f. fouhey, a. collet, m. hebert, and s.
-srinivasa
-object recognition robust to imperfect
-depth data.
-cdc4cv workshop at eccv
-[publication (pdf)] [bibtex]
-[supplemental(pdf)] [supp. video 1]
-[supp. video 2]
-m. costanza-robinson, b. estabrook, and
-d. f. fouhey
-representative elementary volume
+14/18
+4/21/25, AM David Fouhey
+[Preprint (PDF)] [Final version (via
+Springer)]
+D. F. Fouhey, A. Gupta, and M. Hebert
+Data-Driven 3D Primitives for Single
+Image Understanding
+ICCV
+[Publication (PDF)] [Bibtex]
+[Project Page] [Poster (PDF)]
+D. F. Fouhey, V. Delaitre, A. Gupta, A.
+Efros, I. Laptev, and J. Sivic.
+People Watching: Human Actions as a Cue
+for Single View Geometry.
+ECCV (Oral - Watch the
+presentation on )
+[Publication (PDF)] [Bibtex]
+[Project Page]
+V. Delaitre, D. F. Fouhey, I. Laptev, J.
+Sivic, A. Gupta, and A. Efros.
+Scene Semantics from Long-term
+Observation of People.
+ECCV
+[Publication (PDF)] [Bibtex]
+[Project Page]
+D. F. Fouhey, A. Collet, M. Hebert, and S.
+Srinivasa
+Object Recognition Robust to Imperfect
+Depth Data.
+CDC4CV Workshop at ECCV
+[Publication (PDF)] [Bibtex]
+Supplemental PDF [Supp. Video 1]
+[Supp. Video 2]
+M. Costanza-Robinson, B. Estabrook, and
+D. F. Fouhey
+Representative elementary volume
 estimation for porosity, moisture
-saturation, and air-water interfacial areas
-in unsaturated porous media: data quality
+saturation, and air-water inter facial areas
+in unsaturated porous media: Data quality
 implications
-(sorry for not posting a pre-print!)
-in water resources research, volume 47,
-[official version] [bibtex]
-https://cs.nyu.edu/~fouhey/ 15/18
-4/21/25, am david fouhey
-d. f. fouhey, d. scharstein, and a.
-briggs.
-multiple plane detection in image pairs
-using j-linkage.
-icpr
-[publication (pdf)] [bibtex]
-implementation (python and c) [code
-(zip)] [poster (pdf)]
-miscellaneous
-about joining my group: due to the volume of emails i receive and my limited time, i
+(Sorry for not posting a pre-print!)
+In Water Resources Research, Volume 47,
+[Official Version] [Bibtex]
+15/18
+4/21/25, AM David Fouhey
+D. F. Fouhey, D. S char stein and A.
+Briggs.
+Multiple plane detection in image pairs
+using J-linkage.
+ICPR
+[Publication (PDF)] [Bibtex]
+Implementation (Python and C) [Code
+(Zip)] [Poster (PDF)]
+Miscellaneous
+About Joining My Group: Due to the volume of emails I receive and my limited time, I
 unfortunately do not have time to respond to inquiries about joining my group and as a rule do
-not. i want to post information that, i hope, addresses questions you may have:
-if you are looking to become a nyu phd student: i am not taking students in the fall
-phd application season (i.e., submitting an application in december and
-starting in september ). however, there are many other researchers in ai, ml, and
-computer vision at nyu, in both the cs and ece departments.
-regardless of the year, there is no need to email me or reach out. i look at all applications
-when they come, after the application deadline, looking at the full application pool. i will
-then reach out directly as needed. emailing me in advance genuinely does not improve
-your chances of admission and emaily me has never played a factor in who i work with
-as a phd student.
-if you are a nyu student looking for research: i am not taking on direct advisees at
-this point, including for directed study / advanced research projects. if positions open up,
-i will update this website or advertise. please feel free to email any of my phd students if
-you think there is a good research fit. however, they have their own work and may not
+not. I want to post information that, I hope, addresses questions you may have:
+If you are looking to become a NYU Ph D student: I am not taking students in the Fall
+Ph D application season (i. e., submitting an application in December and
+starting in September ). However, there are many other researchers in AI, ML, and
+computer vision at NYU, in both the CS and ECE departments.
+Regardless of the year, there is no need to email me or reach out. I look at all applications
+when they come, after the application deadline, looking at the full application pool. I will
+then reach out directly as needed. Emailing me in advance genuinely does not improve
+your chances of admission and emaily me has never played a factor in who I work with
+as a Ph D student.
+If you are a NYU student looking for research: I am not taking on direct advisees at
+this point, including for directed study / advanced research projects. If positions open up,
+I will update this website or advertise. Please feel free to email any of my Ph D students if
+you think there is a good research fit. However, they have their own work and may not
 have capacity.
-if you are a um student: i am not taking new students at um.
-otherwise: at the moment, i am not generally looking for postdocs, visitors, or new
-collaborators except via people i already have an existing connection with.
-writing (arranged in chronological order):
-my ph.d. dissertation, factoring scenes into 3d structure and style (dissertation and
-defense slides)
-a note on some practical considerations when evaluating surface normals
-my a.b. thesis, multi-model estimation in the presence of outliers (thesis and poster and
-presentation)
-miscellaneous
-cmu ri thesis template (zip) based off of a cmu ri tech report template from daniel
-morris.
-https://cs.nyu.edu/~fouhey/ 16/18
-4/21/25, am david fouhey
-joke papers
-sometimes when i feel a creative itch, the end result is a joke publication (which despite the
-name often have a serious point to make). these are all done with the one and only daniel
-maturana.
-keras4kindergartners.com: check out our secret backup plan for if research doesn't
+If you are a UM student: I am not taking new students at UM.
+Otherwise: at the moment, I am not generally looking for postdocs, visitors, or new
+collaborators except via people I already have an existing connection with.
+Writing (arranged in chronological order):
+My Ph. D. dissertation, Factoring Scenes into 3D Structure and Style (Dissertation and
+Defense Slides)
+A note on some practical considerations when evaluating surface normals
+My A. B. thesis, Multi-Model Estimation in the Presence of Outliers (Thesis and Poster and
+Presentation)
+Miscellaneous
+CMU RI Thesis Template (zip) based off of a CMU RI tech report template from Daniel
+Morris.
+16/18
+4/21/25, AM David Fouhey
+Joke Papers
+Sometimes when I feel a creative itch, the end result is a joke publication (which despite the
+name often have a serious point to make). These are all done with the one and only Daniel
+Maturana.
+: Check out our secret backup plan for if research doesn't
 work out.
-deep excel: everybody knows that deep learning brings about synergy and so does
-excel, so daniel maturana and i released excelnet, a break-through technology that
-merges the power of deep learning with excel.
-the spreadsheet the whitepaper the pitch slides protips (actually quite helpful)
-visual rank estimation: visually identifying rank with daniel maturana proves that
-linear algebra can be replaced with machine learning. it also shows that if you are a cnn,
-the much-hated jet colormap is actually the best colormap. winner of the ``most
-frighteningly like real research'' award at sigbovik .
-cat basis purrsuit: i've been told that this is the highlight of my research career and it
-can only go downhill from here: cat basis pursuit
-celebrity learning: you may also know my award-winning work with daniel maturana
-on celebrity-themed learning, making money at home from hilbert's nulstellensatz, and
-more from oneweirdkerneltrick.com
-kardashian kernel: the original, rarely imitated, never duplicated. originator of the
-alphabetically-related-work section: the kardashian kernel
-fun & games
-the lacroix flavors, ranked: uh, yeah
-visualizing aurocs: i could never figure out what an auroc of 60% actually means.
-so i made a fun visualization to play with. play with it here.
-venus transit poster: i wanted a poster of the transit of venus, and didn't like what i
-could find. so i made one myself with the original jsoc sdo/aia data. here: highish-res
-(5k) higher-res (8k) padded to 30"x40"
-paris 20/20: the only way to see paris is to walk through all 20 arrondissements in a
-single journey by foot. co-conspirators (so far!): mathieu aubry andrew owens.
-possible variants: here another the originally planned one (and 20 miles too).
-warning: deep nets! as mentioned in the new yorker! you too can have a warning sign
+Deep Excel: Everybody knows that deep learning brings about synergy and so does
+Excel, so Daniel Maturana and I released Excel Net, a break-through technology that
+merges the power of Deep Learning with Excel.
+The spreadsheet The whitepaper The pitch slides Protips (actually quite helpful)
+Visual Rank Estimation: Visually Identifying Rank with Daniel Maturana proves that
+linear algebra can be replaced with machine learning. It also shows that if you are a CNN,
+the much-hated jet colormap is actually the best colormap. Winner of the ``Most
+Frighteningly Like Real Research'' award at SIGBOVIK .
+Cat Basis Purrsuit: I've been told that this is the highlight of my research career and it
+can only go downhill from here: Cat Basis Pursuit
+Celebrity Learning: You may also know my award-winning work with Daniel Maturana
+on celebrity-themed learning, making money at home from Hilbert's Nul st ellens atz and
+more from
+Kardashian Kernel: The original, rarely imitated, never duplicated. Originator of the
+alphabetically-related-work section: The Kardashian Kernel
+Fun & Games
+The La Croix Flavors, Ranked: Uh, yeah
+Visualizing AUROCs: I could never figure out what an AUROC of 60% actually means.
+So I made a fun visualization to play with. Play with it here.
+Venus Transit Poster: I wanted a poster of the transit of venus, and didn't like what I
+could find. So I made one myself with the original JSOC SDO/AIA data. Here: Highish-res
+(5k) Higher-res (8k) Padded to 30"x40"
+Paris 20/20: The only way to see Paris is to walk through all 20 arrondissements in a
+single journey by foot. Co-conspirators (so far!): Mathieu Aubry Andrew Owens.
+Possible variants: here another the originally planned one (and 20 miles too).
+Warning: Deep Nets! As mentioned in the New Yorker! You too can have a warning sign
 for your door.
-free parking in berkeley: parking people hate him. find out how to park on berkeley's
+Free parking in Berkeley: Parking people hate him. Find out how to park on Berkeley's
 campus for free with this 1 weird trick.
-caffe64: dependency-free deep learning in < 12kb via the magic of assembly. clone and
+Caffe64: dependency-free deep learning in < 12KB via the magic of assembly. Clone and
 star it here
-miniml: everybody these days has a deep learning toolkit that takes forever to download,
-has tons of dependencies, and produces inscrutable models. in the spirit of simplicity and
-transparency, i wrote a new package that's only 2172 bytes when compiled, has zero
-dependencies (not even the c standard library -- that's total bloat), and fits a hidden-
-layer-free network aka logistic regression. meet miniml here: miniml .
-revisiting monet in light of that other painter of light: monet is so booooring and
-tranquil. click here to see him spiced up to look like thomas kinkade
-academic ancestry and erdös number: see where i fit in!
-#1 messiest desk: my desk was voted #1 messiest desk in the second floor of smith
-hall at carnegie mellon during the ri's open house for . if a cluttered desk is an
+miniml: Everybody these days has a deep learning toolkit that takes forever to download,
+has tons of dependencies, and produces inscrutable models. In the spirit of simplicity and
+transparency, I wrote a new package that's only 2172 bytes when compiled, has zero
+dependencies (not even the C standard library -- that's total bloat), and fits a hidden-
+layer-free network aka logistic regression. Meet miniml here: miniml .
+Revisiting Monet in Light of that Other Painter of light: Monet is so booooring and
+tranquil. Click here to see him spiced up to look like Thomas Kinkade
+Academic Ancestry and Erdös Number: See where I fit in!
+#1 Messiest Desk: My desk was voted #1 messiest desk in the second floor of Smith
+Hall at Carnegie Mellon during the RI's open house for . If a cluttered desk is an
 indication of a cluttered mind, then what does an empty desk indicate?
-https://cs.nyu.edu/~fouhey/ 17/18
-4/21/25, am david fouhey
-award-winning optimization sheet: i wrote an award-winning one page cheat-sheet
-for convex optimization at cmu (10-725). be sure to check the watermark!
-https://cs.nyu.edu/~fouhey/ 18/18
+17/18
+4/21/25, AM David Fouhey
+Award-Winning Optimization Sheet: I wrote an award-winning one page cheat-sheet
+for Convex Optimization at CMU (10-725). Be sure to check the watermark!
+18/18

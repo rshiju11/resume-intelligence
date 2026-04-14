@@ -1,985 +1,979 @@
-tanyay.berger-wolf
-translationaldataanalyticsinstitute
-theohiostateuniversity
-1760neilave,columbus,oh43210
-tdai.osu.edu
-computational ecologist, creating ai and data-driven computational approaches for biodiversity and conservation,
-fromscientificinsighttodeployedsolutions(wildme). livingattheuniqueintersectionofcomputerscience,wildlife
-biology, and social sciences, founding new fields of science (imageomics). working with many teams of brilliant
-peoplewhodocool,amazing,andimpactfulthings.
-educationandprofessionalpreparation:
-- centerfordiscretemathematicsandtheoreticalcomputerscience(dimacs)
-nsfpostdoctoralfellow
-computationalepidemiologyandpopulationbiology
-advisors: simona.levin(princeton)ands.(muthu)muthukrishnan(rutgers)
-- universityofnewmexico
-nsfpostdoctoralfellow
-computationalmethodsforcontrolledbreedingprogramsandphylogenyreconstruction
-advisors: bernardm.e.moret,davida.bader
-- universityofillinois,urbana-champaign
-ph.d.incomputerscience,may2002
-thesis: multichannelcommunicationandgraphvertexlabeling
-advisor: edwardm.reingold
-- hebrewuniversity,jerusalem,israel
-b.sc.,computerscienceandmathematics(doublemajor),july1995
-employmentandpositionsheld(last20years):
-– ex-officiomember,usnationalcommitteefortheinternationalunionofbiologicalsciences(iubs)
-– scientificadvisoryboardmember,thenatureconservancy
-– scientificadvisor,conservationxlabs
-– member,lifesciencesboard,nationalacademiesofsciences,engineering,andmedicine
-– professor,departmentofcomputerscienceandengineering,theohiostateuniversity
-electricalandcomputerengineering,theohiostateuniversity
-evolution,ecologyandorganismalbiology,theohiostateuniversity
-facultydirector,translationaldataanalyticsinstitute,theohiostateuniversity
-- presidentandboardofdirectorsmember,wepo.io
-– foundingmember,projectlead,wildbook.org
-- boardofdirectorsmember,wildme(non-profit)
-- professor,departmentofcomputerscience,universityofillinois,chicago
-adjunctprofessor,departmentofbioengineering,universityofillinois,chicago
-, researcher
-microsoftresearch
-- associateprofessor,departmentofcomputerscience,universityofillinois,chicago
-adjunctassociateprofessor,departmentofbioengineering,universityofillinois,chicago
-- assistantprofessor,departmentofcomputerscience,universityofillinois,chicago
-adjunctassistantprofessor,departmentofbioengineering,universityofillinois,chicago
-awardsandhonors:
-acm-wservicebadge
-ieeeseniormember
-– memberoftheadvisorycouncil,fathomnet
-– member of the international scientific advisory board, artificial intelligence for science, science for
-artificialintelligence(aissai)centre,cnrs
-– invitedspecialist,globalpartnershiponai(gpai),aionbiodiversityworkinggroup
-invitedsubjectmatterexpert,uschamberofcommercepanelonaiethics
-– selectedpartnernon-profit,aiforearthinitiative,microsoft
-– subjectmattereditor: ecosphere(emergenttechnologies)
-universityofillinoisscholar
-uicdistinguishedresearcheraward
-associationforwomeninsciencechicagoinnovatoraward
-uicgraduatementoringaward
-uicmentoroftheyearaward
-uiccoefacultyresearchaward
-- nsffacultyearlycareeraward
-publications:
-journals
+Tanya Y. Berger-Wolf
+The Ohio State University
+1760Neil Ave, Columbus, OH43210
+Computational ecologist, creating AI and data-driven computational approaches for biodiversity and conservation,
+from scientific insight to deployed solutions Wild Me). Living at the unique intersection of computer science wildlife
+biology, and social sciences, founding new fields of science (imageomics). Working with many teams of brilliant
+people who do cool amazing, andimpactfulthings.
+Education and Professional Preparation:
+- Centerfor Discrete Mathematics and Theoretical Computer Science D IMACS
+NSF Postdoctoral Fellow
+Computational epidemiology and population biology
+Advisors: Simon A. Levin Princeton and S.(Muthu)Muthukrishnan(Rutgers)
+- University of New Mexico
+NSF Postdoctoral Fellow
+Computational methods for controlled breeding programs and phylogeny reconstruction
+Advisors: Bernard M. E. Moret, David A. Bader
+- University of Illinois, Urbana-Champaign
+Ph. D. in Computer Science, May2002
+Thesis: Multichannel Communication and Graph Vertex Labeling
+Advisor: Edward M. Reingold
+- Hebrew University, Jerusalem, Israel
+B. Sc., Computer Scienceand Mathematics double major July1995
+Employment and Positions Held last 20 years
+– Ex-officio Member, USNational Committee for the International Unionof Biological Sciences I UB S
+– Scientific Advisory Board Member, The Nature Conservancy
+– Scientific Advisor, Conservation XLabs
+– Member, Life Sciences Board, National Academies of Sciences, Engineering, and Medicine
+– Professor, Department of Computer Scienceand Engineering, The Ohio State University
+Electrical and Computer Engineering, The Ohio State University
+Evolution, Ecologyand Organismal Biology, The Ohio State University
+Faculty Director, Translational Data Analytics Institute, The Ohio State University
+-
+–
+- Boardof Directors Member, Wild Me(non-profit)
+- Professor, Department of Computer Science, University of Illinois, Chicago
+Adjunct Professor, Department of Bioengineering, University of Illinois, Chicago
+, Researcher
+Microsoft Research
+- Associate Professor, Department of Computer Science, University of Illinois, Chicago
+Adjunct Associate Professor, Department of Bioengineering, University of Illinois, Chicago
+- Assistant Professor, Department of Computer Science, University of Illinois, Chicago
+Adjunct Assistant Professor, Department of Bioengineering, University of Illinois, Chicago
+Awardsand Honors:
+ACM-WService Badge
+IEEESenior Member
+– Member of the Advisory Council, Fathom Net
+– Member of the International Scientific Advisory Board, Artificial Intelligence for Science, Science for
+Artificial Intelligence A IS SAI Centre CNRS
+– Invited specialist Global Partnership on AI(GPAI), AIon Biodiversity working group
+Invited subject matter expert US Chamber of Commerce panel on AIEthics
+– Selectedpartnernon-profit, AIfor Earth initiative Microsoft
+– Subject matter editor Eco sphere emergent technologies
+University of Illinois Scholar
+UIC Distinguished Researcher Award
+Association for Womenin Science Chicago Innovator Award
+UIC Graduate Mentoring Award
+UIC Mentor of the Year Award
+UICCo EFaculty Research Award
+- NSFFaculty Early CAREER Award
+Publications:
+Journals
 .
-[1] martin wikelski, michael quetting, john bates, tanya berger-wolf, gil bohrer, luca bo¨rger, taylor chapple,
-margaret c crofoot, sarah c davidson, dina kn dechmann, diego ellis-soto, elizabeth r ellwood, wolf-
-gang fiedler, andrea flack, barbara fruth, novella franconi, rasmus worsøe havmøller, julian hirt, nigel
-e hussey, fabiola iannarilli, matthias landwehr, maximilian e mu¨ller, thomas mueller, uschi mueller, ruth y
-oliver, jesko partecke, ivan pokrovsky, liyapokrovskaya, dustinr rubenstein, christianrutz, kamransafi,
-andreasantangeli,olouisvanschalkwyk,anammsequeira,sherubsherub,tharmalingamramesh,pauli
-viljoen,kajaawasik,timmawild,scottyanco,rolandkays,“introducingauniqueanimalidanddigitallife
-history museum for wildlife metadata”. methods in ecology and evolution, 15, 1777–1788, september ,
-https://doi.org/10.1111/ -210x.14407
-[2] robert l. fischman, j. b. ruhl, brenna r. forester, tanya m. lama, marty kardos, grethel aguilar rojas,
-nicholas a. robinson, patrick d. shirey, gary a. lamberti, amy w. ando, stephen palumbi, michael wara,
-markw.schwartz,matthewa.williamson,tanyaberger-wolf,sarabeery,davidrolnick,justinkitzes,david
-thau, devis tuia, daniel rubenstein, caleb r. hickman, julie thorstenson, gregory e. kaebnick, james p.
-collins, athmeya jayaram, thomas deleuil, and ying zhao. “a landmark environmental law looks ahead.”
-science,382,1348–1355,december2023. doi:10.1126/science.adn3245
-[3] a.asudeh,t.y.berger-wolf,b.dasgupta,a.sidiropoulos. “maximizingcoveragewhileensuringfairness: a
-taleofconflictingobjectives”. algorithmica,85,1287–1331( ). https://doi.org/10.1007/s -
+[1] Martin Wikelski, Michael Quetting, John Bates, Tanya Berger-Wolf, Gil Bohrer, Luca Bo¨rger, Taylor Chapple,
+Margaret C Crofoot, Sarah C Davidson, Dina KN Dechmann, Diego Ellis-Soto, Elizabeth R Ellwood, Wolf-
+gang Fiedler, Andrea Flack, Barbara Fruth, Novella Franconi, Rasmus Worsøe Havmøller, Julian Hirt, Nigel
+E Hussey, Fabiola Ian nari lli Matthias Landwehr, Maximilian E Mu¨ller, Thomas Mueller, Uschi Mueller, Ruth Y
+Oliver, Jesko Partecke, Ivan Pokrovsky, Liya Pok ro vs kaya Dustin R Ruben stein Christian Rutz, Kamran Safi,
+Andrea Sant angeli OLouisvan Schalkwyk, Ana MM Se que ira Sherub Sherub, Th arma lingam Ramesh, Pauli
+Viljoen, Kaja AWasik, Timm AWild, Scott Yanco, Roland Kays Introducing a unique animal ID and digital life
+history museum for wildlife metadata”. Methods in Ecology and Evolution, 15, 1777–1788, September ,
+[2] Robert L. Fischman, J. B. Ruhl, Brenna R. Forester, Tanya M. Lama, Marty Kardos, Grethel Aguilar Rojas,
+Nicholas A. Robinson, Patrick D. Shirey, Gary A. Lamberti, Amy W. Ando, Stephen Palumbi, Michael Wara,
+Mark W. Schwartz, Matthew A. Williamson, Tanya Berger-Wolf, Sara Beery, David Rolnick, Justin Kitzes, David
+Thau, Devis Tuia, Daniel Ruben stein Caleb R. Hickman, Julie Thor sten son Gregory E. Kaebnick, James P.
+Collins, Athmeya Jayaram, Thomas Deleuil, and Ying Zhao. “A landmark environmental law looks ahead.”
+Science 382 1348 1355 December2023. DOI:10.1126/science. adn3245
+[3] A. Asudeh, T. Y. Berger-Wolf, B. Das Gupta, A. Sidiropoulos. Maximizing coverage while ensuring fairness a
+taleofconflictingobjectives”. Algorithmica,85,1287–1331().
 1
-[4] naik, a. g., kenyon, r. v., taheri, a., berger-wolf, t. y., ibrahim, b. a., shinagawa, y., llano, d. a. “v-
-neurostack: open-source 3d time stack software for identifying patterns in neuronal data”. journal of neu-
-roscienceresearch,00,1–15,october2022. https://doi.org/10.1002/jnr.25139
-[5] r. harel., s. alavi, a. ashbury, j. aurisano, t.y. berger-wolf, g. davis, b. t. hirsch, u. kalbitzer, r. kays, k.
-mclean,c.nunez,a.vining,r.w.havmøller,z. walton,m.c.crofoot. “lifein2.5d:animalmovementinthe
-trees”. frontiersinecologyandevolution( ),volume10. https://doi.org/10.3389/fevo. .801850
-[6] d. blount, s. gero, j. van oast, j. parham, c. kingen, b. scheiner, t. stere, m. fisher, g. minton, c.
-khan, v. dulau, j. thompson, o. moskvyak, t.y. berger-wolf, c. v. stewart, j. holmberg, j. j. leven-
-son. “flukebook: an open-source ai platform for cetacean photo identification”. mammalian biology ( ),
-https://doi.org/10.1007/s
-[7] d.tuia,b.kellenberger,s.beery,b.costelloe,s.zuffi,b.risse,a.mathis,m.mathis,f.vanlangevelde,t.
-burghardt, r. kays, h. klinck, m. wikelski, i. couzin, g. van horn, m. crofoot, c. stewart, and t. y. berger-
-wolf,“perspectivesinmachinelearningforwildlifeconservation”. naturecommunications,13(1),1–15,febru-
-ary . https://doi.org/10.1038/s -y. (top 25 life and biological sciences articles of
+[4] Naik, A. G., Kenyon, R. V., Taheri, A., Berger-Wolf, T. Y., Ibrahim, B. A., Shinagawa, Y., Llano, D. A. “V-
+Neuro Stack: open-source 3D Time Stack software for Identifying Patterns in Neuronal Data”. Journal of Neu-
+roscience Research 00 1 15 October2022.
+[5] R. Harel., S. Alavi, A. Ashbury, J. Aurisano, T. Y. Berger-Wolf, G. Davis, B. T. Hirsch, U. kalbitzer, R. Kays, K.
+Mclean, C. Nunez, A. Vining, R. W. Havmøller, z. walton, M. C. Crofoot. “Lifein2.5D:Animalmovementinthe
+trees”. Frontiers in Ecologyand Evolution(), volume10.
+[6] D. Blount, S. Gero, J. Van Oast, J. Parham, C. Kingen, B. Scheiner, T. Stere, M. Fisher, G. Minton, C.
+Khan, V. Dulau, J. Thompson, O. Moskvyak, T. Y. Berger-Wolf, C. V. Stewart, J. Holmberg, J. J. Leven-
+son. Fluke book an open-source AI platform for cetacean photo identification”. Mammalian Biology (),
+[7] D. Tuia, B. Kellenberger, S. Beery, B. Costelloe, S. Zuffi, B. Risse, A. Mathis, M. Mathis, F. Van Lange vel de T.
+Burghardt, R. Kays, H. Klinck, M. Wikelski, I. Couzin, G. van Horn, M. Crofoot, C. Stewart, and T. Y. Berger-
+Wolf,“Perspectivesinmachinelearningforwildlifeconservation”. Nature Communications 13 1 1 15 Febru-
+ary . (Top 25 Life and Biological Sciences Articles of
 )
-[8] t.ginossar,i.j.cruickshank,e.zheleva,j.sulskis,t.y.berger-wolf,“cross-platformspread: vaccine-related
-content,sources,andconspiracytheoriesinyoutubevideossharedinearlytwittercovid-19conversations”.
-humanvaccines&immunotherapeutics,januray2022,1–13. doi: 10.1080/21645515. .2003647.
-[9] i. crushchank, t. ginossar, e. zheleva, j. sulskis, t. y. berger-wolf,“content and dynamics of websites
-shared over vaccine-related tweets in covid-19 conversations: a computational analysis”. journal of
-medicalinternetresearch,23(12),e29127. doi: 10.2196/29127
-[10] c.amornbunchornvej,e.zheleva,andt.y.berger-wolf. “variable-laggrangercausalityandtransferentropy
-fortimeseriesanalysis”. acmtrans. knowl. discov. data15(4),article67,may2021,30pages.
-[11] d. a. llano, c. ma, u. di fabrizio, a. taheri, k. a. stebbings, g. yudintsev, g. xiao, r. v. kenyon, t. y.
-berger-wolf,“anoveldynamicnetworkimaginganalysismethodrevealsaging-relatedfragmentationofcorti-
-calnetworksinmouse”networkneuroscience,5(2),569–590,march2021.
-[12] j. leoni, m. tanelli, s. c. strada and t. y. berger-wolf, “ethogram-based automatic wild animal monitoring
-throughinertialsensorsandgpsdata”. ecologicalinformatics,59,september2020,101112.
-[13] j. w. brown, a. taheri, r. v. kenyon, t. y. berger-wolf, d. a. llano. “signal propagation via open-loop
-intrathalamicarchitectures: acomputationalmodel”. eneuro,7(1),eneuro.0441-19. .
-https://doi.org/10.1523/eneuro.0441-19.
-[14] c. amornbunchornvejandt.y.berger-wolf. “frameworkforinferringfollowingstrategiesfromtimeseries
-ofmovementdata”,acmtransactionsonknowledgediscoveryfromdata(tkdd).14(3),may2020,1–22.
-[15] c. amornbunchornvejandt.y.berger-wolf. “miningandmodelingcomplexleadership-followershipdynam-
-icsofmovementdata”,socialnetworkanalysisandmining. 9,article58,october2019. doi:10.1007/s13278-
+[8] T. Ginossar, I. J. Cruickshank, E. Zheleva, J. Sulskis, T. Y. Berger-Wolf,“Cross-platformspread: vaccine-related
+content, sources, and conspiracy theories in You Tube videos shared in early Twitter COVID-19conversations”.
+Human Vaccines Immuno therapeutics Januray2022,1–13. doi: 10.1080/21645515..2003647.
+[9] I. Crush c hank T. Ginossar, E. Zheleva, J. Sulskis, T. Y. Berger-Wolf,“Content and Dynamics of Websites
+Shared over Vaccine-Related Tweets in COVID-19 Conversations: A Computational Analysis”. Journal of
+Medical Internet Research 23 12 e29127. doi: 10.2196/29127
+[10] C. A morn bunch or n ve j E. Zheleva, and T. Y. Berger-Wolf. “Variable-lag Granger Causality and Transfer Entropy
+for Time Series Analysis”. ACMTrans. Knowl. Discov. Data15(4), Article67, May2021,30pages.
+[11] D. A. Llano, C. Ma, U. Di Fabrizio, A. Taheri, K. A. Stebbings, G. Yudintsev, G. Xiao, R. V. Kenyon, T. Y.
+Berger-Wolf,“Anoveldynamicnetworkimaginganalysismethodrevealsaging-relatedfragmentationofcorti-
+cal networks in mouse Network Neuroscience 5 2 569 590 March2021.
+[12] J. Leoni, M. Tanelli, S. C. Strada and T. Y. Berger-Wolf, “Ethogram-based automatic wild animal monitoring
+through inertial sensors and GPSdata”. Ecological Informatics 59 September2020,101112.
+[13] J. W. Brown, A. Taheri, R. V. Kenyon, T. Y. Berger-Wolf, D. A. Llano. “Signal Propagation via Open-Loop
+Intra thalami c Architectures: A Computational Model”. e Neuro 7 1 ENEURO.0441-19..
+[14] C. A morn bunch or n ve j and T. Y. Berger-Wolf. Framework for Inferring Following Strategies from Time Series
+of Movement Data”, ACM Transactions on Knowledge Discovery from Data(TKDD).14(3), May2020,1–22.
+[15] C. A morn bunch or n ve j and T. Y. Berger-Wolf. “Miningand Modeling Complex Leadership-Followership Dynam-
+icsof Movement data Social Network Analysis and Mining. 9, Article58, October2019. doi:10.1007/s13278-
 019-0600-z
-[16] a. taheri, k. gimpel, t. y. berger-wolf, “sequence-to-sequence modeling for graph representation learn-
-ing”,appliednetworkscience4,article68,august2019. doi:10.1007/s .
-[17] c. amornbunchornvej,i.brugere,a.strandburg-peshkin,d.r.farine,m. c.crofoot,andt.y.berger-wolf.
-“coordinationeventdetectionandinitiatoridentificationintimeseriesdata.”acmtrans. knowl. discov. data
-12,5,article53(june2018),33pages. (invitedpaper)
-[18] i. brugere, b. j. gallagher, t. y. berger-wolf, “network structure inference, a survey: motivations, methods,
-andapplications”. acmcomputingsurveys. 51(2),article24(april2018),39pages.
-[19] d.r.farine,a.strandburg-peshkin,i.d.couzin,t.y.berger-wolf,m.c.crofoot,“individualvariationinlocal
-interaction rules can explain emergent patterns of spatial organisation in wild baboons”. proceedings of the
-royalsocietyb284: 20162243,april2017.
-[20] d. r. farine, a. strandburg-peshkin, t. y. berger-wolf, b. ziebart, i. brugere, j. li, m. c. crofoot, “both
-nearest neighbors and long-term affiliates predict individual locations during collective movement in wild
-baboons”,naturescientificreports,6(27704),june2016.
-[21] m. maggioni, t. y. berger-wolf, “optimization techniques for sparse matrix-vector multiplication on gpus”,
-journalofparallelanddistributedcomputing,volumes93–94,july2016,pages66–86.
-[22] c. ma, r. kenyon, a. forbes, t. y. berger-wolf, d. llano, “swordplots: exploring neuron behavior within
-dynamiccommunitiesofbrainnetworks”,journalofimagingscienceandtechnology. 60(1),january2016,
-10405– ). recipientofis&t’s2017charlese.ives/journalaward
-[23] d.i.rubenstein,s.r.sundaresan,i.r.fischhoff,c.tantipathananandh,t.y.berger-wolf,“similarbutdif-
-ferent: dynamicsocialnetworkanalysishighlightsfundamentaldifferencesbetweenthefission-fusionsoci-
-etiesoftwoequidspecies,theonagerandgrevy’szebra”. plosone10(10): e0138645. doi: 10.1371/jour-
-nal.pone.0138645
-[24] c.-a.chou,z.liang,w.chaovalitwongse,t.y.berger-wolf,b.dasgupta,s.sheikh,m.ashley,i.caballero,
-“column generation framework of nonlinear similarity model for reconstructing sibling groups”. informs
-journaloncomputing. 27(1),september2014,35–47.
-[25] a.s.maiyaandt.y.berger-wolf,“expansionanddecentralizedsearchincomplexnetworks.”knowledgeand
-informationsystems( ): 468–490. firstpublishedonlinejanuary2013,doi: 10.1007/s .
-[26] c.-a. chou, w. a. chaovalitwongse, t. y. berger-wolf, b. dasgupta, m. v. ashley, “capacitated clustering
-problem in computational biology: combinatorial and statistical approach for sibling reconstruction”, com-
-putersandoperationsresearch,39(3),march2012,609–619.
-[27] f.saeed,a.perez-rathke,j.gwarnicki,t.y.berger-wolf,a.khokhar,“highperformancemultiplesequence
-alignmentsystemforpyrosequencingreadsfrommultiplereferencegenomes”,journalofparallelanddis-
-tributedcomputing,72(1),january2012,83–93.
-[28] m. c. crofoot, d. i. rubenstein, a. s. maiya, t. y. berger-wolf, “aggression, grooming and group-level co-
-operation in white-faced capuchins (cebus capucinus): insights from social networks”, american journal of
-primatology,73(8),821–833,august2011.
-[29] a.anand,j.anderson,t.y.berger-wolf,“predictingorientationselectivityinprimaryvisualcortex”,journal
-ofvisionaugust2,2010vol. 10no. 7article936.
-[30] s. i. sheikh, t. y. berger-wolf, a. khokhar, i. c. caballero, m. v. ashley, w. chaovalitwongse, c.-a. chou,
-b.dasgupta,“combinatorialreconstructionofhalf-siblinggroupsfrommicrosatellitedata”,journalofbioin-
-formaticsandcomputationalbiology: selectedpapersfromcsb2009,8(2),apr2010,337–56.
-[31] m.v.ashley,t.y.berger-wolf,w.chaovalitwongse,b.dasgupta,a.khokhar,s.i.sheikh,“animplicitcover
-probleminwildpopulationstudy”,discretemathematics,algorithmsandapplications,2(1): 21-32, .
-[32] habiba,t.y.berger-wolf,y.yu,j.saia,“findingspreadblockersindynamicnetworks”,advancesinsocial
-networkminingandanalysis,lecturenotesincomputerscience,5498,55–76,springer, .
-[33] m. lahiri, t. y. berger-wolf, “mining periodic behavior in dynamic social networks”, journal of knowledge
-andinformationsystems24(3): 467–498, .
-[34] w. chaovalitwongse, c.-a. chou, t. y. berger-wolf, b. dasgupta, s. i. sheikh, m. v. ashley, i. c. ca-
-ballero,“new optimization model and algorithm for sibling reconstruction from genetic markers”, informs
-journalofcomputing,22(2): 179–193, .
-[35] m.v.ashley,t.y.berger-wolf,p.berman,w.chaovalitwongse,b.dasgupta,m.-y. kao,“onapproximating
-fourcoveringandpackingproblems”,journalofcomputerandsystemsciences,75(5),287–302,
-[36] m.v.ashley,i.c.caballero,w.chaovalitwongse,b.dasgupta,p.govindan,s.i.sheikh,t.y.berger-wolf,
-“kinalyzer, a computer program for reconstructing sibling groups”, molecular ecology resources, 9 (4),
-july2009,1127–1131.
-[37] t.y.berger-wolf,s.i.sheikh,b.dasgupta,m.v.ashley,i.c.caballero,w.chaovalitwongse,s.l.putrevu,
-“reconstructingsiblingrelationshipsinwildpopulations”,bioinformatics,23(13),i49–i56.
-[38] t.y.berger-wolf,c.moore,andj.saia,“acomputationalapproachtoanimalbreeding”journaloftheoretical
-biology,244(3),feb2007,433–439.
-[39] w. chaovalitwongse, t. y. berger-wolf, b. dasgupta, and m. v. ashley. “set covering approach for recon-
-struction of sibling relationships”, optimization methods and software (special issue on systems analysis,
-optimizationanddatamininginbiomedicine),22(1),feb2007,11–24
-[40] t. y. berger-wolf, w. e. hart, and j. saia. “discrete sensor placement problems in distribution networks.”
-journalofmathematicalandcomputermodelling,42(13),dec2005,1385–1396
-[41] t.y.berger-wolfande.m.reingold. “indexassignmentformultichannelcommunicationunderfailure.” ieee
-transactionsoninformationtheory,48(10),oct2002,2656–2668
-refereedconferencesandworkshops
-[42] vardaanpahuja,weidiluo,yugu,cheng-haotu,hong-youchen,tanyaberger-wolf,charlesstewart,song
-gao, wei-lun chao, yu su, “reviving the context: camera trap species classification as link prediction on
-multimodalknowledgegraphs”,cikm’24,october2024.
-[43] sebrinazeleke,xianing,tanyaberger-wolf,“whentousedemographicdatainhealthcaremodels: abias-
-responsibleapproach”,2024ieeeconferenceonartificialintelligece(cai’24),marinabaysands,singapore,
-june2024.
-[44] samuel stevens*, jiaman wu*, matthew j thompson, elizabeth g campolongo, chan hee song, david ed-
-wardcarlyn,lidong,wasilamdahdul,charlesstewart,tanyaberger-wolf,wei-lunchao,yusu. “bioclip:
-avisionfoundationmodelforthetreeoflife”. 2024conferenceoncomputervisionandpatternrecognition
-(cvpr’24oral)(*: equalcontribution)
-[45] dipanjyotipaul,arpitachowdhury,xinqixiong,feng-juchang,davidcarlyn,samuelstevens,kaiyaprovost,
-anuj karpatne, bryan carstens, daniel rubenstein, charles stewart, tanya berger-wolf, yu su, wei-lun
-chao. “a simple interpretable transformer for fine-grained image classification and analysis”. 12th
-internationalconferenceonlearningrepresentations(iclr’24)
-[46] m.kholiavchenko,j.kline,m.ramirez,s.stevens,a.sheets,r.rameshbabu,n.banerji,e.campolongo,
-m. thompson, n. van tiel, j. miliko, e. bessa, i. duporge, t. y. berger-wolf, d. rubenstein, c. stewart,
-“kabr:in-situdatasetforkenyananimalbehaviorrecognitionfromdronevideos”,2024ieee/cvfwinter
-conferenceonapplicationsofcomputervision(wacv)workshops,waikoloa,hawaii,jan2024,pp. 31–40.
-[47] cheng-hao tu, hong-you chen, zheda mai, jike zhong, vardaan pahuja, tanya berger-wolf, song gao,
-charles stewart, yu su, wei-lun (harry) chao, “holistic transfer: towards non-disruptive fine-tuning with
-partialtargetdata”,2023advancesinneuralinformationprocessingsystems36(neurips2023)maincon-
-ferencetrack,neworleans,la,dec2023.
-[48] j. kline, c. stewart, t. y. berger-wolf, m. ramirez, s. stevens, r. ramesh babu, n. banerji, a. sheets,
-s. balasubramaniam, e. campolongo, m. thompson, c. v. stewart, m. kholiavchenko, d. i. rubenstein, n.
-van tiel, j. miliko , “a framework for autonomic computing for in situ imageomics”, ieee international
-conferenceonautonomiccomputingandself-organizingsystems(acsos),toronto,on,canada, ,pp.
-11–16,doi: 10.1109/acsos58161. .00018.
-[49] n.banerji,s.chang,a.perrault,t.y.berger-wolf,m.quam. “pandemicdatacollection,management,anal-
-ysis and decision support: a large urban university retrospective”. in epidamik 6.0: the 6th international
-workshoponepidemiologymeetsdataminingandknowledgediscoveryatkdd2023
-[50] m. elhamod, m. khurana, h. babu manogaran, j. c. uyeda, m. a. balk, w. dahdul, y. bakis, h. l. bart,
-p. m. mabee, h. lapp, j. p. balhoff, c. charpentier, d. carlyn, w.-l. chao, c. v. stewart, d. i. ruben-
-stein, t. y. berger-wolf, and a. karpatne. . “discovering novel biological traits from images using
-phylogeny-guided neural networks”. in proceedings of the 29th acm sigkdd conference on knowledge
-discoveryanddatamining(kdd’23). associationforcomputingmachinery,newyork,ny,usa,3966–3978.
-https://doi.org/10.1145/3580305.3599808
-[51] k. andrews, m. ohannessian, t. y. berger-wolf, “modeling access differences to reduce disparity in re-
-source allocation”, equity and access in algorithms, mechanisms, and optimization (eaamo’22), october
-,articleno.: 17,pp1–11. https://doi.org/10.1145/3551624.3555302
-[52] s. adhikari,e.zheleva,r.mermelstein,t.y.berger-wolf,“understandingthedynamicsbetweenvapingand
-cannabis legalization using twitter opinions”, the 15th international aaai conference on web and social
-media(icwsm2021),june2021.
-[53] j. leoni, m. tanelli, s. c. strada and t. y. berger-wolf, “data-driven collaborative intelligent system for
-automatic activities monitoring of wild animals,” ieee international conference on human-machine systems
-(ichms2020), ,pp. 1-6,doi: 10.1109/ichms49158. .9209350.
-[54] j. aurisano, j. hwang, a. johnson, l. long, m. crofoot and t. berger-wolf, “bringing the field into the
-lab: large-scale visualization of animal movement trajectories within a virtual island”, ieee 9th sym-
-posium on large data analysis and visualization (ldav), vancouver, bc, canada, , pp. 83–84, doi:
-10.1109/ldav48142. .8944350.
-[55] c. amornbunchornvej, e. zheleva, t. y. berger-wolf, “variable-lag granger causality for time series anal-
-ysis”, the 6th ieee/acm international conference on data science and advanced analytics (dsaa ),
-october2019,washingtondc.
-[56] a.taheri,k.gimpel,t.y.berger-wolf,“predictivetemporalembeddingofdynamicgraphs”. theieee/acm
-internationalconferenceonsocialnetworksanalysisandmining(asonam2019),august2019,vancouver,
-bc.
-[57] g. muscioni, r. pressiani, m. foglio, m. crofoot, and t. berger-wolf. “a framework for identifying group
-behavior of wild animals”. in kdd workshop on data mining and ai for conservation, august ,
-anchorage,al.
-[58] a. taheri, t. y. berger-wolf, “evolutionary representation learning for dynamic graphs”. icml work-
-shoponlearningandreasoningwithgraph-structureddata,june2019,longbeach,ca.
-[59] a.taheri,k.gimpel,t.y.berger-wolf,“learningtorepresenttheevolutionofdynamicgraphswithrecur-
-rentmodels”. incompanionproceedingsofthe2019worldwidewebconference(www’19),lingliuand
-ryenwhite(eds.). acm,newyork,ny,usa,301-307
-[60] e. d’arnese,e.delsozzo,a.chiti,t.y.berger-wolf,m.d.santambrogio,“automatinglungcanceridenti-
-fication in pet/ct imaging” ieee 4th international forum on research and technology for society and
-industry,september2018,palermo,italy
-[61] c. amornbunchornvej, m. crofoot, t. y. berger-wolf, “traits of leaders in movement initiation: classifica-
-tion and identification” proceedings of the ieee/acm international conference on advances in social
-networksanalysisandmining(asonam2018),august2018,barcelona,spain.
-[62] c. amornbunchornvej and t. y. berger-wolf, “mining and modeling complex leadership dynamics of move-
-ment data.” proceedings of the ieee/acm international conference on advances in social networks
-analysisandmining(asonam2018),august2018,barcelona,spain.
-[63] a. taheri, k. gimpel, t. y. berger-wolf, “learning graph representations with recurrent neural network
-autoencoders”,inauguralkdddeeplearningday,august2018,london,uk.(spotlightpresentation).
-[64] c. amornbunchornvej, m. crofoot, t. y. berger-wolf, “framework for inferring leadership dynamics of com-
-plex movement from time series”, siam international conference on data mining (sdm’18), may , san
-diego,ca.
-[65] j. parham, c. v. stewart, j. crall, d. i. rubenstein, j. holmberg, t. y. berger-wolf, “an animal detection
-pipelineforidentification”,ieeewinterconferenceonapplicationsofcomputervision(wacv’18),pp1075–
-1083,march2018,laketahoe,nv.
-[66] t. y. berger-wolf, b. igic, c. taylor, r. sloan, r. poretsky, “a biology-themed introductory cs course at a
-large,diversepublicuniversity”,the49thtechnicalsymposiumoncomputerscienceeducation(sigse’17),
-february2018,baltimore,md.
-[67] j.li, b.ziebart, t.y.berger-wolf“agame-theoreticadversarialapproachtodynamicnetworkprediction.”
-in: phung d., tseng v., webb g., ho b., ganji m., rashidi l. (eds) advances in knowledge discovery and
-datamining. pakdd2018. lecturenotesincomputerscience,vol10939. springer
-[68] i.brugere,c.kanich,t.y.berger-wolf,“networkmodelselectionfortask-focusedattributednetworkinfer-
-ence”,icdmworkshopondatamininginnetworks(damnet’17),november2017,neworleans,usa.
-[69] t. y. berger-wolf, d. i. rubenstein, c. v. stewart, j. holmberg, j. parham, s. menon, j. crall, j. van oast,
-e. kiciman, l. joppa, “wildbook: crowdsourcing, computer vision, and data science for conservation”, the
-dataforgoodexchange,september2017,newyork,ny.
-[70] i.brugere,c.kanich,t.y.berger-wolf,“evaluatingsocialnetworksusingtask-focusednetworkinference”,
-kddworkshoponminingandlearningwithgraphs(mlg’17),august2017,halifax,canada.
-[71] c.amornbunchornvej,i.brugere,a.strandburg-peshkin,d.farine,m.crofoot,t.y.berger-wolf,“coordina-
-tion event detection and initiator identification in time series data”, kdd workshop on mining and learning
-fromtimeseries(milets’17),august2017,halifax,canada. (selectedamongbestpapersforinvitedjournal
+[16] A. Taheri, K. Gimpel, T. Y. Berger-Wolf, “Sequence-to-Sequence Modeling for Graph Representation Learn-
+ing”, Applied Network Science4, Article68, August2019. doi:10.1007/s .
+[17] C. A morn bunch or n ve j I. Brugere, A. Strandburg-Peshkin, D. R. Farine, M. C. Crofoot, and T. Y. Berger-Wolf.
+“Coordination Event Detection and Initiator Identification in Time Series Data.”ACMTrans. Knowl. Discov. Data
+12,5, Article53(June2018),33pages. invited paper
+[18] I. Brugere, B. J. Gallagher, T. Y. Berger-Wolf, “Network Structure Inference, A Survey: Motivations, Methods,
+and Applications”. ACM Computing Surveys. 51(2), Article24(April2018),39pages.
+[19] D. R. Farine, A. Strandburg-Peshkin, I. D. Couzin, T. Y. Berger-Wolf, M. C. Cro foot Individual variation in local
+interaction rules can explain emergent patterns of spatial organisation in wild baboons”. Proceedings of the
+Royal Society B284: 20162243, April2017.
+[20] D. R. Farine, A. Strandburg-Peshkin, T. Y. Berger-Wolf, B. Ziebart, I. Brugere, J. Li, M. C. Crofoot, “Both
+Nearest Neighbors and Long-term Affiliates Predict Individual Locations During Collective Movement in Wild
+Baboons”, Nature Scientific Reports 6 27704 June2016.
+[21] M. Maggioni, T. Y. Berger-Wolf, “Optimization Techniques for Sparse Matrix-Vector Multiplication on GPUs”,
+Journalof Parallel and Distributed Computing, Volumes 93 94 July2016, Pages66–86.
+[22] C. Ma, R. Kenyon, A. Forbes, T. Y. Berger-Wolf, D. Llano, “Sword Plots: Exploring Neuron Behavior within
+Dynamic Communities of Brain Networks”, Journalof Imaging Scienceand Technology. 60(1), January 2016
+10405– ). Recipient of IS T s 2017 Charles E. Ives Journal Award
+[23] D. I. Ruben stein S. R. Sun dares an I. R. Fischhoff, C. T anti pathan an and h T. Y. Berger-Wolf,“Similarbut Dif-
+ferent: Dynamic Social Network Analysis Highlights Fundamental Differences between the Fission-Fusion Soci-
+etiesof Two Equid Species, the Onagerand Grevy’s Zebra”. PLO S ONE 10 10 e0138645. doi: 10.1371/jour-
+nal. pone.0138645
+[24] C.-A. Chou, Z. Liang, W. Cha oval it wong se T. Y. Berger-Wolf, B. Das Gupta, S. Sheikh, M. Ashley, I. Caballero,
+“Column Generation Framework of Nonlinear Similarity Model for Reconstructing Sibling Groups”. INFORMS
+Journalon Computing. 27(1), September2014,35–47.
+[25] A. S. Maiyaand T. Y. Berger-Wolf,“Expansionanddecentralizedsearchincomplexnetworks.”Knowledgeand
+Information Systems(): 468–490. First published online January 2013 doi: 10.1007/s .
+[26] C.-A. Chou, W. A. Cha oval it wong se T. Y. Berger-Wolf, B. Das Gupta, M. V. Ashley, Capac it a ted Clustering
+Problem in Computational Biology: Combinatorial and Statistical Approach for Sibling Reconstruction”, Com-
+putersand Operations Research 39 3 March2012,609–619.
+[27] F. Saeed, A. Perez-Rathke, J. Gwarnicki, T. Y. Berger-Wolf, A. Khokhar High Performance Multiple Sequence
+Alignment Systemfor Pyro sequencing Readsfrom Multiple Reference Genomes”, Journalof Parallel and Dis-
+tributed Computing 72 1 January2012,83–93.
+[28] M. C. Crofoot, D. I. Ruben stein A. S. Maiya, T. Y. Berger-Wolf, “Aggression, Grooming and Group-level Co-
+operation in White-faced Capuchins (Cebus cap uc in us Insights from Social Networks”, American Journal of
+Primatology 73 8 821 833 August2011.
+[29] A. Anand, J. Anderson, T. Y. Berger-Wolf,“Predicting Orientation Selectivity in Primary Visual Cortex”, Journal
+of Vision August2,2010vol. 10no. 7article936.
+[30] S. I. Sheikh, T. Y. Berger-Wolf, A. Khokhar, I. C. Caballero, M. V. Ashley, W. Cha oval it wong se C.-A. Chou,
+B. Das Gupta Combinatorial Reconstruction of Half-sibling Groupsfrom Micro satellite Data”, Journalof Bioin-
+format ics and Computational Biology: Selected Papersfrom CSB 2009 8 2 Apr2010,337–56.
+[31] M. V. Ashley, T. Y. Berger-Wolf, W. Cha oval it wong se B. Das Gupta, A. Khokhar, S. I. Sheikh,“An Implicit Cover
+Problem in wild Population Study”, Discrete Mathematics, Algorithms and Applications 2 1 21-32,.
+[32] Habiba, T. Y. Berger-Wolf, Y. Yu, J. Sai a Finding Spread Blockersin Dynamic Networks”, Advancesin Social
+Network Miningand Analysis, Lecture Notesin Computer Science 5498 55 76 Springer,.
+[33] M. Lahiri, T. Y. Berger-Wolf, “Mining Periodic Behavior in Dynamic Social Networks”, Journal of Knowledge
+and Information Systems 24 3 467–498,.
+[34] W. Cha oval it wong se C.-A. Chou, T. Y. Berger-Wolf, B. Das Gupta, S. I. Sheikh, M. V. Ashley, I. C. Ca-
+ball ero New Optimization Model and Algorithm for Sibling Reconstruction from Genetic Markers”, INFORMS
+Journalof Computing 22 2 179–193,.
+[35] M. V. Ashley, T. Y. Berger-Wolf, P. Berman, W. Cha oval it wong se B. Das Gupta, M.-Y. Kao,“On Approximating
+Four Covering and Packing Problems”, Journalof Computer and System Sciences 75 5 287 302
+[36] M. V. Ashley, I. C. Caballero, W. Cha oval it wong se B. Das Gupta, P. Govindan, S. I. Sheikh, T. Y. Berger-Wolf,
+KIN AL YZ ER A Computer Program for Reconstructing Sibling Groups”, Molecular Ecology Resources, 9 (4),
+July2009,1127–1131.
+[37] T. Y. Berger-Wolf, S. I. Sheikh, B. Das Gupta, M. V. Ashley, I. C. Caballero, W. Cha oval it wong se S. L. Putrevu,
+“Reconstructing Sibling Relationships in Wild Populations”, Bioinformatics 23 13 i49–i56.
+[38] T. Y. Berger-Wolf, C. Moore, and J. Sai a A computational approach to animal breeding Journal of Theoretical
+Biology 244 3 Feb2007,433–439.
+[39] W. Cha oval it wong se T. Y. Berger-Wolf, B. Das Gupta, and M. V. Ashley. “Set covering approach for recon-
+struction of sibling relationships”, Optimization Methods and Software (Special Issue on Systems Analysis,
+Optimization and Data Miningin Bio medicine 22 1 Feb 2007 11 24
+[40] T. Y. Berger-Wolf, W. E. Hart, and J. Saia. “Discrete sensor placement problems in distribution networks.”
+Journalof Mathematical and Computer Modelling 42 13 Dec 2005 1385 1396
+[41] T. Y. Berger-Wolfand E. M. Reingold. “Indexassignmentformultichannelcommunicationunderfailure.” IEEE
+Transactions on Information Theory 48 10 Oct 2002 2656 2668
+Refereed Conferences and Workshops
+[42] Vardaan Pahuja, Weidi Luo, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song
+Gao, Wei-Lun Chao, Yu Su, “Reviving the Context: Camera Trap Species Classification as Link Prediction on
+Multimodal Knowledge Graphs”, CIKM’24, October2024.
+[43] Sebrina Zeleke, Xia Ning, Tanya Berger-Wolf,“Whento Use Demographic Datain Healthcare Models: ABias-
+Responsible Approach 2024 IEEE Conference on Artificial Intel lig ece CAI 24 Marina Bay Sands, Singapore,
+June2024.
+[44] Samuel Stevens*, Jiaman Wu*, Matthew J Thompson, Elizabeth G Campo longo Chan Hee Song, David Ed-
+ward Carlyn, Li Dong, Wasila MDahdul, Charles Stewart, Tanya Berger-Wolf, Wei-Lun Chao, Yu Su. “Bio CLIP:
+AVision Foundation Model for the Treeof Life”. 2024 Conference on Computer Visionand Pattern Recognition
+CVP R 24 Oral Equal Contribution)
+[45] Dipanjyoti Paul, Arpita Chowdhury, Xinqi Xiong, Feng-Ju Chang, David Carlyn, Samuel Stevens, Kaiya Provost,
+Anuj Karpatne, Bryan Carstens, Daniel Ruben stein Charles Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun
+Chao. “A Simple Interpret able Transformer for Fine-Grained Image Classification and Analysis”. 12th
+International Conference on Learning Representations ICL R 24
+[46] M. Kho lia v chen ko J. Kline, M. Ramirez, S. Stevens, A. Sheets, R. Ramesh Babu, N. Banerji, E. Campo longo
+M. Thompson, N. Van Tiel, J. Miliko, E. Bessa, I. Duporge, T. Y. Berger-Wolf, D. Ruben stein C. Stewart,
+“KABR:In-Situ Datasetfor Kenyan Animal Behavior Recognition From Drone Videos 2024 IEEE C VF Winter
+Conference on Applications of Computer Vision WAC V Workshops Waikoloa, Hawaii, Jan2024, pp. 31–40.
+[47] Cheng-Hao Tu, Hong-You Chen, Zheda Mai, Jike Zhong, Vardaan Pahuja, Tanya Berger-Wolf, Song Gao,
+Charles Stewart, Yu Su, Wei-Lun (Harry) Chao, “Holistic Transfer: Towards Non-Disruptive Fine-Tuning with
+Partial Target Data 2023 Advances in Neural Information Processing Systems 36 N eur IPS 2023 Main Con-
+ference Track, New Orleans, LA, Dec2023.
+[48] J. Kline, C. Stewart, T. Y. Berger-Wolf, M. Ramirez, S. Stevens, R. Ramesh Babu, N. Banerji, A. Sheets,
+S. Bala subramania m E. Campo longo M. Thompson, C. V. Stewart, M. Kho lia v chen ko D. I. Ruben stein N.
+Van Tiel, J. Miliko , “A Framework for Autonomic Computing for In Situ Image om ics IEEE International
+Conference on Autonomic Computing and Self-Organizing Systems A CSO S Toronto, ON, Canada,, pp.
+11–16, doi: 10.1109/ACSOS58161..00018.
+[49] N. Banerji, S. Chang, A. Perrault, T. Y. Berger-Wolf, M. Quam. “Pandemic Data Collection, Management, Anal-
+ysis and Decision Support: A Large Urban University Retrospective”. In epi DAMIK 6.0: The 6th International
+workshopon Epidemiology meets Data Miningand Knowledge Discovery at KDD2023
+[50] M. Elhamod, M. Khurana, H. Babu Manogaran, J. C. Uyeda, M. A. Balk, W. Dahdul, Y. Bakis, H. L. Bart,
+P. M. Mabee, H. Lapp, J. P. Balhoff, C. Charpentier, D. Carlyn, W.-L. Chao, C. V. Stewart, D. I. Ruben-
+stein, T. Y. Berger-Wolf, and A. Karpatne. . “Discovering Novel Biological Traits From Images Using
+Phylogeny-Guided Neural Networks”. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge
+Discovery and Data Mining(KDD’23). Association for Computing Machinery, New York, NY, USA,3966–3978.
+[51] K. Andrews, M. O hannes s ian T. Y. Berger-Wolf, “Modeling Access Differences to Reduce Disparity in Re-
+source Allocation”, Equity and Access in Algorithms, Mechanisms, and Optimization EA AMO 22 October
+, Article No.: 17, pp1–11.
+[52] S. Adhikari, E. Zheleva, R. Mer mel stein T. Y. Berger-Wolf,“Understandingthe Dynamics between Vapingand
+Cannabis Legalization Using Twitter Opinions”, The 15th International AAAI Conference on Web and Social
+Media I CW SM 2021 June2021.
+[53] J. Leoni, M. Tanelli, S. C. Strada and T. Y. Berger-Wolf, “Data-Driven Collaborative Intelligent System for
+Automatic Activities Monitoring of Wild Animals,” IEEE International Conference on Human-Machine Systems
+ICH MS 2020 pp. 1-6, doi: 10.1109/ICHMS49158..9209350.
+[54] J. Aurisano, J. Hwang, A. Johnson, L. Long, M. Crofoot and T. Berger-Wolf, “Bringing the Field into the
+Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island”, IEEE 9th Sym-
+posium on Large Data Analysis and Visualization (LDAV), Vancouver, BC, Canada, , pp. 83–84, doi:
+10.1109/LDAV48142..8944350.
+[55] C. A morn bunch or n ve j E. Zheleva, T. Y. Berger-Wolf, “Variable-lag Granger Causality for Time Series Anal-
+ysis”, The 6th IEEE/ACM International Conference on Data Science and Advanced Analytics (DSAA ),
+October 2019 Washington DC.
+[56] A. Taheri, K. Gimpel, T. Y. Berger-Wolf,“Predictive Temporal Embedding of Dynamic Graphs”. The IEEE/ACM
+International Conference on Social Networks Analysis and Mining A SONAM 2019 August 2019 Vancouver,
+BC.
+[57] G. Muscioni, R. Pressiani, M. Foglio, M. Crofoot, and T. Berger-Wolf. “A framework for identifying group
+behavior of wild animals”. In KDD workshop on Data Mining and AI for Conservation, August ,
+Anchorage, AL.
+[58] A. Taheri, T. Y. Berger-Wolf, “Evolutionary Representation Learning for Dynamic Graphs”. ICML Work-
+shopon Learning and Reasoning with Graph-Structured Data, June2019, Long Beach, CA.
+[59] A. Taheri, K. Gimpel, T. Y. Berger-Wolf,“Learningto Represent the Evolution of Dynamic Graphswith Recur-
+rent Models”. In Companion Proceedings of The 2019 World Wide Web Conference WWW 19 Ling Liuand
+Ryen White(Eds.). ACM, New York, NY, USA,301-307
+[60] E. D’Arnese, E. Del Sozzo, A. Chiti, T. Y. Berger-Wolf, M. D. Santa mbr ogi o Automating Lung Cancer Identi-
+fication in PET/CT Imaging” IEEE 4th International Forum on Research and Technology for Society and
+Industry, September 2018 Palermo, Italy
+[61] C. A morn bunch or n ve j M. Crofoot, T. Y. Berger-Wolf, “Traits of Leaders in Movement Initiation: Classifica-
+tion and Identification” Proceedings of the IEEE/ACM International Conference on Advances in Social
+Networks Analysis and Mining A SONAM 2018 August 2018 Barcelona, Spain.
+[62] C. A morn bunch or n ve j and T. Y. Berger-Wolf, “Mining and Modeling Complex Leadership Dynamics of Move-
+ment data.” Proceedings of the IEEE/ACM International Conference on Advances in Social Networks
+Analysis and Mining A SONAM 2018 August 2018 Barcelona, Spain.
+[63] A. Taheri, K. Gimpel, T. Y. Berger-Wolf, “Learning Graph Representations with Recurrent Neural Network
+Auto encoders Inaugural KDDDeep Learning Day, August 2018 London, UK.(spotlightpresentation).
+[64] C. A morn bunch or n ve j M. Crofoot, T. Y. Berger-Wolf, “Framework for Inferring Leadership Dynamics of Com-
+plex Movement from Time Series”, SIAM International Conference on Data Mining (SDM’18), May , San
+Diego, CA.
+[65] J. Parham, C. V. Stewart, J. Crall, D. I. Ruben stein J. Holmberg, T. Y. Berger-Wolf, “An Animal Detection
+Pipeline for Identification”, IEEEWinter Conference on Applications of Computer Vision WAC V 18 pp1075–
+1083, March2018, Lake Tahoe, NV.
+[66] T. Y. Berger-Wolf, B. Igic, C. Taylor, R. Sloan, R. Poretsky, “A Biology-themed Introductory CS Course at a
+Large, Diverse Public University”, The49th Technical Symposium on Computer Science Education SIG SE 17
+February 2018 Baltimore, MD.
+[67] J. Li, B. Ziebart, T. Y. Berger-Wolf“AGame-Theoretic Adversarial Approachto Dynamic Network Prediction.”
+In: Phung D., Tseng V., Webb G., Ho B., Ganji M., Rashidi L. (eds) Advances in Knowledge Discovery and
+Data Mining. PAKDD2018. Lecture Notesin Computer Science, vol10939. Springer
+[68] I. Brugere, C. Kanich, T. Y. Berger-Wolf,“Network Model Selection for Task-Focused Attributed Network Infer-
+ence”, ICD M Workshop on Data Miningin Networks Da MNet’17), November 2017 New Orleans, USA.
+[69] T. Y. Berger-Wolf, D. I. Ruben stein C. V. Stewart, J. Holmberg, J. Parham, S. Menon, J. Crall, J. Van Oast,
+E. Kiciman, L. Joppa, “Wildbook: Crowd sourcing computer vision, and data science for conservation”, The
+Datafor Good Exchange, September 2017 New York, NY.
+[70] I. Brugere, C. Kanich, T. Y. Berger-Wolf,“Evaluating Social Networks Using Task-Focused Network Inference”,
+K DD Workshop on Miningand Learning with Graphs M LG 17 August 2017 Halifax, Canada.
+[71] C. A morn bunch or n ve j I. Brugere, A. Strandburg-Peshkin, D. Farine, M. Crofoot, T. Y. Berger-Wolf,“Coordina-
+tion Event Detection and Initiator Identification in Time Series Data”, KDD Workshop on Mining and Learning
+from Time Series(Mi Le TS’17), August 2017 Halifax, Canada. selected among best papers for invited journal
 publication)
-[72] c.amornbunchornvej,m.crofoot,t.y.berger-wolf,“identifyingtraitsofleadersinmovementinitiation”,the
-7thworkshoponsocialnetworkanalysisinapplications(snaa’17),july2017,sydney,australia.
-[73] s. menon, t. y. berger-wolf, e. kiciman, l. joppa, c. v. stewart, j. parham, j. crall, j. holmberg, j. van
-oast, “animal population estimation using flickr images”, 2nd international workshop on the social web for
-environmentalandecologicalmonitoring(sweem2017),june2017,troy,ny.
-[74] a. purgato, e. reggiani, e. d’arnese, t. y. berger-wolf, m. grimaldi, m. santambrogio, “gpu-based com-
-putation for brain spatio-temporal networks definition”, 39th annual international conference of the ieee
-engineeringinmedicineandbiologysociety(embc’17),july2017,jejuisland,s.korea.
-[75] j.parham,j.crall,c.v.stewart,t.y.berger-wolf,d.i.rubenstein,“animalpopulationcensusingatscale
-with citizen science and photographic identification”, aaai spring symposium on ai for social good
-(aisoc’17),march, ,stanforduniversity,ca.
-[76] a. purgato, m. d. santambrogio, t. y. berger-wolf, a. g. forbes, “interactive visualization for brain spatio-
-temporalnetworks”,ieeeembsinternationalconferenceonbiomedical&healthinformatics(bhi’17),febru-
-ary2017,orlando,fl.
-[77] j.li,k.asif,h.wang,b.ziebart,t.y.berger-wolf,“adversarialsequenceclassification”,internationaljoint
-conferenceonartificialintelligence(ijcai’16),july2016,newyork,ny.
-[78] t. y. berger-wolf, d. i. rubenstein, c. v. stewart, j. holmberg, j. parham, j. crall, “ibeis: image-based
-ecological information system: from pixels to science and conservation”, the data for good exchange,
-september2015,newyork,ny.
-[79] c. ma, r. v. kenyon, a. forbes, t. y. berger-wolf, b. j. slater, d. a. llano, “visualizing dynamic brain
-networksusingananimateddual-representation”,eurographicsconferenceonvisualization(eurovis),may
-,cagliari,italy.
-[80] j.li,i.brugere,b.ziebart,t.y.berger-wolf,m.crofoot,d.farine,“socialinformationimproveslocationpre-
-dictioninthewild”, aaaiinternationalworkshopontrajectory-basedbehaviouranalytics(trba’15), january
-,austin,tx.
-[81] c. ma, r. v. kenyon, t. y. berger-wolf, d. a. llano, “visualizing communities in dynamic mouse brain net-
-works”,ieeeinformationvisualizationconference(infovis),november2014,paris,france(poster).
-[82] f.vafaee,g.tura`n,p.nelsonandt.y.berger-wolf,“balancingtheexplorationandexploitationinanadaptive
-diversityguidedgeneticalgorithm”,ieeecongressonevolutionarycomputation,july2014,beijing,china.
-[83] f. vafaee, g. tura`n, p. nelson and t. y. berger-wolf, “among-site rate variation: adaptation of genetic
-algorithm mutation rates at each single site”, genetic and evolutionary computation conference (gecco),
-july2014,vancouver,canada.
-[84] m. maggioni and t. y. berger-wolf, “coadell: adaptivity and compression for improving sparse matrix-
-vectormultiplicationongpus”, internationalworkshoponacceleratorsandhybridexascalesystems, ,
-phoenix,may20.
-[85] m.maggioniandt.y.berger-wolf, “adaptivityandcompression: arecipeforsparsematrix-vectormultipli-
-cationongpus”,nvidiagputechnologyconference, ,sanjose,march24-27.
-[86] m. maggioni and t. y. berger-wolf, “adell: an adaptive warp-balancing ell format for efficient sparse
-matrix-vector multiplication on gpus”, international conference on parallel processing, , lyon, france,
-october1-4,pp. 11-20.
-[87] m. maggioni and t. y. berger-wolf, “an architecture-aware technique for optimizing sparse matrix-vector
-multiplication on gpus”, international conference on computational science (iccs2013), barcelona, spain,
-june5-7, .
-[88] tanyaberger-wolf,dimitriosi.diochnos,andra´slondon,andra´spluha´r,roberth.sloanandgyo¨rgytura´n,
-“commonsenseknowledgebasesandnetworkanalysis”,11thcommonsensesymposium,may27-29, .
-[89] m. maggioni, t. y. berger-wolf and j. liang, “gpu-based steady-state solution of the chemical master
-equation”, internationalworkshoponhighperformancecomputationalbiology(hicomb2013), boston, may
-20, .
-[90] m.maggioni,t.y.berger-wolfandj.liang,“unveilingcellularmechanismsusinggpu-basedsparselinear
-algebra”,nvidiagputechnologyconference(gtc2013),sanjose,march18-21, .
-[91] jonathancrall,charlesstewart,tanyay.berger-wolf,danielrubenstein. “hotspotter-speciesindependent
-animalinstancerecognition”. proceedingsoftheworkshopontheapplicationsofcomputervision(wacv),
-january2013.
-[92] d. won, c. chou, w. a. chaovalitwongse, t. y. berger-wolf, b. dasgupta, a. a. khokhar, m. v. ashley, j.
-palagi,m.maggioni,ands.i.sheikh,“anintegratedoptimizationframeworkforinferringtwo-generationkin-
-shipsandparentalgenotypesfrommicrosatellitesamples”,proceedingoftheacminternationalconference
-on bioinformatics, computational biology and biomedicine (bcb), , orlando, florida, october 7-10, pp
+[72] C. A morn bunch or n ve j M. Crofoot, T. Y. Berger-Wolf,“Identifying Traitsof Leadersin Movement Initiation”, The
+7th Workshopon Social Network Analysisin Applications S NA A 17 July2017, Sydney, Australia.
+[73] S. Menon, T. Y. Berger-Wolf, E. Kiciman, L. Joppa, C. V. Stewart, J. Parham, J. Crall, J. Holmberg, J. Van
+Oast, “Animal Population Estimation Using Flickr Images”, 2nd International Workshop on the Social Web for
+Environmental and Ecological Monitoring SWEE M 2017 June2017, Troy, NY.
+[74] A. Purgato, E. Reggiani, E. D’Arnese, T. Y. Berger-Wolf, M. Grimaldi, M. Santa mbr ogi o “GPU-Based Com-
+putation for Brain Spatio-Temporal Networks Definition”, 39th Annual International Conference of the IEEE
+Engineering in Medicine and Biology Society EM BC 17 July2017, Je Ju Island, S. Korea.
+[75] J. Parham, J. Crall, C. V. Stewart, T. Y. Berger-Wolf, D. I. Ruben stein Animal Population Censusing at Scale
+with Citizen Science and Photographic Identification”, AAAI Spring Symposium on AI for Social Good
+A IS OC 17 March,, Stanford University, CA.
+[76] A. Purgato, M. D. Santa mbr ogi o T. Y. Berger-Wolf, A. G. Forbes, “Interactive visualization for brain spatio-
+temporal networks I EEEE MBS International Conference on Biomedical Health Informatics B HI 17 Febru-
+ary2017, Orlando, FL.
+[77] J. Li, K. Asif, H. Wang, B. Ziebart, T. Y. Berger-Wolf,“Adversarial Sequence Classification”, International Joint
+Conference on Artificial Intelligence IJ CAI 16 July2016, New York, NY.
+[78] T. Y. Berger-Wolf, D. I. Ruben stein C. V. Stewart, J. Holmberg, J. Parham, J. Crall, “IBEIS: Image-Based
+Ecological Information System: from Pixels to Science and Conservation”, The Data for Good Exchange,
+September 2015 New York, NY.
+[79] C. Ma, R. V. Kenyon, A. Forbes, T. Y. Berger-Wolf, B. J. Slater, D. A. Llano, “Visualizing Dynamic Brain
+Networks Usingan Animated Dual-Representation”, Euro graphics Conference on Visualization Euro Vis), May
+, Cagliari, Italy.
+[80] J. Li, I. Brugere, B. Ziebart, T. Y. Berger-Wolf, M. Crofoot, D. Far in e Social Information Improves Location Pre-
+diction in the Wild”, AAA I International Workshopon Trajectory-based Behaviour Analytics Tr BA’15), January
+, Austin, TX.
+[81] C. Ma, R. V. Kenyon, T. Y. Berger-Wolf, D. A. Llano, “Visualizing Communities in Dynamic Mouse Brain Net-
+works”, IEEE Information Visualization Conference Info Vis), November 2014 Paris, France(poster).
+[82] F. Vafaee, G. Tura`n, P. Nelsonand T. Y. Berger-Wolf,“Balancingthe Exploration and Exploitation in an Adaptive
+Diversity Guided Genetic Algorithm”, IEEE Congress on Evolutionary Computation, July2014, Beijing, China.
+[83] F. Vafaee, G. Tura`n, P. Nelson and T. Y. Berger-Wolf, “Among-site Rate Variation: Adaptation of Genetic
+Algorithm Mutation Rates at each Single Site”, Genetic and Evolutionary Computation Conference (GECCO),
+July2014, Vancouver, Canada.
+[84] M. Maggioni and T. Y. Berger-Wolf, “Co Ad ELL: Adaptivity and Compression for Improving Sparse Matrix-
+Vector Multiplication on GPUs”, International Workshopon Accelerators and Hybrid Exascale Systems, ,
+Phoenix, May20.
+[85] M. Mag gion i and T. Y. Berger-Wolf, Adapt iv it y and Compression: a Recipefor Sparse Matrix-Vector Multipli-
+cationon GPUs”, NVIDIA GPU Technology Conference,, San Jose, March24-27.
+[86] M. Maggioni and T. Y. Berger-Wolf, “Ad ELL: An Adaptive Warp-Balancing ELL Format for Efficient Sparse
+Matrix-Vector Multiplication on GPUs”, International Conference on Parallel Processing, , Lyon, France,
+October1-4, pp. 11-20.
+[87] M. Maggioni and T. Y. Berger-Wolf, “An Architecture-Aware Technique for Optimizing Sparse Matrix-Vector
+Multiplication on GPUs”, International Conference on Computational Science ICC S 2013 Barcelona, Spain,
+June5-7,.
+[88] Tanya Berger-Wolf, Dimitrios I. Diochnos, Andra´s London, Andra´s Pluha´r, Robert H. Sloanand Gyo¨rgy Tura´n,
+Commonsense knowledge bases and network analysis 11 th Commonsense Symposium, May27-29,.
+[89] M. Maggioni, T. Y. Berger-Wolf and J. Liang, “GPU-based Steady-State Solution of the Chemical Master
+Equation”, International Workshopon High Performance Computational Biology(Hi COMB2013), Boston, May
+20,.
+[90] M. Maggioni, T. Y. Berger-Wolfand J. Liang Unveiling Cellular Mechanisms using GPU-based Sparse Linear
+Algebra”, Nvidia GPU Technology Conference GTC 2013 San Jose, March18-21,.
+[91] Jonathan Crall, Charles Stewart, Tanya Y. Berger-Wolf, Daniel Rubenstein. “Hot Spotter-Species Independent
+Animal Instance Recognition”. Proceedings of the Workshop on the Applications of Computer Vision WAC V
+January2013.
+[92] D. Won, C. Chou, W. A. Cha oval it wong se T. Y. Berger-Wolf, B. Dasgupta, A. A. Khokhar, M. V. Ashley, J.
+Palagi, M. Maggioni, and S. I. Sheikh,“An Integrated Optimization Framework for Inferringtwo-generation Kin-
+shipsand Parental Genotypes from Micro satellite Samples”, Proceeding of the ACM International Conference
+on Bioinformatics, Computational Biology and Bio medicine (BCB), , Orlando, Florida, October 7-10, pp
 392-399.
-[93] chayant tantipathananandh and tanya y. berger-wolf. “finding communities in dynamic social networks”.
-proceedings of the 11th ieee international conference on data mining (icdm), december , vancouver,
-canada.
-[94] habibaandtanyay.berger-wolf.“workingforinfluence: effectofnetworkdensityandmodularityondiffusion
-innetworks”,proceedingsoftheieeeicdm2011workshopondatamininginnetworks,december2011.
-[95] rajmondacaceres,tanyay.berger-wolf,androbertgrossman. “temporalscaleofprocessesindynamic
-networks”,proceedingsoftheieeeicdm2011workshopondatamininginnetworks,december2011.
-[96] arun maiya and tanya y. berger-wolf. “benefits of bias: towards better characterization of network sam-
-pling”, proceedings of the 17th acm sigkdd international conference on knowledge discovery and data
-mining(kdd),august2011,sandiego,ca, .
-[97] khairi reda, chayant tantipathananandh, andrew johnson, jason leigh, tanya berger-wolf. “visualizing
-the evolution of community structures in dynamic social networks”. proceedings of the eurovis –13th
-annualvisualizationsymposium,june2011,bergen,norway
-[98] mayanklahiri,chayanttantipathananandh,rosemarywarungu,danieli.rubenstein,tanyay.berger-wolf.
-“biometric animal databases from field photographs: identification of individual zebra in the wild”. proc. of
-theacminternationalconferenceonmultimediaretrieval(icmr2011),trento,italy, .
-[99] arunmaiyaandtanyaberger-wolf,“expansionandsearchinnetworks”. proceedingsofthe19thacminter-
-nationalconferenceoninformationandknowledgemanagement(cikm-10),october2010,toronto,canada.
-[100] tanya berger-wolf, ilya r. fischhoff, dan i. rubenstein, siva r. sundaresan, chayant tantipathananandh.
-”dynamicanalysisofsocialnetworksofequids”. applicationsofsocialnetworkanslysis(asna),september
+[93] Chayant T anti pathan an and h and Tanya Y. Berger-Wolf. “Finding Communities in Dynamic Social Networks”.
+Proceedings of the 11th IEEE International Conference on Data Mining (ICDM), December , Vancouver,
+Canada.
+[94] Habibaand Tanya Y. Berger-Wolf.“Workingforinfluence: effect of network density and modular it yon diffusion
+in networks Proceedings of the IEEE ICD M 2011 Workshop on Data Miningin Networks, December2011.
+[95] Rajmonda Caceres, Tanya Y. Berger-Wolf, and Robert Grossman. “Temporal Scaleof Processes in Dynamic
+Networks”, Proceedings of the IEEE ICD M 2011 Workshop on Data Miningin Networks, December2011.
+[96] Arun Maiya and Tanya Y. Berger-Wolf. “Benefits of Bias: Towards Better Characterization of Network Sam-
+pling”, Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data
+Mining K DD August 2011 San Diego, CA,.
+[97] Khairi Reda, Chayant T anti pathan an and h Andrew Johnson, Jason Leigh, Tanya Berger-Wolf. “Visualizing
+the Evolution of Community Structures in Dynamic Social Networks”. Proceedings of the Euro Vis –13th
+annual Visualization Symposium, June2011, Bergen, Norway
+[98] Mayank Lahiri, Chayant T anti pathan an and h Rosemary Warungu, Daniel I. Ruben stein Tanya Y. Berger-Wolf.
+“Biometric Animal Databases from Field Photographs: Identification of Individual Zebra in the Wild”. Proc. of
+the ACM International Conference on Multimedia Retrieval IC MR 2011 Trento, Italy,.
+[99] Arun Maiyaand Tanya Berger-Wolf,“Expansionand Searchin Networks”. Proceedings of the 19 th ACMInter-
+national Conference on Information and Knowledge Management(CIKM-10), October 2010 Toronto, Canada.
+[100] Tanya Berger-Wolf, Ilya R. Fischhoff, Dan I. Ruben stein Siva R. Sun dares an Chayant Tantipathananandh.
+”Dynamic Analysisof Social Networksof Equids”. Applications of Social Network An s lysis AS NA September
 .
-[101] caitlin l. barale, ipek kulahci, habiba, rajmonda sulo, tanya berger-wolf, and daniel i. rubenstein. ”a
-socialnetworkapproachtosheepmovementandleadership”. applicationsofsocialnetworkanslysis(asna),
-september2010.
-[102] dan brown and tanya berger-wolf, “discovering kinship through small subsets”. proceedings of the work-
-shoponalgorithmsinbioinformatics(wabi-10),september2010,leads,england
-[103] rajmonda sulo, tanya berger-wolf, and robert grossman. ”meaningful selection of temporal resolution for
-dynamicnetworks”,proceedingsofthe8thworkshoponminingandlearningwithgraphs(mlg),aug.
-[104] arun maiya and tanya berger-wolf, “online sampling of high centrality individuals in social networks”.
-proceedingsofthe14thpacific-asiaconferenceonknowledgediscoveryanddatamining(pakdd-10),june
-,hyderabad,india.
-[105] arun maiya and tanya berger-wolf, “sampling community structure”. proceedings of www , april
-,raleigh,nc.
-[106] saadsheikh,ashfaqkhokhar,andtanyaberger-wolf,“efficientandscalableparallelreconstructionofsibling
-relationships from genetic data in wild populations”’. proceedings of the 9th ieee international workshop on
-highperformancecomputationalbiology(hicomb-10),april2010,atlanta,ga
-[107] khairi reda, chayant tantipathananandh, tanya y. berger-wolf, jason leigh, andrew e. johnson, “so-
-cioscape - a tool for interactive exploration of spatio-temporal group dynamics in social networks”, pro-
-ceedingsoftheieeeinformationvisualizationconference(infovis’09),atlanticcity,newjersey, .
-[108] tanya y. berger-wolf, mayank lahiri, chayant tantipathananandh, and david kempe, “finding structure in
-dynamic networks”, proceedings of the workshop on information in networks (win-09), september ,
-newyork,ny
-[109] arun s. maiya and tanya y. berger-wolf, “inferring the maximum likelihood hierarchy in social networks”.
-proceedings of the international symposium on social intelligence and networking (sin-09), august ,
-vancouver,canada
-[110] saad i. sheikh, tanya y. berger-wolf, ashfaq khokhar, isabel c. caballero, mary v. ashley, wanpracha
-chaovalitwongse, bhaskardasgupta, “combinatorialreconstructionofhalf-siblinggroups”. proceedingsof
-the8thinternationalconferenceoncomputationalsystemsbioinformatics(csb),august2009,stanford,ca,
-peter markstein and ying xu (editors), life science society, 59–67. (full version invited to a special issue of
-journalofbioinformaticsandcomputationalbiology)
-[111] c. tantipathananandh, t. y. berger-wolf, “algorithms for identifying dynamic communities”, proceedings of
-the15thacmsigkddinternationalconferenceonknowledgediscoveryanddatamining(kdd),june2009,
-paris,france.
-[112] m.v.ashley,t.y.berger-wolf,w.chaovalitwongse,andb.dasgupta,a.khokhar,s.i.sheikh,“onapprox-
-imatinganimplicitcoverprobleminbiology”,proceedingsofthe5thinternationalconferenceonalgorithmic
-aspectsininformationandmanagement(aaim),june2009,sanfrancisco,ca
-[113] m. lahiri, t. y. berger-wolf, “mining periodic behavior in dynamic social networks”, proceedings of the 8th
-ieee international conference on data mining (icdm), december , pisa, italy, 373–382. (full version
-invitedtoaspecialissueofjournalofknowledgeandinformationsystems)
-[114] m.lahiri,a.maiya,r.sulo,habibaandt.y.berger-wolf,“theimpactofstructuralchangesonpredictions
-ofdiffusioninnetworks”,icdmworkshoponanalysisofdynamicnetworks,december2008,pisa,italy.
-[115] habiba,t.y.berger-wolf,y.yu,j.saia,“findingspreadblockersindynamicnetworks”,proceedingsofthe
-2nd acm sigkdd workshop on social network mining and analysis (sna-kdd), august , las vegas,
-nv,(fullversioninvitedtoaspecialissueofspringerlncsseriespublication)
-[116] s. sheikh, t. y. berger-wolf, m. v. ashley, i. c. caballero, w. chaovalitwongse, and b. dasgupta, “er-
-ror tolerant sibship reconstruction in wild populations”, proceedings of the 7th international conference on
-computationalsystemsbioinformatics(csb),august2008,stanford,ca,273–284. petermarksteinandying
-xu(editors),273-284,worldscientificpublishers, .
-[117] s.i.sheikh, t.y.berger-wolf, a.a.khokhar, andb.dasgupta, “consensusmethodsforreconstructionof
-siblingrelationshipsfromgeneticdata”,proceedingsoftheaaaimultidisciplinaryworkshoponadvancesin
-preferencehandling(mpref),july2008,chicago,il
-[118] habiba, t. y. berger-wolf, “graph theoretic measures for identifying effective blockers of spreading pro-
-cessesindynamicnetworks”,proceedingsofthemlg-icmlworkshoponmachinelearningongraphs,july
-,helsinki,finland.
-[119] c. tantipathananandh, t. y. berger-wolf, and d. kempe, “a framework for community identification in dy-
-namic social networks”, proceedings of the 13th acm sigkdd international conference on knowledge dis-
-coveryanddatamining(kdd),august2007,sanjose,ca,usa,717–726.
-[120] t.y.berger-wolf,s.i.sheikh,b.dasgupta,m.v.ashley,i.c.caballero,w.chaovalitwongse,s.l.putrevu,
-“reconstructing sibling relationships in wild populations”, 15th annual international conference on intelli-
-gent systems for molecular biology (ismb), july , vienna, austria [same as bioinformatics publication in
+[101] Caitlin L. Barale, Ipek Kulahci, Habiba, Rajmonda Sulo, Tanya Berger-Wolf, and Daniel I. Rubenstein. ”A
+socialnetworkapproachtosheepmovementandleadership”. Applications of Social Network An s lysis AS NA
+September2010.
+[102] Dan Brown and Tanya Berger-Wolf, “Discovering kinship through small subsets”. Proceedings of the Work-
+shopon Algorithms in Bioinformatics(WABI-10), September 2010 Leads, England
+[103] Rajmonda Sulo, Tanya Berger-Wolf, and Robert Grossman. ”Meaningful selection of temporal resolution for
+dynamic networks Proceedings of the 8 th Workshopon Miningand Learning with Graphs M LG Aug.
+[104] Arun Maiya and Tanya Berger-Wolf, “Online Sampling of High Centrality Individuals in Social Networks”.
+Proceedings of the 14 th Pacific-Asia Conference on Knowledge Discovery and Data Mining(PAKDD-10), June
+, Hyderabad, India.
+[105] Arun Maiya and Tanya Berger-Wolf, “Sampling Community Structure”. Proceedings of WWW , April
+, Raleigh, NC.
+[106] Saad Sheikh, Ashfaq Khokhar, and Tanya Berger-Wolf,“Efficientandscalableparallelreconstructionofsibling
+relationships from genetic data in wild populations”’. Proceedings of the 9th IEEE International Workshop on
+High Performance Computational Biology(Hi COMB-10), April2010, Atlanta, GA
+[107] Khairi Reda, Chayant T anti pathan an and h Tanya Y. Berger-Wolf, Jason Leigh, Andrew E. Johnson, “So-
+cio Scape - a Tool for Interactive Exploration of Spatio-Temporal Group Dynamics in Social Networks”, Pro-
+cee dings of the IEEE Information Visualization Conference INFO VIS 09 Atlantic City, New Jersey,.
+[108] Tanya Y. Berger-Wolf, Mayank Lahiri, Chayant T anti pathan an and h and David Kempe, “Finding Structure in
+Dynamic Networks”, Proceedings of the Workshop on Information in Networks (WIN-09), September ,
+New York, NY
+[109] Arun S. Maiya and Tanya Y. Berger-Wolf, “Inferring the Maximum Likelihood Hierarchy in Social Networks”.
+Proceedings of the International Symposium on Social Intelligence and Networking (SIN-09), August ,
+Vancouver, Canada
+[110] Saad I. Sheikh, Tanya Y. Berger-Wolf, Ashfaq Khokhar, Isabel C. Caballero, Mary V. Ashley, Wanpracha
+Cha oval it wong se Bhaskar Das Gupta, “Combinatorial Reconstruction of Half-Sibling Groups”. Proceedings of
+the8th International Conference on Computational Systems Bioinformatics CSB August 2009 Stanford, CA,
+Peter Markstein and Ying Xu (editors), Life Science Society, 59–67. (Full version invited to a special issue of
+Journalof Bioinformatics and Computational Biology)
+[111] C. T anti pathan an and h T. Y. Berger-Wolf, “Algorithms for Identifying Dynamic Communities”, Proceedings of
+the15th ACM SIG K DD International Conference on Knowledge Discovery and Data Mining K DD June2009,
+Paris, France.
+[112] M. V. Ashley, T. Y. Berger-Wolf, W. Cha oval it wong se and B. Das Gupta, A. Khokhar, S. I. Sheikh,“On Approx-
+imating An Implicit Cover Problemin Biology”, Proceedings of the 5 th International Conference on Algorithmic
+Aspectsin Information and Management A AIM June2009, San Francisco, CA
+[113] M. Lahiri, T. Y. Berger-Wolf, “Mining Periodic Behavior in Dynamic Social Networks”, Proceedings of the 8th
+IEEE International Conference on Data Mining (ICDM), December , Pisa, Italy, 373–382. (Full version
+invited to a special issue of Journalof Knowledge and Information Systems)
+[114] M. Lahiri, A. Maiya, R. Sulo, Habibaand T. Y. Berger-Wolf,“The Impactof Structural Changeson Predictions
+of Diffusion in Networks”, ICD M Workshop on Analysisof Dynamic Networks, December 2008 Pisa, Italy.
+[115] Habiba, T. Y. Berger-Wolf, Y. Yu, J. Sai a Finding Spread Blockersin Dynamic Networks”, Proceedings of the
+2nd ACM SIGKDD Workshop on Social Network Mining and Analysis (SNA-KDD), August , Las Vegas,
+NV full version invited to a special issue of Springer LN CS series publication
+[116] S. Sheikh, T. Y. Berger-Wolf, M. V. Ashley, I. C. Caballero, W. Cha oval it wong se and B. Das Gupta, “Er-
+ror Tolerant Sibship Reconstruction in Wild Populations”, Proceedings of the 7th International Conference on
+Computational Systems Bioinformatics CSB August 2008 Stanford, CA,273–284. Peter Mark stein and Ying
+Xu(editors),273-284, World Scientific Publishers,.
+[117] S. I. Sheikh, T. Y. Berger-Wolf, A. A. Khokhar, and B. Das Gupta, “Consensus Methodsfor Reconstruction of
+Sibling Relationships from Genetic Data”, Proceedings of the AAA I Multidisciplinary Workshopon Advancesin
+Preference Handling M PREF July2008, Chicago, IL
+[118] Habiba, T. Y. Berger-Wolf, “Graph Theoretic Measures for Identifying Effective Blockers of Spreading Pro-
+cessesin Dynamic Networks”, Proceedings of the MLG-ICMLWorkshopon Machine Learningon Graphs, July
+, Helsinki, Finland.
+[119] C. T anti pathan an and h T. Y. Berger-Wolf, and D. Kempe, “A Framework For Community Identification in Dy-
+namic Social Networks”, Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Dis-
+coveryand Data Mining K DD August 2007 San Jose, CA, USA,717–726.
+[120] T. Y. Berger-Wolf, S. I. Sheikh, B. Das Gupta, M. V. Ashley, I. C. Caballero, W. Cha oval it wong se S. L. Putrevu,
+“Reconstructing Sibling Relationships in Wild Populations”, 15th Annual International Conference on Intelli-
+gent Systems for Molecular Biology (ISMB), July , Vienna, Austria [same as Bioinformatics publication in
 journals].
-[121] m.lahiriandt.y.berger-wolf,“structurepredictionintemporalnetworksusingfrequentsubgraphs”,ieee
-symposiumoncomputationalintelligenceanddatamining(cidm),april, ,honolulu,hawaii
-[122] s. sheikh, t. y. berger-wolf, w. chaovalitwongse, b. dasgupta, and m. ashley, “reconstructing sibling
-relationships from microsatellite data”, european conf. on computational biology (eccb), jan , eilat,
-israel
-[123] m. laifenfeld, a. trachtenberg, and t. y. berger-wolf, “identifying codes and the set cover problem”, 44th
-annualallertonconf. oncommunication,control,andcomputing,sept2006,allerton,il.
-[124] t. y. berger-wolf and j. saia, “a framework for analysis of dynamic social networks”, proceedings of the
-12th acm sigkdd international conference on knowledge discovery and data mining (kdd), august ,
-philadelphia,pa,usa,523–528.
-[125] t. y. berger-wolf, b. dasgupta, w. chaovalitwongse, and m. v. ashley. “combinatorial reconstruction of
-siblingrelationships”proceedings,6th internationalsymposiumoncomputationalbiologyandgenomeinfor-
-matics(cbgi),saltlakecity,utah,july21-26, ,1252-1255
-[126] t. y. berger-wolf. “online consensus and agreement of phylogenetic trees.” in inge jonassen, junhyong
-kim(eds.): algorithmsinbioinformatics,4thinternationalworkshop(wabi),bergen,norway,september17-
-21, ,proceedings. lecturenotesincomputerscience,3240,springer,350–361
-[127] t.y.berger-wolfande.m.reingold.“optimalmultichannelcommunicationunderfailure.” proceedings,10th
-annualacm-siamsymposiumondiscretealgorithms(soda), ,858–859.
-unrefereedpublications(arxivandbiorxiv):
-[128] vardaan pahuja, weidi luo, yu gu, cheng-hao tu, hong-you chen, tanya berger-wolf, charles stewart,
-song gao, wei-lun chao, yu su, “bringing back the context: camera trap species identification as link
-predictiononmultimodalknowledgegraphs”. arxiv:2401.00608[cs.cv]
-[129] samuelstevens,jiamanwu,matthewjthompson,elizabethgcampolongo,chanheesong,davidedward
-carlyn, li dong, wasila m dahdul, charles stewart, tanya berger-wolf, wei-lun chao, yu su, “bioclip: a
-visionfoundationmodelforthetreeoflife”. arxiv:2311.18803
-[130] dipanjyotipaul,arpitachowdhury,xinqixiong,feng-juchang,davidcarlyn,samuelstevens,kaiyaprovost,
-anuj karpatne, bryan carstens, daniel rubenstein, charles stewart, tanya berger-wolf, yu su, wei-lun
-chao. “asimpleinterpretabletransformerforfine-grainedimageclassificationandanalysis”. arxivpreprint
-arxiv:2311.04157
-[131] cheng-hao tu, hong-you chen, zheda mai, jike zhong, vardaan pahuja, tanya berger-wolf, song gao,
-charles stewart, yu su, wei-lun chao. “holistic transfer: towards non-disruptive fine-tuning with partial
-targetdata”. arxivpreprintarxiv:2311.01420
-[132] lily xu, esther rolf, sara beery, joseph r. bennett, tanya berger-wolf, tanya birch, elizabeth bondi-kelly,
-justin brashares, melissa chapman, anthony corso, andrew davies, nikhil garg, angela gaylard, robert
-heilmayr,hannahkerner,konstantinklemmer,vipinkumar,lestermackey,clairemonteleoni,paulmoorcroft,
-jonathanpalmer,andrewperrault,davidthau,milindtambe. “reflectionsfromtheworkshoponai-assisted
-decisionmakingforconservation”. arxivpreprintarxiv:2307.08774
-[133] d. tuia, b. kellenberger, s. beery, b. costelloe, s. zuffi, b. risse, a. mathis, m. mathis, f. van langevelde,
-t. burghardt, r. kays, h. klinck, m. wikelski, i. couzin, g. van horn, m. crofoot, c. stewart, and t. y.
-berger-wolf, “seeing biodiversity: perspectives in machine learning for wildlife conservation”. arxiv preprint
-arxiv:2110.12951
-[134] m keymanesh, t.y. berger-wolf, m elsner, s parthasarathy. “fairness-aware summarization for justified
-decision-making”. arxivpreprintarxiv:2107.06243
-[135] cvstewart, jrparham, jholmberg, t.y.berger-wolf. “theanimalidproblem: continualcuration”. arxiv
-preprintarxiv:2106.10377
-[136] b. a. ibrahim, c. murphy, g. muscioni, a. taheri, g. yudintsev, r. v. kenyon, t. y. berger-wolf, m. i. banks,
-d. a. llano, corticothalamic gating of population auditory thalamocortical transmission in mouse, biorxiv
-625988;doi: https://doi.org/10.1101/625988
-[137] j.w.brown,a.taheri,r.v.kenyon,t.y.berger-wolf,d. a.llanoacomputationalmodelofintrathalamicsig-
-nalingviaopen-loopthalamo-reticular-thalamicarchitectures. biorxiv574178;doi: https://doi.org/10.1101/574178
-[138] i. brugere, c. kanich, t. y. berger-wolf, evaluating social networks using task-focused network inference,
-arxivpreprint,july2017.
-[139] i. brugere, c. kanich, t. y. berger-wolf, a general framework for task-oriented network inference, arxiv
-preprint,may2017.
-[140] c.amornbunchornvej,i.brugere,a.strandburg-peshkin,d.farine,m.c.crofoot,t.y.berger-wolf,flica:
-aframeworkforleaderidentificationincoordinatedactivity,arxivpreprint,march2016.
-bookchapters:
-[141] r. sulo cace´res and t. y. berger-wolf, “temporal scale of dynamic networks”, temporal networks, petter
-holmeandjarisarama¨ki(editors),spinger, .
-[142] t. y. berger-wolf, c. tantipathananandh, and d. kempe, “community identification in dynamic social net-
-works”, link mining: models, algorithms and applications, philip s. yu, christos faloutsos, and jiawei han
-(editors),springer, .
-[143] m. v. ashley, t. y. berger-wolf, i. c. caballero, w. chaovalitwongse, b. dasgupta, and s. i. sheikh. “full
-siblingreconstructioninwildpopulationsfrommicrosatellitegeneticmarkers”. computationalbiology: new
-research,pp. 231–258,novapublishers.
-professionalreportsandbriefs:
-[144] gpai . biodiversity & artificial intelligence, opportunities and recommendations, report, november
-,globalpartnershiponai.
-[145] l. a. shanley, l. fortson, t. y. berger-wolf, k. crowston, and p. michelucci, “imagine all the people: citi-
-zen science, artificial intelligence, and computational research”. washington: d.c.: computing community
-consortium(ccc), .
-[146] t. y. berger-wolf, b. carterette, t. elsayed, m. keet, f. sebastiani, h. suleman, “report on the 2nd acm
-sigir/sigkdd africa school on machine learning for data mining and search”, acm sigir forum, 54(1),
+[121] M. Lahiriand T. Y. Berger-Wolf,“Structure Prediction in Temporal Networks using Frequent Sub graphs IEEE
+Symposium on Computational Intelligence and Data Mining CID M April,, Honolulu, Hawaii
+[122] S. Sheikh, T. Y. Berger-Wolf, W. Cha oval it wong se B. Das Gupta, and M. Ashley, “Reconstructing Sibling
+Relationships from Micro satellite Data”, European Conf. on Computational Biology (ECCB), Jan , Eilat,
+Israel
+[123] M. La if e nfeld A. Trachtenberg, and T. Y. Berger-Wolf, “Identifying Codes and the Set Cover Problem”, 44th
+Annual Allerton Conf. on Communication, Control, and Computing, Sept2006, Allerton, IL.
+[124] T. Y. Berger-Wolf and J. Saia, “A framework for analysis of dynamic social networks”, Proceedings of the
+12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), August ,
+Philadelphia, PA, USA,523–528.
+[125] T. Y. Berger-Wolf, B. Das Gupta, W. Cha oval it wong se and M. V. Ashley. “Combinatorial reconstruction of
+sibling relationships Proceedings 6 th International Symposium on Computational Biologyand Genome Infor-
+ma tics CB GI Salt Lake City, Utah, July21-26,,1252-1255
+[126] T. Y. Berger-Wolf. “Online Consensus and Agreement of Phylogenetic Trees.” In Inge Jonassen, Junhyong
+Kim(Eds.): Algorithms in Bioinformatics 4 th International Workshop W ABI Bergen, Norway, September17-
+21,, Proceedings. Lecture Notesin Computer Science 3240 Springer 350 361
+[127] T. Y. Berger-Wolfand E. M. Reingold.“Optimalmultichannelcommunicationunderfailure.” Proceedings 10 th
+Annual ACM-SIAMSymposiumon Discrete Algorithms(SODA),,858–859.
+Unrefereed Publications ar Xivandbio Rxiv):
+[128] Vardaan Pahuja, Weidi Luo, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart,
+Song Gao, Wei-Lun Chao, Yu Su, “Bringing Back the Context: Camera Trap Species Identification as Link
+Prediction on Multimodal Knowledge Graphs”. ar Xiv:2401.00608[cs. CV]
+[129] Samuel Stevens, Jiaman Wu, Matthew JThompson, Elizabeth G Campo longo Chan Hee Song, David Edward
+Carlyn, Li Dong, Wasila M Dahdul, Charles Stewart, Tanya Berger-Wolf, Wei-Lun Chao, Yu Su, “Bio CLIP: A
+Vision Foundation Model for the Treeof Life”. ar Xiv:2311.18803
+[130] Dipanjyoti Paul, Arpita Chowdhury, Xinqi Xiong, Feng-Ju Chang, David Carlyn, Samuel Stevens, Kaiya Provost,
+Anuj Karpatne, Bryan Carstens, Daniel Ruben stein Charles Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun
+Chao. “ASimple Interpret able Transformer for Fine-Grained Image Classification and Analysis”. ar Xiv pre print
+ar Xiv:2311.04157
+[131] Cheng-Hao Tu, Hong-You Chen, Zheda Mai, Jike Zhong, Vardaan Pahuja, Tanya Berger-Wolf, Song Gao,
+Charles Stewart, Yu Su, Wei-Lun Chao. “Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial
+Target Data”. ar Xiv pre print ar Xiv:2311.01420
+[132] Lily Xu, Esther Rolf, Sara Beery, Joseph R. Bennett, Tanya Berger-Wolf, Tanya Birch, Elizabeth Bondi-Kelly,
+Justin Brashares, Melissa Chapman, Anthony Corso, Andrew Davies, Nikhil Garg, Angela Gaylard, Robert
+Heilmayr, Hannah Kerner, Konstantin Klemmer, Vipin Kumar, Lester Mackey, Claire Monte leoni Paul Moorcroft,
+Jonathan Palmer, Andrew Perrault, David Thau, Milind Tambe. Reflections from the Workshopon AI-Assisted
+Decision Makingfor Conservation”. ar Xiv pre print ar Xiv:2307.08774
+[133] D. Tuia, B. Kellenberger, S. Beery, B. Costelloe, S. Zuffi, B. Risse, A. Mathis, M. Mathis, F. Van Lange vel de
+T. Burghardt, R. Kays, H. Klinck, M. Wikelski, I. Couzin, G. van Horn, M. Crofoot, C. Stewart, and T. Y.
+Berger-Wolf, “Seeing Biodiversity: perspectives in machine learning for wildlife conservation”. ar Xiv preprint
+ar Xiv:2110.12951
+[134] M Keymanesh, T. Y. Berger-Wolf, M Elsner, S Parthasarathy. “Fairness-aware sum mari z ation for justified
+decision-making”. ar Xiv pre print ar Xiv:2107.06243
+[135] CVStewart, JRParham, JHolmberg, T. Y. Berger-Wolf. “The Animal IDProblem: Continual Curation”. ar Xiv
+preprintar Xiv:2106.10377
+[136] B. A. Ibrahim, C. Murphy, G. Muscioni, A. Taheri, G. Yudintsev, R. V. Kenyon, T. Y. Berger-Wolf, M. I. Banks,
+D. A. Llano, Cor tico thalami c gating of population auditory th alamo cortical transmission in mouse, bio Rxiv
+625988 doi
+[137] J. W. Brown, A. Taheri, R. V. Kenyon, T. Y. Berger-Wolf, D. A. Llano Acomputationalmodelofintrathalamicsig-
+nalingviaopen-loopthalamo-reticular-thalamicarchitectures. bio R xiv 574178 doi
+[138] I. Brugere, C. Kanich, T. Y. Berger-Wolf, Evaluating social networks using task-focused network inference,
+ar Xiv pre print July2017.
+[139] I. Brugere, C. Kanich, T. Y. Berger-Wolf, A General Framework For Task-Oriented Network Inference, ar Xiv
+preprint, May2017.
+[140] C. A morn bunch or n ve j I. Brugere, A. Strandburg-Peshkin, D. Farine, M. C. Crofoot, T. Y. Berger-Wolf, FLICA:
+a framework for leader identification in coordinated activity ar Xiv pre print March2016.
+Book Chapters:
+[141] R. Sulo Cace´res and T. Y. Berger-Wolf, “Temporal Scale of Dynamic Networks”, Temporal Networks, Petter
+Holmeand Jari S a rama ki Editors Spinger,.
+[142] T. Y. Berger-Wolf, C. T anti pathan an and h and D. Kempe, “Community Identification in Dynamic Social Net-
+works”, Link Mining: Models, Algorithms and Applications, Philip S. Yu, Christos Faloutsos, and Jiawei Han
+(Editors), Springer,.
+[143] M. V. Ashley, T. Y. Berger-Wolf, I. C. Caballero, W. Cha oval it wong se B. Das Gupta, and S. I. Sheikh. “Full
+Sibling Reconstruction in Wild Populations From Micro satellite Genetic Markers”. Computational Biology: New
+Research, pp. 231–258, Nova Publishers.
+Professional Reportsand Briefs:
+[144] GPAI . Biodiversity & Artificial Intelligence, Opportunities and Recommendations, Report, November
+, Global Partnership on AI.
+[145] L. A. Shanley, L. Fortson, T. Y. Berger-Wolf, K. Crowston, and P. Mic he lucci “Imagine All the People: Citi-
+zen Science, Artificial Intelligence, and Computational Research”. Washington: D. C.: Computing Community
+Consortium(CCC),.
+[146] T. Y. Berger-Wolf, B. Carteret te T. Elsayed, M. Keet, F. Sebastian i H. Suleman, “Report on the 2nd ACM
+SIG IR SIG K DD Africa school on machine learning for data mining and search”, ACM SIGIR Forum, 54(1),
 ,1–6.
-[147] d. i. rubenstein, j. parham, c. v. stewart, t. y. berger-wolf, j. holmberg, j. crall, b. l. mackey, s. funnel,
-k. cockerill, z. davidson, l. mate, c. nzomo, r. warungu, d. martins, v. ontita, j. omulupi, j. weston,
-g.anyona,g.chege,d. kimiti,k.tombak,a.gersick,n.rubenstein,“thestateofkenya’sgrevy?szebras
-andreticulatedgiraffes: resultsofthegreatgrevy’srally2018”. reporttothekenyawildlifeservice,june
-[148] t. y. berger-wolf, j. crall, j. holmberg, j. parham, c. v. stewart, b. low mackey, p. kahumbu, and
-d.i.rubenstein. “thegreatgrevy’srally: theneed,methods,findings,implicationsandnextsteps. report
-tothekenyawildlifeservice,september2016.
-[149] d.i.rubenstein,c.v.stewart,t.y.berger-wolf,j.parham,j.crall,c.machogu,p.kahumbu,andn.maingi.
-“thegreatzebraandgiraffecount: thepowerandrewardsofcitizenscience”. reporttothekenyawildlife
-service,july2015.
-[150] americanassociationfortheadvancementofscienceinconjunctionwiththefederalbureauofinvestigation
-andtheunitednationsinterregionalcrimeandjusticeresearchinstitute, “nationalandtransnationalsecu-
-rityimplicationsofbigdatainthelifesciences”, . [briefversion](contributingworkinggroupmember)
-tutorials:
-[151] p.cui,j.pei,w.zhu,t.y.berger-wolf,i.brugere,b.perozzi,“modelingdatawithnetworks+networkem-
-bedding: problems,methodologiesandfrontiers”. 24thacmsigkddinternationalconferenceonknowledge
-discoveryanddatamining(kdd),august2018.
-[152] t.y.berger-wolf, t.m.przytycka, andm.singh. “dynamicsofbiologicalnetworks”. pacificsymposiumon
-biocomputing(psb),january2009andjanuary2010.
-other:
-[153] aime´eleslie,christinehof,diegoamorocho,tanyaberger-wolf,jasonholmberg,charlesstewart,stephen
-g.dunbar,andclairejean. “theinternetofturtles”. thestateoftheworld’sseaturtlesreport,volxi,jan
+[147] D. I. Ruben stein J. Parham, C. V. Stewart, T. Y. Berger-Wolf, J. Holmberg, J. Crall, B. L. Mackey, S. Funnel,
+K. Cockerill, Z. Davidson, L. Mate, C. Nzomo, R. Warungu, D. Martins, V. Ontita, J. Omulupi, J. Weston,
+G. Anyona, G. Chege, D. Kimiti, K. Tombak, A. Gersick, N. Ruben stein The Stateof Kenya’s Grevy?s Zebras
+and Reticulated Giraffes: Results of the Great Grevy’s Rally2018”. Report to the Kenya Wildlife Service, June
+[148] T. Y. Berger-Wolf, J. Crall, J. Holmberg, J. Parham, C. V. Stewart, B. Low Mackey, P. Kahumbu, and
+D. I. Rubenstein. “The Great Grevy’s Rally: The Need, Methods, Findings, Implications and Next Steps. Report
+tothe Kenya Wildlife Service, September2016.
+[149] D. I. Ruben stein C. V. Stewart, T. Y. Berger-Wolf, J. Parham, J. Crall, C. Machogu, P. Kahumbu, and N. Maingi.
+“The Great Zebraand Giraffe Count: The Powerand Rewardsof Citizen Science”. Report to the Kenya Wildlife
+Service, July2015.
+[150] American Association for the Advancement of Science in conjunction with the Federal Bureauof Investigation
+andthe United Nations Inter regional Crimeand Justice Research Institute, National and Transnational Secu-
+rity Implications of Big Datainthe Life Sciences”,. Brief version Contributing working group member
+Tutorials:
+[151] P. Cui, J. Pei, W. Zhu, T. Y. Berger-Wolf, I. Brugere, B. Per ozz i Modeling Data With Networks Network Em-
+bedding: Problems, Methodologies and Frontiers”. 24th ACM SIG K DD International Conference on Knowledge
+Discovery and Data Mining K DD August2018.
+[152] T. Y. Berger-Wolf, T. M. Przytycka, and M. Singh. Dynamics of Biological Networks”. Pacific Symposium on
+Bio computing PSB January 2009 and January2010.
+Other:
+[153] Aime´e Leslie, Christine Hof, Diego Amorocho, Tanya Berger-Wolf, Jason Holmberg, Charles Stewart, Stephen
+G. Dunbar, and Claire Jean. “The Internetof Turtles”. The Stateofthe World’s Sea Turtles Report, vol XI, Jan
 ,12–13.
-[154] invited book review of “bioconsensus” (dimacs series in discrete mathematics and theoretical computer
-science,vol. 61)editedbym.f.janowitz,f.-j.lapointe,f.r.mcmorris,b.mirkin,andf.s.roberts,journal
-ofsystematicbiology,53(3),june2004,515–517
-externalresearchfunding:
-- nih-r01dc013073-01functionalorganizationoftheauditorycorticocollicularsystem,pi:d.
-a.llano,co-i:t.y.berger-wolf
-- $5,000,000 nsf + nserc global climate center: ai and biodiversity change (abc), pi: t. y. berger-
-ca$3,750,000 wolf, co-pis: m. jarzyna, s. beery, j. kitzes, international collaborators: canada (funded
-by nserc): d. rolnick, l. pollock, k. gaynor, g. taylor, uk: t. burghardt, o. m. aodha, s.
-o’donnel,switzerland: d.tuia,australia: b.meyer.
-- $15,968,604 nsf hdr institute: imageomics: a new frontier of biological information powered by
-knowledge-guided machine learning, pi: t. y. berger-wolf, co-pis: a. karpatne, c. stew-
-art,h.bart,h.lapp
-- $1,249,960 nsffai:addressingthe3dchallengesfordata-drivenfairness: deficiency,dynamics,and
-disagreement,pi:b.ziebart,co-pis: i.kash,m.ohannessian,x.zhnag,t.y.berger-wolf
-$1,500,000 nsf hdr tripods: uic foundations of data science institute, co-pis: l. reyzin, a.
-sidiropoulus,n.devroye,w.perkins. (grantleftforuic,pichanged)
-$15,000 discovery partners institute. ai and environment, pi: t.y. berger-wolf, co-pis: t. l. theis,
-j.d.brawn,e.m.schauber
-nsfhdrideaslab
-- $997,363 nsf cns-1828265 mri: acquisition of a composable platform as a service instrument
-for deep learning & visualization (compaas dlv), pi: m. brown, co-pis: a. e. johnson,
-r.v.kenyon, g.e.marai, t.y.berger-wolf, b.dieugenio, c.kanich, b.liu, l.renambot,
-p.yu,x.zhang.
-- $299,525 nsf iuse-1612113 diversifying cs with a biology-themed introductory cs course at a
-large, diverse public university, pi: r. sloan, co-pis: t.y. berger-wolf, r. poretsky, c.
-taylor,b.igic
-- $750,000 nsfiis-1515587crcns:communitydynamicimagingofcorticothalamicprojections, pi:
-d.a.llano,co-pis: t.y.berger-wolf,r.kenyon.
-- $956,285 nsfiii-1514126medium: collaborativeresearch: computationaltoolsforextractingindivid-
-ual, dyadic, and network behavior from remotely sensed data, pis: b. ziebart, t.y. berger-
-wolf,m.crofoot.
-- $2,999,999 nsfcns-1456638developmentofthesensorenvironmentimaging(sensei)instrument,
-pi:m.d.brown,co-pis: r.v.kenyon,a.e.johnson,t.y.berger-wolf
-- $300,000 nsf ef-1550853 eager-neon: image-based ecological information system (ibeis) for
-animalsightingdataforneonpis: c.v.stewart,t.y.berger-wolf,d.i.rubenstein
-- $314,504 nsf cns-1453555 eager: prototype of an image-based ecological information system
-(ibeis),pis: t.y.berger-wolf,c.v.stewart,d.i.rubenstein
-$20,000 nsfiis-1439420studenttravelfellowshipsforkdd2014,pi:t.y.berger-wolf
-$20,000 microsoftresearchawardecologicalinformationsystem,pi:t.y.berger-wolf
-inkind microsoft azure for research, computational behavioral ecology on the cloud, pi: t.y.
-berger-wolf
-- $150,760 nsf ios-1250895 eager: developing dynamic network-based movement models to ex-
-plorecollectivedecision-making,pi:megcrofoot,co-pi:t.y.berger-wolf
-- $800,000 nsfcns-1248080,inspire:mingle: sensingthesocialinteractionsofanimals,pi:robin
-kravets,co-pis: t.y.berger-wolf,yih-chunhu,joelbrown,danielrubenstein
-- $549,467 nsf iis-1124495, exp: using technologies to engage learners in the scientific practices of
-investigating rich behavioral and ecological questions, pi: t. moher, co-pis: l. lyons, t.y.
-berger-wolf,b.reiser,j.brown
-- $75,843 nsf oci-1152895, eager: field computational ecology course, pis: t.y. berger-wolf,
-d.i.rubenstein
-- $1,200,139 nsfiis-106468,scalablekinshipinferenceinwildpopulationsacrossyearsandgenerations,
-pi:t.y.berger-wolf,co-pis: m.v.ashley,b.dasgupta,a.khokhar,w.chaovalitwongse
-- $1,987,49 nsf ari-0963278, the incus facility: an integrated uic cyberinfrastructure for high-
-performancecomputingandnetworking,pi:r.grossman,co-pis: p.yu,t.y.berger-wolf,
-j.leigh,a.kassem
-- $60,000 nsfbpc-0837480,bpc-a:improvingmetropolitanparticipationtoacceleratecollaborative
-computingthroughoutandsuccess(impacts),pis: d.reed,r.greenberg,s.kamin,c.
-hood,co-pis: r.sloan,t.yberger-wolf,l.lyons
-- $504,930 nsf iis-0747369, career: computational tools for population biology, pi: t.y. berger-
-wolf
-$16,000 reusupplement,pi:t.y.berger-wolf
-$100,000 supplement,pi:t.y.berger-wolf
-- $899,017 nsfiis-0705822,iii-cxt:collaborativeresearch: computationalmethodsforunderstand-
-ingsocialinteractionsinanimalpopulations,pis: t.y.berger-wolf,d.i.rubenstein,j.saia
-$16,000 reusupplement,pi:t.y.berger-wolf
-- $795,822 nsfiis-0612044, collaborativeresearch: sei:computationalmethodsforkinshiprecon-
-struction,pi:t.y.berger-wolf,co-pis: m.v.ashley,b.dasgupta,w.chaovalitwongse
-- $91,000 microsoftaward14936,computationaltoolsforpopulationbiology
-invitedtalks(last5yearsandafewspecialones):
-talks on “imageomics, “ai for biodiveristy”, “ai for conservation”, “trustworthy ai for the planet”, “wildbook/ibeis:
-image-based ecological information system”, “computational insights into the social life of zebras (and other ani-
-mals)”, “computational analysis of dynamic social networks”, “computational behavioral ecology”, “computational
-populationbiology”,“womeninstem”
-oct2024 usfishandwildlifeaisummit,washington,dc,invitedtalk
-aug2024 30th acm sigkdd conference on knowledge discovery and data mining (kdd’24), invited
+[154] Invited book review of Bio consensus (DIMACS Series in Discrete Mathematics and Theoretical Computer
+Science, Vol. 61 edited by M. F. Janowitz, F.-J. Lapointe, F. R. Mc Morris, B. Mirkin, and F. S. Roberts, Journal
+of Systematic Biology 53 3 June 2004 515 517
+External Research Funding:
+- NIH-R01DC013073-01Functionalorganizationoftheauditorycorticocollicularsystem, PI:D.
+A. Llano, co-I:T. Y. Berger-Wolf
+- $5,000,000 NSF + NSERC Global Climate Center: AI and Biodiversity Change (ABC), PI: T. Y. Berger-
+CA 3 750 000 Wolf, co-PIs: M. Jarzyna, S. Beery, J. Kitzes, International collaborators: Canada (funded
+by NSERC): D. Rolnick, L. Pollock, K. Gaynor, G. Taylor, UK: T. Burghardt, O. M. Aodha, S.
+O’Donnel, Switzerland: D. Tuia, Australia: B. Meyer.
+- 15 968 604 NSF HDR Institute: Image om ics A new frontier of biological information powered by
+knowledge-guided machine learning, PI: T. Y. Berger-Wolf, co-PIs: A. Karpatne, C. Stew-
+art, H. Bart, H. Lapp
+- $1,249,960 NSF FAI Addressing the 3 D Challenges for Data-Driven Fairness: Deficiency, Dynamics, and
+Disagreement, PI:B. Ziebart, co-PIs: I. Kash, M. O hannes s ian X. Zhnag, T. Y. Berger-Wolf
+$1,500,000 NSF HDR TRIPODS: UIC Foundations of Data Science Institute, co-PIs: L. Reyzin, A.
+Sidi ro poul us N. Devroye, W. Perkins. Grant left for UIC, PIchanged)
+$15,000 Discovery Partners Institute. AI and Environment, PI: T. Y. Berger-Wolf, co-PIs: T. L. Theis,
+J. D. Brawn, E. M. Schauber
+NSF HD RIDE A SLab
+- $997,363 NSF CNS-1828265 MRI: Acquisition of a Composable Platform as a Service Instrument
+for Deep Learning & Visualization (COMPaa S DLV), PI: M. Brown, co-PIs: A. E. Johnson,
+R. V. Kenyon, G. E. Marai, T. Y. Berger-Wolf, B. Di Eugenio, C. Kanich, B. Liu, L. Renambot,
+P. Yu, X. Zhang.
+- $299,525 NSF IUSE-1612113 Diversifying CS with a Biology-themed Introductory CS Course at a
+Large, Diverse Public University, PI: R. Sloan, co-PIs: T. Y. Berger-Wolf, R. Poretsky, C.
+Taylor, B. Igic
+- $750,000 NSFIIS-1515587CRCNS:Community Dynamic Imagingof Cor tico thalami c Projections, PI:
+D. A. Llano, co-PIs: T. Y. Berger-Wolf, R. Kenyon.
+- $956,285 NSFIII-1514126Medium: Collaborative Research: Computationaltoolsforextractingindivid-
+ual, dyadic, and network behavior from remotely sensed data, PIs: B. Ziebart, T. Y. Berger-
+Wolf, M. Crofoot.
+- $2,999,999 NSFCNS-1456638Developmentofthe Sensor Environment Imaging SENSEI Instrument
+PI:M. D. Brown, co-PIs: R. V. Kenyon, A. E. Johnson, T. Y. Berger-Wolf
+- $300,000 NSF EF-1550853 EAGER-NEON: Image-Based Ecological Information System (IBEIS) for
+Animal Sighting Datafor NEONPIs: C. V. Stewart, T. Y. Berger-Wolf, D. I. Rubenstein
+- $314,504 NSF CNS-1453555 EAGER: Prototype of an Image-Based Ecological Information System
+(IBEIS), PIs: T. Y. Berger-Wolf, C. V. Stewart, D. I. Rubenstein
+$20,000 NSFIIS-1439420Student Travel Fellowships for KDD2014, PI:T. Y. Berger-Wolf
+$20,000 Microsoft Research award Ecological information System, PI:T. Y. Berger-Wolf
+Inkind Microsoft Azure for Research, Computational Behavioral Ecology on the Cloud, PI: T. Y.
+Berger-Wolf
+- $150,760 NSF IOS-1250895 EAGER: Developing dynamic network-based movement models to ex-
+plorecollectivedecision-making, PI:Meg Crofoot, co-PI:T. Y. Berger-Wolf
+- $800,000 NSFCNS-1248080, INSPIRE Mingle Sensingthe Social Interactions of Animals, PI:Robin
+Kravets, co-PIs: T. Y. Berger-Wolf, Yih-Chun Hu, Joel Brown, Daniel Rubenstein
+- $549,467 NSF IIS-1124495, EXP: Using technologies to engage learners in the scientific practices of
+investigating rich behavioral and ecological questions, PI: T. Moher, co-PIs: L. Lyons, T. Y.
+Berger-Wolf, B. Reiser, J. Brown
+- $75,843 NSF OCI-1152895, EAGER: Field Computational Ecology Course, PIs: T. Y. Berger-Wolf,
+D. I. Rubenstein
+- $1,200,139 NSFIIS-106468, Scalable kinship inference in wild populations across years and generations
+PI:T. Y. Berger-Wolf, co-PIs: M. V. Ashley, B. Das Gupta, A. Khokhar, W. Cha oval it wong se
+- $1,987,49 NSF ARI-0963278, The Incus Facility: An Integrated UIC Cyber infrastructure for High-
+Performance Computing and Networking, PI:R. Grossman, co-PIs: P. Yu, T. Y. Berger-Wolf,
+J. Leigh, A. Kassem
+- $60,000 NSFBPC-0837480, BPC-A:Improving Metropolitan Participation to Accelerate Collaborative
+Computing Throughout and Success IMPACTS PIs: D. Reed, R. Greenberg, S. Kamin, C.
+Hood, co-PIs: R. Sloan, T. YBerger-Wolf, L. Lyons
+- $504,930 NSF IIS-0747369, CAREER: Computational Tools for Population Biology, PI: T. Y. Berger-
+Wolf
+$16,000 REU Supplement PI:T. Y. Berger-Wolf
+$100,000 Supplement, PI:T. Y. Berger-Wolf
+- $899,017 NSFIIS-0705822, III-CXT:Collaborative Research: Computational Methodsfor Understand-
+ing Social Interactions in Animal Populations, PIs: T. Y. Berger-Wolf, D. I. Ruben stein J. Saia
+$16,000 REU Supplement PI:T. Y. Berger-Wolf
+- $795,822 NSFIIS-0612044, Collaborative Research: SEI Computational Methodsfor Kinship Recon-
+struction, PI:T. Y. Berger-Wolf, co-PIs: M. V. Ashley, B. Das Gupta, W. Cha oval it wong se
+- $91,000 Microsoft award 14936 Computational Toolsfor Population Biology
+Invited Talks last 5 years and a few special ones
+Talks on Image om ics “AI for Bio diver is ty “AI for Conservation”, “Trustworthy AI for the Planet”, Wild book I BE IS
+Image-Based Ecological Information System”, “Computational Insights into the Social Life of Zebras (and other ani-
+mals)”, “Computational Analysis of Dynamic Social Networks”, “Computational Behavioral Ecology”, “Computational
+Population Biology Women in STEM”
+Oct2024 USFishand Wildlife AISummit, Washington, DC, invited talk
+Aug2024 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’24), invited
 keynote
-jul2024 aspen global change institute workshop on ai for biodiversity: overcoming barriers to impact,
-snowmassvillage,co
-jul2024 dataconnectconferencebywomeninanalytics,columbus,oh,invitedkeynote
-jun2024 national science foundation directorate for biological sciences (bio) distinguished lecture, ar-
-lington,va
-may2024 u.s. fish and wildlife services (usfws) region 3 - the midwest annual meeting, milwaukee, wi,
-invitedkeynote
-may2024 airising
-apr2024 internationalgirlsinictdayfeaturedspeaker[talkrecording]
-apr2024 datatalkspodcast[talkrecording]
-apr2024 siamsymposiumondatamining(sdm),houston,tx,invitedkeynote
-apr2024 mit/jhubiosecuritysalon
-mar2024 ecoviz+ai:visualizationandaiforecology,ucsandiego,sandiego,ca,invitedkeynote
-mar2024 columbusaudubonsociety,invitedkeynote
-mar2024 lifelonglearningclass,lickingcountylibrary
-feb2024 appliedmachinelearningdaysafricaconference,nairobi,kenya,invitedkeynote
-feb2024 americanassociatefortheadvancementofscienceannualmeeting2024,denver,co
-feb2024 yellowstonetoyukon: enhancingrockymountainanimalmigrationthroughremotesensingandin-
-ternationalcollaboration,environmentalprofessionalsnetwork,schoolofenvironmentandnatural
-resources,ohiostateuniversity
-feb2024 universityofdelawaredarwinsymposium,invitedkeynote
-feb2024 esgpseminar,ohiostateuniversity
-dec2023 neurips2023workshop: tacklingclimatechangewithmachinelearning,invitedkeynote
-oct2023 distinguishedlecture,instituteforexperientialai,northeasternuniversity
-oct2023 bezosearthfundaiforclimateandnatureworkshop
-sep2023 department of food, agricultural and biological engineering (fabe), college of food, agricultural,
-andenvironmentalsciences(cfaes),ohiostateuniversity
-aug2023 thehdf5usergroup(hug)meeting2023,invitedkeynote
-aug2023 gpaiprojectraiseworkshop
-jul2023 monashpratodialogueaisummit2023
-jun2023 nasem paving the way for continental scale biology: tools and approaches for connecting re-
-searchacrossscaleswebinar
-jun2023 riskinstitute,ohiostateuniversity
-jun2023 cv4animalsworkshopatcvpr2023,invitedkeynote
-may2023 ohiosciencedayoftheohioacademyofscience,invitedkeynote
-may2023 artificialintelligenceandconservation,wwfkathrynfullersciencefornatureseminarseries
-apr2023 distinguishedlecture,cheritonschoolofcomputerscience,waterloouniversity,canada
-apr2023 ceimiaglobalpartnershiponaiconferenceonaisessiononaiandbiodiversity,ottawa,canada
-apr2023 sciencesundayslecture,osucollegeofartsandsciences
-apr2023 michiganinstituteondatasciencefutureleaderssymposium,universityofmichigan,annarbor
-mar2023 the4thtokaidigitalhumanresourceforum,nucbbusinessschool,nagoyacampus,japan
-mar2023 universityoftsukuba,tsukuba,japan
-feb2023 aiandnatureweekkeynote,universityofbristol,bristol,uk
-jan2023 traitfest
-dec2022 aiforsocialgoodglobalforum
-dec2022 universityofmonash,melbourne,australia
-dec2022 government-university-industry research roundtable (guirr), national academies of science,
-engineeringandmedicine
-nov2022 columbussciencepub,columbus,ohio
-nov2022 datasciencehubudash,universityofnewsouthwales,sydney,australia
-nov2022 h2o.aiworld,sydney,australia
-nov2022 defininguserneedsfortrackinganimalmovementsandlivesinachangingworld,yaleuniversity
-oct2022 aiclub,ohiostateuniversity
-oct2022 aiforconservationworkshop,harvarduniversity
-sep2022 imaginecologyworkshop
-sep2022 complexnetworkssymposium,siammathematicsofdatascienceconference
-sep2022 aidialogues,monashpratocenter
-sep2022 lucyfamilyinstitutefordataandsociety,notredameuniversity
-aug2022 thewilds,ohio
-aug2022 microsoftresearchcolloqium
-aug2022 aiforconservationworkshop,europeanbiodiversityconsortium,hortobagynationalpark,hungary
-aug2022 cv4ecologyinauguralsummerschool
-jul2022 dataanalyticssummercamp,translationaldataanalyticsinstitute,ohiostateuniversity
-jul2022 intelligentsystemsformolecularbiology(ismb),keynotespeaker
-jun2022 movementecologypanel,wildlabs
-apr2022 earthvisionworkshop,cvprconference,keynotespeaker
-apr2022 northeasternuniversity
-apr2022 retireesassociation,ohiostateuniversity
-apr2022 explorecsrworkshop,ohiostateuniversity
-apr2022 columbuszoo
-mar2022 howgoodaicanbeaiforgoodinhighereducationpanel,sxswedu
-feb2022 explorecsrworkshop,universityofillinoisatchicago
-feb2022 departmentofcommunication,universityofnewmexico
-feb2022 osufabeseminar
-feb2022 aaassymposiumoncrowd-engagedscience
-dec2021 aiandbiodiversitypanel,aiforclimateinitiative
-nov2021 environmentaldatascience,yaleuniversity
-nov2021 aaaisecondsymposiumonscience-guidedai
-oct2021 maxplanckinstitutegrandchallengessymposium
-oct2021 24thinternationalconferenceondiscoveryscience(ds’ ),keynotespeaker
-sep2021 cityandregionalplanning(crp),ohiostateuniversity
-aug2021 imersasummit
-aug2021 blalocklectureintheicpsrsummerprogram,universityofmichigan
-jul2021 newhampshireacademyofsciencessummerprogram
-jul2021 ai4biodiversityworkshop,israel
-jun2021 10yearsofnasaspacebiologyaiapplicationanddevelopmentworkshop
-jun2021 ethicsandtechnologypanel,virtualresidencyintermediate/advancedworkshop2021
-apr2021 siaminternationalconferenceondatamining(sdm2021),keynotespeaker
-apr2021 datayap
-mar2021 vanderbiltdatascienceinstitutecolloquium
-mar2021 tedxosu,featuredonted.com
-mar2021 nuycenterfordatascience
-feb2021 njitinstitutefordatascienceseminar
-feb2021 maxplanckinstitute,collectivebehaviorcluster
-feb2021 unep/unescoaifortheplanetconference
-dec2020 dimacstripods
-nov2020 womeninengineeringgraduatecouncilleadershipspeakerseries
-nov2020 ai&hpcworkshopatsc20
-oct2020 academicdatascienceassociationleadershipsummit,keynotespeaker
-jul2020 6thinternationalconferenceoncomputationalsocialscience,ic2s2,keynotespeaker
-jun2020 datasciencecapstonecourse,universityofbritishcolumbia
-apr2020 wageningenuniversity,netherlands
-mar2020 bigdataanalyticsassociation,theohiostateuniversity
-mar2020 departmentofbiology,purdueuniversity
-jan2020 departmentofcomputerscience,capetownuniversity,capetown,southafrica
-dec2019 aidayschicago,chicago,il
-nov2019 annualsymposium,michiganinstitutefordatascience(midas),annarbor,mi,keynotespeaker
-nov2019 argonnenationallaboratory
-oct2019 maxplanckinstituteforintelligentsystems,tu¨bingen,germany
-sep2019 departmentofcomputerscienceandengineering,theohiostateuniversity
-sep2019 ieeewomeninengineeringleadershipsummit
-sep2019 workshoponhigher-orderinteractionnetworks,oxford,uk(keynotespeaker)
-jul2019 jointmeetingannualconferenceoftheanimalbehaviorsociety(abs)andtheinternationalcouncil
-ofethologistsconference(ice),chicago,il(plenaryspeaker)
-jun2019 girlconchicago,il
-jan2019 machinelearningsummerschool,stellenbosch,southafrica
-sep2018 detect and prevent: ai collaboration to end wildlife trafficking online workshop, wwf and mi-
-crosoft,redmond,wa
-jun2018 scifooignitetalk,sunnyvale,ca
-jun2018 girlconchicago,il
-jun2018 capitolhilloceanweek,washington,d.c
-oct2017 design code build,museumofscienceandindustry,chicago,il(rockstarspeaker)
-jul2017 sciencefoocamp,mountainview,ca
-oct2016 thewhitehousefrontiersconference,pittsburgh,pa(ignitespeaker)
-feb2016 36thannualsymposiumonseaturtlebiologyandconservation,peru,lima(invitedspeaker)
-jun2015 animalbehaviorsocietyannualmeeting,presidentialsymposium,anchorage,ak(invitedspeaker)
-sep2014 associationforpromotingtourismtoafricaannualmeeting
-studentssupervised:
-currentphdandmsstudents:
+Jul2024 Aspen Global Change Institute workshop on AI for Biodiversity: Overcoming Barriers to Impact,
+Snowmass Village, CO
+Jul2024 Data Connect Conference by Womenin Analytics, Columbus, OH, invited keynote
+Jun2024 National Science Foundation Directorate for Biological Sciences (BIO) Distinguished Lecture, Ar-
+lington, VA
+May2024 U. S. Fish and Wildlife Services (USFWS) Region 3 - the Midwest Annual Meeting, Milwaukee, WI,
+invited keynote
+May2024 AIRising
+Apr2024 International Girlsin ICT Day featured speaker talk recording
+Apr2024 Data Talks podcast talk recording
+Apr2024 SIAM Symposium on Data Mining S DM Houston, TX, invited keynote
+Apr2024 MIT J HUb io security salon
+Mar2024 Eco Viz A I Visualization and AIfor Ecology, UCSan Diego, San Diego, CA, invited keynote
+Mar2024 Columbus Audubon Society, invited keynote
+Mar2024 Lifelong Learning Class, Licking County Library
+Feb2024 Applied Machine Learning Days Africa Conference, Nairobi, Kenya, Invited keynote
+Feb2024 American Associate for the Advancement of Science Annual Meeting 2024 Denver, CO
+Feb2024 Yellowstone to Yukon: Enhancing Rocky Mountainanimalmigrationthroughremotesensingandin-
+ter national collaboration Environmental Professionals Network, Schoolof Environment and Natural
+Resources, Ohio State University
+Feb2024 University of Delaware DARWIN Symposium Invited keynote
+Feb2024 ES GP seminar Ohio State University
+Dec2023 Neur IPS 2023 Workshop Tackling Climate Changewith Machine Learning, Invited keynote
+Oct2023 Distinguished Lecture, Institute for Experiential AI, Northeastern University
+Oct2023 Bezos Earth Fund AIfor Climateand Nature workshop
+Sep2023 Department of Food, Agricultural and Biological Engineering (FABE), College of Food, Agricultural,
+and Environmental Sciences CFA ES Ohio State University
+Aug2023 The HDF5User Group HUG meeting 2023 invited keynote
+Aug2023 GPA I Project RAISE Workshop
+Jul2023 Monash Prato Dialogue A I Summit 2023
+Jun2023 NASEM Paving the Way for Continental Scale Biology: Tools and Approaches for Connecting Re-
+search Across Scales web in ar
+Jun2023 Risk Institute, Ohio State University
+Jun2023 CV 4 Animals workshop at CVPR2023, invited keynote
+May2023 Ohio Science Dayofthe Ohio Academyof Science, Invited keynote
+May2023 Artificial Intelligence and Conservation, WWFKathryn Fuller Sciencefor Nature Seminar series
+Apr2023 Distinguished Lecture, Cheriton Schoolof Computer Science, Waterloo University, Canada
+Apr2023 CE IMI A Global Partnership on A I conference on A I session on AIand Biodiversity, Ottawa, Canada
+Apr2023 Science Sundays lecture OSU College of Artsand Sciences
+Apr2023 Michigan Institute on Data Science Future Leaders Symposium, University of Michigan, Ann Arbor
+Mar2023 The4th TO KAI Digital Human Resource Forum, NU CB Business School, Nagoya campus Japan
+Mar2023 University of Tsukuba, Tsukuba, Japan
+Feb2023 AIand Nature week keynote University of Bristol, Bristol, UK
+Jan2023 Trait Fest
+Dec2022 AIfor Social Good global forum
+Dec2022 University of Monash, Melbourne, Australia
+Dec2022 Government-University-Industry Research Roundtable (GUIRR), National Academies of Science,
+Engineering and Medicine
+Nov2022 Columbus Science Pub, Columbus, Ohio
+Nov2022 Data Science Hubu DASH, University of New South Wales, Sydney, Australia
+Nov2022 World, Sydney, Australia
+Nov2022 Defining user needs for tracking animal movements and lives in a changing world Yale University
+Oct2022 AIClub, Ohio State University
+Oct2022 AIfor Conservation workshop Harvard University
+Sep2022 Imagine c ology workshop
+Sep2022 Complex networks symposium SIAM Mathematics of Data Science conference
+Sep2022 A I Dialogues Monash Prato Center
+Sep2022 Lucy Family Institute for Dataand Society, Notre Dame University
+Aug2022 The Wilds, Ohio
+Aug2022 Microsoft Research coll o qi um
+Aug2022 A I for conservation workshop European biodiversity consortium Hortobagy National Park, Hungary
+Aug2022 CV 4 Ecology inaugural summer school
+Jul2022 Data Analytics Summer Camp, Translational Data Analytics Institute, Ohio State University
+Jul2022 Intelligent Systemsfor Molecular Biology IS MB keynote speaker
+Jun2022 Movement ecology panel WILDLABS
+Apr2022 Earth vision workshop CVP R conference keynote speaker
+Apr2022 Northeastern University
+Apr2022 Retirees Association, Ohio State University
+Apr2022 Explore CSR workshop Ohio State University
+Apr2022 Columbus Zoo
+Mar2022 How Good AICan Be AIfor Goodin Higher Education panel SXSWEDU
+Feb2022 Explore CSR workshop University of Illinoisat Chicago
+Feb2022 Department of Communication, University of New Mexico
+Feb2022 OS UFA BE seminar
+Feb2022 AAASsymposiumoncrowd-engagedscience
+Dec2021 AIand Biodiversity panel AIfor Climate initiative
+Nov2021 Environmental Data Science, Yale University
+Nov2021 AAAISecond Symposium on Science-Guided AI
+Oct2021 Max Planck Institute Grand Challenges Symposium
+Oct2021 24th International Conference on Discovery Science DS keynote speaker
+Sep2021 Cityand Regional Planning C RP Ohio State University
+Aug2021 I MERS A summit
+Aug2021 Blalock Lecture in the ICP SR Summer Program, University of Michigan
+Jul2021 New Hampshire Academyof Sciences summer program
+Jul2021 A I 4 Biodiversity workshop Israel
+Jun2021 10yearsof NASASpace Biology A I application and development workshop
+Jun2021 Ethicsand Technology panel Virtual Residency Intermediate Advanced Workshop 2021
+Apr2021 SIAM International Conference on Data Mining S DM 2021 keynote speaker
+Apr2021 Data Yap
+Mar2021 Vanderbilt Data Science Institute colloquium
+Mar2021
+Mar2021 NU Y Center for Data Science
+Feb2021 NJ IT Institute for Data Science Seminar
+Feb2021 Max Planck Institute, Collective behavior cluster
+Feb2021 UNEP UNESCO A I for the Planet Conference
+Dec2020 D IMACS TRIPODS
+Nov2020 Womenin Engineering Graduate Council Leadership Speaker series
+Nov2020 A I HPC Workshop at SC20
+Oct2020 Academic Data Science Association Leadership Summit, keynote speaker
+Jul2020 6th International Conference on Computational Social Science, IC2S2, keynote speaker
+Jun2020 Data Science Capstone course University of British Columbia
+Apr2020 Wageningen University, Netherlands
+Mar2020 Big Data Analytics Association, The Ohio State University
+Mar2020 Department of Biology, Purdue University
+Jan2020 Department of Computer Science, Cape Town University, Cape Town, South Africa
+Dec2019 AIDays Chicago, Chicago, IL
+Nov2019 Annual Symposium, Michigan Institute for Data Science MID AS Ann Arbor, MI, keynote speaker
+Nov2019 Argonne National Laboratory
+Oct2019 Max Planck Institute for Intelligent Systems, Tu¨bingen, Germany
+Sep2019 Department of Computer Scienceand Engineering, The Ohio State University
+Sep2019 IEEE Women in Engineering Leadership Summit
+Sep2019 Workshopon Higher-Order Interaction Networks, Oxford, UK keynote speaker
+Jul2019 Joint meeting Annual Conference of the Animal Behavior Society ABS and the International Council
+of Ethologists Conference ICE Chicago, IL plenary speaker
+Jun2019 Girl Con Chicago, IL
+Jan2019 Machine Learning Summer School, Stellenbosch, South Africa
+Sep2018 Detect and Prevent: AI Collaboration to End Wildlife Trafficking Online Workshop, WWF and Mi-
+crosoft, Redmond, WA
+Jun2018 Sci Foo ignite talk Sunnyvale, CA
+Jun2018 Girl Con Chicago, IL
+Jun2018 Capitol Hill Ocean Week, Washington, D. C
+Oct2017 Design Code Build, Museumof Scienceand Industry, Chicago, IL Rockstar speaker
+Jul2017 Science Foo Camp, Mountain view CA
+Oct2016 The White House Frontiers Conference, Pittsburgh, PA ignite speaker
+Feb2016 36th Annual Symposium on Sea Turtle Biologyand Conservation, Peru, Lima invited speaker
+Jun2015 Animal Behavior Society Annual Meeting, presidential symposium Anchorage, AK invited speaker
+Sep2014 Association for Promoting Tourismto Africa Annual Meeting
+Students Supervised:
+Current Ph Dand MS students
 .
-· namratabanerji,cseph.d.expected2026
+· Namrata Banerji, CSEPh. D. expected 2026
 ·
-· jennakline,cseph.d.expected2026(co-advisedwithchristopherstewart)
-· anyaellis,cseph.d.expected2028
-· parkashsingh,m.s.expected2025
-· michaelsilagi,m.s.expected2025
-pastpostdocs:
-· dipanjyotipaul(withyusuandwei-lun(harry)chao,osu)[tsukubauniversity]
-· janetbacks(withmaryashley,uicbio)
-· damienfarine(withmargaretcrofoot,ucdavis)[maxplanckinstituteofanimalbehavior]
-· davidpappano(withdanielrubenstein,princeton)[time,inc,mckinsey&company]
-graduatedstudents,phd:
-· samuel malloy, environmental sciences graduate program ph.d. may . thesis: a reference framework
-fordecisionsupportinapublichealthemergency. [mitre].
-· monibakeymanesh,phd. (co-advisedwithsriniparthasarathy),[bloomberglp]
-· ivan brugere, ph.d [google lime scholar , esp igert associate , chancellor’s graduate
-researchaward2014]
-· shelbyheinecke,ph. d. (levrayzinco-adviser,uicmcs)
-· aynaztaheri,ph.d. [dean’sgraduatescholarshipaward, ]. thesis: graphrepresentationlearning
-withdeeprecurrentmodels
-· chainarong amornbunchornvej, ph.d. [thai government scholarship]. thesis: inference of leadership
-ofcoordinatedactivityintimeseries. [nationalelectronicsandcomputertechnologycenter(nectec)]
-· jia (vena) li, ph.d. (brian ziebart co-adviser) [chancellor’s graduate research award ]. thesis:
-modelingtemporalandstructuralinformationintimeseriesdata,[salesforce]
-· marco maggioni, ph.d. . [chancellor’s graduate research award , fmc scholar , dean’s
-graduatescholar2014]. thesis: convexoptimizationongpus[citadel]
-· habiba, ph.d. . [fulbright scholar, chancellor student leadership award , , 50 for the future
-]. thesis: findingcriticalindividualsindynamicnetworks[universityofkonstanzpostodc]
-· chayanttantipathananandh,ph.d. . [outstandingcsta2011]. thesis: detectingandtrackingcommu-
-nitiesinsocialnetworks[google]
-· rajmonda sulo cace´res (robert grossman, uofc, co-advisor), ph.d. . thesis: temporal scale of dy-
-namicnetworks[mitlincolnlab]
-· anushka anand (leland wilkinson co-advisor), ph. d. [anita borg institute board , chancellor
-student leadership award , , 50 for the future ]. thesis: visual pattern detection in high-
-dimensionalspaces. [tableau]
-· arunmaiya,ph.d. [computationaltransportationscienceigertfellow2007– ]. thesis: sampling
-andinferenceincomplexnetworks[institutefordefenseanalyses]
-· mayanklahiri,ph.d. [provost’sawardforgraduateresearch2010,dean’sscholar2009– ]. thesis:
-measuringandminingdynamicnetworks[facebook,google,amazon]
-· saadsheikh(ashfaqkhokharco-advisor),ph.d. [fulbrightscholar]. thesis: combinatorialmethodsfor
-siblingreconstruction[universityoffloridapostdoc,microsoft,bloomberganalytics,facebook]
-graduatedstudents,ms:
+· Jenna Kline, CSEPh. D. expected2026(co-advisedwith Christopher Stewart)
+· Anya Ellis, CSEPh. D. expected 2028
+· Parkash Singh, M. S. expected 2025
+· Michael Silagi, M. S. expected 2025
+Past Postdocs:
+· Dipanjyoti Paul(with Yu Suand Wei-Lun(Harry)Chao, OSU Tsukuba University]
+· Janet Backs(with Mary Ashley, UICBio)
+· Damien Far in e with Margaret Crofoot, UC Davis Max Planck Institute of Animal Behavior]
+· David Pappano with Daniel Ruben stein Princeton Time Inc, Mc Kinsey Company
+Graduated students Ph D:
+· Samuel Malloy, Environmental Sciences Graduate Program Ph. D. May . Thesis: A reference framework
+fordecisionsupportinapublichealthemergency. [MITRE].
+· Moniba Keymanesh, Ph D.(co-advisedwith Srini Part has ara thy Bloomberg LP]
+· Ivan Brugere, Ph. D [Google Lime Scholar , ESP IGERT Associate , Chancellor s Graduate
+Research Award2014]
+· Shelby Heinecke, Ph. D.(Lev Rayzinco-adviser, UICMCS)
+· Aynaz Taheri, Ph. D.[Dean’s Graduate Scholarship Award,]. Thesis: Graph Representation Learning
+with Deep Recurrent Models
+· Chainarong A morn bunch or n ve j Ph. D. [Thai government scholarship]. Thesis: Inference of Leadership
+of Coordinated Activityin Time Series. [National Electronics and Computer Technology Center NEC TEC
+· Jia (Vena) Li, Ph. D. (Brian Ziebart co-adviser) Chancellor s Graduate Research Award ]. Thesis:
+Modeling Temporal and Structural Information in Time Series Data Sales force
+· Marco Maggioni, Ph. D. . Chancellor s Graduate Research Award , FMC Scholar , Dean’s
+Graduate Scholar2014]. Thesis: Convex Optimization on GPUs Citadel
+· Habiba, Ph. D. . [Fulbright Scholar, Chancellor Student Leadership Award , , 50 for the Future
+]. Thesis: Finding critical individuals in dynamic networks University of Konstanz pos to dc
+· Chayant T anti pathan an and h Ph. D.. [Outstanding CSTA2011]. Thesis: Detecting and Tracking Commu-
+nitiesin Social Networks Google
+· Rajmonda Sulo Cace´res (Robert Grossman, Uof C, co-advisor), Ph. D. . Thesis: Temporal Scale of Dy-
+namic Networks MIT Lincoln Lab]
+· Anushka Anand (Leland Wilkinson co-advisor), Ph. D. [Anita Borg Institute Board , Chancellor
+Student Leadership Award , , 50 for the Future ]. Thesis: Visual Pattern Detection in High-
+dimensional Spaces. [Tableau]
+· Arun Maiya, Ph. D.[Computational Transportation Science IGERTFellow2007–]. Thesis: Sampling
+and Inference in Complex Networks Institute for Defense Analyses]
+· Mayank Lahiri, Ph. D.[Provost’s Awardfor Graduate Research 2010 Dean’s Scholar2009–]. Thesis:
+Measuring and mining dynamic networks Facebook Google, Amazon]
+· Saad Sheikh Ash faq Khokharco-advisor), Ph. D.[Fulbright Scholar]. Thesis: Combinatorial Methodsfor
+Sibling Reconstruction University of Florida Postdoc, Microsoft, Bloomberg Analytics, Facebook]
+Graduated students MS:
 ·
-· sowbaranikabalasubramaniam,m.s.august2024
-· sebrinazeleke,msmay2024,whentousedemographicdatainhealthcareaimodels: abias-responsible
-approach[barklay’sbank]
-· harsha mutra rupendra ms may , analysis of veterinary dermatitis care: a data-driven approach to
-identifyingtreatmentclustersandinsights
-· reshma ramesh babu, ms may , imageomics approach to understanding visual biological trait simi-
-laritiesusingbutterflymimicryasamodelsystem[barklay’sbank]
-· gabriele aldeghi, ms fall , retinal segmentation of intraoperative b-scan optical coherence tomogra-
-phyusingdeeplearning
-· mattiadifata,msfall2019,surgicalinstrumenttrackingforintraoperativevitrectomyguidanceusingdeep
-learningandcomputervision
-· sriphanimohanatejaswigorti,msdec2019,identifyinggeneticrelatednessinbirdsusingvisualpatterns
-· guido di donato, ms may , leveraging succinct data structures for the burrows-wheeler mapping of
-shortsequencereadsonfpga
-· jessicaleoni,msmay2019,t (cid:127) ime-seriesprocessingandclassificationfortheautomaticassessmentofwild
-animalsactivities[phdmilan]
-· pratikanilkshirsagar,msmay2019,investigatingeffectsoftranslatingsimilarityrankingintopairwisesimi-
-larityforimage-basedidentification[morningstar]
-· lorenzo semeria, ms may , mosaic: modeling online sharing of animal images collections [truss
-holdings,inc]
-· matteo foglio, ms may , thesis: animal wildlife population estimation using social media collections
-[wepoinc]
-· riccardo pressiani, ms may . thesis: a sensor system to track individual and social behavior in the
-wild[wepoinc]
-· guidomuscioni,msmay2019. thesis: behavioridentificationofsocialindividualsfromsensordata[anthem,
-inc.]
-· eleonora d’arnese, ms may (uic bioe). thesis: automating lung cancer identification in pet/ct
-imaging
-· mathew yang, m.s. may (uic bioe). project: generalized social anxiety disorder classification with
-dynamiccommunities
-· sreejith menon, m.s. may [illinois’ 50 for the future]. thesis: animal wildlife population estimation
-usingsocialmediaimages[bloomberganalytics]
-· krutarth joshi, m.s. may . project: synthetic input generation for sibling reconstruction problem [mi-
+· Sow baran ika Bala subramania m M. S. August2024
+· Sebrina Zeleke, MSMay2024, Whento Use Demographic Datain Healthcare AIModels: ABias-Responsible
+Approach Bark lay s Bank]
+· Harsha Mutra Rupendra MS May , Analysis of Veterinary Dermatitis Care: A Data-Driven Approach to
+Identifying Treatment Clusters and Insights
+· Reshma Ramesh Babu, MS May , Imageomics Approach to Understanding Visual Biological Trait Simi-
+lari ties using Butterfly Mimicryasa Model System Bark lay s Bank]
+· Gabriele Aldeghi, MS Fall , Retinal Segmentation of Intra operative B-Scan Optical Coherence Tomogra-
+phy Using Deep Learning
+· Mattia Di Fata, MS Fall 2019 Surgical Instrument Tracking for Intra operative Vitrectomy Guidance Using Deep
+Learning and Computer Vision
+· Sri Phani Mohana Tejaswi Gorti, MSDec2019, Identifying Genetic Relatedness in Birds Using Visual Patterns
+· Guido Di Donato, MS May , Leveraging Succinct Data Structures for the Burrows-Wheeler Mapping of
+Short Sequence Readson FPGA
+· Jessica Leoni, MSMay2019, T (cid:127) ime-Series Processing and Classification for the Automatic Assessment of Wild
+Animals Activities Ph DMilan]
+· Pratik Anil K shi r sagar MSMay2019, Investigating Effectsof Translating Similarity Ranking into Pairwise Simi-
+larityfor Image-Based Identification Morningstar
+· Lorenzo Semeria, MS May , MOSAIC: Modeling Online Sharing of Animal images Collections [Truss
+Holdings, Inc]
+· Matteo Foglio, MS May , Thesis: Animal Wildlife Population Estimation Using Social Media Collections
+[Wepo Inc]
+· Riccardo Pressiani, MS May . Thesis: A Sensor System to Track Individual and Social Behavior in the
+Wild[Wepo Inc]
+· Guido Muscioni, MSMay2019. Thesis: Behavior Identification of Social Individuals from Sensor Data Anthem
+Inc.]
+· Eleonora D’Arnese, MS May (UIC Bio E). Thesis: Automating Lung Cancer Identification in PET/CT
+Imaging
+· Mathew Yang, M. S. May (UIC Bio E). Project: Generalized Social Anxiety Disorder Classification with
+Dynamic Communities
+· Sreejith Menon, M. S. May [Illinois’ 50 For the Future]. Thesis: Animal Wildlife Population Estimation
+Using Social Media Images Bloomberg Analytics]
+· Krutarth Joshi, M. S. May . Project: Synthetic Input Generation for Sibling Reconstruction Problem [Mi-
 crosoft]
-· aayushkataria,m.s.may2017. project: halfsiblingreconstructionusingforbiddensubgraphs
-· umbertodifabrizio,m.s.dec2016. thesis: formalizingmethodsandanalysisofbraindynamiccommuni-
-tiesfromfluorescencebrainimaging[thousandeyes]
-· jairajshaktawat,m.s.dec2016. project: friendshipandattributesimilaritynetworksinferencefromlast.fm
-data
-· ashwinbansod,m.s.dec2016. project: minimizingthenumberofparentsforsiblingreconstruction[morn-
-ingstar,google]
-· ettorerandazzo,m.s.may2016. thesis: inferringinteractionnetworkfromsensordata[google]
-· benedetto vitale, m.s. may . thesis: inferring high resolution terrain, vegetation, and lines of sight
-modelsfrompointclouddata[datareplyit]
-· alessandrooddone,m.s.dec2015. thesis: amobileapplicationfortheimagebasedecologicalinformation
-system[bmwtechnologycorporation]
-· jen anderson, m.s. may . thesis: an architecturally relevant model for creating orientation maps of
-primaryvisualcortex[ecragroup]
-· islam ismailov, m.s. december [fulbright scholar]. thesis: visual object detection for animal behavior
-research[facebook]
-· alan perez-rathke, m.s. may [illinois’ 50 for the future, uic coe commencement speaker]. the-
-sis: parallel, error-tolerant sibling reconstruction for wild populations using microsatellite markers [uillinois
-md/phd]
-· jaroslawgwarnicki,m.s.may2011. project. [netherrealmstudios]
-· ramjikrishnan,m.s.dec2010. projectkinalyzer:aweb-basedserviceforsibshipreconstruction[rem-
-edyehr,...,workday]
-· priya govindan, m.s. may . thesis: inferring network structure using maximum likelihood approach
-[rutgersuphd]
-· chayant tantipathananandh, m.s. may . thesis: community identification in dynamic social networks
-usinggeneralizedcoloring[uicphd]
-· andreafranchescini,m.s.may2007. thesis: asoftwarearchitecturefortheanalysisofgenomicproteinfamily
-anddomaincontrolledannotations[swissinstituteofbioinformatics]
-· vinodhperiyasamy,m.s.may2008. project: dynamicgraphgenerator: genericgraphsimulatorfordynamic
-network[goldmansachs]
-· satyalahariputrevu,m.s.december2007. project: siblingreconstructionmethodvalidation[microsoft]
-· srikantvemuri,m.s.december2007. project: dynamicnetworkvisualizationtool[terramatrixmedia,...,womply]
-undergraduatestudents:
-osu:craigfouts,nathanchaikowsky,mia
-uic: hillary branske [united states patent and trademark office], anthony troy, nick shaskevich [google],
-heba basiony [google], joshua herman, brian herman, andrew ring [google, waymo], sruti bhagavatula
-[uic phd], ashley riley, kathleen mancillas, sterling werfal, anthony leon [50 for the future], jose hernan-
-dez, idrees kamal, serena schultz, krishna vamsi chandu, james alex searing, shelby ruettiger, nathan
-seitz,luislove,graeabbott(umich),affanfarid,abdulrehman,ginagerace,ellenkidane,haleyorshon-
-sky, mahmooda ali, ashley stojak, jared manusig, shirley li, sourav jayaprakash, michelle ramirez, viktor
-kirillov,abdulkhan,sacchaagriel,pouyanpourmirjafari.
-highschoolstudents:
-emma sloan, phillip martin, jordan towe, kaitlyn lu, katherine chambers, kyla guru, hannah mcdougall,
-jasonobrycki,varunmallampati,zoewachtel,josephineh.,vi-annguen.
-memberofdissertationcommittee:
-current:
-· monicashah,phdosuenvironmentalhealthscience(laurapomeroyadvisor)
-· gracekoppleman,msosufabe(johnfultonadvisor)
-· arianaspina,msosufabe(johnfultonadvisor)
-· maksimkholyavchenko,phd,rpi(charlesstewartadvisor)
-· shivamabrol,ms,universityofcincinnati(jillianaurisanoadvisor)
-· rezaaverly,ms,osucse(wei-lunchaoadvisor)
-· xinzhuzhang,ph.d.,osueeob(andyrobertsadvsor)
-· debaohuang,ph.d.,osuece(rongjunqingadvisor)
-graduated:
-· benjaminkellenberger,ph. d. ,wageningenuniversity&research(devistuiaadvisor)
-· iaincruickshank,ph.d. ,cmucsisr,(kathleencarleyadvisor)
-· allanperez-rathke,ph.d.may2019,uicbioe(jieliangadvisor)
-· abdelhalloway,ph. d.march2019,uicbiology(joelbrownadvisor)
-· mingye,ph.d. ,epflcs(bernardmoretadvisor)
-· mathewmonfort,ph. d.october2016,uiccs(brianziebartadvisor)
-· alessandropanella,ph.d. ,uiccs(piotrgmytrasiewiczadvisor)
-· hilaryosborne,ph.d.october2016,uicbiology(joelbrownadvisor)
-· andreapurgato,m.s.may2016,uiccs(angusforbesadvisor)
-· benedettovitale,m.s.may2016,uiccs(andrewjohnsonadvisor)
-· danielayala,ph. d.december2015,uiccs(ouriwolfsonadvisor)
-· zhiyuanchen,ph. d.october2015,uiccs(bingliuadvisor)
-· mansourehtakaffoli,ph. d.september2015,ualberta(osmarzaianeadvisor)
-· sonnybleicher,ph. d.august2014,uicbiology(joelbrownadvisor)
-· damienroquero,ph. d.august2013,uicbioe(yangdaiadvisor)
-· jacobjoseph,ph. d.august2012,jointcarnegiemellonuniversity-universityofpittsburghph.d.program
-incomputationalbiology. (danniedurandadvisor)
-· jonathanwaxman,ph.dmay2012,uicece.(danielgraupeanddavidcarleyadvisors)
-· hammadnaveed,ph. d.may2012,uicbioengineering. (jieliangadvisor)
-· isabelcaballero,ph. d.december2011,uicbiology(maryashleyadvisor)
-· chun-an chou, ph. d. august , rutgers university, department of industrial and systems engineering.
-(wanprachachaovalitwongseadvisor)
-· fatemeh vafaee, ph.d. may , uic cs. thesis: controlling genetic operator rates in evolutionary algo-
-rithms(peternelsonadvisor)
-· songqing zhao, ph.d. , uic ece. thesis: multiple description coding over multiple channels (rashid
-ansariadvisor)
-· ilaria bordino, ph. d. may , sapienza university of rome and pompeu fabra university of barcelona.
-thesis: graph mining and its applications to web search, (stefano leonardi and ricardo baeza-yates advi-
+· Aayush Kataria, M. S. May2017. Project: Half Sibling Reconstruction using Forbidden Subgraphs
+· Umberto Di Fabrizio, M. S. Dec2016. Thesis: Formalizing Methodsand Analysisof Brain Dynamic Communi-
+tiesfrom Fluorescence Brain Imaging Thousand Eyes]
+· Jairaj Shaktawat, M. S. Dec2016. Project: Friendship and Attribute Similarity Networks Inference from Last. fm
+Data
+· Ashwin Bansod, M. S. Dec2016. Project: Minimizing the Numberof Parentsfor Sibling Reconstruction[Morn-
+ingstar, Google]
+· Ettore Randazzo, M. S. May2016. Thesis: Inferring Interaction Network from Sensor Data Google
+· Benedetto Vitale, M. S. May . Thesis: Inferring High Resolution Terrain, Vegetation, and Lines of Sight
+Modelsfrom Point Cloud Data[Data Reply IT]
+· Alessandro Oddone, M. S. Dec2015. Thesis: AMobile Application for the Image Based Ecological Information
+System BMW Technology Corporation]
+· Jen Anderson, M. S. May . Thesis: An Architecturally Relevant Model for Creating Orientation Maps of
+Primary Visual Cortex ECR A Group
+· Islam Ismailov, M. S. December [Fulbright Scholar]. Thesis: Visual object detection for animal behavior
+research Facebook
+· Alan Perez-Rathke, M. S. May [Illinois’ 50 For the Future, UIC Co E Commencement Speaker]. The-
+sis: Parallel, Error-Tolerant Sibling Reconstruction for Wild Populations Using Micro satellite Markers [UIllinois
+MD/Ph D]
+· Jaroslaw Gwarnicki, M. S. May2011. Project. [Nether Realm Studios]
+· Ramji Krishnan, M. S. Dec2010. Project KINALYZER:AWeb-based Servicefor Sibship Reconstruction[Rem-
+edy EHR,..., Workday]
+· Priya Govindan, M. S. May . Thesis: Inferring Network Structure Using Maximum Likelihood Approach
+[Rutgers UPh D]
+· Chayant T anti pathan an and h M. S. May . Thesis: Community Identification in Dynamic Social Networks
+Using Generalized Coloring UIC Ph D]
+· Andrea Franches c in i M. S. May2007. Thesis: A software architecture for the analysis of genomic protein family
+and domain controlled annotations Swiss Institute of Bioinformatics]
+· Vinodh Peri yas amy M. S. May2008. Project: Dynamic Graph Generator: Generic graph simulator for dynamic
+network Goldman Sachs]
+· Satya Lahari Putrevu, M. S. December2007. Project: Sibling Reconstruction Method Validation Microsoft
+· Srikant Vemuri, M. S. December2007. Project: Dynamic Network Visualization Tool[Terra Matrix Media,..., Womply]
+Undergraduate students
+OSU:Craig Fouts, Nathan Ch aiko w sky Mia
+UIC: Hillary Branske [United States Patent and Trademark Office], Anthony Troy, Nick Shaskevich [Google],
+Heba Basiony [Google], Joshua Herman, Brian Herman, Andrew Ring [Google, Waymo], Sruti Bhaga va tula
+[UIC Ph D], Ashley Riley, Kathleen Mancillas, Sterling Werfal, Anthony Leon [50 for the Future], Jose Hernan-
+dez, Idrees Kamal, Serena Schultz, Krishna Vamsi Chandu, James Alex Searing, Shelby Ruettiger, Nathan
+Seitz, Luis Love, Grae Abbott UMich Affan Farid, Abdul Rehman, Gina Gerace, Ellen Kidane, Haley Orshon-
+sky, Mahmooda Ali, Ashley Stojak, Jared Manusig, Shirley Li, Sourav Jaya prakash Michelle Ramirez, Viktor
+Kirillov, Abdul Khan, Saccha Agriel, Pouyan Pourmirjafari.
+Highschool students
+Emma Sloan, Phillip Martin, Jordan Towe, Kaitlyn Lu, Katherine Chambers, Kyla Guru, Hannah Mcdougall,
+Jason Obrycki, Varun Mall am pati Zoe Wachtel, Josephine H., Vi-An Nguen.
+Memberof Dissertation Committee:
+Current:
+· Monica Shah, Ph DO SU Environmental Health Science Laura Pomeroy advisor
+· Grace Koppleman, M SO SUF A BE John Fulton advisor
+· Ariana Spina, M SO SUF A BE John Fulton advisor
+· Maksim K holy av chen ko Ph D, RPI Charles Stewart advisor
+· Shivam Abrol, MS, University of Cincinnati Jillian Aur is a no advisor
+· Reza Averly, MS, OSUCSE(Wei-Lun Chao advisor
+· Xinzhu Zhang, Ph. D., OSU EE OB Andy Roberts adv s or
+· Debao Huang, Ph. D., OSU ECE Rong jun Qing advisor
+Graduated:
+· Benjamin Kellenberger, Ph. D., Wageningen University Research Dev is Tui a advisor
+· Iain Cruickshank, Ph. D., CMU CSIS R Kathleen Car ley advisor
+· Allan Perez-Rathke, Ph. D. May2019, UICBio E(Jie Liang advisor
+· Abdel Halloway, Ph. D. March2019, UIC Biology Joel Brown advisor
+· Ming Ye, Ph. D., EP F LCS Bernard Moret advisor
+· Mathew Monfort, Ph. D. October 2016 U ICC S Brian Zi e bart advisor
+· Alessandro Panella, Ph. D., U ICC S Piotr G my tra sie wi cz advisor
+· Hilary Osborne, Ph. D. October 2016 UIC Biology Joel Brown advisor
+· Andrea Purgato, M. S. May2016, U ICC S Angus Forbes advisor
+· Benedetto Vitale, M. S. May2016, U ICC S Andrew Johnson advisor
+· Daniel Ayala, Ph. D. December 2015 UICCS(Ouri Wolf son advisor
+· Zhiyuan Chen, Ph. D. October 2015 UICCS(Bing Liu advisor
+· Mansoureh Takaffoli, Ph. D. September 2015 U Alberta Osmar Zai a ne advisor
+· Sonny Bleicher, Ph. D. August 2014 UIC Biology Joel Brown advisor
+· Damien Roquero, Ph. D. August 2013 UICBio E(Yang Dai advisor
+· Jacob Joseph, Ph. D. August 2012 Joint Carnegie Mellon University-Universityof Pittsburgh Ph. D. Program
+in Computational Biology. (Dannie Durand advisor
+· Jonathan Waxman, Ph. DMay2012, UICECE.(Daniel Graupeand David Car ley advisors
+· Hammad Naveed, Ph. D. May2012, UICBioengineering. (Jie Liang advisor
+· Isabel Caballero, Ph. D. December 2011 UIC Biology Mary Ashley advisor
+· Chun-An Chou, Ph. D. August , Rutgers University, Department of Industrial and Systems Engineering.
+(Wanpracha Cha oval it wong se advisor
+· Fatemeh Vafaee, Ph. D. May , UIC CS. Thesis: Controlling Genetic Operator Rates in Evolutionary Algo-
+rit hms Peter Nelson advisor
+· Songqing Zhao, Ph. D. , UIC ECE. Thesis: Multiple Description Coding over Multiple Channels (Rashid
+Ansari advisor
+· Ilaria Bordino, Ph. D. May , Sapienza University of Rome and Pompeu Fabra University of Barcelona.
+Thesis: Graph Mining and its applications to Web Search, (Stefano Leonardi and Ricardo Baeza-Yates advi-
 sors)
-· xuchen,ph.d.may2010,uicece.(danschonfeldandashfaqkhokharadvisors)
-· junlanyang,ph.d.may2010,uicece.thesis: virtualvideoenhancementformobilecameras: stabilization,
-auto-focusandsuper-resolution(danschonfeldadvisor)
-· fahad saeed, ph.d. may , uic ece. thesis: high performance algorithms for computational biology,
-(ashfaqkhokharadvisor)
-· arthur nsamedjeu, m.s. may , politecnico di milano and uic. thesis: self-adaptive synchronization
-mechanismsforruntimeapplicationsperformanceimprovement,(marcosantambrogioadvisor)
-· xiaowen ding, ph.d. may , uic. thesis: opinion and product name mining on web content, (bing liu
+· Xu Chen, Ph. D. May2010, UICECE.(Dan S cho nfeld and Ashfaq Khokhar advisors
+· Junlan Yang, Ph. D. May2010, UICECE. Thesis: Virtual Video Enhancement for Mobile Cameras: Stabilization,
+Auto-Focusand Super-resolution(Dan S cho nfeld advisor
+· Fahad Saeed, Ph. D. May , UIC ECE. Thesis: High Performance Algorithms for Computational Biology,
+(Ashfaq Khokhar advisor
+· Arthur Nsamedjeu, M. S. May , Polite c nico di Milano and UIC. Thesis: Self-Adaptive Synchronization
+Mechanisms for Runtime Applications Performance Improvement Marco Santa mbr ogi o advisor
+· Xiaowen Ding, Ph. D. May , UIC. Thesis: Opinion and Product Name Mining on Web Content, (Bing Liu
 advisor)
-· amitabh trehan, ph.d. may , university of new mexico. thesis: self-healing dynamic networks (jared
-saiaadvisor)
-· chada.williams,ph.d.may2010,uic.thesis: adataminingapproachtorapidlylearningtraveleractivity
-patternsformobileapplications,(peternelsonadvisor)
-· marina langlois, ph.d. december , uic. thesis: horn formulas: problems and applications, (robert
-sloanadvisor)
-· khairireda,m.s.july2009,uiccs.thesis: socioscape-visualanalysisofspatio-temporalgroupdynam-
-icsinsocialnetworks(jasonleighadvisor)
-· panpan,ph.d.may2009,uicece.thesis: optimalresourceallocationandhigh-orderparticlefilteringfor
-videotracking,(danschonfeldadvisor)
-· carloscaicedo,ph.d.january2009,uicece.thesis: motioncontrolandcoordinationalgorithmsforrobotic
-networks(milosˇ zˇefranadvisor)
-· guanraochen,ph.d. ,uiccs.thesis: exploringtopologiesofgeneticregulatorynetworksforbetter
-reconstruction,(yangdaiadvisor)
-· harishnaik,m.s.october2008,uic.thesis: parallelimplementationofcommunityidentificationindynamic
-socialnetworksusingmpi,(mitchelltheysadvisor)
-· fabio cancare´, m.s. may , politecnico di milano and uic ece. thesis: specifications and modeling for
-dynamicreconfigurablesystems(marcosantambrogioandshantanuduttadvisors)
-· peng fan, ph.d. december , uic. thesis: design and analysis of clustering frameworks in vehicular
-ad-hocnetworks,(peternelsonadvisor)
-· waseemahmad, ph.d.october2007, uic.thesis: triumf:acontext-awaretrustedmiddlewareforsecure
-andreliablecollaborativecomputing,(ashfaqkhokharadvisor)
-· zhengdeng lei, ph.d. september , uic. thesis: genome-wide computational prediction of protein lo-
-calization,(yangdaiadvisor)
-· nicholas d. pattengale, m.s. april , university of new mexico. thesis: tools for phylogenetic post pro-
-cessing,(bernardm.e.moretadvisor)
-· sunghee lee, m.s. june , university of new mexico. thesis: approximate bottom line dee (dead end
-elimination): hybridbottomlinedeeandsplitdee,(bernardm.e.moretadvisor)
-teachingexperience:
-fall 22-spr experiential introduction to imageomics (osu, vt, tulane, rpi, princeton, epfl, collaborative in-
-23 terdisciplinarymulti-institutionalcoursewithafieldprojectcomponentinkenya)
-fall20,21, computer science and engineering research capstone (osu, project based graduate and senior
+· Amitabh Trehan, Ph. D. May , University of New Mexico. Thesis: Self-Healing Dynamic Networks (Jared
+Sai a advisor
+· Chad A. Williams, Ph. D. May2010, UIC. Thesis: AData Mining Approachto Rapidly Learning Traveler Activity
+Patterns for Mobile Applications Peter Nelson advisor
+· Marina Langlois, Ph. D. December , UIC. Thesis: Horn Formulas: Problems and Applications, (Robert
+Sloan advisor
+· Khairi Reda, M. S. July2009, UICCS. Thesis: Socio Scape-Visual Analysisof Spatio-Temporal Group Dynam-
+icsin Social Networks Jason Leigh advisor
+· Pan Pan, Ph. D. May2009, UICECE. Thesis: Optimal Resource Allocation and High-Order Particle Filtering for
+Video Tracking Dan S cho nfeld advisor
+· Carlos Caicedo, Ph. D. January 2009 UICECE. Thesis: Motion control and coordination algorithms for robotic
+networks Milos Z e fran advisor
+· Guanrao Chen, Ph. D., UICCS. Thesis: Exploring Topologies of Genetic Regulatory Networks for Better
+Reconstruction Yang Dai advisor
+· Harish Naik, M. S. October 2008 UIC. Thesis: Parallel Implementation of Community Identification in Dynamic
+Social Networks Using MP I Mitchell They s advisor
+· Fabio Cancare´, M. S. May , Polite c nico di Milano and UIC ECE. Thesis: Specifications and Modeling for
+Dynamic Re configurable Systems Marco Santa mbr ogi o and Shantanu Dutt advisors
+· Peng Fan, Ph. D. December , UIC. Thesis: Design and Analysis of Clustering Frameworks in Vehicular
+Ad-hoc Networks Peter Nelson advisor
+· Waseem Ahmad, Ph. D. October 2007 UIC. Thesis: TRIUMF:Acontext-awaretrusted Middle ware for Secure
+and Reliable Collaborative Computing Ash faq Khokhar advisor
+· Zhengdeng Lei, Ph. D. September , UIC. Thesis: Genome-wide Computational Prediction of Protein Lo-
+c aliz ation Yang Dai advisor
+· Nicholas D. Pat ten gale M. S. April , University of New Mexico. Thesis: Tools for Phylogenetic Post Pro-
+ces sing Bernard M. E. Moret advisor
+· Sunghee Lee, M. S. June , University of New Mexico. Thesis: Approximate Bottom Line DEE (Dead End
+Elimination): Hybrid Bottom Line DEEand Split DEE Bernard M. E. Moret advisor
+Teaching Experience:
+Fall 22-Spr Experiential Introduction to Imageomics (OSU, VT, Tulane, RPI, Princeton, EPFL, collaborative in-
+23 terdisciplinarymulti-institutionalcoursewithafieldprojectcomponentin Kenya)
+Fall20,21, Computer Science and Engineering Research Capstone (OSU, project based graduate and senior
 22 undergrad)
-fall16,18 programdesigniwithbiology(uic,introcswithbiocontent)
-fall05,06, computeralgorithmsi(uic,graduateandseniorundergrad)
+Fall16,18 Program Design Iwith Biology UIC intro CS with bio content
+Fall05,06, Computer Algorithms I(UIC, graduate and senior undergrad
 07, 11, 15,
 17
-spr08,15
-spr06,09, algorithmsincomputationalbiology(uic,graduate)
+Spr08,15
+Spr06,09, Algorithms in Computational Biology UIC graduate)
 11,16,17
-fall17,18
-spr10,12, fieldcomputationalpopulationbiology(uicandprincetongraduate,taughtinkenyaanduic)
+Fall17,18
+Spr10,12, Field Computational Population Biology UIC and Princeton graduate taughtin Kenyaand UIC)
 15
-fall12,14 mathematicalfoundationsofcomputing(uicundergraduate)
-fall09,10, discretestructuresii(uicundergraduate)
+Fall12,14 Mathematical Foundations of Computing UIC undergraduate
+Fall09,10, Discrete Structures II UIC undergraduate
 11,12
-fall2008 advancedalgorithmanalysis(uic,graduate)
-spr2007 computationalanalysisofnetworks(uic,graduate)
-fall2003 inexactalgorithms(unm,advancedgraduate)
-fall2001 numericallinearalgebra(uiuc,graduateandseniorundergraduate)
-sum2001 introductiontotheoryofcomputation(uiuc,introductoryundergraduate)
-sum1999 computerscienceunplugged(uiuc,discovercoursefornon-technicalmajors)
-fall1997 numericalanalysis(uiuc,graduateandseniorundergraduate,ta)
-sum1997 combinatorialalgorithms(uiuc,graduateandseniorundergraduate,ta)
-spr1997 discretemathematicalstructures(uiuc,introductoryundergraduate,ta)
-fall1996 introductiontocomputerscience(uiuc,introductoryforengineeringmajors,ta)
-serviceandvolunteeractivities(last5years,woefullyincompletelist):
-– scientificadvisor,conservationxlabs
-– treasurer,foundingofficer,centralohioacm-wchapter.
-, expertjudgepanelmember,forbes2023ai50list
-chair,nsfcommitteeofvisitors,iissubcommittee,cisedirectorate
-– memberoftheadvisorycouncil,oceanvisionai
-– memberoftheinternationalscientificadvisoryboard,artificialintelligenceforscience,science
-forartificialintelligence(aissai)centre,cnrs
-– invitedspecialist,globalpartnershiponai(gpai),aionbiodiversityworkinggroup
-invitedsubjectmatterexpert,uschamberofcommercepanelonaiethics
-5+years organizingcommitteemember(extremelyselected):
-aaai-24inauguralimageomicsworkshop
-nasem1stus-africafrontiersofscience,engineering,andmedicinesymposium, ,nairobi,kenya
-afirm-19: acmafricasummerschoolonmachinelearningfordataminingandsearch,capetown,sa
-sdm-18,19: siaminternationalconferenceondatamininggeneralco-chair
-aaas15,19,21: sessionorganizer
-ghc-14: gracehoppercelebrationofwomenincomputingdatasciencetechnicaltrackco-chair.
-aaai-14-24,kdd08-18,sdm14-17,...
-senior program committee member and reviewer for numerous conferences, journals, and granting
+Fall2008 Advanced Algorithm Analysis UIC graduate)
+Spr2007 Computational Analysisof Networks UIC graduate)
+Fall2003 Inexact Algorithms UN M advanced graduate
+Fall2001 Numerical Linear Algebra UIUC graduate and senior undergraduate
+Sum2001 Introduction to Theoryof Computation UIUC introductory undergraduate
+Sum1999 Computer Science Unplugged UIUC discovercoursefornon-technicalmajors)
+Fall1997 Numerical Analysis UIUC graduate and senior undergraduate TA)
+Sum1997 Combinatorial Algorithms UIUC graduate and senior undergraduate TA)
+Spr1997 Discrete Mathematical Structures UIUC introductory undergraduate TA)
+Fall1996 Introduction to Computer Science UIUC introductory for engineering majors TA)
+Serviceand Volunteer Activities last 5 years woefully in completelist
+– Scientific Advisor, Conservation XLabs
+– Treasurer, founding officer Central Ohio ACM-Wchapter.
+, Expert judge panel member Forbes 2023 A I 50 list
+Chair, NSF Committee of Visitors, I IS subcommittee C IS E directorate
+– Member of the Advisory Council, Ocean Vision AI
+– Member of the International Scientific Advisory Board, Artificial Intelligence for Science, Science
+for Artificial Intelligence A IS SAI Centre CNRS
+– Invited specialist Global Partnership on AI(GPAI), AIon Biodiversity working group
+Invited subject matter expert US Chamber of Commerce panel on AIEthics
+5+years Organizing Committee Member extremely selected
+AAAI-24inaugural Imageomics Workshop
+NASEM1st US-Africa Frontiers of Science, Engineering, and Medicine Symposium,, Nairobi, Kenya
+AFIRM-19: ACMAfrica Summer Schoolon Machine Learning for Data Miningand Search, Cape Town, SA
+SDM-18,19: SIAM International Conference on Data Mininggeneralco-chair
+A A AS 15 19 21 session organizer
+GHC-14: Grace Hopper Celebration of Womenin Computing Data Science Technicaltrackco-chair.
+AAAI-14-24, KDD08-18, SDM14-17,...
+Senior Program Committee member and reviewer for numerous conferences, journals, and granting
 agencies.
-advisoryboard,clinicaltranslationalsciencesinstitute(formerlyccts)atosu
-osudirectorofsoftwareengineeringcentersearchcommittee
-– facultymentor,csefaculty
-- osucovid-19comprehensivemonitoringteam,dataanalyticsandmodelinglead
-– osueminencescholarmentor
-osuctosearchcommittee
-osucollegeofengineeringdeansearchcommittee
-outreachandcommunityservice(awoefullyincompletelistofthelast5years):
-speaker,inauguralmeetingofthecentralohioacm-wchapter
+Advisory Board, Clinical Translational Sciences Institute formerly CCTS)at OSU
+OSU Director of Software Engineering Center Search committee
+– Faculty mentor CSEfaculty
+- OSUCOVID-19Comprehensive Monitoring Team, data analytics and modeling lead
+– OSU Eminence Scholar mentor
+OSU C TO Search Committee
+OSU College of Engineering Dean Search Committee
+Outreach and Community Service a woefully in completelist of the last 5 years
+Speaker, inaugural meeting of the Central Ohio ACM-Wchapter
 , ’23,
 ’24
 ,’22
 ,’22
-,’18,’20 co-organizer,thegreatgrevy’s(andreticulatedgiraffe)rally,kenya
+,’18,’20 Co-organizer, The Great Gre vy s And Reticulated Giraffe Rally Kenya

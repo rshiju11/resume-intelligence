@@ -1,388 +1,387 @@
-michael gubanov
-contact department of computer science http://www.mgubanov.com
-information florida state university http://www.cancerkg.org
-1017 academic way, love building, 0172
-tallahassee, fl 32304
-research areas • data management
-large-scaledatamanagement,databases,datafusion,informationextraction(ie)
-• artificial intelligence (ai)
-large language models (llms), deep learning, machine learning
-• medical informatics
-oncology, rare and common cancers
-education rice university, houston, tx
-postdoctoral associate, department of computer science
-a short project-focused postdoc before starting the endowed position at utsa
-massachusetts institute of technology (mit), cambridge, ma
-postdoctoral associate
-computer science & artificial intelligence laboratory (csail)
-university of washington, seattle, wa
-ph.d., m.sc. computer science & engineering ,
-m.b.a. coursework foster school of business
-ibm almaden research center, almaden, ca
-graduate research intern
-microsoft research, redmond, wa
-graduate research intern
-google, mountain view, ca
-graduate research intern
-itmo university, st. petersburg, russia
-acm-icpc world champions 7 times
-b.sc., applied mathematics and computer science
-professional florida state university, tallahassee, fl -
-experience assistant professor
-university of texas at san antonio, san antonio, tx -
-cloud technology endowed assistant professor
-aliselle r&d, sunnyvale, ca -
-chief scientist, co-founder
-selected casey desantis florida cancer innovation fund, florida dept. of health - ...
-recent funding pi:cancer-search:anovelscalablehybridaiinformationretrievalsystemfor
-(≈$2m as a pi): bestpracticesincancertreatmentandcare($600kawarded. $664kapproved, to
+of
+Information Florida State University
+1017 Academic Way, Love Building, 0172
+Tallahassee, FL 32304
+Research Areas • Data Management
+Large-scale Data Management, Databases, Data Fusion, Information Extraction IE
+• Artificial Intelligence (AI)
+Large Language Models (LLMs), Deep Learning, Machine Learning
+• Medical Informatics
+Oncology, Rare and Common cancers
+Education Rice University, Houston, TX
+Postdoctoral Associate, Department of Computer Science
+A short project-focused Postdoc before starting the Endowed position at UTSA
+Massachusetts Institute of Technology (MIT), Cambridge, MA
+Postdoctoral Associate
+Computer Science & Artificial Intelligence Laboratory (CSAIL)
+University of Washington, Seattle, WA
+Ph. D., M. Sc. Computer Science & Engineering ,
+M. B. A. coursework Foster School of Business
+IBM Almaden Research Center, Almaden, CA
+Graduate Research Intern
+Microsoft Research, Redmond, WA
+Graduate Research Intern
+Google, Mountain View, CA
+Graduate Research Intern
+ITMO University, St. Petersburg, Russia
+ACM-ICPC World Champions 7 times
+B. Sc., Applied Mathematics and Computer Science
+Professional Florida State University, Tallahassee, FL -
+Experience Assistant Professor
+University of Texas at San Antonio, San Antonio, TX -
+Cloud Technology Endowed Assistant Professor
+Aliselle R&D, Sunnyvale, CA -
+Chief Scientist, Co-founder
+Selected Casey De Santis Florida Cancer Innovation Fund, Florida Dept. of Health - ...
+Recent Funding PI:Cancer-SEARCH:a Novel Scalable Hybrid A I Information Retrieval Systemfor
+(≈$2M as a PI): Best Practices in Cancer Treatment and Care($600Kawarded. 664 K approved to
 be awarded). $1,264,966
-nsf - ...
-pi:automaticconstructionofknowledgegraphsforrapidaccesstodatascience
-publications $550,000
-aws ai amazon research award -
-pi: an interactive polygraph for robust access to scientific knowledge, $70,000
-selected • aws ai amazon research award
-awards/honors • acm sigmod student travel award (my student’s award)
+NSF - ...
+PI Automatic Construction of Knowledge Graphsfor Rapid Accessto Data Science
+Publications $550,000
+AWS AI Amazon Research Award -
+PI: An Interactive Polygraph for Robust Access to Scientific Knowledge, $70,000
+Selected • AWS AI Amazon Research Award
+Awards Honors • ACM SIGMOD Student Travel Award (My student’s award)
 1 of 9
-• communications of the acm (cacm) research highlight award
-selection criteria: the goal of the cacm research highlight(rh) column is to
-highlight exciting, recent research results across the field of computer science. a paper
-might be chosen for rh because it opens up a new area in a field, or because it has the
+• Communications of the ACM (CACM) Research Highlight Award
+Selection Criteria: The goal of the CACM Research Highlight RH column is to
+highlight exciting, recent research results across the field of Computer Science. A paper
+might be chosen for RH because it opens up a new area in a field, or because it has the
 potential to be a definitive milestone.
-• acm sigmod research highlight award
-selection criteria: the acm sigmod research highlight award is devoted to
+• ACM SIGMOD Research Highlight Award
+Selection Criteria: The ACM SIGMOD Research Highlight Award is devoted to
 themostsignificantrecentresearchresultspublishedinthedatamanagementcommunity.
-• ieee icde best paper award, san diego, ca
-• hemolix: finalists of vodafone americas foundation annual wireless innovation
-project, redwood city, ca
-• hemolix: finalists of nokia x-prize 2.25m challenge, los angeles, ca
-graduate • t. ivanov, postdoc
-students and • g. shrestha, phd candidate
-postdocs • c. jiang, phd, post quals
-• s. ganesh, m.sc.
-• k. reddy, m.sc.
-• i. yarlagada, m.sc.
-• r. munugala, m.sc.
-• i. yarlagada, m.sc.
-• y. yashaswini, m.sc.
-• s. hirve, m.sc.
-• m. edivelli, m.sc.
-• k. kadari, m.sc.
-• g. reddi, m.sc.
-selected • fsu: cancerkg.org [2, a-d] – a novel ai llm-based system for cancer.
-research a. pi on the $1,264,966 consortium grant, 3 co-pis from moffitt cancer center and
-projects research institute (an oncologist, machine learning department chair, a data
-scientist), a co-pi - a professor from university of south florida (usf)
-b. hired 12 computer science ph.d and m.sc. students and a postdoc, who are
+• IEEE ICDE Best Paper Award, San Diego, CA
+• Hemolix: Finalists of Vodafone Americas Foundation Annual Wireless Innovation
+Project, Redwood City, CA
+• Hemolix: Finalists of Nokia X-Prize 2.25M challenge, Los Angeles, CA
+Graduate • T. Ivanov, Postdoc
+Students and • G. Shrestha, Ph D Candidate
+Postdocs • C. Jiang, Ph D, post Quals
+• S. Ganesh, M. Sc.
+• K. Reddy, M. Sc.
+• I. Yarlagada, M. Sc.
+• R. Munugala, M. Sc.
+• I. Yarlagada, M. Sc.
+• Y. Yash as win i M. Sc.
+• S. Hirve, M. Sc.
+• M. Edivelli, M. Sc.
+• K. Kadari, M. Sc.
+• G. Reddi, M. Sc.
+Selected • FSU: [2, a-d] – A novel AI LLM-based system for cancer.
+Research a. PI on the $1,264,966 consortium grant, 3 co-PIs from Moffitt Cancer Center and
+Projects Research Institute (an On colo gist Machine Learning Department Chair, a Data
+Scientist), a co-PI - a Professor from University of South Florida (USF)
+b. Hired 12 Computer Science Ph. D and M. Sc. students and a Postdoc, who are
 currently working on the project
-c. gave invited talks at massachusetts institute of technology (mit), computer
-science and artificial intelligence laboratory (csail), pharma r&d conference,
-and before florida government.
-d. the current research prototype is available at http://www.cancerkg.org.
-e. published in edbt , icde , acm cikm .
-• fsu: covidkg.org – a web-scale knowledge graph/llm simplifying access to
-trustworthy, up to date covid-19 medical knowledge.
-a. pi on $70,000 amazon aws and $550,000 and $50,000 nsf grants.
-b. hired 2 computer science ph.d and 2 m.sc. students to work on the project
-c. participated with the team in the nsf i-corps program.
-d. the research prototype is available at http://www.covidkg.org.
-g. published in edbt .
-• mit csail: fusion of large-scale structured and unstructured data.
-a. collaboratedwithtamrinc. andrecordedfutureinc. togetweb-scaledatasets.
-b. published in edbt, ieee icde.
-a. worked with ms bing team to productize it as a part of ms bing! local search
+c. Gave invited talks at Massachusetts Institute of Technology (MIT), Computer
+Science and Artificial Intelligence Laboratory (CSAIL), Pharma R&D Conference,
+and before Florida Government.
+d. The current research prototype is available at
+e. Published in EDBT , ICDE , ACM CIKM .
+• FSU: – a Web-scale Knowledge Graph/LLM simplifying access to
+trustworthy, up to date Covid-19 medical knowledge.
+a. PI on $70,000 Amazon AWS and $550,000 and $50,000 NSF grants.
+b. Hired 2 Computer Science Ph. D and 2 M. Sc. students to work on the project
+c. Participated with the team in the NSF I-Corps program.
+d. The research prototype is available at
+g. Published in EDBT .
+• MIT CSAIL: Fusion of large-scale structured and unstructured data.
+a. Collaborated with Tamr Inc. and Recorded Future Inc. toget Web-scaledatasets.
+b. Published in EDBT, IEEE ICDE.
+a. Worked with MS Bing team to productize it as a part of MS Bing! local search
 product offering.
 2 of 9
-• google: seti, froogle.com – a novel ranker of google product search results using
-their distributed machine-learning (ml) infrastructure
-a. designed and developed new distributed ml algorithms using map/reduce.
-b. trained one of the first models at google on terabytes of training data.
-c. workedwiththeproduct-searchteamtoproductizethetrainedmodelimproving
-relevance of product web-search results.
-patents issued: • michaelgubanov,”systemsandmethodsforinteractivelarge-
-scale data search and profiling”, us patent #11,977,564, 05/07/
-patents • michael gubanov, ”systems and methods for automatically
-pending: constructing knowledge graphs”, uspto # 63/491,404, 03/21/
-• michael gubanov, ”systems and methods of presenting information to a user”,
-uspto # 63/709,723, 10/21/
-• michael gubanov, ”systems and methods for interacting with
-knowledgegraphs;usapplicationno. 19/039,250”,uspto#19/039,250,
+• Google: SETI, – A novel ranker of Google product search results using
+their distributed Machine-learning (ML) infrastructure
+a. Designed and developed new distributed ML algorithms using Map/Reduce.
+b. Trained one of the first models at Google on terabytes of training data.
+c. Worked with the Product-searchteamtoproductizethetrainedmodelimproving
+relevance of product Web-search results.
+Patents Issued: • Michael Gubanov,”SYSTEMSANDMETHODSFORINTERACTIVELARGE-
+SCALE DATA SEARCH AND PROFILING”, US Patent 11 977 564 05/07/
+Patents • Michael Gubanov, ”SYSTEMS AND METHODS FOR AUTOMATICALLY
+Pending: CONSTRUCTING KNOWLEDGE GRAPHS”, USPTO # 63 491 404 03/21/
+• Michael Gubanov, ”Systems and Methods of Presenting Information to a User”,
+USPTO # 63 709 723 10/21/
+• Michael Gubanov, ”SYSTEMS AND METHODS FOR INTERACTING WITH
+KNOWLEDGE GRAPHS US Application No. 19 039 250 USP TO 19 039 250
 01/28/
-talks:
-a. cancer.ai-anovelaisystemenablingquickaccesstobestpracticesincancer
-treatment and care in clinical data lakes, university of texas at arlington,
-arlington, tx
-b. cancer.ai-ahybridpolystore/llmsimplifyingaccesstoknowledgeinclinical
-data lakes, mit csail, cambridge, ma
-c. cancer.ai-ahybridpolystore/llmsimplifyingaccesstoknowledgeinclinical
-data lakes, pharma r&d conference, boston, ma
-d. cancer.ai-ahybridpolystore/llmsimplifyingaccesstoknowledgeinclinical
-data lakes, moffitt cancer center and research institute, tampa, fl
-e. cancer.ai-ahybridpolystore/llmsimplifyingaccesstoknowledgeinclinical
-datalakes,floridaexecutiveofficeofthegovernor(eog),tallahassee,fl2023
-f. covidkg.org - a web-scale covid-19 interactive, trustworthy knowledge
-graph, constructedandinterrogatedforbiasusingdeep-learning, nsf i-corps
-program. team 2753, wa dc/remote
-g. covidkg.org, university of california at riverside, riverside, ca
-h. hybrid.poly: aninteractivelarge-scalein-memoryanalyticalpolystore, florida
-state university, tallahassee, fl
-i. hybrid: alarge-scalelinear-relationaldatabasemanagementsystem,massachusetts
-institute of technology (mit), cambridge, ma
-j. hybrid: alarge-scalelinear-relationaldatastore, texasfreshairbigdata&
-data analytics conference, san antonio, tx
-k. tamingbigdatavariety,massachusettsinstituteoftechnology,cambridge,ma
-l. polybase - an interactive large-scale data fusion system, university of texas at
-san antonio, tx
+Talks:
+a. Cancer. AI-a Novel AISystem Enabling Quick Accessto Best Practices in Cancer
+Treatment and Care in Clinical Data Lakes, University of Texas at Arlington,
+Arlington, TX
+b. Cancer. AI-a Hybrid Poly store LL M Simplifying Accessto Knowledge in Clinical
+Data Lakes, MIT CSAIL, Cambridge, MA
+c. Cancer. AI-a Hybrid Poly store LL M Simplifying Accessto Knowledge in Clinical
+Data Lakes, Pharma R&D Conference, Boston, MA
+d. Cancer. AI-a Hybrid Poly store LL M Simplifying Accessto Knowledge in Clinical
+Data Lakes, Moffitt Cancer Center and Research Institute, Tampa, FL
+e. Cancer. AI-a Hybrid Poly store LL M Simplifying Accessto Knowledge in Clinical
+Data Lakes, Florida Executive Office of the Governor E OG Tallahassee, FL2023
+f. COVIDKG. ORG - a Web-scale COVID-19 Interactive, Trustworthy Knowledge
+Graph, Constructed and Interrogated for Biasusing Deep-Learning, NSF I-Corps
+Program. Team 2753, WA DC/remote
+g. COVIDKG. ORG, University of California at Riverside, Riverside, CA
+h. Hybrid. Poly: An Interactive Large-scale In-memory Analytical Polystore, Florida
+State University, Tallahassee, FL
+i. Hybrid: ALarge-scale Linear-Relational Database Management System, Massachusetts
+Institute of Technology (MIT), Cambridge, MA
+j. Hybrid: ALarge-scale Linear-Relational Data Store, Texas Fresh AIRBig Data&
+Data Analytics Conference, San Antonio, TX
+k. Taming Big Data Variety, Massachusetts Institute of Technology, Cambridge, MA
+l. Poly Base - an Interactive Large-scale Data Fusion System, University of Texas at
+San Antonio, TX
 3 of 9
-m. polybase - an interactive large-scale data fusion system, university of florida,
-fl
-n. polybase - an interactive large-scale data fusion system, university of central
-florida, fl
-o. polybase-aninteractivelarge-scaledatafusionsystem,louisianastateuniversity,
-baton rouge, la
-p. structuralweb-searchwithhigh-dimensionaltype-awarelocality-sensitivehashing,
-adobe research, san jose, ca
-q. structuralweb-searchwithhigh-dimensionaltype-awarelocality-sensitivehashing,
-hitachi research, san jose, ca
-r. type-aware structural search with high-dimensional locality-sensitive hashing,
-rice university, houston, tx
-s. type-aware search with locality-sensitive hashing, oracle labs, belmont, ca
-t. type-awaresearchwithlocality-sensitivehashing, samsungresearch, sanjose,
-ca
-u. large-scale sublinear logistic regression, intel research, santa clara, ca
-v. taming big data variety, florida atlantic university, boca raton, fl
-w. taming big data variety, state university of new york at stony brook, stony
-brook, ny
-x. large-scale data integration, tamr, cambridge, ma
-y. large-scale semantic sketch extraction, recorded future, cambridge, ma
-z. web-scale synonym resolution, recorded future, cambridge, ma
-. fusion of text and structured data at scale, mit, cambridge, ma
-. simplifyingaccesstostructuredandunstructureddata,stanforduniversity,stanford,
-ca
-. simplifyinginformationintegrationusingufo,universityofwashington,seattle,
-wa
-selected 1
-refereed 1. bhimkandibedala,gyanendrashrestha,annapyayt,michaelgubanov,”scalable
-publications: tabular hierarchical metadata classification in heterogeneous structured large-
-(my role on all scale datasets using contrastive learning”, 12 pages, to appear in icde, ;
-publications icde is rated a by core rankings portal and is listed at csrankings.org
-where i am the
-2. gyanendra shrestha, chutian jiang, sai akula, vivek yannam, anna pyayt,
+m. Poly Base - an Interactive Large-scale Data Fusion System, University of Florida,
+FL
+n. Poly Base - an Interactive Large-scale Data Fusion System, University of Central
+Florida, FL
+o. Poly Base-an Interactive Large-scale Data Fusion System, Louisiana State University,
+Baton Rouge, LA
+p. Structural Web-searchwith High-dimensional Type-aware Locality-sensitive Hashing,
+Adobe Research, San Jose, CA
+q. Structural Web-searchwith High-dimensional Type-aware Locality-sensitive Hashing,
+Hitachi Research, San Jose, CA
+r. Type-aware Structural Search with High-dimensional Locality-sensitive Hashing,
+Rice University, Houston, TX
+s. Type-aware Search with Locality-sensitive Hashing, Oracle Labs, Belmont, CA
+t. Type-aware Searchwith Locality-sensitive Hashing, Samsung Research, San Jose,
+CA
+u. Large-scale Sublinear Logistic Regression, Intel Research, Santa Clara, CA
+v. Taming Big Data Variety, Florida Atlantic University, Boca Raton, FL
+w. Taming Big Data Variety, State University of New York at Stony Brook, Stony
+Brook, NY
+x. Large-scale Data Integration, Tamr, Cambridge, MA
+y. Large-scale semantic sketch extraction, Recorded Future, Cambridge, MA
+z. Web-scale synonym resolution, Recorded Future, Cambridge, MA
+. Fusion of text and structured data at scale, MIT, Cambridge, MA
+. Simplifying access to structured and unstructured data Stanford University, Stanford,
+CA
+. Simplifying information integration using UFO, University of Washington, Seattle,
+WA
+Selected 1
+Refereed 1. Bhim K and i be dal a Gyanendra Shrestha, Anna Pyayt, Michael Gu ba nov Scalable
+Publications: Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-
+(My role on all scale Datasets using Contrastive Learning”, 12 pages, to appear in ICDE, ;
+publications ICDE is rated A by CORE rankings portal and is listed at
+where I am the
+2. Gyanendra Shrestha, Chutian Jiang, Sai Akula, Vivek Yannam, Anna Pyayt,
 last author is
-michael gubanov ”tabular embeddings for generally structured tables with
-the leading pi)
-bi-dimensional hierarchical metadata and nesting”, to appear in edbt ,
-core a ranked
-1premiere conferences in computer science (e.g. www, cikm, sigmod, icde, cidr, cikm,
-icdm,etc)arehighlyselectiveandintendedforarchivalpapersonly. theseconferencesoftenexceed
-journalsintheirselectivity,visibility,andimpact. submissionsundergomultipleroundsofreviewbefore
-beingacceptedforpublication. pleaseseehttp://portal.acm.org/citation.cfm?id=1743546.1743569for
+Michael Gubanov ”Tabular Embeddings for Generally Structured Tables with
+the leading PI)
+Bi-Dimensional Hierarchical Metadata and Nesting”, to appear in EDBT ,
+CORE A ranked
+1Premiere conferences in computer science (e. g. WWW, CIKM, SIGMOD, ICDE, CIDR, CIKM,
+ICDM, etc)arehighlyselectiveandintendedforarchivalpapersonly. These conferences often exceed
+journals in their selectivity visibility, andimpact. Submissions undergo multiple rounds of review before
+beingacceptedforpublication. /citation. cfm?id=1743546.1743569for
 astudycomparingtheimpactofconferencepapersandjournalsintheseareas.
 4 of 9
-3. michael gubanov, anna pyayt, aleksandra karolack, ”cancerkg.org - a
-web-scale, interactive, verifiable knowledge graph-llm hybrid for assisting
-with optimal cancer treatment and care”, in acm cikm, , core a
+3. Michael Gubanov, Anna Pyayt, Aleksandra Karolack, ”Cancer KG. ORG - a
+Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting
+with Optimal Cancer Treatment and Care”, in ACM CIKM, , CORE A
 ranked
-4. maitrychauhan,annapyayt,michael gubanov”learningtopicalstructured
-interfaces from medical research literature”, in the web conference (www),
-, core a+ ranked, csrankings
-5. bhimesh kandibedala, anna pyayt, nick piraino, chris caballero, michael
-gubanov ”covidkg.org - a web-scale covid-19 interactive, trustworthy
-knowledge graph, constructed and interrogated for bias using deep-learning”,
-in edbt , core a ranked
-6. bhimkandibedala,annapyayt,michaelgubanov’scalablemetadataclassification
-in heterogeneous large-scale datasets”, in edbt, dolap
-7. michaelgubanov,annapyayt,sophiepavia”learningcirculartabularembeddings
-for heterogeneous large-scale structured datasets”, in edbt, dolap
-8. michaelgubanov,etal”visualizingandqueryinglarge-scalestructureddatasets
-by learning multi-layered 3d meta-profiles”, in ieee bigdata
-9. michaelgubanov,sophiepavia,annapyayt,williamgoble”leveragingscalable
-profilingtolearnandvisualizethelatesttrustworthycovid-19medicalresearch
-findings”, in acm cikm , core a ranked
-10. sophie pavia, rituparna khan, anna pyayt, michael gubanov ”simplifying
-accesstolarge-scalestructureddatasetsbymeta-profilingwithscalabletraining
-set enrichment”, in acm sigmod , core a+ ranked, csrankings
-11. kaziislam,michaelgubanov”scalabletabularmetadatalocationandclassification
-in large-scale structured datasets”, in dexa, springer nature, , (1) :
-pp. 35-50, 20% acc.rate in
-12. montasirshams,sophiepavia,rituparna,khan,annapyayt,michaelgubanov
-”towards unveiling dark web structured data”, in ieee bigdata
-13. sophiepavia,montasirshams,rituparna,khan,annapyayt,michaelgubanov
-”learning tabular embeddings at web scale”, in ieee bigdata
-14. rituparnakhan,michaelgubanov”weblens: towardsinteractivelarge-scale
-structured data profiling”, in acm cikm , core a ranked
-15. rituparna khan, michael gubanov ”towards tabular embeddings, training
-the models”, in ieee bigdata
-16. rituparnakhan,michaelgubanov”weblens: towardsweb-scaledataintegration,
-training the relational models”, in ieee bigdata
-17. anna pyayt, rituparna khan, robert brzozowski, prahathees eswara, michael
-gubanov”rapidantibioticsusceptibilityanalysisusingmicroscopyandmachine
-learning”, in ieee bigdata
-18. maksimpodkorytov,michaelgubanov”hybrid.poly: aconsolidatedinteractive
-analytical polystore system”, in icde , core a+ ranked, csrankings
-19. seansoderman,anushakola,maximpodkorytov,michaelgeyer,michaelgubanov,
-”hybrid.ai: a learning search engine for large-scale structured data”, in the
-web conference (www), companion proceedings,
+4. Maitry Chauhan, Anna Pyayt, Michael Gu ba nov Learning Topical Structured
+Interfaces from Medical Research Literature”, in The Web Conference (WWW),
+, CORE A+ ranked, CSRankings
+5. Bhimesh K and i be dal a Anna Pyayt, Nick Piraino, Chris Caballero, Michael
+Gubanov ”COVIDKG. ORG - a Web-scale COVID-19 Interactive, Trustworthy
+Knowledge Graph, Constructed and Interrogated for Bias using Deep-Learning”,
+in EDBT , CORE A ranked
+6. Bhim K and i be dal a Anna Pyayt, Michael Gu ba nov Scalable Metadata Classification
+in Heterogeneous Large-scale Datasets”, in EDBT, DOLAP
+7. Michael Gubanov, Anna Pyayt, Sophie Pavia Learning Circular Tabular Embeddings
+for Heterogeneous Large-scale Structured Datasets”, in EDBT, DOLAP
+8. Michael Gubanov, et al Visualizing and Querying Large-scale Structured Datasets
+by Learning Multi-layered 3D Meta-Profiles”, in IEEE Big Data
+9. Michael Gubanov, Sophie Pavia, Anna Pyayt, William Gob le Leveraging Scalable
+Profiling to Learnand Visualize the Latest Trustworthy COVID-19Medical Research
+Findings”, in ACM CIKM , CORE A ranked
+10. Sophie Pavia, Rituparna Khan, Anna Pyayt, Michael Gubanov ”Simplifying
+Accessto Large-scale Structured Datasetsby Meta-Profilingwith Scalable Training
+Set Enrichment”, in ACM SIGMOD , CORE A+ ranked, CSRankings
+11. Kazi Islam, Michael Gu ba nov Scalable Tabular Metadata Location and Classification
+in Large-scale Structured Datasets”, in DEXA, Springer Nature, , (1) :
+pp. 35-50, 20% acc. rate in
+12. Montasir Shams, Sophie Pavia, Rituparna, Khan, Anna Pyayt, Michael Gubanov
+”Towards Unveiling Dark Web Structured Data”, in IEEE Big Data
+13. Sophie Pavia, Montasir Shams, Rituparna, Khan, Anna Pyayt, Michael Gubanov
+”Learning Tabular Embeddings at Web Scale”, in IEEE Big Data
+14. Rituparna Khan, Michael Gu ba nov Web Lens: Towards Interactive Large-scale
+Structured Data Profiling”, in ACM CIKM , CORE A ranked
+15. Rituparna Khan, Michael Gubanov ”Towards Tabular Embedding s Training
+the Models”, in IEEE Big Data
+16. Rituparna Khan, Michael Gu ba nov Web Lens: Towards Web-scale Data Integration,
+Training the Relational Models”, in IEEE Big Data
+17. Anna Pyayt, Rituparna Khan, Robert Br zo zo w ski Prahathees Eswara, Michael
+Gu ba nov Rapid Antibiotic Susceptibility Analysis Using Microscopy and Machine
+Learning”, in IEEE Big Data
+18. Maksim Pod ko ry to v Michael Gubanov”Hybrid. Poly: A Consolidated Interactive
+Analytical Polystore System”, in ICDE , CORE A+ ranked, CSRankings
+19. Sean Soderman, Anusha Kola, Maxim Pod ko ry to v Michael Geyer, Michael Gubanov,
+”Hybrid. AI: A Learning Search Engine for Large-scale Structured Data”, in The
+Web Conference (WWW), Companion Proceedings,
 5 of 9
-20. rituparnakhan,michael gubanov”nesteddolls: towardsunsupervisedweb
-tables clustering”, in ieee bigdata,
-21. maksim podkorytov, michael gubanov ’hybrid.poly: performance evaluation
-of linear algebra analytical extensions”, in ieee bigdata,
-22. steven ortiz, caner enbatan, maksim podkorytov, dylan soderman, michael
-gubanov, ”hybrid.json: high-velocity parallel in-memory polystore json
-ingest”, in ieee big data, boston, usa,
-23. santiagovillasenor,tomnguyen,anushakola,seansoderman,michaelgubanov,
-”scalablespamclassifierforwebtables”,inieee big data,boston,usa,
-24. marksimmons,danielarmstrong,dylansoderman,michaelgubanov,”hybrid.media:
-high velocity video ingestion in an in-memory scalable analytical polystore”,
-in ieee big data, boston, usa,
-25. anusha kola, harshal more, sean soderman, michael gubanov, ”generate
-ufos from the classified object tables”, in ieee big data, boston, usa,
-26. maksim podkorytov, dylan soderman, michael gubanov, ”hybrid.poly: an
-interactive large-scale in-memory analytical polystore”, in icdm dsbda, new
-orleans, usa, , pp. 43-50
-27. michaelgubanov,manjupriya,maksimpodkorytov”cognitivedb:anintelligent
-navigator for large-scale dark structured data”, in www, perth, australia,
-, core a+ ranked, csrankings
-28. michael gubanov ”polyfuse: a large-scale hybrid data integration system”,
-in icde desweb, san diego, ca,
-29. shangyu luo, zekai gao, michael gubanov, christopher jermaine, luis perez
-”scalablelinearalgebraonarelationaldatabasesystem”,inicde,sandiego,
-ca, , core a+ ranked, csrankings
-30. michaelgubanov,annapyayt,”type-awarewebsearch”,inedbt,bordeaux,
-france, , core a ranked
-31. karthikkonnaiyan,suryacheemalapati,michaelgubanov,annapyayt,”mhealth
-dipstick analyzer for monitoring of pregnancy complications”, in ieee sensors
-, orlando, fl, best paper award
-32. ziaweshabedjan,johnmorcos,michaelgubanov,ihabilyas,michaelstonebraker
-“dataxformer: leveraging the web for semantic transformations”, in cidr,
-asilomar, ca, , core a ranked
-33. michaelgubanov,michaelstonebraker“large-scalesemanticprofileextraction”,
-in edbt athens, greece, , core a ranked
-34. michael gubanov,michaelstonebraker,danielbruckner“textandstructured
-data fusion in data tamer at scale” in ieee icde, chicago, il, , core
-a+ ranked, csrankings
-35. michael gubanov, anna pyayt “readfast: high-relevance search-engine for
-big text” in acm cikm, san francisco, ca, , core a ranked
-36. michaelgubanov,annapyayt“readfast: optimizingstructuralsearchrelevance
-for big biomedical text” in ieee information reuse and integration (iri), san
-francisco, .
+20. Rituparna Khan, Michael Gu ba nov Nested Dolls: Towards Unsupervised Web
+Tables Clustering”, in IEEE Big Data,
+21. Maksim Pod ko ry to v Michael Gubanov ’Hybrid. Poly: Performance Evaluation
+of Linear Algebra Analytical Extensions”, in IEEE Big Data,
+22. Steven Ortiz, Caner Enbatan, Maksim Pod ko ry to v Dylan Soderman, Michael
+Gubanov, ”Hybrid. JSON: High-velocity Parallel In-Memory Polystore JSON
+Ingest”, in IEEE Big Data, Boston, USA,
+23. Santiago Villas en or Tom Nguyen, Anusha Kola, Sean Soderman, Michael Gubanov,
+”Scalable Spam Class i fier for Web Tables”, in IEEE Big Data, Boston, USA,
+24. Mark Simmons, Daniel Armstrong, Dylan Soderman, Michael Gubanov,”Hybrid. media:
+High Velocity Video Ingestion in an In-Memory Scalable Analytical Poly store
+in IEEE Big Data, Boston, USA,
+25. Anusha Kola, Harshal More, Sean Soderman, Michael Gubanov, ”Generate
+UFOs from the Classified Object Tables”, in IEEE Big Data, Boston, USA,
+26. Maksim Pod ko ry to v Dylan Soderman, Michael Gubanov, ”Hybrid. poly: An
+Interactive Large-scale In-memory Analytical Poly store in ICDM DSBDA, New
+Orleans, USA, , pp. 43-50
+27. Michael Gubanov, Manju Priya, Maksim Pod ko ry to v Cognitive DB:An Intelligent
+Navigator for Large-scale Dark Structured Data”, in WWW, Perth, Australia,
+, CORE A+ ranked, CSRankings
+28. Michael Gubanov ”Poly Fuse: A Large-scale Hybrid Data Integration System”,
+in ICDE DESWeb, San Diego, CA,
+29. Shangyu Luo, Zekai Gao, Michael Gubanov, Christopher Jermaine, Luis Perez
+”Scalable Linear Algebraona Relational Database System”, in ICDE, San Diego,
+CA, , CORE A+ ranked, CSRankings
+30. Michael Gubanov, Anna Pyayt,”Type-aware Web search in EDBT, Bordeaux,
+France, , CORE A ranked
+31. Karthik Konnaiyan, Surya Cheema la pati Michael Gubanov, Anna Pyayt,”m Health
+Dipstick Analyzer for Monitoring of Pregnancy Complications”, in IEEE Sensors
+, Orlando, FL, Best Paper award
+32. Ziawesh Abedjan, John Morcos, Michael Gubanov, Ihab Ilyas, Michael Stone brake r
+“Data XFormer: Leveraging the Web for Semantic Transformations”, in CIDR,
+Asilomar, CA, , CORE A ranked
+33. Michael Gubanov, Michael Stonebraker“Large-scale Semantic Profile Extraction”,
+in EDBT Athens, Greece, , CORE A ranked
+34. Michael Gubanov, Michael Stone brake r Daniel Bruckner Text and Structured
+Data Fusion in Data Tamer at Scale” in IEEE ICDE, Chicago, IL, , CORE
+A+ ranked, CSRankings
+35. Michael Gubanov, Anna Pyayt “Read Fast: High-relevance Search-engine for
+Big Text” in ACM CIKM, San Francisco, CA, , CORE A ranked
+36. Michael Gubanov, Anna Pyayt“Read Fast: Optimizing Structural Search Relevance
+for Big Biomedical Text” in IEEE Information Reuse And Integration (IRI), San
+Francisco, .
 6 of 9
-37. michaelgubanov,annapyayt“medreadfast: structuralinformationretrieval
-engine for big clinical text” in ieee information reuse and integration (iri),
-san francisco, .
-38. michael gubanov, linda shapiro, anna pyayt “readfast: browsing large
-documents through unified famous objects (ufo)” in ieee information reuse
-and integration (iri), las vegas, .
-39. michaelgubanov,lindashapiro,annapyayt“learningunifiedfamousobjects
-(ufo) to bootstrap information integration” in ieee information reuse and
-integration (iri), las vegas, .
-40. surya cheemalapati, michael gubanov, michael del valle, anna pyayt, “a
-real-time classification algorithm for emotion detection using portable eeg”, in
-ieee information reuse and integration (iri), san francisco, .
-refereed 41. kaziislam,michaelgubanov”scalabletabularmetadatalocationandclassification
-journal inlarge-scalestructureddatasets”,invited papertojournalofdataintelligence,
-publications rinton press, special issue on ”best of dexa”, , pp. 460-473
-and book
-chapters: 42. shangyu luo, zekai gao, michael gubanov, dimitrije jankov, christopher
-jermaine”scalablelinearalgebraonarelationaldatabasesystem”,invited paper
-to communications of the acm (cacm), cacm, research highlights,
+37. Michael Gubanov, Anna Pyayt“Med Read Fast: Structural Information Retrieval
+Engine for Big Clinical Text” in IEEE Information Reuse And Integration (IRI),
+San Francisco, .
+38. Michael Gubanov, Linda Shapiro, Anna Pyayt “Read Fast: Browsing large
+documents through Unified Famous Objects (UFO)” in IEEE Information Reuse
+And Integration (IRI), Las Vegas, .
+39. Michael Gubanov, Linda Shapiro, Anna P yay t Learning Unified Famous Objects
+(UFO) to Bootstrap Information Integration” in IEEE Information Reuse And
+Integration (IRI), Las Vegas, .
+40. Surya Cheema la pati Michael Gubanov, Michael Del Valle, Anna Pyayt, “A
+real-time classification algorithm for emotion detection using portable EEG”, in
+IEEE Information Reuse And Integration (IRI), San Francisco, .
+Refereed 41. Kazi Islam, Michael Gu ba nov Scalable Tabular Metadata Location and Classification
+Journal in Large-scale Structured Datasets”, Invited paper to journal of Data Intelligence,
+Publications Rinton Press, Special Issue on ”Best of DEXA”, , pp. 460-473
+and Book
+Chapters: 42. Shangyu Luo, Zekai Gao, Michael Gubanov, Dimitrije Jankov, Christopher
+Jermaine Scalable Linear Algebraona Relational Database System”, Invited Paper
+to Communications of the ACM (CACM), CACM, Research Highlights,
 63(8): pp. )
-43. shangyu luo, zekai gao, michael gubanov, christopher jermaine, luis perez
-”scalable linear algebra on a relational database system”, invited paper to
-transactions on knowledge and data engineering (tkde), , 17% acc. rate
-extended tkde journal version, 31(7):
-44. shangyu luo, zekai gao, michael gubanov, christopher jermaine ”scalable
-linearalgebraonarelationaldatabasesystem”,invited papertoacmsigmod
-record, , pp. 1224-1238, special issue
-for the acm sigmod research highlights1
-45. michaelgubanov,lindashapiro,annapyayt“readfast: structuralinformation
-retrieval from biomedical big text by natural language processing.” invited
-book chapter in information reuse and integration in academia and industry,
-springer, . pp. 187-200.
-invited book chapterinbusinessintelligenceforthereal-timeenterprise,springer,
+43. Shangyu Luo, Zekai Gao, Michael Gubanov, Christopher Jermaine, Luis Perez
+”Scalable Linear Algebra on a Relational Database System”, Invited Paper to
+Transactions on Knowledge and Data Engineering (TKDE), , 17% acc. rate
+Extended TKDE Journal Version, 31(7):
+44. Shangyu Luo, Zekai Gao, Michael Gubanov, Christopher Jermaine ”Scalable
+Linear Algebraona Relational Database System”, Invited Paperto ACMSIGMOD
+Record, , pp. 1224-1238, special issue
+for the ACM SIGMOD Research Highlights 1
+45. Michael Gubanov, Linda Shapiro, Anna Pyayt“Read Fast: Structural Information
+Retrieval from Biomedical Big Text by Natural Language Processing.” Invited
+Book Chapter in Information Reuse And Integration In Academia And Industry,
+Springer, . pp. 187-200.
+Invited Book Chapterin Business Intelligence for the Real-Time Enterprise, Springer,
 . pp. 108-121.
-46. karthik raj konnaiyan, surya cheemalapati, michael gubanov and anna pyayt,
-”mhealthdipstickanalyzerformonitoringofpregnancycomplications,inieee
-sensors journal, pp. 7311-7316,
-47. surya cheemalapati, prashanth chetlur adithya, michael del valle, michael
-gubanov,annapyayt,”realtimefeardetectionusingwearablesinglechannel
-electroencephalogram”, in international journal of sensor networks and data
-communications,
-selected 48. anna pyayt, michael gubanov, arseny zhdanov, hao wang “saving mothers
-presentations: and babies using big data analytics on a mobile health platform”,
-capitol hill, washington d.c., .
+46. Karthik raj Konnaiyan, Surya Cheema la pati Michael Gubanov and Anna Pyayt,
+”m Health Dipstick Analyzer For Monitoring of Pregnancy Complications, in IEEE
+Sensors Journal, pp. 7311-7316,
+47. Surya Cheema la pati Prashanth Chetlur Adithya, Michael Del Valle, Michael
+Gubanov, Anna P yay t Real Time Fear Detection Using Wearable Single Channel
+Electroencephalogram”, in International Journal of Sensor Networks and Data
+Communications,
+Selected 48. Anna Pyayt, Michael Gubanov, Arseny Zhdanov, Hao Wang “Saving Mothers
+Presentations: and Babies using Big Data Analytics on a Mobile Health Platform”,
+Capitol Hill, Washington D. C., .
 7 of 9
-49. anna pyayt, michael gubanov, arseny zhdanov, hao wang “saving mothers
-and babies using big data analytics on a mobile health platform”,
-national academy of sciences (nas), washington d.c., .
-50. michael gubanov,michaelstonebraker“large-scaletextandstructureddata
-fusion”, qatar research foundation annual meeting, doha, qatar, .
-51. cuneyt akcora, michael gubanov, mourad ouzanni, paolo papotti, michael
-stonebraker“large-scaletextcleaning”,qatarresearchfoundationannualmeeting,
-doha, qatar, .
-selected instructor
-teaching: cap5769 - advanced data science
-91 graduate student enrolled
-student evaluations course rating: 4.58, instructor rating: 4.65
-computer science, data science program, fsu
-instructor
-idc 4110/cap5768 - introduction to data science
-122 graduate and undergraduate student enrolled
-computer science, data science program, fsu
-teaching • developedtwofirstfsudatasciencecorecourses,approvedbythestateofflorida
-materials ”introduction to data science”, 3-credit graduate and undergraduate
-developed: ”advanced data science”, 3-credit graduate
-student evaluation overall course rating = 4.58
-selected • program committee (pc), vldb,
-service: • program committee (pc), edbt,
-• program committee (pc), acm sigmod,
-• program committee (pc), edbt,
-• program committee (pc), the web conference (www),
-• program committee (pc), acm wsdm,
-• program committee (pc), the web conference (www),
-• program committee (pc), acm wsdm,
-• program committee (pc), acm sigmod,
-• program committee (pc), ieee icde,
-• reviewer, tkde journal special issue (reviewed one icde best paper),
-• program committee (pc), the web conference (www),
-• program committee (pc), aaai,
-• program committee (pc), acm sigmod,
-• session chair, acm sigmod, cikm,
-• senior program committee (pc), edbt,
-• vice chair, ieee bigdata,
-• program committee (pc), acm sigmod,
-• program committee (pc), edbt,
-• session chair, edbt,
-• senior program committee (spc), the web conference (www),
-• program committee (pc), aaai,
-• reviewer, tkde journal,
-• reviewer, acm sigmod record,
-• reviewer, vldb journal,
-• senior program committee (spc), acm cikm,
-• program committee (pc), ieee icde,
+49. Anna Pyayt, Michael Gubanov, Arseny Zhdanov, Hao Wang “Saving Mothers
+and Babies using Big Data Analytics on a Mobile Health Platform”,
+National Academy of Sciences (NAS), Washington D. C., .
+50. Michael Gubanov, Michael Stonebraker“Large-scale Textand Structured Data
+Fusion”, Qatar Research Foundation Annual Meeting, Doha, Qatar, .
+51. Cuneyt Akcora, Michael Gubanov, Mourad Ouzanni, Paolo Papotti, Michael
+Stonebraker“Large-scaletextcleaning”, Qatar Research Foundation Annual Meeting,
+Doha, Qatar, .
+Selected Instructor
+Teaching: CAP5769 - Advanced Data Science
+91 Graduate Student enrolled
+Student evaluations Course rating: 4.58, Instructor rating: 4.65
+Computer Science, Data Science Program, FSU
+Instructor
+IDC 4110 CAP 5768 - Introduction to Data Science
+122 Graduate and Undergraduate Student enrolled
+Computer Science, Data Science Program, FSU
+Teaching • Developed two first FSUData Science core courses approved by the Stateof Florida
+Materials ”Introduction to Data Science”, 3-credit Graduate and Undergraduate
+Developed: ”Advanced Data Science”, 3-credit Graduate
+Student evaluation overall course rating = 4.58
+Selected • Program Committee (PC), VLDB,
+Service: • Program Committee (PC), EDBT,
+• Program Committee (PC), ACM SIGMOD,
+• Program Committee (PC), EDBT,
+• Program Committee (PC), The Web Conference (WWW),
+• Program Committee (PC), ACM WSDM,
+• Program Committee (PC), The Web Conference (WWW),
+• Program Committee (PC), ACM WSDM,
+• Program Committee (PC), ACM SIGMOD,
+• Program Committee (PC), IEEE ICDE,
+• Reviewer, TKDE Journal Special Issue (reviewed one ICDE Best Paper),
+• Program Committee (PC), The Web Conference (WWW),
+• Program Committee (PC), AAAI,
+• Program Committee (PC), ACM SIGMOD,
+• Session Chair, ACM SIGMOD, CIKM,
+• Senior Program Committee (PC), EDBT,
+• Vice Chair, IEEE Big Data,
+• Program Committee (PC), ACM SIGMOD,
+• Program Committee (PC), EDBT,
+• Session Chair, EDBT,
+• Senior Program Committee (SPC), The Web Conference (WWW),
+• Program Committee (PC), AAAI,
+• Reviewer, TKDE Journal,
+• Reviewer, ACM SIGMOD Record,
+• Reviewer, VLDB Journal,
+• Senior Program Committee (SPC), ACM CIKM,
+• Program Committee (PC), IEEE ICDE,
 8 of 9
-• program committee (pc), ieee icde demo,
-• program committee (pc), ieee bigdata,
-• program committee (pc), vldb poly,
-• program committee (pc), vldb demo,
-• program committee (pc), edbt bigvis,
-• program committee (pc), ieee icde,
-• program committee (pc), ieee bigdata,
-• reviewer, chapman & hall/crc press, machine learning book,
-• program committee (pc), edbt bigvis,
-• program committee (pc) and co-chair, ieee bigdata,
-• program committee (pc), acm sigir search,
-• program committee (pc), www profiles,
-• program committee (pc), edbt bigvis,
-• program committee (pc), ieee sensors,
-• session chair (2 research track sessions), ieee big data,
-• reviewer, vldb journal,
-• program committee (pc), ieee sensors,
-• nsf panelist,
-• reviewer, ieee transactions on big data,
-• fsu data science committee, -
-• fsu graduate selection committee, -
-status: u.s. citizen
+• Program Committee (PC), IEEE ICDE Demo,
+• Program Committee (PC), IEEE Big Data,
+• Program Committee (PC), VLDB Poly,
+• Program Committee (PC), VLDB Demo,
+• Program Committee (PC), EDBT Big Vis,
+• Program Committee (PC), IEEE ICDE,
+• Program Committee (PC), IEEE Big Data,
+• Reviewer, Chapman & Hall/CRC Press, Machine Learning book,
+• Program Committee (PC), EDBT Big Vis,
+• Program Committee (PC) and Co-Chair, IEEE Big Data,
+• Program Committee (PC), ACM SIGIR Search,
+• Program Committee (PC), WWW Profiles,
+• Program Committee (PC), EDBT Big Vis,
+• Program Committee (PC), IEEE Sensors,
+• Session Chair (2 Research Track Sessions), IEEE Big Data,
+• Reviewer, VLDB Journal,
+• Program Committee (PC), IEEE Sensors,
+• NSF Panelist,
+• Reviewer, IEEE Transactions on Big Data,
+• FSU Data Science Committee, -
+• FSU Graduate Selection Committee, -
+Status: U. S. Citizen
 9 of 9

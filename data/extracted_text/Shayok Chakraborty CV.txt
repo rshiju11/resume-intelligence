@@ -1,532 +1,531 @@
-shayok chakraborty
-associate professor, department of computer science
-florida state university,
-office: 1017 academic way, room 264, tallahassee, fl 32306
-web: http://shayokch.com/
-professional preparation
-jadavpur university computer science b.s. may
-arizona state university computer science ph.d. apr
-appointments
-• associate professor, department of computer science, florida state university, 08/ –
-present
-• assistant professor, department of computer science, florida state university, 08/ –
+, Department of
+Florida State University,
+Office: 1017 Academic Way, Room 264, Tallahassee, FL 32306
+Web:
+PROFESSIONAL PREPARATION
+Jadavpur University Computer Science B. S. May
+Arizona State University Computer Science Ph. D. Apr
+APPOINTMENTS
+• Associate Professor, Department of Computer Science, Florida State University, 08/ –
+Present
+• Assistant Professor, Department of Computer Science, Florida State University, 08/ –
 08/
-• assistant research professor, school of computing, informatics and decision systems
-engineering, arizona state university, –
-• associate director, center for cognitive ubiquitous computing (cubic), arizona state
-university, –
-• postdoctoral research associate, electrical and computer engineering, carnegie mellon
-university, –
-• postdoctoral research scientist, intel labs, oregon, –
-• graduate research intern, machine learning department, microsoft research, redmond,
-jan – apr
-• graduate research assistant, department of computer science and engineering, arizona
-state university, –
-• graduate teaching assistant, department of computer science and engineering, arizona
-state university, –
-• application programmer, ibm india,
-research interests
-machine learning, computer vision, ai for healthcare
-awards and honors
-• developing scholar award, florida state university,
-• graduate teaching award, department of computer science, fsu,
-• nsf career award,
-• faculty research award, department of computer science, fsu,
-• top poster award at the kentucky conference on health communication (resulted
+• Assistant Research Professor, School of Computing, Informatics and Decision Systems
+Engineering, Arizona State University, –
+• Associate Director, Center for Cognitive Ubiquitous Computing (CUbi C), Arizona State
+University, –
+• Postdoctoral Research Associate, Electrical and Computer Engineering, Carnegie Mellon
+University, –
+• Postdoctoral Research Scientist, Intel Labs, Oregon, –
+• Graduate Research Intern, Machine Learning department, Microsoft Research, Redmond,
+Jan – Apr
+• Graduate Research Assistant, Department of Computer Science and Engineering, Arizona
+State University, –
+• Graduate Teaching Assistant, Department of Computer Science and Engineering, Arizona
+State University, –
+• Application Programmer, IBM India,
+RESEARCH INTERESTS
+Machine Learning, Computer Vision, AI for Healthcare
+AWARDS AND HONORS
+• Developing Scholar Award, Florida State University,
+• Graduate Teaching Award, Department of Computer Science, FSU,
+• NSF CAREER Award,
+• Faculty Research Award, Department of Computer Science, FSU,
+• Top Poster Award at the Kentucky Conference on Health Communication (resulted
 from an interdisciplinary collaborative project)
-• best interdisciplinary research award at the aging and health informatics conference
+• Best Interdisciplinary Research Award at the Aging and Health Informatics Conference
 (resulted from an interdisciplinary collaborative project)
-• selected as part of the top 25% of program committee members at aaai
-• promoted to an ieee senior member,
-• aws machine learning research award (mlra)
-• amazon research award (ara)
-• research work featured in the tallahassee democrat, jun
-• ieee multimedia best department article award for our paper “person-centered
-multimedia computing: a new paradigm inspired by assistive and rehabilitative
-applications”
-• research work featured in asu news, ,
-• nominated for the best phd dissertation award, department of computer science, arizona
-state university,
-• selected as a finalist for the lane fellowship in computational biology at carnegie mellon
-university,
-• recipient of the university graduate fellowship, arizona state university,
-• featured as an outstanding graduate student by the graduate college at arizona state
-university,
-• awarded travel grants to attend nips and , cvpr and the machine
-learning summer school at the university of california, santa cruz in
-tutorials and teaching
-tutorials
-“active domain adaptation for visual computing applications”, ieee winter conference on
-applications of computer vision (wacv) (co-presenter: dr. hemanth venkateswara)
-“active learning for multimedia computing: survey, recent trends and applications”, acm
-multimedia conference (acm mm) (solo tutorial)
-“active learning for computer vision”, ieee winter conference on applications of computer
-vision (wacv) (solo tutorial)
-“active learning for multimedia content analysis”, ieee international conference on
-multimedia and expo (icme) (co-organizers: dr. vineeth balasubramanian and dr.
-sethuraman panchanathan)
-instructor of record
-graduate
-weakly supervised machine learning (spring )
-department of computer science
-florida state university
-data mining (fall , fall , fall )
-department of computer science
-florida state university
-advanced data mining (spring )
-department of computer science
-florida state university
-theory of automata and formal languages (spring , spring )
-department of computer science
-florida state university
-data mining (fall , spring )
-department of computer science and engineering
-arizona state university
-undergraduate
-introduction to data mining (fall , fall , fall )
-department of computer science
-florida state university
-programming languages (spring , spring , spring , fall , spring )
-department of computer science
-florida state university
-mathematical foundations of informatics (spring )
-department of computer science and engineering
-arizona state university
-service
-departmental service
-• director of the ms program in computer science (fall – present)
-➢ responsible for initial student advising
-➢ responsible for iep reporting
-➢ responsible for graduate student applications reviewing and decision making
-➢ responsible for clearing ms students for graduation
-• member of the faculty recruitment committee ( )
-• member of the graduate student admissions committee ( )
-• member of the faculty evaluation committee ( )
-• core organizing committee member, cs expo )
-professional activities
-session chair
-• interpretability and explainability at the acm conference on knowledge discovery and
-data mining (kdd)
-• semi-supervised learning at the acm conference on knowledge discovery and data
-mining (kdd)
-• vision systems and applications at the ieee winter conference on applications of
-computer vision (wacv) ,
-• machine learning for human behavior understanding and assisted living at the ieee
-international conference on machine learning and applications (icmla)
-tutorials co-chair
-• ieee winter conference on applications of computer vision (wacv)
-area chair
-• international conference on learning representations (iclr)
-• neural information processing systems (neurips) ,
-• ieee conference on computer vision and pattern recognition (cvpr) , ,
-• ieee winter conference on applications of computer vision (wacv) , , ,
+• Selected as part of the Top 25% of Program Committee members at AAAI
+• Promoted to an IEEE Senior Member,
+• AWS Machine Learning Research Award (MLRA)
+• Amazon Research Award (ARA)
+• Research work featured in the Tallahassee Democrat, Jun
+• IEEE Multimedia Best Department Article Award for our paper “Person-Centered
+Multimedia Computing: A New Paradigm Inspired by Assistive and Rehab il it at ive
+Applications”
+• Research work featured in ASU News, ,
+• Nominated for the Best Ph D Dissertation Award, Department of Computer Science, Arizona
+State University,
+• Selected as a finalist for the Lane Fellowship in Computational Biology at Carnegie Mellon
+University,
+• Recipient of the University Graduate Fellowship, Arizona State University,
+• Featured as an Outstanding Graduate Student by the Graduate College at Arizona State
+University,
+• Awarded Travel Grants to attend NIPS and , CVPR and the Machine
+Learning Summer School at the University of California, Santa Cruz in
+TUTORIALS AND TEACHING
+TUTORIALS
+“Active Domain Adaptation for Visual Computing Applications”, IEEE Winter Conference on
+Applications of Computer Vision (WACV) (Co-presenter: Dr. Hemanth Ven kate s war a
+“Active Learning for Multimedia Computing: Survey, Recent Trends and Applications”, ACM
+Multimedia Conference (ACM MM) (Solo Tutorial)
+“Active Learning for Computer Vision”, IEEE Winter Conference on Applications of Computer
+Vision (WACV) (Solo Tutorial)
+“Active Learning for Multimedia Content Analysis”, IEEE International Conference on
+Multimedia and Expo (ICME) (Co-organizers: Dr. Vineeth Bala subramania n and Dr.
+Sethuraman Panch a nathan
+INSTRUCTOR OF RECORD
+Graduate
+Weakly Supervised Machine Learning (Spring )
+Department of Computer Science
+Florida State University
+Data Mining (Fall , Fall , Fall )
+Department of Computer Science
+Florida State University
+Advanced Data Mining (Spring )
+Department of Computer Science
+Florida State University
+Theory of Automata and Formal Languages (Spring , Spring )
+Department of Computer Science
+Florida State University
+Data Mining (Fall , Spring )
+Department of Computer Science and Engineering
+Arizona State University
+Undergraduate
+Introduction to Data Mining (Fall , Fall , Fall )
+Department of Computer Science
+Florida State University
+Programming Languages (Spring , Spring , Spring , Fall , Spring )
+Department of Computer Science
+Florida State University
+Mathematical Foundations of Informatics (Spring )
+Department of Computer Science and Engineering
+Arizona State University
+SERVICE
+DEPARTMENTAL SERVICE
+• Director of the MS Program in Computer Science (Fall – Present)
+➢ Responsible for initial student advising
+➢ Responsible for IEP reporting
+➢ Responsible for graduate student applications reviewing and decision making
+➢ Responsible for clearing MS students for graduation
+• Member of the Faculty Recruitment Committee ( )
+• Member of the Graduate Student Admissions Committee ( )
+• Member of the Faculty Evaluation Committee ( )
+• Core Organizing Committee Member, CS Expo )
+PROFESSIONAL ACTIVITIES
+Session Chair
+• Interpret ability and Explain ability at the ACM Conference on Knowledge Discovery and
+Data Mining (KDD)
+• Semi-Supervised Learning at the ACM Conference on Knowledge Discovery and Data
+Mining (KDD)
+• Vision Systems and Applications at the IEEE Winter Conference on Applications of
+Computer Vision (WACV) ,
+• Machine Learning for Human Behavior Understanding and Assisted Living at the IEEE
+International Conference on Machine Learning and Applications (ICMLA)
+Tutorials Co-Chair
+• IEEE Winter Conference on Applications of Computer Vision (WACV)
+Area Chair
+• International Conference on Learning Representations (ICLR)
+• Neural Information Processing Systems (Neur IPS) ,
+• IEEE Conference on Computer Vision and Pattern Recognition (CVPR) , ,
+• IEEE Winter Conference on Applications of Computer Vision (WACV) , , ,
 ,
-senior program committee
-• aaai conference on artificial intelligence
-program committee
-• aaai conference on artificial intelligence , , , , ,
-• acm conference on knowledge discovery and data mining (kdd) , , , ,
+Senior Program Committee
+• AAAI Conference on Artificial Intelligence
+Program Committee
+• AAAI Conference on Artificial Intelligence , , , , ,
+• ACM Conference on Knowledge Discovery and Data Mining (KDD) , , , ,
 ,
-• international joint conference on artificial intelligence (ijcai) , , ,
-• acm multimedia conference (acm-mm) , ,
-• ieee international symposium on multimedia (ism) ,
-• acm symposium on applied computing (acm sac) ,
-• international conference on distributed multimedia systems, visual languages and sentient
-systems (dmsvlss)
-journal review
-• ieee transactions on pattern analysis and machine intelligence (tpami)
-• acm computing surveys (csur)
-• ieee transactions on neural networks and learning systems (tnnls)
-• ieee transactions on knowledge and data engineering (tkde)
-• ieee transactions on affective computing (taffc)
-• pattern recognition journal (pr)
-• neuro-computing journal
-• ieee journal on selected topics in signal processing (j-stsp)
-• ieee internet of things journal
-• ieee transactions on human-machine systems (thms)
-• international journal of pattern recognition and artificial intelligence (ijprai)
-• ieee transactions on autonomous mental development (tamd)
-• signal processing: image communication
-• information sciences journal
-• csi transactions on ict
-conference review
-• british machine vision conference (bmvc)
-• ieee conference on computer vision and pattern recognition (cvpr) , ,
-• ieee international conference on computer vision (iccv) ,
-• european conference on computer vision (eccv)
-• ieee winter conference on applications of computer vision (wacv) , , ,
-• ieee international conference on multimedia and expo (icme)
-• acm conference on knowledge discovery from data (kdd) (external reviewer)
-• ieee international conference on image processing (icip) (external reviewer)
-proposal review
-• nsf panelist
-student mentoring
-current
-• debanjan goswami, phd (advisor)
-• ronast subedi, ms (advisor)
-• varun totakura, ms (advisor)
-• md shamim seraj, phd (co-advisor)
-• reza alishahi, phd (committee member)
-• sumanth bommireddy, phd (committee member)
-• katie brodhead, phd (committee member)
-• isis chen, phd (committee member)
-• tonmoy dey, phd (committee member)
-• trina dutta, phd (committee member)
-• uzoamaka ezeakunne, phd (committee member)
-• rituparna khan, phd (committee member)
-• amit k. nath, phd (committee member)
-• mehran sadeghi, phd (committee member)
-• shaeke salman, phd (committee member)
-• mukadder sodek, phd (committee member)
-• fatema tabassum liza, phd (committee member)
-• liting zhang, phd (committee member)
-• hansong zhou, phd (committee member)
-• christopher holder montenegro, ms (committee member)
-graduated
-• subhankar banerjee, phd (april , advisor)
-• aditya bhattacharya, phd (july , advisor)
-• ankita singh, phd (june , advisor)
-• mohammad alahmadi, phd (nov , committee member)
-• ali alshahrani, phd (jul , committee member)
-• daniel bis, phd (jul , committee member)
-• meysam ghaffari, phd (jul , committee member)
-• muhib khan, phd (jun , committee member)
-• chris mills, phd (apr , committee member)
-• esteban parra, phd (jun , committee member)
-• hiranmayi ranganathan, phd (apr , committee member)
-• ahana roy choudhury, phd (apr , committee member)
-• abdulkarim malkadi, phd (july , committee member)
-• hemanth venkateswara, phd (march , committee member)
-• zi wang, phd (jun , committee member)
-• vishwas torvi, ms (may , thesis advisor)
-• jinglun cai, ms (mar , committee member)
-• spencer cain, ms (july , committee member)
-• meng-han chung, ms (apr , committee member)
-• javier escobar-avila, ms (aug , committee member)
-• ronald franco, ms (july , committee member)
-• xiaoxiao gan, ms (dec , committee member)
-• brendan gressel, ms (dec , committee member)
-• shaima guediri, ms (apr , committee member)
-• shiva chaitanya gurrala, ms (july , committee member)
-• tejas hasarali, ms (july , committee member)
-• grzegorz kakareko, ms (sep , committee member)
-• mayur jain, ms (dec , committee member)
-• sai swanitha kodeboyina, ms (nov , committee member)
-• humaira mauni, ms (may , committee member)
-• alanna mottesheard, ms (apr , committee member)
-• matthew norflus, ms (jul , committee member)
-• nilay patel, ms (nov , committee member)
-• raghav rathi, ms (dec , committee member)
-• ricardo romero, ms (apr , committee member)
-• mohammad javad shooshtari, ms (apr , committee member)
-• kunal singharoy, ms (apr , committee member)
-• abanoub sman, ms (apr , committee member)
-• jordan snow, ms (apr , committee member)
-• vishak udupa, ms (dec , committee member)
-• luis villamil, ms (apr , committee member)
-• randy bruno-piverger, bs (apr , committee member)
-• cameron farzaneh, bs (nov , committee member)
-• colin macrae, bs (feb , committee member)
-• jeret mccoy, bs (nov , committee member)
-grants & funding
-title: multimodal deepfake information manipulation, analysis and detection
-role: co-pi
-source: council on research and creativity (crc), fsu
-award period: 06/ – 06/
-total award amount: $99,663
-title: career: active learning in the real-world
-role: pi
-source: nsf
-award period: 05/ – 04/
-total award amount: $519,882
-title: center for research and education on aging and technology enhancement - create v
-role: fsu co-pi
-source: nia
-award period: 08/ – 07/
-total award amount: $3,100,000
-note: this is a multi-university collaborative grant, with the total award amount of $14.7m. fsu’s
-share of the award is $3.1m
-title: deep active learning with relative label feedback
-role: pi
-source: amazon
-award period: 05/ – 04/
-total award amount: $73,097
-title: active learning with imperfect oracles
-role: pi
-source: amazon
-award period: 05/ – 04/
-total award amount: $35,000 (cash) $25,000 (aws promotional credits)
-title: the adherence promotion with person-centered technology (appt) project: promoting
-adherence to enhance the early detection and treatment of cognitive decline
-role: co-pi
-source: nia
-award period: 07/ – 06/
-total award amount: $2,996,314
-title: research supplements to promote diversity in health-related research for the adherence
-promotion with person-centered technology (appt) project: promoting adherence to enhance
-the early detection and treatment of cognitive decline
-role: co-pi and mentor
-source: nia
-award period: 06/ – 05/
-supplement award amount: $200,821
-title: adaptive training of representational flexibility in stem+c for autistic adolescents
-role: co-pi
-source: nsf
-award period: 08/ – 08/
-total award amount: $299,310
-title: active learning for computer vision
-role: pi
-source: intel
-award period: 01/ – 06/
-total award amount: $25,074
-title: deep active learning for class imbalance problems
-role: pi
-source: council on research and creativity (crc), fsu
-award period: 05/ – 08/
-total award amount: $20,000
-publications
-phd thesis
-“batch mode active learning for multimedia pattern recognition”, school of computing,
-informatics and decision systems engineering, arizona state university, april
-journals / book chapters / magazine articles
-a. singh, s. chakraborty, z. he, y. pang, s. zhang, r. subedi, m. lustria, n. charness, w.
-boot, “predicting adherence to computer-based cognitive training programs among older
-adults: study of domain adaptation and deep learning”, jmir aging
-j. moon, f. ke, z. sokolikj, s. chakraborty, “applying multimodal data fusion to track autistic
-adolescents’ representational flexibility development during virtual reality-based training”,
-computers & education: x reality
-z. he, m. dieciuc, d. carr, s. chakraborty, a. singh, i. fowe, s. zhang, m. lustria, a.
-terracciano, n. charness, w. boot, “new opportunities for the early detection and treatment of
-cognitive decline: adherence challenges and the promise of smart and person-centered
-technologies”, bmc digital health
-a. singh, s. chakraborty, z. he, s. tian, s. zhang, m. lustria, n. charness, n. roque, e.
-harrell, w. boot, “deep learning-based predictions of older adults’ adherence to cognitive
-training to support training efficacy”, frontiers in psychology
-z. he, s. tian, a. singh, s. chakraborty, s. zhang, m. lustria, n. charness, n. roque, e.
-harrell, w. boot, “a machine-learning based approach for predicting older adults’ adherence
-to technology-based cognitive training”, information processing and management
-d. carr, s. tian, z. he, s. chakraborty, m. dieciuc, n. gray, m. agharazidermani, m. lustria,
-a. dilanchian, s. zhang, n. charness, a. terracciano, w. boot, “motivation to engage in aging
-research: are there typologies and predictors?”, the gerontologist
-m. ghaffari, a. srinivasan, x. liu, s. chakraborty, “high-resolution home location prediction
-from twitter activities using consensus deep learning”, social network analysis and mining
-(snam) journal
-s. chakraborty, t. wu, e. forzani, c. whisner, d. jackemeyer, “long-term resting metabolic
-rate analysis -towards prediction models for resting metabolic rate changes”, international
-journal of prognostics and health management (ijphm)
-r. ramakrishnan, b. nagabandi, j. eusebio, s. chakraborty, s. panchanathan, h. venkateswara,
-“deep hashing network for unsupervised domain adaptation”, domain adaptation in computer
-vision with deep learning, springer
-h. ranganathan, h. venkateswara, s. chakraborty, s. panchanathan, “deep active learning for
-image regression”, deep learning applications, springer
-a. singh, s. chakraborty, “deep domain adaptation for regression”, development and
-analysis of deep learning architectures, springer
-s. panchanathan, m. moore, h. venkateswara, s. chakraborty, t. mcdaniel, “computer vision
-for augmentative and alternative communication”, computer vision for assistive healthcare,
-elsevier
-h. venkateswara, s. chakraborty, s. panchanathan, “deep learning systems for domain
-adaptation in computer vision”, ieee signal processing magazine (spm), special issue on deep
-learning for visual understanding
-s. panchanathan, s. chakraborty, t. mcdaniel et al., “enriching the fan experience in a smart
-stadium using internet of things technologies”, international journal of semantic computing
-(ijsc) (special issue on best of ism )
-s. panchanathan, s. chakraborty, t. mcdaniel, r. tadayon, “person-centered multimedia
-computing: a new paradigm inspired by assistive and rehabilitative applications”, ieee
-multimedia (mm) ieee multimedia best department article award)
-s. panchanathan, s. chakraborty, t. mcdaniel, “social interaction assistant: a person-
-centered approach to social interaction for individuals with visual impairment”, ieee journal
-on selected topics in signal processing (j-stsp)
-s. chakraborty, q. sun, v. balasubramanian, s. panchanathan, j. ye, “active batch selection
-via convex relaxations with guaranteed solution bounds”, ieee transactions on pattern
-analysis and machine intelligence (tpami)
-s. chakraborty, v. balasubramanian, s. panchanathan, “adaptive batch mode active learning”,
-ieee transactions on neural networks and learning systems (tnnls)
-v. balasubramanian, s. chakraborty, s. panchanathan, “conformal predictions for information
-fusion: a comparative study of p-value combination methods”, annals of mathematics and
-artificial intelligence (amai)
-v. balasubramanian, s. chakraborty, s.s. ho, h. wechsler, s. panchanathan, “active learning
-using conformal predictions”, morgan kaufmann publ. (elsevier)
-s. chakraborty, v. balasubramanian, s. panchanathan, “generalized batch mode active
-learning for face-based biometric recognition”, pattern recognition
-conferences and workshops
-c. jiang, h. zhou, x. zhang, s. chakraborty, “fedar: addressing client unavailability in
-federated learning with local update approximation and rectification”, european conference
-on machine learning and principles and practice of knowledge discovery in databases (ecml
-pkdd)
-l. zhang, l. xu, s. motamed, s. chakraborty, f. de la torre, “d3gu: multi-target active
-domain adaptation via enhancing domain alignment”, ieee winter conference on applications
-of computer vision (wacv)
-d. goswami, s. chakraborty, “active batch sampling for multi-label classification with binary
-user feedback”, ieee winter conference on applications of computer vision (wacv)
-md s. seraj, a. singh, s. chakraborty, “semi-supervised deep domain adaptation for deepfake
-detection”, workshop on manipulation, adversarial and presentation attacks in biometrics
-(map-a) at ieee winter conference on applications of computer vision (wacv)
-d. goswami, s. chakraborty, “active learning for video classification with frame level
-queries”, ieee international joint conference on neural networks (ijcnn)
-s. chakraborty, a. singh, “active sampling for text classification with subinstance level
-queries”, aaai conference on artificial intelligence (accepted for oral presentation)
-s. banerjee, s. chakraborty, “deterministic mini-batch sequencing for training deep neural
-networks”, aaai conference on artificial intelligence
-a. yuan, s. chakraborty, “a study of deep learning for predicting freeze of gait in patients
-with parkinson’s disease”, ieee international conference on machine learning and applications
-(icmla)
-a. singh, s. chakraborty, “deep active transfer learning for image recognition”, ieee
-international joint conference on neural networks (ijcnn)
-s. banerjee, s. chakraborty, “budgeted subset selection for fine-tuning deep learning
-architectures in resource-constrained applications”, ieee international joint conference on
-neural networks (ijcnn)
-s. chakraborty, “asking the right questions to the right users: active learning with imperfect
-oracles”, aaai conference on artificial intelligence
-m. woodham, j. hawkins, a. singh, s. chakraborty, “when to pull starting pitchers in major
-league baseball? a data mining approach”, ieee international conference on machine
-learning and applications (icmla)
-a. bhattacharya, j. liu, s. chakraborty, “a generic active learning framework for class
-imbalance applications”, british machine vision conference (bmvc)
-c. mills, j. escobar-avila, a. bhattacharya, g. kondyukov, s. chakraborty, s. haiduc, “tracing
-with less data: active learning for classification-based traceability link recovery”, ieee
-international conference on software maintenance and evolution (icsme)
-s. banerjee, s. chakraborty, “deepsub: a novel subset selection framework for training deep
-learning architectures”, ieee international conference on image processing (icip)
-a. bhattacharya, s. chakraborty, “active learning with n-ary queries for image recognition”,
-ieee winter conference on applications of computer vision (wacv)
-v. torvi, a. bhattacharya, s. chakraborty, “deep domain adaptation to predict freezing of
-gait in patients with parkinson’s disease”, ieee international conference on machine learning
-and applications (icmla)
-h. ranganathan, h. venkateswara, s. chakraborty, s. panchanathan, “multi-label deep active
-learning with label correlation”, ieee international conference on image processing (icip)
-s. chakraborty, “distributed active learning for image recognition”, ieee winter conference
-on applications of computer vision (wacv)
-s. chakraborty, j. stokes, l. xiao, d. zhou, m. marinescu, a. thomas, “hierarchical learning
-for automated malware classification”, ieee military communications conference (milcom)
-h. ranganathan, h. venkateswara, s. chakraborty, s. panchanathan, “deep active learning for
-image classification”, ieee international conference on image processing (icip)
-h. venkateswara, j. eusebio, s. chakraborty, s. panchanathan, “deep hashing network for
-unsupervised domain adaptation”, ieee conference on computer vision and pattern
-recognition (cvpr)
-h. venkateswara, s. chakraborty, t. mcdaniel, s. panchanathan, “model selection with
-nonlinear embedding for unsupervised domain adaptation”, workshop on knowledge-based
-techniques for problem solving and reasoning (knowpros) at the association for the
-advancement of artificial intelligence (aaai)
-s. panchanathan, s. chakraborty, t. mcdaniel et al. “smart stadium for smart living: enriching
-the fan experience”, ieee international symposium on multimedia (ism) (invited paper)
-h. venkateswara, s. chakraborty, s. panchanathan, “nonlinear embedding transform for
-unsupervised domain adaptation”, workshop on transferring and adapting source knowledge
-in computer vision (task-cv) at the european conference on computer vision (eccv)
-h. ranganathan, s. chakraborty, s. panchanathan, “transfer of multi-modal emotion features
-in deep belief networks”, asilomar conference on signals, systems and computers
-h. ranganathan, s. chakraborty, s. panchanathan, “multimodal emotion recognition using
-deep learning architectures”, ieee winter conference on applications of computer vision
-(wacv)
-s. chakraborty, o. tickoo, r. iyer, “towards distributed video summarization”, acm
-multimedia conference (acm-mm)
-s. chakraborty, v. balasubramanian, a. ravi sankar, s. panchanathan, j. ye, “batchrank: a
-novel batch mode active learning framework for hierarchical classification”, acm
-conference on knowledge discovery and data mining (kdd)
-s. chakraborty, o. tickoo, r. iyer, “adaptive keyframe selection for video summarization”,
-ieee winter conference on applications of computer vision (wacv)
-s. chakraborty, j. zhou, v. balasubramanian, s. panchanathan, i. davidson, j. ye, “active
-matrix completion”, ieee international conference on data mining, (icdm)
-s. chakraborty, h. venkateswara, v. balasubramanian, s. panchanathan, “active batch
-selection for fuzzy classification in facial expression recognition”, ieee international
-conference on machine learning and applications (icmla)
-r. chattopadhyay, s. chakraborty, v. balasubramanian, s. panchanathan, “optimization-based
-domain adaptation towards person-adaptive classification models”, ieee international
-conference on machine learning and applications (icmla)
-s. chakraborty, v. balasubramanian, s. panchanathan, “optimal batch selection for active
-learning in multi-label classification”, acm multimedia conference (acm-mm)
-s. chakraborty, v. balasubramanian, s. panchanathan, “dynamic batch mode active learning”,
-ieee conference on computer vision and pattern recognition (cvpr)
-s. chakraborty, v. balasubramanian, s. panchanathan, “an optimization based framework for
-dynamic batch mode active learning”, workshop on optimization for machine learning at
-neural information processing systems (nips)
-v. balasubramanian, s. chakraborty, s. krishna, s. panchanathan, “enhancing social
-interactions of individuals with visual impairments: a case study for assistive machine
-learning”, workshop on machine learning for assistive technologies at neural information
-processing systems (nips)
-v. balasubramanian, s. chakraborty, s. panchanathan, “multiple kernel learning for efficient
-conformal predictions”, workshop on new directions in multiple kernel learning at neural
-information processing systems (nips)
-s. chakraborty, v. balasubramanian, s. panchanathan, “dynamic batch size selection for batch
-mode active learning in biometrics”, ieee international conference on machine learning and
-applications (icmla)
-v. balasubramanian, j.ye, s. chakraborty, s. panchanathan, “kernel learning for efficiency
-maximization in the conformal predictions framework”, ieee international conference on
-machine learning and applications (icmla)
-s. chakraborty, v. balasubramanian, s. panchanathan, “learning from summaries of videos:
-applying batch mode active learning to face-based biometrics”, ieee conference on computer
-vision and pattern recognition (cvpr) workshop on biometrics,
-s. chakraborty, v. balasubramanian, s. panchanathan, “batch mode active learning for
-biometric recognition”, spie international conference on biometric technology for human
-identification, spie defense, security & sensing
-s. marcel, c. mccool, s. chakraborty, v. balasubramanian, s. panchanathan et al. “on the
-results of the first mobile biometry (mobio) face and speaker verification evaluation”,
-international conference on pattern recognition (icpr)
-v. balasubramanian, s. chakraborty, s. krishna, s. panchanathan, “human- centered machine
-learning in a social interaction assistant for individuals with visual impairments”, symposium
-on assistive machine learning for people with disabilities at neural information processing
-systems (nips)
-v. balasubramanian, s. chakraborty, s. panchanathan, “online active learning using
-conformal predictions”, workshop on analysis and design of algorithms for interactive machine
-learning at neural information processing systems (nips)
-v. balasubramanian, s. chakraborty, s. panchanathan. “generalized query by transduction for
-online active learning”, ieee international conference on computer vision (iccv), workshop
-on online learning for computer vision
-v. balasubramanian, s. chakraborty, s panchanathan, “multiple cue integration in
-transductive confidence machines for head pose classification”, ieee conference on computer
-vision and pattern recognition (cvpr) workshop on online learning for classification,
-g. gupta, s.k. saha, s. chakraborty, c. mazumdar, “document frauds: identification and
-linking fake documents to scanners and printers”, ieee international conference on
-computing, theory and applications (iccta)
-short papers and abstracts
-z. sokolikj, f. ke, s. chakraborty, j. moon, “a comparison of deep learning and supervised
-machine learning methods in rf tracking for neurodivergent learners”, isls annual meeting,
-international society of the learning sciences (isls)
-z. sokolikj, f. ke, s. chakraborty, j. moon, “using deep learning to track representational
-flexibility development of children with autism in a virtual world”, international conference on
-information and education technology (iciet)
-j. moon, f. ke, z. sokolikj, s. chakraborty, “multimodal data fusion to track representational
-flexibility of adolescents with autism spectrum disorder during virtual reality-based training”,
-isls annual meeting, international society of the learning sciences (isls)
-j. moon, f. ke, z. sokolikj, s. chakraborty, “using sequence mining to explore the
-representational flexibility development of adolescents with autism spectrum disorder in
-virtual reality-based flexibility training”, isls annual meeting, international society of the
-learning sciences (isls)
-n. charness, w. boot, s. chakraborty, z. he, “machine learning approaches to understanding
-and predicting patterns of adherence”, gerontological society of america (gsa)
-m. dieciuc, d. carr, z. he, s. chakraborty, n. charness, m. lustria, a. singh, w. boot, “an
-introduction to the adherence promotion with person-centered technology project”,
-gerontological society of america (gsa)
-m. lustria, z. he, w. boot, s. chakraborty, n. charness, d. carr, a. terracciano, “you know
-you are getting old when…: improving adherence to mobile-based cognitive assessments
-using ai-based tailored reminders”, kentucky conference on health communication,
-department of communication, university of kentucky,
-technical reports
-v. balasubramanian, s. chakraborty, s. panchanathan, “confidence estimation in pattern
-classification: an analysis with head pose estimation”, technical report t09-12, school of
-computing, informatics and decision systems engineering, arizona state university,
-presentations and invited talks
-• machine learning expo, florida state university, apr
-• center for imaging science, rochester institute of technology, apr
-• department of computer science, marquette university, apr
-• translational ai center, iowa state university, apr
-• machine learning expo, florida state university, apr
-• college of medicine, florida state university, jun
-• machine learning expo, florida state university, apr
-• department of statistics, florida state university, sep
-• department of computer science, florida state university, june
-• department of computer science, portland state university, may
-• school of informatics, computing and cyber systems, northern arizona university, feb
-• visual technology showcase at the ieee international conference on image processing
-(icip),
-• googlex, mountain view ca,
-• carnegie mellon university, department of computational biology,
-• duke university, department of computer science,
-• microsoft research redmond, machine learning department,
-• seventh annual machine learning symposium organized by the new york academy of
-sciences,
-• multimedia and vision meeting organized jointly by ibm research and stevens institute
-of technology,
-• ieee international symposium on multimedia (ism),
-• doctoral symposia of computer vision and pattern recognition (cvpr) , acm
-multimedia (acm mm) , the association for the advancement of artificial intelligence
-(aaai) and the siam data mining conference (sdm),
+• International Joint Conference on Artificial Intelligence (IJCAI) , , ,
+• ACM Multimedia Conference (ACM-MM) , ,
+• IEEE International Symposium on Multimedia (ISM) ,
+• ACM Symposium on Applied Computing (ACM SAC) ,
+• International Conference on Distributed Multimedia Systems, Visual Languages and Sentient
+Systems (DMSVLSS)
+Journal Review
+• IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+• ACM Computing Surveys (CSUR)
+• IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+• IEEE Transactions on Knowledge and Data Engineering (TKDE)
+• IEEE Transactions on Affective Computing (TAFFC)
+• Pattern Recognition Journal (PR)
+• Neuro-computing Journal
+• IEEE Journal on Selected Topics in Signal Processing (J-STSP)
+• IEEE Internet of Things Journal
+• IEEE Transactions on Human-Machine Systems (THMS)
+• International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
+• IEEE Transactions on Autonomous Mental Development (TAMD)
+• Signal Processing: Image Communication
+• Information Sciences Journal
+• CSI Transactions on ICT
+Conference Review
+• British Machine Vision Conference (BMVC)
+• IEEE Conference on Computer Vision and Pattern Recognition (CVPR) , ,
+• IEEE International Conference on Computer Vision (ICCV) ,
+• European Conference on Computer Vision (ECCV)
+• IEEE Winter Conference on Applications of Computer Vision (WACV) , , ,
+• IEEE International Conference on Multimedia and Expo (ICME)
+• ACM Conference on Knowledge Discovery from Data (KDD) (External Reviewer)
+• IEEE International Conference on Image Processing (ICIP) (External Reviewer)
+Proposal Review
+• NSF Panelist
+STUDENT MENTORING
+Current
+• Debanjan Goswami, Ph D (Advisor)
+• Ronast Subedi, MS (Advisor)
+• Varun Totakura, MS (Advisor)
+• Md Shamim Seraj, Ph D (Co-Advisor)
+• Reza Alishahi, Ph D (Committee Member)
+• Sumanth Bom mi reddy Ph D (Committee Member)
+• Katie Brodhead, Ph D (Committee Member)
+• Isis Chen, Ph D (Committee Member)
+• Tonmoy Dey, Ph D (Committee Member)
+• Trina Dutta, Ph D (Committee Member)
+• Uzoamaka Ezeakunne, Ph D (Committee Member)
+• Rituparna Khan, Ph D (Committee Member)
+• Amit K. Nath, Ph D (Committee Member)
+• Mehran Sadeghi, Ph D (Committee Member)
+• Shaeke Salman, Ph D (Committee Member)
+• Mukadder Sodek, Ph D (Committee Member)
+• Fatema Tabassum Liza, Ph D (Committee Member)
+• Liting Zhang, Ph D (Committee Member)
+• Hansong Zhou, Ph D (Committee Member)
+• Christopher Holder Montenegro, MS (Committee Member)
+Graduated
+• Subhankar Banerjee, Ph D (April , Advisor)
+• Aditya Bhatt acharya Ph D (July , Advisor)
+• Ankita Singh, Ph D (June , Advisor)
+• Mohammad Alahmadi, Ph D (Nov , Committee Member)
+• Ali Al shah rani Ph D (Jul , Committee Member)
+• Daniel Bis, Ph D (Jul , Committee Member)
+• Meysam Ghaffari, Ph D (Jul , Committee Member)
+• Muhib Khan, Ph D (Jun , Committee Member)
+• Chris Mills, Ph D (Apr , Committee Member)
+• Esteban Parra, Ph D (Jun , Committee Member)
+• Hiranmayi Rang a nathan Ph D (Apr , Committee Member)
+• Ahana Roy Choudhury, Ph D (Apr , Committee Member)
+• Abdulkarim Malkadi, Ph D (July , Committee Member)
+• Hemanth Ven kate s war a Ph D (March , Committee Member)
+• Zi Wang, Ph D (Jun , Committee Member)
+• Vishwas Torvi, MS (May , Thesis Advisor)
+• Jinglun Cai, MS (Mar , Committee Member)
+• Spencer Cain, MS (July , Committee Member)
+• Meng-Han Chung, MS (Apr , Committee Member)
+• Javier Escobar-Avila, MS (Aug , Committee Member)
+• Ronald Franco, MS (July , Committee Member)
+• Xiaoxiao Gan, MS (Dec , Committee Member)
+• Brendan Gressel, MS (Dec , Committee Member)
+• Shaima Guediri, MS (Apr , Committee Member)
+• Shiva Chaitanya Gurrala, MS (July , Committee Member)
+• Tejas Hasarali, MS (July , Committee Member)
+• Grzegorz Kakareko, MS (Sep , Committee Member)
+• Mayur Jain, MS (Dec , Committee Member)
+• Sai Swanitha Ko de boy in a MS (Nov , Committee Member)
+• Humaira Mauni, MS (May , Committee Member)
+• Alanna Motte s heard MS (Apr , Committee Member)
+• Matthew Norflus, MS (Jul , Committee Member)
+• Nilay Patel, MS (Nov , Committee Member)
+• Raghav Rathi, MS (Dec , Committee Member)
+• Ricardo Romero, MS (Apr , Committee Member)
+• Mohammad Javad Shoos ht ari MS (Apr , Committee Member)
+• Kunal Singha Roy, MS (Apr , Committee Member)
+• Abanoub Sman, MS (Apr , Committee Member)
+• Jordan Snow, MS (Apr , Committee Member)
+• Vishak Udupa, MS (Dec , Committee Member)
+• Luis Villamil, MS (Apr , Committee Member)
+• Randy Bruno-Piverger, BS (Apr , Committee Member)
+• Cameron Farzaneh, BS (Nov , Committee Member)
+• Colin Mac Rae, BS (Feb , Committee Member)
+• Jeret Mc Coy, BS (Nov , Committee Member)
+GRANTS & FUNDING
+Title: Multimodal Deepfake Information Manipulation, Analysis and Detection
+Role: Co-PI
+Source: Council on Research and Creativity (CRC), FSU
+Award Period: 06/ – 06/
+Total Award Amount: $99,663
+Title: CAREER: Active Learning in the Real-World
+Role: PI
+Source: NSF
+Award Period: 05/ – 04/
+Total Award Amount: $519,882
+Title: Center for Research and Education on Aging and Technology Enhancement - CREATE V
+Role: FSU Co-PI
+Source: NIA
+Award Period: 08/ – 07/
+Total Award Amount: $3,100,000
+Note: This is a multi-university collaborative grant, with the total award amount of $14.7M. FSU’s
+share of the award is $3.1M
+Title: Deep Active Learning with Relative Label Feedback
+Role: PI
+Source: Amazon
+Award Period: 05/ – 04/
+Total Award Amount: $73,097
+Title: Active Learning with Imperfect Oracles
+Role: PI
+Source: Amazon
+Award Period: 05/ – 04/
+Total Award Amount: $35,000 (Cash) $25,000 (AWS Promotional Credits)
+Title: The Adherence Promotion with Person-Centered Technology (APPT) Project: Promoting
+Adherence to Enhance the Early Detection and Treatment of Cognitive Decline
+Role: Co-PI
+Source: NIA
+Award Period: 07/ – 06/
+Total Award Amount: $2,996,314
+Title: Research Supplements to Promote Diversity in Health-Related Research for the Adherence
+Promotion with Person-centered Technology (APPT) Project: Promoting Adherence to Enhance
+the Early Detection and Treatment of Cognitive Decline
+Role: Co-PI and Mentor
+Source: NIA
+Award Period: 06/ – 05/
+Supplement Award Amount: $200,821
+Title: Adaptive Training of Representational Flexibility in STEM+C for Autistic Adolescents
+Role: Co-PI
+Source: NSF
+Award Period: 08/ – 08/
+Total Award Amount: $299,310
+Title: Active Learning for Computer Vision
+Role: PI
+Source: Intel
+Award Period: 01/ – 06/
+Total Award Amount: $25,074
+Title: Deep Active Learning for Class Imbalance Problems
+Role: PI
+Source: Council on Research and Creativity (CRC), FSU
+Award Period: 05/ – 08/
+Total Award Amount: $20,000
+PUBLICATIONS
+Ph D THESIS
+“Batch Mode Active Learning for Multimedia Pattern Recognition”, School of Computing,
+Informatics and Decision Systems Engineering, Arizona State University, April
+JOURNALS / BOOK CHAPTERS / MAGAZINE ARTICLES
+A. Singh, S. Chakra bor ty Z. He, Y. Pang, S. Zhang, R. Subedi, M. Lustria, N. Charness, W.
+Boot, “Predicting Adherence to Computer-based Cognitive Training Programs among Older
+Adults: Study of Domain Adaptation and Deep Learning”, JMIR Aging
+J. Moon, F. Ke, Z. Sokolikj, S. Chakra bor ty “Applying Multimodal Data Fusion to Track Autistic
+Adolescents’ Representational Flexibility Development During Virtual Reality-Based Training”,
+Computers & Education: X Reality
+Z. He, M. Dieciuc, D. Carr, S. Chakra bor ty A. Singh, I. Fowe, S. Zhang, M. Lustria, A.
+Terra cci a no N. Charness, W. Boot, “New Opportunities for the Early Detection and Treatment of
+Cognitive Decline: Adherence Challenges and the Promise of Smart and Person-Centered
+Technologies”, BMC Digital Health
+A. Singh, S. Chakra bor ty Z. He, S. Tian, S. Zhang, M. Lustria, N. Charness, N. Roque, E.
+Harrell, W. Boot, “Deep Learning-based Predictions of Older Adults’ Adherence to Cognitive
+Training to Support Training Efficacy”, Frontiers in Psychology
+Z. He, S. Tian, A. Singh, S. Chakra bor ty S. Zhang, M. Lustria, N. Charness, N. Roque, E.
+Harrell, W. Boot, “A Machine-Learning Based Approach for Predicting Older Adults’ Adherence
+to Technology-Based Cognitive Training”, Information Processing and Management
+D. Carr, S. Tian, Z. He, S. Chakra bor ty M. Dieciuc, N. Gray, M. A ghar azide r mani M. Lustria,
+A. Dil an chi an S. Zhang, N. Charness, A. Terra cci a no W. Boot, “Motivation to Engage in Aging
+Research: Are There Typologies and Predictors?”, The Gerontologist
+M. Ghaffari, A. Srinivasa n X. Liu, S. Chakra bor ty “High-resolution Home Location Prediction
+from Twitter Activities using Consensus Deep Learning”, Social Network Analysis and Mining
+(SNAM) Journal
+S. Chakra bor ty T. Wu, E. Forzani, C. Whisner, D. Jack e meyer “Long-Term Resting Metabolic
+Rate Analysis -Towards Prediction Models for Resting Metabolic Rate Changes”, International
+Journal of Prognostics and Health Management (IJPHM)
+R. Ramakrishna n B. Nagabandi, J. Eusebio, S. Chakra bor ty S. Panch a nathan H. Ven kate s war a
+“Deep Hashing Network for Unsupervised Domain Adaptation”, Domain Adaptation in Computer
+Vision with Deep Learning, Springer
+H. Rang a nathan H. Ven kate s war a S. Chakra bor ty S. Panch a nathan “Deep Active Learning for
+Image Regression”, Deep Learning Applications, Springer
+A. Singh, S. Chakra bor ty “Deep Domain Adaptation for Regression”, Development and
+Analysis of Deep Learning Architectures, Springer
+S. Panch a nathan M. Moore, H. Ven kate s war a S. Chakra bor ty T. Mc Daniel, “Computer Vision
+for Augment at ive and Alternative Communication”, Computer Vision for Assistive Healthcare,
+Elsevier
+H. Ven kate s war a S. Chakra bor ty S. Panch a nathan “Deep Learning Systems for Domain
+Adaptation in Computer Vision”, IEEE Signal Processing Magazine (SPM), Special Issue on Deep
+Learning for Visual Understanding
+S. Panch a nathan S. Chakra bor ty T. Mc Daniel et al., “Enriching the Fan Experience in a Smart
+Stadium Using Internet of Things Technologies”, International Journal of Semantic Computing
+(IJSC) (Special Issue on Best of ISM )
+S. Panch a nathan S. Chakra bor ty T. Mc Daniel, R. Tadayon, “Person-Centered Multimedia
+Computing: A New Paradigm Inspired by Assistive and Rehab il it at ive Applications”, IEEE
+Multimedia (MM) IEEE Multimedia Best Department Article Award)
+S. Panch a nathan S. Chakra bor ty T. Mc Daniel, “Social Interaction Assistant: A Person-
+Centered Approach to Social Interaction for Individuals with Visual Impairment”, IEEE Journal
+on Selected Topics in Signal Processing (J-STSP)
+S. Chakra bor ty Q. Sun, V. Bala subramania n S. Panch a nathan J. Ye, “Active Batch Selection
+via Convex Relaxations with Guaranteed Solution Bounds”, IEEE Transactions on Pattern
+Analysis and Machine Intelligence (TPAMI)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Adaptive Batch Mode Active Learning”,
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+V. Bala subramania n S. Chakra bor ty S. Panch a nathan “Conformal Predictions for Information
+Fusion: A Comparative Study of P-Value Combination Methods”, Annals of Mathematics and
+Artificial Intelligence (AMAI)
+V. Bala subramania n S. Chakra bor ty S. S. Ho, H. Wechsler, S. Panch a nathan “Active Learning
+using Conformal Predictions”, Morgan Kaufmann Publ. (Elsevier)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Generalized Batch Mode Active
+Learning for Face-based Biometric Recognition”, Pattern Recognition
+CONFERENCES AND WORKSHOPS
+C. Jiang, H. Zhou, X. Zhang, S. Chakra bor ty “Fed AR: Addressing Client Un availability in
+Federated Learning with Local Update Approximation and Rectification”, European Conference
+on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML
+PKDD)
+L. Zhang, L. Xu, S. Motamed, S. Chakra bor ty F. de la Torre, “D3GU: Multi-target Active
+Domain Adaptation via Enhancing Domain Alignment”, IEEE Winter Conference on Applications
+of Computer Vision (WACV)
+D. Goswami, S. Chakra bor ty “Active Batch Sampling for Multi-label Classification with Binary
+User Feedback”, IEEE Winter Conference on Applications of Computer Vision (WACV)
+Md S. Seraj, A. Singh, S. Chakra bor ty “Semi-supervised Deep Domain Adaptation for Deepfake
+Detection”, Workshop on Manipulation, Adversarial and Presentation Attacks In Biometrics
+(MAP-A) at IEEE Winter Conference on Applications of Computer Vision (WACV)
+D. Goswami, S. Chakra bor ty “Active Learning for Video Classification with Frame Level
+Queries”, IEEE International Joint Conference on Neural Networks (IJCNN)
+S. Chakra bor ty A. Singh, “Active Sampling for Text Classification with Sub instance Level
+Queries”, AAAI Conference on Artificial Intelligence (accepted for oral presentation)
+S. Banerjee, S. Chakra bor ty “Deterministic Mini-batch Sequencing for Training Deep Neural
+Networks”, AAAI Conference on Artificial Intelligence
+A. Yuan, S. Chakra bor ty “A Study of Deep Learning for Predicting Freeze of Gait in Patients
+with Parkinson s Disease”, IEEE International Conference on Machine Learning and Applications
+(ICMLA)
+A. Singh, S. Chakra bor ty “Deep Active Transfer Learning for Image Recognition”, IEEE
+International Joint Conference on Neural Networks (IJCNN)
+S. Banerjee, S. Chakra bor ty “Budgeted Subset Selection for Fine-tuning Deep Learning
+Architectures in Resource-Constrained Applications”, IEEE International Joint Conference on
+Neural Networks (IJCNN)
+S. Chakra bor ty “Asking the Right Questions to the Right Users: Active Learning with Imperfect
+Oracles”, AAAI Conference on Artificial Intelligence
+M. Woodham, J. Hawkins, A. Singh, S. Chakra bor ty “When to Pull Starting Pitchers in Major
+League Baseball? A Data Mining Approach”, IEEE International Conference on Machine
+Learning and Applications (ICMLA)
+A. Bhatt acharya J. Liu, S. Chakra bor ty “A Generic Active Learning Framework for Class
+Imbalance Applications”, British Machine Vision Conference (BMVC)
+C. Mills, J. Escobar-Avila, A. Bhatt acharya G. Kondyukov, S. Chakra bor ty S. Haiduc, “Tracing
+with Less Data: Active Learning for Classification-Based Trace ability Link Recovery”, IEEE
+International Conference on Software Maintenance and Evolution (ICSME)
+S. Banerjee, S. Chakra bor ty “Deep Sub: A Novel Subset Selection Framework for Training Deep
+Learning Architectures”, IEEE International Conference on Image Processing (ICIP)
+A. Bhatt acharya S. Chakra bor ty “Active Learning with n-ary Queries for Image Recognition”,
+IEEE Winter Conference on Applications of Computer Vision (WACV)
+V. Torvi, A. Bhatt acharya S. Chakra bor ty “Deep Domain Adaptation to Predict Freezing of
+Gait in Patients with Parkinson s Disease”, IEEE International Conference on Machine Learning
+and Applications (ICMLA)
+H. Rang a nathan H. Ven kate s war a S. Chakra bor ty S. Panch a nathan “Multi-Label Deep Active
+Learning with Label Correlation”, IEEE International Conference on Image Processing (ICIP)
+S. Chakra bor ty “Distributed Active Learning for Image Recognition”, IEEE Winter Conference
+on Applications of Computer Vision (WACV)
+S. Chakra bor ty J. Stokes, L. Xiao, D. Zhou, M. Marinescu, A. Thomas, “Hierarchical Learning
+for Automated Malware Classification”, IEEE Military Communications Conference (MILCOM)
+H. Rang a nathan H. Ven kate s war a S. Chakra bor ty S. Panch a nathan “Deep Active Learning for
+Image Classification”, IEEE International Conference on Image Processing (ICIP)
+H. Ven kate s war a J. Eusebio, S. Chakra bor ty S. Panch a nathan “Deep Hashing Network for
+Unsupervised Domain Adaptation”, IEEE Conference on Computer Vision and Pattern
+Recognition (CVPR)
+H. Ven kate s war a S. Chakra bor ty T. Mc Daniel, S. Panch a nathan “Model Selection with
+Nonlinear Embedding for Unsupervised Domain Adaptation”, Workshop on Knowledge-based
+Techniques for Problem Solving and Reasoning (Know Pros) at the Association for the
+Advancement of Artificial Intelligence (AAAI)
+S. Panch a nathan S. Chakra bor ty T. Mc Daniel et al. “Smart Stadium for Smart Living: Enriching
+the Fan Experience”, IEEE International Symposium on Multimedia (ISM) (Invited Paper)
+H. Ven kate s war a S. Chakra bor ty S. Panch a nathan “Nonlinear Embedding Transform for
+Unsupervised Domain Adaptation”, Workshop on Transferring and Adapting Source Knowledge
+in Computer Vision (TASK-CV) at the European Conference on Computer Vision (ECCV)
+H. Rang a nathan S. Chakra bor ty S. Panch a nathan “Transfer of Multi-modal Emotion Features
+in Deep Belief Networks”, Asilomar Conference on Signals, Systems and Computers
+H. Rang a nathan S. Chakra bor ty S. Panch a nathan Multi modal Emotion Recognition using
+Deep Learning Architectures”, IEEE Winter Conference on Applications of Computer Vision
+(WACV)
+S. Chakra bor ty O. Tickoo, R. Iyer, “Towards Distributed Video Sum mari z ation ACM
+Multimedia Conference (ACM-MM)
+S. Chakra bor ty V. Bala subramania n A. Ravi Sankar, S. Panch a nathan J. Ye, “Batch Rank: A
+Novel Batch Mode Active Learning Framework for Hierarchical Classification”, ACM
+Conference on Knowledge Discovery and Data Mining (KDD)
+S. Chakra bor ty O. Tickoo, R. Iyer, “Adaptive Keyframe Selection for Video Sum mari z ation
+IEEE Winter Conference on Applications of Computer Vision (WACV)
+S. Chakra bor ty J. Zhou, V. Bala subramania n S. Panch a nathan I. Davidson, J. Ye, “Active
+Matrix Completion”, IEEE International Conference on Data Mining, (ICDM)
+S. Chakra bor ty H. Ven kate s war a V. Bala subramania n S. Panch a nathan “Active Batch
+Selection for Fuzzy Classification in Facial Expression Recognition”, IEEE International
+Conference on Machine Learning and Applications (ICMLA)
+R. Chat top adh yay S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Optimization-based
+Domain Adaptation towards Person-Adaptive Classification Models”, IEEE International
+Conference on Machine Learning and Applications (ICMLA)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Optimal Batch Selection for Active
+Learning in Multi-label Classification”, ACM Multimedia Conference (ACM-MM)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Dynamic Batch Mode Active Learning”,
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “An Optimization Based Framework for
+Dynamic Batch Mode Active Learning”, Workshop on Optimization for Machine Learning at
+Neural Information Processing Systems (NIPS)
+V. Bala subramania n S. Chakra bor ty S. Krishna, S. Panch a nathan “Enhancing Social
+Interactions of Individuals with Visual Impairments: A Case Study for Assistive Machine
+Learning”, Workshop on Machine Learning for Assistive Technologies at Neural Information
+Processing Systems (NIPS)
+V. Bala subramania n S. Chakra bor ty S. Panch a nathan “Multiple Kernel Learning for Efficient
+Conformal Predictions”, Workshop on New Directions in Multiple Kernel Learning at Neural
+Information Processing Systems (NIPS)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Dynamic Batch Size Selection for Batch
+Mode Active Learning in Biometrics”, IEEE International Conference on Machine Learning and
+Applications (ICMLA)
+V. Bala subramania n J. Ye, S. Chakra bor ty S. Panch a nathan “Kernel Learning for Efficiency
+Maximization in the Conformal Predictions Framework”, IEEE International Conference on
+Machine Learning and Applications (ICMLA)
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Learning from Summaries of Videos:
+Applying Batch Mode Active Learning to Face-based Biometrics”, IEEE Conference on Computer
+Vision and Pattern Recognition (CVPR) Workshop on Biometrics,
+S. Chakra bor ty V. Bala subramania n S. Panch a nathan “Batch Mode Active Learning for
+Biometric Recognition”, SPIE International Conference on Biometric Technology for Human
+Identification, SPIE Defense, Security & Sensing
+S. Marcel, C. Mc Cool, S. Chakra bor ty V. Bala subramania n S. Panch a nathan et al. “On the
+Results of the First Mobile Biometry (MOBIO) Face and Speaker Verification Evaluation”,
+International Conference on Pattern Recognition (ICPR)
+V. Bala subramania n S. Chakra bor ty S. Krishna, S. Panch a nathan “Human- Centered Machine
+Learning in a Social Interaction Assistant for Individuals with Visual Impairments”, Symposium
+on Assistive Machine Learning for People with Disabilities at Neural Information Processing
+Systems (NIPS)
+V. Bala subramania n S. Chakra bor ty S. Panch a nathan “Online Active Learning using
+Conformal Predictions”, Workshop on Analysis and Design of Algorithms for Interactive Machine
+Learning at Neural Information Processing Systems (NIPS)
+V. Bala subramania n S. Chakra bor ty S. Panchanathan. “Generalized Query by Transduction for
+Online Active Learning”, IEEE International Conference on Computer Vision (ICCV), Workshop
+on Online Learning for Computer Vision
+V. Bala subramania n S. Chakra bor ty S Panch a nathan “Multiple Cue Integration in
+Trans duct ive Confidence Machines for Head Pose Classification”, IEEE Conference on Computer
+Vision and Pattern Recognition (CVPR) Workshop on Online Learning for Classification,
+G. Gupta, S. K. Saha, S. Chakra bor ty C. Mazumdar, “Document Frauds: Identification and
+Linking Fake Documents to Scanners and Printers”, IEEE International Conference on
+Computing, Theory and Applications (ICCTA)
+SHORT PAPERS AND ABSTRACTS
+Z. Sokolikj, F. Ke, S. Chakra bor ty J. Moon, “A Comparison of Deep Learning and Supervised
+Machine Learning Methods in RF tracking for Neuro divergent Learners”, ISLS Annual Meeting,
+International Society of the Learning Sciences (ISLS)
+Z. Sokolikj, F. Ke, S. Chakra bor ty J. Moon, “Using Deep Learning to Track Representational
+Flexibility Development of Children with Autism in a Virtual World”, International Conference on
+Information and Education Technology (ICIET)
+J. Moon, F. Ke, Z. Sokolikj, S. Chakra bor ty Multi modal Data Fusion to Track Representational
+Flexibility of Adolescents with Autism Spectrum Disorder during Virtual Reality-Based Training”,
+ISLS Annual Meeting, International Society of the Learning Sciences (ISLS)
+J. Moon, F. Ke, Z. Sokolikj, S. Chakra bor ty “Using Sequence Mining to Explore the
+Representational Flexibility Development of Adolescents with Autism Spectrum Disorder in
+Virtual Reality-based Flexibility Training”, ISLS Annual Meeting, International Society of the
+Learning Sciences (ISLS)
+N. Charness, W. Boot, S. Chakra bor ty Z. He, “Machine Learning Approaches to Understanding
+and Predicting Patterns of Adherence”, Ger ontological Society of America (GSA)
+M. Dieciuc, D. Carr, Z. He, S. Chakra bor ty N. Charness, M. Lustria, A. Singh, W. Boot, “An
+Introduction to the Adherence Promotion with Person-Centered Technology Project”,
+Ger ontological Society of America (GSA)
+M. Lustria, Z. He, W. Boot, S. Chakra bor ty N. Charness, D. Carr, A. Terra cci a no “You Know
+You Are Getting Old When…: Improving Adherence to Mobile-Based Cognitive Assessments
+Using AI-Based Tailored Reminders”, Kentucky Conference on Health Communication,
+Department of Communication, University of Kentucky,
+TECHNICAL REPORTS
+V. Bala subramania n S. Chakra bor ty S. Panch a nathan “Confidence Estimation in Pattern
+Classification: An Analysis with Head Pose Estimation”, Technical Report T09-12, School of
+Computing, Informatics and Decision Systems Engineering, Arizona State University,
+PRESENTATIONS AND INVITED TALKS
+• Machine Learning Expo, Florida State University, Apr
+• Center for Imaging Science, Rochester Institute of Technology, Apr
+• Department of Computer Science, Marquette University, Apr
+• Translational AI Center, Iowa State University, Apr
+• Machine Learning Expo, Florida State University, Apr
+• College of Medicine, Florida State University, Jun
+• Machine Learning Expo, Florida State University, Apr
+• Department of Statistics, Florida State University, Sep
+• Department of Computer Science, Florida State University, June
+• Department of Computer Science, Portland State University, May
+• School of Informatics, Computing and Cyber Systems, Northern Arizona University, Feb
+• Visual Technology Showcase at the IEEE International Conference on Image Processing
+(ICIP),
+• Google X, Mountain View CA,
+• Carnegie Mellon University, Department of Computational Biology,
+• Duke University, Department of Computer Science,
+• Microsoft Research Redmond, Machine Learning Department,
+• Seventh Annual Machine Learning Symposium organized by the New York Academy of
+Sciences,
+• Multimedia and Vision Meeting organized jointly by IBM Research and Stevens Institute
+of Technology,
+• IEEE International Symposium on Multimedia (ISM),
+• Doctoral Symposia of Computer Vision and Pattern Recognition (CVPR) , ACM
+Multimedia (ACM MM) , the Association for the Advancement of Artificial Intelligence
+(AAAI) and the SIAM Data Mining Conference (SDM),

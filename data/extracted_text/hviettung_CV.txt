@@ -1,224 +1,224 @@
-viet tung hoang
-last update: november 7,
-department of computer science email:
-florida state university phone:
-tallahassee, fl 32306 website: http://www.cs.fsu.edu/~tvhoang/
-current position
-associate professor 8/ – present
-florida state university
-education
-university of california, davis davis, ca, usa
-ph.d. in computer science –
-dissertation: “foundations of garbled circuits”
-advisor: prof. phillip rogaway
-national university of singapore singapore
-first-class honor, b.s. in computer engineering –
-research interests
-cryptography and computer security.
-academic honors
-• publication [3] is selected for the distinguished paper award at usenix security .
-• nsf career award, .
-• google’s unsolicited gift (under their patch rewards program) for publication [6], .
-• faculty research award, given by department of computer science at fsu, .
-• publication[18]isinvitedtothejournalofcryptologyasoneofthetop-rankedpapersatcrypto2016.
-• publication [19] is selected for the best paper award at ccs .
-• publication[22]isselectedforthebestpaperhonorablementionateurocrypt2015andinvited
-to the journal of cryptology.
-• publication[25]isinvitedtothejournalofcryptologyasoneofthetop-rankedpapersatcrypto2013.
-• uc davis summer graduate student researcher award, .
-• teaching assistant of the year, awarded by uc davis computer science club, .
-• nus outstanding undergraduate researcher award, .
-• nusdefensescience&technologyagencyprizeforthebeststudentintheundergraduateresearch
-opportunities program, .
-• singapore scholarship, awarded by singapore ministry of foreign affairs for twenty top students in
-vietnam, .
-impact
-• the design in publication [20] is adopted in the libsodium library and google’s tink library to
+VIET TUNG HOANG
+Last update: November 7,
+Department of Computer Science Email:
+Florida State University Phone:
+Tallahassee, FL 32306 Website:
+CURRENT POSITION
+Associate Professor 8/ – Present
+Florida State University
+EDUCATION
+University of California, Davis Davis, CA, USA
+Ph. D. in Computer Science –
+Dissertation: “Foundations of garbled circuits”
+Advisor: Prof. Phillip Rogaway
+National University of Singapore Singapore
+First-class honor, B. S. in Computer Engineering –
+RESEARCH INTERESTS
+Cryptography and Computer Security.
+ACADEMIC HONORS
+• Publication [3] is selected for the Distinguished Paper Award at Usenix Security .
+• NSF CAREER Award, .
+• Google’s unsolicited gift (under their Patch Rewards Program) for publication [6], .
+• Faculty Research Award, given by Department of Computer Science at FSU, .
+• Publication 18 is invited to the Journalof Cryptologyasoneofthetop-rankedpapersat CRYPTO2016.
+• Publication [19] is selected for the Best Paper Award at CCS .
+• Publication 22 is selected for the Best Paper Honorable Mentionat EURO CRYPT 2015 and invited
+to the Journal of Cryptology.
+• Publication 25 is invited to the Journalof Cryptologyasoneofthetop-rankedpapersat CRYPTO2013.
+• UC Davis Summer Graduate Student Researcher Award, .
+• Teaching Assistant of the year, awarded by UC Davis Computer Science Club, .
+• NUS Outstanding Undergraduate Researcher Award, .
+• NUSDefense Science Technology Agency Prize for the best student in the Undergraduate Research
+Opportunities Program, .
+• Singapore Scholarship, awarded by Singapore Ministry of Foreign Affairs for twenty top students in
+Vietnam, .
+IMPACT
+• The design in publication [20] is adopted in the libsodium library and Google’s Tink library to
 encrypt streams or gigantic files.
-• rfc 8452 relies on the analyses in publication [12] to justify the security of the encryption scheme
-aes-gcm-sivthatisusedforticketencryptioninthequicprotocol. publication[10]isused(for
-example, by rfc 9001) to prescribe the usage limits of the gcm encryption in quic and tls.
-• theswap-or-notshuffle[29]isamajorcomponentinthevalidator-selectionprotocolofethereum2.0,
-the second most popular cryptocurrency after bitcoin.
-• the attacks [17, 11] on the nist standards of format-preserving encryption (that are widely used
+• RFC 8452 relies on the analyses in publication [12] to justify the security of the encryption scheme
+AES-GCM-SIVthatisusedforticketencryptioninthe QUICprotocol. Publication 10 is used for
+example, by RFC 9001) to prescribe the usage limits of the GCM encryption in QUIC and TLS.
+• The Swap-or-Notshuffle[29]isamajorcomponentinthevalidator-selectionprotocolof Ethereum2.0,
+the second most popular crypto currency after Bitcoin.
+• The attacks [17, 11] on the NIST standards of Format-Preserving Encryption (that are widely used
 for encrypting credit-card numbers and legacy databases) led to a revision of the standards.
-• publication [22] gives a foundational treatment and a design blueprint for the next-generation en-
-cryption. this has led to nist’s ongoing standardization of the accordion mode of encryption.
-• publications[28,26]laypracticalfoundationsforgarbledcircuits,acentraltoolinsecuredistributed
-computing. they have been cited totally about 1,200 times and their material has been used in
-cryptography classes at stanford, mit, uc berkeley, and other places.
-publications
-• summary: 19 papers in tier-1 crypto conferences (crypto, eurocrypt, asiacrypt)
-8 papers in tier-1 security conferences (ccs, s&p, usenix security)
-4 papers in other venues (pkc, stacs, cluster, ipdps)
-• in most papers, the author names are ordered alphabetically, but a few system papers are ordered
+• Publication [22] gives a foundational treatment and a design blueprint for the next-generation en-
+cryption. This has led to NIST’s ongoing standardization of the Accordion mode of encryption.
+• Publications 28 26 lay practical foundations for garbled circuits a central tool insecure distributed
+computing. They have been cited totally about 1,200 times and their material has been used in
+cryptography classes at Stanford, MIT, UC Berkeley, and other places.
+PUBLICATIONS
+• Summary: 19 papers in tier-1 crypto conferences (Crypto, Eurocrypt, Asiacrypt)
+8 papers in tier-1 security conferences (CCS, S&P, Usenix Security)
+4 papers in other venues (PKC, STACS, Cluster, IPDPS)
+• In most papers, the author names are ordered alphabetically, but a few system papers are ordered
 according to the relative contributions.
-1. viet tung hoang and sanketh menda. “robust ae with committing security”, to appear in
-asiacrypt .
-2. mihirbellareandviettunghoang. “succinctly-committingauthenticatedencryption”,advances
-in cryptology — crypto , pp. 305–339, .
-3. viet tung hoang, cong wu, and xin yuan.“faster yet safer: logging system via fixed-key
-blockcipher”, usenix security , pp. 2389–2406, . distinguished paper award.
-4. mihirbellareandviettunghoang. “efficientschemesforcommittingauthenticatedencryption”,
-advances in cryptology — eurocrypt , pp. 845–875, .
-5. mehran sadeghi lahijani, abu naser, cong wu, mohsen gavahi, viet tung hoang, zhi wang, and
-xin yuan. “efficient algorithms for encrypted all-gather operation”, ieee international parallel
-and distributed processing symposium (ipdps ), pp. 372–381, .
-6. viet tung hoang and yaobin shen. “security of streaming encryption in google’s tink library”,
-acm computer and communications security (ccs ), pp. 243–262.
-7. viet tung hoang and yaobin shen. “security analysis of nist ctr-drbg”, advances in cryp-
-tology — crypto , pp. 218–247, .
-8. abu naser, mohsen gavahi, cong wu, viet tung hoang, zhi wang, and xin yuan. “an empirical
-study of cryptographic libraries for mpi communications”, ieee cluster , .
-9. viet tung hoang, david miller, and ni trieu. “attacks only get better: how to break ff3 on
-large domains”, advances in cryptology — eurocrypt , pp 85–116, .
-10. viet tung hoang, stefano tessaro, and aishwarya thiruvengadam. “the multi-user security of
-gcm, revisited: tight bounds for nonce randomization”, acm computer and communications
-security (ccs ), pp. 1429–1440, .
-11. viet tung hoang, stefano tessaro, and ni trieu. “the curse of small domains: new attacks on
-format-preserving encryption”, advances in cryptology — crypto , pp. 221–251, .
+1. Viet Tung Hoang and Sanketh Menda. “Robust AE with Committing Security”, to appear in
+ASIACRYPT .
+2. Mihir Bellareand Viet Tung Hoang. “Succinctly-Committing Authenticated Encryption”, Advances
+in Cryptology — CRYPTO , pp. 305–339, .
+3. Viet Tung Hoang, Cong Wu, and Xin Yuan.“Faster Yet Safer: Logging System Via Fixed-Key
+Block cipher USENIX Security , pp. 2389–2406, . Distinguished Paper Award.
+4. Mihir Bellareand Viet Tung Hoang. “Efficient Schemesfor Committing Authenticated Encryption”,
+Advances in Cryptology — EUROCRYPT , pp. 845–875, .
+5. Mehran Sadeghi Lahijani, Abu Naser, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, and
+Xin Yuan. “Efficient Algorithms for Encrypted All-gather Operation”, IEEE International Parallel
+and Distributed Processing Symposium (IPDPS ), pp. 372–381, .
+6. Viet Tung Hoang and Yaobin Shen. “Security of Streaming Encryption in Google’s Tink Library”,
+ACM Computer and Communications Security (CCS ), pp. 243–262.
+7. Viet Tung Hoang and Yaobin Shen. “Security Analysis of NIST CTR-DRBG”, Advances in Cryp-
+tology — CRYPTO , pp. 218–247, .
+8. Abu Naser, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, and Xin Yuan. “An Empirical
+Study of Cryptographic Libraries for MPI Communications”, IEEE Cluster , .
+9. Viet Tung Hoang, David Miller, and Ni Trieu. “Attacks Only Get Better: How to Break FF3 on
+Large Domains”, Advances in Cryptology — EUROCRYPT , pp 85–116, .
+10. Viet Tung Hoang, Stefano Tessaro, and Aishwarya Thiruvengadam. “The Multi-user Security of
+GCM, Revisited: Tight Bounds for Nonce Random iz ation ACM Computer and Communications
+Security (CCS ), pp. 1429–1440, .
+11. Viet Tung Hoang, Stefano Tessaro, and Ni Trieu. “The Curse of Small Domains: New Attacks on
+Format-Preserving Encryption”, Advances in Cryptology — CRYPTO , pp. 221–251, .
 2
-12. priyanka bose, viet tung hoang, and stefano tessaro. “revisiting aes-gcm-siv: multi-user
-security, faster key derivation, and better bounds”, advances in cryptology — eurocrypt
+12. Priyanka Bose, Viet Tung Hoang, and Stefano Tessaro. “Revisiting AES-GCM-SIV: Multi-user
+Security, Faster Key Derivation, and Better Bounds”, Advances in Cryptology — EUROCRYPT
 , pp. 468–499, .
-13. mihir bellare and viet tung hoang. “identity-based format-preserving encryption”, acm com-
-puter and communications security (ccs ), pp. 1515–1532, .
-14. wei dai, viet tung hoang, and stefano tessaro. “information-theoretic indistinguishability via the
-chi-squared method”, advances in cryptology — crypto , pp. 497–523, .
-15. viettunghoangandstefanotessaro. “themulti-usersecurityofdoubleencryption”, advances
-in cryptology — eurocrypt , pp. 381–411, .
-16. viet tung hoang, jonathan katz, adam o’neill, and mohammad zaheri. “selective-opening se-
-curityinthepresenceofrandomnessfailures”,advances in cryptology — asiacrypt ,pp.278–
+13. Mihir Bellare and Viet Tung Hoang. “Identity-Based Format-Preserving Encryption”, ACM Com-
+puter and Communications Security (CCS ), pp. 1515–1532, .
+14. Wei Dai, Viet Tung Hoang, and Stefano Tessaro. “Information-theoretic In distinguish ability via the
+Chi-Squared Method”, Advances in Cryptology — CRYPTO , pp. 497–523, .
+15. Viet Tung Hoangand Stefano Tessaro. “The Multi-User Securityof Double Encryption”, Advances
+in Cryptology — EUROCRYPT , pp. 381–411, .
+16. Viet Tung Hoang, Jonathan Katz, Adam O’Neill, and Mohammad Zaheri. “Selective-Opening Se-
+curit yin the Presenceof Randomness Failures”, Advances in Cryptology — Asiacrypt , pp.278–
 306, .
-17. mihir bellare, viet tung hoang, and stefano tessaro. “message-recovery attacks on feistel-
-based format preserving encryption”, acm computer and communications security (ccs ),
+17. Mihir Bellare, Viet Tung Hoang, and Stefano Tessaro. “Message-recovery attacks on Feistel-
+based Format Preserving Encryption”, ACM Computer and Communications Security (CCS ),
 pp. 444-455, .
-18. viet tung hoang and stefano tessaro. “key-alternating ciphers and key-length extension: ex-
-act bounds and multi-user security”, advances in cryptology — crypto , pp. 3–32, .
-invited to journal of cryptology.
-19. viet tung hoang, jonathan katz, and alex malozemoff. “automated analysis and synthesis of
-authenticated encryption schemes”, acm computer and communications security (ccs ),
-pp. 84–95, . best paper award.
-20. viettunghoang,rezareyhanitabar,philliprogaway,anddamianviz´ar. “onlineauthenticated-
-encryption and its nonce-reuse misuse-resistance”, advances in cryptology — crypto ,
+18. Viet Tung Hoang and Stefano Tessaro. “Key-alternating Ciphers and Key-length Extension: Ex-
+act Bounds and Multi-user Security”, Advances in Cryptology — CRYPTO , pp. 3–32, .
+Invited to Journal of Cryptology.
+19. Viet Tung Hoang, Jonathan Katz, and Alex Malozemoff. “Automated analysis and synthesis of
+authenticated encryption schemes”, ACM Computer and Communications Security (CCS ),
+pp. 84–95, . Best Paper Award.
+20. Viet Tung Hoang, Reza Rey han it a bar Phillip Rogaway, and Damian Viz´ar. “Online Authenticated-
+Encryption and its Nonce-Reuse Misuse-Resistance”, Advances in Cryptology — CRYPTO ,
 pp. 493–517, .
-21. mihir bellare and viet tung hoang. “resisting randomness subversion: fast deterministic and
-hedged public-key encryption in the standard model”, advances in cryptology — eurocrypt
+21. Mihir Bellare and Viet Tung Hoang. “Resisting randomness subversion: Fast deterministic and
+hedged public-key encryption in the standard model”, Advances in Cryptology — EUROCRYPT
 , pp. 627–656, .
-22. viet tung hoang, ted krovetz, and phillip rogaway. “robust authenticated-encryption: aez and
-the problem that it solves”, advances in cryptology — eurocrypt , pp. 15–44, . best
-paper honorable mention; invited to journal of cryptology.
-23. mihir bellare and viet tung hoang. “adaptive witness encryption and asymmetric password-based
-cryptography”, public key cryptography — pkc , pp. 308–331, .
-24. mihirbellare,viettunghoang,andsriramkeelveedhi. “cryptographyfromcompressionfunctions:
-the uce bridge to the rom”, advances in cryptology — crypto , pp. 169–187, .
-25. mihir bellare, viet tung hoang, and sriram keelveedhi. “instantiating random oracles via uces”,
-advancesincryptology—crypto2013,pp.398–415, . invitedtojournalofcryptology.
-26. mihir bellare, viet tung hoang, sriram keelveedhi, and phillip rogaway. “efficient garbling from
-a fixed-key blockcipher”, ieee symposium of security and privacy , pp. 478–492, .
-27. mihirbellare,viettunghoang,andphilliprogaway. “adaptivesecuregarblingwithapplicationsto
-one-timeprogramsandsecureoutsourcing”,advancesincryptology—asiacrypt2012,pp.134–
+22. Viet Tung Hoang, Ted Krovetz, and Phillip Rogaway. “Robust authenticated-encryption: AEZ and
+the problem that it solves”, Advances in Cryptology — EUROCRYPT , pp. 15–44, . Best
+Paper Honorable Mention; Invited to Journal of Cryptology.
+23. Mihir Bellare and Viet Tung Hoang. “Adaptive witness encryption and asymmetric password-based
+cryptography”, Public Key Cryptography — PKC , pp. 308–331, .
+24. Mihir Bellare, Viet Tung Hoang, and Sriram Keelveedhi. Cryptography from compression functions
+The UCE bridge to the ROM”, Advances in Cryptology — CRYPTO , pp. 169–187, .
+25. Mihir Bellare, Viet Tung Hoang, and Sriram Keelveedhi. Instant i a ting random oracles via UCEs”,
+Advancesin Cryptology CRYPTO 2013 pp.398–415,. Invitedto Journalof Cryptology.
+26. Mihir Bellare, Viet Tung Hoang, Sriram Keel vee d hi and Phillip Rogaway. “Efficient garbling from
+a fixed-key block cipher IEEE Symposium of Security and Privacy , pp. 478–492, .
+27. Mihir Bellare, Viet Tung Hoang, and Phillip Rogaway. Adaptive secure garbling with applications to
+one-timeprogramsandsecureoutsourcing”, Advancesin Cryptology ASIA CRYPT 2012 pp.134–
 153, .
-28. mihir bellare, viet tung hoang, and phillip rogaway. “foundations of garbled circuits”, acm
-computer and communications security (ccs ), pp. 784–796, .
-29. viet tung hoang, ben morris, and phillip rogaway. “an enciphering scheme based on a card
-shuffle”, advances in cryptology — crypto , pp. 1-13, .
-30. viet tung hoang and phillip rogaway. “on generalized feistel networks”, advances in cryptology
-— crypto , pp. 613-630, .
+28. Mihir Bellare, Viet Tung Hoang, and Phillip Rogaway. “Foundations of garbled circuits”, ACM
+Computer and Communications Security (CCS ), pp. 784–796, .
+29. Viet Tung Hoang, Ben Morris, and Phillip Rogaway. “An en ciphering scheme based on a card
+shuffle”, Advances in Cryptology — CRYPTO , pp. 1-13, .
+30. Viet Tung Hoang and Phillip Rogaway. “On generalized Feistel networks”, Advances in Cryptology
+— CRYPTO , pp. 613-630, .
 3
-31. viet tung hoang and wing-kin sung. “improved algorithms for maximum agreement and compat-
-ible supertrees”, algorithmica, volume 59, number 2, pp. 195-214, . (journal version of [32])
-32. viet tung hoang and wing-kin sung. “fixed parameter polynomial time algorithms for maxi-
-mumagreementandcompatiblesupertrees”,symposiumoftheoreticalaspectsofcomputerscience
-(stacs ), pp. 361–372, .
-invited talks
-1. faster yet safer: logging system via fixed-key blockcipher.
-university of maryland college park. december .
-2. the landscape of committing authenticated encryption.
-workshop on block cipher modes of operation, national institute of standards and technology.
-october .
-3. efficient garbling from a fixed-key blockcipher.
-workshop on applied multiparty computation, microsoft research redmond. february .
-funding
-• “newanalyticfrontiersforsymmetriccryptography”,pi:viettunghoang. $563,971, – .
-nsf cns 2046540 (career).
-• google’s gift (patch rewards program), $10,000, . (unsolicited gift)
-• “towards stronger and verified security for real-world cryptography”. pi: viet tung hoang.
-$174,469, – . nsf crii 1755539.
-• “data insurance in the cluster environment”. pi: zhi wang, co-pis: viet tung hoang, paul van
-der mark, and xin yuan. $590,317, – . nsf cici 1738912.
-• “revising cryptographic proof techniques for exact security”. pi: viet tung hoang. $20,000 for
-summer . first year assistant professor award, florida state university.
-service
-• pc member for asiacrypt ( , , , ), ccs , crypto ( , , ,
-), eurocrypt , iwsec , indocrypt , and scn .
-• associate editor for the journal of combinatorial optimization.
-• reviewer for journal of cryptology, ieee transactions on dependable and secure computing,
-information and computation, iet information security, design, codes and cryptography.
-• reviewer and panelist for the national science foundation (nsf).
-• external reviewer for the austrian science fund (fwf) and the israel science foundation (isf).
-• advisor for the florida georgia louis stokes alliance for minority participation, an nsf-funded
-consortium of fsu students from underrepresented minorities in stem fields.
-• coach for the fsu acm programing team.
-industrial relations
-• consultant for google and comforte ag.
+31. Viet Tung Hoang and Wing-Kin Sung. “Improved algorithms for maximum agreement and compat-
+ible super trees Algorithmic a volume 59, number 2, pp. 195-214, . (Journal version of [32])
+32. Viet Tung Hoang and Wing-Kin Sung. “Fixed parameter polynomial time algorithms for maxi-
+mum agreement and compatible super trees Symposium of Theoretical Aspectsof Computer Science
+(STACS ), pp. 361–372, .
+INVITED TALKS
+1. Faster Yet Safer: Logging System Via Fixed-Key Blockcipher.
+University of Maryland College Park. December .
+2. The Landscape of Committing Authenticated Encryption.
+Workshop on Block Cipher Modes of Operation, National Institute of Standards and Technology.
+October .
+3. Efficient Garbling From A Fixed-key Blockcipher.
+Workshop on Applied Multiparty Computation, Microsoft Research Redmond. February .
+FUNDING
+• “New Analytic Frontiers for Symmetric Cryptography”, PI:Viet Tung Hoang. $563,971,–.
+NSF CNS 2046540 (CAREER).
+• Google’s gift (Patch Rewards Program), $10,000, . (Unsolicited gift)
+• “Towards Stronger and Verified Security for Real-World Cryptography”. PI: Viet Tung Hoang.
+$174,469, –. NSF CRII 1755539.
+• “Data Insurance in the Cluster Environment”. PI: Zhi Wang, co-PIs: Viet Tung Hoang, Paul Van
+Der Mark, and Xin Yuan. $590,317, –. NSF CICI 1738912.
+• “Revising Cryptographic Proof Techniques for Exact Security”. PI: Viet Tung Hoang. $20,000 for
+Summer . First Year Assistant Professor Award, Florida State University.
+SERVICE
+• PC member for ASIACRYPT (, , , ), CCS , CRYPTO (, , ,
+), EUROCRYPT , IWSEC , INDOCRYPT , and SCN .
+• Associate Editor for the Journal of Combinatorial Optimization.
+• Reviewer for Journal of Cryptology, IEEE Transactions on Dependable and Secure Computing,
+Information and Computation, IET Information Security, Design, Codes and Cryptography.
+• Reviewer and panelist for the National Science Foundation (NSF).
+• External reviewer for the Austrian Science Fund (FWF) and the Israel Science Foundation (ISF).
+• Advisor for the Florida Georgia Louis Stokes Alliance for Minority Participation, an NSF-funded
+consortium of FSU students from underrepresented minorities in STEM fields.
+• Coach for the FSU ACM Programing Team.
+INDUSTRIAL RELATIONS
+• Consultant for Google and Comforte AG.
 4
-employment history
-• associate professor, florida state university, 8/ – present
-• assistant professor, florida state university, 8/ – 7/
-• postdoctoral scholar, uc santa barbara, –
-host: prof. stefano tessaro
-• postdoctoral scholar, university of maryland & georgetown university, –
-hosts: prof. jonathan katz and prof. adam o’neill.
-• postdoctoral scholar, uc san diego, –
-host: prof. mihir bellare.
-• research assistant, uc davis, – .
-advisor: prof. phillip rogaway.
-• research specialist, genome institute of singapore, – .
-• student researcher, nus, – .
-advisor: prof. wing-kin sung.
-• student researcher, nus, – .
-advisors: prof. akkihebbal ananda and prof. mun-choon chan.
-teaching experience
-• instructor. cnt4406: network security, spring , undergraduate course at fsu.
-• instructor. cis4930: special topics in computer science—problem solving, spring & fall
-, undergraduate course at fsu.
-• instructor. cis4930: special topics in computer science—introduction to cryptography, spring
-, undergraduate course at fsu.
-• instructor. cot5507: analyticmethodsincomputerscience,fall2018andspring2020,graduate
-course at fsu.
-• instructor. cis5371: cryptography, various years, graduate course at fsu.
-• instructor. cis5930: special topics in computer science—cryptography, spring , graduate
-course at fsu.
-• instructor. cop4531: complexity and analysis of data structures and algorithms, fall ,
-, & spring , undergraduate course at fsu.
-• teaching assistant. ecs189a: special topics in computer science—cryptography, spring ,
-undergraduate course at uc davis.
-• teaching assistant. ecs120: introduction to theory of computation, spring , undergradu-
-ate course at uc davis.
-• teaching assistant. ecs20: discrete mathematics for computer science, fall & winter
-, undergraduate course at uc davis.
-• undergraduate teaching assistant. cs1101c: programming methodology with c, fall ,
-undergraduate course at nus.
-advising
-• cong wu, ph.d. → research engineer at ansys corporation.
-• yaobin shen (visiting ph.d. student from shanghai jiaotong university, – ) → postdoc at
-catholic university of louvain → assistant professor at xiamen university.
+EMPLOYMENT HISTORY
+• Associate Professor, Florida State University, 8/ – Present
+• Assistant Professor, Florida State University, 8/ – 7/
+• Postdoctoral Scholar, UC Santa Barbara, –
+Host: Prof. Stefano Tessaro
+• Postdoctoral Scholar, University of Maryland & Georgetown University, –
+Hosts: Prof. Jonathan Katz and Prof. Adam O’Neill.
+• Postdoctoral Scholar, UC San Diego, –
+Host: Prof. Mihir Bellare.
+• Research Assistant, UC Davis, – .
+Advisor: Prof. Phillip Rogaway.
+• Research Specialist, Genome Institute of Singapore, – .
+• Student Researcher, NUS, – .
+Advisor: Prof. Wing-Kin Sung.
+• Student Researcher, NUS, – .
+Advisors: Prof. Akkihebbal Ananda and Prof. Mun-Choon Chan.
+TEACHING EXPERIENCE
+• Instructor. CNT4406: Network Security, Spring , undergraduate course at FSU.
+• Instructor. CIS4930: Special Topics in Computer Science Problem Solving, Spring & Fall
+, undergraduate course at FSU.
+• Instructor. CIS4930: Special Topics in Computer Science Introduction to Cryptography, Spring
+, undergraduate course at FSU.
+• Instructor. COT5507: Analytic Methodsin Computer Science, Fall 2018 and Spring 2020 graduate
+course at FSU.
+• Instructor. CIS5371: Cryptography, various years, graduate course at FSU.
+• Instructor. CIS5930: Special Topics in Computer Science Cryptography Spring , graduate
+course at FSU.
+• Instructor. COP4531: Complexity and Analysis of Data Structures and Algorithms, Fall ,
+, & Spring , undergraduate course at FSU.
+• Teaching Assistant. ECS189A: Special Topics in Computer Science Cryptography Spring ,
+undergraduate course at UC Davis.
+• Teaching Assistant. ECS120: Introduction to Theory of Computation, Spring , undergradu-
+ate course at UC Davis.
+• Teaching Assistant. ECS20: Discrete Mathematics for Computer Science, Fall & Winter
+, undergraduate course at UC Davis.
+• Undergraduate Teaching Assistant. CS1101C: Programming Methodology with C, Fall ,
+undergraduate course at NUS.
+ADVISING
+• Cong Wu, Ph. D. → Research Engineer at Ansys Corporation.
+• Yaobin Shen (visiting Ph. D. student from Shanghai Jiaotong University, –) → Postdoc at
+Catholic University of Louvain → Assistant professor at Xiamen University.
 5
-references
-prof. mihir bellare prof. phillip rogaway
-department of computer science & engineering department of computer science
-uc san diego, la jolla ca 92093 uc davis, davis ca 95616
-email: email:
-homepage: https://cseweb.ucsd.edu/~mihir/ homepage: https://web.cs.ucdavis.edu/~rogaway
-prof. stefano tessaro prof. yevgeniy dodis
-school of computer science & engineering department of computer science
-university of washington, seattle wa 98195 new york university, new york, ny 10012
-email: email:
-homepage: https://www.cs.ucsb.edu/~tessaro/ homepage: https://cs.nyu.edu/~dodis
-prof. thomas ristenpart prof. kenneth paterson
-department of computer science department of computer science
-cornell tech, new york ny 10044 eth zurich, zurich switzerland
-email: email:
-homepage: https://rist.tech.cornell.edu/ phone:
+REFERENCES
+Prof. Mihir Bellare Prof. Phillip Rogaway
+Department of Computer Science & Engineering Department of Computer Science
+UC San Diego, La Jolla CA 92093 UC Davis, Davis CA 95616
+Email: Email:
+Homepage: Homepage:
+Prof. Stefano Tessaro Prof. Yevgeniy Dodis
+School of Computer Science & Engineering Department of Computer Science
+University of Washington, Seattle WA 98195 New York University, New York, NY 10012
+Email: Email:
+Homepage: Homepage:
+Prof. Thomas Ristenpart Prof. Kenneth Paterson
+Department of Computer Science Department of Computer Science
+Cornell Tech, New York NY 10044 ETH Zurich, Zurich Switzerland
+Email: Email:
+Homepage: Phone:
 6

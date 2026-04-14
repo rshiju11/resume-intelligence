@@ -1,1048 +1,1048 @@
-robert d. gregg iv
-university of michigan
-2260 frb, 2505 hayward st, ann arbor, mi 48109
-phone: ( | e-mail:
-web: https://gregg.engin.umich.edu/
-youtube: http://youtube.com/user/bioniclocomotion/
-orcid: https://orcid.org/
-positions
-associate professor, university of michigan – present
-department of robotics
-department of electrical engineering and computer science
-department of mechanical engineering
-associate director for graduate education, university of michigan –
-robotics institute
-eugene mcdermott professor, university of texas at dallas –
-assistant professor, university of texas at dallas –
-department of bioengineering
-department of mechanical engineering
-adjunct assistant professor, ut southwestern medical center –
-prosthetics-orthotics program
-research scientist, rehabilitation institute of chicago –
-center for bionic medicine
-education
-postdoctoral fellow, rehabilitation institute of chicago –
-center for bionic medicine
-postdoctoral fellow, northwestern university –
-department of mechanical engineering
-phd, university of illinois at urbana-champaign aug
-department of electrical and computer engineering
-dissertation: “geometric control and motion planning for 3d bipedal locomotion”
-advisor: mark w. spong, phd
-ms, university of illinois at urbana-champaign dec
-department of electrical and computer engineering
-bs (cum laude), university of california – berkeley may
-department of electrical engineering and computer sciences
-robert d. gregg – page 1 of 25
-research interests
-wearable robots, legged robots, prosthetics & orthotics, bipedal locomotion, nonlinear control
-theory, rehabilitation engineering
-honors and awards
-personal:
-• faculty recognition award, university of michigan, .
-• ieee transactions on robotics best paper award honorable mention, .
-• moore inventor fellows finalist, gordon and betty moore foundation, .
-• forchheimer prize paper finalist, international society for prosthetics and orthotics, .
-• provost’s award for faculty excellence in undergrad research mentoring, ut dallas, .
-• eugene mcdermott professorship, university of texas at dallas, .
-• icra conference editorial board best associate editor award, .
-• bioengineering undergraduate teaching award, university of texas at dallas, -18.
-• bioengineering graduate student mentoring award, university of texas at dallas, -18.
-• technology inventors award finalist, tech titans, technology assoc for north texas, .
-• nsf career award, directorate for engineering, national science foundation, .
-• jonsson school junior faculty research award, university of texas at dallas, .
-• ieee senior member, institute of electrical & electronics engineers, .
-• excellence in biomedical research award, department of bioengineering, ut dallas, .
-• nih director’s new innovator award, national institutes of health, .
-• career award at the scientific interface, burroughs wellcome fund, .
-• best technical paper award, clawar conference, .
-• engineering into medicine postdoctoral fellowship, northwestern university, .
-• o. hugo schuck award (best paper), ifac american automatic control council, .
-• best student paper award, american control conference, seattle, wa, .
-• warren dere design award, department of eecs, uc berkeley, .
-• first place, natcar intercollegiate design contest, uc davis, .
-• arthur m. hopkin award, department of eecs, uc berkeley, .
-• christie senior research award, california alumni association, uc berkeley, .
-trainees:
-• c. andrew seelhoff, nsf graduate research fellowship, .
-• ryan posh, nih f32 ruth l. kirschstein postdoctoral individual fellowship (f32hd116414), .
-• thomas kevin best, towner prize for distinguished academic achievement, .
-• shihao cheng, best student paper award, ieee int. conf. intelligent robots & systems, .
-• emily keller, nsf graduate research fellowship, .
-• shihao cheng, rackham predoctoral fellowship, university of michigan, .
-• josé montes perez, nih diversity supplement award (on r01eb031166), .
-• thomas kevin best, nsf graduate research fellowship, .
-• daphna raz, nih f31 ruth l. kirschstein predoctoral individual fellowship (f31eb032745), .
-• roberto leo medrano, nih diversity supplement award (on r01hd094772), .
-• nikhil divekar, rackham predoctoral fellowship, university of michigan, .
-• emma reznick, best paper award nominee, ieee int. conf. biomed. robot. biomechatronics, .
-robert d. gregg – page 2 of 25
-• nikhil divekar, best student paper award nominee, ieee int. conf. biomed. robot. biomechatronics,
+ROBERT D. GREGG IV
+University of Michigan
+2260 FRB, 2505 Hayward St, Ann Arbor, MI 48109
+Phone: ( | E-mail:
+Web:
+You Tube:
+ORCID:
+POSITIONS
+Associate Professor, University of Michigan – Present
+Department of Robotics
+Department of Electrical Engineering and Computer Science
+Department of Mechanical Engineering
+Associate Director for Graduate Education, University of Michigan –
+Robotics Institute
+Eugene Mc Dermott Professor, University of Texas at Dallas –
+Assistant Professor, University of Texas at Dallas –
+Department of Bioengineering
+Department of Mechanical Engineering
+Adjunct Assistant Professor, UT Southwestern Medical Center –
+Prosthetics-Orthotics Program
+Research Scientist, Rehabilitation Institute of Chicago –
+Center for Bionic Medicine
+EDUCATION
+Postdoctoral Fellow, Rehabilitation Institute of Chicago –
+Center for Bionic Medicine
+Postdoctoral Fellow, Northwestern University –
+Department of Mechanical Engineering
+Ph D, University of Illinois at Urbana-Champaign Aug
+Department of Electrical and Computer Engineering
+Dissertation: “Geometric Control and Motion Planning for 3D Bipedal Locomotion”
+Advisor: Mark W. Spong, Ph D
+MS, University of Illinois at Urbana-Champaign Dec
+Department of Electrical and Computer Engineering
+BS (cum laude), University of California – Berkeley May
+Department of Electrical Engineering and Computer Sciences
+Robert D. Gregg – Curriculum Vitae Page 1 of 25
+RESEARCH INTERESTS
+Wearable Robots, Legged Robots, Prosthetics & Orthotics, Bipedal Locomotion, Nonlinear Control
+Theory, Rehabilitation Engineering
+HONORS AND AWARDS
+Personal:
+• Faculty Recognition Award, University of Michigan, .
+• IEEE Transactions on Robotics Best Paper Award Honorable Mention, .
+• Moore Inventor Fellows Finalist, Gordon and Betty Moore Foundation, .
+• Forchheim er Prize Paper Finalist, International Society for Prosthetics and Orthotics, .
+• Provost’s Award for Faculty Excellence in Undergrad Research Mentoring, UT Dallas, .
+• Eugene Mc Dermott Professorship, University of Texas at Dallas, .
+• ICRA Conference Editorial Board Best Associate Editor Award, .
+• Bioengineering Undergraduate Teaching Award, University of Texas at Dallas, -18.
+• Bioengineering Graduate Student Mentoring Award, University of Texas at Dallas, -18.
+• Technology Inventors Award Finalist, Tech Titans, Technology Assoc for North Texas, .
+• NSF CAREER Award, Directorate for Engineering, National Science Foundation, .
+• Jonsson School Junior Faculty Research Award, University of Texas at Dallas, .
+• IEEE Senior Member, Institute of Electrical & Electronics Engineers, .
+• Excellence in Biomedical Research Award, Department of Bioengineering, UT Dallas, .
+• NIH Director’s New Innovator Award, National Institutes of Health, .
+• Career Award at the Scientific Interface, Burroughs Wellcome Fund, .
+• Best Technical Paper Award, CLAWAR Conference, .
+• Engineering into Medicine Postdoctoral Fellowship, Northwestern University, .
+• O. Hugo Schuck Award (Best Paper), IFAC American Automatic Control Council, .
+• Best Student Paper Award, American Control Conference, Seattle, WA, .
+• Warren Dere Design Award, Department of EECS, UC Berkeley, .
+• First Place, NATCAR Intercollegiate Design Contest, UC Davis, .
+• Arthur M. Hopkin Award, Department of EECS, UC Berkeley, .
+• Christie Senior Research Award, California Alumni Association, UC Berkeley, .
+Trainees:
+• C. Andrew Seelhoff, NSF Graduate Research Fellowship, .
+• Ryan Posh, NIH F32 Ruth L. Kir sch stein Postdoctoral Individual Fellowship F 32 HD 116414 .
+• Thomas Kevin Best, Towner Prize for Distinguished Academic Achievement, .
+• Shihao Cheng, Best Student Paper Award, IEEE Int. Conf. Intelligent Robots & Systems, .
+• Emily Keller, NSF Graduate Research Fellowship, .
+• Shihao Cheng, Rackham Pre doctoral Fellowship, University of Michigan, .
+• José Montes Perez, NIH Diversity Supplement Award (on R 01 EB 031166 .
+• Thomas Kevin Best, NSF Graduate Research Fellowship, .
+• Daphna Raz, NIH F31 Ruth L. Kir sch stein Pre doctoral Individual Fellowship F 31 EB 032745 .
+• Roberto Leo Medrano, NIH Diversity Supplement Award (on R 01 HD 094772 .
+• Nikhil Divekar, Rackham Pre doctoral Fellowship, University of Michigan, .
+• Emma Reznick, Best Paper Award Nominee, IEEE Int. Conf. Biomed. Robot. Bio mechatronics .
+Robert D. Gregg – Curriculum Vitae Page 2 of 25
+• Nikhil Divekar, Best Student Paper Award Nominee, IEEE Int. Conf. Biomed. Robot. Bio mechatronics
 .
-• emma reznick, best student poster award, int. society of prosthetics & orthotics (ispo) canada,
-rehabweek, .
-• emma reznick, best abstract award, int. society of prosthetics & orthotics (ispo) canada, rehabweek,
+• Emma Reznick, Best Student Poster Award, Int. Society of Prosthetics & Orthotics (ISPO) Canada,
+Rehab Week, .
+• Emma Reznick, Best Abstract Award, Int. Society of Prosthetics & Orthotics (ISPO) Canada, Rehab Week,
 .
-• david quintero, david daniel thesis award, jonsson school of engineering and computer science,
-ut dallas, .
-• siavash rezazadeh, bme department staff research impact award, ut dallas, .
-• chris nesler, bme department staff undergraduate research mentoring award, ut dallas, .
-• nikhil divekar, jonsson family graduate fellowship in bioengineering, jonsson school of
-engineering and computer science, ut dallas, .
-• edgar bolivar, best student robotics paper award, asme dyn sys control conf, .
-• ge lv, louis beecherl jr. graduate fellowship, jonsson school of engineering and computer
-science, ut dallas, -18.
-• saurav kumar, best student paper award finalist, ieee conf control tech & app, .
-• rafi ayub, nsf graduate research fellowship, national science foundation, .
-• ge lv, best student paper award, ieee conf decision & control, osaka, japan, .
-• dario villarreal, jonsson family graduate fellowship in bioengineering, jonsson school of
-engineering and computer science, ut dallas, .
-• david allen, excellence in education doctoral fellowship, jonsson school of engineering and
-computer science, ut dallas, .
-• hanqi “leon” zhu, founder’s distinguished graduate fellowship, ut dallas, .
-• kyle embry, excellence in education doctoral fellowship, jonsson school of engineering and
-computer science, ut dallas, .
-• david quintero, excellence in education doctoral fellowship, jonsson school of engineering and
-computer science, ut dallas, .
-• dario villarreal, conacyt graduate fellowship, conacyt, mexico, .
-research funding
-active:
-1. y. ding (pi) and r. gregg (co-pi), “hardware and control co-design of compliant actuators for
-energy-efficient humanoid robots,” national science foundation (cmmi-2427036), 01/01/25—
+• David Quintero, David Daniel Thesis Award, Jonsson School of Engineering and Computer Science,
+UT Dallas, .
+• Siavash Rezazadeh, BME Department Staff Research Impact Award, UT Dallas, .
+• Chris Nesler, BME Department Staff Undergraduate Research Mentoring Award, UT Dallas, .
+• Nikhil Divekar, Jonsson Family Graduate Fellowship in Bioengineering, Jonsson School of
+Engineering and Computer Science, UT Dallas, .
+• Edgar Bolivar, Best Student Robotics Paper Award, ASME Dyn Sys Control Conf, .
+• Ge Lv, Louis Beecherl Jr. Graduate Fellowship, Jonsson School of Engineering and Computer
+Science, UT Dallas, -18.
+• Saurav Kumar, Best Student Paper Award Finalist, IEEE Conf Control Tech & App, .
+• Rafi Ayub, NSF Graduate Research Fellowship, National Science Foundation, .
+• Ge Lv, Best Student Paper Award, IEEE Conf Decision & Control, Osaka, Japan, .
+• Dario Villarreal, Jonsson Family Graduate Fellowship in Bioengineering, Jonsson School of
+Engineering and Computer Science, UT Dallas, .
+• David Allen, Excellence in Education Doctoral Fellowship, Jonsson School of Engineering and
+Computer Science, UT Dallas, .
+• Hanqi “Leon” Zhu, Founder’s Distinguished Graduate Fellowship, UT Dallas, .
+• Kyle Embry, Excellence in Education Doctoral Fellowship, Jonsson School of Engineering and
+Computer Science, UT Dallas, .
+• David Quintero, Excellence in Education Doctoral Fellowship, Jonsson School of Engineering and
+Computer Science, UT Dallas, .
+• Dario Villarreal, Conacyt Graduate Fellowship, CONACYT, Mexico, .
+RESEARCH FUNDING
+Active:
+1. Y. Ding (PI) and R. Gregg (Co-PI), “Hardware and Control Co-Design of Compliant Actuators for
+Energy-Efficient Humanoid Robots,” National Science Foundation (CMMI-2427036), 01/01/25—
 12/31/28, $1,215,305.
-2. r. gregg (pi), “controlling locomotion over continuously varying activities for agile powered prosthetic
-legs,” national institutes of health/nichd (r01hd094772), 12/01/23—11/30/28, $3,067,774.
-percentile: 8%.
-3. r. gregg (pi), “enhancing voluntary motion in broad patient populations with modular powered
-orthoses,” national institutes of health/nibib (r01eb031166), 09/22/21–09/21/25, $1,767,419.
-4. r. gregg (um pi), e. rouse (um co-pi), and e. rombokas (uw/lead pi), “nri: int: collaborative
-research: an open-source framework for continuous torque control of intuitive robotic prosthetic legs,”
-national robotics initiative 2.0, national science foundation (cmmi-2024237), 10/01/20–09/30/25,
-$1,500,000 ($940,000 um share).
-completed:
-robert d. gregg – page 3 of 25
-1. r. gregg (pi), “understanding personalized control with modular powered orthoses,” national
-institutes of health/nibib (3r01eb031166-01w1), 09/01/22–08/31/24, $164,560.
-2. r. gregg (pi), “continuously-variable impedance control system for walking on the latest ossur
-powerknee hardware,” ossur inc., 05/01/23–04/30/24, $113,478.
-3. r. gregg (pi), “controlling robot-assisted locomotion with extended kalman filter estimates of phase
-and activity,” national institutes of health/nichd (3r01hd094772-04s1), 06/01/21–11/30/23,
+2. R. Gregg (PI), “Controlling Locomotion over Continuously Varying Activities for Agile Powered Prosthetic
+Legs,” National Institutes of Health NIC HD R 01 HD 094772 12 01 23 11 30 28 $3,067,774.
+Percentile: 8%.
+3. R. Gregg (PI), “Enhancing Voluntary Motion in Broad Patient Populations with Modular Powered
+Orthoses,” National Institutes of Health NI BIB R 01 EB 031166 09 22 21 09 21 25 $1,767,419.
+4. R. Gregg (UM PI), E. Rouse (UM Co-PI), and E. Rombokas (UW/Lead PI), “NRI: INT: Collaborative
+Research: An Open-Source Framework for Continuous Torque Control of Intuitive Robotic Prosthetic Legs,”
+National Robotics Initiative 2.0, National Science Foundation (CMMI-2024237), 10 01 20 09 30 25
+$1,500,000 ($940,000 UM share).
+Completed:
+Robert D. Gregg – Curriculum Vitae Page 3 of 25
+1. R. Gregg (PI), “Understanding Personalized Control with Modular Powered Orthoses,” National
+Institutes of Health NI BIB (3R01EB031166-01W1), 09 01 22 08 31 24 $164,560.
+2. R. Gregg (PI), “Continuously-Variable Impedance Control System for Walking on the Latest Ossur
+Power Knee Hardware,” Ossur Inc., 05 01 23 04 30 24 $113,478.
+3. R. Gregg (PI), “Controlling Robot-Assisted Locomotion with Extended Kalman Filter Estimates of Phase
+and Activity,” National Institutes of Health NIC HD (3R01HD094772-04S1), 06 01 21 11 30 23
 $173,722.
-4. r. gregg (pi), “controlling locomotion over continuously varying activities for agile powered prosthetic
-legs,” national institutes of health/nichd (r01hd094772), 09/01/18—11/30/ , $2,227,090.
-percentile: 9%.
-5. r. gregg (pi), “career: recovering and enhancing natural locomotion in changing conditions with
-powered lower-limb prostheses and orthoses,” national science foundation (cmmi-1652514 
-1949869), 09/01/17–08/31/23, $500,000.
-6. r. gregg (um/lead pi), s. rezazadeh (co-pi), and e. rouse (um pi), “nri: fnd: collab: optimal
-design of robust compliant actuators for ubiquitous co-robots,” national robotics initiative 2.0,
-national science foundation (cmmi-1830360  1953908), 09/15/18–08/31/22, $750,000
-($431,244 gregg share).
-7. r. gregg (um pi), h. geyer (cmu pi), and e. rouse (um/lead pi), “nri: fnd: collab: an open-
-source robotic leg platform that lowers the barrier for academic research,” national robotics initiative
-2.0, national science foundation (cmmi-1734600  1949346), 10/01/17–09/30/22, $749,054
-($193,000 gregg share).
-8. n. gans (pi) and r. gregg (co-pi), “time-invariant, multi-objective extremum seeking control for
-model-free auto-tuning of powered prosthetic legs,” national science foundation (cmmi-1728057 
-2040335), 09/01/17–08/31/22, $373,483.
-9. k. hamed (sdsu pi) and r. gregg (utd pi), “nri: decentralized feedback control design for
-cooperative robotic walking with application to powered prosthetic legs,” national robotics initiative,
-national science foundation (cmmi-1637704  1854898), 09/01/16–08/31/20, $612,213
-($245,730 gregg share).
-10. r. gregg (pi), “phase-based control of locomotion for high-performance prostheses and orthoses,” nih
-director’s new innovator award, national institutes of health/nichd (dp2hd080349),
-09/30/13–06/30/18, $2,295,000. impact score: 18.
-11. r. gregg (pi), “from machine to biomimetic control in robot-assisted walking,” career award at the
-scientific interface, burroughs wellcome fund, 07/01/12–12/31/20, $500,000.
-peer-reviewed journal articles
-1. n. divekar, a. baxter, and r. gregg, “customizing a task-agnostic knee exoskeleton for
-targeted neuromuscular assistance: a case series,” under review.
-2. t. k. best, c. a. seelhoff, j. wensman, and r. gregg, “the össur power knee with phase-based
-control provides clinical benefits over passive microprocessor knees,” under review.
-3. t. k. best, e. rouse, and r. gregg, “a unifying perspective on impedance control applied to
-wearable robotics,” under review.
-4. r. cortino, s. cheng, r. gregg, “controlling powered prosthesis joint impedance over
-continuous stance transitions between walking and stair ascent/descent,” under review.
-robert d. gregg – page 4 of 25
-5. e. reznick, t. k. best, and r. gregg, “a clinical tuning framework for continuous kinematic and
-impedance control of a powered knee-ankle prosthesis,” ieee journal of translational engineering in
-health & medicine, .
-6. s. cheng, c. laubscher, t. k. best, and r. gregg, “ambilateral activity recognition and
-continuous adaptation with a powered knee-ankle prosthesis,” ieee trans robotics, .
-7. t. k. best, g. c. thomas, s. r. ayyappan, r. gregg, and e. rouse, “a compensated open-loop
-impedance controller evaluated on the second generation open-source leg robotic prosthesis,”
-ieee/asme trans mechatronics, .
-8. s. cheng, c. laubscher, and r. gregg, “controlling powered prosthesis kinematics over
-continuous inter-leg transitions between walking and stair ascent/descent,” ieee trans neural
-systems rehab eng, .
-9. n. divekar, g. thomas, a. yerva, h. frame, and r. gregg, “a versatile knee exoskeleton
-mitigates quadriceps fatigue in lifting, lowering, and carrying tasks,” science robotics, .
-10. j. lin, n. divekar, v. peddinti, g. thomas, and r. gregg, “a modular framework for task-
-agnostic, energy shaping control of lower-limb exoskeletons,” ieee trans. control systems tech.,
+4. R. Gregg (PI), “Controlling Locomotion over Continuously Varying Activities for Agile Powered Prosthetic
+Legs,” National Institutes of Health NIC HD R 01 HD 094772 09 01 18 11 30 $2,227,090.
+Percentile: 9%.
+5. R. Gregg (PI), “CAREER: Recovering and Enhancing Natural Locomotion in Changing Conditions with
+Powered Lower-Limb Prostheses and Orthoses,” National Science Foundation (CMMI-1652514 
+1949869), 09 01 17 08 31 23 $500,000.
+6. R. Gregg (UM/Lead PI), S. Rezazadeh (Co-PI), and E. Rouse (UM PI), “NRI: FND: COLLAB: Optimal
+Design of Robust Compliant Actuators for Ubiquitous Co-Robots,” National Robotics Initiative 2.0,
+National Science Foundation (CMMI-1830360  1953908), 09 15 18 08 31 22 $750,000
+($431,244 Gregg share).
+7. R. Gregg (UM PI), H. Geyer (CMU PI), and E. Rouse (UM/Lead PI), “NRI: FND: COLLAB: An Open-
+Source Robotic Leg Platform that Lowers the Barrier for Academic Research,” National Robotics Initiative
+2.0, National Science Foundation (CMMI-1734600  1949346), 10 01 17 09 30 22 $749,054
+($193,000 Gregg share).
+8. N. Gans (PI) and R. Gregg (Co-PI), “Time-Invariant, Multi-Objective Extremum Seeking Control for
+Model-Free Auto-Tuning of Powered Prosthetic Legs,” National Science Foundation (CMMI-1728057 
+2040335), 09 01 17 08 31 22 $373,483.
+9. K. Hamed (SDSU PI) and R. Gregg (UTD PI), “NRI: Decentralized Feedback Control Design for
+Cooperative Robotic Walking with Application to Powered Prosthetic Legs,” National Robotics Initiative,
+National Science Foundation (CMMI-1637704  1854898), 09 01 16 08 31 20 $612,213
+($245,730 Gregg share).
+10. R. Gregg (PI), “Phase-Based Control of Locomotion for High-Performance Prostheses and Orthoses,” NIH
+Director’s New Innovator Award, National Institutes of Health NIC HD DP 2 HD 080349
+09 30 13 06 30 18 $2,295,000. Impact Score: 18.
+11. R. Gregg (PI), “From Machine to Biomimetic Control in Robot-Assisted Walking,” Career Award at the
+Scientific Interface, Burroughs Wellcome Fund, 07 01 12 12 31 20 $500,000.
+PEER-REVIEWED JOURNAL ARTICLES
+1. N. Divekar, A. Baxter, and R. Gregg, “Customizing a Task-Agnostic Knee Exoskeleton for
+Targeted Neuromuscular Assistance: A Case Series,” Under review.
+2. T. K. Best, C. A. Seelhoff, J. Wensman, and R. Gregg, “The Össur Power Knee with Phase-Based
+Control Provides Clinical Benefits over Passive Microprocessor Knees,” Under review.
+3. T. K. Best, E. Rouse, and R. Gregg, “A Unifying Perspective on Impedance Control Applied to
+Wearable Robotics,” Under review.
+4. R. Cortino, S. Cheng, R. Gregg, “Controlling Powered Prosthesis Joint Impedance over
+Continuous Stance Transitions Between Walking and Stair Ascent Descent Under review.
+Robert D. Gregg – Curriculum Vitae Page 4 of 25
+5. E. Reznick, T. K. Best, and R. Gregg, “A Clinical Tuning Framework for Continuous Kinematic and
+Impedance Control of a Powered Knee-Ankle Prosthesis,” IEEE Journal of Translational Engineering in
+Health & Medicine, .
+6. S. Cheng, C. Laubscher, T. K. Best, and R. Gregg, Am bilateral Activity Recognition and
+Continuous Adaptation with a Powered Knee-Ankle Prosthesis,” IEEE Trans Robotics, .
+7. T. K. Best, G. C. Thomas, S. R. Ayyappan, R. Gregg, and E. Rouse, “A Compensated Open-Loop
+Impedance Controller Evaluated on the Second Generation Open-Source Leg Robotic Prosthesis,”
+IEEE/ASME Trans Mechatronics, .
+8. S. Cheng, C. Laubscher, and R. Gregg, “Controlling Powered Prosthesis Kinematics over
+Continuous Inter-Leg Transitions Between Walking and Stair Ascent Descent IEEE Trans Neural
+Systems Rehab Eng, .
+9. N. Divekar, G. Thomas, A. Yerva, H. Frame, and R. Gregg, “A Versatile Knee Exoskeleton
+Mitigates Quadriceps Fatigue in Lifting, Lowering, and Carrying Tasks,” Science Robotics, .
+10. J. Lin, N. Divekar, V. Peddinti, G. Thomas, and R. Gregg, “A Modular Framework for Task-
+Agnostic, Energy Shaping Control of Lower-Limb Exoskeletons,” IEEE Trans. Control Systems Tech.,
 .
-11. j. lin, r. gregg, and p. shull, “improving task-agnostic energy shaping control of powered
-exoskeletons with task/gait classification,” ieee robotics & automation letters, .
-12. i. harris, e. rouse, r. gregg, and g. thomas, “a control framework for accurate mechanical
-impedance rendering with series-elastic joints in prosthetic applications,” ieee robotics &
-automation letters, .
-13. d. le, s. cheng, r. gregg, and m. ghaffari, “transfer learning for efficient intent prediction in
-lower-limb prosthetics: a strategy for limited datasets,” ieee robotics & automation letters, .
-14. t-w. hsu, r. gregg, and g. thomas, “robustification of bayesian-inference-based gait estimation
-for lower-limb wearable robots,” ieee robotics & automation letters, .
-15. s. cheng, c. laubscher, and r. gregg, “automatic stub avoidance for a powered prosthetic leg
-on stairs and obstacles,” ieee trans. biomedical eng., .
-16. r. cortino, t. k. best, and r. gregg, “data-driven phase-based control of a powered knee-
-ankle prosthesis for variable-incline stair ascent and descent,” ieee trans medical robotics &
-bionics, .
-17. c. welker, t. k. best, r. gregg, “improving sit/stand loading symmetry and timing through
-unified variable impedance control of a powered knee-ankle prosthesis,” ieee trans neural
-systems rehab eng, .
-18. r. medrano, g. thomas, e. rouse, and r. gregg, “real-time gait phase and task estimation for
-controlling powered ankle exoskeletons on extremely uneven terrain,” ieee trans robotics, .
-19. t. k. best, c. welker, e. rouse, and r. gregg, “data-driven variable impedance control of a
-powered knee-ankle prosthesis for adaptive speed and incline walking,” ieee trans robotics, .
-20. e. reznick, c. g. welker, and r. d. gregg, “predicting individualized joint kinematics over
-continuous variations of walking, running, and stair climbing,” ieee open j engineering in medicine
-& biology, .
-21. s. cheng, e. bolivar-nieto, c. gonzalez welker, and r. gregg, “modeling the transitional
-kinematics between variable-incline walking and stair climbing,” ieee trans medical robotics &
-bionics, 4(3): 840-851, .
-22. r. l. medrano, g. thomas, e. rouse, and r. gregg, “analysis of the bayesian gait-state estimation
-problem for lower-limb exoskeleton configurations,” ieee robotics & automation letters, .
-robert d. gregg – page 5 of 25
-23. s. kumar, o. makarenkov, r. gregg, and n. gans, “stability of time-invariant extremum seeking
-control for limit cycle minimization,” ieee trans automatic control, .
-24. j. lin, n. divekar, g. thomas, and r. gregg, “optimally biomimetic passivity-based control of a
-lower-limb exoskeleton over the primary activities of daily life,” ieee open journal of control
-systems, . special issue on intersection of machine learning with control.
-25. c. nesler, g. thomas, n. divekar, e. rouse, and r. gregg, “enhancing voluntary motion with
-modular, backdrivable, powered hip and knee orthoses,” ieee robotics & automation letters, .
-26. t. elery, e. reznick, s. shearin, k. mccain, r. gregg, “design and initial validation of a multiple
-degree-of-freedom joint for an ankle-foot orthosis,” asme journal of medical devices, .
-27. j. horn and r. gregg, “nonholonomic virtual constraints for control of powered prostheses
-across walking speeds,” ieee trans control systems tech, .
-28. e. reznick, k. embry, r. neuman, e. bolivar, n. fey, and r. gregg, “lower-limb kinematics and
-kinetics during continuously varying human locomotion,” scientific data, .
-29. s. cheng, e. bolivar, and r. gregg, “real-time activity recognition with instantaneous
-characteristic features of thigh kinematics,” ieee trans neural sys rehab eng, .
-30. e. bolivar, t. summers, r. gregg, and s. rezazadeh, “a convex optimization framework for
-robust-feasible series elastic actuators,” mechatronics, .
-31. g. lv, j. lin, and r. gregg, “trajectory-free control of lower-limb exoskeletons through
-underactuated total energy shaping,” ieee access, .
-32. m. yeatman and r. gregg, “using energy shaping and regulation for limit cycle stabilization,
-generation, and transition in simple locomotive systems,” asme j computational and nonlinear
-dynamics, .
-33. d. allen, r. little, j. laube, j. warren, w. voit, and r. gregg, “towards an ankle-foot orthosis
-powered by a dielectric elastomer actuator,” mechatronics, .
-34. h. zhu, c. nesler, n. divekar, v. peddinti, and r. gregg, “design principles for compact,
-backdrivable actuation in partial-assist powered knee orthoses,” ieee/asme trans mechatronics,
+11. J. Lin, R. Gregg, and P. Shull, “Improving Task-Agnostic Energy Shaping Control of Powered
+Exoskeletons with Task/Gait Classification,” IEEE Robotics & Automation Letters, .
+12. I. Harris, E. Rouse, R. Gregg, and G. Thomas, “A Control Framework for Accurate Mechanical
+Impedance Rendering with Series-Elastic Joints in Prosthetic Applications,” IEEE Robotics &
+Automation Letters, .
+13. D. Le, S. Cheng, R. Gregg, and M. Ghaffari, “Transfer Learning for Efficient Intent Prediction in
+Lower-Limb Prosthetics: A Strategy for Limited Datasets,” IEEE Robotics & Automation Letters, .
+14. T-W. Hsu, R. Gregg, and G. Thomas, Robust if i cation of Bayesian-Inference-Based Gait Estimation
+for Lower-limb Wearable Robots,” IEEE Robotics & Automation Letters, .
+15. S. Cheng, C. Laubscher, and R. Gregg, “Automatic Stub Avoidance for a Powered Prosthetic Leg
+on Stairs and Obstacles,” IEEE Trans. Biomedical Eng., .
+16. R. Cortino, T. K. Best, and R. Gregg, “Data-Driven Phase-Based Control of a Powered Knee-
+Ankle Prosthesis for Variable-Incline Stair Ascent and Descent,” IEEE Trans Medical Robotics &
+Bionics, .
+17. C. Welker, T. K. Best, R. Gregg, “Improving Sit/Stand Loading Symmetry and Timing Through
+Unified Variable Impedance Control of a Powered Knee-Ankle Prosthesis,” IEEE Trans Neural
+Systems Rehab Eng, .
+18. R. Medrano, G. Thomas, E. Rouse, and R. Gregg, “Real-Time Gait Phase and Task Estimation for
+Controlling Powered Ankle Exoskeletons on Extremely Uneven Terrain,” IEEE Trans Robotics, .
+19. T. K. Best, C. Welker, E. Rouse, and R. Gregg, “Data-Driven Variable Impedance Control of a
+Powered Knee-Ankle Prosthesis for Adaptive Speed and Incline Walking,” IEEE Trans Robotics, .
+20. E. Reznick, C. G. Welker, and R. D. Gregg, “Predicting Individualized Joint Kinematics over
+Continuous Variations of Walking, Running, and Stair Climbing,” IEEE Open J Engineering in Medicine
+& Biology, .
+21. S. Cheng, E. Bolivar-Nieto, C. Gonzalez Welker, and R. Gregg, “Modeling the Transitional
+Kinematics Between Variable-Incline Walking and Stair Climbing,” IEEE Trans Medical Robotics &
+Bionics, 4(3): 840-851, .
+22. R. L. Medrano, G. Thomas, E. Rouse, and R. Gregg, “Analysis of the Bayesian Gait-State Estimation
+Problem for Lower-Limb Exoskeleton Configurations,” IEEE Robotics & Automation Letters, .
+Robert D. Gregg – Curriculum Vitae Page 5 of 25
+23. S. Kumar, O. Ma karen kov R. Gregg, and N. Gans, “Stability of Time-Invariant Extremum Seeking
+Control for Limit Cycle Minimization,” IEEE Trans Automatic Control, .
+24. J. Lin, N. Divekar, G. Thomas, and R. Gregg, “Optimally Biomimetic Passivity-Based Control of a
+Lower-Limb Exoskeleton over the Primary Activities of Daily Life,” IEEE Open Journal of Control
+Systems, . Special Issue on Intersection of Machine Learning with Control.
+25. C. Nesler, G. Thomas, N. Divekar, E. Rouse, and R. Gregg, “Enhancing Voluntary Motion with
+Modular, Back dr iv able Powered Hip and Knee Orthoses,” IEEE Robotics & Automation Letters, .
+26. T. Elery, E. Reznick, S. Shearin, K. Mc Cain, R. Gregg, “Design and Initial Validation of a Multiple
+Degree-of-Freedom Joint for an Ankle-Foot Orthosis,” ASME Journal of Medical Devices, .
+27. J. Horn and R. Gregg, Non hol ono mic Virtual Constraints for Control of Powered Prostheses
+Across Walking Speeds,” IEEE Trans Control Systems Tech, .
+28. E. Reznick, K. Embry, R. Neuman, E. Bolivar, N. Fey, and R. Gregg, “Lower-Limb Kinematics and
+Kinetics During Continuously Varying Human Locomotion,” Scientific Data, .
+29. S. Cheng, E. Bolivar, and R. Gregg, “Real-Time Activity Recognition with Instantaneous
+Characteristic Features of Thigh Kinematics,” IEEE Trans Neural Sys Rehab Eng, .
+30. E. Bolivar, T. Summers, R. Gregg, and S. Rezazadeh, “A Convex Optimization Framework for
+Robust-Feasible Series Elastic Actuators,” Mechatronics, .
+31. G. Lv, J. Lin, and R. Gregg, “Trajectory-Free Control of Lower-Limb Exoskeletons Through
+Under actuated Total Energy Shaping,” IEEE Access, .
+32. M. Yeatman and R. Gregg, “Using Energy Shaping and Regulation for Limit Cycle Stabilization,
+Generation, and Transition in Simple Locomotive Systems,” ASME J Computational and Nonlinear
+Dynamics, .
+33. D. Allen, R. Little, J. Laube, J. Warren, W. Voit, and R. Gregg, “Towards an Ankle-Foot Orthosis
+Powered by a Dielectric Elastomer Actuator,” Mechatronics, .
+34. H. Zhu, C. Nesler, N. Divekar, V. Peddinti, and R. Gregg, “Design Principles for Compact,
+Back dr iv able Actuation in Partial-Assist Powered Knee Orthoses,” IEEE/ASME Trans Mechatronics,
 .
-35. j. lin, n. divekar, g. lv, and r. gregg, “optimal task-invariant energetic control for a knee-
-ankle exoskeleton,” ieee control systems letters, 5(5): 1711-1716, .
-36. r. macaluso, k. embry, d. villarreal, and r. gregg, “parameterizing human locomotion across
-quasi-random treadmill perturbations and inclines,” ieee trans neural sys rehab eng, 29: 508-516,
+35. J. Lin, N. Divekar, G. Lv, and R. Gregg, “Optimal Task-Invariant Energetic Control for a Knee-
+Ankle Exoskeleton,” IEEE Control Systems Letters, 5(5): 1711-1716, .
+36. R. Macaluso, K. Embry, D. Villarreal, and R. Gregg, Parameter i zing Human Locomotion Across
+Quasi-Random Treadmill Perturbations and Inclines,” IEEE Trans Neural Sys Rehab Eng, 29: 508-516,
 .
-37. k. embry and r. gregg, “analysis of continuously varying kinematics for prosthetic leg control
-applications,” ieee trans neural sys rehab eng, 29: 262-272, .
-38. v. kamidi, j. horn, r. gregg, and k. hamed, “distributed controllers for human-robot
-locomotion: a scalable approach based on decomposition and hybrid zero dynamics,” ieee
-control systems letters, .
-39. t. elery, s. rezazadeh, e. reznick, l. gray, and r. gregg, “effects of a powered knee-ankle
-prosthesis on transfemoral amputee hip compensations: a case series,” ieee trans neural sys
-rehab eng, 28(12): 2944-2954, .
-40. s. kumar, m. zwall, e. bolivar, r. gregg, and n. gans, “extremum seeking control for stiffness
-auto-tuning of a quasi-passive ankle exoskeleton,” ieee robotics & automation letters, 5(3): 4604-
+37. K. Embry and R. Gregg, “Analysis of Continuously Varying Kinematics for Prosthetic Leg Control
+Applications,” IEEE Trans Neural Sys Rehab Eng, 29: 262-272, .
+38. V. Kamidi, J. Horn, R. Gregg, and K. Hamed, “Distributed Controllers for Human-Robot
+Locomotion: A Scalable Approach Based on Decomposition and Hybrid Zero Dynamics,” IEEE
+Control Systems Letters, .
+39. T. Elery, S. Rezazadeh, E. Reznick, L. Gray, and R. Gregg, “Effects of a Powered Knee-Ankle
+Prosthesis on Trans femoral Amputee Hip Compensations: A Case Series,” IEEE Trans Neural Sys
+Rehab Eng, 28(12): 2944-2954, .
+40. S. Kumar, M. Zwall, E. Bolivar, R. Gregg, and N. Gans, “Extremum Seeking Control for Stiffness
+Auto-Tuning of a Quasi-Passive Ankle Exoskeleton,” IEEE Robotics & Automation Letters, 5(3): 4604-
 4611, .
-robert d. gregg – page 6 of 25
-41. t. elery, s. rezazadeh, c. nesler, and r. gregg, “design and validation of a powered knee-ankle
-prosthesis with high-torque, low-impedance actuators,” ieee transactions on robotics, 36(6):
-1649-1668, . best paper award honorable mention
-42. j. horn, a. mohammadi, k. hamed, and r. gregg, “nonholonomic virtual constraint design for
-variable-incline bipedal robotic walking,” ieee robotics & automation letters, 5(2): 3691-3698, .
-43. s. kumar, a. mohammadi, d. quintero, s. rezazadeh, n. gans, and r. gregg, “extremum seeking
-control for model-free auto-tuning of powered prosthetic legs,” ieee trans control systems
-technology, 28(6): 2120-2135, .
-44. s. rezazadeh, d. quintero, n. divekar, e. reznick, l. gray, and r. gregg, “a phase variable
-approach for improved rhythmic and non-rhythmic control of a powered knee-ankle
-prosthesis,” ieee access, 7(1): , .
-45. k. hamed, b. safaee, and r. gregg, “dynamic output controllers for exponential stabilization of
-periodic orbits for multi-domain hybrid models of robotic locomotion,” asme journal of dynamic
-systems, measurement, and control, 141(12): 121011, .
-46. d. allen, e. bolivar, s. farmer, w. voit, and r. gregg, “mechanical simplification of variable
-stiffness actuators using dielectric elastomer transducers,” actuators, 8(2): 1-19, . special
-issue on new materials and designs for soft actuators.
-47. m. yeatman, g. lv, and r. gregg, “decentralized passivity-based control with a generalized
-energy storage function for robust biped locomotion,” asme journal of dynamic systems,
-measurement, and control, 141(10): 101007, .
-48. e. bolivar, s. rezazadeh, and r. gregg, “minimizing energy consumption and peak power of series
-elastic actuators: a convex optimization framework for elastic element design,” ieee/asme
-transactions on mechatronics, 24(3):1334-1345, .
-49. a. mohammadi and r. gregg, “variable impedance control of powered knee prostheses using
-human-inspired algebraic curves,” asme journal of computational and nonlinear dynamics, 14(10):
-101007, . special issue on nonlinear and computational dynamics in biomedical applications.
-50. j. horn, a. mohammadi, k. hamed, and r. gregg, “hybrid zero dynamics of bipedal robots
-under nonholonomic virtual constraints,” ieee control systems letters, 3(2): 386-391, .
-51. k. hamed and r. gregg, “decentralized event-based controllers for robust stabilization of
-hybrid periodic orbits: application to underactuated 3d bipedal walking,” ieee trans automatic
-control, 64(6): 2266-2281, .
-52. k. embry, d. villarreal, r. macaluso, and r. gregg, “modeling the kinematics of human
-locomotion over continuously varying speeds and inclines,” ieee trans neural sys rehab eng,
+Robert D. Gregg – Curriculum Vitae Page 6 of 25
+41. T. Elery, S. Rezazadeh, C. Nesler, and R. Gregg, “Design and Validation of a Powered Knee-Ankle
+Prosthesis with High-Torque, Low-Impedance Actuators,” IEEE Transactions on Robotics, 36(6):
+1649-1668, . Best Paper Award Honorable Mention
+42. J. Horn, A. Mohammadi, K. Hamed, and R. Gregg, Non hol ono mic Virtual Constraint Design for
+Variable-Incline Bipedal Robotic Walking,” IEEE Robotics & Automation Letters, 5(2): 3691-3698, .
+43. S. Kumar, A. Mohammadi, D. Quintero, S. Rezazadeh, N. Gans, and R. Gregg, “Extremum Seeking
+Control for Model-Free Auto-Tuning of Powered Prosthetic Legs,” IEEE Trans Control Systems
+Technology, 28(6): 2120-2135, .
+44. S. Rezazadeh, D. Quintero, N. Divekar, E. Reznick, L. Gray, and R. Gregg, “A Phase Variable
+Approach for Improved Rhythmic and Non-Rhythmic Control of a Powered Knee-Ankle
+Prosthesis,” IEEE Access, 7(1): , .
+45. K. Hamed, B. Safaee, and R. Gregg, “Dynamic Output Controllers for Exponential Stabilization of
+Periodic Orbits for Multi-Domain Hybrid Models of Robotic Locomotion,” ASME Journal of Dynamic
+Systems, Measurement, and Control, 141(12): 121011, .
+46. D. Allen, E. Bolivar, S. Farmer, W. Voit, and R. Gregg, “Mechanical Simplification of Variable
+Stiffness Actuators Using Dielectric Elastomer Transducers,” Actuators, 8(2): 1-19, . Special
+Issue on New Materials and Designs for Soft Actuators.
+47. M. Yeatman, G. Lv, and R. Gregg, “Decentralized Passivity-Based Control with a Generalized
+Energy Storage Function for Robust Biped Locomotion,” ASME Journal of Dynamic Systems,
+Measurement, and Control, 141(10): 101007, .
+48. E. Bolivar, S. Rezazadeh, and R. Gregg, “Minimizing Energy Consumption and Peak Power of Series
+Elastic Actuators: A Convex Optimization Framework for Elastic Element Design,” IEEE/ASME
+Transactions on Mechatronics, 24(3):1334-1345, .
+49. A. Mohammadi and R. Gregg, “Variable Impedance Control of Powered Knee Prostheses Using
+Human-Inspired Algebraic Curves,” ASME Journal of Computational and Nonlinear Dynamics, 14(10):
+101007, . Special Issue on Nonlinear and Computational Dynamics in Biomedical Applications.
+50. J. Horn, A. Mohammadi, K. Hamed, and R. Gregg, “Hybrid Zero Dynamics of Bipedal Robots
+Under Non hol ono mic Virtual Constraints,” IEEE Control Systems Letters, 3(2): 386-391, .
+51. K. Hamed and R. Gregg, “Decentralized Event-Based Controllers for Robust Stabilization of
+Hybrid Periodic Orbits: Application to Under actuated 3D Bipedal Walking,” IEEE Trans Automatic
+Control, 64(6): 2266-2281, .
+52. K. Embry, D. Villarreal, R. Macaluso, and R. Gregg, “Modeling the Kinematics of Human
+Locomotion over Continuously Varying Speeds and Inclines,” IEEE Trans Neural Sys Rehab Eng,
 26(12): 2342-2350, .
-53. d. quintero, e. reznick, d. lambert, s. rezazadeh, l. gray, and r. gregg, “intuitive clinician
-control interface for a powered knee-ankle prosthesis: a case study,” ieee journal of translational
-engineering in health and medicine, 6(1): 1-9, .
-54. g. lv, h. zhu, and r. gregg, “on the design and control of highly backdrivable lower-limb
-exoskeletons,” ieee control systems magazine, 38(6): 88-113, .
-55. d. quintero, d. villarreal, d. lambert, s. kapp, and r. gregg, “continuous-phase control of a
-powered knee-ankle prosthesis: amputee experiments across speeds and inclines,” ieee trans
-robotics, 34(3): 686-701, .
-56. g. lv and r. gregg, “underactuated potential energy shaping with contact constraints:
-application to a powered knee-ankle orthosis,” ieee trans contr sys tech, 26(1): 181-193, .
-robert d. gregg – page 7 of 25
-57. d. quintero, a. martin, and r. gregg, “toward unified control of a powered prosthetic leg: a
-simulation study,” ieee trans control systems technology, 26(1): 305-312, .
-58. a. martin and r. gregg, “stable, robust hybrid zero dynamics control of powered lower-limb
-prostheses,” ieee trans automatic control, 62(8): 3930-3942, .
-59. k. hamed and r. gregg, “decentralized feedback controllers for robust stabilization of periodic
-orbits of hybrid systems: application to bipedal walking,” ieee trans control systems technology,
+53. D. Quintero, E. Reznick, D. Lambert, S. Rezazadeh, L. Gray, and R. Gregg, “Intuitive Clinician
+Control Interface for a Powered Knee-Ankle Prosthesis: A Case Study,” IEEE Journal of Translational
+Engineering in Health and Medicine, 6(1): 1-9, .
+54. G. Lv, H. Zhu, and R. Gregg, “On the Design and Control of Highly Back dr iv able Lower-limb
+Exoskeletons,” IEEE Control Systems Magazine, 38(6): 88-113, .
+55. D. Quintero, D. Villarreal, D. Lambert, S. Kapp, and R. Gregg, “Continuous-Phase Control of a
+Powered Knee-Ankle Prosthesis: Amputee Experiments Across Speeds and Inclines,” IEEE Trans
+Robotics, 34(3): 686-701, .
+56. G. Lv and R. Gregg, Under actuated Potential Energy Shaping with Contact Constraints:
+Application to a Powered Knee-Ankle Orthosis,” IEEE Trans Contr Sys Tech, 26(1): 181-193, .
+Robert D. Gregg – Curriculum Vitae Page 7 of 25
+57. D. Quintero, A. Martin, and R. Gregg, “Toward Unified Control of a Powered Prosthetic Leg: A
+Simulation Study,” IEEE Trans Control Systems Technology, 26(1): 305-312, .
+58. A. Martin and R. Gregg, “Stable, Robust Hybrid Zero Dynamics Control of Powered Lower-Limb
+Prostheses,” IEEE Trans Automatic Control, 62(8): 3930-3942, .
+59. K. Hamed and R. Gregg, “Decentralized Feedback Controllers for Robust Stabilization of Periodic
+Orbits of Hybrid Systems: Application to Bipedal Walking,” IEEE Trans Control Systems Technology,
 25(4): 1153-1167, .
-60. d. villarreal, h. poonawala, and r. gregg, “a robust parameterization of human gait patterns
-across phase-shifting perturbations,” ieee trans neural sys rehab eng, 25(3): 265-278, .
-61. r. ayub, d. villarreal, r. gregg, and f. gao, “evaluation of transradial body-powered prostheses
-using a robotic simulator,” prosthetics orthotics int, 41(2): 194-200, .
-62. a. plauché, d. villarreal, and r. gregg, “a haptic feedback system for phase-based sensory
-restoration in above-knee prosthetic leg users,” ieee trans haptics, 9(3): 421-426, .
-63. d. villarreal, d. quintero, and r. gregg, “a perturbation mechanism for investigations of phase-
-dependent behavior in human locomotion,” ieee access, 4: 893-904, .
-64. a. martin and r. gregg, “incorporating human-like walking variability in an hzd-based bipedal
-model,” ieee trans robotics, 32(4): 943-948, . special issue on movement science for humans
-and humanoids: methods and applications.
-65. a. martin, d. villarreal, and r. gregg, “characterizing and modeling the joint-level variability in
-human walking,” j biomechanics, 49(14): 3298-3305, .
-66. r. gregg, t. lenzi, l. hargrove, and j. sensinger, “virtual constraint control of a powered
-prosthetic leg: from simulation to experiments with transfemoral amputees,” ieee trans robotics,
+60. D. Villarreal, H. Poonawala, and R. Gregg, “A Robust Parameter iz ation of Human Gait Patterns
+Across Phase-Shifting Perturbations,” IEEE Trans Neural Sys Rehab Eng, 25(3): 265-278, .
+61. R. Ayub, D. Villarreal, R. Gregg, and F. Gao, “Evaluation of Trans radial Body-Powered Prostheses
+Using a Robotic Simulator,” Prosthetics Orthotics Int, 41(2): 194-200, .
+62. A. Plauché, D. Villarreal, and R. Gregg, “A Haptic Feedback System for Phase-Based Sensory
+Restoration in Above-Knee Prosthetic Leg Users,” IEEE Trans Haptics, 9(3): 421-426, .
+63. D. Villarreal, D. Quintero, and R. Gregg, “A Perturbation Mechanism for Investigations of Phase-
+Dependent Behavior in Human Locomotion,” IEEE Access, 4: 893-904, .
+64. A. Martin and R. Gregg, “Incorporating Human-like Walking Variability in an HZD-Based Bipedal
+Model,” IEEE Trans Robotics, 32(4): 943-948, . Special Issue on Movement Science for Humans
+and Humanoids: Methods and Applications.
+65. A. Martin, D. Villarreal, and R. Gregg, “Characterizing and Modeling the Joint-level Variability in
+Human Walking,” J Bio mechanics 49(14): 3298-3305, .
+66. R. Gregg, T. Lenzi, L. Hargrove, and J. Sensinger, “Virtual Constraint Control of a Powered
+Prosthetic Leg: From Simulation to Experiments with Trans femoral Amputees,” IEEE Trans Robotics,
 30(6): 1455-1471, .
-67. r. gregg, e. rouse, l. hargrove, and j. sensinger, “evidence for a time-invariant phase variable in
-human ankle control,” plos one, 9(2): e89163, .
-68. r. gregg and j. sensinger, “towards biomimetic virtual constraint control of a powered
-prosthetic leg,” ieee trans control systems technology, 22(1): 246-254, .
-69. a. degani, a. long, s. feng, b. brown, r. gregg, h. choset, m. mason, and k. lynch, “design and
-open-loop control of the parkourbot, a dynamic climbing robot,” ieee trans robotics, 30(3):
+67. R. Gregg, E. Rouse, L. Hargrove, and J. Sensinger, “Evidence for a Time-Invariant Phase Variable in
+Human Ankle Control,” PLo S ONE, 9(2): e89163, .
+68. R. Gregg and J. Sensinger, “Towards Biomimetic Virtual Constraint Control of a Powered
+Prosthetic Leg,” IEEE Trans Control Systems Technology, 22(1): 246-254, .
+69. A. Degani, A. Long, S. Feng, B. Brown, R. Gregg, H. Choset, M. Mason, and K. Lynch, “Design and
+Open-Loop Control of the Parkour Bot, a Dynamic Climbing Robot,” IEEE Trans Robotics, 30(3):
 705-718, .
-70. r. gregg and l. righetti, “controlled reduction with unactuated cyclic variables: application to
-3d bipedal walking with passive yaw rotation,” ieee trans automatic control, 58(10): 2679-2685,
+70. R. Gregg and L. Righetti, “Controlled Reduction with Unactuated Cyclic Variables: Application to
+3D Bipedal Walking with Passive Yaw Rotation,” IEEE Trans Automatic Control, 58(10): 2679-2685,
 .
-71. e. rouse, r. gregg, l. hargrove, and j. sensinger, “the difference between mechanical stiffness
-and quasi-stiffness in the context of biomechanical modeling,” ieee trans biomed eng, 60(2): 562-
+71. E. Rouse, R. Gregg, L. Hargrove, and J. Sensinger, “The Difference Between Mechanical Stiffness
+and Quasi-Stiffness in the Context of Bio mechanical Modeling,” IEEE Trans Biomed Eng, 60(2): 562-
 568, .
-72. r. gregg, y. dhaher, a. degani, and k. lynch, “on the mechanics of functional asymmetry in
-bipedal walking,” ieee trans biomed eng, 59(5): 1310-1318, .
-73. r. gregg, a. tilton, s. candido, t. bretl, and m. spong, “control and planning of 3d dynamic
-walking with asymptotically stable gait primitives,” ieee trans robotics, 28(6): 1415-1423, .
-74. r. gregg and m. spong, “reduction-based control of three-dimensional bipedal walking robots,”
-int j robotics research, 29(6): 680-702, .
-peer-reviewed conference proceedings
-robert d. gregg – page 8 of 25
-1. a. lang, c. laubscher, s. cheng, and r. gregg, “vibrotactile haptic and gesture feedback in a
-smartwatch for controlling a multi-activity powered knee-ankle prosthesis,” to appear in ieee int
-conf eng medicine & biology (embc), .
-2. k. walters, e. hernandez hinojosa, and r. gregg, “task-agnostic exoskeleton torque assistance
-reduces ankle osteoarthritis pain: a pilot study,” to appear in ieee int conf eng medicine & biology
-(embc), .
-3. t. k. best, c. a. seelhoff, and r. gregg, “implementation and validation of a data-driven variable
-impedance controller on the össur power knee,” to appear in ieee int conf rehab robotics
-(icorr), .
-4. c. a. seelhoff, t. k. best, and r. gregg, “adapting biomimetic kinematics for controlling a
-powered-knee, passive-ankle prosthesis across inclines,” to appear in ieee int conf rehab robotics
-(icorr), .
-5. r. posh and r. gregg, “a task-agnostic approach to unified multi-activity gait phase estimation
-via bilateral sensing,” to appear in ieee int conf rehab robotics (icorr), .
-6. j. zhang, n. divekar, e. hernandez hinojosa, and r. gregg, “a task-agnostic hip exoskeleton for
-osteoarthritis pain relief: energetic control across activities of daily life,” to appear in ieee int
-conf rehab robotics (icorr), .
-7. n. divekar, e. hernandez hinojosa, and r. gregg, “a task-agnostic knee exoskeleton for
-reducing osteoarthritis pain across activities of daily life: a pilot study,” to appear in ieee int
-conf rehab robotics (icorr), .
-8. y. wang, j. montes-perez, r. gregg, and g. thomas, “human-interface dynamics of knee
-exoskeletons with lateral and anteroposterior attachment,” to appear in ieee int conf rehab
-robotics (icorr), .
-9. k. waters, b. zou, t. k. best, r. gregg, and c. welker, “investigating kinematic and kinetic
-asymmetries during sit/stand movements with a powered knee-ankle prosthesis: a pilot study,” to
-appear in ieee int conf rehab robotics (icorr), .
-10. s. zhao, k. walters, j. montes-perez, and r. gregg, “design and validation of a modular,
-backdrivable ankle exoskeleton,” in ieee int conf biomedical robotics & biomechatronics (biorob),
+72. R. Gregg, Y. Dhaher, A. Degani, and K. Lynch, “On the Mechanics of Functional Asymmetry in
+Bipedal Walking,” IEEE Trans Biomed Eng, 59(5): 1310-1318, .
+73. R. Gregg, A. Tilton, S. Candido, T. Bretl, and M. Spong, “Control and Planning of 3D Dynamic
+Walking with Asymptotically Stable Gait Primitives,” IEEE Trans Robotics, 28(6): 1415-1423, .
+74. R. Gregg and M. Spong, “Reduction-Based Control of Three-Dimensional Bipedal Walking Robots,”
+Int J Robotics Research, 29(6): 680-702, .
+PEER-REVIEWED CONFERENCE PROCEEDINGS
+Robert D. Gregg – Curriculum Vitae Page 8 of 25
+1. A. Lang, C. Laubscher, S. Cheng, and R. Gregg, Vi bro tactile Haptic and Gesture Feedback in a
+Smartwatch for Controlling a Multi-Activity Powered Knee-Ankle Prosthesis,” to appear in IEEE Int
+Conf Eng Medicine & Biology (EMBC), .
+2. K. Walters, E. Hernandez Hinojosa, and R. Gregg, “Task-Agnostic Exoskeleton Torque Assistance
+Reduces Ankle Osteoarthritis Pain: A Pilot Study,” to appear in IEEE Int Conf Eng Medicine & Biology
+(EMBC), .
+3. T. K. Best, C. A. Seelhoff, and R. Gregg, “Implementation and Validation of a Data-Driven Variable
+Impedance Controller on the Össur Power Knee,” to appear in IEEE Int Conf Rehab Robotics
+(ICORR), .
+4. C. A. Seelhoff, T. K. Best, and R. Gregg, “Adapting Biomimetic Kinematics for Controlling a
+Powered-Knee, Passive-Ankle Prosthesis Across Inclines,” to appear in IEEE Int Conf Rehab Robotics
+(ICORR), .
+5. R. Posh and R. Gregg, “A Task-Agnostic Approach to Unified Multi-Activity Gait Phase Estimation
+via Bilateral Sensing,” to appear in IEEE Int Conf Rehab Robotics (ICORR), .
+6. J. Zhang, N. Divekar, E. Hernandez Hinojosa, and R. Gregg, “A Task-Agnostic Hip Exoskeleton for
+Osteoarthritis Pain Relief: Energetic Control Across Activities of Daily Life,” to appear in IEEE Int
+Conf Rehab Robotics (ICORR), .
+7. N. Divekar, E. Hernandez Hinojosa, and R. Gregg, “A Task-Agnostic Knee Exoskeleton for
+Reducing Osteoarthritis Pain Across Activities of Daily Life: A Pilot Study,” to appear in IEEE Int
+Conf Rehab Robotics (ICORR), .
+8. Y. Wang, J. Montes-Perez, R. Gregg, and G. Thomas, “Human-Interface Dynamics of Knee
+Exoskeletons with Lateral and Antero posterior Attachment,” to appear in IEEE Int Conf Rehab
+Robotics (ICORR), .
+9. K. Waters, B. Zou, T. K. Best, R. Gregg, and C. Welker, “Investigating kinematic and kinetic
+a symmetries during sit/stand movements with a powered knee-ankle prosthesis: a pilot study,” to
+appear in IEEE Int Conf Rehab Robotics (ICORR), .
+10. S. Zhao, K. Walters, J. Montes-Perez, and R. Gregg, “Design and Validation of a Modular,
+Back dr iv able Ankle Exoskeleton,” in IEEE Int Conf Biomedical Robotics & Bio mechatronics (Bio Rob),
 .
-11. a. lee, c. laubscher, t. k. best, and r. gregg, “towards a unified approach for continuously-
-variable impedance control of powered prosthetic legs over walking speeds and inclines,” in ieee
-int conf robotics & automation (icra), .
-12. s. cheng, c. laubscher, and r. gregg, “controlling powered prosthesis kinematics over
-continuous transitions between walk and stair ascent,” in ieee int conf intelligent robots &
-systems (iros), . best student paper award
-13. t. k. best, c. laubscher, r. cortino, s. cheng, and r. gregg, “improving amputee endurance
-over activities of daily living with a robotic knee-ankle prosthesis: a case study,” in ieee int conf
-intelligent robots & systems (iros), . best application paper award finalist
-14. k. walters, g. thomas, j. lin, and r. gregg, “an energetic approach to task-invariant ankle
-exoskeleton control,” in ieee int conf intelligent robots & systems (iros), .
-15. j. montes-perez, g. thomas, and r. gregg, “effects of personalization on gait-state tracking
-performance using extended kalman filters,” in ieee int conf intelligent robots & systems (iros),
+11. A. Lee, C. Laubscher, T. K. Best, and R. Gregg, “Towards a Unified Approach for Continuously-
+Variable Impedance Control of Powered Prosthetic Legs over Walking Speeds and Inclines,” in IEEE
+Int Conf Robotics & Automation (ICRA), .
+12. S. Cheng, C. Laubscher, and R. Gregg, “Controlling Powered Prosthesis Kinematics over
+Continuous Transitions Between Walk and Stair Ascent,” in IEEE Int Conf Intelligent Robots &
+Systems (IROS), . Best Student Paper Award
+13. T. K. Best, C. Laubscher, R. Cortino, S. Cheng, and R. Gregg, “Improving Amputee Endurance
+over Activities of Daily Living with a Robotic Knee-Ankle Prosthesis: A Case Study,” in IEEE Int Conf
+Intelligent Robots & Systems (IROS), . Best Application Paper Award Finalist
+14. K. Walters, G. Thomas, J. Lin, and R. Gregg, “An Energetic Approach to Task-Invariant Ankle
+Exoskeleton Control,” in IEEE Int Conf Intelligent Robots & Systems (IROS), .
+15. J. Montes-Perez, G. Thomas, and R. Gregg, “Effects of Personalization on Gait-State Tracking
+Performance Using Extended Kalman Filters,” in IEEE Int Conf Intelligent Robots & Systems (IROS),
 .
-16. j. zhang, j. lin, v. peddinti, and r. gregg, “optimal energy shaping control for a backdrivable hip
-exoskeleton,” in american control conf, .
-robert d. gregg – page 9 of 25
-17. e. keller, c. laubscher, and r. gregg, “gait event detection with proprioceptive force sensing in
-a powered knee-ankle prosthesis: validation over walking speeds and slopes,” in ieee int conf
-robotics & automation (icra), .
-18. c. welker, t. k. best, and r. gregg, “data-driven variable impedance control of a robotic
-knee-ankle prosthesis for sit, stand, and walk with minimal tuning,” ieee int conf intelligent robots
-& systems (iros), .
-19. r. cortino, e. bolivar, t. k. best, and r. gregg, “stair ascent phase-variable control of a
-powered knee-ankle prosthesis,” in ieee int conf robotics & automation (icra), .
-20. s. guo, r. gregg, and e. bolivar, “convex optimization for spring design of parallel elastic
-actuators,” in american control conf, .
-21. g. thomas and r. gregg, “an energy shaping exoskeleton controller for human strength
-amplification,” in ieee conf decision & control, .
-22. p. kannapan, d. garmire, and r. gregg, “emma: earthworm mimetic manipulator architecture
-for access-constrained environments,” in int conf advanced robotics, .
-23. e. bolivar, g. thomas, e. rouse, and r. gregg, “convex optimization for spring design in series
-elastic actuators: from theory to practice,” in ieee int conf intelligent robots & systems (iros),
+16. J. Zhang, J. Lin, V. Peddinti, and R. Gregg, “Optimal Energy Shaping Control for a Back dr iv able Hip
+Exoskeleton,” in American Control Conf, .
+Robert D. Gregg – Curriculum Vitae Page 9 of 25
+17. E. Keller, C. Laubscher, and R. Gregg, “Gait Event Detection with Proprio ce pti ve Force Sensing in
+a Powered Knee-Ankle Prosthesis: Validation over Walking Speeds and Slopes,” in IEEE Int Conf
+Robotics & Automation (ICRA), .
+18. C. Welker, T. K. Best, and R. Gregg, “Data-Driven Variable Impedance Control of a Robotic
+Knee-Ankle Prosthesis for Sit, Stand, and Walk with Minimal Tuning,” IEEE Int Conf Intelligent Robots
+& Systems (IROS), .
+19. R. Cortino, E. Bolivar, T. K. Best, and R. Gregg, “Stair Ascent Phase-Variable Control of a
+Powered Knee-Ankle Prosthesis,” in IEEE Int Conf Robotics & Automation (ICRA), .
+20. S. Guo, R. Gregg, and E. Bolivar, “Convex Optimization for Spring Design of Parallel Elastic
+Actuators,” in American Control Conf, .
+21. G. Thomas and R. Gregg, “An Energy Shaping Exoskeleton Controller for Human Strength
+Amplification,” in IEEE Conf Decision & Control, .
+22. P. Kannapan, D. Garmire, and R. Gregg, “EMMA: Earthworm Mimetic Manipulator Architecture
+for Access-Constrained Environments,” in Int Conf Advanced Robotics, .
+23. E. Bolivar, G. Thomas, E. Rouse, and R. Gregg, “Convex Optimization for Spring Design in Series
+Elastic Actuators: From Theory to Practice,” in IEEE Int Conf Intelligent Robots & Systems (IROS),
 .
-24. t. k. best, k. embry, e. rouse, and r. gregg, “phase-variable control of a powered knee-ankle
-prosthesis over continuously varying speeds and inclines,” in ieee int conf intelligent robots &
-systems (iros), .
-25. d. raz, e. bolivar, n. ozay, and r. gregg, “toward phase-variable control of sit-to-stand motion
-with a powered knee-ankle prosthesis,” in ieee conf on control tech & applications, .
-26. n. divekar, j. lin, c. nesler, and r. gregg, “a potential energy shaping controller with ground
-reaction force feedback for a multi-activity knee-ankle exoskeleton,” in ieee int. conf. biomedical
-robotics biomechatronics, .
-27. e. reznick, k. embry, and r. gregg, “predicting individualized joint kinematics over a continuous
-range of slopes and speeds,” in ieee int. conf. biomedical robotics biomechatronics, .
-28. g. lv, h. xing, j. lin, r. gregg, and c. atkeson, “a task-invariant learning framework of lower-
-limb exoskeletons for assisting human locomotion,” in american control conf., .
-29. j. lin, n. divekar, g. lv, and r. gregg, “energy shaping control with virtual spring and damper
-for powered exoskeletons,” in ieee conf on decision & control, .
-30. h. zhu, c. nesler, n. divekar, m. ahmad, and r. gregg, “design and validation of a partial-assist
-knee orthosis with compact, backdrivable actuation,” in ieee int conf on rehab robotics, pp. 917-
+24. T. K. Best, K. Embry, E. Rouse, and R. Gregg, “Phase-Variable Control of a Powered Knee-Ankle
+Prosthesis over Continuously Varying Speeds and Inclines,” in IEEE Int Conf Intelligent Robots &
+Systems (IROS), .
+25. D. Raz, E. Bolivar, N. Ozay, and R. Gregg, “Toward Phase-Variable Control of Sit-to-Stand Motion
+with a Powered Knee-Ankle Prosthesis,” in IEEE Conf on Control Tech & Applications, .
+26. N. Divekar, J. Lin, C. Nesler, and R. Gregg, “A Potential Energy Shaping Controller with Ground
+Reaction Force Feedback for a Multi-Activity Knee-Ankle Exoskeleton,” in IEEE Int. Conf. Biomedical
+Robotics Bio mechatronics .
+27. E. Reznick, K. Embry, and R. Gregg, “Predicting Individualized Joint Kinematics over a Continuous
+Range of Slopes and Speeds,” in IEEE Int. Conf. Biomedical Robotics Bio mechatronics .
+28. G. Lv, H. Xing, J. Lin, R. Gregg, and C. Atkeson, “A Task-Invariant Learning Framework of Lower-
+Limb Exoskeletons for Assisting Human Locomotion,” in American Control Conf., .
+29. J. Lin, N. Divekar, G. Lv, and R. Gregg, “Energy Shaping Control with Virtual Spring and Damper
+for Powered Exoskeletons,” in IEEE Conf on Decision & Control, .
+30. H. Zhu, C. Nesler, N. Divekar, M. Ahmad, and R. Gregg, “Design and Validation of a Partial-Assist
+Knee Orthosis with Compact, Back dr iv able Act u ation in IEEE Int Conf on Rehab Robotics, pp. 917-
 924, .
-31. e. bolivar, s. rezazadeh, t. summers, and r. gregg, “robust optimal design of series elastic
-actuators: application to a powered prosthetic ankle,” in ieee int conf on rehab robotics, pp. 740-
+31. E. Bolivar, S. Rezazadeh, T. Summers, and R. Gregg, “Robust Optimal Design of Series Elastic
+Actuators: Application to a Powered Prosthetic Ankle,” in IEEE Int Conf on Rehab Robotics, pp. 740-
 747, .
-32. j. lin, g. lv, and r. gregg, “contact-invariant total energy shaping for powered exoskeletons,” in
-american control conference, .
-33. s. kumar, a. mohammadi, r. gregg, and n. gans, “limit cycle minimization by time-invariant
-extremum seeking control,” in american control conference, .
-34. a. mohammadi, s. fakoorian, j. horn, d. simon, and r. gregg, “hybrid nonlinear disturbance
-observer design for underactuated bipedal robots,” in ieee conf. decision & control, .
-robert d. gregg – page 10 of 25
-35. s. rezazadeh, d. quintero, n. divekar, and r. gregg, “a phase variable approach to volitional
-control of powered knee-ankle prostheses,” in ieee int conf intelligent robots & systems (iros),
-spain, . (46.7% acceptance rate)
-36. a. mohammadi and r. gregg, “human-inspired algebraic curves for wearable robot control,”
-in asme dynamic systems & control conference, .
-37. t. elery, s. rezazadeh, c. nesler, j. doan, h. zhu, and r. gregg, “design and benchtop validation
-of a powered knee-ankle prosthesis with high-torque, low-impedance actuators,” in ieee int
-conf robotics & automation (icra), brisbane, australia, pp. 2788-2795, . (41% acceptance rate)
-38. m. yeatman, g. lv, and r. gregg, “passivity-based control with a generalized energy storage
-function for robust bipedal walking,” in american control conference, milwaukee, wi, .
-39. k. hamed, r. gregg, and a. ames, “exponentially stabilizing controllers for multi-contact 3d
-bipedal locomotion,” in american control conference, milwaukee, wi, .
-40. k. hamed, a. ames, and r. gregg, “observer-based feedback controllers for exponential
-stabilization of hybrid periodic orbits: application to underactuated bipedal walking,” in american
-control conference, milwaukee, wi, .
-41. d. allen, s. farmer, r. gregg, and w. voit, “stretchable conductive fabric simplifies manufacturing
-of low-resistance dielectric-elastomer-system electrodes,” spie electroactive polymer actuators and
-devices, .
-42. e. bolivar, s. rezazadeh, and r. gregg, “a general framework for minimizing energy
-consumption of series elastic actuators with regeneration,” in asme dynamic systems & control
-conf, virginia, pp. v001t36a005, . best student robotics paper award
-43. a. mohammadi, j. horn, and r. gregg, “removing phase variables from biped robot parametric
-gaits,” in ieee conf on control tech & applications (invited session on robotic locomotion control),
-hawaii, pp. 834-840, .
-44. s. kumar, a. mohammadi, n. gans, and r. gregg, “automatic tuning of virtual constraint-based
-control algorithms for powered knee-ankle prostheses,” in ieee conf on control tech &
-applications (invited session on robotic locomotion control), hawaii, pp. 812-818, . best
-student paper award finalist.
-45. d. quintero, d. lambert, d. villarreal, and r. gregg, “real-time continuous gait phase and
-speed estimation from a single sensor,” in ieee conf on control tech & applications (invited session
-on robotic locomotion control), hawaii, pp. 847-852, .
-46. d. villarreal, d. quintero, and r. gregg, “piecewise and unified phase variables in the control of
-a powered prosthetic leg,” in ieee int conf rehab robotics, london, pp. 1425-1430, .
-47. g. lv and r. gregg, “towards total energy shaping control of lower-limb exoskeletons,” in
-american control conference, seattle, wa, pp. 4851-4857, .
-48. h. zhu, j. doan, c. stence, g. lv, t. elery, and r. gregg, “design and validation of a torque
-dense, highly backdrivable powered knee-ankle orthosis,” in ieee int conf robotics & automation
-(icra), singapore, pp. 504-510, . (41% acceptance rate)
-49. s. rezazadeh and r. gregg, “a control framework for anthropomorphic biped walking based
-on stabilizing feedforward trajectories,” in asme dynamic systems & control conference,
-minneapolis, mn, pp. v001t06a007, .
-50. e. bolivar, d. allen, g. ellson, j. cossio, w. voit, and r. gregg, “towards a series elastic
-actuator with electrically modulated stiffness for powered ankle-foot orthoses,” in ieee conf
-automation science & engineering, fort worth, tx, pp. 1086-1093, .
-robert d. gregg – page 11 of 25
-51. d. quintero, d. villarreal, and r. gregg, “preliminary experiments with a unified controller for a
-powered knee-ankle prosthetic leg across walking speeds,” in ieee int conf intelligent robots &
-systems (iros), daejeon, korea, pp. 5427-5433, . (48% acceptance rate)
-52. k. embry, d. villarreal, and r. gregg, “a unified parameterization of human gait across
-ambulation modes,” in ieee eng medicine biology conf, orlando, fl, pp. 2179-2183, .
-53. d. villarreal and r. gregg, “unified phase variables of relative degree two for human
-locomotion,” in ieee eng medicine biology conf, orlando, fl, pp. 6262-6267, .
-54. r. gregg and a. martin, “prosthetic leg control in the nullspace of human interaction,” in
-american control conf (invited session on control theory in legged locomotion), boston, ma, pp.
+32. J. Lin, G. Lv, and R. Gregg, “Contact-Invariant Total Energy Shaping for Powered Exoskeletons,” in
+American Control Conference, .
+33. S. Kumar, A. Mohammadi, R. Gregg, and N. Gans, “Limit Cycle Minimization by Time-Invariant
+Extremum Seeking Control,” in American Control Conference, .
+34. A. Mohammadi, S. Fakoorian, J. Horn, D. Simon, and R. Gregg, “Hybrid Nonlinear Disturbance
+Observer Design for Under actuated Bipedal Robots,” in IEEE Conf. Decision & Control, .
+Robert D. Gregg – Curriculum Vitae Page 10 of 25
+35. S. Rezazadeh, D. Quintero, N. Divekar, and R. Gregg, “A Phase Variable Approach to Volitional
+Control of Powered Knee-Ankle Prostheses,” in IEEE Int Conf Intelligent Robots & Systems (IROS),
+Spain, . (46.7% acceptance rate)
+36. A. Mohammadi and R. Gregg, “Human-Inspired Algebraic Curves for Wearable Robot Control,”
+in ASME Dynamic Systems & Control Conference, .
+37. T. Elery, S. Rezazadeh, C. Nesler, J. Doan, H. Zhu, and R. Gregg, “Design and Benchtop Validation
+of a Powered Knee-Ankle Prosthesis with High-Torque, Low-Impedance Actuators,” in IEEE Int
+Conf Robotics & Automation (ICRA), Brisbane, Australia, pp. 2788-2795, . (41% acceptance rate)
+38. M. Yeatman, G. Lv, and R. Gregg, “Passivity-Based Control with a Generalized Energy Storage
+Function for Robust Bipedal Walking,” in American Control Conference, Milwaukee, WI, .
+39. K. Hamed, R. Gregg, and A. Ames, “Exponentially Stabilizing Controllers for Multi-Contact 3D
+Bipedal Locomotion,” in American Control Conference, Milwaukee, WI, .
+40. K. Hamed, A. Ames, and R. Gregg, “Observer-Based Feedback Controllers for Exponential
+Stabilization of Hybrid Periodic Orbits: Application to Under actuated Bipedal Walking,” in American
+Control Conference, Milwaukee, WI, .
+41. D. Allen, S. Farmer, R. Gregg, and W. Voit, Stretch able conductive fabric simplifies manufacturing
+of low-resistance dielectric-elastomer-system electrodes,” SPIE Electro active Polymer Actuators and
+Devices, .
+42. E. Bolivar, S. Rezazadeh, and R. Gregg, “A General Framework for Minimizing Energy
+Consumption of Series Elastic Actuators with Regeneration,” in ASME Dynamic Systems & Control
+Conf, Virginia, pp. V 001 T 36 A 005 . Best Student Robotics Paper Award
+43. A. Mohammadi, J. Horn, and R. Gregg, “Removing Phase Variables from Biped Robot Parametric
+Gaits,” in IEEE Conf on Control Tech & Applications (Invited Session on Robotic Locomotion Control),
+Hawaii, pp. 834-840, .
+44. S. Kumar, A. Mohammadi, N. Gans, and R. Gregg, “Automatic Tuning of Virtual Constraint-Based
+Control Algorithms for Powered Knee-Ankle Prostheses,” in IEEE Conf on Control Tech &
+Applications (Invited Session on Robotic Locomotion Control), Hawaii, pp. 812-818, . Best
+Student Paper Award Finalist.
+45. D. Quintero, D. Lambert, D. Villarreal, and R. Gregg, “Real-Time Continuous Gait Phase and
+Speed Estimation from a Single Sensor,” in IEEE Conf on Control Tech & Applications (Invited Session
+on Robotic Locomotion Control), Hawaii, pp. 847-852, .
+46. D. Villarreal, D. Quintero, and R. Gregg, “Piecewise and Unified Phase Variables in the Control of
+a Powered Prosthetic Leg,” in IEEE Int Conf Rehab Robotics, London, pp. 1425-1430, .
+47. G. Lv and R. Gregg, “Towards Total Energy Shaping Control of Lower-Limb Exoskeletons,” in
+American Control Conference, Seattle, WA, pp. 4851-4857, .
+48. H. Zhu, J. Doan, C. Stence, G. Lv, T. Elery, and R. Gregg, “Design and Validation of a Torque
+Dense, Highly Back dr iv able Powered Knee-Ankle Orthosis,” in IEEE Int Conf Robotics & Automation
+(ICRA), Singapore, pp. 504-510, . (41% acceptance rate)
+49. S. Rezazadeh and R. Gregg, “A Control Framework for Anthropomorphic Biped Walking Based
+on Stabilizing Feed forward Trajectories,” in ASME Dynamic Systems & Control Conference,
+Minneapolis, MN, pp. V 001 T 06 A 007 .
+50. E. Bolivar, D. Allen, G. Ellson, J. Cossio, W. Voit, and R. Gregg, “Towards a Series Elastic
+Actuator with Electrically Modulated Stiffness for Powered Ankle-Foot Orthoses,” in IEEE Conf
+Automation Science & Engineering, Fort Worth, TX, pp. 1086-1093, .
+Robert D. Gregg – Curriculum Vitae Page 11 of 25
+51. D. Quintero, D. Villarreal, and R. Gregg, “Preliminary Experiments with a Unified Controller for a
+Powered Knee-Ankle Prosthetic Leg Across Walking Speeds,” in IEEE Int Conf Intelligent Robots &
+Systems (IROS), Daejeon, Korea, pp. 5427-5433, . (48% acceptance rate)
+52. K. Embry, D. Villarreal, and R. Gregg, “A Unified Parameter iz ation of Human Gait Across
+Ambulation Modes,” in IEEE Eng Medicine Biology Conf, Orlando, FL, pp. 2179-2183, .
+53. D. Villarreal and R. Gregg, “Unified Phase Variables of Relative Degree Two for Human
+Locomotion,” in IEEE Eng Medicine Biology Conf, Orlando, FL, pp. 6262-6267, .
+54. R. Gregg and A. Martin, “Prosthetic Leg Control in the Nullspace of Human Interaction,” in
+American Control Conf (Invited Session on Control Theory in Legged Locomotion), Boston, MA, pp.
 4814-4821, .
-55. k. hamed and r. gregg, “decentralized feedback controllers for exponential stabilization of
-hybrid periodic orbits: application to robotic walking,” in american control conf (invited session
-on control theory in legged locomotion), boston, ma, pp. 4793-4800, .
-56. g. lv, h. zhu, t. elery, l. li, and r. gregg, “experimental implementation of underactuated
-potential energy shaping on a powered ankle-foot orthosis,” in ieee int conf robotics & automation
-(icra), stockholm, sweden, pp. 3493-3500, . (34.7% acceptance rate)
-57. d. villarreal, d. quintero, and r. gregg, “a perturbation mechanism for investigations of phase
-variables in human locomotion,” in ieee int conf robotics & biomimetics, zhuhai, china, pp. -
+55. K. Hamed and R. Gregg, “Decentralized Feedback Controllers for Exponential Stabilization of
+Hybrid Periodic Orbits: Application to Robotic Walking,” in American Control Conf (Invited Session
+on Control Theory in Legged Locomotion), Boston, MA, pp. 4793-4800, .
+56. G. Lv, H. Zhu, T. Elery, L. Li, and R. Gregg, “Experimental Implementation of Under actuated
+Potential Energy Shaping on a Powered Ankle-Foot Orthosis,” in IEEE Int Conf Robotics & Automation
+(ICRA), Stockholm, Sweden, pp. 3493-3500, . (34.7% acceptance rate)
+57. D. Villarreal, D. Quintero, and R. Gregg, “A Perturbation Mechanism for Investigations of Phase
+Variables in Human Locomotion,” in IEEE Int Conf Robotics & Biomimetic s Zhuhai, China, pp. -
 , .
-58. g. lv and r. gregg, “orthotic body-weight support through underactuated potential energy
-shaping with contact constraints,” in ieee conf decision and control, osaka, japan, pp. 1483-1490,
-. best student paper award
-59. d. quintero, a. martin, and r. gregg, “unifying the gait cycle in the control of a powered
-prosthetic leg,” in ieee int conf rehabilitation robotics, singapore, pp. 289-294, .
-60. a. martin and r. gregg, “hybrid invariance and stability of a feedback linearizing controller for
-powered prostheses,” in amer control conf, pp. 4670-4676, .
-61. a. nanjangud and r. gregg, “simultaneous control of virtual constraints for ankle-foot
-prostheses,” in asme dynamic systems & control conf (invited session on physical human-robot
-interactions), san antonio, tx, pp. v001t04a001, .
-62. d. villarreal and r. gregg, “a survey of phase variable candidates of human locomotion,” in
-ieee eng medicine & biology conf, chicago, il, pp. 4017-4021, .
-63. a. nanjangud and r. gregg, “simultaneous control of the compass-gait biped for maintaining
-symmetric gait across all mass ratios,” in american control conf, portland, or, pp. 5490-5495,
+58. G. Lv and R. Gregg, “Orthotic Body-Weight Support Through Under actuated Potential Energy
+Shaping with Contact Constraints,” in IEEE Conf Decision and Control, Osaka, Japan, pp. 1483-1490,
+. Best Student Paper Award
+59. D. Quintero, A. Martin, and R. Gregg, “Unifying the Gait Cycle in the Control of a Powered
+Prosthetic Leg,” in IEEE Int Conf Rehabilitation Robotics, Singapore, pp. 289-294, .
+60. A. Martin and R. Gregg, “Hybrid Invariance and Stability of a Feedback Linear i zing Controller for
+Powered Prostheses,” in Amer Control Conf, pp. 4670-4676, .
+61. A. Nanjangud and R. Gregg, “Simultaneous Control of Virtual Constraints for Ankle-Foot
+Prostheses,” in ASME Dynamic Systems & Control Conf (Invited Session on Physical Human-Robot
+Interactions), San Antonio, TX, pp. V 001 T 04 A 001 .
+62. D. Villarreal and R. Gregg, “A Survey of Phase Variable Candidates of Human Locomotion,” in
+IEEE Eng Medicine & Biology Conf, Chicago, IL, pp. 4017-4021, .
+63. A. Nanjangud and R. Gregg, “Simultaneous Control of the Compass-Gait Biped for Maintaining
+Symmetric Gait Across All Mass Ratios,” in American Control Conf, Portland, OR, pp. 5490-5495,
 .
-64. r. gregg, t. lenzi, n. fey, l. hargrove, and j. sensinger, “experimental effective shape control of
-a powered transfemoral prosthesis,” in ieee int conf rehabilitation robotics, seattle, wa, .
-65. r. gregg and j. sensinger, “biomimetic virtual constraint control of a transfemoral powered
-prosthetic leg,” in american control conf, washington, dc, pp. 5702-5708, .
-66. r. gregg and u. topcu, “towards formal verification methods for robotic lower-limb
-prostheses and orthoses,” in the medical cyber physical systems workshop, cps week,
-philadelphia, pa, .
-67. n. rosa, a. barber, r. gregg, k. lynch, “stable open-loop brachiation on a vertical wall,” in
-ieee int conf robotics & automation (icra), st. paul, mn, pp. 1193-1199, .
-68. r. gregg, y. dhaher, and k. lynch, “functional asymmetry in a five-link 3d bipedal walker,” in
-ieee eng med & bio conf, boston, ma, pp. 7820-7823, .
-robert d. gregg – page 12 of 25
-69. r. gregg, “controlled reduction of a five-link 3d biped with unactuated yaw,” in ieee conf
-decision & control, orlando, fl, pp. 669–674, .
-70. a. long, r. gregg, and k. lynch, “the simplest parkour model: experimental validation and
-stability analysis,” in int conf climbing & walking robots, paris, france, . best technical
-paper award
-71. r. gregg, a. degani, y. dhaher, and k. lynch, “the basic mechanics of bipedal walking lead to
-asymmetric behavior,” in ieee int conf rehab robotics, zurich, switzerland, .
-72. r. gregg, t. bretl, and m. spong, “a control theoretic approach to robot-assisted locomotor
-therapy,” in ieee conf decision & control, atlanta, ga, pp. 1679-1686, .
-73. r. gregg, l. righetti, j. buchli, and s. schaal, “constrained accelerations for controlled
-geometric reduction: sagittal-plane decoupling for bipedal locomotion,” in ieee int conf
-humanoid robots, nashville, tn, .
-74. r. gregg, t. bretl, and m. spong, “asymptotically stable gait primitives for planning dynamic
-bipedal locomotion in three dimensions,” in ieee int conf robotics & automation (icra), anchorage,
-ak, pp. 1695–1702, .
-75. r. gregg and m. spong, “bringing the compass-gait bipedal walker to three dimensions,” in
-ieee int conf intelligent robots & systems (iros), st. louis, mo, pp. 4469–4474, .
-76. r. gregg and m. spong, “reduction-based control of branched chains: application to three-
-dimensional bipedal torso robots,” in ieee conf decision & control, shanghai, china, pp. 8166–
+64. R. Gregg, T. Lenzi, N. Fey, L. Hargrove, and J. Sensinger, “Experimental Effective Shape Control of
+a Powered Trans femoral Prosthesis,” in IEEE Int Conf Rehabilitation Robotics, Seattle, WA, .
+65. R. Gregg and J. Sensinger, “Biomimetic Virtual Constraint Control of a Trans femoral Powered
+Prosthetic Leg,” in American Control Conf, Washington, DC, pp. 5702-5708, .
+66. R. Gregg and U. Topcu, “Towards Formal Verification Methods for Robotic Lower-Limb
+Prostheses and Orthoses,” in the Medical Cyber Physical Systems Workshop, CPS Week,
+Philadelphia, PA, .
+67. N. Rosa, A. Barber, R. Gregg, K. Lynch, “Stable Open-Loop Bra chi ation on a Vertical Wall,” in
+IEEE Int Conf Robotics & Automation (ICRA), St. Paul, MN, pp. 1193-1199, .
+68. R. Gregg, Y. Dhaher, and K. Lynch, “Functional Asymmetry in a Five-Link 3D Bipedal Walker,” in
+IEEE Eng Med & Bio Conf, Boston, MA, pp. 7820-7823, .
+Robert D. Gregg – Curriculum Vitae Page 12 of 25
+69. R. Gregg, “Controlled Reduction of a Five-Link 3D Biped with Unactuated Yaw,” in IEEE Conf
+Decision & Control, Orlando, FL, pp. 669–674, .
+70. A. Long, R. Gregg, and K. Lynch, “The Simplest Parkour Model: Experimental Validation and
+Stability Analysis,” in Int Conf Climbing & Walking Robots, Paris, France, . Best Technical
+Paper Award
+71. R. Gregg, A. Degani, Y. Dhaher, and K. Lynch, “The Basic Mechanics of Bipedal Walking Lead to
+Asymmetric Behavior,” in IEEE Int Conf Rehab Robotics, Zurich, Switzerland, .
+72. R. Gregg, T. Bretl, and M. Spong, “A Control Theoretic Approach to Robot-Assisted Locomotor
+Therapy,” in IEEE Conf Decision & Control, Atlanta, GA, pp. 1679-1686, .
+73. R. Gregg, L. Righetti, J. Buchli, and S. Schaal, “Constrained Accelerations for Controlled
+Geometric Reduction: Sagittal-plane Decoupling for Bipedal Locomotion,” in IEEE Int Conf
+Humanoid Robots, Nashville, TN, .
+74. R. Gregg, T. Bretl, and M. Spong, “Asymptotically Stable Gait Primitives for Planning Dynamic
+Bipedal Locomotion in Three Dimensions,” in IEEE Int Conf Robotics & Automation (ICRA), Anchorage,
+AK, pp. 1695–1702, .
+75. R. Gregg and M. Spong, “Bringing the Compass-Gait Bipedal Walker to Three Dimensions,” in
+IEEE Int Conf Intelligent Robots & Systems (IROS), St. Louis, MO, pp. 4469–4474, .
+76. R. Gregg and M. Spong, “Reduction-Based Control of Branched Chains: Application to Three-
+Dimensional Bipedal Torso Robots,” in IEEE Conf Decision & Control, Shanghai, China, pp. 8166–
 8173, .
-77. r. gregg and m. spong, “reduction-based control with application to 3d bipedal walking
-robots,” in amer control conf, seattle, wa, pp. 880–887, . best student paper award and
-o hugo schuck award
-78. a. ames, r. gregg, and m. spong, “a geometric approach to three-dimensional hipped bipedal
-robotic walking,” in ieee conf decision & control, new orleans, la, pp. 5123–5130, .
-79. a. ames and r. gregg, “stably extending two-dimensional bipedal walking to three
-dimensions,” in american control conf, new york, ny, pp. 2848-2854, .
-80. a. ames, r. gregg, e. wendel, and s. sastry, “towards the geometric reduction of controlled
-three-dimensional bipedal robotic walkers,” in workshop on lagrangian & hamiltonian methods for
-nonlinear control, nagoya, japan, .
-81. a. ames, h. zheng, r. gregg, and s. sastry, “is there life after zeno? taking executions past the
-breaking (zeno) point,” in american control conf, minneapolis, mn, .
-conference abstracts
-1. c. laubscher, t. k. best, r. cortino, s. cheng, and r. gregg, “multi-activity endurance of
-transfemoral amputee users with a powered knee-ankle prosthesis,” dynamic walking conference,
+77. R. Gregg and M. Spong, “Reduction-Based Control with Application to 3D Bipedal Walking
+Robots,” in Amer Control Conf, Seattle, WA, pp. 880–887, . Best Student Paper Award and
+O Hugo Schuck Award
+78. A. Ames, R. Gregg, and M. Spong, “A Geometric Approach to Three-Dimensional Hipped Bipedal
+Robotic Walking,” in IEEE Conf Decision & Control, New Orleans, LA, pp. 5123–5130, .
+79. A. Ames and R. Gregg, “Stably Extending Two-Dimensional Bipedal Walking to Three
+Dimensions,” in American Control Conf, New York, NY, pp. 2848-2854, .
+80. A. Ames, R. Gregg, E. Wendel, and S. Sastry, “Towards the Geometric Reduction of Controlled
+Three-Dimensional Bipedal Robotic Walkers,” in Workshop on Lagrangian & Hamiltonian Methods for
+Nonlinear Control, Nagoya, Japan, .
+81. A. Ames, H. Zheng, R. Gregg, and S. Sastry, “Is there Life after Zeno? Taking Executions past the
+Breaking (Zeno) Point,” in American Control Conf, Minneapolis, MN, .
+CONFERENCE ABSTRACTS
+1. C. Laubscher, T. K. Best, R. Cortino, S. Cheng, and R. Gregg, “Multi-Activity Endurance of
+Trans femoral Amputee Users with a Powered Knee-Ankle Prosthesis,” Dynamic Walking Conference,
 .
-2. t. k. best, c. welker, e. rouse, and r. gregg, “a convex optimization approach for phase
-variable impedance control of knee-ankle prostheses,” dynamic walking conference, .
-3. r. gregg, “controlling locomotion over continuously varying activities for agile powered
-prosthetic legs,” dynamic walking conference, .
-4. j. lin, n. divekar, and r. gregg, “task-invariant control of backdrivable knee exoskeletons for
-partial assistance,” dynamic walking conference, .
-robert d. gregg – page 13 of 25
-5. t. k. best, e. rouse, and r. gregg, “continuous phase-varying impedance control of a knee-
-ankle prosthesis for incline walking,” dynamic walking conference, .
-6. s. cheng, e. bolivar, and r. gregg, “real-time lower-limb activity recognition with
-instantaneous characteristic features of thigh kinematics,” dynamic walking conference, .
-7. r. cortino, e. bolivar, and r. gregg, “towards phase-variable control of stair ascent of
-powered knee-ankle prostheses,” dynamic walking conference, .
-8. j. perez, g. thomas, and r. gregg, “low-dimensional individualized continuous-task joint
-kinematic modelling,” dynamic walking conference, .
-9. e. reznick and r. gregg, “investigating gait individuality across ambulation modes,” dynamic
-walking conference, .
-10. e. bolivar, k. embry, t. elery, e. reznick, and r. gregg, “powered knee-ankle prostheses for
-community ambulation: controlling locomotion over continuously varying activities,” nih
-rehabilitation research : envisioning a functional future conference, .
-11. g. thomas, j. lin, n. divekar, c. nesler, and r. gregg, "task-invariant assistance using
-backdrivable, powered orthoses," rehabilitation research : envisioning a functional future
-conference, .
-12. s. kumar, o. makarenkov, r. gregg, and n. gans, “time-invariant extremum seeking control,” in
-american control conference, .
-13. m. yeatman, s. rezazadeh, and r. gregg, “energy shaping and tracking for natural limit cycles in
-hybrid systems,” dynamic walking conference, .
-14. n. divekar and r. gregg, "design and validation of a backdrivable powered knee orthosis for
-partial assistance of lower limb musculature,” dynamic walking conference, .
-15. r. neuman, k. embry, e. reznick, r. gregg, and n. fey, “stair inclination angle significantly
-affects walking kinematics over specific regions of gait cycle during ascending and descending
-tasks,” biomedical engineering society, .
-16. n. divekar, c. nesler, and r. gregg, “feasibility of a task-invariant control scheme for a knee-
-ankle exoskeleton designed for stroke rehabilitation,” international society of prosthetics & orthotics
-(ispo) canada/rehabweek, .
-17. e. reznick and r. gregg, “intuitive clinician control interface for a powered knee-ankle
-prosthesis: a case study,” international society of prosthetics & orthotics (ispo) canada/rehabweek,
+2. T. K. Best, C. Welker, E. Rouse, and R. Gregg, “A Convex Optimization Approach for Phase
+Variable Impedance Control of Knee-Ankle Prostheses,” Dynamic Walking Conference, .
+3. R. Gregg, “Controlling Locomotion over Continuously Varying Activities for Agile Powered
+Prosthetic Legs,” Dynamic Walking Conference, .
+4. J. Lin, N. Divekar, and R. Gregg, “Task-Invariant Control of Back dr iv able Knee Exoskeletons for
+Partial Assistance,” Dynamic Walking Conference, .
+Robert D. Gregg – Curriculum Vitae Page 13 of 25
+5. T. K. Best, E. Rouse, and R. Gregg, “Continuous Phase-Varying Impedance Control of a Knee-
+Ankle Prosthesis for Incline Walking,” Dynamic Walking Conference, .
+6. S. Cheng, E. Bolivar, and R. Gregg, “Real-Time Lower-Limb Activity Recognition with
+Instantaneous Characteristic Features of Thigh Kinematics,” Dynamic Walking Conference, .
+7. R. Cortino, E. Bolivar, and R. Gregg, “Towards Phase-Variable Control of Stair Ascent of
+Powered Knee-Ankle Prostheses,” Dynamic Walking Conference, .
+8. J. Perez, G. Thomas, and R. Gregg, “Low-Dimensional Individualized Continuous-Task Joint
+Kinematic Modelling,” Dynamic Walking Conference, .
+9. E. Reznick and R. Gregg, “Investigating Gait Individuality Across Ambulation Modes,” Dynamic
+Walking Conference, .
+10. E. Bolivar, K. Embry, T. Elery, E. Reznick, and R. Gregg, “Powered knee-ankle prostheses for
+community am bulat ion controlling locomotion over continuously varying activities,” NIH
+Rehabilitation Research : Envisioning a Functional Future Conference, .
+11. G. Thomas, J. Lin, N. Divekar, C. Nesler, and R. Gregg, "Task-Invariant Assistance using
+Back dr iv able Powered Orthoses," Rehabilitation Research : Envisioning a Functional Future
+Conference, .
+12. S. Kumar, O. Ma karen kov R. Gregg, and N. Gans, “Time-Invariant Extremum Seeking Control,” in
+American Control Conference, .
+13. M. Yeatman, S. Rezazadeh, and R. Gregg, “Energy Shaping and Tracking for Natural Limit Cycles in
+Hybrid Systems,” Dynamic Walking Conference, .
+14. N. Divekar and R. Gregg, "Design and Validation of a Back dr iv able Powered Knee Orthosis for
+Partial Assistance of Lower Limb Musculature,” Dynamic Walking Conference, .
+15. R. Neuman, K. Embry, E. Reznick, R. Gregg, and N. Fey, “Stair Inclination Angle Significantly
+Affects Walking Kinematics Over Specific Regions of Gait Cycle During Ascending and Descending
+Tasks,” Biomedical Engineering Society, .
+16. N. Divekar, C. Nesler, and R. Gregg, “Feasibility of a task-invariant control scheme for a knee-
+ankle exoskeleton designed for stroke rehabilitation,” International Society of Prosthetics & Orthotics
+(ISPO) Canada Rehab Week, .
+17. E. Reznick and R. Gregg, “Intuitive Clinician Control Interface for a Powered Knee-Ankle
+Prosthesis: A Case Study,” International Society of Prosthetics & Orthotics (ISPO) Canada Rehab Week,
 .
-18. r. gregg, “phase-based control of locomotion for high-performance prostheses and orthoses,” in
-nih director’s high-risk high-reward research symp, bethesda, md, .
-19. r. gregg, “continuously parameterizing the timing and task adaptations of human locomotion for
-the control of powered prosthetic legs,” in world congress biomech, .
-20. s. rezazadeh and r. gregg, “using holonomic and nonholonomic parameterizations to control
-powered multi-joint prosthetic legs,” in dynamic walking conf, .
-21. s. kumar, a. mohammadi, n. gans, and r. gregg, “extremum seeking control for model-free
-auto-tuning of powered prosthetic legs,” in ieee int conf robotics & automation (icra), .
-22. s. rezazadeh and r. gregg, “towards a robust control paradigm for steady-state and transient
-walking with active transfemoral prostheses,” in ieee int conf intelligent robots & systems (iros),
+18. R. Gregg, “Phase-based control of locomotion for high-performance prostheses and orthoses,” in
+NIH Director’s High-Risk High-Reward Research Symp, Bethesda, MD, .
+19. R. Gregg, “Continuously parameter i zing the timing and task adaptations of human locomotion for
+the control of powered prosthetic legs,” in World Congress Biomech, .
+20. S. Rezazadeh and R. Gregg, “Using holonomic and non hol ono mic parameter iz at ions to control
+powered multi-joint prosthetic legs,” in Dynamic Walking Conf, .
+21. S. Kumar, A. Mohammadi, N. Gans, and R. Gregg, “Extremum seeking control for model-free
+auto-tuning of powered prosthetic legs,” in IEEE Int Conf Robotics & Automation (ICRA), .
+22. S. Rezazadeh and R. Gregg, “Towards a robust control paradigm for steady-state and transient
+walking with active trans femoral prostheses,” in IEEE Int Conf Intelligent Robots & Systems (IROS),
 .
-23. e. bolivar, s. rezazadeh, and r. gregg, “how much energy can really be saved using series elastic
-actuators?”, in ieee int conf intelligent robots & systems (iros), .
-robert d. gregg – page 14 of 25
-24. s. rezazadeh and r. gregg, “a constructive framework for control of anthropomorphic biped
-systems,” in dynamic walking conf, .
-25. a. martin, d. villarreal, and r. gregg, “adding variability to a moderately-complex human walking
-model,” in dynamic walking conf, .
-26. a. martin, d. villarreal, k. embry, r. gregg, “relationship between socket forces and center of
-pressure location for transfemoral amputees,” in american society of biomech, .
-27. r. gregg, “high-performance control of powered prosthetic legs with human-inspired phase
-variables,” in nih director’s high-risk high-reward research symp, bethesda, md, .
-28. d. quintero, a. martin, and r. gregg, “giving up the finite state machine in the control of lower-
-limb wearable robots?”, in workshop on rehabilitation robotics and human-robot interaction,
-ieee int conf robotics & automation (icra), seattle, wa .
-29. r. gregg, “virtual constraint control of a powered prosthetic leg: experiments with transfemoral
-amputees,” in dynamic locomotion workshop, robotics: science & systems, berkeley, ca, .
-30. d. villarreal and r. gregg, “phase-based control of locomotion for high-performance prostheses
-and orthoses,” in neural interfaces conf, dallas, tx, .
-31. r. gregg, “phase-based control of locomotion for high-performance prostheses and orthoses,” in
-nih director’s high-risk high-reward research symp, bethesda, md, .
-32. r. gregg, e. rouse, l. hargrove, and j. sensinger, “the hypothesis of feedback pattern generation
-in human locomotion,” in dynamic walking conf, pittsburgh, pa, june .
-33. r. gregg and j. sensinger, “from machine to biomimetic control of powered prosthetic legs,” in
-dynamic walking conf, pensacola, fl, may .
-book chapters
-1. d. villarreal and r. gregg, “controlling a powered transfemoral prosthetic leg using a unified
-phase variable,” in wearable robots: systems and applications, 1st edition, new york, ny: elsevier,
+23. E. Bolivar, S. Rezazadeh, and R. Gregg, “How much energy can really be saved using series elastic
+actuators?”, in IEEE Int Conf Intelligent Robots & Systems (IROS), .
+Robert D. Gregg – Curriculum Vitae Page 14 of 25
+24. S. Rezazadeh and R. Gregg, “A constructive framework for control of anthropomorphic biped
+systems,” in Dynamic Walking Conf, .
+25. A. Martin, D. Villarreal, and R. Gregg, “Adding variability to a moderately-complex human walking
+model,” in Dynamic Walking Conf, .
+26. A. Martin, D. Villarreal, K. Embry, R. Gregg, “Relationship between socket forces and center of
+pressure location for trans femoral amputees,” in American Society of Biomech, .
+27. R. Gregg, “High-performance control of powered prosthetic legs with human-inspired phase
+variables,” in NIH Director’s High-Risk High-Reward Research Symp, Bethesda, MD, .
+28. D. Quintero, A. Martin, and R. Gregg, “Giving up the finite state machine in the control of lower-
+limb wearable robots?”, in Workshop on Rehabilitation Robotics and Human-Robot Interaction,
+IEEE Int Conf Robotics & Automation (ICRA), Seattle, WA .
+29. R. Gregg, “Virtual constraint control of a powered prosthetic leg: experiments with trans femoral
+amputees,” in Dynamic Locomotion Workshop, Robotics: Science & Systems, Berkeley, CA, .
+30. D. Villarreal and R. Gregg, “Phase-based control of locomotion for high-performance prostheses
+and orthoses,” in Neural Interfaces Conf, Dallas, TX, .
+31. R. Gregg, “Phase-based control of locomotion for high-performance prostheses and orthoses,” in
+NIH Director’s High-Risk High-Reward Research Symp, Bethesda, MD, .
+32. R. Gregg, E. Rouse, L. Hargrove, and J. Sensinger, “The hypothesis of feedback pattern generation
+in human locomotion,” in Dynamic Walking Conf, Pittsburgh, PA, June .
+33. R. Gregg and J. Sensinger, “From machine to biomimetic control of powered prosthetic legs,” in
+Dynamic Walking Conf, Pensacola, FL, May .
+BOOK CHAPTERS
+1. D. Villarreal and R. Gregg, “Controlling a Powered Trans femoral Prosthetic Leg Using a Unified
+Phase Variable,” in Wearable Robots: Systems and Applications, 1st edition, New York, NY: Elsevier,
 , pp. 487.
-2. a. ames, r. gregg, e. wendel, and s. sastry, “on the geometric reduction of controlled three-
-dimensional bipedal robotic walkers,” in lagrangian & hamiltonian methods for nonlinear control,
-ser. lecture notes in control and information sciences, vol. 366. nagoya, japan: springer, , pp.
+2. A. Ames, R. Gregg, E. Wendel, and S. Sastry, “On the Geometric Reduction of Controlled Three-
+Dimensional Bipedal Robotic Walkers,” in Lagrangian & Hamiltonian Methods for Nonlinear Control,
+ser. Lecture Notes in Control and Information Sciences, vol. 366. Nagoya, Japan: Springer, , pp.
 183-196.
-unrefereed magazine articles
-1. r. gregg, l. hargrove, and j. sensinger, “challenges for control research: control of powered
-prosthetic legs,” the impact of control technology, 2nd ed., t. samad and a.m. annaswamy (eds.),
-ieee control systems society, , available at www.ieeecss.org.
-2. d. hoelzle, a. ford, r. gregg, m. johnson, and j. kemmerer, “symposium on emerging topics in
-control and modeling: biomedical systems [conference reports],” ieee control systems magazine,
+UNREFEREED MAGAZINE ARTICLES
+1. R. Gregg, L. Hargrove, and J. Sensinger, “Challenges for Control Research: Control of Powered
+Prosthetic Legs,” The Impact of Control Technology, 2nd ed., T. Samad and A. M. Annaswamy (eds.),
+IEEE Control Systems Society, , available at
+2. D. Hoelzle, A. Ford, R. Gregg, M. Johnson, and J. Kemmerer, “Symposium on Emerging Topics in
+Control and Modeling: Biomedical Systems [Conference Reports],” IEEE Control Systems Magazine,
 30(6): 132-134, .
-patents
-1. r. gregg, s. cheng, and c. laubscher, “powered prosthesis and activity classifier,” u.s.
-provisional patent application, .
-robert d. gregg – page 15 of 25
-2. r. gregg and n. divekar, “limb-assistive device with modified energy shaping,” u.s. provisional
-patent application, .
-3. r. gregg, j. lin, n. divekar, g. thomas, “limb-assistive device with energy shaping,” u.s. patent
-application, .
-4. r. gregg, s. cheng, c. laubscher, “powered lower limb assistive device with obstacle
-avoidance,” u.s. patent application, .
-5. r. gregg, r. cortino, and t.k. best, “powered prosthesis with hybrid controller for stair
-locomotion,” u.s. patent application, .
-6. r. gregg, t.k. best, and c. welker, “powered prosthesis with improved sit-stand transitions,”
-u.s. patent application, .
-7. r. gregg et al., “prosthesis with adaptive speed and incline impedance control,” u.s. patent
-application, .
-8. e. rouse, r. gregg, r. medrano, and g. thomas, “a novel transformers-based neural network to
-estimate human gait,” u.s. patent application, .
-9. r. gregg and h. zhu, “powered orthosis with combined motor and gear technology,” u.s.
-patent application, .
-10. r. gregg and g. lv, “total energy shaping control methods and devices for powered orthosis,”
-u.s. patent no. 12,144,772, nov 19, .
-11. r. gregg, g. lv, and h. zhu, “torque control methods and devices for powered orthosis,” u.s.
-patent no. 11,938,050, mar 26, .
-12. r. gregg et al., “powered prosthesis with torque dense, low ratio actuation,” u.s. patent no.
-us a1, .
-13. r. gregg and h. zhu, “lower limb powered orthosis with low ratio actuation,” u.s. patent no.
-us11497641b2, .
-14. r. gregg et al., “variable stiffness actuator with electrically modulated stiffness,” u.s. patent no.
-us10870202b2, .
-15. r. gregg, d. quintero, a. martin, and d. villarreal, “systems and methods for prosthetic device
-control,” u.s. patent no. us10792170b2, .
-16. r. gregg and j. sensinger, “effective shape controller for lower limb,” u.s. patent no.
-us10314723b2, june .
-invited presentations
-1. invited demo (m-blue exoskeletons), amazon mars conference (hosted by jeff bezos), mar .
-2. irim seminar, georgia tech university, feb .
-3. icon seminar, purdue university, nov .
-4. workshop on accelerating wearable robotics: advancements in mechatronic prostheses and
-exoskeletons and rapid control prototyping, ieee int conf biomedical robotics & biomechatronics,
-sept .
-5. robotics institute seminar, university of toronto, july .
-6. workshop on state of the art in robotic leg prostheses, ieee int conf intelligent robots & systems
-(iros), detroit, mi, oct .
-7. grizzle fest, university of michigan, ann arbor, mi, may .
-8. departmental seminar, mechanical science and engineering, university of illinois, urbana-
-champaign, il, april .
-robert d. gregg – page 16 of 25
-9. aerodynamics and control seminar, imperial college, london, uk, march .
-10. workshop on challenges and opportunities of human-robot symbiosis: from wearable robots
-to neurorobotics, ieee int conf intelligent robots & systems (iros), prague, czech republic, .
-11. minisymposium on energy shaping control and its applications, siam conference on applications of
-dynamical systems, portland, or, may .
-12. workshop on fielding legged robots off the beaten path, american control conf, new orleans, la,
-may .
-13. workshop on state of the art in robotic leg prostheses, ieee int conf intelligent robots & systems
-(iros), oct .
-14. invited speaker, int conf on control, automation and systems, busan, korea, oct .
-15. seminar, robotics institute, carnegie mellon university, pittsburgh, pa, sept .
-16. mini-symposium on augmented neural prostheses, ieee engineering in medicine & biology conf,
-montreal, canada, july .
-17. workshop on extremum seeking control in biomedical applications, american control conf, june
+PATENTS
+1. R. Gregg, S. Cheng, and C. Laubscher, “Powered Prosthesis and Activity Class i fier U. S.
+Provisional Patent Application, .
+Robert D. Gregg – Curriculum Vitae Page 15 of 25
+2. R. Gregg and N. Divekar, “Limb-Assistive Device with Modified Energy Shaping,” U. S. Provisional
+Patent Application, .
+3. R. Gregg, J. Lin, N. Divekar, G. Thomas, “Limb-Assistive Device with Energy Shaping,” U. S. Patent
+Application, .
+4. R. Gregg, S. Cheng, C. Laubscher, “Powered Lower Limb Assistive Device with Obstacle
+Avoidance,” U. S. Patent Application, .
+5. R. Gregg, R. Cortino, and T. K. Best, “Powered Prosthesis with Hybrid Controller for Stair
+Locomotion,” U. S. Patent Application, .
+6. R. Gregg, T. K. Best, and C. Welker, “Powered Prosthesis with Improved Sit-Stand Transitions,”
+U. S. Patent Application, .
+7. R. Gregg et al., “Prosthesis with Adaptive Speed and Incline Impedance Control,” U. S. Patent
+Application, .
+8. E. Rouse, R. Gregg, R. Medrano, and G. Thomas, “A novel Transformers-based neural network to
+estimate human gait,” U. S. Patent Application, .
+9. R. Gregg and H. Zhu, “Powered Orthosis with Combined Motor and Gear Technology,” U. S.
+Patent Application, .
+10. R. Gregg and G. Lv, “Total Energy Shaping Control Methods and Devices for Powered Orthosis,”
+U. S. Patent No. 12 144 772 Nov 19, .
+11. R. Gregg, G. Lv, and H. Zhu, “Torque Control Methods and Devices for Powered Orthosis,” U. S.
+Patent No. 11 938 050 Mar 26, .
+12. R. Gregg et al., “Powered Prosthesis with Torque Dense, Low Ratio Act u ation U. S. Patent No.
+US A1, .
+13. R. Gregg and H. Zhu, “Lower Limb Powered Orthosis with Low Ratio Act u ation U. S. Patent No.
+US 11497641 B 2 .
+14. R. Gregg et al., “Variable Stiffness Actuator with Electrically Modulated Stiffness,” U. S. Patent No.
+US 10870202 B 2 .
+15. R. Gregg, D. Quintero, A. Martin, and D. Villarreal, “Systems and Methods for Prosthetic Device
+Control,” U. S. Patent No. US 10792170 B 2 .
+16. R. Gregg and J. Sensinger, “Effective Shape Controller for Lower Limb,” U. S. Patent No.
+US 10314723 B 2 June .
+INVITED PRESENTATIONS
+1. Invited Demo (M-BLUE Exoskeletons), Amazon MARS conference (hosted by Jeff Bezos), Mar .
+2. IRIM Seminar, Georgia Tech University, Feb .
+3. ICON Seminar, Purdue University, Nov .
+4. Workshop on Accelerating Wearable Robotics: Advancements in Mecha tronic Prostheses and
+Exoskeletons and Rapid Control Prototyping, IEEE Int Conf Biomedical Robotics & Bio mechatronics
+Sept .
+5. Robotics Institute Seminar, University of Toronto, July .
+6. Workshop on State of the Art in Robotic Leg Prostheses, IEEE Int Conf Intelligent Robots & Systems
+(IROS), Detroit, MI, Oct .
+7. Grizzle Fest, University of Michigan, Ann Arbor, MI, May .
+8. Departmental Seminar, Mechanical Science and Engineering, University of Illinois, Urbana-
+Champaign, IL, April .
+Robert D. Gregg – Curriculum Vitae Page 16 of 25
+9. Aerodynamics and Control Seminar, Imperial College, London, UK, March .
+10. Workshop on Challenges and Opportunities of Human-Robot Symbiosis: from Wearable Robots
+to Neuro robotics IEEE Int Conf Intelligent Robots & Systems (IROS), Prague, Czech Republic, .
+11. Mini symposium on Energy Shaping Control and its Applications, SIAM Conference on Applications of
+Dynamical Systems, Portland, OR, May .
+12. Workshop on Fielding Legged Robots off the Beaten Path, American Control Conf, New Orleans, LA,
+May .
+13. Workshop on State of the Art in Robotic Leg Prostheses, IEEE Int Conf Intelligent Robots & Systems
+(IROS), Oct .
+14. Invited Speaker, Int Conf on Control, Automation and Systems, Busan, Korea, Oct .
+15. Seminar, Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, Sept .
+16. Mini-Symposium on Augmented Neural Prostheses, IEEE Engineering in Medicine & Biology Conf,
+Montreal, Canada, July .
+17. Workshop on Extremum Seeking Control in Biomedical Applications, American Control Conf, June
 .
-18. workshop on advances in lower-limb dynamic prostheses for agile and dynamic walking, ieee
-int conf robotics & automation (icra), paris, france, may .
-19. amputation care echo, walter reed national military medical center, apr .
-20. invited speaker, international society for prosthetics & orthotics (ispo canada) conference,
-rehabweek, toronto, canada, june .
-21. invited speaker, orthotics & prosthetics innovative technologies conference, ann arbor, mi, may .
-22. seminar, university of texas arlington research institute, arlington, tx, mar .
-23. mini-workshop on cross-disciplinary communication and collaboration in cphs research, ifac
-conference on cyber-physical & human systems, dec .
-24. departmental seminar, mechanical engineering, university of washington, seattle, wa, dec .
-25. graduate seminar, mechanical engineering, texas a&m university, nov .
-26. robotics seminar, university of michigan, ann arbor, mi, nov .
-27. seminar, burke neurological institute / cornell university, white plains, ny, oct .
-28. keynote speaker, “continuously parameterizing the timing and task adaptations of human
-locomotion for the control of powered prosthetic legs,” world congress of biomechanics, dublin,
-ireland, july .
-29. nih high-risk high-reward research symposium, national institutes of health, bethesda, md, june
+18. Workshop on Advances in Lower-limb Dynamic Prostheses for Agile and Dynamic Walking, IEEE
+Int Conf Robotics & Automation (ICRA), Paris, France, May .
+19. Amputation Care ECHO, Walter Reed National Military Medical Center, Apr .
+20. Invited Speaker, International Society for Prosthetics & Orthotics (ISPO Canada) Conference,
+Rehab Week, Toronto, Canada, June .
+21. Invited Speaker, Orthotics & Prosthetics Innovative Technologies Conference, Ann Arbor, MI, May .
+22. Seminar, University of Texas Arlington Research Institute, Arlington, TX, Mar .
+23. Mini-Workshop on Cross-Disciplinary Communication and Collaboration in CPHS Research, IFAC
+Conference on Cyber-Physical & Human Systems, Dec .
+24. Departmental Seminar, Mechanical Engineering, University of Washington, Seattle, WA, Dec .
+25. Graduate Seminar, Mechanical Engineering, Texas A&M University, Nov .
+26. Robotics Seminar, University of Michigan, Ann Arbor, MI, Nov .
+27. Seminar, Burke Neurological Institute / Cornell University, White Plains, NY, Oct .
+28. Keynote Speaker, “Continuously parameter i zing the timing and task adaptations of human
+locomotion for the control of powered prosthetic legs,” World Congress of Bio mechanics Dublin,
+Ireland, July .
+29. NIH High-Risk High-Reward Research Symposium, National Institutes of Health, Bethesda, MD, June
 .
-30. departmental seminar, mechanical eng, university of north carolina charlotte, april .
-31. wearracon, wearable robotics association, scottsdale, az, march .
-32. grasp seminar, university of pennsylvania, philadelphia, pa, february .
-33. controls seminar, university of michigan, ann arbor, mi, february .
-34. keynote speaker, “when will wearable robots enable mobility in the home and community?”,
-bridging the gap, school of occupational therapy, texas woman's university, denton, tx, oct
+30. Departmental Seminar, Mechanical Eng, University of North Carolina Charlotte, April .
+31. Wear RAcon, Wearable Robotics Association, Scottsdale, AZ, March .
+32. GRASP Seminar, University of Pennsylvania, Philadelphia, PA, February .
+33. Controls Seminar, University of Michigan, Ann Arbor, MI, February .
+34. Keynote Speaker, “When Will Wearable Robots Enable Mobility in the Home and Community?”,
+Bridging the Gap, School of Occupational Therapy, Texas Woman's University, Denton, TX, Oct
 .
-35. workshop on human movement understanding for humanoids and wearable robots, ieee int
-conf intelligent robots & systems (iros), vancouver, canada, sept .
-36. workshop on adaptive control methods in assistive technologies, ieee int conf intelligent robots
-& systems (iros), vancouver, canada, sept .
-37. annual meeting of the texas chapter of the american academy of orthotists and prosthetists, dallas, tx,
-aug .
-38. workshop on the mechanics of human locomotion and the development of wearable robotic
-systems, ieee int conf robotics & automation (icra), singapore, may .
-39. graduate seminar, computer science & engineering, texas a&m university, feb .
-robert d. gregg – page 17 of 25
-40. advanced platform technology center lecture series, cleveland clinic and cleveland department
-of veteran affairs, dec .
-41. departmental seminar, applied physiology & wellness, southern methodist univ, nov .
-42. departmental seminar, mechanical engineering, vanderbilt university, nov .
-43. workshop on assistive robotic devices for dynamic locomotion, robotics: science & systems, ann
-arbor, mi, june .
-44. bme-ric seminar, rehabilitation institute of chicago / northwestern university, march .
-45. wearracon, wearable robotics association, phoenix, az, february .
-46. robotics seminar, mechanical engineering, northwestern university, january .
-47. departmental seminar, mechanical engineering, university of texas, austin, tx, sept .
-48. exoskeleton control theory sprint, special operations command (socom), tampa, fl, july .
-49. departmental seminar, mechanical engineering, university of washington, seattle, wa, june .
-50. keynote speaker, “innovation in prosthetic and orthotic technology for improved healthcare,”
-health research alliance meeting (american heart association), dallas, tx, march .
-51. departmental seminar, physical medicine & rehabilitation, university of texas southwestern
-medical center, dallas, tx, february .
-52. departmental seminar, physical medicine & rehabilitation, children’s medical center of dallas,
-dallas, tx, january .
-53. departmental seminar, aerospace & mechanical engineering, university of notre dame, notre
-dame, in, january .
-54. texas biorobotics workshop, asme dyn sys control conf, san antonio, tx, october .
-55. burroughs wellcome fund scientific interfaces symposium, san diego, ca, october .
-56. dynamic locomotion workshop, robotics: science & systems, berkeley, ca, july .
-57. keynote speaker, “initial steps from robot locomotion to high-performance prostheses and
-orthoses,” annual meeting texas assoc orthotists & prosthetists, dallas, tx, apr .
-58. departmental seminar, mechanical engineering, michigan state university, east lansing, mi, mar
+35. Workshop on Human Movement Understanding for Humanoids and Wearable Robots, IEEE Int
+Conf Intelligent Robots & Systems (IROS), Vancouver, Canada, Sept .
+36. Workshop on Adaptive Control Methods in Assistive Technologies, IEEE Int Conf Intelligent Robots
+& Systems (IROS), Vancouver, Canada, Sept .
+37. Annual Meeting of the Texas Chapter of the American Academy of Orthotists and Pros thetis ts Dallas, TX,
+Aug .
+38. Workshop on the Mechanics of Human Locomotion and the Development of Wearable Robotic
+Systems, IEEE Int Conf Robotics & Automation (ICRA), Singapore, May .
+39. Graduate Seminar, Computer Science & Engineering, Texas A&M University, Feb .
+Robert D. Gregg – Curriculum Vitae Page 17 of 25
+40. Advanced Platform Technology Center Lecture Series, Cleveland Clinic and Cleveland Department
+of Veteran Affairs, Dec .
+41. Departmental Seminar, Applied Physiology & Wellness, Southern Methodist Univ, Nov .
+42. Departmental Seminar, Mechanical Engineering, Vanderbilt University, Nov .
+43. Workshop on Assistive Robotic Devices for Dynamic Locomotion, Robotics: Science & Systems, Ann
+Arbor, MI, June .
+44. BME-RIC Seminar, Rehabilitation Institute of Chicago / Northwestern University, March .
+45. Wear RAcon, Wearable Robotics Association, Phoenix, AZ, February .
+46. Robotics Seminar, Mechanical Engineering, Northwestern University, January .
+47. Departmental Seminar, Mechanical Engineering, University of Texas, Austin, TX, Sept .
+48. Exoskeleton Control Theory Sprint, Special Operations Command (SOCOM), Tampa, FL, July .
+49. Departmental Seminar, Mechanical Engineering, University of Washington, Seattle, WA, June .
+50. Keynote Speaker, “Innovation in Prosthetic and Orthotic Technology for Improved Healthcare,”
+Health Research Alliance Meeting (American Heart Association), Dallas, TX, March .
+51. Departmental Seminar, Physical Medicine & Rehabilitation, University of Texas Southwestern
+Medical Center, Dallas, TX, February .
+52. Departmental Seminar, Physical Medicine & Rehabilitation, Children’s Medical Center of Dallas,
+Dallas, TX, January .
+53. Departmental Seminar, Aerospace & Mechanical Engineering, University of Notre Dame, Notre
+Dame, IN, January .
+54. Texas Bio robotics Workshop, ASME Dyn Sys Control Conf, San Antonio, TX, October .
+55. Burroughs Wellcome Fund Scientific Interfaces Symposium, San Diego, CA, October .
+56. Dynamic Locomotion Workshop, Robotics: Science & Systems, Berkeley, CA, July .
+57. Keynote Speaker, “Initial Steps from Robot Locomotion to High-Performance Prostheses and
+Orthoses,” Annual Meeting Texas Assoc Orthotists & Pros thetis ts Dallas, TX, Apr .
+58. Departmental Seminar, Mechanical Engineering, Michigan State University, East Lansing, MI, Mar
 .
-59. texas systems day, texas a&m university, college station, tx, march .
-60. departmental seminar, computer science and engineering, university of texas at arlington,
-arlington, tx, february .
-61. departmental seminar, electrical and computer engineering, university of illinois at chicago,
-chicago, il, february .
-62. controls seminar, coordinated science lab, university of illinois, urbana, il, feb .
-63. controls seminar, university of waterloo, canada, may .
-64. departmental seminar, bioengineering, university of texas, dallas, tx, february .
-65. departmental seminar, institute of automatic control engineering, technical university of munich,
-germany, march .
-66. departmental seminar, mechanical and aerospace engineering, university of florida, gainesville, fl,
-january .
-67. dynamic walking conference, “control and planning with asymptotically stable gait primitives,”
-cambridge, ma, july .
-68. workshop on 20 years of passivity-based control: theory and applications, ieee conference on
-decision and control, shanghai, china, december .
-advising and mentoring
-research staff:
-university of michigan
-robert d. gregg – page 18 of 25
-1. emily klinkman, ms, research engineer, -present
-2. hannah frame, ms, research engineer, -
- nike sport research lab
-3. vamsi peddinti, ms, research engineer, -
- embedded systems engineer, micron technology
-4. chris nesler, ms, research engineer, -
- phd student, university of michigan
-university of texas at dallas
-5. amanda coldren, mpo (northwestern), research orthotist,
- prosthetics resident, ut southwestern medical center
-6. emma reznick, ba (colorado college), postbaccalaureate researcher, -
- phd student, university of michigan
-7. aaron plauche, ms (ut dallas), research engineer, -
- mobile robotics design engineer, bastian robotics
-8. yonatan chatzinoff, bs (ut dallas), research engineer, -
- ut southwestern medical center
-postdoctoral fellows:
-university of michigan
-1. ryan posh, phd (notre dame), postdoc, -present
-2. ernesto hernandez, phd (u illinois chicago), postdoc, -present
-3. nikhil divekar, phd (umich), postdoc, -present
-4. curt laubscher, phd (cleveland state), postdoc, -present
-5. gray thomas, phd (ut austin), postdoc  research investigator, -
- assistant professor, texas a&m university
-6. jianping lin, phd (michigan), postdoc, -
- postdoc, shanghai jiao tong university
-7. cara gonzalez welker (stanford), postdoc, -
- assistant professor, university of colorado, boulder
-8. edgar bolivar, phd (ut dallas), postdoc, -
- assistant professor, university of notre dame
-university of texas at dallas
-9. siavash rezazadeh, phd (university of alberta), research scientist, -
- assistant professor, university of denver
-10. alireza mohammadi, phd (university of toronto), postdoc, -
- assistant professor, university of michigan—dearborn
-11. anne martin, phd (notre dame), postdoc, -
- assistant professor, penn state university
-12. akshay nanjangud, phd (uc davis), postdoc, -
-phd students:
-university of michigan
-1. tori landrum (me), -present
-2. amy lang (me), -present
-3. c. andrew seelhoff (me), rackham merit fellow, -present
-4. jiefu zhang (rob), -present
-5. katharine walters (rob), nsf grfp fellow, -present
-robert d. gregg – page 19 of 25
-6. albert lee (rob), -present
-7. jose montes perez (rob), -present
-8. duong le (rob), -present (co-advised by prof. maani ghaffari)
-9. emily keller (rob), nsf grfp fellow, -present
-10. christopher nesler (rob), -present (co-advised by prof. elliott rouse)
-11. thomas kevin best (rob), nsf grfp fellow, -present (co-advised by prof. elliott rouse)
-12. ross cortino (rob), -present
-13. shihao cheng (phd-rob ), rackham predoctoral fellow, dissertation: controlling a powered
-knee-ankle prosthesis during continuous and automatic transitions between activities
- shift robotics
-14. emma reznick (phd-rob ), dissertation: understanding individuality in human locomotion for
-configuring powered prosthetic legs
- postdoc, hospital for special surgery
-15. nikhil divekar (phd-rob ), rackham predoctoral fellow, dissertation: task-invariant control
-and pre-clinical validation of partial assist exoskeletons
- postdoc, university of michigan
-16. jianping lin (phd-rob ), dissertation: optimal task-invariant energetic control for powered
-exoskeletons
- postdoc, shanghai jiao tong university
-university of texas at dallas
-17. jonathan horn (phd-me ), dissertation: nonholonomic virtual constraints for bipedal locomotion
- jacobs engineering group
-18. mark yeatman (phd-me ), dissertation: energy and passivity based control for bipeds and
-assistive walking devices
- applied scientist, boston dynamics ai institute
-19. kyle embry (phd-me ), excellence in education fellow, dissertation: kinematic modeling for
-control of agile powered prosthetic legs over continuously varying speeds and inclines
- research assistant professor, northwestern university and shirley ryan ability lab
-20. saurav kumar (phd-ee , co-advised by prof. nicholas gans), dissertation: extremum seeking
-control for autonomous periodic systems with applications to lower-limb wearable robots
- research scientist, ut arlington research institute
-21. hanqi zhu (phd-ee ), mcdermott graduate fellow, dissertation: design of a highly
-backdrivable, powered lower limb orthosis for improved human interaction
- ceo/founder, enhanced robotics
-22. toby elery (phd-me ), dissertation: design and implications of a robotic prosthetic leg with low-
-impedance actuation
- principal mechanical engineer, toyota north america
-23. david allen (phd-me , co-advised by prof. walter voit), excellence in education fellow,
-dissertation: design principles for using dielectric elastomer transducers in actuation systems
- structural engineer, lockheed martin
-24. edgar bolivar (phd-me ), dissertation: robust energy-efficient design of series elastic actuators
- postdoc, university of michigan  assistant professor, university of notre dame
-25. ge lv (phd-ee ), louis beecherl jr. graduate fellow, dissertation: energy shaping control of
-powered lower-limb exoskeletons for assistance of human locomotion
- postdoc, carnegie mellon university  assistant professor, clemson university
-26. david quintero (phd-me ), excellence in education fellow, dissertation: virtual constraint
-control of powered prosthetic legs: unifying the gait cycle
- assistant professor, san francisco state university
-robert d. gregg – page 20 of 25
-27. dario villarreal (phd-bme ), conacyt graduate fellow, dissertation: investigations of a unified
-phase variable in human locomotion for applications in powered prostheses
- assistant professor, southern methodist university
-ms students supported:
-university of michigan
-1. robbie frei (ms-rob ), nsf grfp fellow  mit lincoln labs
-university of texas at dallas
-2. aaron plauché (ms-me ), thesis: a haptic feedback system for phase-based sensory restoration in
-above-knee prosthetic leg users  mobile robotics design engineer, bastian robotics
-3. mohammad taha ahmad (ms-ee )  systems control engineer, rheem manufacturing
-4. ryan little (ms-me ), thesis: manufacturing methods for medium-volume production of planar
-dielectric elastomer actuators  optex systems, inc.
-5. emma reznick (ms-bme ), thesis: individualizing a powered prosthetic leg over continuously
-varying tasks  phd student, university of michigan
-6. nikhil divekar (ms-bme )  phd student, university of michigan
-undergraduate research awardees:
-university of texas at dallas
-1. kayla shepodd (bs-me), ecs award  mechanical engineer, spacex
-2. sara borboa (bs-me), clark scholar and utd award
-3. maaz mian (bs-bme), clark scholar
-4. mira jambusaria (bs-ece), national merit leader scholar
-5. maximillian virani (bs-bme), national merit leader scholar
-6. caleb ho (bs-me), clark scholar
-7. zelig barber (bs-bme), clark scholar
-8. jack doan (bs-ece), utd award  engineer, rockwell collins
-9. rebecca macaluso (bs-bme), and utd award  analyst, toyota north america
-10. daniel lambert (bs-ece), utd award and fall ecs award
-11. calvin stence (bs-me), clark scholar and spring ecs award
-12. rafi ayub (bs-bme), utd award  ph.d. student / nsf grfp fellow, stanford university
-13. toby elery (bs-me), ecs award  ph.d. student, ut dallas
-14. pritam shah (bs-me), utd award
-undergraduate senior design teams:
-university of texas at dallas
-1. variable stiffness ankle-foot orthosis, sponsor: utd service lab, -19
-2. orthosis and prosthesis testing device, sponsor: utsw medical center, -18
-3. enhanced design of robotic leg, sponsor: utd locomotor control systems lab, -18
-4. wearable ankle orthosis, sponsor: texas instruments, -
-5. multi-degree-of-freedom ankle-foot orthosis, sponsor: utsw medical center, -
-6. wearable rehabilitation sensor, sponsor: utsw/rithmio, st place project)
-7. amputee gait hip simulator, sponsor: utd locomotor control systems lab, -15
-8. cable-driven perturbation mechanism, sponsor: utsw medical center,
-9. powered transfemoral prosthetic leg, sponsor: utd locomotor control systems lab,
-10. upper limb prosthetic simulator, sponsor: utsw medical center,
-robert d. gregg – page 21 of 25
-teaching experience
-instructor, university of michigan – present
-rob 501: mathematics for robotics (graduate) fa19, fa20
-rob 599: robot modeling and control (graduate) wn20
-rob 510/mech/eecs 567: robot kinematics and dynamics (graduate) wn21, wn22, wn23
-rob 498: robot control (undergraduate) wn24
-rob 415: advanced robot control (undergraduate) fa24
-instructor, university of texas at dallas –
-mech 4310: systems and controls (undergrad) sp18
-bmen 4310: feedback systems in biomedical engineering (undergrad) fa15, fa17, fa18
-bmen 6372: engineering systems modeling & simulation (graduate) sp15, sp16, sp17
-mech/eecs 6324: robot control (graduate) fa14, fa16, sp19
-mech 2330: dynamics (undergrad) fa13
-co-instructor, elgersburg school on nonlinear control (short course) spring
-institut für mathematik, technical university ilmaneu, elgersburg, germany
-graduate teaching assistant, introduction to robotics fall
-university of illinois, urbana, il
-scholarly review
-grant reviewer/panelist – present
-nih director’s early independence award program (dp5)
-nih director’s new innovator award program (dp2)
-nih musculoskeletal, oral, and skin sciences: zrg1 moss-l (11) b (r41, r43, r44 awards)
-national science foundation
-nih musculoskeletal rehabilitation sciences (mrs) study section (r01 and r21 awards)
-national science foundation
-nih musculoskeletal rehabilitation sciences (mrs) study section (r01 and r21 awards)
-nih musculoskeletal, oral, and skin sciences: zrg1 moss-v50r (r01 awards)
-nih musculoskeletal, oral, and skin sciences: zrg1 moss-d82 (r15 awards)
-national science foundation
-national science foundation
-nih nichd: zhd1 dsr-k (12) 1 (sbir r43/r44 awards)
-nih nibib: zeb1 osr-f (m2) s (k awards)
-national science foundation
-scientific program committee member, ieee/rsj int conf on intelligent robots & systems
-senior editor, iros conference paper review board –
-program committee member, ieee conf on decision and control
-associate editor, ieee transactions on robotics –
-robert d. gregg – page 22 of 25
-conference editorial board member, ieee control systems society –
-associate editor (conferences) –
-ieee/asme american control conf ( -18), ieee conf control tech & applications ( ), ieee conf
-decision & control ( -18), ieee int conf robotics & automation ( -19), ieee int conf intelligent
-robots & systems ( , ), asme dyn sys control conf ( -15)
-journal reviewer – present
-annals biomed eng, asme j applied mechanics reviews, asme j biomech eng, asme j dyn sys meas control,
-asme j mech design, asme j med devices, automatica, frontiers in neurorobotics, frontiers in neuroscience,
-ieee/asme trans mechatronics, ieee access, ieee control systems mag, ieee robotics automation mag, ieee
-trans automat control, ieee trans autom sci & eng, ieee trans biomed eng, ieee trans control sys tech,
-ieee trans medical robotics & bionics, ieee trans robotics, ieee trans neural sys rehab eng, int j robotics
-res, j biomech, j intelligent service robotics, j neuroeng rehab, mechatronics, opt control app meth, physica
-d: nonlinear phenom, plos one, proceedings of the national academy of sciences, robotica, science robotics
-conference reviewer – present
-amer control conf, asme dyn sys & control conf, ieee conf aut sci & eng, ieee int conf biomed rob &
-biomechatron, ieee conf control tech & app, ieee conf decision & control, ieee conf robotics biomimetics,
-ieee int conf eng med bio soc, ieee int conf humanoid rob, ieee int conf intelli rob & sys, ieee int conf
-rehab rob, ieee int conf rob & aut, ieee multiconf sys & control, ifac world congress, robotics: sci & sys
-scholarly service
-program chair, ieee/rsj int conf on intelligent robots & systems, detroit, mi
-workshops chair, ieee conference on control technology & applications, hawaii
-workshop organizer/chair/co-chair
-1. state of the art in lower-limb exoskeletons: exploring specificity vs. generalizability across users
-and activities, ieee int. conf. robotics and automation (icra),
-2. state of the art in robotic leg prostheses: where we are and where we want to be, ieee int.
-conf. intelligent robots and systems (iros),
-3. state of the art in robotic leg prostheses: where we are and where we want to be, ieee int.
-conf. intelligent robots and systems (iros),
-4. workshop on extremum seeking control in biomedical applications, american control conf.,
-5. texas bio-robotics workshop, asme dynamic systems & control conf.,
-6. symposium on control and modeling of biomedical systems, university of illinois, urbana, il,
-invited session organizer/chair/co-chair
-1. invited session on control theory in legged locomotion, american control conf,
-2. invited session on robotic locomotion control, ieee conf control tech app,
-3. invited session on control theory in legged locomotion, american control conf,
-4. invited session on rehabilitation robots, asme dyn sys control conf, –
-5. invited session on control theory in medical rehabilitation, american control conf,
-meeting participant
-1. national robotics initiative principal investigator meeting, washington, dc, -
-robert d. gregg – page 23 of 25
-2. national academy of engineering workshop on future of center-based, multidisciplinary
-engineering research, washington, dc, april
-3. ccc workshop on the u.s. national robotics roadmap, san francisco, ca, march
-4. u.s. special operations command exoskeleton control theory sprint, tampa, fl,
-co-chair, technical committee manufacturing automation & robotic control –
-ieee control systems society
-university service
-advisory board member, center for research on learning and teaching in eng. –
-graduate chair, robotics institute, university of michigan –
-graduate co-chair, robotics institute, university of michigan –
-committee member, university of michigan, ann arbor, mi – present
-college: nominating committee ( -present)
-robotics: graduate academics ( -22), executive committee ( -present, -22), search ( ),
-undergraduate committee ( -present)
-electrical & computer engineering: graduate academics ( -20), phd admissions recruiting ( -20)
-committee member, university of texas at dallas, richardson, tx –
-bioengineering: faculty search ( -15), graduate recruiting ( -17), seminars ( -18)
-mechanical engineering: faculty search ( -18), graduate ( -14), dsc area ( -19)
-school of ecs: executive council ( -19)
-university: ecs dean search ( -19), core facilities ( )
-graduate representative, academic senate executive committee –
-university of illinois, urbana, il
-industry experience
-intern, the boeing company (phantom works) summer
-intern, sanyo technology center, san jose, ca summer
-intern, hewlett-packard outerbay technologies, cupertino, ca summer
-training and certifications
-• certificate series in research administration, university of texas at dallas,
-• nih responsible conduct of research (rcr) training, northwestern university,
-professional memberships
-• senior member, institute of electrical & electronics engineers (ieee)
-o robotics & automation society
-o control systems society
-robert d. gregg – page 24 of 25
-o engineering in medicine & biology society
-robert d. gregg – page 25 of 25
+59. Texas Systems Day, Texas A&M University, College Station, TX, March .
+60. Departmental Seminar, Computer Science and Engineering, University of Texas at Arlington,
+Arlington, TX, February .
+61. Departmental Seminar, Electrical and Computer Engineering, University of Illinois at Chicago,
+Chicago, IL, February .
+62. Controls Seminar, Coordinated Science Lab, University of Illinois, Urbana, IL, Feb .
+63. Controls Seminar, University of Waterloo, Canada, May .
+64. Departmental Seminar, Bioengineering, University of Texas, Dallas, TX, February .
+65. Departmental Seminar, Institute of Automatic Control Engineering, Technical University of Munich,
+Germany, March .
+66. Departmental Seminar, Mechanical and Aerospace Engineering, University of Florida, Gainesville, FL,
+January .
+67. Dynamic Walking Conference, “Control and Planning with Asymptotically Stable Gait Primitives,”
+Cambridge, MA, July .
+68. Workshop on 20 Years of Passivity-Based Control: Theory and Applications, IEEE Conference on
+Decision and Control, Shanghai, China, December .
+ADVISING AND MENTORING
+Research Staff:
+University of Michigan
+Robert D. Gregg – Curriculum Vitae Page 18 of 25
+1. Emily Klinkman, MS, Research Engineer, -Present
+2. Hannah Frame, MS, Research Engineer, -
+ Nike Sport Research Lab
+3. Vamsi Peddinti, MS, Research Engineer, -
+ Embedded Systems Engineer, Micron Technology
+4. Chris Nesler, MS, Research Engineer, -
+ Ph D student, University of Michigan
+University of Texas at Dallas
+5. Amanda Coldren, MPO (Northwestern), Research Orthotist,
+ Prosthetics Resident, UT Southwestern Medical Center
+6. Emma Reznick, BA (Colorado College), Post baccalaureate Researcher, -
+ Ph D student, University of Michigan
+7. Aaron Plauche, MS (UT Dallas), Research Engineer, -
+ Mobile Robotics Design Engineer, Bastian Robotics
+8. Yonatan Chat z in off BS (UT Dallas), Research Engineer, -
+ UT Southwestern Medical Center
+Postdoctoral Fellows:
+University of Michigan
+1. Ryan Posh, Ph D (Notre Dame), Postdoc, -Present
+2. Ernesto Hernandez, Ph D (U Illinois Chicago), Postdoc, -Present
+3. Nikhil Divekar, Ph D (UMich), Postdoc, -Present
+4. Curt Laubscher, Ph D (Cleveland State), Postdoc, -Present
+5. Gray Thomas, Ph D (UT Austin), Postdoc  Research Investigator, -
+ Assistant Professor, Texas A&M University
+6. Jianping Lin, Ph D (Michigan), Postdoc, -
+ Postdoc, Shanghai Jiao Tong University
+7. Cara Gonzalez Welker (Stanford), Postdoc, -
+ Assistant Professor, University of Colorado, Boulder
+8. Edgar Bolivar, Ph D (UT Dallas), Postdoc, -
+ Assistant Professor, University of Notre Dame
+University of Texas at Dallas
+9. Siavash Rezazadeh, Ph D (University of Alberta), Research Scientist, -
+ Assistant Professor, University of Denver
+10. Alireza Mohammadi, Ph D (University of Toronto), Postdoc, -
+ Assistant Professor, University of Michigan Dearborn
+11. Anne Martin, Ph D (Notre Dame), Postdoc, -
+ Assistant Professor, Penn State University
+12. Akshay Nanjangud, Ph D (UC Davis), Postdoc, -
+Ph D Students:
+University of Michigan
+1. Tori Landrum (ME), -present
+2. Amy Lang (ME), -present
+3. C. Andrew Seelhoff (ME), Rackham Merit Fellow, -present
+4. Jiefu Zhang (ROB), -present
+5. Katharine Walters (ROB), NSF GRFP Fellow, -present
+Robert D. Gregg – Curriculum Vitae Page 19 of 25
+6. Albert Lee (ROB), -present
+7. Jose Montes Perez (ROB), -present
+8. Duong Le (ROB), -present (co-advised by Prof. Maani Ghaffari)
+9. Emily Keller (ROB), NSF GRFP Fellow, -present
+10. Christopher Nesler (ROB), -present (co-advised by Prof. Elliott Rouse)
+11. Thomas Kevin Best (ROB), NSF GRFP Fellow, -present (co-advised by Prof. Elliott Rouse)
+12. Ross Cortino (ROB), -present
+13. Shihao Cheng (Ph D-ROB ), Rackham Pre doctoral Fellow, Dissertation: Controlling a Powered
+Knee-Ankle Prosthesis During Continuous and Automatic Transitions Between Activities
+ Shift Robotics
+14. Emma Reznick (Ph D-ROB ), Dissertation: Understanding Individuality in Human Locomotion for
+Configuring Powered Prosthetic Legs
+ Postdoc, Hospital for Special Surgery
+15. Nikhil Divekar (Ph D-ROB ), Rackham Pre doctoral Fellow, Dissertation: Task-Invariant Control
+and Pre-clinical Validation of Partial Assist Exoskeletons
+ Postdoc, University of Michigan
+16. Jianping Lin (Ph D-ROB ), Dissertation: Optimal Task-Invariant Energetic Control for Powered
+Exoskeletons
+ Postdoc, Shanghai Jiao Tong University
+University of Texas at Dallas
+17. Jonathan Horn (Ph D-ME ), Dissertation: Non hol ono mic Virtual Constraints for Bipedal Locomotion
+ Jacobs Engineering Group
+18. Mark Yeatman (Ph D-ME ), Dissertation: Energy and Passivity Based Control for Bipeds and
+Assistive Walking Devices
+ Applied Scientist, Boston Dynamics AI Institute
+19. Kyle Embry (Ph D-ME ), Excellence in Education Fellow, Dissertation: Kinematic Modeling for
+Control of Agile Powered Prosthetic Legs over Continuously Varying Speeds and Inclines
+ Research Assistant Professor, Northwestern University and Shirley Ryan Ability Lab
+20. Saurav Kumar (Ph D-EE , co-advised by Prof. Nicholas Gans), Dissertation: Extremum Seeking
+Control for Autonomous Periodic Systems with Applications to Lower-Limb Wearable Robots
+ Research Scientist, UT Arlington Research Institute
+21. Hanqi Zhu (Ph D-EE ), Mc Dermott Graduate Fellow, Dissertation: Design of a Highly
+Back dr iv able Powered Lower Limb Orthosis for Improved Human Interaction
+ CEO Founder Enhanced Robotics
+22. Toby Elery (Ph D-ME ), Dissertation: Design and Implications of a Robotic Prosthetic Leg with Low-
+Impedance Actuation
+ Principal Mechanical Engineer, Toyota North America
+23. David Allen (Ph D-ME , co-advised by Prof. Walter Voit), Excellence in Education Fellow,
+Dissertation: Design Principles for Using Dielectric Elastomer Transducers in Actuation Systems
+ Structural Engineer, Lockheed Martin
+24. Edgar Bolivar (Ph D-ME ), Dissertation: Robust Energy-Efficient Design of Series Elastic Actuators
+ Postdoc, University of Michigan  Assistant Professor, University of Notre Dame
+25. Ge Lv (Ph D-EE ), Louis Beecherl Jr. Graduate Fellow, Dissertation: Energy Shaping Control of
+Powered Lower-Limb Exoskeletons for Assistance of Human Locomotion
+ Postdoc, Carnegie Mellon University  Assistant Professor, Clemson University
+26. David Quintero (Ph D-ME ), Excellence in Education Fellow, Dissertation: Virtual Constraint
+Control of Powered Prosthetic Legs: Unifying the Gait Cycle
+ Assistant Professor, San Francisco State University
+Robert D. Gregg – Curriculum Vitae Page 20 of 25
+27. Dario Villarreal (Ph D-BME ), Conacyt Graduate Fellow, Dissertation: Investigations of a Unified
+Phase Variable in Human Locomotion for Applications in Powered Prostheses
+ Assistant Professor, Southern Methodist University
+MS Students Supported:
+University of Michigan
+1. Robbie Frei (MS-ROB ), NSF GRFP Fellow  MIT Lincoln Labs
+University of Texas at Dallas
+2. Aaron Plauché (MS-ME ), Thesis: A Haptic Feedback System for Phase-Based Sensory Restoration in
+Above-Knee Prosthetic Leg Users  Mobile Robotics Design Engineer, Bastian Robotics
+3. Mohammad Taha Ahmad (MS-EE )  Systems Control Engineer, Rheem Manufacturing
+4. Ryan Little (MS-ME ), Thesis: Manufacturing Methods for Medium-Volume Production of Planar
+Dielectric Elastomer Actuators  Optex Systems, Inc.
+5. Emma Reznick (MS-BME ), Thesis: Individualizing a Powered Prosthetic Leg Over Continuously
+Varying Tasks  Ph D student, University of Michigan
+6. Nikhil Divekar (MS-BME )  Ph D student, University of Michigan
+Undergraduate Research Awardees:
+University of Texas at Dallas
+1. Kayla Shepodd (BS-ME), ECS Award  Mechanical Engineer, Space X
+2. Sara Borboa (BS-ME), Clark Scholar and UTD Award
+3. Maaz Mian (BS-BME), Clark Scholar
+4. Mira Jambusaria (BS-ECE), National Merit LEADER Scholar
+5. Maximillian Virani (BS-BME), National Merit LEADER Scholar
+6. Caleb Ho (BS-ME), Clark Scholar
+7. Zelig Barber (BS-BME), Clark Scholar
+8. Jack Doan (BS-ECE), UTD Award  Engineer, Rockwell Collins
+9. Rebecca Macaluso (BS-BME), and UTD Award  Analyst, Toyota North America
+10. Daniel Lambert (BS-ECE), UTD Award and Fall ECS Award
+11. Calvin Stence (BS-ME), Clark Scholar and Spring ECS Award
+12. Rafi Ayub (BS-BME), UTD Award  Ph. D. student / NSF GRFP Fellow, Stanford University
+13. Toby Elery (BS-ME), ECS Award  Ph. D. student, UT Dallas
+14. Pritam Shah (BS-ME), UTD Award
+Undergraduate Senior Design Teams:
+University of Texas at Dallas
+1. Variable Stiffness Ankle-Foot Orthosis, sponsor: UTD SERVICE Lab, -19
+2. Orthosis and Prosthesis Testing Device, sponsor: UTSW Medical Center, -18
+3. Enhanced Design of Robotic Leg, sponsor: UTD Locomotor Control Systems Lab, -18
+4. Wearable Ankle Orthosis, sponsor: Texas Instruments, -
+5. Multi-Degree-of-Freedom Ankle-Foot Orthosis, sponsor: UTSW Medical Center, -
+6. Wearable Rehabilitation Sensor, sponsor: UT SW Ri th mio st place project)
+7. Amputee Gait Hip Simulator, sponsor: UTD Locomotor Control Systems Lab, -15
+8. Cable-Driven Perturbation Mechanism, sponsor: UTSW Medical Center,
+9. Powered Trans femoral Prosthetic Leg, sponsor: UTD Locomotor Control Systems Lab,
+10. Upper Limb Prosthetic Simulator, sponsor: UTSW Medical Center,
+Robert D. Gregg – Curriculum Vitae Page 21 of 25
+TEACHING EXPERIENCE
+Instructor, University of Michigan – Present
+ROB 501: Mathematics for Robotics (Graduate) Fa19, Fa20
+ROB 599: Robot Modeling and Control (Graduate) Wn20
+ROB 510 ME CH EEC S 567: Robot Kinematics and Dynamics (Graduate) Wn21, Wn22, Wn23
+ROB 498: Robot Control (Undergraduate) Wn24
+ROB 415: Advanced Robot Control (Undergraduate) Fa24
+Instructor, University of Texas at Dallas –
+MECH 4310: Systems and Controls (Undergrad) Sp18
+BMEN 4310: Feedback Systems in Biomedical Engineering (Undergrad) Fa15, Fa17, Fa18
+BMEN 6372: Engineering Systems Modeling & Simulation (Graduate) Sp15, Sp16, Sp17
+MECH/EECS 6324: Robot Control (Graduate) Fa14, Fa16, Sp19
+MECH 2330: Dynamics (Undergrad) Fa13
+Co-Instructor, Elgersburg School on Nonlinear Control (short course) Spring
+Institut für Ma them a tik Technical University Ilmaneu, El gers burg Germany
+Graduate Teaching Assistant, Introduction to Robotics Fall
+University of Illinois, Urbana, IL
+SCHOLARLY REVIEW
+Grant Reviewer Panelist – Present
+NIH Director’s Early Independence Award Program (DP5)
+NIH Director’s New Innovator Award Program (DP2)
+NIH Mus cul o skeletal Oral, and Skin Sciences: ZRG1 MOSS-L (11) B (R41, R43, R44 awards)
+National Science Foundation
+NIH Mus cul o skeletal Rehabilitation Sciences (MRS) Study Section (R01 and R21 awards)
+National Science Foundation
+NIH Mus cul o skeletal Rehabilitation Sciences (MRS) Study Section (R01 and R21 awards)
+NIH Mus cul o skeletal Oral, and Skin Sciences: ZRG1 MOSS-V50R (R01 awards)
+NIH Mus cul o skeletal Oral, and Skin Sciences: ZRG1 MOSS-D82 (R15 awards)
+National Science Foundation
+National Science Foundation
+NIH NICHD: ZHD1 DSR-K (12) 1 (SBIR R43/R44 awards)
+NIH NIBIB: ZEB1 OSR-F (M2) S (K awards)
+National Science Foundation
+Scientific Program Committee Member, IEEE/RSJ Int Conf on Intelligent Robots & Systems
+Senior Editor, IROS Conference Paper Review Board –
+Program Committee Member, IEEE Conf on Decision and Control
+Associate Editor, IEEE Transactions on Robotics –
+Robert D. Gregg – Curriculum Vitae Page 22 of 25
+Conference Editorial Board Member, IEEE Control Systems Society –
+Associate Editor (Conferences) –
+IEEE/ASME American Control Conf (-18), IEEE Conf Control Tech & Applications (), IEEE Conf
+Decision & Control (-18), IEEE Int Conf Robotics & Automation (-19), IEEE Int Conf Intelligent
+Robots & Systems (, ), ASME Dyn Sys Control Conf (-15)
+Journal Reviewer – Present
+Annals Biomed Eng, ASME J Applied Mechanics Reviews, ASME J Biomech Eng, ASME J Dyn Sys Meas Control,
+ASME J Mech Design, ASME J Med Devices, Automatic a Frontiers in Neuro robotics Frontiers in Neuroscience,
+IEEE/ASME Trans Mechatronics, IEEE Access, IEEE Control Systems Mag, IEEE Robotics Automation Mag, IEEE
+Trans Automat Control, IEEE Trans Autom Sci & Eng, IEEE Trans Biomed Eng, IEEE Trans Control Sys Tech,
+IEEE Trans Medical Robotics & Bionics, IEEE Trans Robotics, IEEE Trans Neural Sys Rehab Eng, Int J Robotics
+Res, J Biomech, J Intelligent Service Robotics, J Neuro Eng Rehab, Mechatronics, Opt Control App Meth, Physica
+D: Nonlinear Phenom, PLo S ONE, Proceedings of the National Academy of Sciences, Robotica, Science Robotics
+Conference Reviewer – Present
+Amer Control Conf, ASME Dyn Sys & Control Conf, IEEE Conf Aut Sci & Eng, IEEE Int Conf Biomed Rob &
+Biome chat ron IEEE Conf Control Tech & App, IEEE Conf Decision & Control, IEEE Conf Robotics Biomimetic s
+IEEE Int Conf Eng Med Bio Soc, IEEE Int Conf Humanoid Rob, IEEE Int Conf Intelli Rob & Sys, IEEE Int Conf
+Rehab Rob, IEEE Int Conf Rob & Aut, IEEE Multiconf Sys & Control, IFAC World Congress, Robotics: Sci & Sys
+SCHOLARLY SERVICE
+Program Chair, IEEE/RSJ Int Conf on Intelligent Robots & Systems, Detroit, MI
+Workshops Chair, IEEE Conference on Control Technology & Applications, Hawaii
+Workshop Organizer/Chair/Co-Chair
+1. State of the Art in Lower-Limb Exoskeletons: Exploring Specificity vs. General iz ability Across Users
+and Activities, IEEE Int. Conf. Robotics and Automation (ICRA),
+2. State of the Art in Robotic Leg Prostheses: Where We Are and Where We Want to Be, IEEE Int.
+Conf. Intelligent Robots and Systems (IROS),
+3. State of the Art in Robotic Leg Prostheses: Where We Are and Where We Want to Be, IEEE Int.
+Conf. Intelligent Robots and Systems (IROS),
+4. Workshop on Extremum Seeking Control in Biomedical Applications, American Control Conf.,
+5. Texas Bio-Robotics Workshop, ASME Dynamic Systems & Control Conf.,
+6. Symposium on Control and Modeling of Biomedical Systems, University of Illinois, Urbana, IL,
+Invited Session Organizer/Chair/Co-Chair
+1. Invited Session on Control Theory in Legged Locomotion, American Control Conf,
+2. Invited Session on Robotic Locomotion Control, IEEE Conf Control Tech App,
+3. Invited Session on Control Theory in Legged Locomotion, American Control Conf,
+4. Invited Session on Rehabilitation Robots, ASME Dyn Sys Control Conf, –
+5. Invited Session on Control Theory in Medical Rehabilitation, American Control Conf,
+Meeting Participant
+1. National Robotics Initiative Principal Investigator Meeting, Washington, DC, -
+Robert D. Gregg – Curriculum Vitae Page 23 of 25
+2. National Academy of Engineering Workshop on Future of Center-Based, Multidisciplinary
+Engineering Research, Washington, DC, April
+3. CCC Workshop on the U. S. National Robotics Roadmap, San Francisco, CA, March
+4. U. S. Special Operations Command Exoskeleton Control Theory Sprint, Tampa, FL,
+Co-Chair, Technical Committee Manufacturing Automation & Robotic Control –
+IEEE Control Systems Society
+UNIVERSITY SERVICE
+Advisory Board Member, Center for Research on Learning and Teaching in Eng. –
+Graduate Chair, Robotics Institute, University of Michigan –
+Graduate Co-Chair, Robotics Institute, University of Michigan –
+Committee Member, University of Michigan, Ann Arbor, MI – Present
+College: Nominating Committee (-present)
+Robotics: Graduate Academics (-22), Executive Committee (-present, -22), Search (),
+Undergraduate Committee (-present)
+Electrical & Computer Engineering: Graduate Academics (-20), Ph D Admissions Recruiting (-20)
+Committee Member, University of Texas at Dallas, Richardson, TX –
+Bioengineering: Faculty Search (-15), Graduate Recruiting (-17), Seminars (-18)
+Mechanical Engineering: Faculty Search (-18), Graduate (-14), DSC Area (-19)
+School of ECS: Executive Council (-19)
+University: ECS Dean Search (-19), Core Facilities ()
+Graduate Representative, Academic Senate Executive Committee –
+University of Illinois, Urbana, IL
+INDUSTRY EXPERIENCE
+Intern, The Boeing Company (Phantom Works) Summer
+Intern, SANYO Technology Center, San Jose, CA Summer
+Intern, Hewlett-Packard Outer Bay Technologies, Cupertino, CA Summer
+TRAINING AND CERTIFICATIONS
+• Certificate Series in Research Administration, University of Texas at Dallas,
+• NIH Responsible Conduct of Research (RCR) Training, Northwestern University,
+PROFESSIONAL MEMBERSHIPS
+• Senior Member, Institute of Electrical & Electronics Engineers (IEEE)
+o Robotics & Automation Society
+o Control Systems Society
+Robert D. Gregg – Curriculum Vitae Page 24 of 25
+o Engineering in Medicine & Biology Society
+Robert D. Gregg – Curriculum Vitae Page 25 of 25

@@ -1,254 +1,254 @@
-4/21/25, am nir bitansky - homepage
-nir bitansky - homepage
-i'm on leave, and have moved to nyu, my updated webpage is here.
-i'm a faculty member at tel aviv university's school of computer science. i'm interested in the theory of
+4/21/25, AM - Homepage
+- Homepage
+I'm on leave, and have moved to NYU, my updated webpage is here.
+I'm a faculty member at Tel Aviv University's School of Computer Science. I'm interested in the theory of
 computation at large, and the theory of cryptography in particular.
-before joining tau i was a postdoctoral researcher at mit csail hosted by vinod vaikuntanathan. i completed
-my ph.d. at tel aviv university where i was advised by ran canetti.
-contact
-email: nirbitan at tau dot ac dot il
-office: check point building 344
-https://sites.google.com/site/nirbitansky/ 1/13
-4/21/25, am nir bitansky - homepage
-https://sites.google.com/site/nirbitansky/ 2/13
-4/21/25, am nir bitansky - homepage
-students and postdocs
-publications
-some videotaped talks
-program committees
-graduate teaching
-undergraduate teaching
-students and postdocs
-ph.d.
-sapir freizeit
-nathan geier
-omri shmueli (co-advised with zvika brakerski)
-m.sc.
-dana shamir (co-advised with omer paneth)
-tomer solomon (graduated )
-noa eizenstadt (graduated )
-omri shmueli (graduated )
-nathan geier (graduated )
-michael kelner (graduated )
-idan gerichter (graduated )
-sapir freizeit (graduated )
-postdoc
-chethan kamath (co-hosted with omer paneth, now assistant professor at iit bombay)
-eylon yogev (co-hosted with omer paneth, now assistant professor at bar-ilan university)
-publications
-batch proofs are statistically hiding
-with chethan kamath, omer paneth, ron rothblum, and prashant vasudevan
-stoc pdf
-non-interactive universal arguments
-with omer paneth, dana shamir, and tomer solomon
-https://sites.google.com/site/nirbitansky/ 3/13
-4/21/25, am nir bitansky - homepage
-crypto pdf
-bootstrapping homomorphic encryption via functional encryption
-with tomer solomon
-itcs pdf
-ppad is as hard as lwe and iterated squaring
-with arka rai choudhuri, justin homgren, chethan kamath, alex lombardi, omer paneth, and ron d.
-rothblum
-tcc pdf
-constructive post-quantum reductions
-with zvika brakerski and yael tauman kalai
-crypto , qcrypt pdf
-statistically sender private ot from lpn and derandomization
-with sapir freizeit
-crypto pdf
-non-malleable commitments against quantum attacks
-with huijia lin and omri shmueli
-eurocrypt, qcrypt pdf
-classical binding for quantum commitments
-with zvika brakerski
-tcc pdf
-post-quantum resettably-sound zero knowledge
-with michael kelner and omri shmueli
-tcc , qcrypt pdf
-https://sites.google.com/site/nirbitansky/ 4/13
-4/21/25, am nir bitansky - homepage
-characterizing deterministic prover zero knowledge
-with arka rai choudhuri
-tcc pdf
-weakly extractable one way functions
-with noa eizenstadt and omer paneth
-tcc pdf
-post-quantum zero knowledge in constant rounds
-with omri shmueli
-stoc , qcrypt , qip pdf
-on the cryptographic hardness of local search
-with idan gerichter
-itcs pdf
-on oblivious amplification of coin-tossing protocols
-with nathan geier
-itcs pdf
-on the complexity of collision resistant hash functions: new and old black-box separations
-with akshay degwekar
-tcc pdf
-on round-optimal statistical zero-knowledge arguments
-with omer paneth
-crypto pdf
-weak zero-knowledge beyond the black-box barrier
-with dakshita khurana and omer paneth
-https://sites.google.com/site/nirbitansky/ 5/13
-4/21/25, am nir bitansky - homepage
-stoc , siam journal on computing pdf
-distributional collision resistance beyond one-way functions
-with iftach haitner, ilan komargodski, and eylon yogev
-eurocrypt pdf
-one-message zero knowledge and non-malleable commitments
-with huijia lin
-tcc pdf
-multi-collision resistance: a paradigm for keyless hash functions
-with yael tauman kalai, and omer paneth
-stoc pdf
-verifiable random functions from non-interactive witness-indistinguishable proofs
-tcc , journal of cryptology pdf
-structure vs hardness through the obfuscation lens
-with akshay degwekar and vinod vaikuntanathan
-crypto , siam journal on computing draft
-on removing graded encodings from functional encryption
-with huijia lin and omer paneth
-eurocrypt pdf
-a note on perfect correctness by derandomization
-with vinod vaikuntanathan
-eurocrypt , journal of cryptology pdf
-https://sites.google.com/site/nirbitansky/ 6/13
-4/21/25, am nir bitansky - homepage
-from cryptomania to obfustopia through secret-key functional encryption
-with ryo nishimaki, alain passelègue, and daniel wichs
-tcc 2016b, journal of cryptology pdf
-3-message zero knowledge against human ignorance
-with zvika brakerski, yael tauman kalai, omer paneth, and vinod vaikuntanathan
-tcc 2016b pdf
-time-lock puzzles from randomized encodings
-with shafi goldwasser, abhishek jain, omer paneth, vinod vaikuntanathan, and brent waters
-itcs pdf
-indistinguishability obfuscation: from approximate to exact
-with vinod vaikuntanathan
-tcc 2016a pdf
-perfect structure on the edge of chaos
-with omer paneth and daniel wichs
-tcc 2016a pdf
-indistinguishability obfuscation from functional encryption
-with vinod vaikuntanathan
-focs , journal of the acm pdf
-on the cryptographic hardness of finding a nash equilibrium
-with omer paneth and alon rosen
-focs2015 pdf
-https://sites.google.com/site/nirbitansky/ 7/13
-4/21/25, am nir bitansky - homepage
-focs pdf
-succinct randomized encodings and their applications
-with sanjam garg, huijia lin, rafael pass, and sidharth telang
-stoc pdf, siam journal on computing (merged with canetti, holmgren, jain, and
-vaikuntanathan)
-merge of [bgt] and [lp]
-zaps and non-interactive witness-indistinguishability from indistinguishability obfuscation
-with omer paneth
-tcc pdf
-on virtual grey box obfuscation for general circuits
-with ran canetti, yael tauman kalai, and omer paneth
-crypto , algorithmica draft
-the impossibility of obfuscation with auxiliary input or a universal simulator
-with ran canetti, henry cohn, shafi goldwasser, yael tauman kalai, omer paneth, and alon rosen
-crypto pdf
-merge of [bcpr] and [cgk]
-leakage-tolerant computation with input-independent preprocessing
-with dana dachman-soled and huijia lin,
-crypto pdf
-on the existence of extractable one-way functions
-with ran canetti, omer paneth, and alon rosen
-stoc , siam journal on computing draft
-https://sites.google.com/site/nirbitansky/ 8/13
-4/21/25, am nir bitansky - homepage
-merge of [bcp] and [bcpr]
-obfuscation for evasive functions
-with boaz barak, ran canetti, yael tauman kalai, omer paneth, and amit sahai
-tcc pdf
-why "fiat-shamir for proofs" lacks a proof
-with dana dachman-soled, sanjam garg, abhishek jain, yael tauman kalai, adriana lopez-alt, and daniel
-wichs
-tcc
-merge of [bgw] and [djkl]
-succinct non-interactive arguments via linear interactive proofs
-with alessandro chiesa, yuval ishai, rafail ostrovsky, omer paneth
-tcc , journal of cryptology pdf
-recursive composition and bootstrapping for snarks and proof-carrying data
-with ran canetti, alessandro chiesa, eran tromer
-stoc pdf
-on the impossibility of approximate obfuscation and applications to resettable cryptography
-with omer paneth
-stoc (subsumed by siam journal on computing draft)
-from the impossibility of obfuscation to a new non-black-box simulation technique
-with omer paneth
-focs , siam journal on computing draft
-https://sites.google.com/site/nirbitansky/ 9/13
-4/21/25, am nir bitansky - homepage
-succinct arguments from multi-prover interactive proofs and their efficiency benefits
-with alessandro chiesa
-crypto pdf
-leakage-tolerant interactive protocols
-with ran canetti and shai halevi
-tcc pdf
-point obfuscation and 3-message zero knowledge
-with omer paneth
-tcc pdf
-the hunting of the snark
-with ran canetti, alessandro chiesa, shafi goldwasser, huijia lin, aviad rubinstein, eran tromer
-journal of cryptology pdf
-preliminary version: from extractable collision resistance to succinct non-interactive arguments of
-knowledge, and back again
-with ran canetti, alessandro chiesa, eran tromer
-itcs
-program obfuscation with leaky hardware
-with ran canetti, shafi goldwasser, shai halevi, yael tauman kalai, guy n. rothblum
-asiacrypt pdf
-on strong simulation and composable point obfuscation
-with ran canetti
+Before joining TAU I was a postdoctoral researcher at MIT CSAIL hosted by Vinod Vaikuntanathan. I completed
+my Ph. D. at Tel Aviv University where I was advised by Ran Canetti.
+Contact
+Email: nirbitan at tau dot ac dot il
+Office: Check Point Building 344
+1/13
+4/21/25, AM Nir Bitansky - Homepage
+2/13
+4/21/25, AM Nir Bitansky - Homepage
+Students and Postdocs
+Publications
+Some Videotaped Talks
+Program Committees
+Graduate Teaching
+Undergraduate Teaching
+Students and Postdocs
+Ph. D.
+Sapir Freizeit
+Nathan Geier
+Omri Shmueli (co-advised with Zvika Brakerski)
+M. Sc.
+Dana Shamir (co-advised with Omer Paneth)
+Tomer Solomon (graduated )
+Noa Eizenstadt (graduated )
+Omri Shmueli (graduated )
+Nathan Geier (graduated )
+Michael Kelner (graduated )
+Idan Gerichter (graduated )
+Sapir Freizeit (graduated )
+Postdoc
+Chethan Kamath (co-hosted with Omer Paneth, now Assistant Professor at IIT Bombay)
+Eylon Yogev (co-hosted with Omer Paneth, now Assistant Professor at Bar-Ilan University)
+Publications
+Batch Proofs are Statistically Hiding
+with Chethan Kamath, Omer Paneth, Ron Rothblum, and Prashant Vasudevan
+STOC PDF
+Non-Interactive Universal Arguments
+with Omer Paneth, Dana Shamir, and Tomer Solomon
+3/13
+4/21/25, AM Nir Bitansky - Homepage
+CRYPTO PDF
+Boots trapping Homo m orphic Encryption via Functional Encryption
+with Tomer Solomon
+ITCS PDF
+PPAD is as Hard as LWE and Iterated Squaring
+with Arka Rai Choudhuri, Justin Homgren, Chethan Kamath, Alex Lombardi, Omer Paneth, and Ron D.
+Rothblum
+TCC PDF
+Constructive Post-quantum Reductions
+with Zvika Brakerski and Yael Tauman Kalai
+CRYPTO , QCRYPT PDF
+Statistically Sender Private OT from LPN and De random iz ation
+with Sapir Freizeit
+CRYPTO PDF
+Non-malleable Commitments Against Quantum Attacks
+with Huijia Lin and Omri Shmueli
+EUROCRYPT, QCRYPT PDF
+Classical Binding for Quantum Commitments
+with Zvika Brakerski
+TCC PDF
+Post-quantum Resettably-Sound Zero Knowledge
+with Michael Kelner and Omri Shmueli
+TCC , QCRYPT PDF
+4/13
+4/21/25, AM Nir Bitansky - Homepage
+Characterizing Deterministic Prover Zero Knowledge
+with Arka Rai Choudhuri
+TCC PDF
+Weakly Extract able One Way Functions
+with Noa Eizenstadt and Omer Paneth
+TCC PDF
+Post-quantum Zero Knowledge in Constant Rounds
+with Omri Shmueli
+STOC , QCRYPT , QIP PDF
+On the Cryptographic Hardness of Local Search
+with Idan Gerichter
+ITCS PDF
+On Oblivious Amplification of Coin-Tossing Protocols
+with Nathan Geier
+ITCS PDF
+On the Complexity of Collision Resistant Hash Functions: New and Old Black-Box Separations
+with Akshay Degwekar
+TCC PDF
+On Round-Optimal Statistical Zero-Knowledge Arguments
+with Omer Paneth
+CRYPTO PDF
+Weak Zero-Knowledge Beyond the Black-Box Barrier
+with Dakshita Khurana and Omer Paneth
+5/13
+4/21/25, AM Nir Bitansky - Homepage
+STOC , Siam Journal on Computing PDF
+Distribution al Collision Resistance Beyond One-Way Functions
+with Iftach Haitner, Ilan K omar god ski and Eylon Yogev
+EUROCRYPT PDF
+One-Message Zero Knowledge and Non-Malleable Commitments
+with Huijia Lin
+TCC PDF
+Multi-Collision Resistance: A Paradigm for Keyless Hash Functions
+with Yael Tauman Kalai, and Omer Paneth
+STOC PDF
+Verifiable Random Functions from Non-Interactive Witness-Indistinguishable Proofs
+TCC , Journal of Cryptology PDF
+Structure vs Hardness through the Obfuscation Lens
+with Akshay Degwekar and Vinod Vai kun tana than
+CRYPTO , Siam Journal on Computing Draft
+On Removing Graded Encodings from Functional Encryption
+with Huijia Lin and Omer Paneth
+EUROCRYPT PDF
+A Note on Perfect Correctness by De random iz ation
+with Vinod Vai kun tana than
+EUROCRYPT , Journal of Cryptology PDF
+6/13
+4/21/25, AM Nir Bitansky - Homepage
+From Crypto mania to Obfustopia through Secret-Key Functional Encryption
+with Ryo Nishimaki, Alain Passel gue and Daniel Wichs
+TCC 2016B, Journal of Cryptology PDF
+3-Message Zero Knowledge against Human Ignorance
+with Zvika Brakerski, Yael Tauman Kalai, Omer Paneth, and Vinod Vai kun tana than
+TCC 2016B PDF
+Time-Lock Puzzles from Randomized Encodings
+with Shafi Goldwasser, Abhishek Jain, Omer Paneth, Vinod Vai kun tana than and Brent Waters
+ITCS PDF
+In distinguish ability Obfuscation: from Approximate to Exact
+with Vinod Vai kun tana than
+TCC 2016A PDF
+Perfect Structure on the Edge of Chaos
+with Omer Paneth and Daniel Wichs
+TCC 2016A PDF
+In distinguish ability Obfuscation from Functional Encryption
+with Vinod Vai kun tana than
+FOCS , Journal of the ACM PDF
+On the Cryptographic Hardness of Finding a Nash Equilibrium
+with Omer Paneth and Alon Rosen
+FOCS2015 PDF
+7/13
+4/21/25, AM Nir Bitansky - Homepage
+FOCS PDF
+Succinct Randomized Encodings and their Applications
+with Sanjam Garg, Huijia Lin, Rafael Pass, and Sidharth Telang
+STOC PDF, Siam Journal on Computing (merged with Canetti, Holmgren, Jain, and
+Vai kun tana than
+Merge of [BGT] and [LP]
+ZAPs and Non-Interactive Witness-Indistinguishability from In distinguish ability Obfuscation
+with Omer Paneth
+TCC PDF
+On Virtual Grey Box Obfuscation for General Circuits
+with Ran Canetti, Yael Tauman Kalai, and Omer Paneth
+CRYPTO , Algorithmic a Draft
+The Impossibility of Obfuscation with Auxiliary Input or a Universal Simulator
+with Ran Canetti, Henry Cohn, Shafi Goldwasser, Yael Tauman Kalai, Omer Paneth, and Alon Rosen
+CRYPTO PDF
+Merge of [BCPR] and [CGK]
+Leakage-Tolerant Computation with Input-Independent Preprocessing
+with Dana Dachman-Soled and Huijia Lin,
+CRYPTO PDF
+On the Existence of Extract able One-Way Functions
+with Ran Canetti, Omer Paneth, and Alon Rosen
+STOC , Siam Journal on Computing Draft
+8/13
+4/21/25, AM Nir Bitansky - Homepage
+Merge of [BCP] and [BCPR]
+Obfuscation for Evasive Functions
+with Boaz Barak, Ran Canetti, Yael Tauman Kalai, Omer Paneth, and Amit Sahai
+TCC PDF
+Why "Fiat-Shamir for Proofs" Lacks a Proof
+with Dana Dachman-Soled, Sanjam Garg, Abhishek Jain, Yael Tauman Kalai, Adriana Lopez-Alt, and Daniel
+Wichs
+TCC
+Merge of [BGW] and [DJKL]
+Succinct Non-Interactive Arguments via Linear Interactive Proofs
+with Alessandro Chiesa, Yuval Ishai, Rafail Ostrovsky, Omer Paneth
+TCC , Journal of Cryptology PDF
+Recursive Composition and Boots trapping for SNARKs and Proof-Carrying Data
+with Ran Canetti, Alessandro Chiesa, Eran Tromer
+STOC PDF
+On the Impossibility of Approximate Obfuscation and Applications to Resettable Cryptography
+with Omer Paneth
+STOC (subsumed by Siam Journal on Computing Draft)
+From the Impossibility of Obfuscation to a New Non-Black-Box Simulation Technique
+with Omer Paneth
+FOCS , Siam Journal on Computing Draft
+9/13
+4/21/25, AM Nir Bitansky - Homepage
+Succinct Arguments from Multi-Prover Interactive Proofs and their Efficiency Benefits
+with Alessandro Chiesa
+CRYPTO PDF
+Leakage-Tolerant Interactive Protocols
+with Ran Canetti and Shai Halevi
+TCC PDF
+Point Obfuscation and 3-Message Zero Knowledge
+with Omer Paneth
+TCC PDF
+The Hunting of the SNARK
+with Ran Canetti, Alessandro Chiesa, Shafi Goldwasser, Huijia Lin, Aviad Rubinstein, Eran Tromer
+Journal of Cryptology PDF
+Preliminary version: From Extract able Collision Resistance to Succinct Non-Interactive Arguments of
+Knowledge, and Back Again
+with Ran Canetti, Alessandro Chiesa, Eran Tromer
+ITCS
+Program Obfuscation with Leaky Hardware
+with Ran Canetti, Shafi Goldwasser, Shai Halevi, Yael Tauman Kalai, Guy N. Rothblum
+ASIACRYPT PDF
+On Strong Simulation and Composable Point Obfuscation
+with Ran Canetti
 l f l
-https://sites.google.com/site/nirbitansky/ 10/13
-4/21/25, am nir bitansky - homepage
-crypto , journal of cryptology pdf
-thesis
-getting inside the adversary's head: new directions in non-black-box knowledge extraction
-tel aviv university pdf
-https://sites.google.com/site/nirbitansky/ 11/13
-4/21/25, am nir bitansky - homepage
-some videotaped talks
-constructive post-quantum reductions (crypto '22)
-classical binding for quantum commitments (tcc '21)
-on the cryptographic hardness of local search (itcs '20)
-on round-optimal statistical zero-knowledge arguments (crypto '19)
-our current knowledge of knowledge assumptions (dimacs workshop on cryptographic assumptions '17)
-on removing graded encodings from functional encryption (eurocrypt '17)
-a note on perfect correctness by derandomization (eurocrypt '17)
-a reduction from flying pigs to jumping pigs (ias, march '17)
-on the cryptographic hardness of finding a nash equilibrium (ias, march '17, shorter version at focs '15)
-program obfuscation: the power of unreadable code (uw colloquium, april '16)
-indistinguishability obfuscation from functional encryption (focs '15)
-time-lock puzzles from randomized encodings (simons institute, july '15)
-on virtual grey box obfuscation for general circuits (crypto '14)
-leakage-tolerant computation with input-independent preprocessing (crypto '14)
-program committees
-crypto (area chair) ,
-eurocrypt , , ,
-foundations of computer science (focs) ,
-innovations in theoretical computer science (itcs) ,
-public key cryptography (pkc)
-theory of cryptography conference (tcc) , , , 2016a,
-https://sites.google.com/site/nirbitansky/ 12/13
-4/21/25, am nir bitansky - homepage
-graduate teaching
-foundations of cryptography fall , fall , fall , fall
-foundations of cryptography: advanced topics spring , spring
-lattices fall , fall
-seminar on cryptographic protocols fall
-seminar on encrypted computation spring
-seminar on zero-knowledge proofs spring
-seminar on advanced topics in crypto spring
-undergraduate teaching
-the theory behind blockchains spring
-computational models spring -
-https://sites.google.com/site/nirbitansky/ 13/13
+10/13
+4/21/25, AM Nir Bitansky - Homepage
+CRYPTO , Journal of Cryptology PDF
+Thesis
+Getting Inside the Adversary's Head: New Directions in Non-Black-Box Knowledge Extraction
+Tel Aviv University PDF
+11/13
+4/21/25, AM Nir Bitansky - Homepage
+Some Videotaped Talks
+Constructive Post-quantum Reductions (Crypto '22)
+Classical Binding for Quantum Commitments (TCC '21)
+On the Cryptographic Hardness of Local Search (ITCS '20)
+On Round-Optimal Statistical Zero-Knowledge Arguments (Crypto '19)
+Our Current Knowledge of Knowledge Assumptions (Dimacs workshop on cryptographic assumptions '17)
+On Removing Graded Encodings from Functional Encryption (Eurocrypt '17)
+A Note on Perfect Correctness by De random iz ation (Eurocrypt '17)
+A Reduction from Flying Pigs to Jumping Pigs (IAS, March '17)
+On the Cryptographic Hardness of Finding a Nash Equilibrium (IAS, March '17, shorter version at FOCS '15)
+Program Obfuscation: The Power of Unreadable Code (UW Colloquium, April '16)
+In distinguish ability Obfuscation from Functional Encryption (FOCS '15)
+Time-Lock Puzzles from Randomized Encodings (Simons Institute, July '15)
+On Virtual Grey Box Obfuscation for General Circuits (Crypto '14)
+Leakage-Tolerant Computation with Input-Independent Preprocessing (Crypto '14)
+Program Committees
+Crypto (Area Chair) ,
+Eurocrypt , , ,
+Foundations of Computer Science (FOCS) ,
+Innovations in Theoretical Computer Science (ITCS) ,
+Public Key Cryptography (PKC)
+Theory of Cryptography Conference (TCC) , , , 2016A,
+12/13
+4/21/25, AM Nir Bitansky - Homepage
+Graduate Teaching
+Foundations of Cryptography Fall , Fall , Fall , Fall
+Foundations of Cryptography: Advanced Topics Spring , Spring
+Lattices Fall , Fall
+Seminar on Cryptographic Protocols Fall
+Seminar on Encrypted Computation Spring
+Seminar on Zero-Knowledge Proofs Spring
+Seminar on Advanced Topics in Crypto Spring
+Undergraduate Teaching
+The Theory Behind Block chains Spring
+Computational Models Spring -
+13/13

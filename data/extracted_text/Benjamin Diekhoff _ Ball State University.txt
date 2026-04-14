@@ -1,77 +1,76 @@
-benjamin diekhoff | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-department of computer science
+| University
+Department of
 (https://
-www.bsu.edu/academics/collegesanddepartments/computer-science)
-home > academics > colleges and departments > computer science > about us > faculty and staff
-> faculty > benjamin diekhoff
-benjamin diekhoff
-assistant lecturer of computer science
-phone:
-email:
-view email address
-add contact to outlook
-room:
-rb 442
+Home > Academics > Colleges and Departments > Computer Science > About Us > Faculty and Staff
+> Faculty > Benjamin Diekhoff
+Benjamin Diekhoff
+Assistant Lecturer of Computer Science
+Phone:
+Email:
+View Email Address
+Add Contact to Outlook
+Room:
+RB 442
 1 of 3 4/21/25,
-benjamin diekhoff | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-ben diekhoff graduated from midwestern state university texas with his master’s degree in computer science. he has
-taught computer science at msu texas and anderson university. his interests include ai, programming, cybersecurity, and
-computer science education. his hobbies include travelling and growing/processing hot peppers.
-course schedule
-course no. section times days location
-comp sci 2: data str - r rb, room
+Benjamin Diekhoff | Ball State University
+Ben Diekhoff graduated from Midwestern State University Texas with his master’s degree in computer science. He has
+taught computer science at MSU Texas and Anderson University. His interests include AI, programming, cyber security and
+computer science education. His hobbies include travelling and growing processing hot peppers.
+COURSE SCHEDULE
+Course No. Section Times Days Location
+Comp Sci 2: Data Str - R RB, room
 (https://
 0915 355
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-comp sci 2: data str - m w rb, room
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Comp Sci 2: Data Str - M W RB, room
 (https://
-0850 f 353
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-comp sci 2: data str - r rb, room
+0850 F 353
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Comp Sci 2: Data Str - R RB, room
 (https://
 1045 355
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-comp sci 2: data str - m w rb, room
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Comp Sci 2: Data Str - M W RB, room
 (https://
-0950 f 353
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-discrete structures - m w rb, room
-(https://banner.bsu.edu/
-1250 f 106
-ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=124)
-comp sci 2: data str - r rb, room
+0950 F 353
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Discrete Structures - M W RB, room
+/
+1250 F 106
+ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 124
+Comp Sci 2: Data Str - R RB, room
 (https://
 1345 355
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-comp sci 2: data str - m w rb, room
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Comp Sci 2: Data Str - M W RB, room
 (https://
-1250 f 355
-banner.bsu.edu/ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=121)
-discrete struct & al 602 c01 0000 - ol, room
-(https://banner.bsu.edu/
-0000 online
-ssbprod/bwckctlg.p_disp_course_detail?
-cat_term_in=202420&subj_code_in=cs&crse_numb_in=602)
+1250 F 355
+/ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 121
+Discrete Struct & Al 602 C01 0000 - OL, room
+/
+0000 ONLINE
+ssbprod/bwckctlg. p disp course detail
+cat term in 202420 sub j code in cs crs e numb in 602
 2 of 3 4/21/25,
-benjamin diekhoff | ball state university https://www.bsu.edu/academics/collegesanddepartments/computer-scien...
-department of computer science
+Benjamin Diekhoff | Ball State University
+Department of Computer Science
 
-robert bell building (rb), room 455
-ball state university
-muncie, in 47306
+Robert Bell Building (RB), Room 455
+Ball State University
+Muncie, IN 47306
 
 📠
-(https://www.bsu.edu/)
-ball state university w. university ave. muncie, in and
-copyright © ball state university
-equal opportunity policy (https://www.bsu.edu/about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
-legal information (https://www.bsu.edu/about/administrativeoffices/general-counsel)
-tty numbers (https://www.bsu.edu/about/administrativeoffices/disability-services/about/contact) sitemap (https://www.bsu.edu/sitemap)
+/)
+Ball State University W. University Ave. Muncie, IN and
+Copyright © Ball State University
+Equal Opportunity Policy /about/administrativeoffices/employee-relations/policies-and-legal-information/equal-opportunity-policy)
+Legal Information /about/administrativeoffices/general-counsel)
+TTY Numbers /about/administrativeoffices/disability-services/about/contact) Sitemap /sitemap)
 3 of 3 4/21/25,

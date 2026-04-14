@@ -1,1134 +1,1133 @@
-petros drineas
-computer science department 305 n. university street
-purdue university west lafayette in 47907
-google drineas usa
-education yale university, new haven ct
-ph.d. in computer science (advisor: ravi kannan), may .
-yale university, new haven ct
-m.phil. in computer science, may .
-yale university, new haven ct
-m.sc. in computer science, may .
-university of patras, greece
-bs and m.sc. in computer engineering, (advisor: athanasios tsakalidis), jun .
-appoint- associate head, department of computer science
-ments purdue university, jun - now
-associate director, health data science pillar
-regenstrief center for healthcare engineering (rche), jun - now
-professor
-purdue university, aug - now
-associate professor
-purdue university, aug - jul
-associate professor
-rensselaer polytechnic institute, jan - jun
-adjunct faculty
-department of mathematics, north carolina state university, nov - now
-long-term visitor
-simons institute for the theory of computing, university of california, berkeley,fall2013
-program director
-national science foundation,information and intelligent systems (iis) division andcom-
-puting and communication foundations (ccf) division, oct - nov
-assistant professor
-rensselaer polytechnic institute, jan - dec
-visiting assistant professor
-institute of pure & applied mathematics, university of california, los angeles, sep -
-dec
-visiting research scientist
-yahoo! research, jul - sep
-visiting assistant professor
-sandia national laboratories, aug - dec
-visiting researcher
-microsoft research silicon valley, jul
-summer intern
-verity inc., silicon valley ca, may - aug
-research assistant
-yale university, sep - dec
-teaching assistant
-yale university, sep - dec
-research theory: randomized numerical linear algebra (randnla).
-interests
-applications: big data, with a particular focus on population genetics data.
-honors ibm academic award, .
-tensor sparsification via a bound on the spectral norm of random tensors, which appeared
-in the information and inference: a journal of the ima in , was a runner up for the
+Department 305 N.
+Purdue University West Lafayette IN 47907
+Google drineas USA
+Education Yale University, New Haven CT
+Ph. D. in Computer Science (advisor: Ravi Kannan), May .
+Yale University, New Haven CT
+M. Phil. in Computer Science, May .
+Yale University, New Haven CT
+M. Sc. in Computer Science, May .
+University of Patras, Greece
+BS and M. Sc. in Computer Engineering, (advisor: Athanasios T saka lid is Jun .
+Appoint- Associate Head, Department of Computer Science
+ments Purdue University, Jun - now
+Associate Director, Health Data Science Pillar
+Regen st rie f Center for Healthcare Engineering (RCHE), Jun - now
+Professor
+Purdue University, Aug - now
+Associate Professor
+Purdue University, Aug - Jul
+Associate Professor
+Rensselaer Polytechnic Institute, Jan - Jun
+Adjunct Faculty
+Department of Mathematics, North Carolina State University, Nov - now
+Long-term visitor
+Simons Institute for the Theory of Computing, University of California, Berkeley, Fall2013
+Program Director
+National Science Foundation, Information and Intelligent Systems (IIS) Division and Com-
+puting and Communication Foundations (CCF) Division, Oct - Nov
+Assistant Professor
+Rensselaer Polytechnic Institute, Jan - Dec
+Visiting Assistant Professor
+Institute of Pure & Applied Mathematics, University of California, Los Angeles, Sep -
+Dec
+Visiting Research Scientist
+Yahoo! Research, Jul - Sep
+Visiting Assistant Professor
+Sandia National Laboratories, Aug - Dec
+Visiting Researcher
+Microsoft Research Silicon Valley, Jul
+Summer Intern
+Verity Inc., Silicon Valley CA, May - Aug
+Research Assistant
+Yale University, Sep - Dec
+Teaching Assistant
+Yale University, Sep - Dec
+Research Theory: Randomized Numerical Linear Algebra (Rand NLA).
+Interests
+Applications: Big Data, with a particular focus on population genetics data.
+Honors IBM Academic Award, .
+Tensor spars if i cation via a bound on the spectral norm of random tensors, which appeared
+in the Information and Inference: A Journal of the IMA in , was a runner up for the
 journal’s best paper prize for articles published since .
-near-optimal column-based matrix reconstruction, which appeared in the 52nd ieee
-symposium on foundations of computer science (focs), was invited to the special is-
-sue of the siam journal on computing for the top papers from focs .
-european molecular biology organization (embo) fellowship, .
-best paper award, mobiopp .
-senior member, association for computing machinery, .
-european molecular biology organization (embo) fellowship, .
-mentoring excellence award, rensselaer polytechnic institute, .
-outstanding early research award, school of science, rensselaer polytechnic institute,
+Near-Optimal Column-Based Matrix Reconstruction, which appeared in the 52nd IEEE
+Symposium on Foundations of Computer Science (FOCS), was invited to the special is-
+sue of the SIAM Journal on Computing for the top papers from FOCS .
+European Molecular Biology Organization (EMBO) Fellowship, .
+Best paper award, Mobi Opp .
+Senior Member, Association for Computing Machinery, .
+European Molecular Biology Organization (EMBO) Fellowship, .
+Mentoring Excellence Award, Rensselaer Polytechnic Institute, .
+Outstanding Early Research Award, School of Science, Rensselaer Polytechnic Institute,
 .
-nsf career award, .
-j. tinsley oden visiting faculty fellowship, university of texas at austin, .
-publications impact
-• total citations (according to google scholar): >12,600.
-• h-index (according to google scholar): 51.
-• i10-index (according to google scholar): 103.
-books
-1. p. buhlmann, p. drineas, m. kane, and m. van der laan, handbook of big data,
-chapman and hall/crc press, .
-book chapters
-2. p. drineas and m. w. mahoney, lectures on randomized numerical linear algebra,
-in the mathematics of data, ias/park city math. ser., vol. 25, amer. math. soc.,
-providence, ri, pp. 1-45, .
-3. f.tsetsos, p.drineas, andp.paschou, genetics and population analysis, inencyclo-
-pedia of bioinformatics and computational biology, elsevier, doi:10.1016/b978-0-12-
+NSF CAREER Award, .
+J. Tinsley Oden Visiting Faculty Fellowship, University of Texas at Austin, .
+Publications Impact
+• Total citations (according to Google Scholar): >12,600.
+• h-index (according to Google Scholar): 51.
+• i10-index (according to Google Scholar): 103.
+Books
+1. P. Buhlmann, P. Drineas, M. Kane, and M. van der Laan, Handbook of Big Data,
+Chapman and Hall/CRC Press, .
+Book chapters
+2. P. Drineas and M. W. Mahoney, Lectures on Randomized Numerical Linear Algebra,
+in The Mathematics of Data, IAS/Park City Math. Ser., vol. 25, Amer. Math. Soc.,
+Providence, RI, pp. 1-45, .
+3. F. Tsetsos, P. Drineas, and P. Paschou, Genetics and Population Analysis, in Encyclo-
+pedia of Bioinformatics and Computational Biology, Elsevier, doi:10.1016/B978-0-12-
 809633-8.20114-3, .
-4. m. w. mahoney and p. drineas, structural properties underlying high-quality ran-
-domized numerical linear algebra algorithms, in crc handbook on big data, pp.
+4. M. W. Mahoney and P. Drineas, Structural Properties Underlying high-quality Ran-
+domized Numerical Linear Algebra algorithms, in CRC Handbook on Big Data, pp.
 137-154, .
-journal publications
-5. a. chowdhury, g. dexter, p. london, h. avron, and p. drineas, faster randomized
-interior point methods for tall/wide linear programs, journal of machine learning
-research (jmlr), accepted, .
-6. p. paschou, y. jin, k. mu¨ller-vahl,...,p. drineas,...,j. buitelaar, b. franke, o. van
-den heuvel, n. jahanshad, p. m. thompson, and k. j. black, enhancing neuroimag-
-ing genetics through meta-analysis for tourette syndrome (enigma-ts): a world-
-wide platform for collaboration, frontiers in psychiatry, 13:958688, doi: 10.3389/fp-
-syt. .958688, .
-7. z. yang, p. paschou, and p. drineas, gwas summary statistics-based methods for
-genomic analysis: a comparison of methods and a novel framework, scientific re-
+Journal Publications
+5. A. Chowdhury, G. Dexter, P. London, H. Avron, and P. Drineas, Faster Randomized
+Interior Point Methods for Tall/Wide Linear Programs, Journal of Machine Learning
+Research (JMLR), accepted, .
+6. P. Paschou, Y. Jin, K. Mu¨ller-Vahl,..., P. Drineas,..., J. Buitelaar, B. Franke, O. Van
+Den Heuvel, N. Jahanshad, P. M. Thompson, and K. J. Black, Enhancing neuroimag-
+ing genetics through meta-analysis for Tourette syndrome (ENIGMA-TS): A world-
+wide platform for collaboration, Frontiers in Psychiatry, 13:958688, doi: 10.3389/fp-
+syt..958688, .
+7. Z. Yang, P. Paschou, and P. Drineas, GWAS Summary Statistics-Based Methods for
+Genomic Analysis: a Comparison of Methods and a Novel Framework, Scientific Re-
 ports, vol. 12 (8242), .
-8. v. ravindra, p. drineas, a. grama, constructing compact signatures for individual
-fingerprintingofbrainconnectomes,frontiersinneuroscience,10.3389/fnins. .549322,
+8. V. Ravindra, P. Drineas, A. Grama, Constructing Compact Signatures for Individual
+Fingerprinting of Brain Connect ome s Frontiers in Neuroscience,10.3389/fnins..549322,
 .
-9. a.bose,d.e.platt,l.parida,p.drineas,andp.paschou,integrating linguistics, so-
-cialstructure, andgeographytomodelgeneticdiversitywithinindia,molecularbiology
-and evolution, doi.org/10.1093/molbev/msaa321, .
-10. e. kontopoulou, g. dexter, w. szpankowski, a. grama, and p. drineas, randomized
-linearalgebraapproachestoestimatethevonneumannentropyofdensitymatrices,
-ieee transactions on information theory, 6(8), pp. 5003-5021, .
-11. p.drineas,f.tsetsos,a.plantinga,i.lazaridis,e.yannaki,a.razou,k.kanaki,m.
-michalodimitrakis, f. perez-jimenez, g. de silvestro, m. c. renda, j. a. stamatoy-
-annopoulos,k.k.kidd,b.l.browning,p.paschou,g.stamatoyannopoulos,genetic
-historyofthepopulationofcrete,annalsofhumangenetics,https://doi.org/10.1111/ahg.12328,
+9. A. Bose, D. E. Platt, L. Parida, P. Drineas, and P. Paschou, Integrating linguistics, so-
+cia l structure and geography to model genetic diversity within India, Molecular Biology
+and Evolution, /10.1093/molbev/msaa321, .
+10. E. Kon to poul ou G. Dexter, W. Sz pankow ski A. Grama, and P. Drineas, Randomized
+Linear Algebra Approaches to Estimate the Von Neumann Entropyof Density Matrices,
+IEEE Transactions on Information Theory, 6(8), pp. 5003-5021, .
+11. P. Drineas, F. Tsetsos, A. Plantinga, I. Lazaridis, E. Yannaki, A. Razou, K. Kanaki, M.
+Micha lodi mitra k is F. Perez-Jimenez, G. De Silvestro, M. C. Renda, J. A. Stamatoy-
+anno poul os K. K. Kidd, B. L. Browning, P. Paschou, G. S tama toy anno poul os Genetic
+/10.1111/ahg.12328,
 pp. 1-16, .
-12. a. bose, v. kalantzis, e. kontopoulou, m. elkady, p. paschou, and p. drineas, ter-
-apca:afastandscalablesoftwarepackagetostudygeneticvariationintera-scalegeno-
-types, bioinformatics, btz157, https://doi.org/10.1093/bioinformatics/btz157, .
-13. a. chowdhuri, j. yang, and p. drineas, structural conditions for projection-cost
-preservation via randomized matrix multiplication, linear algebra and its applica-
-tions, https://doi.org/10.1016/j.laa. .03.013, .
-14. p. drineas and i. ipsen, low-rank matrix approximations do not need a singular
-value gap, siam journal on matrix analysis and applications, 40(1), pp. 299-319,
+12. A. Bose, V. Kalantzis, E. Kon to poul ou M. Elkady, P. Paschou, and P. Drineas, Ter-
+a PCA:afastandscalablesoftwarepackagetostudygeneticvariationintera-scalegeno-
+types, Bioinformatics, btz157, .
+13. A. Chowdhuri, J. Yang, and P. Drineas, Structural Conditions for Projection-Cost
+Preservation via Randomized Matrix Multiplication, Linear Algebra and its Applica-
+tions, .
+14. P. Drineas and I. Ipsen, Low-Rank Matrix Approximations Do Not Need a Singular
+Value Gap, SIAM Journal on Matrix Analysis and Applications, 40(1), pp. 299-319,
 .
-15. p. drineas, i. ipsen, e. kontopoulou, and m. magdon-ismail, structural convergence
-results for approximations of dominant subspaces from block krylov spaces, siam
-journal on matrix analysis and applications, 39(2), pp. 567-586, .
-16. a. kundu, p. drineas, and m. magdon-ismail, recovering pca via hybrid-(ℓ ,ℓ )
+15. P. Drineas, I. Ipsen, E. Kon to poul ou and M. Magdon-Ismail, Structural Convergence
+Results for Approximations of Dominant Subspaces from Block Krylov Spaces, SIAM
+Journal on Matrix Analysis and Applications, 39(2), pp. 567-586, .
+16. A. Kundu, P. Drineas, and M. Magdon-Ismail, Recovering PCA via Hybrid-(ℓ ,ℓ )
 1 2
-sparse sampling of data elements,journal of machine learning research,18(75),pp.
+Sparse Sampling of Data Elements, Journal of Machine Learning Research 18 75 pp.
 1-34, .
-17. c.boutsidis,p.drineas,p.kambadur,e.kontopoulou,anda.zouzias,arandomized
-algorithm for approximating the log determinant of a symmetric positive definite
-matrix, linear algebra and its applications, 533, pp. 95-119, .
-18. j.alexander,d.mantzaris,m.georgitsi,p.drineas,andp.paschou,variant ranker:
-a web-tool to rank genomic data according to functional significance, bmc bioinfor-
+17. C. Boutsidis, P. Drineas, P. Kambadur, E. Kon to poul ou and A. Zouzias, A Randomized
+Algorithm for Approximating the Log Determinant of a Symmetric Positive Definite
+Matrix, Linear Algebra and its Applications, 533, pp. 95-119, .
+18. J. Alexander, D. Mantzaris, M. Georgitsi, P. Drineas, and P. Paschou, Variant Ranker:
+a web-tool to rank genomic data according to functional significance, BMC Bioinfor-
 matics, 18:341, .
-19. g.stamatoyannopoulos,a.bose,a.teodosiadis,f.tsetsos,a.plantinga,n.psatha,
-n. zogas, e. yannaki, p. zalloua, k. k. kidd, b. l. browning, j. stamatoyannopou-
-los, p. paschou, and petros drineas, genetics of the peloponnesean populations and
-the theory of extinction of the medieval peloponnesean greeks, european journal of
-human genetics (ejhg), 25(5), pp. 637-645, .
-20. k.fountoulakis,a.kundu,e.kontopoulou,andp.drineas,a randomized rounding
-algorithm for sparse pca, acm transactions on knowledge discovery from data
-(tkdd), 11(3), pp. 1-26, .
-21. c.iyer,h.avron,g.kollias,y.ineichen,c.carothers,andp.drineas,arandomized
-least squares solver for terabyte-sized dense overdetermined systems, journal of
-computationalscience,journalofcomputationalscience,http://dx.doi.org/10.1016/
-j.jocs. .09.007, .
-22. n. j. forde, a. s. kanaan, j. widomska, s. s. padmanabhuni, e. nespoli, j. alexan-
-der,j.rodriguezarranz,s.fan,r.houssari,m.s.nawaz,n.r.zilhao,l.pagliaroli,
-f. rizzo, t. aranyi, c. barta, t. m. boeckers, d. i. boomsma, w. r. buisman, j.
-k. buitelaar, d. cath, a. dietrich, n. driessen, p. drineas, m. dunlap, s. gerasch,
-j. glennon, b. hengerer, o. a. van den heuvel, c.e jespersgaard, h. e. moller, k.
-r. mu¨ller-vahl, t. openneer, g. poelmans, p. j. w. pouwels, j. m. scharf, h. ste-
-fansson, z. tumer, d. veltman, y. d van der werf, p. j. hoekstra, a. ludolph, and
-p. paschou, ts-eurotrain: a european-wide investigation and training network
-on the aetiology and pathophysiology of gilles de la tourette syndrome, frontiers in
-neuroscience, 10, article 384, .
-23. f. tsetsos, s. s. padmanabhuni, j. alexander, i. karagiannidis, m. tsifintaris, a.
-topaloudi, d. mantzaris, m. georgitsi, p. drineas, and p. paschou, meta-analysis of
-tourette syndrome and attention deficit hyperactivity disorder provides support for
-a shared genetic basis, frontiers in neuroscience, 10, article 340, .
-24. k.clarkson,p.drineas,m.magdon-ismail,m.w.mahoney,x.meng,andd.p.woodruff,
-faster robust linear regression, siam journal on computing, 45(3), pp. 763-810,
+19. G. S tama toy anno poul os A. Bose, A. Teo do siad is F. Tsetsos, A. Plantinga, N. Psatha,
+N. Zogas, E. Yannaki, P. Zalloua, K. K. Kidd, B. L. Browning, J. Stamatoyannopou-
+los, P. Paschou, and Petros Drineas, Genetics of the Peloponnese an Populations and
+the Theory of Extinction of the Medieval Peloponnese an Greeks, European Journal of
+Human Genetics (EJHG), 25(5), pp. 637-645, .
+20. K. Fount ou lak is A. Kundu, E. Kon to poul ou and P. Drineas, A Randomized Rounding
+Algorithm for Sparse PCA, ACM Transactions on Knowledge Discovery from Data
+(TKDD), 11(3), pp. 1-26, .
+21. C. Iyer, H. Avron, G. Kollias, Y. Ineichen, C. Carothers, and P. Drineas, A Randomized
+Least Squares Solver for Terabyte-sized Dense Over determined Systems, Journal of
+/10.1016/
+j. jocs..09.007, .
+22. N. J. Forde, A. S. Kanaan, J. Widomska, S. S. Padma nab huni E. Nespoli, J. Alexan-
+der, J. Rodriguez Arranz, S. Fan, R. Houssari, M. S. Nawaz, N. R. Zilhao, L. Pag liar oli
+F. Rizzo, T. Aranyi, C. Barta, T. M. Boeckers, D. I. Boomsma, W. R. Buisman, J.
+K. Buitelaar, D. Cath, A. Dietrich, N. Driessen, P. Drineas, M. Dunlap, S. Gerasch,
+J. Glennon, B. Hengerer, O. A. van den Heuvel, C. e Jesper sga ard H. E. Moller, K.
+R. Mu¨ller-Vahl, T. Openneer, G. Poelmans, P. J. W. Pouwels, J. M. Scharf, H. Ste-
+fansson, Z. Tumer, D. Veltman, Y. D van der Werf, P. J. Hoekstra, A. Ludolph, and
+P. Paschou, TS-EUROTRAIN: A European-wide investigation and training network
+on the aetiology and path o physiology of Gilles de la Tourette Syndrome, Frontiers in
+Neuroscience, 10, article 384, .
+23. F. Tsetsos, S. S. Padma nab huni J. Alexander, I. Kara gianni d is M. Ts if in tar is A.
+Topaloudi, D. Mantzaris, M. Georgitsi, P. Drineas, and P. Paschou, Meta-analysis of
+Tourette Syndrome and Attention Deficit Hyperactivity Disorder provides support for
+a shared genetic basis, Frontiers in Neuroscience, 10, article 340, .
+24. K. Clarkson, P. Drineas, M. Magdon-Ismail, M. W. Mahoney, X. Meng, and D. P. Woodruff,
+Faster Robust Linear Regression, SIAM Journal on Computing, 45(3), pp. 763-810,
 .
-25. s. paul, m. magdon-ismail, and p. drineas, feature selection for linear svms with
-provable guarantees, pattern recognition, 60, pp. 205-214, .
-26. m. w. mahoney and p. drineas, randnla: randomized numerical linear algebra,
-communications of the acm (cacm), 59 (6), pp. 80-90, .
-27. j.alexander,o.kalev,s.mehrabian,l.traykov,m.raycheva,d.kanakis,p.drineas,
-m. i. lutz, t. str¨obel, t. penz, m. schuster, c. bock, i. ferrer, p. paschou, and
-g. g. kovacs, familial early-onset dementia with complex neuropathological phenotype
-and genomic background, neurobiology of aging, 42, pp. 199-204, .
-28. s. paul and p. drineas, feature selection for ridge regression with provable guaran-
-tees, neural computation, mit press journals, 28, pp. 716-742, .
-29. n. nguyen, p. drineas, and t. tran, tensor sparsification via a bound on the spectral
-norm of random tensors, information and inference: a journal of the ima, 4(3), pp.
+25. S. Paul, M. Magdon-Ismail, and P. Drineas, Feature Selection for Linear SVMs with
+Provable Guarantees, Pattern Recognition, 60, pp. 205-214, .
+26. M. W. Mahoney and P. Drineas, Rand NLA: Randomized Numerical Linear Algebra,
+Communications of the ACM (CACM), 59 (6), pp. 80-90, .
+27. J. Alexander, O. Kalev, S. Mehrabian, L. Traykov, M. Raycheva, D. Kanakis, P. Drineas,
+M. I. Lutz, T. Str¨obel, T. Penz, M. Schuster, C. Bock, I. Ferrer, P. Paschou, and
+G. G. Kovacs, Familial early-onset dementia with complex neuro pathological phenotype
+and genomic background, Neurobiology of Aging, 42, pp. 199-204, .
+28. S. Paul and P. Drineas, Feature Selection for Ridge Regression with Provable Guaran-
+tees, Neural Computation, MIT Press Journals, 28, pp. 716-742, .
+29. N. Nguyen, P. Drineas, and T. Tran, Tensor spars if i cation via a bound on the spectral
+norm of random tensors, Information and Inference: A Journal of the IMA, 4(3), pp.
 195-229, .
-30. c.boutsidis,a.zouzias,m.w.mahoney,andp.drineas,randomizeddimensionality
-reduction for k-means clustering, ieee transactions on information theory, 62(2),
+30. C. Boutsidis, A. Zouzias, M. W. Mahoney, and P. Drineas, Randomized Dimensionality
+Reduction for K-means Clustering, IEEE Transactions on Information Theory, 62(2),
 pp. 1045-1062, .
-31. p. paschou, p. drineas1, e. yannaki, a. razou, k. kanaki, f. tsetsos, s. padmanab-
-huni,m.michalodimitrakis,m.renda,s.pavlovic,a.anagnostopoulos,j.stamatoy-
-annopoulos,k.k.kidd,andg.stamatoyannopoulos,maritimerouteofcolonizationof
-europe,proceedingsofthenationalacademyofsciences,doi:10.1073/pnas. ,
+31. P. Paschou, P. Drineas1, E. Yannaki, A. Razou, K. Kanaki, F. Tsetsos, S. Padmanab-
+huni, M. Micha lodi mitra k is M. Renda, S. Pavlovic, A. An agno stop ou los J. Stamatoy-
+anno poul os K. K. Kidd, and G. S tama toy anno poul os Maritime route of colonization of
+Europe, Proceedings of the National Academyof Sciences, doi:10.1073/pnas. ,
 .
-32. p. saurabh, c. boutsidis, m. magdon-ismail, and p. drineas, random projections
-for support vector machines, acm transactions on knowledge discovery from data
-(tkdd), 8(4):22, .
-33. c. boutsidis, p. drineas, and m. magdon-ismail, near-optimal column-based matrix
-reconstruction, siam journal on computing, 43(2), pp. 687-717, .
-34. c. boutsidis, p. drineas, and m. magdon-ismail, near-optimal coresets for least-
-squares regression, ieee transactions on information theory, 59(10), ,
+32. P. Saurabh, C. Boutsidis, M. Magdon-Ismail, and P. Drineas, Random Projections
+for Support Vector Machines, ACM Transactions on Knowledge Discovery from Data
+(TKDD), 8(4):22, .
+33. C. Boutsidis, P. Drineas, and M. Magdon-Ismail, Near-Optimal Column-Based Matrix
+Reconstruction, SIAM Journal on Computing, 43(2), pp. 687-717, .
+34. C. Boutsidis, P. Drineas, and M. Magdon-Ismail, Near-Optimal Coresets for Least-
+Squares Regression, IEEE Transactions on Information Theory, 59(10), ,
 .
-1equalcontributionwiththefirstauthor.
-35. j. r. hughey, p. paschou, p. drineas, d. mastropaolo, d. m. lotakis, p. a. navas,
-m.michalodimitrakis, j.a.stamatoyannopoulos, andg.stamatoyannopoulos, a eu-
-ropean population in minoan bronze age crete, nature communications, (4)1861
+1Equalcontributionwiththefirstauthor.
+35. J. R. Hughey, P. Paschou, P. Drineas, D. M astro paolo D. M. Lotakis, P. A. Navas,
+M. Micha lodi mitra k is J. A. S tama toy anno poul os and G. S tama toy anno poul os A Eu-
+ropean Population in Minoan Bronze Age Crete, Nature Communications, (4)1861
 doi:10.1038/ncomms2871, .
-36. p.drineas,m.magdon-ismail,m.w.mahoney,andd.woodruff,fast approximation
-of matrix coherence and statistical leverage, journal of machine learning research,
+36. P. Drineas, M. Magdon-Ismail, M. W. Mahoney, and D. Woodruff, Fast Approximation
+of Matrix Coherence and Statistical Leverage, Journal of Machine Learning Research,
 13, pp. 3475-3506, .
-37. v. stathias, g. sotiris, i. karagiannidis, g. bourikas, g. martinis, g. papazoglou,
-a.tavridou,n.papanas,e.maltezos,m.theodoridis,v.vargemezis,v.manolopou-
-los, w. c. speed, j. r. kidd, k. k. kidd, p. drineas, p. paschou, exploring genomic
-structure differences and similarities between the greek and european hapmap pop-
-ulations; implications for association studies, annals of human genetics, 76(6), pp.
+37. V. Stathias, G. Sotiris, I. Kara gianni d is G. Bourikas, G. Martinis, G. Papa zo g lou
+A. Tavridou, N. Papanas, E. Maltezos, M. Theodor id is V. Varg e mez is V. Manolopou-
+los, W. C. Speed, J. R. Kidd, K. K. Kidd, P. Drineas, P. Paschou, Exploring genomic
+structure differences and similarities between the Greek and European Hap Map pop-
+ulations; implications for association studies, Annals of Human Genetics, 76(6), pp.
 472-483, .
-38. n. kupp, h. huang, p. drineas, and y. makris, improving analog and rf device
-yield through performance calibration, ieee design and test of computers, 28(3),
+38. N. Kupp, H. Huang, P. Drineas, and Y. Makris, Improving Analog and RF Device
+Yield through Performance Calibration, IEEE Design and Test of Computers, 28(3),
 pp. 64-75, .
-39. a.javed,p.drineas,m.w.mahoney,andp.paschou,reconstructing the genome with
-pca-correlated tsnps, annals of human genetics, 75(6), pp. 707-722, .
-40. j.lewis, z.abas, c.dadousis,d.lykidis, p.paschou,andp.drineas, tracing cattle
-breeds with principal components analysis ancestry informative snps, plos one,
+39. A. Javed, P. Drineas, M. W. Mahoney, and P. Paschou, Reconstructing the genome with
+PCA-correlated t SNPs, Annals of Human Genetics, 75(6), pp. 707-722, .
+40. J. Lewis, Z. Abas, C. Dadousis, D. Lykidis, P. Paschou, and P. Drineas, Tracing Cattle
+Breeds With Principal Components Analysis Ancestry Informative SNPs, PLo S ONE,
 6(4): e18007, .
-41. u. acer, p. drineas, and a. abouzeid, connectivity in time-graphs, pervasive and
-mobile computing, 7, pp. 160–171, .
-42. n. g. sgourakis, m. merced-serrano, c. boutsidis, p. drineas, z. du, c. wang, and
-a.e.garcia,atomic-levelcharacterizationoftheensembleoftheaβ(1−42)monomer
-in water using unbiased molecular dynamics simulations and spectral algorithms,jour-
-nal of molecular biology, 405(2), pp.570-583, .
-43. c.tsourakakis,p.drineas,e.michelakis,i.koutis,andc.faloutsos,spectral count-
-ing of triangles via element-wise sparsification and triangle-based link recommen-
-dation, journal of social network analysis and mining (snam), 1(2), pp. 75–81,
+41. U. Acer, P. Drineas, and A. Abouzeid, Connectivity in Time-Graphs, Pervasive and
+Mobile Computing, 7, pp. 160–171, .
+42. N. G. Sgourakis, M. Merced-Serrano, C. Boutsidis, P. Drineas, Z. Du, C. Wang, and
+A. E. Garcia, Atomic-levelcharacterizationoftheensembleofthe A 1 42 monomer
+in water using unbiased molecular dynamics simulations and spectral algorithms, Jour-
+nal of Molecular Biology, 405(2), pp.570-583, .
+43. C. T sour a kaki s P. Drineas, E. Michel ak is I. Koutis, and C. Faloutsos, Spectral Count-
+ing of Triangles via Element-Wise Spars if i cation and Triangle-Based Link Recommen-
+dation, Journal of Social Network Analysis and Mining (SNAM), 1(2), pp. 75–81,
 .
-44. p. drineas, m. w. mahoney, s. muthukrishnan, and t. sarlos, faster least squares
-approximation, numerische mathematik, 117(2), pp. 217–249, .
-45. p. drineas and a. zouzias, a note on element-wise matrix sparsification via a matrix-
-valued bernstein inequality, information processing letters, 111, pp. 385-389, .
-46. p.paschou,j.lewis,a.javed,andp.drineas,ancestryinformativemarkersforfine-
-scale individual assignment to worldwide populations, journal of medical genetics,
-doi:10.1136/jmg. .078212, .
-47. p. drineas, j. lewis, and p. paschou, inferring geographic coordinates of origin
-for europeans using small panels of ancestry informative markers, plos one 5(8):
+44. P. Drineas, M. W. Mahoney, S. Muth u krishna n and T. Sarlos, Faster least squares
+approximation, Numerische Ma them a tik 117(2), pp. 217–249, .
+45. P. Drineas and A. Zouzias, A note on element-wise matrix spars if i cation via a matrix-
+valued Bernstein inequality, Information Processing Letters, 111, pp. 385-389, .
+46. P. Paschou, J. Lewis, A. Javed, and P. Drineas, Ancestry Informative Markersfor Fine-
+Scale Individual Assignment to Worldwide Populations, Journal of Medical Genetics,
+doi:10.1136/jmg..078212, .
+47. P. Drineas, J. Lewis, and P. Paschou, Inferring Geographic Coordinates of Origin
+for Europeans using Small Panels of Ancestry Informative Markers, PLo S ONE 5(8):
 e11892, .
-48. h-g. d. stratigopoulos, p. drineas, m. slamani, and y. makris, rf specification test
-compaction using learning machines, ieee transactions on vlsi systems, 18(6), pp.
+48. H-G. D. Strat igo poul os P. Drineas, M. Slamani, and Y. Makris, RF specification test
+compaction using learning machines, IEEE Transactions on VLSI Systems, 18(6), pp.
 1002–1006, .
-49. n.kupp,p.drineas,m.slamani,andy.makris,onboostingtheaccuracyofnon-rf
-to rf correlation-based specification test compaction, journal of electronic testing
-theory and applications, 25(6), pp. 309-321, .
-50. c. boutsidis and p. drineas, random projections for the nonnegative least-squares
-problem, linear algebra and its applications, 431, pp. 760–771, .
-51. a. dasgupta, p. drineas, b. harb, r. kumar, and m. w. mahoney, sampling algo-
-rithms and coresets for ℓ regression, siam journal on computing, 38(5), pp. –
+49. N. Kupp, P. Drineas, M. Slamani, and Y. Makris, On Boosting the Accuracyof Non-RF
+to RF Correlation-Based Specification Test Compaction, Journal of Electronic Testing
+Theory and Applications, 25(6), pp. 309-321, .
+50. C. Boutsidis and P. Drineas, Random projections for the non negative least-squares
+problem, Linear Algebra and its Applications, 431, pp. 760–771, .
+51. A. Dasgupta, P. Drineas, B. Harb, R. Kumar, and M. W. Mahoney, Sampling algo-
+rithms and coresets for ℓ regression, SIAM Journal on Computing, 38(5), pp. –
 p
 , .
-52. m. w. mahoney and p. drineas, cur matrix decompositions for improved data anal-
-ysis, proceedings of the national academy of sciences, 106(3), pp. 697–702, .
-53. m.w.mahoney,m.maggioni,andp.drineas,tensor-curdecompositionsfortensor-
-based data, siam journal on matrix analysis and applications, 30(2), pp. 957–987,
+52. M. W. Mahoney and P. Drineas, CUR matrix decomposition s for improved data anal-
+ysis, Proceedings of the National Academy of Sciences, 106(3), pp. 697–702, .
+53. M. W. Mahoney, M. Maggioni, and P. Drineas, Tensor-CURdecompositionsfortensor-
+based data, SIAM Journal on Matrix Analysis and Applications, 30(2), pp. 957–987,
 .
-54. p. drineas, m.w. mahoney, and s. muthukrishnan, relative-error cur matrix de-
-compositions,siamjournalonmatrixanalysisandapplications,30(2),pp. 844–881,
+54. P. Drineas, M. W. Mahoney, and S. Muth u krishna n Relative-error CUR matrix de-
+compositions, SIAM Journal on Matrix Analysis and Applications 30 2 pp. 844–881,
 .
-55. p. paschou, p. drineas2, j. lewis, c. nievergelt, d. nickerson, j. smith, p. ridker,
-d. chasman, r. krauss, and e. ziv, tracing sub-structure in the european american
-population with pca-informative markers, plos genetics, 4(7), pp. 1–13, .
-56. p.paschou,e.ziv,e.burchard,s.choudhry,w.rodriguez-cintron,m.w.mahoney,
-and p. drineas, pca-correlated snps for structure identification in worldwide human
-populations, plos genetics, 3(9), pp. 1672-1686, .
-57. p. paschou, m. w. mahoney, a. javed, j. kidd, a. pakstis, s. gu, k. kidd, and
-p. drineas, intra- and inter-population genotype reconstruction from tagging snps,
-genome research, 17(1), pp. 96-107, .
-58. p. drineas and m. w. mahoney, a randomized algorithm for a tensor-based general-
-ization of the svd, linear algebra and its applications, 420, pp. 553-571, .
-59. p. drineas, m. w. mahoney, and r. kannan, sampling sub-problems of heterogeneous
-max-cut problems and approximation algorithms, random structures and algorithms,
+55. P. Paschou, P. Drineas2, J. Lewis, C. Ni ever gelt D. Nickerson, J. Smith, P. Ridker,
+D. Chasman, R. Krauss, and E. Ziv, Tracing sub-structure in the European American
+population with PCA-informative markers, PLo S Genetics, 4(7), pp. 1–13, .
+56. P. Paschou, E. Ziv, E. Burchard, S. Choudhry, W. Rodriguez-Cintron, M. W. Mahoney,
+and P. Drineas, PCA-correlated SNPs for structure identification in worldwide human
+populations, PLOS Genetics, 3(9), pp. 1672-1686, .
+57. P. Paschou, M. W. Mahoney, A. Javed, J. Kidd, A. Pakstis, S. Gu, K. Kidd, and
+P. Drineas, Intra- and inter-population genotype reconstruction from tagging SNPs,
+Genome Research, 17(1), pp. 96-107, .
+58. P. Drineas and M. W. Mahoney, A randomized algorithm for a tensor-based general-
+ization of the SVD, Linear Algebra and its Applications, 420, pp. 553-571, .
+59. P. Drineas, M. W. Mahoney, and R. Kannan, Sampling sub-problems of heterogeneous
+max-cut problems and approximation algorithms, Random Structures and Algorithms,
 32(3), pp. 307 – 333, .
-60. p.drineas,r.kannan,andm.w.mahoney,fast monte carlo algorithms for matrices
-i: approximating matrix multiplication, siam journal on computing, 36(1), pp. 132-
+60. P. Drineas, R. Kannan, and M. W. Mahoney, Fast monte carlo algorithms for matrices
+I: approximating matrix multiplication, SIAM Journal on Computing, 36(1), pp. 132-
 157, .
-61. p.drineas,r.kannan,andm.w.mahoney,fast monte carlo algorithms for matrices
-ii: computing a low rank approximation to a matrix, siam journal on computing,
+61. P. Drineas, R. Kannan, and M. W. Mahoney, Fast monte carlo algorithms for matrices
+II: computing a low rank approximation to a matrix, SIAM Journal on Computing,
 36(1), pp. 158-183, .
-62. p. drineas, r. kannan, and m. w. mahoney, fast monte carlo algorithms for matri-
-ces iii: computing a compressed approximate matrix decomposition, siam journal on
-computing, 36(1), pp. 184-206, .
-63. s. almukhaizim, p. drineas, and y. makris, entropy-driven parity tree selection for
-low-overhead concurrent error detection in finite state machines, ieee transactions
-on computer-aided design of integrated circuits and systems, 25(8), pp. 1547-1554,
+62. P. Drineas, R. Kannan, and M. W. Mahoney, Fast monte carlo algorithms for matri-
+ces III: computing a compressed approximate matrix decomposition, SIAM Journal on
+Computing, 36(1), pp. 184-206, .
+63. S. Alm uk hai zim P. Drineas, and Y. Makris, Entropy-driven parity tree selection for
+low-overhead concurrent error detection in finite state machines, IEEE Transactions
+on Computer-Aided Design of Integrated Circuits and Systems, 25(8), pp. 1547-1554,
 .
-64. p. drineas and m. w. mahoney, on the nystrom method for approximating a gram
-matrix for improved kernel-based learning, journal of machine learning research, 6,
+64. P. Drineas and M. W. Mahoney, On the Nystrom method for approximating a Gram
+matrix for improved kernel-based learning, Journal of Machine Learning Research, 6,
 pp. 2153-2175, .
-65. s.almukhaizim, p.drineas, andy.makris, compaction-based concurrent error detec-
-tion for digital circuits, microelectronics journal, 36(9), pp. 856-862, elsevier, .
-66. p.drineas,r.kannan,a.frieze,s.vempala,andv.vinay,clustering of large graphs
-via the singular value decomposition, machine learning (56), pp. 9-33, .
-67. k. akcoglu, p. drineas, and m. kao, fast universalization of investment strategies,
-siam journal on computing 34(1), pp. 1-22, .
-2equalcontributionwiththefirstauthor.
-68. p. drineas and y. makris, spare: selective partial replication for concurrent fault
-detection in fsms, ieee transactions on instrumentation and measurement, 52(6),
+65. S. Alm uk hai zim P. Drineas, and Y. Makris, Compaction-based concurrent error detec-
+tion for digital circuits, Microelectronics Journal, 36(9), pp. 856-862, Elsevier, .
+66. P. Drineas, R. Kannan, A. Frieze, S. Vempala, and V. Vinay, Clustering of large graphs
+via the singular value decomposition, Machine Learning (56), pp. 9-33, .
+67. K. Akcoglu, P. Drineas, and M. Kao, Fast universal iz ation of investment strategies,
+SIAM Journal on Computing 34(1), pp. 1-22, .
+2Equalcontributionwiththefirstauthor.
+68. P. Drineas and Y. Makris, SPa Re: selective partial replication for concurrent fault
+detection in FSMs, IEEE Transactions on Instrumentation and Measurement, 52(6),
 pp. 1729-1737, .
-69. p. drineas, e. drinea, and p. huggins, an experimental evaluation of a monte carlo
-algorithm for singular value decomposition, y. manolopoulos et. al. (eds.): revised
-selected papers from the 8th panhellenic conference on informatics, lecture notes in
-computer science 2563, pp. 279-296, .
-conference publications
-70. g. dexter, a. chowdhury, h. avron, and p. drineas, on the convergence of inex-
-act predictor-corrector methods for linear programming,internationalconferenceon
-machine learning (icml), . selected for long presentation (2% acceptance rate).
-71. a. chowdhuri, a. bose, s. zhou, d. woodruff, and p. drineas, a fast, provably
-accurate approximation algorithm for sparse principal component analysis reveals
-human genetic variation across the world, international conference on research in
-computational molecular biology (recomb), .
-72. a.chowdhuri,p.london,h.avron,andp.drineas,speeding up linear programming
-using randomized linear algebra, 34th conference on neural information processing
-systems (neurips), .
-73. v. braverman, p. drineas, c. musco, c. musco, j. upadhyay, d. woodruff, and s.
-zhou, numerical linear algebra in the sliding window model, proc. of the 61st ieee
-symposium on foundations of computer science (focs), .
-74. a.bose,m.c.burch,a.chowdhury,p.paschou,andp.drineas,clustrat: astructure
-informed clustering strategy for population stratification, international conference on
-researchincomputationalmolecularbiology(recomb),lecturenotesincomputer
-science (volume 12074), .
-75. a. chowdhuri, j. yang, and p. drineas, randomized iterative algorithms for fisher
-discriminant analysis, conference on uncertainty in artificial intelligence (uai), 64,
+69. P. Drineas, E. Drinea, and P. Huggins, An experimental evaluation of a monte carlo
+algorithm for singular value decomposition, Y. Manolo poul os et. al. (Eds.): Revised
+Selected Papers from the 8th Pan hellenic Conference on Informatics, Lecture Notes in
+Computer Science 2563, pp. 279-296, .
+Conference Publications
+70. G. Dexter, A. Chowdhury, H. Avron, and P. Drineas, On the Convergence of Inex-
+act Predictor-Corrector Methods for Linear Programming, International Conference on
+Machine Learning (ICML), . Selected for long presentation (2% acceptance rate).
+71. A. Chowdhuri, A. Bose, S. Zhou, D. Woodruff, and P. Drineas, A Fast, Provably
+Accurate Approximation Algorithm for Sparse Principal Component Analysis Reveals
+Human Genetic Variation Across the World, International Conference on Research in
+Computational Molecular Biology (RECOMB), .
+72. A. Chowdhuri, P. London, H. Avron, and P. Drineas, Speeding up Linear Programming
+using Randomized Linear Algebra, 34th Conference on Neural Information Processing
+Systems (Neur IPS), .
+73. V. Braverman, P. Drineas, C. Musco, C. Musco, J. Upadhyay, D. Woodruff, and S.
+Zhou, Numerical Linear Algebra in the Sliding Window Model, Proc. of the 61st IEEE
+Symposium on Foundations of Computer Science (FOCS), .
+74. A. Bose, M. C. Burch, A. Chowdhury, P. Paschou, and P. Drineas, Clu Strat: astructure
+informed clustering strategy for population stratification, International Conference on
+Researchin Computational Molecular Biology RE COMB Lecture Notesin Computer
+Science (volume 12074), .
+75. A. Chowdhuri, J. Yang, and P. Drineas, Randomized Iterative Algorithms for Fisher
+Discriminant Analysis, Conference on Uncertainty in Artificial Intelligence (UAI), 64,
 .
-76. a. chowdhuri, j. yang, and p. drineas, an iterative, sketching-based framework for
-ridge regression, proceedings of the international conference on machine learning
-(icml), .
-77. e. kontopoulou, a. grama, w. szpankowski, and p. drineas, randomized linear
-algebra approaches to estimate the von neumann entropy of density matrices,ieee
-international symposium on information theory (isit), pp. 2486-2490, .
-78. c.iyer,a.gittens,c.carothers,andp.drineas,iterative randomized algorithms for
-low rank approximation of tera-scale matrices with small spectral gaps, workshop
-onlatestadvancesinscalablealgorithmsforlarge-scalesystems(scala) ,held
-in conjunction with the international conference for high performance computing,
-networking, storage and analysis (sc), .
-79. c. iyer, c. carothers, and p. drineas, randomized sketching for large-scale sparse
-ridge regression problems, workshop on latest advances in scalable algorithms for
-large-scale systems (scala16), held in conjunction with the international con-
-ference on high performance computing, networking, storage and analysis (sc16),
+76. A. Chowdhuri, J. Yang, and P. Drineas, An Iterative, Sketching-based Framework for
+Ridge Regression, Proceedings of the International Conference on Machine Learning
+(ICML), .
+77. E. Kon to poul ou A. Grama, W. Sz pankow ski and P. Drineas, Randomized Linear
+Algebra Approaches to Estimate the Von Neumann Entropy of Density Matrices, IEEE
+International Symposium on Information Theory (ISIT), pp. 2486-2490, .
+78. C. Iyer, A. Gittens, C. Carothers, and P. Drineas, Iterative Randomized Algorithms for
+Low Rank Approximation of Tera-scale Matrices with Small Spectral Gaps, Workshop
+on Latest Advancesin Scalable Algorithms for Large-Scale Systems S cal A), held
+in conjunction with the International Conference for High Performance Computing,
+Networking, Storage and Analysis (SC), .
+79. C. Iyer, C. Carothers, and P. Drineas, Randomized Sketching for Large-Scale Sparse
+Ridge Regression Problems, Workshop on Latest Advances in Scalable Algorithms for
+Large-Scale Systems (Scal A16), held in conjunction with the International Con-
+ference on High Performance Computing, Networking, Storage and Analysis (SC16),
 .
-80. c. iyer, h. avron, g. kollias, y. ineichen, c. carothers, and p. drineas, a scalable
-randomized least squares solver for dense overdetermined systems, workshop on
-latest advances in scalable algorithms for large-scale systems (scala15), held in
-conjunction with the international conference on high performance computing,
-networking, storage and analysis (sc15), .
-81. a. kundu, p. drineas, and m. magdon-ismail, approximating sparse pca from in-
-complete data, proc. of neural information processing systems (nips), .
-82. s. paul, m. magdon-ismail, and p. drineas, column selection via adaptive sampling,
-proc. of neural information processing systems (nips), .
-83. s. paul, m. magdon-ismail, and p. drineas, feature selection for linear svm with
-provable guarantees, proc. of the 16th international conference on artificial intel-
-ligence and statistics (aistats) and journal of machine learning research: work-
-shops and conference proceedings 38, pp. 735–743, .
-84. s. paul and p. drineas, deterministic feature selection for regularized least squares
-classification, european conference on machine learning and principles and practice
-ofknowledgediscoveryindatabases(ecml-pkdd),lncs8725,pp. 533-548, .
-85. s. paul, c. boutsidis, m. magdon-ismail, and p. drineas, random projections and
-support vector machines, proc. of the 16th international conference on artificial
-intelligence and statistics (aistats), .
-86. k.l.clarkson,p.drineas,m.magdon-ismail,m.w.mahoney,x.meng,andd.p.woodruff,
-the fast cauchy transform and faster robust linear regression, proc. of the 24th
-annual acm-siam symposium on discrete algorithms (soda), .
-87. p.drineas,m.magdon-ismail,m.w.mahoney,andd.woodruff,fast approximation
-of matrix coherence and statistical leverage, proc. of the international conference
-on machine learning (icml), .
-88. c. boutsidis, p. drineas, and m. magdon-ismail, sparse features for pca-like linear
-regression, proc. of neural information processing systems (nips), .
-89. c. boutsidis, p. drineas, and m. magdon-ismail, near-optimal column-based matrix
-reconstruction, proc. of the 52nd ieee symposium on foundations of computer
-science (focs), .
-90. n. kupp, h. stratigopoulos, p. drineas, and y. makris, on proving the efficiency of
-alternative rf tests, international conference on computer-aided design (iccad),
+80. C. Iyer, H. Avron, G. Kollias, Y. Ineichen, C. Carothers, and P. Drineas, A Scalable
+Randomized Least Squares Solver for Dense Over determined Systems, Workshop on
+Latest Advances in Scalable Algorithms for Large-Scale Systems (Scal A15), held in
+conjunction with the International Conference on High Performance Computing,
+Networking, Storage and Analysis (SC15), .
+81. A. Kundu, P. Drineas, and M. Magdon-Ismail, Approximating Sparse PCA from In-
+complete Data, Proc. of Neural Information Processing Systems (NIPS), .
+82. S. Paul, M. Magdon-Ismail, and P. Drineas, Column Selection via Adaptive Sampling,
+Proc. of Neural Information Processing Systems (NIPS), .
+83. S. Paul, M. Magdon-Ismail, and P. Drineas, Feature Selection for Linear SVM with
+Provable Guarantees, Proc. of the 16th International Conference on Artificial Intel-
+ligence and Statistics (AISTATS) and Journal of Machine Learning Research: Work-
+shops and Conference Proceedings 38, pp. 735–743, .
+84. S. Paul and P. Drineas, Deterministic Feature Selection for Regularized Least Squares
+Classification, European Conference on Machine Learning and Principles and Practice
+of Knowledge Discovery in Databases(ECML-PKDD), LNCS8725, pp. 533-548,.
+85. S. Paul, C. Boutsidis, M. Magdon-Ismail, and P. Drineas, Random Projections and
+Support Vector Machines, Proc. of the 16th International Conference on Artificial
+Intelligence and Statistics (AISTATS), .
+86. K. L. Clarkson, P. Drineas, M. Magdon-Ismail, M. W. Mahoney, X. Meng, and D. P. Woodruff,
+The Fast Cauchy Transform and Faster Robust Linear Regression, Proc. of the 24th
+Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), .
+87. P. Drineas, M. Magdon-Ismail, M. W. Mahoney, and D. Woodruff, Fast Approximation
+of Matrix Coherence and Statistical Leverage, Proc. of the International Conference
+on Machine Learning (ICML), .
+88. C. Boutsidis, P. Drineas, and M. Magdon-Ismail, Sparse Features for PCA-like Linear
+Regression, Proc. of Neural Information Processing Systems (NIPS), .
+89. C. Boutsidis, P. Drineas, and M. Magdon-Ismail, Near-Optimal Column-Based Matrix
+Reconstruction, Proc. of the 52nd IEEE Symposium on Foundations of Computer
+Science (FOCS), .
+90. N. Kupp, H. Strat igo poul os P. Drineas, and Y. Makris, On Proving the Efficiency of
+Alternative RF Tests, International Conference on Computer-Aided Design (ICCAD),
 .
-91. c. boutsidis, a. zouzias, and p. drineas, random projections for k-means clustering,
-proc. of neural information processing systems (nips), .
-92. n.kupp,h.huang,p.drineas,andy.makris,post-production performance calibra-
-tion in analog/rf devices, ieee international test conference (itc), 8.3.1-8.3.10,
+91. C. Boutsidis, A. Zouzias, and P. Drineas, Random Projections for k-means Clustering,
+Proc. of Neural Information Processing Systems (NIPS), .
+92. N. Kupp, H. Huang, P. Drineas, and Y. Makris, Post-Production Performance Calibra-
+tion in Analog/RF Devices, IEEE International Test Conference (ITC), 8.3.1-8.3.10,
 .
-93. u. acer, p. drineas, and a. abouzeid, random walks in time-graphs, proceedings of
-the second international workshop on mobile opportunistic networking (mobiopp),
+93. U. Acer, P. Drineas, and A. Abouzeid, Random walks in time-graphs, Proceedings of
+the Second International Workshop on Mobile Opportunistic Networking (Mobi Opp),
 pp. 93–100, .
-94. c. boutsidis, m. w. mahoney, and p. drineas, unsupervised feature selection for the
-k-means clustering problem, proc. ofneuralinformationprocessingsystems(nips),
+94. C. Boutsidis, M. W. Mahoney, and P. Drineas, Unsupervised Feature Selection for the
+k-means Clustering Problem, Proc. of Neural Information Processing Systems NIPS
 .
-95. c.tsourakakis,p.drineas,e.michelakis,i.koutis,andc.faloutsos,spectral count-
-ing of triangles in power-law networks via the element-wise sparsification, proc.
-of the international conference on advances in social network analysis and mining
-(asonam), pp. 66–72, .
-96. c.boutsidis,m.w.mahoney,andp.drineas,animprovedapproximationalgorithmfor
-thecolumnsubsetselectionproblem,proc. ofthe20thannualacm-siamsymposium
-on discrete algorithms (soda), pp. 968–977, .
-97. c. boutsidis, m.w. mahoney, and p. drineas, unsupervised feature selection for prin-
-cipal components analysis, proc. of the 14th annual acm conference on knowledge
-discovery and data mining (kdd), pp. 61–69, .
-98. n. kupp, p. drineas, m. slamani, and y. makris, confidence estimation in non-rf
-to rf correlation-based specification test compaction, proc. of the 13th european
-test symposium (ets), pp. 35–40, .
-99. a. dasgupta, p. drineas, b. harb, r. kumar, and m. w. mahoney, sampling algo-
-rithmsandcoresetsforℓ regression,proc. ofthe19thannualacm-siamsymposium
+95. C. T sour a kaki s P. Drineas, E. Michel ak is I. Koutis, and C. Faloutsos, Spectral Count-
+ing of Triangles in Power-Law Networks via the Element-wise Spars if i cation Proc.
+of the International Conference on Advances in Social Network Analysis and Mining
+(ASONAM), pp. 66–72, .
+96. C. Boutsidis, M. W. Mahoney, and P. Drineas, An improved approximation algorithm for
+the column subset selection problem Proc. ofthe20th Annual ACM-SIAMSymposium
+on Discrete Algorithms (SODA), pp. 968–977, .
+97. C. Boutsidis, M. W. Mahoney, and P. Drineas, Unsupervised feature selection for Prin-
+cipal Components Analysis, Proc. of the 14th Annual ACM Conference on Knowledge
+Discovery and Data Mining (KDD), pp. 61–69, .
+98. N. Kupp, P. Drineas, M. Slamani, and Y. Makris, Confidence Estimation in Non-RF
+to RF Correlation-Based Specification Test Compaction, Proc. of the 13th European
+Test Symposium (ETS), pp. 35–40, .
+99. A. Dasgupta, P. Drineas, B. Harb, R. Kumar, and M. W. Mahoney, Sampling algo-
+rit hms and core sets for regression, Proc. ofthe19th Annual ACM-SIAMSymposium
 p
-on discrete algorithms (soda), pp. 932–941, .
-100. a. dasgupta, p. drineas, b. harb, v. josifovski, and m. mahoney, feature selection
-methods for text classification, proc. of the 13th annual acm conference on knowl-
-edge discovery and data mining (kdd), pp. 230–239, .
-101. h-g. d. stratigopoulos, p. drineas, m. slamani, and y. makris, non-rf to rf test
-correlation using learning machines: a case study, proc. of the 25th ieee vlsi test
-symposium (vts), pp. 9–14, .
-102. p. drineas, m. w. mahoney, and s. muthukrishnan, subspace sampling and relative
-error matrix approximation: column-based methods, proc. of approx-random,
+on Discrete Algorithms (SODA), pp. 932–941, .
+100. A. Dasgupta, P. Drineas, B. Harb, V. Josif ovsk i and M. Mahoney, Feature selection
+methods for text classification, Proc. of the 13th Annual ACM Conference on Knowl-
+edge Discovery and Data Mining (KDD), pp. 230–239, .
+101. H-G. D. Strat igo poul os P. Drineas, M. Slamani, and Y. Makris, Non-RF to RF test
+correlation using learning machines: a case study, Proc. of the 25th IEEE VLSI Test
+Symposium (VTS), pp. 9–14, .
+102. P. Drineas, M. W. Mahoney, and S. Muth u krishna n Subspace sampling and relative
+error matrix approximation: column-based methods, Proc. of APPROX-RANDOM,
 pp. 316-326, .
-103. p. drineas, m. w. mahoney, and s. muthukrishnan, subspace sampling and relative
-error matrix approximation: column-row-based methods, proc. of the 14th annual
-european symposium on algorithms (esa), pp. 304-314, .
-104. p.drineas,a.javed,m.magdon-ismail,g.pandurangan,r.virrankoski,anda.sav-
-vides, distance matrix reconstruction from incomplete distance information for sensor
-network localization, proc. of the 3rd annual ieee conference on sensor, mesh and
-ad hoc communications and networks (secon), pp. 536-544, .
-105. p.drineasandm.w.mahoney,randomized algorithms for matrices and massive data
-sets, proc. of the 32nd annual conference on very large data bases (vldb), p.
+103. P. Drineas, M. W. Mahoney, and S. Muth u krishna n Subspace sampling and relative
+error matrix approximation: column-row-based methods, Proc. of the 14th Annual
+European Symposium on Algorithms (ESA), pp. 304-314, .
+104. P. Drineas, A. Javed, M. Magdon-Ismail, G. Pandu rang an R. Vi r ranko ski and A. Sav-
+vides, Distance matrix reconstruction from incomplete distance information for sensor
+network localization, Proc. of the 3rd Annual IEEE Conference on Sensor, Mesh and
+Ad Hoc Communications and Networks (SECON), pp. 536-544, .
+105. P. Drineasand M. W. Mahoney, Randomized algorithms for matrices and massive data
+sets, Proc. of the 32nd Annual Conference on Very Large Data Bases (VLDB), p.
 1269, .
-106. m.w.mahoney,m.maggioni,andp.drineas,tensor-curdecompositionsfortensor-
-based data, proc. of the 12th annual acm conference on knowledge discovery and
-data mining (kdd), pp. 327-336, .
-107. p.drineas,m.w.mahoney,ands.muthukrishnan,sampling algorithms for ℓ regres-
+106. M. W. Mahoney, M. Maggioni, and P. Drineas, Tensor-CURdecompositionsfortensor-
+based data, Proc. of the 12th Annual ACM Conference on Knowledge Discovery and
+Data Mining (KDD), pp. 327-336, .
+107. P. Drineas, M. W. Mahoney, and S. Muth u krishna n Sampling algorithms for ℓ regres-
 2
-sion and applications, proc. of the 17th annual acm-siam symposium on discrete
-algorithms (soda), pp. 1127-1136, .
-108. d. freedman and p. drineas, energy minimization via graph cuts: settling what is
-possible, proc. of the ieee international conference on computer vision and pattern
-recognition (cvpr), pp. 939-946, .
-109. p. drineas and m. w. mahoney, approximating a gram matrix for improved kernel-
-based learning, proc. of the 18th annual symposium on computational learning
-theory (colt), pp. 323-337, .
-110. p. drineas, r. kannan, and m. w. mahoney, sampling sub-problems of heterogeneous
-max-cutproblemsandapproximationalgorithms,proc. ofthe22ndannualsymposium
-on theoretical aspects of computer science (stacs), lecture notes in computer
-science 3404, pp. 57-68, .
-111. p. drineas, m. krishnamoorthy, d. sofka, and b. yener, studying e-mail graphs for
-intelligence monitoring and analysis in the absence of semantic information, proc. of
-the symposium on intelligence and security informatics, lecture notes in computer
-science 3073, pp. 297-306, .
-112. s.almukhaizim,p.drineas,andy.makris,cost-driven selection of parity trees,proc.
-of the ieee vlsi test symposium (vts), pp. 319-324, .
-113. s. almukhaizim, p. drineas, and y. makris, concurrent error detection for combi-
-national and sequential logic via output compaction, proc. of the ieee international
-symposium on quality electronic design (isqed), pp. 459-464, .
-114. s.almukhaizim,p.drineas,andy.makris,onconcurrenterrordetectionwithbounded
-latencyinfsms,proc. oftheieeedesignautomationandtestineuropeconference
-(date), pp. 596-601, .
-115. p. drineas and r. kannan, pass efficient algorithms for approximating large matri-
-ces,proc. ofthe14thannualacm-siamsymposiumondiscretealgorithms(soda),
+sion and applications, Proc. of the 17th Annual ACM-SIAM Symposium on Discrete
+Algorithms (SODA), pp. 1127-1136, .
+108. D. Freedman and P. Drineas, Energy minimization via graph cuts: settling what is
+possible, Proc. of the IEEE International Conference on Computer Vision and Pattern
+Recognition (CVPR), pp. 939-946, .
+109. P. Drineas and M. W. Mahoney, Approximating a Gram matrix for improved kernel-
+based learning, Proc. of the 18th Annual Symposium on Computational Learning
+Theory (COLT), pp. 323-337, .
+110. P. Drineas, R. Kannan, and M. W. Mahoney, Sampling sub-problems of heterogeneous
+max-cutproblemsandapproximationalgorithms, Proc. ofthe22nd Annual Symposium
+on Theoretical Aspects of Computer Science (STACS), Lecture Notes in Computer
+Science 3404, pp. 57-68, .
+111. P. Drineas, M. Krishna moor thy D. Sofka, and B. Yener, Studying E-mail graphs for
+intelligence monitoring and analysis in the absence of semantic information, Proc. of
+the Symposium on Intelligence and Security Informatics, Lecture Notes in Computer
+Science 3073, pp. 297-306, .
+112. S. Alm uk hai zim P. Drineas, and Y. Makris, Cost-driven selection of parity trees, Proc.
+of the IEEE VLSI Test Symposium (VTS), pp. 319-324, .
+113. S. Alm uk hai zim P. Drineas, and Y. Makris, Concurrent error detection for combi-
+national and sequential logic via output compaction, Proc. of the IEEE International
+Symposium on Quality Electronic Design (ISQED), pp. 459-464, .
+114. S. Alm uk hai zim P. Drineas, and Y. Makris, On concurrent error detection with bounded
+latencyin FSMs, Proc. ofthe IEEEDesign Automation and Testin Europe Conference
+(DATE), pp. 596-601, .
+115. P. Drineas and R. Kannan, Pass Efficient Algorithms for Approximating Large Matri-
+ces, Proc. ofthe14th Annual ACM-SIAMSymposiumon Discrete Algorithms SODA
 pp. 223-232, .
-116. s. almukhaizim, p. drineas, and y. makris, on compaction-based concurrent error
-detection, on compaction-based concurrent error detection, proc. of the ieee on-
-line test symposium, pp. 157-161, .
-117. p.drineasandy.makris,on the compaction of independent test sequences for sequen-
-tial circuits,proc. oftheieeeinternationalconferenceoncomputerdesign(iccd),
+116. S. Alm uk hai zim P. Drineas, and Y. Makris, On Compaction-based concurrent error
+detection, On compaction-based concurrent error detection, Proc. of the IEEE On-
+Line Test Symposium, pp. 157-161, .
+117. P. Drineasand Y. Makris, On the compaction of independent test sequences for sequen-
+tial circuits, Proc. ofthe IEEE International Conference on Computer Design ICCD
 pp. 380-386, .
-118. p. drineas and y. makris, non-intrusive concurrent error detection in fsms through
-state/outputcompactionandmonitoringviaparitytrees,proc. ofthedesignautoma-
-tion and test in europe conference (date), pp. 1164-1165, .
-119. p. drineas and y. makris, spare: selective partial replication for concurrent fault
-detection in fsms, proc. of the ieee international conference on vlsi design, pp.
+118. P. Drineas and Y. Makris, Non-intrusive concurrent error detection in FSMs through
+State Output compaction and monitoring via parity trees Proc. ofthe Design Automa-
+tion and Test in Europe Conference (DATE), pp. 1164-1165, .
+119. P. Drineas and Y. Makris, SPa Re: selective partial replication for concurrent fault
+detection in FSMs, Proc. of the IEEE International Conference on VLSI Design, pp.
 84-91, .
-120. p. drineas and y. makris, on the compaction of independent test sequences for se-
-quential circuits, ieee european test workshop (ets), maastricht, netherlands,
+120. P. Drineas and Y. Makris, On the Compaction of Independent Test Sequences for Se-
+quential Circuits, IEEE European Test Workshop (ETS), Maastricht, Netherlands,
 .
-121. p. drineas and y. makris, concurrent fault detection in random combinational logic,
-proc. of the ieee international symposium on quality electronic design (isqed),
+121. P. Drineas and Y. Makris, Concurrent fault detection in random combination al logic,
+Proc. of the IEEE International Symposium on Quality Electronic Design (ISQED),
 pp. 425-430, .
-122. p.drineas,i.kerenidis,andp.raghavan,competitiverecommendationsystems,proc.
-of the 34th acm symposium on theory of computing (stoc), pp. 82-90, .
-123. k. akcoglu, p. drineas, and m. kao, fast universalization of investment strategies
-with provably good relative returns, proc. of the 29th international colloquium on
-automata, languages and programming (icalp), pp. 888-900, .
-124. p. drineas and y. makris, non-intrusive design of concurrently self-testable fsms,
-proc. of the ieee asian test symposium (ats), pp. 33-38, .
-125. p. drineas and y. makris, non-intrusive design of concurrently self-testable fsms,
-ieee north atlantic test workshop (natw), montauk ny, usa, .
-126. e. drinea, p. drineas, and p. huggins, a randomized singular value decomposition
-algorithm for image processing applications, proc. of the 8th panhellenic conference
-on informatics, pp. 278-288, .
-127. p. drineas and r. kannan, fast monte carlo algorithms for approximate matrix mul-
-tiplication, proc. of the 42nd ieee symposium on foundations of computer science
-(focs), pp. 452-459, .
-128. p.drineas,r.kannan,a.frieze,s.vempala,andv.vinay,clustering in large graphs
-and matrices, proc. of the 10th annual acm-siam symposium on discrete algo-
-rithms (soda), pp. 291-299, .
-abstracts (peer reviewed only)
-129. m. burch, l. parida, d. e. platt, a. bose, and p. drineas, mask-lmm: a matrix
+122. P. Drineas, I. Kerenidis, and P. Raghavan, Competitive recommendation systems Proc.
+of the 34th ACM Symposium on Theory of Computing (STOC), pp. 82-90, .
+123. K. Akcoglu, P. Drineas, and M. Kao, Fast universal iz ation of investment strategies
+with provably good relative returns, Proc. of the 29th International Colloquium on
+Automata, Languages and Programming (ICALP), pp. 888-900, .
+124. P. Drineas and Y. Makris, Non-intrusive design of concurrently self-testable FSMs,
+Proc. of the IEEE Asian Test Symposium (ATS), pp. 33-38, .
+125. P. Drineas and Y. Makris, Non-intrusive design of concurrently self-testable FSMs,
+IEEE North Atlantic Test Workshop (NATW), Montauk NY, USA, .
+126. E. Drinea, P. Drineas, and P. Huggins, A randomized singular value decomposition
+algorithm for image processing applications, Proc. of the 8th Pan hellenic Conference
+on Informatics, pp. 278-288, .
+127. P. Drineas and R. Kannan, Fast monte carlo algorithms for approximate matrix mul-
+tip li cation Proc. of the 42nd IEEE Symposium on Foundations of Computer Science
+(FOCS), pp. 452-459, .
+128. P. Drineas, R. Kannan, A. Frieze, S. Vempala, and V. Vinay, Clustering in large graphs
+and matrices, Proc. of the 10th Annual ACM-SIAM Symposium on Discrete Algo-
+rithms (SODA), pp. 291-299, .
+Abstracts (peer reviewed only)
+129. M. Burch, L. Parida, D. E. Platt, A. Bose, and P. Drineas, Ma Sk-LMM: a matrix
 sketching-based fast and scalable linear mixed model for association studies in large
-biobanks, american society of human genetics (ashg), .
-130. m. burch, p. jain, z. yang, a. topaloudi, p. paschou, a. bose, and p. drineas,
-predicting complex disorders by combining comorbidity data and polygenic risk
-scores, intelligent systems for molecular biology (ismb), .
-131. a. bose, e. kontopoulou, v. kalantzis, m. elkadi, p. paschou, and p. drineas, ter-
-apca: a fast and scalable method to study genetic variation in tera-scale genotypes,
-annual meeting of the american society of human genetics, .
-132. a. bose, d. e. platt, l. parida, p. paschou, and p. drineas, genetic variation reveals
-migrations into the indian subcontinent and its influence on the indian society,annual
-meeting of the american society of human genetics, . selected for platform
+biobanks, American Society of Human Genetics (ASHG), .
+130. M. Burch, P. Jain, Z. Yang, A. Topaloudi, P. Paschou, A. Bose, and P. Drineas,
+Predicting Complex Disorders by Combining Co morbidity Data and Polygenic Risk
+Scores, Intelligent Systems for Molecular Biology (ISMB), .
+131. A. Bose, E. Kon to poul ou V. Kalantzis, M. Elkadi, P. Paschou, and P. Drineas, Ter-
+a PCA: A fast and scalable method to study genetic variation in tera-scale genotypes,
+Annual Meeting of the American Society of Human Genetics, .
+132. A. Bose, D. E. Platt, L. Parida, P. Paschou, and P. Drineas, Genetic Variation reveals
+migrations into the Indian subcontinent and its influence on the Indian society, Annual
+Meeting of the American Society of Human Genetics, . Selected for platform
 presentation.
-133. a. plantinga, f. tsetsos, p. paschou, p. drineas, b. browning, and g. stamatoy-
-annopoulos,identitybydescentanalysisrevealsfine-scalepopulationstructureincrete,
-annual meeting of the american society of human genetics, .
-134. p.paschou,i.karagiannidis,a.tsirigoti,a.stampoliou,v.papadopoulou,v.g.manolopou-
-los, j. r. kidd, k. k. kidd, and p. drineas, evaluation of the hapmap dataset as
-reference for the greek population, annualmeetingoftheamericansocietyofhuman
-genetics, .
-135. j. lewis, z. abas, c. dadousis, d. lykidis, p. paschou, and p. drineas, tracing the
-origin of cattle breeds with pca-based ancestry informative snps, worldcongress
-on genetics applied to livestock production, . selected for platform presen-
+133. A. Plantinga, F. Tsetsos, P. Paschou, P. Drineas, B. Browning, and G. Stamatoy-
+anno poul os Identitybydescentanalysisrevealsfine-scalepopulationstructurein Crete,
+Annual Meeting of the American Society of Human Genetics, .
+134. P. Paschou, I. Kara gianni d is A. Tsirigoti, A. Stam polio u V. Papa do poul ou V. G. Manolopou-
+los, J. R. Kidd, K. K. Kidd, and P. Drineas, Evaluation of the Hap Map dataset as
+reference for the Greek population, Annual Meeting of the American Societyof Human
+Genetics, .
+135. J. Lewis, Z. Abas, C. Dadousis, D. Lykidis, P. Paschou, and P. Drineas, Tracing The
+Origin Of Cattle Breeds With PCA-based Ancestry Informative SNPs, World Congress
+on Genetics Applied to Livestock Production, . Selected for platform presen-
 tation.
-136. p. paschou, j. lewis, and p. drineas, accurate inference of individual ancestry geo-
-graphic coordinates within europe using small panels of genetic markers,annualmeet-
-ing of the american society of human genetics, .
-137. p.paschou,j.lewis,a.javed,andp.drineas,using principal components analysis to
-identify candidate genes for natural selection,annualmeetingoftheamericansociety
-of human genetics, .
-138. p. paschou, e. ziv, e. g. burchard, m. w. mahoney, and p. drineas, pca-correlated
-snps for structure identification in worldwide human populations, annual meeting of
-the american society of human genetics, .
-139. p. paschou, m. w. mahoney, a. javed, j. r. kidd, a. j. pakstis, s. gu, k. k. kidd,
-andp.drineas,intra-andinter-populationgenotypereconstructionfromtaggingsnps,
-annual meeting of the american society of human genetics, . selected for
+136. P. Paschou, J. Lewis, and P. Drineas, Accurate inference of individual ancestry geo-
+graphic coordinates within Europe using small panels of genetic markers, Annual Meet-
+ing of the American Society of Human Genetics, .
+137. P. Paschou, J. Lewis, A. Javed, and P. Drineas, Using principal components analysis to
+identify candidate genes for natural selection, Annual Meeting of the American Society
+of Human Genetics, .
+138. P. Paschou, E. Ziv, E. G. Burchard, M. W. Mahoney, and P. Drineas, PCA-correlated
+SNPs for structure identification in worldwide human populations, Annual Meeting of
+the American Society of Human Genetics, .
+139. P. Paschou, M. W. Mahoney, A. Javed, J. R. Kidd, A. J. Pakstis, S. Gu, K. K. Kidd,
+and P. Drineas, Intra-andinter-populationgenotypereconstructionfromtagging SNPs,
+Annual Meeting of the American Society of Human Genetics, . Selected for
 platform presentation.
-news
-articles
-1. cs methods applied to genomic research could effectively analyze large biobank dataset.
-availableathttps://www.cs.purdue.edu/news/articles/ /biobank_data.html.
-oct .
-2. new study ties india’s genetic diversity to language, not geography. https://www.
-purdue.edu/newsroom/releases/ /q1/new-study-ties-indias-genetic-diversity-to-language,
--not-geography.html. jan .
-3. genetictestinghasadataproblem. newsoftwarecanhelp. availableathttps://www.
-purdue.edu/newsroom/releases/ /q2/genetic-testing-has-a-data-problem.
--new-software-can-help..html. may .
-4. e.gallopoulos,p.drineas,i.ipsen,andm.w.mahoney,randnla, pythons, and the
-cur for your data problems, siam news, p. 7, february .
-5. abriefinterviewincludingmythoughtsonlinearalgebraappearedinkuldeepsingh’s
-book “linear algebra: step by step.” a link to the interview is available at http:
-//drineas.org.
-6. numerous news articles have covered my june paper in the proceedings of the
-national academy of sciences on a “maritime route of colonization of europe” (in-
-cludingnationalgeographic,science,sciencedaily,etc.). apartiallistoflinkstothe
-relevant articles is available at http://drineas.org.
-7. harnessing the petabyte: data science research center at rensselaer polytechnic
-institute explores cloud computing and supercomputing to analyze big data by
-mary l. martialay, rpi press release, sep .
-(available at http://news.rpi.edu/content/ /09/06/harnessing-
+News
+Articles
+1. CS methods applied to genomic research could effectively analyze large biobank dataset.
+/news/articles//biobank_data. html.
+Oct .
+2. New study ties India’s genetic diversity to language, not geography.
+/newsroom/releases//Q1/new-study-ties-indias-genetic-diversity-to-language,
+-not-geography. html. Jan .
+3. Genetictestinghasadataproblem. Newsoftwarecanhelp. Available at
+/newsroom/releases//Q2/genetic-testing-has-a-data-problem.
+-new-software-can-help.. html. May .
+4. E. Gallop ou los P. Drineas, I. Ipsen, and M. W. Mahoney, Rand NLA, Pythons, and the
+CUR for your Data problems, SIAM News, p. 7, February .
+5. A brief interview including my thoughts on Linear Algebra appeared in Kuldeep Singh’s
+book “Linear Algebra: Step by Step.” A link to the interview is available at http:
+.
+6. Numerous news articles have covered my June paper in the Proceedings of the
+National Academy of Sciences on a “Maritime Route Of Colonization of Europe” (in-
+cluding National Geographic, Science, Science Daily, etc.). A partial list of links to the
+relevant articles is available at
+7. Harnessing the Petabyte: Data Science Research Center at Rensselaer Polytechnic
+Institute Explores Cloud Computing and Super computing To Analyze Big Data by
+Mary L. Martialay, RPI Press Release, Sep .
+(Available at
 petabyte-data-science-research-center-explores
 -cloud-computing-and?destination=node/40180)
-8. dnaanalysisunearthsorigins ofminoans, thefirst majoreuropeancivilization by
-mary l. martialay, rpi press release, may .
-(available at http://news.rpi.edu/luwakkey/3181)
-9. study helps pinpoint genetic variations in european americans (by gabrielle de-
-marco), rpi press release, aug .
-(available at http://news.rpi.edu/update.do?artcenterkey=2479)
-10. computer program reveals anyone’s ancestry (by gabrielle demarco), featured at
-yahoo! news and livescience, apr .
-(available at http://www.livescience.com/health/080404-bts-drineas.html)
-11. tracing your ancestry: computer program accurately analyzes anonymous dna
-samples, featured at sciencedaily, sep .
-(availableathttp://www.sciencedaily.com/releases/ /09/ .htm)
-12. dna markers and computer science methodology can be used to trace individual
-ancestry, featured at scitizen, sep .
-(availableathttp://scitizen.com/stories/biotechnology/ /10/dna-markers
--and-computer-science-methodology-can-be-used-to-trace-individual-ancestry/)
-13. g.h.golub,m.w.mahoney,p.drineas,andl.-h.lim,mmds2006: bridgingthegap
+8. DNA Analysis Unearths Origins of Minoans, the First Major European Civilization by
+Mary L. Martialay, RPI Press Release, May .
+(Available at
+9. Study Helps Pinpoint Genetic Variations in European Americans (by Gabrielle De-
+Marco), RPI Press Release, Aug .
+(Available at
+10. Computer Program Reveals Anyone’s Ancestry (by Gabrielle De Marco), featured at
+Yahoo! News and Live Science, Apr .
+(Available at
+11. Tracing Your Ancestry: Computer Program Accurately Analyzes Anonymous DNA
+Samples, featured at Science Daily, Sep .
+releases 09 . htm)
+12. DNA Markers and Computer Science Methodology Can be Used to Trace Individual
+Ancestry, featured at Scitizen, Sep .
+/stories/Biotechnology//10/DNA-Markers
+-and-Computer-Science-Methodology-Can-be-Used-to-Trace-Individual-Ancestry/)
+13. G. H. Golub, M. W. Mahoney, P. Drineas, and L.-H. Lim, MMDS2006: bridging the gap
 between numerical linear algebra, theoretical computer science, and data applications,
-siam news, oct .
-teaching
-(thelastcolumnreflectsthesummaryevaluationgroupmedianscorefortheinstructorfrom
-the student responses. the maximum score until spring was five; was reduced to four
-starting in spring . no scores were assigned in spring due to purdue’s pandemic
+SIAM News, Oct .
+Teaching
+The last column reflects the summary evaluation group median score for the instructor from
+the student responses. The maximum score until Spring was five; was reduced to four
+starting in Spring . No scores were assigned in Spring due to Purdue’s pandemic
 policy.)
-date number title enrol. idea
-spring csci-1200 computer science ii 140 3.8
-fall csci-6962 randomized algorithms 12 4.3
-spring csci-1200 computer science ii 206 4.0
-spring csci-4961 network flows & linear programming 18 4.1
-spring csci-2400 models of computations 99 4.0
-spring csci-2400 models of computations 63 4.1
-spring csci-6962 randomized algorithms 15 4.6
-spring csci-2400 models of computations 69 4.1
-spring csci-6962 randomized algorithms 11 4.4
-spring csci-2400 models of computations 102 4.4
-spring csci-6962 randomized algorithms 6 5
-spring csci-2400 models of computations 78 4.4
-spring csci-6962 randomized algorithms 8 4.9
-spring csci-2400 models of computations 79 4.5
-spring csci-6962 randomized algorithms 10 5
-spring csci-2400 models of computations 77 4.4
-spring csci-6962 randomized algorithms 12 5
-spring csci-2200 foundations of computer science 95 4.3
-spring csci-2400 models of computations 54 4.1
-spring csci-6962 randomized algorithms 14 4.6
-spring csci-4966/6967 foundations of data science 23 4.7
-spring csci-2200 foundations of computer science 198 4.4
-spring csci-6962 randomized algorithms 31 4.9
-fall cs-59000 randomized algorithms in nla 11 4.9
-spring cs-182 foundations of computer science 342 4.5
-fall cs-59000 randomized algorithms in nla 8 4.8
-spring cs-182 foundations of computer science 150 4.8
-fall cs-381 introduction to algorithms 150 4.8
-spring cs-182 foundations of computer science 358 4.6
-fall cs-588 randomized algorithms 23 5
-spring cs-182 foundations of computer science 440 -
-spring cs-182 foundations of computer science (campus) 393 3.37/4
-spring cs-182 foundations of computer science (online) 113 3.52/4
-spring cs-588 randomized algorithms 42 4.8
-phd current ph.d. students
-students myson burch, joined sep
-mai elkadi, joined sep
-pritesh jain, joined sep
-gregory dexter, joined sep
-jawad raheel, joined sep
-christos boutsikas, joined sep
-xinyu luo, joined sep
-marios mertzanidis, joined sep
-graduated ph.d. students
-asif javed, graduated december
-utku gunay acer, graduated august
-jamey lewis, graduated september
-christos boutsidis, graduated may (awarded the robert mcnaughton prize)
-saurabh paul, graduated may
-abhisek kundu, graduated dec
-nivas nambirajan, graduated dec
-chander iyer, graduated may
-aritra bose, graduated aug
-eugenia kontopoulou, graduated sep
-zhiyu yang, graduated dec
-agniva chowdhuri, graduated dec
-ph.d. committee memberships (not including purdue and rpi)
-supratim shit (advisor: anirban dasgupta, iit gandhinagar, india
-peng zhang (advisor: richard peng, georgia tech)
-kevin cheng (advisor: ravi kannan, yale university)
-john holodnak (advisor: ilse ipsen, north carolina state university)
-thomas wentworth (advisor: ilse ipsen, north carolina state university)
-john aleander (advisor: peristera paschou, democritus university of thrace, greece)
-fotios tsetsos (advisor: peristera paschou, democritus university of thrace, greece)
-shanmukha sampath (advisor: peristera paschou, democritus university of thrace, greece)
-aviv rotbart (advisor: amir averbuch, university of tel aviv)
-tutorials (keynote talks and tutorials.)
-& keynotes
-1. plenary talk: sketching-based algorithms for ridge regression, xxi householder
-symposium on numerical linear algebra, jun .
-2. keynote speaker: randomized numerical linear algebra (randnla), 45th woud-
-schoten conference, woudschoten, netherlands, oct .
-3. tutorial: randomized numerical linear algebra (randnla): overview, opening
-workshop of the numerical analysis for data science - program of the statis-
-tical and applied mathematical sciences institute (samsi), aug .
-4. keynote speaker: randnla: randomization in numerical linear algebra, nu-
-merical analysis and scientific computation with applications (nasca), kalamata,
-greece, jul .
-5. summer school (lecturer): randnla: randomization in numerical linear al-
-gebra, institute for advanced study (ias) and the park city mathematics institute
-(pcmi) graduate summer school : the mathematics of data, midway, utah,
-jul .
-6. invited tutorial: randnla: randomization in numerical linear algebra, siam
-conference on applied linear algebra, atlanta, georgia, oct .
-7. summer school (organizer and lecturer): randnla: randomization in numer-
-ical linear algebra, gene golub siam summer school (g2s3), delphi, greece, jun
+Date Number Title Enrol. IDEA
+Spring CSCI-1200 Computer Science II 140 3.8
+Fall CSCI-6962 Randomized Algorithms 12 4.3
+Spring CSCI-1200 Computer Science II 206 4.0
+Spring CSCI-4961 Network Flows & Linear Programming 18 4.1
+Spring CSCI-2400 Models of Computations 99 4.0
+Spring CSCI-2400 Models of Computations 63 4.1
+Spring CSCI-6962 Randomized Algorithms 15 4.6
+Spring CSCI-2400 Models of Computations 69 4.1
+Spring CSCI-6962 Randomized Algorithms 11 4.4
+Spring CSCI-2400 Models of Computations 102 4.4
+Spring CSCI-6962 Randomized Algorithms 6 5
+Spring CSCI-2400 Models of Computations 78 4.4
+Spring CSCI-6962 Randomized Algorithms 8 4.9
+Spring CSCI-2400 Models of Computations 79 4.5
+Spring CSCI-6962 Randomized Algorithms 10 5
+Spring CSCI-2400 Models of Computations 77 4.4
+Spring CSCI-6962 Randomized Algorithms 12 5
+Spring CSCI-2200 Foundations of Computer Science 95 4.3
+Spring CSCI-2400 Models of Computations 54 4.1
+Spring CSCI-6962 Randomized Algorithms 14 4.6
+Spring CSCI-4966/6967 Foundations of Data Science 23 4.7
+Spring CSCI-2200 Foundations of Computer Science 198 4.4
+Spring CSCI-6962 Randomized Algorithms 31 4.9
+Fall CS-59000 Randomized Algorithms in NLA 11 4.9
+Spring CS-182 Foundations of Computer Science 342 4.5
+Fall CS-59000 Randomized Algorithms in NLA 8 4.8
+Spring CS-182 Foundations of Computer Science 150 4.8
+Fall CS-381 Introduction to Algorithms 150 4.8
+Spring CS-182 Foundations of Computer Science 358 4.6
+Fall CS-588 Randomized Algorithms 23 5
+Spring CS-182 Foundations of Computer Science 440 -
+Spring CS-182 Foundations of Computer Science (campus) 393 3.37/4
+Spring CS-182 Foundations of Computer Science (online) 113 3.52/4
+Spring CS-588 Randomized Algorithms 42 4.8
+Ph D Current Ph. D. Students
+Students Myson Burch, joined Sep
+Mai Elkadi, joined Sep
+Pritesh Jain, joined Sep
+Gregory Dexter, joined Sep
+Jawad Raheel, joined Sep
+Christos Boutsikas, joined Sep
+Xinyu Luo, joined Sep
+Marios Mer tz an id is joined Sep
+Graduated Ph. D. Students
+Asif Javed, graduated December
+Utku Gunay Acer, graduated August
+Jamey Lewis, graduated September
+Christos Boutsidis, graduated May (awarded the Robert Mc Naughton Prize)
+Saurabh Paul, graduated May
+Abhisek Kundu, graduated Dec
+Nivas N ambi rajan graduated Dec
+Chander Iyer, graduated May
+Aritra Bose, graduated Aug
+Eugenia Kon to poul ou graduated Sep
+Zhiyu Yang, graduated Dec
+Agniva Chowdhuri, graduated Dec
+Ph. D. Committee Memberships (not including Purdue and RPI)
+Supratim Shit (advisor: Anirban Dasgupta, IIT Gandhi nagar India
+Peng Zhang (advisor: Richard Peng, Georgia Tech)
+Kevin Cheng (advisor: Ravi Kannan, Yale University)
+John Holodnak (advisor: Ilse Ipsen, North Carolina State University)
+Thomas Wentworth (advisor: Ilse Ipsen, North Carolina State University)
+John Aleander (advisor: Peristera Paschou, Democritus University of Thrace, Greece)
+Fotios Tsetsos (advisor: Peristera Paschou, Democritus University of Thrace, Greece)
+Shanmukha Sampath (advisor: Peristera Paschou, Democritus University of Thrace, Greece)
+Aviv Rotbart (advisor: Amir Averbuch, University of Tel Aviv)
+Tutorials (Keynote talks and tutorials.)
+& Keynotes
+1. Plenary talk: Sketching-based Algorithms for Ridge Regression, XXI Householder
+Symposium on Numerical Linear Algebra, Jun .
+2. Keynote speaker: Randomized Numerical Linear Algebra (Rand NLA), 45th Woud-
+schoten Conference, W oud s cho ten Netherlands, Oct .
+3. Tutorial: Randomized Numerical Linear Algebra (Rand NLA): overview, Opening
+workshop of the Numerical Analysis for Data Science - program of the Statis-
+tical and Applied Mathematical Sciences Institute (SAMSI), Aug .
+4. Keynote speaker: Rand NLA: Random iz ation in Numerical Linear Algebra, Nu-
+merical Analysis and Scientific Computation with Applications (NASCA), Kalamata,
+Greece, Jul .
+5. Summer School (lecturer): Rand NLA: Random iz ation in Numerical Linear Al-
+gebra, Institute for Advanced Study (IAS) and the Park City Mathematics Institute
+(PCMI) Graduate Summer School : The Mathematics of Data, Midway, Utah,
+Jul .
+6. Invited Tutorial: Rand NLA: Random iz ation in Numerical Linear Algebra, SIAM
+Conference on Applied Linear Algebra, Atlanta, Georgia, Oct .
+7. Summer School (organizer and lecturer): Rand NLA: Random iz ation in Numer-
+ical Linear Algebra, Gene Golub SIAM Summer School (G2S3), Delphi, Greece, Jun
 .
-8. keynote speaker: randnla: randomization in numerical linear algebra, siam
-workshop on combinatorial scientific computing (csc), jul .
-9. tutorial: past, present and future of randomized numerical linear algebra , big
-data bootcamp, simons institute for the theory of computing, university of califor-
-nia, berkeley, sep .
-10. tutorial: mining massive datasets: a (randomized) linear algebraic approach,
-openingworkshopofthestatisticalandappliedmathematicalsciencesinstitute(samsi)
-“massive datasets” - program, sep .
-11. keynote speaker: randomized algorithms in linear algebra, siam conference on
-applied linear algebra, valencia, spain, jun .
-12. keynote speaker: randomized algorithms in data mining: a linear algebraic
-approach, from data to knowledge workshop, university of california, berkeley,
-may .
-13. keynote speaker: randomizedalgorithmsforlow-rankapproximationsanddata
-applications, workshop on low-rank methods for large-scale machine learning, help
-in conjunction with the neural information processing systems conference, .
-14. tutorial: randomized algorithms in linear algebra and applications, workshop on
-algorithms for modern massive datasets, stanford university, jun .
-15. keynotespeaker: randomizedalgorithmsfortheleast-squaresapproximationprob-
-lem, midwest theory day, university of michigan, ann arbor, may .
-16. tutorial: informationretrievalanddatamining: alinearalgebraicperspective,math-
-ematicsofknowledgeandsearchengines,instituteforpureandappliedmathematics,
-university of california los angeles, sep .
-17. tutorial: randomizedalgorithmsformatricesandmassivedatasets,vldb,sep2006.
-18. tutorial: randomized algorithms for matrices and massive datasets, siam confer-
-ence on data mining (sdm), apr .
-19. tutorial: randomized algorithms for matrices and massive datasets, acm interna-
-tional conference on knowledge discovery and data mining (kdd), aug .
-invited (invited presentations only; contributed conference presentations are not included.)
-talks
-20. randomizednumericallinearalgebraforinteriorpointmethods,minisymposium on
-randomized methods in large-scale inference and data problems, siam conference
-on mathematics of data science, sep .
-21. dimensionality reduction in the analysis of human genetics data, computer engi-
-neering and informatics department, university of patras, jun .
-22. randomized numerical linear algebra for interior point methods, algorithms and
-foundations of data science workshop, may .
-23. randomizednumericallinearalgebra: fromleastsquarestointeriorpointmethods,
-third workshop on matrix computations, dedicated to gene h. golub, apr .
-24. randomizedlinearalgebraforinteriorpointmethods,45thwoudschotenconference,
-woudschoten, netherlands, oct .
-25. dimensionalityreductionintheanalysisofhumangeneticsdata,instituteformath-
-ematical and statistical innovation (imsi), university of chicago, sep .
-26. randomized linear algebra for interior point methods, workshop on algorithms for
-large data, aug .
-27. randomized numerical linear algebra (randnla), mathematics colloquium, emory
-university, apr .
-28. randomized linear algebra for interior point methods, siam conference on compu-
-tational science and engineering, mar .
-29. randomized linear algebra algorithms to approximate the von neumann entropy of
-large density matrices, ibm research workshop on the informational lens, oct .
-30. randomized algorithms for sparse pca and determinant estimation, center for
-computational and applied mathematics seminar, purdue university, sep .
-31. leverage scores, department of applied mathematics colloquium, national technical
-university of athens, may .
-32. dimensionality reduction in the analysis of human genetics data, math-bio seminar,
-university of pennsylvania, oct .
-33. leverage scores, statistics colloquium, university of chicago, oct .
-34. anapproximationalgorithmforsparsepca,theoryseminar, purdueuniversity,sep
+8. Keynote Speaker: Rand NLA: Random iz ation in Numerical Linear Algebra, SIAM
+Workshop on Combinatorial Scientific Computing (CSC), Jul .
+9. Tutorial: Past, Present and Future of Randomized Numerical Linear Algebra , Big
+Data Bootcamp, Simons Institute for the Theory of Computing, University of Califor-
+nia, Berkeley, Sep .
+10. Tutorial: Mining Massive Datasets: a (Randomized) Linear Algebraic Approach,
+Opening workshop of the Statistical and Applied Mathematical Sciences Institute SAM SI
+“Massive Datasets” - program, Sep .
+11. Keynote Speaker: Randomized Algorithms in Linear Algebra, SIAM Conference on
+Applied Linear Algebra, Valencia, Spain, Jun .
+12. Keynote Speaker: Randomized Algorithms in Data Mining: a Linear Algebraic
+Approach, From Data to Knowledge Workshop, University of California, Berkeley,
+May .
+13. Keynote Speaker: Randomized Algorithms for Low-Rank Approximations and Data
+Applications, Workshop on Low-rank Methods for Large-scale Machine Learning, help
+in conjunction with the Neural Information Processing Systems Conference, .
+14. Tutorial: Randomized Algorithms in Linear Algebra and Applications, Workshop on
+Algorithms for Modern Massive Datasets, Stanford University, Jun .
+15. Keynote Speaker: Randomizedalgorithmsfortheleast-squaresapproximationprob-
+lem, Midwest Theory day, University of Michigan, Ann Arbor, May .
+16. Tutorial: Information retrieval and data mining a linear algebraic perspective Math-
+ematicsof Knowledge and Search Engines, Institute for Pureand Applied Mathematics,
+University of California Los Angeles, Sep .
+17. Tutorial: Randomized algorithms for matrices and massive datasets VLDB, Sep2006.
+18. Tutorial: Randomized algorithms for matrices and massive datasets, SIAM Confer-
+ence on Data Mining (SDM), Apr .
+19. Tutorial: Randomized algorithms for matrices and massive datasets, ACM Interna-
+tional Conference on Knowledge Discovery and Data Mining (KDD), Aug .
+Invited (Invited presentations only; contributed conference presentations are not included.)
+Talks
+20. Randomized Numerical Linear Algebrafor Interior Point Methods, Mini symposium on
+Randomized Methods in Large-Scale Inference and Data Problems, SIAM Conference
+on Mathematics of Data Science, Sep .
+21. Dimensionality Reduction in the Analysis of Human Genetics Data, Computer Engi-
+neering and Informatics Department, University of Patras, Jun .
+22. Randomized Numerical Linear Algebra for Interior Point Methods, Algorithms and
+Foundations of Data Science Workshop, May .
+23. Randomized Numerical Linear Algebra: From Least Squaresto Interior Point Methods,
+Third Workshop on Matrix Computations, dedicated to Gene H. Golub, Apr .
+24. Randomized Linear Algebrafor Interior Point Methods 45 th W oud s cho ten Conference,
+W oud s cho ten Netherlands, Oct .
+25. Dimensionality Reduction in the Analysisof Human Genetics Data, Institute for Math-
+ematical and Statistical Innovation (IMSI), University of Chicago, Sep .
+26. Randomized Linear Algebra for Interior Point Methods, Workshop on Algorithms for
+Large Data, Aug .
+27. Randomized Numerical Linear Algebra (Rand NLA), Mathematics Colloquium, Emory
+University, Apr .
+28. Randomized Linear Algebra for Interior Point Methods, SIAM Conference on Compu-
+tational Science and Engineering, Mar .
+29. Randomized Linear Algebra Algorithms to approximate the Von Neumann Entropy of
+large density matrices, IBM Research Workshop on the Informational Lens, Oct .
+30. Randomized Algorithms for Sparse PCA and Determinant Estimation, Center for
+Computational and Applied Mathematics Seminar, Purdue University, Sep .
+31. Leverage Scores, Department of Applied Mathematics Colloquium, National Technical
+University of Athens, May .
+32. Dimensionality reduction in the analysis of human genetics data, Math-Bio Seminar,
+University of Pennsylvania, Oct .
+33. Leverage Scores, Statistics Colloquium, University of Chicago, Oct .
+34. An approximation algorithm for Sparse PCA, Theory Seminar, Purdue University, Sep
 .
-35. randnla: randomization in numerical linear algebra, computer science collo-
-quium, washington university st. louis, sep .
-36. randnla: randomization in numerical linear algebra, machine learning day,
-google research, mar .
-37. leverage scores in data analysis, mathematical institute, oxford university, may
+35. Rand NLA: Random iz ation in Numerical Linear Algebra, Computer Science Collo-
+quium, Washington University St. Louis, Sep .
+36. Rand NLA: Random iz ation in Numerical Linear Algebra, Machine Learning Day,
+Google Research, Mar .
+37. Leverage Scores in Data Analysis, Mathematical Institute, Oxford University, May
 .
-38. randnla: randomization in numerical linear algebra, workshop on optimization
-and matrix methods in big data, fields institute, feb .
-39. randnla: randomization in numerical linear algebra, computer science collo-
-quium, purdue university, nov .
-40. identifying influential entries in a matrix, yahoo labs new york, nov .
-41. randnla: randomization in numerical linear algebra, computational math col-
-loquium, university of waterloo, nov .
-42. identifyinginfluentialentriesinamatrix,householdersymposiumxix,spa,belgium,
-jun .
-43. leverage scores, school of mathematics, university of edinburgh, apr .
-44. randnla: randomization in numerical linear algebra, computer science depart-
-ment, university of edinburgh, apr .
-45. leverage scores in data analysis, international computer science institute (icsi),
-university of california berkeley, feb .
-46. randnla: randomization in numerical linear algebra, skytree, the machine
-learning company, feb .
-47. leveragescoresindataanalysis,neyman seminar, department of statistics, univer-
-sity of california berkeley, nov .
-48. randnla:randomizationinnumericallinearalgebra,workshoponsuccinctdata
-representations and applications, simons institute for the theory of computing, uni-
-versity of california, berkeley, sep .
-49. randnla: randomization in numerical linear algebra, simons foundation work-
-shop on computer science issues in big data, apr .
-50. randnla: randomization in numerical linear algebra, workshop celebrating ravi
-kannan’s 60th birthday, carnegie-mellon university, may .
-51. randomized algorithms in numerical linear algebra, nsf workshop on big data:
-from signal processing to systems engineering, mar .
-52. randnla: randomization in numerical linear algebra, darpa workshop on big
-data and large-scale analytics, mar .
-53. leverage scores, numerical analysis seminar, north carolina state university, nov
+38. Rand NLA: Random iz ation in Numerical Linear Algebra, Workshop on Optimization
+and Matrix Methods in Big Data, Fields Institute, Feb .
+39. Rand NLA: Random iz ation in Numerical Linear Algebra, Computer Science Collo-
+quium, Purdue University, Nov .
+40. Identifying Influential Entries in a Matrix, Yahoo Labs New York, Nov .
+41. Rand NLA: Random iz ation in Numerical Linear Algebra, Computational Math Col-
+loquium, University of Waterloo, Nov .
+42. Identifying Influential Entriesina Matrix, Householder Symposium XIX, Spa, Belgium,
+Jun .
+43. Leverage scores, School of Mathematics, University of Edinburgh, Apr .
+44. Rand NLA: Random iz ation in Numerical Linear Algebra, Computer Science Depart-
+ment, University of Edinburgh, Apr .
+45. Leverage Scores in Data Analysis, International Computer Science Institute (ICSI),
+University of California Berkeley, Feb .
+46. Rand NLA: Random iz ation in Numerical Linear Algebra, SKYTREE, The Machine
+Learning Company, Feb .
+47. Leverage Scoresin Data Analysis, Neyman Seminar, Department of Statistics, Univer-
+sity of California Berkeley, Nov .
+48. Rand N LA Random iz ation in Numerical Linear Algebra, Workshopon Succinct Data
+Representations and Applications, Simons Institute for the Theory of Computing, Uni-
+versity of California, Berkeley, Sep .
+49. Rand NLA: Random iz ation in Numerical Linear Algebra, Simons Foundation Work-
+shop on Computer Science Issues in Big Data, Apr .
+50. Rand NLA: Random iz ation in Numerical Linear Algebra, Workshop celebrating Ravi
+Kannan’s 60th birthday, Carnegie-Mellon University, May .
+51. Randomized Algorithms in Numerical Linear Algebra, NSF workshop on Big Data:
+From Signal Processing to Systems Engineering, Mar .
+52. Rand NLA: Random iz ation in Numerical Linear Algebra, DARPA Workshop on Big
+Data and Large-Scale Analytics, Mar .
+53. Leverage Scores, Numerical Analysis Seminar, North Carolina State University, Nov
 .
-54. randomized algorithms in linear algebra and applications in data analysis, com-
-puter science and artificial intelligence laboratory (csail), mit, sep .
-55. leverage scores, scientific computing and numerics (scan) seminar, cornell uni-
-versity, sep .
-56. randomized algorithms in linear algebra and the column subset selection problem,
-theory seminar, carnegie mellon university, apr .
-57. dimensionality reduction in the analysis of human genetics data, bioinformatics sem-
-inar, mit, apr .
-58. randomized matrix algorithms, theory colloquium, university of maryland college
-park, feb .
-59. randomizedmatrixalgorithmsandtheirapplications,specialsessiononrandomma-
-trix theory and applications in spring western sectional meeting of the ameri-
-can mathematical society, apr .
-60. sampling algorithms for ℓ regression, theory seminar, university of toronto, nov
+54. Randomized Algorithms in Linear Algebra and Applications in Data Analysis, Com-
+puter Science and Artificial Intelligence Laboratory (CSAIL), MIT, Sep .
+55. Leverage Scores, Scientific Computing and Numerics (SCAN) Seminar, Cornell Uni-
+versity, Sep .
+56. Randomized Algorithms in Linear Algebra and the Column Subset Selection Problem,
+Theory Seminar, Carnegie Mellon University, Apr .
+57. Dimensionality reduction in the analysis of human genetics data, Bioinformatics Sem-
+inar, MIT, Apr .
+58. Randomized matrix algorithms, Theory Colloquium, University of Maryland College
+Park, Feb .
+59. Randomized matrix algorithms and their applications Special Sessionon Random Ma-
+trix Theory and Applications in Spring Western Sectional Meeting of the Ameri-
+can Mathematical Society, Apr .
+60. Sampling algorithms for ℓ regression, Theory Seminar, University of Toronto, Nov
 2
 .
-61. randomizedalgorithmsinlinearalgebra, siam conference on applied linear alge-
-bra, oct .
-62. dimensionality reduction in the analysis of human genetics data, dimacs work-
-shop on algorithmics in human population-genomics, apr .
-63. randomized algorithms for matrix computations and applications to data mining,
-numerical analysis and scientific computing seminar, courant institute of mathe-
-matical sciences, new york university, apr .
-64. approximating a tensor as a sum of rank-one components, nsf workshop on future
-directions in tensor-based computation and modeling, feb .
-65. randomized algorithms for matrix computations and applications to data mining,
-rpi brown bag lunch lecture series, feb .
-66. randomized algorithms for linear algebraic computations and applications to net-
-workanalysis,workshop on new mathematical frontiers in network multi-resolution
-analysis,instituteforpureandappliedmathematics,universityofcalifornialosan-
-geles, nov .
-67. the column subset selection problem: theory and applications, computer science
-department, university of pennsylvania, nov .
-68. randomized algorithms for matrix computations and applications to data mining,
-ibm t.j. watson research center, sep .
-69. the column subset selection problem, householder symposium xvii, zeuthen, ger-
-many, jun .
-70. randomized algorithms for matrix computations and applications to data mining,
-colloquium, computer science department, johns hopkins university, may .
-71. randomized algorithms for matrix computations and applications to data mining,
-colloquium, computer science department, northeastern university, feb .
-72. identifying ancestry informative markers via principal components analysis, work-
-shop on search and knowledge building for biological datasets, institute for pure and
-applied mathematics, university of california los angeles, nov .
-73. samplingalgorithmsforℓ regressionandthecolumnsubsetselectionproblem,applied
+61. Randomized Algorithms in Linear Algebra, SIAM Conference on Applied Linear Alge-
+bra, Oct .
+62. Dimensionality Reduction in the Analysis of Human Genetics Data, DIMACS Work-
+shop on Algorithmic s in Human Population-Genomics, Apr .
+63. Randomized Algorithms for Matrix Computations and Applications to Data Mining,
+Numerical Analysis and Scientific Computing Seminar, Courant Institute of Mathe-
+matical Sciences, New York University, Apr .
+64. Approximating a tensor as a sum of rank-one components, NSF Workshop on Future
+Directions in Tensor-Based Computation and Modeling, Feb .
+65. Randomized Algorithms for Matrix Computations and Applications to Data Mining,
+RPI Brown Bag Lunch Lecture Series, Feb .
+66. Randomized Algorithms for Linear Algebraic Computations and Applications to Net-
+work Analysis, Workshop on New Mathematical Frontiers in Network Multi-Resolution
+Analysis, Institute for Pureand Applied Mathematics, University of California Los An-
+geles, Nov .
+67. The Column Subset Selection Problem: Theory and Applications, Computer Science
+Department, University of Pennsylvania, Nov .
+68. Randomized Algorithms for Matrix Computations and Applications to Data Mining,
+IBM T. J. Watson Research Center, Sep .
+69. The Column Subset Selection Problem, Householder Symposium XVII, Zeuthen, Ger-
+many, Jun .
+70. Randomized Algorithms for Matrix Computations and Applications to Data Mining,
+Colloquium, Computer Science Department, Johns Hopkins University, May .
+71. Randomized Algorithms for Matrix Computations and Applications to Data Mining,
+Colloquium, Computer Science Department, Northeastern University, Feb .
+72. Identifying ancestry informative markers via Principal Components Analysis, Work-
+shop on Search and Knowledge Building for Biological Datasets, Institute for Pure and
+Applied Mathematics, University of California Los Angeles, Nov .
+73. Sampling algorithms for regression and the column subset selection problem Applied
 2
-mathematics seminar, university of california davis, nov .
-74. deterministic and randomized algorithms for column subset selection, numan2007
-conference in numerical analysis, kalamata, greece, sep .
-75. from the singular value decomposition of matrices to cur-type decompositions, col-
-loquium, max planck institute for informatics, aug .
-76. fastrandomizedalgorithmsforleastsquaresapproximations, theory colloquium, max
-planck institute for informatics, aug .
-77. fast randomized algorithms for least squares approximations, international congress
-on industrial and applied mathematics, eth zurich, jul .
-78. fromthesingularvaluedecompositionofmatricestocur-typedecompositions: algo-
-rithms and applications, colloquium, computer science department, dartmouth uni-
-versity, apr .
-79. sampling algorithms and coresets for ℓ regression and applications, princeton theory
+Mathematics Seminar, University of California Davis, Nov .
+74. Deterministic and randomized algorithms for column subset selection, Num An2007
+Conference in Numerical Analysis, Kalamata, Greece, Sep .
+75. From the singular value decomposition of matrices to CUR-type decomposition s Col-
+loquium, Max Planck Institute for Informatics, Aug .
+76. Fast randomized algorithms for least squares approximations Theory colloquium, Max
+Planck Institute for Informatics, Aug .
+77. Fast randomized algorithms for least squares approximations, International Congress
+on Industrial and Applied Mathematics, ETH Zurich, Jul .
+78. From the singular value decomposition of matrices to CUR-typedecompositions: algo-
+rithms and applications, Colloquium, Computer Science Department, Dartmouth Uni-
+versity, Apr .
+79. Sampling algorithms and coresets for ℓ regression and applications, Princeton Theory
 2
-lunch, mar .
-80. from the singular value decomposition of matrices to cur-type decompositions, new
-england complex systems institute, dec .
-81. fromthesingularvaluedecompositionofmatricestocur-typedecompositions, gen-
-eral electric research division, niskayuna, nov .
-82. subspace sampling and relative error matrix approximation, workshop on algorithms
-for modern massive datasets, stanford university, jun .
-83. subspace sampling: coresets for ℓ regression problems, bertinoro workshop on space-
+Lunch, Mar .
+80. From the singular value decomposition of matrices to CUR-type decomposition s New
+England Complex Systems Institute, Dec .
+81. From the singular value decomposition of matrices to CUR-typedecompositions, Gen-
+eral Electric Research Division, Niskayuna, Nov .
+82. Subspace sampling and relative error matrix approximation, Workshop on Algorithms
+for Modern Massive Datasets, Stanford University, Jun .
+83. Subspace sampling: coresets for ℓ regression problems, Bertinoro workshop on space-
 2
-conscious algorithms, jun .
-84. fromthesingularvaluedecompositionofmatricestocur-typedecompositions: algo-
-rithms and applications, bioinformatics colloquium, rensselaer polytechnic institute,
-apr .
-85. approximating a matrix with submatrices: algorithms and applications, theory col-
-loquium, computer science department, yale university, apr .
-86. a relative-error cur decomposition for matrices and its data applications, theory
-colloquium, computer science department, university of pennsylvania, mar .
-87. a relative-error cur decomposition for matrices and its data applications, theory
-colloquium, computer science department, columbia university, feb .
-88. cur matrix decompositions for improved data analysis, yahoo! research, oct .
-89. randomized algorithms for matrices and applications, sandia national laboratories,
-aug .
-90. samplingalgorithmsforℓ regressionandapplications,dagstuhl seminar on sublinear
+conscious algorithms, Jun .
+84. From the singular value decomposition of matrices to CUR-typedecompositions: algo-
+rithms and applications, Bioinformatics Colloquium, Rensselaer Polytechnic Institute,
+Apr .
+85. Approximating a matrix with sub matrices algorithms and applications, Theory Col-
+loquium, Computer Science Department, Yale University, Apr .
+86. A relative-error CUR decomposition for matrices and its data applications, Theory
+Colloquium, Computer Science Department, University of Pennsylvania, Mar .
+87. A relative-error CUR decomposition for matrices and its data applications, Theory
+Colloquium, Computer Science Department, Columbia University, Feb .
+88. CUR matrix decomposition s for improved data analysis, Yahoo! Research, Oct .
+89. Randomized algorithms for matrices and applications, Sandia National Laboratories,
+Aug .
+90. Sampling algorithms for regression and applications Dagstuhl Seminar on Sublinear
 2
-algorithms, jul .
-91. randomized algorithms for matrices and applications, ibm research, almaden, may
+Algorithms, Jul .
+91. Randomized algorithms for matrices and applications, IBM Research, Almaden, May
 .
-92. monte-carlo algorithms for matrices and massive datasets, theory colloquium, com-
-puter science department, stanford university, may .
-93. the cur matrix decomposition and its applications to algorithm design and mas-
-sive data sets, colloquium, computer science department, rutgers university and
-dimacs, nov .
-94. anovelmatrixdecompositionwithapplicationstoalgorithmdesignandmassivedata
-sets, theory colloquium, computer science department, university of michigan at
-ann arbor, sep .
-95. fast monte-carlo algorithms for common matrix operations, colloquium, computer
-science department, purdue university, sep .
-96. randomizedalgorithmsformatrixoperations,colloquium, computer engineering and
-informatics department, university of patras, jun .
-97. pass-efficientalgorithmsforapproximatinglargematrices,mathematischesforschungsin-
-stitut oberwolfach (mfo) workshop on approximation algorithms for np-hard prob-
-lems, jun .
-98. computing sketches of matrices efficiently and privacy preserving data mining, di-
-macs workshop on privacy preserving data mining, mar .
-99. randomized algorithms for matrix operations, colloquium, department of mathemat-
-ics, rensselaer polytechnic institute, feb .
-100. pass efficient algorithms for matrix operations and max-2-csp problems, nec re-
-search, princeton, jul .
-101. pass efficient algorithms for matrix approximations, colloquium, department of com-
-puter science, brown university, mar .
-102. pass efficient algorithms for matrix approximations, colloquium, department of com-
-puter science, rensselaer polytechnic institute, feb .
-103. pass efficient algorithms for matrix approximations, theory colloquium, department
-of engineering and applied sciences, harvard university, feb .
-104. randomized algorithms for approximate matrix multiplication and the singular value
-decomposition, theory colloquium, department of computer science, brown univer-
-sity, dec .
-105. fast monte carlo algorithms for matrix multiplication, dimacs workshop on sublin-
-ear algorithms, sep .
-106. a fast monte carlo singular value decomposition algorithm, theory colloquium, de-
-partment of computer science, yale university, apr .
-grants
-1. (pi chung, co-pi drineas, renault) “collaborative research: randomized nu-
-merical linear algebra for large scale inversion, sparse principal component analy-
-sis, and applications”, national science foundation (nsf), $300,000, - .
-2. (pi drineas, co-pi ipsen) “nsf/af small: collaborative research: practice-
-friendly theory and algorithms for linear regression problems”, national science
-foundation (nsf), $599,960, - .
-3. (pidrineas)“biobank-scalemulti-omicsassociationstudies”,ibmacademicaward,
+92. Monte-carlo algorithms for matrices and massive datasets, Theory Colloquium, Com-
+puter Science Department, Stanford University, May .
+93. The CUR matrix decomposition and its applications to algorithm design and mas-
+sive data sets, Colloquium, Computer Science Department, Rutgers University and
+DIMACS, Nov .
+94. A Novel matrix decomposition with applications to algorithm design and massive data
+sets, Theory Colloquium, Computer Science Department, University of Michigan at
+Ann Arbor, Sep .
+95. Fast monte-carlo algorithms for common matrix operations, Colloquium, Computer
+Science Department, Purdue University, Sep .
+96. Randomized algorithms for matrix operations Colloquium, Computer Engineering and
+Informatics Department, University of Patras, Jun .
+97. Pass-efficientalgorithmsforapproximatinglargematrices, Ma them at is che s Forschungsin-
+stitut Ober wolf ach (MFO) Workshop on Approximation Algorithms for NP-Hard Prob-
+lems, Jun .
+98. Computing sketches of matrices efficiently and privacy preserving data mining, DI-
+MACS Workshop on Privacy Preserving Data Mining, Mar .
+99. Randomized algorithms for matrix operations, Colloquium, Department of Mathemat-
+ics, Rensselaer Polytechnic Institute, Feb .
+100. Pass efficient algorithms for matrix operations and max-2-CSP problems, NEC Re-
+search, Princeton, Jul .
+101. Pass efficient algorithms for matrix approximations, Colloquium, Department of Com-
+puter Science, Brown University, Mar .
+102. Pass efficient algorithms for matrix approximations, Colloquium, Department of Com-
+puter Science, Rensselaer Polytechnic Institute, Feb .
+103. Pass efficient algorithms for matrix approximations, Theory Colloquium, Department
+of Engineering and Applied Sciences, Harvard University, Feb .
+104. Randomized algorithms for approximate matrix multiplication and the Singular Value
+Decomposition, Theory Colloquium, Department of Computer Science, Brown Univer-
+sity, Dec .
+105. Fast monte carlo algorithms for matrix multiplication, DIMACS Workshop on Sublin-
+ear Algorithms, Sep .
+106. A fast Monte Carlo Singular Value Decomposition algorithm, Theory Colloquium, De-
+partment of Computer Science, Yale University, Apr .
+Grants
+1. (PI Chung, co-PI Drineas, Renault) “Collaborative Research: Randomized Nu-
+merical Linear Algebra for Large Scale Inversion, Sparse Principal Component Analy-
+sis, and Applications”, National Science Foundation (NSF), $300,000, -.
+2. (PI Drineas, co-PI Ipsen) “NSF/AF Small: Collaborative Research: Practice-
+Friendly Theory and Algorithms for Linear Regression Problems”, National Science
+Foundation (NSF), $599,960, -.
+3. (PIDrineas)“Biobank-Scale Multi-Omics Association Studies”, IBM Academic Award,
 $40,000, .
-4. (pi drineas, co-pi ipsen)“acontextually-awaresensitivityanalysistoguidethe
-design of randomized least squares solvers in applications”, department of energy
-(doe), $300,000, - .
-5. (pi drineas, co-pi paschou)“iii:small:randomized matrix-sketching approaches
-forestimatingmissingheritabilityinmassivepopulationgeneticsdatasets”,national
-science foundation (nsf), $499,533, - .
-6. (pi: drineas, co-pi koutis)“nsf/af small: collaborative research: practice-
-friendlytheoryandalgorithmsforlinearregressionproblems”, national science foun-
-dation (nsf), $499,995, - .
-7. (pi: mahoney, co-pis drineas, ipsen, gu)“nsf/dms frg: collaborative re-
-search: randomization as a resource for rapid prototyping”, national science foun-
-dation (nsf), $1,124,345, - .
-8. (pi drineas, co-pi paschou)“iii:small:novel approaches for sparse pca, matrix
-completion, and kernel discriminant analysis for mining human genetics datasets”,
-national science foundation (nsf), $499,984, - .
-9. (pi: huo, co-pi drineas)“workshop on theoretical foundations of data science
-(tfods)”, national science foundation (nsf), $99,997, .
-10. (pi: ipsen, co-pi drineas)“randnla: randomization in numerical linear alge-
-bra”, national science foundation (nsf), $25,000, .
-11. (co-pis: drineas, gallopoulos, ipsen, mahoney)“randnla: randomization in
-numerical linear algebra”, society for industrial and applied mathematics (siam),
+4. (PI Drineas, co-PI Ipsen)“AContextually-Aware Sensitivity Analysisto Guidethe
+Design of Randomized Least Squares Solvers in Applications”, Department of Energy
+(DOE), $300,000, -.
+5. (PI Drineas, co-PI Pas chou III Small Randomized Matrix-Sketching Approaches
+for Estimating Missing Heritability in Massive Population Genetics Datasets”, National
+Science Foundation (NSF), $499,533, -.
+6. (PI: Drineas, co-PI K out is NSF AF Small: Collaborative Research: Practice-
+friendly theory and algorithms for linear regression problems National Science Foun-
+dation (NSF), $499,995, -.
+7. (PI: Mahoney, co-PIs Drineas, Ipsen, Gu NSF DMS FRG: Collaborative Re-
+search: Random iz ation as a Resource for Rapid Prototyping”, National Science Foun-
+dation (NSF), 1 124 345 -.
+8. (PI Drineas, co-PI Pas chou III Small Novel Approaches for Sparse PCA, Matrix
+Completion, and kernel Discriminant Analysis for Mining Human Genetics Datasets”,
+National Science Foundation (NSF), $499,984, -.
+9. (PI: Huo, co-PI Dr in e as Workshop on Theoretical Foundations of Data Science
+(TFo DS)”, National Science Foundation (NSF), $99,997, .
+10. (PI: Ipsen, co-PI Dr in e as Rand NLA: Random iz ation in Numerical Linear Alge-
+bra”, National Science Foundation (NSF), $25,000, .
+11. (co-PIs: Drineas, Gallop ou los Ipsen, Mahoney Rand NLA: Random iz ation in
+Numerical Linear Algebra”, Society for Industrial and Applied Mathematics (SIAM),
 $85,000, .
-12. (pi mahoney, co-pi drineas), “bigdata:f:dka:collaborative research: ran-
-domized numerical linear algebra (randnla) for multi-linear and non-linear data”,
-national science foundation (nsf), $800,000, – .
-13. (pi drineas), “iii: small: fast and efficient algorithms for matrix decompositions
-and applications to human genetics”, national science foundation (nsf), $329,455,
+12. (PI Mahoney, co-PI Drineas), BIG DATA F DKA Collaborative Research: Ran-
+domized Numerical Linear Algebra (Rand NLA) for multi-linear and non-linear data”,
+National Science Foundation (NSF), $800,000, – .
+13. (PI Drineas), “III: Small: Fast and Efficient Algorithms for Matrix Decomposition s
+and Applications to Human Genetics”, National Science Foundation (NSF), $329,455,
 – .
-14. (pi drineas, co-pis carothers, garcia, yener, and zaki), “iii: medium: min-
-ingpetabytesofdatausingcloudcomputingandamassivelyparallelcyberinstrument”,
-national science foundation (nsf), $1,000,000, – .
-15. (pi drineas), “intergovernmental mobility assignment”, national science founda-
-tion (nsf), $225,000, - .
-16. (pi drineas, co-pi saunders), “randomized algorithms in linear algebra and
-numerical evaluations on massive datasets”, national science foundation (nsf),
+14. (PI Drineas, co-PIs Carothers, Garcia, Yener, and Zaki), “III: Medium: Min-
+ing petabytes of data using cloud computing and a massively parallel cyber instrument
+National Science Foundation (NSF), 1 000 000 – .
+15. (PI Drineas), “Intergovernmental Mobility Assignment”, National Science Founda-
+tion (NSF), $225,000, -.
+16. (PI Drineas, co-PI Saunders), “Randomized Algorithms in Linear Algebra and
+Numerical Evaluations on Massive Datasets”, National Science Foundation (NSF),
 $450,000, – .
-17. (pi drineas), “fastandefficientrandomizedalgorithmsforsolvinglaplaciansys-
-temsoflinearequationsandsparseleastsquaresproblems”,nationalsciencefoun-
-dation (nsf), $323,000, – .
-18. (pi drineas), european molecular biology organization (embo) short term fellow-
-ship, $12,000, jun - aug .
-19. (pi makris, co-pi drineas), “collaborative research: correlation mining and its
-applicationsintestcostreduction,yieldenhancement,andperformancecalibration
-in analog/rf circuits”, national science foundation (nsf), $450,000, – .
-20. (pi drineas), european molecular biology organization (embo) short term fellow-
-ship, $12,000, jun - aug .
-21. (pi drineas), “extracting pca-correlated snps from the human genome diversity
-panel data”, national science foundation (nsf), $30,844, – .
-22. (pi isler, co-pi drineas, co-pi trinkle), “research/education infrastructure
-based on modular miniature robot teams”, national science foundation (nsf),
+17. (PI Drineas), “Fastand Efficient Randomized Algorithms for Solving Laplacian Sys-
+temsof Linear Equations and Sparse Least Squares Problems”, National Science Foun-
+dation (NSF), $323,000, – .
+18. (PI Drineas), European Molecular Biology Organization (EMBO) short term fellow-
+ship, $12,000, Jun - Aug .
+19. (PI Makris, co-PI Drineas), “Collaborative Research: Correlation Mining and its
+Applications in Test Cost Reduction, Yield Enhancement, and Performance Calibration
+in Analog/RF Circuits”, National Science Foundation (NSF), $450,000, – .
+20. (PI Drineas), European Molecular Biology Organization (EMBO) short term fellow-
+ship, $12,000, Jun - Aug .
+21. (PI Drineas), “Extracting PCA-correlated SNPs from the Human Genome Diversity
+Panel data”, National Science Foundation (NSF), $30,844, – .
+22. (PI Isler, co-PI Drineas, co-PI Trinkle), Research Education Infrastructure
+Based on Modular Miniature Robot Teams”, National Science Foundation (NSF),
 $350,000, – .
-23. (pi makris, co-pi drineas),“statisticalanalysisofparametricmeasurementsand
-its applications in analog/rf test”, semiconductor research corporation (src),
+23. (PI Makris, co-PI Dr in e as Statistical Analysisof Parametric Measurements and
+its Applications in Analog/RF Test”, Semiconductor Research Corporation (SRC),
 $150,000, – .
-24. (pi drineas, co-pi abouzeid), “nets-nbd: towards a disconnection-tolerant,
-opportunistic internet”, national science foundation (nsf), $460,000, – .
-25. (pi drineas),yahoo! research gift, $18,000, .
-26. (pi drineas), “research experience for undergraduates (reu) supplement: im-
-plementing algorithms for tsnp selection in matlab”, national science foundation
-(nsf), $12,000, – .
-27. (pi drineas), “career: a framework for mining multimode, non-homogeneous
-tensor data sets with linear and non-linear degrees of freedom”, national science
-foundation (nsf), $400,000, – .
-28. (pi golub, co-pis drineas, mahoney, and lim), “workshop on algorithms for
-modernmassivedatasets”,national science foundation (nsf),$15,000, – .
-boards
-1. editorial board member, siam journal on scientific computing, jan – now.
-2. editorial board member, applied and computational harmonic analysis, jan –
+24. (PI Drineas, co-PI Abouzeid), “Ne TS-NBD: Towards a Disconnection-Tolerant,
+Opportunistic Internet”, National Science Foundation (NSF), $460,000, – .
+25. (PI Drineas), Yahoo! Research Gift, $18,000, .
+26. (PI Drineas), “Research Experience for Undergraduates (REU) Supplement: Im-
+plementing Algorithms for t SNP selection in Mat Lab”, National Science Foundation
+(NSF), $12,000, – .
+27. (PI Drineas), “CAREER: A Framework for Mining Multimode, Non-Homogeneous
+Tensor Data Sets With Linear and Non-Linear Degrees of Freedom”, National Science
+Foundation (NSF), $400,000, – .
+28. (PI Golub, co-PIs Drineas, Mahoney, and Lim), “Workshop on Algorithms for
+Modern Massive Datasets”, National Science Foundation (NSF),$15,000,–.
+Boards
+1. Editorial Board Member, SIAM Journal on Scientific Computing, Jan – now.
+2. Editorial Board Member, Applied and Computational Harmonic Analysis, Jan –
 now.
-3. editorial board member, information and inference: a journal of the ima, feb
+3. Editorial Board Member, Information and Inference: A Journal of the IMA, Feb
 – now.
-4. editorial board member, plos one, may – now.
-5. editorial board member, siam journal on matrix analysis and applications, jan
+4. Editorial Board Member, PLo S ONE, May – now.
+5. Editorial Board Member, SIAM Journal on Matrix Analysis and Applications, Jan
 – now.
-6. member, gene golub siam summer school committee, jan – dec .
-7. editor, handbook of big data, crc press, taylor & francis group, .
-8. editorial board member, siam journal on scientific computing, special issue for
-software and big data, .
-9. member, committee for the advancement of theoretical computer science (catcs),
-sep – jun .
-committee
-service
-1. organizer,minisymposium on randomized methods in large-scale inference and data
-problems (parts i and ii), siam conference on mathematics of data science, sep
+6. Member, Gene Golub SIAM Summer School Committee, Jan – Dec .
+7. Editor, Handbook of Big Data, CRC Press, Taylor & Francis Group, .
+8. Editorial Board Member, SIAM Journal on Scientific Computing, Special Issue for
+Software and Big Data, .
+9. Member, Committee for the Advancement of Theoretical Computer Science (CATCS),
+Sep – Jun .
+Committee
+Service
+1. Organizer, Mini symposium on Randomized Methods in Large-Scale Inference and Data
+Problems (Parts I and II), SIAM Conference on Mathematics of Data Science, Sep
 .
-2. senior pc, acm conference on information and knowledge management (cikm),
-oct .
-3. senior pc, aaai conference on artificial intelligence (aaai), feb .
-4. seniorpc,internationaljointconferenceonartificialintelligence(ijcai),aug2021.
-5. senior pc, aaai conference on artificial intelligence (aaai), feb .
-6. seniorpc,internationaljointconferenceonartificialintelligence(ijcai),aug2020.
-7. pc, neural information processing systems conference (neurips), dec .
-8. organizer, workshop on randomized numerical linear algebra, statistics, and opti-
-mization, dimacs, sep .
-9. organizer, workshop on algorithmic, mathematical, and statistical foundations of
-data science and applications, purdue university, apr .
-10. program committee member, intelligent systems for molecular biology (ismb), jul
+2. Senior PC, ACM Conference on Information and Knowledge Management (CIKM),
+Oct .
+3. Senior PC, AAAI Conference on Artificial Intelligence (AAAI), Feb .
+4. Senior PC, International Joint Conference on Artificial Intelligence IJ CAI Aug2021.
+5. Senior PC, AAAI Conference on Artificial Intelligence (AAAI), Feb .
+6. Senior PC, International Joint Conference on Artificial Intelligence IJ CAI Aug2020.
+7. PC, Neural Information Processing Systems Conference (Neur IPS), Dec .
+8. Organizer, Workshop on Randomized Numerical Linear Algebra, Statistics, and Opti-
+mization, DIMACS, Sep .
+9. Organizer, Workshop on Algorithmic, Mathematical, and Statistical Foundations of
+Data Science and Applications, Purdue University, Apr .
+10. Program Committee Member, Intelligent Systems for Molecular Biology (ISMB), Jul
 .
-11. chair, workshop on randomized numerical linear algebra and applications, simons
-institute for the theory of computing, university of california, berkeley, sep .
-12. programcommitteemember,siamworkshoponcombinatorialscientificcomputing
-(csc), jun .
-13. primary program committee member, ieee international parallel and distributed
-processing symposium (ipdps), may .
-14. seniorprogramcommitteemember,acm conference on information and knowledge
-management (cikm), nov .
-15. programcommitteemember,acm sigkdd international conference on knowledge
-discovery and data mining (kdd), aug .
-16. program committee member, 16th ieee international workshop on high perfor-
-mance computational biology, held in conjunction with ieee ipdps, may .
-17. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+11. Chair, Workshop on Randomized Numerical Linear Algebra and Applications, Simons
+Institute for the Theory of Computing, University of California, Berkeley, Sep .
+12. Program Committee Member, SIAM Workshop on Combinatorial Scientific Computing
+(CSC), Jun .
+13. Primary Program Committee Member, IEEE International Parallel and Distributed
+Processing Symposium (IPDPS), May .
+14. Senior Program Committee Member, ACM Conference on Information and Knowledge
+Management (CIKM), Nov .
+15. Program Committee Member, ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining (KDD), Aug .
+16. Program Committee Member, 16th IEEE International Workshop on High Perfor-
+mance Computational Biology, held in conjunction with IEEE IPDPS, May .
+17. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-18. programcommitteemember,acm sigkdd international conference on knowledge
-discovery and data mining, aug .
-19. organizing committee member, 5th workshop on algorithms for modern massive
-datasets (mmds), jun .
-20. chair, workshop on theoretical foundations of data science (tfods), apr .
-21. organizingcommitteemember,gene golub siam summer school (g2s3),jun2015.
-22. programcommitteemember,ieeeinternationalconferenceondatamining(icdm),
-dec .
-23. programcommitteemember,internationalconferenceonparallelprocessing(icpp),
-sep .
-24. organizing committee member, siam conference on applied linear algebra (ala),
-oct .
-25. organizing committee member, workshop on optimization and matrix methods in
-big data, fields institute, feb .
-26. programcommitteemember,ieeeinternationalconferenceondatamining(icdm),
-dec .
-27. programcommitteemember,internationalconferenceonparallelprocessing(icpp),
-sep .
-28. organizing committee member, 5th workshop on algorithms for modern massive
-datasets (mmds), jun .
-29. program committee member, acm symposium on theory of computing (stoc),
-jun .
-30. programcommitteemember,acm-siamsymposiumondiscretealgorithms(soda),
-jan .
-31. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+18. Program Committee Member, ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining, Aug .
+19. Organizing Committee Member, 5th Workshop on Algorithms for Modern Massive
+Datasets (MMDS), Jun .
+20. Chair, Workshop on Theoretical Foundations of Data Science (TFo DS), Apr .
+21. Organizing Committee Member, Gene Golub SIAM Summer School (G2S3), Jun2015.
+22. Program Committee Member, IEEE International Conference on Data Mining ICD M
+Dec .
+23. Program Committee Member, International Conference on Parallel Processing I CPP
+Sep .
+24. Organizing Committee Member, SIAM Conference on Applied Linear Algebra (ALA),
+Oct .
+25. Organizing Committee Member, Workshop on Optimization and Matrix Methods in
+Big Data, Fields Institute, Feb .
+26. Program Committee Member, IEEE International Conference on Data Mining ICD M
+Dec .
+27. Program Committee Member, International Conference on Parallel Processing I CPP
+Sep .
+28. Organizing Committee Member, 5th Workshop on Algorithms for Modern Massive
+Datasets (MMDS), Jun .
+29. Program Committee Member, ACM Symposium on Theory of Computing (STOC),
+Jun .
+30. Program Committee Member, ACM-SIAMSymposiumon Discrete Algorithms SODA
+Jan .
+31. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-32. chair,workshop on succinct data representations and applications, simons institute
-for the theory of computing, university of california, berkeley, sep .
-33. vice chair, ieee international conference on data mining (icdm), dec .
-34. programcommitteemember,acm sigkdd international conference on knowledge
-discovery and data mining, aug .
-35. programcommitteemember,international conference on pattern recognition appli-
-cations and methods, feb .
-36. organizing committee member, randomized numerical linear algebra: theory and
-practice,one-dayworkshopheldinconjunctionwiththe53rdannualieeesymposium
-on foundations of computer science (focs), oct .
-37. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+32. Chair, Workshop on Succinct Data Representations and Applications, Simons Institute
+for the Theory of Computing, University of California, Berkeley, Sep .
+33. Vice Chair, IEEE International Conference on Data Mining (ICDM), Dec .
+34. Program Committee Member, ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining, Aug .
+35. Program Committee Member, International Conference on Pattern Recognition Appli-
+cations and Methods, Feb .
+36. Organizing Committee Member, Randomized Numerical Linear Algebra: Theory and
+Practice, one-dayworkshopheldinconjunctionwiththe53rd Annual IEEE Symposium
+on Foundations of Computer Science (FOCS), Oct .
+37. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-38. program committee member, acm international conference on information and
-knowledge management, nov .
-39. programcommitteemember,international conference on data technologies and ap-
-plications, jul .
-40. organizingcommitteemember,workshoponalgorithmsformodernmassivedatasets
-(mmds) iv, jul .
-41. programcommitteemember,workshop on large-scale data mining: theory and ap-
-plications,tobeheldinconjunctionwiththeacmsigkddconferenceonknowledge
-discovery and data mining, jul .
-42. programcommitteemember,international conference on pattern recognition appli-
-cations and methods, feb .
-43. programcommitteemember,acm sigkdd international conference on knowledge
-discovery and data mining, aug .
-44. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+38. Program Committee Member, ACM International Conference on Information and
+Knowledge Management, Nov .
+39. Program Committee Member, International Conference on Data Technologies and Ap-
+pli cations Jul .
+40. Organizing Committee Member, Workshopon Algorithms for Modern Massive Datasets
+(MMDS) IV, Jul .
+41. Program Committee Member, Workshop on Large-scale Data Mining: Theory and Ap-
+pli cations to beheld in conjunction with the ACM SIG K DD Conference on Knowledge
+Discovery and Data Mining, Jul .
+42. Program Committee Member, International Conference on Pattern Recognition Appli-
+cations and Methods, Feb .
+43. Program Committee Member, ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining, Aug .
+44. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-45. programcommitteemember,workshop on large-scale data mining: theory and ap-
-plications,tobeheldinconjunctionwiththeacmsigkddconferenceonknowledge
-discovery and data mining, jul .
-46. organizingcommitteemember,workshoponalgorithmsformodernmassivedatasets
-(mmds) iii, jun .
-47. programcommitteemember,acm transactions on knowledge discovery from data:
-special issue on large-scale data mining: theory and applications, mar .
-48. program committee member, workshop on feature selection in data mining, to be
-heldinconjunctionwiththepacific-asiaconferenceonknowledgediscoveryanddata
-mining, jun .
-49. programcommitteemember,21stannualsymposiumoncombinatorialpatternmatch-
-ing, jun .
-50. program committee member, pacific-asia conference on knowledge discovery and
-data mining, jun .
-51. program committee member, icdm workshop on large-scale data mining: theory
-and application, dec .
-52. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+45. Program Committee Member, Workshop on Large-scale Data Mining: Theory and Ap-
+pli cations to beheld in conjunction with the ACM SIG K DD Conference on Knowledge
+Discovery and Data Mining, Jul .
+46. Organizing Committee Member, Workshopon Algorithms for Modern Massive Datasets
+(MMDS) III, Jun .
+47. Program Committee Member, ACM Transactions on Knowledge Discovery from Data:
+Special Issue on Large-Scale Data Mining: Theory and Applications, Mar .
+48. Program Committee Member, Workshop on Feature Selection in Data Mining, to be
+held in conjunction with the Pacific-Asia Conference on Knowledge Discovery and Data
+Mining, Jun .
+49. Program Committee Member 21 st Annual Symposium on Combinatorial Pattern Match-
+ing, Jun .
+50. Program Committee Member, Pacific-Asia Conference on Knowledge Discovery and
+Data Mining, Jun .
+51. Program Committee Member, ICDM Workshop on Large-scale Data Mining: Theory
+and Application, Dec .
+52. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-53. co-organizer (with i. ipsen), randomized algorithms in linear algebra, minisympo-
-sium in the siam conference on applied linear algebra, oct .
-54. programcommitteemember,acm sigkdd international conference on knowledge
-discovery and data mining, aug .
-55. program committee member, international conference on artificial intelligence and
-statistics, apr .
-56. program committee member, pacific-asia conference on knowledge discovery and
-data mining, apr .
-57. programcommitteemember,neuralinformationprocessingsystemsconference,dec
+53. Co-organizer (with I. Ipsen), Randomized Algorithms in Linear Algebra, minisympo-
+sium in the SIAM Conference on Applied Linear Algebra, Oct .
+54. Program Committee Member, ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining, Aug .
+55. Program Committee Member, International Conference on Artificial Intelligence and
+Statistics, Apr .
+56. Program Committee Member, Pacific-Asia Conference on Knowledge Discovery and
+Data Mining, Apr .
+57. Program Committee Member, Neural Information Processing Systems Conference, Dec
 .
-58. co-organizer (with s. das and m. zaki), rpi computer science day: data mining
-and machine learning, sep .
-59. technical program committee member, numan conference in numerical anal-
-ysis, sep .
-60. co-chair, data-centric computing group for the visions for theoretical computer
-science workshop, university of washington in seattle, may .
-61. technical program committee member, workshop on data mining using matrices
-and tensors, held in conjunction with acm sigkdd international conference on
-knowledge discovery and data mining, aug .
-62. organizingcommitteemember,workshoponalgorithmsformodernmassivedatasets
-(mmds) ii, jun .
-63. organizing committee member, workshop on data mining for biomedical informat-
-ics, held in conjunction with the siam conference on data mining, apr .
-64. technicalprogramcommitteemember,siam conference on data mining,apr2008.
-65. technical program committee member, numan conference in numerical anal-
-ysis, sep .
-66. technical program committee member, acm sigkdd international conference on
-knowledge discovery and data mining, aug .
-67. organizing committee member, workshop on data mining for biomedical informat-
-ics, held in conjunction with the siam conference on data mining, apr .
-68. co-organizer (with d. freedman), rpi computer science day: aspects of geometric
-computing, oct .
-69. organizingcommitteemember,workshoponalgorithmsformodernmassivedatasets
-(mmds), jun .
-70. program committee member, international workshop on architectures, models and
-infrastructures to generate semantics in peer to peer and hypermedia systems, in
-conjunction with the 17th acm conference on hypertext and hypermedia, .
-71. technical program committee member, acm sigkdd international conference on
-knowledge discovery and data mining, aug .
-72. technical program committee member, acm sigkdd international conference on
-knowledge discovery and data mining, aug .
-73. technicalprogramcommitteemember,workshoponpeertopeerandservice-oriented
-hypermedia: techniques and systems, acm hypertext .
-74. technicalprogramcommitteemember,nsf-rpiworkshoponpervasivecomputing,
-apr .
-review
-panels
-75. nsf oci review panel, .
-76. nsf ccf review panel, .
-77. nsf iis review panel, .
-78. nsf ccf review panel, .
-79. nsf iis review panel, .
-80. nsf ccf review panel, .
-81. nsf iis review panel, .
-82. european commission programme: horizon review panel, .
-83. nsf ccf review panel, .
-84. nsf dms review panel, .
-85. nsf ccf review panel, .
-86. nsf iis review panel, .
-87. european commission programme: fp7 review panel, .
-88. nsf ccf review panel, .
-89. nsf iis review panel, .
-90. nsf iis review panel, .
-91. nsf cdi review panel, .
-92. nsf ccf review panel, .
-biographical year of birth:
-data
-citizenship: usa, greece
-updated 8/ .
+58. Co-organizer (with S. Das and M. Zaki), RPI Computer Science Day: Data Mining
+and Machine Learning, Sep .
+59. Technical Program Committee Member, Num An Conference in Numerical Anal-
+ysis, Sep .
+60. Co-chair, Data-Centric Computing Group for the Visions for Theoretical Computer
+Science Workshop, University of Washington in Seattle, May .
+61. Technical Program Committee Member, Workshop on Data Mining Using Matrices
+and Tensors, held in conjunction with ACM SIGKDD International Conference on
+Knowledge Discovery and Data Mining, Aug .
+62. Organizing Committee Member, Workshopon Algorithms for Modern Massive Datasets
+(MMDS) II, Jun .
+63. Organizing Committee Member, Workshop on Data Mining for Biomedical Informat-
+ics, held in conjunction with the SIAM Conference on Data Mining, Apr .
+64. Technical Program Committee Member, SIAM Conference on Data Mining, Apr2008.
+65. Technical Program Committee Member, Num An Conference in Numerical Anal-
+ysis, Sep .
+66. Technical Program Committee Member, ACM SIGKDD International Conference on
+Knowledge Discovery and Data Mining, Aug .
+67. Organizing Committee Member, Workshop on Data Mining for Biomedical Informat-
+ics, held in conjunction with the SIAM Conference on Data Mining, Apr .
+68. Co-organizer (with D. Freedman), RPI Computer Science Day: Aspects of Geometric
+Computing, Oct .
+69. Organizing Committee Member, Workshopon Algorithms for Modern Massive Datasets
+(MMDS), Jun .
+70. Program Committee Member, International Workshop on architectures, models and
+infrastructures to generate semantics in Peer to Peer and Hypermedia Systems, in
+conjunction with the 17th ACM Conference on Hypertext and Hypermedia, .
+71. Technical Program Committee Member, ACM SIGKDD International Conference on
+Knowledge Discovery and Data Mining, Aug .
+72. Technical Program Committee Member, ACM SIGKDD International Conference on
+Knowledge Discovery and Data Mining, Aug .
+73. Technical Program Committee Member, Workshopon Peerto Peerand Service-Oriented
+Hypermedia: Techniques and Systems, ACM Hypertext .
+74. Technical Program Committee Member, NSF-RPIWorkshopon Pervasive Computing,
+Apr .
+Review
+Panels
+75. NSF OCI Review Panel, .
+76. NSF CCF Review Panel, .
+77. NSF IIS Review Panel, .
+78. NSF CCF Review Panel, .
+79. NSF IIS Review Panel, .
+80. NSF CCF Review Panel, .
+81. NSF IIS Review Panel, .
+82. European Commission Programme: Horizon Review Panel, .
+83. NSF CCF Review Panel, .
+84. NSF DMS Review Panel, .
+85. NSF CCF Review Panel, .
+86. NSF IIS Review Panel, .
+87. European Commission Programme: FP7 Review Panel, .
+88. NSF CCF Review Panel, .
+89. NSF IIS Review Panel, .
+90. NSF IIS Review Panel, .
+91. NSF CDI Review Panel, .
+92. NSF CCF review panel, .
+Biographical Year of birth:
+Data
+Citizenship: USA, Greece
+Updated 8/.

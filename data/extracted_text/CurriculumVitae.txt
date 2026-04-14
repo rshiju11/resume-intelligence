@@ -1,1325 +1,1325 @@
-louise willingale msci phd dic minstp
-electrical engineering and computer science department
-and the g´erard mourou center for ultrafast optical sciences
-6109 erb-1, 2200 bonisteel boulevard
-university of michigan
-ann arbor, mi, 48019
-tel:
-email:
-website: willingale.engin.umich.edu
-research interests
-experiments and numerical modeling of ultra-high intensity laser plasma interactions:
-laser driven ion acceleration, proton deectometry, laser channeling, laser propagation in the ultra-
+MSci Ph D DIC MInst P
+and Department
+and the G´erard Mourou Center for Ultrafast Optical Sciences
+6109 ERB-1, 2200 Bonisteel Boulevard
+University of Michigan
+Ann Arbor, MI, 48019
+Tel:
+Email:
+Website:
+Research Interests
+Experiments and numerical modeling of ultra-high intensity laser plasma interactions:
+Laser driven ion acceleration, proton de ec tome try laser channeling, laser propagation in the ultra-
 relativistic induced transparency regime, relativistic laser electron heating mechanisms including direct
-laser acceleration (dla), laser-driven magnetic eld generation, dynamics and reconnection
-education
-– msci, physics (1st class honours), imperial college london
-– phd, plasma physics, imperial college london
-ion acceleration from high intensity laser plasma interactions: measurements and
+laser acceleration (DLA), laser-driven magnetic eld generation, dynamics and re connection
+Education
+– MSci, Physics (1st Class Honours), Imperial College London
+– Ph D, Plasma Physics, Imperial College London
+Ion acceleration from high intensity laser plasma interactions: Measurements and
 applications
-supervised by prof. karl krushelnick and prof. zulkar najmudin
-– pgcap module 1, lancaster university
-employment
-– associate professor with tenure, eecs, university of michigan
-– associate director for the nsf zeus facility
-– associate professor, ners, university of michigan
-– assistant professor, eecs, university of michigan
-– senior lecturer, physics department, lancaster university
-– assistant research scientist, ners, university of michigan
-f12, w14 adjunct lecturer, ners, university of michigan
-– postdoctoral research fellow, ners, university of michigan
-– research assistant, plasma physics group, imperial college london
-research overview
-author or co-author of 83 published, refereed journal articles
-google scholar citations = 3590, h-index = 30 (04/25/ )
+Supervised by Prof. Karl Kru shel nick and Prof. Zulkar Najmudin
+– PGCAP Module 1, Lancaster University
+Employment
+– Associate Professor with tenure, EECS, University of Michigan
+– Associate Director for the NSF ZEUS facility
+– Associate Professor, NERS, University of Michigan
+– Assistant Professor, EECS, University of Michigan
+– Senior Lecturer, Physics Department, Lancaster University
+– Assistant Research Scientist, NERS, University of Michigan
+F12, W14 Adjunct Lecturer, NERS, University of Michigan
+– Postdoctoral Research Fellow, NERS, University of Michigan
+– Research Assistant, Plasma Physics Group, Imperial College London
+Research Overview
+Author or co-author of 83 published, refereed journal articles
+Google Scholar citations = 3590, h-index = 30 (04/25/)
 74 rst author conference or workshop presentations (including 1 plenary and 25 invited oral)
 29 seminar or colloquia
-coauthor for the multi-petawatt physics prioritization (mp3) workshop report ( )
+Coauthor for the Multi-Petawatt Physics Prior it iz ation (MP3) Workshop Report ()
 1
-– louise willingale
-prizes and awards
-eecs outstanding achievement award
-aps fellow
-kavli fellow
-nsf career award: relativistic electron driven magnetic reconnection
-outstanding poster, ssaa symposium, national laser users’ facility
-john dawson thesis prize (worldwide)
-european physical society – plasma physics division phd research award
-culham thesis prize (uk & ireland) – for signicant experimental and numerical
+Curriculum Vitae – Louise Willingale
+Prizes and Awards
+EECS Outstanding Achievement Award
+APS Fellow
+Kavli Fellow
+NSF CAREER Award: Relativistic electron driven magnetic re connection
+Outstanding poster, SSAA Symposium, National Laser Users’ Facility
+John Dawson Thesis Prize (Worldwide)
+European Physical Society – Plasma Physics Division Ph D Research Award
+Culham Thesis Prize (UK & Ireland) – for signicant experimental and numerical
 work on the acceleration of ions to high energies by laser-plasma interaction
-ian watts travel award to attend the aps-dpp annual meeting,
-principal investigator
-external funding total as pi: $2,993,790
-doe hedlp $500,000 (09/ – 08/ ) direct laser acceleration of electrons for bright, direc-
+Ian Watts Travel Award to attend the APS-DPP annual meeting,
+Principal Investigator
+External funding total as PI: $2,993,790
+DOE HEDLP $500,000 (09/ – 08/) Direct Laser Acceleration of electrons for bright, direc-
 tional radiation sources
-doe hedp $400,000 (08/ – 07/ ) relativistically induced transparency in plasma
-nluf/nnsa $400,000 (09/ – 09/ ) direct laser acceleration of electrons for bright, direc-
+DOE HEDP $400,000 (08/ – 07/) Relativistic ally induced transparency in plasma
+NLUF/NNSA $400,000 (09/ – 09/) Direct Laser Acceleration of electrons for bright, direc-
 tional radiation sources
-nsf career $600,000 (05/ – 04/ ) career: relativistic electron driven magnetic recon-
+NSF CAREER $600,000 (05/ – 04/) CAREER: Relativistic electron driven magnetic recon-
 nection
-doe $645,000 (08/ – 08/ ) laser-driven collisionless shock accelerated ion
-beams
-nluf/nnsa $353,534 (09/ – 08/ ) electron beam acceleration from underdense plasma
-using omega ep
-nluf/nnsa $95,256 (06/ – 06/ ) intense laser interactions with low density plasmas
-using omega ep
-external funding as co-pi
-nnsa (pikuranz)-$12,500,000(10/23–09/28)centerforhighenergydensitylaboratory
-astrophysics research
-doe (pikrushelnick)-$400,000(08/23–07/26)control of magnetic field dynamics and
-reconnection in high power laser plasma interactions
-nsf (leadinstitution: ohiostateuniversity,umpiwillingale)-$250,000total/$40,000
-um share (07/ – 11/ ) accelnet-design: extreme light in intensity, time
-and space
-nsf (pikrushelnick)-$18,500,000(10/ –09/ ) nsf zeus multi-petawatt laser
-facility: operations
-nsf (pi krushelnick) - $16,000,000 (09/ – 08/ ) zettawatt-equivalent ultrashort
-pulse laser system (zeus)
-nluf/nnsa (pi krushelnick) - $500,000 (09/ – 09/ ) the dynamics of strong magnetic
-elds generated by relativistic laser plasma interactions using omega ep
-nluf/nnsa (pi krushelnick) - $390,000 (10/ – 09/ ) investigations of relativistic recon-
-nection using omega ep – nluf
+DOE $645,000 (08/ – 08/) Laser-Driven Collision less Shock Accelerated Ion
+Beams
+NLUF/NNSA $353,534 (09/ – 08/) Electron Beam Acceleration from Underdense Plasma
+Using Omega EP
+NLUF/NNSA $95,256 (06/ – 06/) Intense Laser Interactions with Low Density Plasmas
+Using Omega EP
+External funding as Co-PI
+NNSA (PIKuranz)-$12,500,000(10/23–09/28)Centerfor High Energy Density Laboratory
+Astrophysics Research
+DOE (PIKrushelnick)-$400,000(08/23–07/26)Control of Magnetic Field Dynamics and
+Re connection in High Power Laser Plasma Interactions
+NSF Lead institution Ohio State University, UMPIWillingale)-$250,000total/$40,000
+UM share (07/ – 11/) Accel Net-Design: Extreme Light in Intensity, Time
+and Space
+NSF (PIKrushelnick)-$18,500,000(10/–09/) NSF ZEUS Multi-Petawatt Laser
+Facility: Operations
+NSF (PI Kru shel nick - 16 000 000 (09/ – 08/) Zettawatt-Equivalent Ultrashort
+pulse laser System (ZEUS)
+NLUF/NNSA (PI Kru shel nick - $500,000 (09/ – 09/) The dynamics of strong magnetic
+elds generated by relativistic laser plasma interactions using OMEGA EP
+NLUF/NNSA (PI Kru shel nick - $390,000 (10/ – 09/) Investigations of relativistic recon-
+nection using OMEGA EP – NLUF
 2
-– louise willingale
-professional membership
-- american physical society, fellow (member, )
-- ieee, senior member (member , - )
-- institute of physics, member (associate member, - )
-- high energy density science association (hedsa), member
-- omega laser facility user group (olug), member
-- jupiter laser facility user group, member
-- national ignition facility user group, member
-- michigan institute for plasma science and engineering, member
-llnl visiting scientist
-european physical society, member
-professional service
-committees:
-chair of the nif user group
-elected to the plasma science and applications executive committee (psac) of the
-ieee nuclear and plasma sciences society
-member of the aps topical group in plasma astrophysics (gpap) nominating
-committee
-elected to the omega laser user group (olug) executive committee
-vice chair of the nif user group
-co-chair for the multi-petawatt physics prioritization (mp3) workshop
-steering committee member for the advanced accelerator concepts workshop
-member of the mec upgrade user advisory panel
-elected to the nif user group executive committee
-electedtothehighenergydensityscienceassociation(hedsa)steeringcommittee
-and secretary / treasurer
-institute of physics, plasma physics group committee ( - )
-editorial service:
-associate editor for the journal of plasma physics
-assistant to the associate editor for matter and radiation at extremes (mre), aip
+Curriculum Vitae – Louise Willingale
+Professional Membership
+- American Physical Society, Fellow (Member, )
+- IEEE, Senior Member (Member , -)
+- Institute of Physics, Member (Associate Member, -)
+- High Energy Density Science Association (HEDSA), Member
+- Omega Laser facility User Group (OLUG), Member
+- Jupiter Laser Facility User Group, Member
+- National Ignition Facility User Group, Member
+- Michigan Institute for Plasma Science and Engineering, Member
+LLNL Visiting Scientist
+European Physical Society, Member
+Professional Service
+Committees:
+Chair of the NIF User Group
+Elected to the Plasma Science and Applications Executive Committee (PSAC) of the
+IEEE Nuclear and Plasma Sciences Society
+Member of the APS Topical Group in Plasma Astrophysics (GPAP) Nominating
+Committee
+Elected to the Omega Laser User Group (OLUG) executive committee
+Vice Chair of the NIF User Group
+Co-chair for the Multi-Petawatt Physics Prior it iz ation (MP3) Workshop
+Steering committee member for the Advanced Accelerator Concepts workshop
+Member of the MEC Upgrade User Advisory Panel
+Elected to the NIF User Group executive committee
+Elected to the High Energy Density Science Association HE DS A steering committee
+and Secretary / Treasurer
+Institute of Physics, Plasma Physics Group committee (-)
+Editorial service:
+Associate Editor for the Journal of Plasma Physics
+Assistant to the Associate Editor for Matter and Radiation at Extremes (MRE), AIP
 publishing
-reviewing and panel services:
-journal referee physicalreviewletters,naturephysics,naturephotonics,naturecommunications,
-physics of plasmas, new journal of physics, applied physics letters, scientic re-
-ports, matter and radiation at extremes, physical review e, plasma physics and
-controlledfusion, ieeetransactionson plasmascience, journalof plasmaphysics,
-journal of instrumentation, journal of physics: conference series
-’21, ’23, ’23 member of a doe review panel
-member of nsf review panels
-& member of the review panel for a deutsche forschungsgemeinschaft research unit
-16, ’19, ’20, ’21 member of the laboratory basic science (lbs) review committee for the omega
-facility
-’16, ’18, ’19, ’21 doe proposal referee
+Reviewing and panel services:
+Journal referee Physical Review Letters, Nature Physics, Nature Photonics, Nature Communications,
+Physics of Plasmas, New Journal of Physics, Applied Physics Letters, Scientic Re-
+ports, Matter and Radiation at Extremes, Physical Review E, Plasma Physics and
+Controlled Fusion, IEEE Transactions on Plasma Science, Journalof Plasma Physics,
+Journal of Instrumentation, Journal of Physics: Conference Series
+’21, ’23, ’23 Member of a DOE review panel
+Member of NSF review panels
+& Member of the review panel for a Deutsche For s chung s gemeinschaft Research Unit
+16, ’19, ’20, ’21 Member of the Laboratory Basic Science (LBS) review committee for the Omega
+Facility
+’16, ’18, ’19, ’21 DOE proposal referee
 3
-– louise willingale
-’14, ’15, ’17, ’19, nsf proposal referee
+Curriculum Vitae – Louise Willingale
+’14, ’15, ’17, ’19, NSF proposal referee
 ’20
-conference organizing and session chair
-session organizer of particle acceleration with lasers and beams for 51st ieee
-international conference on plasma science (icops2024)
-working group leader for the european advanced accelerator concepts (eaac)
-workshop
-internationaladvisoryboard(iab)oftheeuropeanadvancedacceleratorconcepts
-workshop
-member of the laser plasma accelerator workshop (lpaw) program committee
-organizing committee member for charged particle radiography in high-energy-
-density laboratory plasmas workshop
-chair of the particles and beams program sub-committee for the aps dpp
+Conference Organizing and session chair
+Session Organizer of Particle Acceleration with Lasers and Beams for 51st IEEE
+International Conference on Plasma Science I COPS 2024
+Working Group Leader for the European Advanced Accelerator Concepts (EAAC)
+Workshop
+International Advisory Board I AB of the European Advanced Accelerator Concepts
+Workshop
+Member of the Laser Plasma Accelerator Workshop (LPAW) Program Committee
+Organizing committee member for Charged Particle Radio graph y in High-Energy-
+Density Laboratory Plasmas workshop
+Chair of the Particles and Beams program sub-committee for the APS DPP
 meeting
-chair for an advanced accelerator concepts meeting (aac) plenary session
-chair for aps dpp session: relativistic laser-plasma interaction and particles
-(ions, electrons, positrons, neutrons) iii
-co-leaderforworkinggroup2: ionbeamsfromplasmas, fortheeuropeanadvanced
-accelerator concepts workshop
-’16, ’18, ’20 organizing committee member for the advanced accelerator concepts workshop
-program committee for the 58th aps division of plasma physics meeting
-session organizer for the particle acceleration with laser and beams session at
-ieee international conference on plasma science (icops2016)
-chair for aps dpp session: laser plasma ion acceleration
-chair for aps dpp session: ion acceleration and neutron sources
-chair for aps dpp sessions: intense laser plasma interactions: experiment
-and laser plasma sources of electromagnetic radiation
-, discussion chair at the omega laser facility user group workshop
-, student/postdoctoral panel at the omega laser facility user group workshop
-local organization committee for the institute of physics plasma physics group 35th
-annual meeting, london
-other service
-panel member for nuclear as scientic discovery panel, nuclear science week,
-ann arbor, mi
-09/20/ external examiner for the dphil viva of luke ceurvorst, university of oxford, uk
-04/07/ facultyopponentforthephdthesisdefenseoflovisasenje,lunduniversity,sweden
-invited speaker at set-routes passionate about research: conversations with
-women making a dierence, imperial college london, uk
-university service
-university of michigan:
-mipse um plasma prize committee member
-reviewer, rackham merit fellowship committee
-ee undergraduate honors and awards committee member
-- present mipse executive committee member
-f22 - w24 ee undergraduate academic advisor
+Chair for an Advanced Accelerator Concepts meeting (AAC) plenary session
+Chair for APS DPP session: Relativistic laser-plasma interaction and particles
+(ions, electrons, positrons, neutrons) III
+Co-leaderfor Working Group2: Ion beams from plasmas forthe European Advanced
+Accelerator Concepts workshop
+’16, ’18, ’20 Organizing committee member for the Advanced Accelerator Concepts workshop
+Program Committee for the 58th APS Division of Plasma Physics meeting
+Session organizer for the Particle acceleration with Laser and Beams session at
+IEEE International Conference on Plasma Science I COPS 2016
+Chair for APS DPP session: Laser Plasma Ion Acceleration
+Chair for APS DPP session: Ion Acceleration and Neutron Sources
+Chair for APS DPP sessions: Intense Laser Plasma Interactions: Experiment
+and Laser Plasma Sources of Electromagnetic Radiation
+, Discussion chair at the Omega Laser Facility User Group Workshop
+, Student Postdoctoral panel at the Omega Laser Facility User Group Workshop
+Local organization committee for the Institute of Physics Plasma Physics Group 35th
+Annual Meeting, London
+Other service
+Panel member for Nuclear as Scientic Discovery Panel, Nuclear Science Week,
+Ann Arbor, MI
+09/20/ External examiner for the DPhil viva of Luke Ceurvorst, University of Oxford, UK
+04/07/ Faculty opponent for the Ph D thesis defense of Lovisa Senje, Lund University, Sweden
+Invited speaker at SET-Routes Passionate about Research: conversations with
+women making a di e rence Imperial College London, UK
+University Service
+University of Michigan:
+MIPSE UM Plasma Prize Committee member
+Reviewer, Rackham Merit Fellowship Committee
+EE Undergraduate Honors and Awards Committee member
+- present MIPSE Executive Committee member
+F22 - W24 EE Undergraduate Academic Advisor
 4
-– louise willingale
-f22 - w24 ece committee for an inclusive department (cid) member
-f21 - w22 chair of the task force on improving ece climate
-- present faculty advisor for the student group women in electrical and computer engineer-
-ing (wece)
-f20 - w21 member of the ece ad hoc faculty search committee
-member of the applied physics graduate admissions committee
-member of the ece committee for an inclusive department
-w panel member for a geecs professor panel
-ee undergraduate academic advisor
-member of the ece undergraduate recruiting and activities committee
-may panel member for making the most of your first summer in grad school workshop,
-college of engineering, university of michigan
-, evaluated ece graduate applications for the optics group
-lancaster university:
-head of cockcroft institute education & training
-plagiarism ocer for the physics department
-teaching
-university of michigan:
-w19, w20, w21, instructor for eecs 330: introduction to antennas and wireless systems
-w22
-w15, w16, w21, instructor for eecs 334: principles of optics (co-instructor, w16, w21)
-w22, w23, w24
-f14, f17, f19, instructor for eecs 598: special topics: laser plasma diagnostics - new course
-w24
-f12, w14 co-instructor for ners 211: an introduction to nuclear engineering and radiolog-
-ical sciences
-guest lectures:
-w13, f13 ners 211: an introduction to ners
-f12 eng 110: the engineering profession
-ners 674: high intensity laser-plasma interactions
-, , ners 472: fusion reactor technology
-summer school lecturer:
-nsf/aps-dppgpapsummerschoolinplasmaphysicsforastrophysicists, lecture
-on high energy density physics (hedp) and laboratory astrophysics
-high energy density summer school foundations of high energy density
-physics – virtual, lecture on diagnosing high energy density conditions
-nsf/aps-dppgpapsummerschoolinplasmaphysicsforastrophysicists, lecture
-on high energy density physics (hedp) and laboratory astrophysics
-introductiontofusionenergyandplasmaphysicscourseforthescienceundergrad-
-uate laboratoryinternship (suli)programatprincetonplasmaphysicslaboratory
-(pppl), lecture on high energy density physics (hedp) short-pulse driven rela-
-tivistic plasmas
-cern accelerator school (cas) advanced course on high gradient wakeeld ac-
-celeration, lecture on acceleration of protons and ions
+Curriculum Vitae – Louise Willingale
+F22 - W24 ECE Committee for an Inclusive Department (CID) member
+F21 - W22 Chair of the Task Force on Improving ECE Climate
+- present Faculty advisor for the student group Women in Electrical and Computer Engineer-
+ing (WECE)
+F20 - W21 Member of the ECE ad hoc faculty search committee
+Member of the Applied Physics graduate admissions committee
+Member of the ECE committee for an inclusive department
+W Panel member for a GEECS Professor panel
+EE Undergraduate Academic Advisor
+Member of the ECE Undergraduate Recruiting and Activities Committee
+May Panel member for Making the Most of Your First Summer in Grad School workshop,
+College of Engineering, University of Michigan
+, Evaluated ECE Graduate applications for the Optics group
+Lancaster University:
+Head of Cockcroft Institute Education & Training
+Plagiarism Ocer for the Physics Department
+Teaching
+University of Michigan:
+W19, W20, W21, Instructor for EECS 330: Introduction to Antennas and Wireless systems
+W22
+W15, W16, W21, Instructor for EECS 334: Principles of Optics (Co-instructor, W16, W21)
+W22, W23, W24
+F14, F17, F19, Instructor for EECS 598: Special Topics: Laser Plasma Diagnostics - new course
+W24
+F12, W14 Co-instructor for NERS 211: An Introduction to Nuclear Engineering and Radiolog-
+ical Sciences
+Guest lectures:
+W13, F13 NERS 211: An Introduction to NERS
+F12 ENG 110: The Engineering Profession
+NERS 674: High Intensity Laser-Plasma Interactions
+, , NERS 472: Fusion Reactor Technology
+Summer school lecturer:
+NSF/APS-DPPGPAPSummer Schoolin Plasma Physicsfor Astrophysicists, lecture
+on High Energy Density Physics (HEDP) and Laboratory Astrophysics
+High Energy Density Summer School Foundations of High Energy Density
+Physics – Virtual, lecture on Diagnosing High Energy Density Conditions
+NSF/APS-DPPGPAPSummer Schoolin Plasma Physicsfor Astrophysicists, lecture
+on High Energy Density Physics (HEDP) and Laboratory Astrophysics
+Introduction to Fusion Energyand Plasma Physics Course for the Science Undergrad-
+uate Laboratory Internship SUL I program at Princeton Plasma Physics Laboratory
+(PPPL), lecture on High Energy Density Physics (HEDP) Short-Pulse Driven Rela-
+tivistic Plasmas
+CERN Accelerator School (CAS) advanced course on High Gradient Wakeeld Ac-
+ce le ration lecture on Acceleration of protons and ions
 5
-– louise willingale
-high energy density summer school, university of michigan, ann arbor, mi, lec-
-tures on plasma diagnostics
-graduate student chair:
-brandon russell, phd ece,
-hongmei tang, phd ece,
-brendan stassel applied physics, due to graduate , phd
-veronica contreras ece, due to graduate , phd
-nicolas kalem applied physics, due to graduate , phd
-graduate student co-chair:
-amina hussein, phd applied physics,
-laura elgin, phd ece,
-paul t campbell, phd applied physics,
-graduate thesis committee member:
-calvin zulick, phd ners,
-matthew weiz, phd ners,
-sonal patel, phd ners,
-anthony raymond, phd applied physics,
-je fein, phd ners,
-patrick wong, phd ners,
-jungmoo hah, phd ners,
-alexander rasmus, phd applied physics,
-peter kordell, phd physics,
-steven exelby, phd ners,
-mojtaba akhavan-tafti, phd clasp,
-joseph levesque, phd applied physics,
-paul c campbell, phd ners,
-patrick skrodzki, phd ners,
-bryan morgan, phd ners,
-mathew whittlesey, phd ece,
-adrianna angulo, phd applied physics,
-mario d balcazar, phd ners,
-xintao zhao, phd eecs,
-jason cardarelli ners, due to graduate , phd
-kseniia konina ners, due to graduate , phd
-joshua latham ners, due to graduate , phd
-evan litch ners, due to graduate , phd
-advisor for the following student projects:
-undergraduate student summer project
-urop undergraduate students ( / , / , / , / )
-international student summer project
-a collaboratory project for eleanor tubman (university of york, uk), part of her
-fusion doctoral training network program
-summer project and fall term project advisor for a ners ug student
-lancaster university:
+Curriculum Vitae – Louise Willingale
+High Energy Density Summer School, University of Michigan, Ann Arbor, MI, lec-
+tures on Plasma Diagnostics
+Graduate student chair:
+Brandon Russell, Ph D ECE,
+Hongmei Tang, Ph D ECE,
+Brendan Stassel Applied Physics, due to graduate , Ph D
+Veronica Contreras ECE, due to graduate , Ph D
+Nicolas Kalem Applied Physics, due to graduate , Ph D
+Graduate student co-chair:
+Amina Hussein, Ph D Applied Physics,
+Laura Elgin, Ph D ECE,
+Paul T Campbell, Ph D Applied Physics,
+Graduate thesis committee member:
+Calvin Zulick, Ph D NERS,
+Matthew Weiz, Ph D NERS,
+Sonal Patel, Ph D NERS,
+Anthony Raymond, Ph D Applied Physics,
+Je Fein, Ph D NERS,
+Patrick Wong, Ph D NERS,
+Jungmoo Hah, Ph D NERS,
+Alexander Rasmus, Ph D Applied Physics,
+Peter Kordell, Ph D Physics,
+Steven Exelby, Ph D NERS,
+Mojtaba Akhavan-Tafti, Ph D CLASP,
+Joseph Levesque, Ph D Applied Physics,
+Paul C Campbell, Ph D NERS,
+Patrick Skrodzki, Ph D NERS,
+Bryan Morgan, Ph D NERS,
+Mathew Whittle sey Ph D ECE,
+Adrianna Angulo, Ph D Applied Physics,
+Mario D Balcazar, Ph D NERS,
+Xintao Zhao, Ph D EECS,
+Jason Cardarelli NERS, due to graduate , Ph D
+Kseniia Konina NERS, due to graduate , Ph D
+Joshua Latham NERS, due to graduate , Ph D
+Evan Litch NERS, due to graduate , Ph D
+Advisor for the following student projects:
+Undergraduate student summer project
+UROP undergraduate students (/, /, /, /)
+International student summer project
+A col laboratory project for Eleanor Tubman (University of York, UK), part of her
+Fusion Doctoral Training Network program
+Summer project and fall term project advisor for a NERS UG student
+Lancaster University:
 6
-– louise willingale
-michelmas lecturer for phys222: waves and optics
-supervisor for postdoctoral research fellow, dr. charlotte palmer
-imperial college london:
-laboratory demonstrator: for third year undergraduate experiments and msci and
-bsc projects – supervising experiments, assessing, marking reports, providing feed-
+Curriculum Vitae – Louise Willingale
+Michelmas Lecturer for PHYS222: Waves and Optics
+Supervisor for Postdoctoral Research Fellow, Dr. Charlotte Palmer
+Imperial College London:
+Laboratory demonstrator: for third year undergraduate experiments and MSci and
+BSc projects – Supervising experiments, assessing, marking reports, providing feed-
 back
-refereed journal articles
-graduate student advisees, postdoctoral researcher advisees, and undergraduate student advisees.
-1. h. tang, k. tangtartharakul, r. babjak, i-l. yeh, f. albert, h. chen, p. t. campbell, y. ma, p.
-m. nilson, b. k. russell, j. l. shaw, a. g. r. thomas, m. vranic, a. v. areev, l. willingale,
-the inuence of laser focusing conditions on the direct laser acceleration of electrons, accepted
-for publication in new journal of physics ( ).
-2. r. babjak, l. willingale, a. areev, m. vranic, direct laser acceleration in underdense plasmas
-with multi-pw lasers: a path to high-charge, gev-class electron bunches, physical review
-letters, 132, ).
-3. a.v. areev, i-l. yeh, k. tangtartharakul, l. willingale, electron energy gain due to a laser
-frequency modulation experienced by electron during betatron motion, physics of plasmas, 31,
+Refereed Journal Articles
+Graduate student advisees, Postdoctoral Researcher advisees, and Undergraduate student advisees.
+1. H. Tang, K. Tang tart hara kul R. Babjak, I-L. Yeh, F. Albert, H. Chen, P. T. Campbell, Y. Ma, P.
+M. Nilson, B. K. Russell, J. L. Shaw, A. G. R. Thomas, M. Vranic, A. V. Areev, L. Willingale,
+The Inuence of Laser Focusing Conditions on the Direct Laser Acceleration of Electrons, accepted
+for publication in New Journal of Physics ().
+2. R. Babjak, L. Willingale, A. Areev, M. Vranic, Direct Laser Acceleration in Underdense Plasmas
+with Multi-PW Lasers: A Path to High-Charge, Ge V-Class Electron Bunches, Physical Review
+Letters, 132, ).
+3. A. V. Areev, I-L. Yeh, K. Tang tart hara kul L. Willingale, Electron energy gain due to a laser
+frequency modulation experienced by electron during betatron motion, Physics of Plasmas, 31,
 ).
-4. p. t. campbell, b. k. russell, c. dong, g. fiksel, p. m. nilson, a. g. r. thomas, c. a. walsh, k.
-m. krushelnick, and l. willingale, formation of collisionless shocks driven by strongly magnetized
-relativistic electrons in the laboratory, physical review research, 6, l ).
-5. derek b. schaeer, archie f.a. bott, marco borghesi, kirk a. flippo, william fox, julien fuchs,
-chikang li, hye-sook park, fredrick h. seguin, petros tzeferacos, louise willingale, proton
-imaging of high-energy-density laboratory plasmas, reviews of modern physics, 95, 045007
-( ).
-6. brandon k. russell, paul t. campbell, qian qian, jason a. cardarelli, stepan s. bulanov, sergei
-v. bulanov, gabriele m. grittani, daniel seipt, louise willingale, and alexander g. r. thomas,
-ultrafast relativistic electron probing of extreme magnetic elds, physics of plasmas, 30, 093105
-( ). [editors pick]
-7. a. maitrallain, e. brunetti, m. j. v. streeter, b. kettle, r. spesyvtsev, g. vieux, m. shahzad, b.
-ersfeld, s. r. yoe, a. kornaszewski, o. finlay, y. ma, f. albert, n. bourgeois, s. j. d. dann,
-n. lemos, s. cipiccia, j. m. cole, i. gallardo gonz´alez, l. willingale, a. higginbotham, a. e.
-hussein, m. smid, k. falk, k. krushelnick, n. c. lopes, e. gerstmayr, c. lumsdon, o. lundh,
-s. p. d. mangles, z. najmudin, p. p. rajeev, d. r. symes, a. g. r. thomas, d. a. jaroszynski,
-parametric study of high-energy ring-shaped electron beams from a laser wakeeld accelerator, new
-journal of physics, 24, ).
-8. c. clarke, e. esarey, c. geddes, g. hofstaetter, m. j. hogan, s. nagaitsev, m. palmer, p. piot, j.
-power,c.schroeder,d.umstadter,n.vafaei-najafanadi,a.valishev,l. willingale,andv.yaki-
-menko, us advanced and novel accelerator beam test facilities, journal of instrumentation,
-17, t ).
-9. p. t. campbell, c. a. walsh, b. k. russell, j. p. chittenden, a. crilly, g. fiksel, l. gao, i. v.
-igumenshchev,p.m.nilson,a.g.r.thomas,k.krushelnick,andl. willingale,measuring mag-
+4. P. T. Campbell, B. K. Russell, C. Dong, G. Fiksel, P. M. Nilson, A. G. R. Thomas, C. A. Walsh, K.
+M. Kru shel nick and L. Willingale, Formation of collision less shocks driven by strongly magnetized
+relativistic electrons in the laboratory, Physical Review Research, 6, L ).
+5. Derek B. Schaeer, Archie F. A. Bott, Marco Borghesi, Kirk A. Flippo, William Fox, Julien Fuchs,
+Chikang Li, Hye-Sook Park, Fredrick H. Seguin, Petros Tze fera cos Louise Willingale, Proton
+Imaging of High-Energy-Density Laboratory Plasmas, Reviews of Modern Physics, 95, 045007
+().
+6. Brandon K. Russell, Paul T. Campbell, Qian Qian, Jason A. Card are lli Stepan S. Bulanov, Sergei
+V. Bulanov, Gabriele M. Grittani, Daniel Seipt, Louise Willingale, and Alexander G. R. Thomas,
+Ultrafast relativistic electron probing of extreme magnetic elds, Physics of Plasmas, 30, 093105
+(). [Editors pick]
+7. A. Mai tr all a in E. Brunetti, M. J. V. Streeter, B. Kettle, R. S pes y vt s ev G. Vieux, M. Shahzad, B.
+Ersfeld, S. R. Yoe, A. Korn as ze w ski O. Finlay, Y. Ma, F. Albert, N. Bourgeois, S. J. D. Dann,
+N. Lemos, S. Cipiccia, J. M. Cole, I. Gallardo Gonz´alez, L. Willingale, A. Hig g in botham A. E.
+Hussein, M. Smid, K. Falk, K. Kru shel nick N. C. Lopes, E. Gerstmayr, C. Lumsdon, O. Lundh,
+S. P. D. Mangles, Z. Najmudin, P. P. Rajeev, D. R. Symes, A. G. R. Thomas, D. A. Jaros zy n ski
+Parametric study of high-energy ring-shaped electron beams from a laser wakeeld accelerator, New
+Journal of Physics, 24, ).
+8. C. Clarke, E. Esarey, C. Geddes, G. H of s tae tter M. J. Hogan, S. Nagaitsev, M. Palmer, P. Piot, J.
+Power, C. Schroeder, D. Umstadter, N. Vafaei-Najafanadi, A. Valishev, L. Willingale, and V. Yaki-
+menko, US Advanced and Novel Accelerator Beam Test Facilities, Journal of Instrumentation,
+17, T ).
+9. P. T. Campbell, C. A. Walsh, B. K. Russell, J. P. Chit tend en A. Crilly, G. Fiksel, L. Gao, I. V.
+Igu men shche v P. M. Nilson, A. G. R. Thomas, K. Kru shel nick and L. Willingale, Measuring mag-
 7
-– louise willingale
-netic ux suppression in high-power laser-plasma interactions, physics of plasmas, 29, 012701
-( ).
-10. i-l. yeh, k. tangtartharakul, h. rinderknecht, l. willingale, a. v. areev, strong interplay
-between superluminosity and radiation friction during direct laser acceleration, new journal of
-physics, 23, ).
-11. j. von der linden, g. fiksel, j. peebles, m. edwards, l. willingale, a. link, d. mastrosimone,
-and h. chen, connement of relativistic electrons in a magnetic mirror en route to a magnetized
-relativistic pair plasma, physics of plasmas, 28, ).
-12. b. k. russell, p. t. campbell, a. g. r. thomas, l. willingale, multiple species laser driven
-shock-ion acceleration, plasma physics and controlled fusion, 63, ).
-13. t. shi, d. sun, i. jovanovic, g. kalinchenko, k. krushelnick, c. kuranz, a. maksimchuk, j. nees,
-a. g. r. thomas, l. willingale, optimization of the electron beam dump for a gev-class laser
-electron accelerator, applied radiation and isotopes, 176, ).
-14. j. l. peebles, g. fiksel, m. edwards, j. von der linden, l. willingale, d. mastrosimone, hui
-chen, magnetically collimated relativistic charge-neutral electron-positron beams from high-power
-lasers, physics of plasmas, 28, ).
-15. j. von der linden, j. ramos-mendez, b. faddegon, d. massin, g. fiksel, j. holder, l. willingale,
-j. peebles, m. edwards, and h. chen, dispersion calibration for the national ignition facility
-electron-positron-proton spectrometers for intense laser matter interactions,review of scientific
-instruments, 92, ).
-16. a. e. hussein, a. v. areev, t. batson, h. chen, r. s. craxton, a. s. davies, d. h. froula, z.
-gong, d. haberberger, y. ma, p. m. nilson, w. theobald, t. wang, k. weichman, g. j. williams,
-and l. willingale, towards the optimization of direct laser acceleration, new journal of
-physics, 23, ).
-17. e. r. tubman, a. s. joglekar, a. f. a. bott, m. borghesi, b. coleman, g. cooper, c. n. danson,
-p. durey, j. m. foster, p. graham, g. gregori, e. t. gumbrell, m. p. hill, t. hodge, s. kar, r.
-j. kingham, m. read, c. p. ridgers, j. skidmore, c. spindloe, a. g. r. thomas, p. treadwell,
-s. wilson, l. willingale, n. c. woolsey, observations of pressure anisotropy eects within semi-
-collisional magnetized plasma bubbles, nature communications 12, 334 ( ).
-18. j. kim, a. link, d. canning, p. fitzsimmons, j. a. fooks, s. kerr, t. ma, m. manuel, d. mariscal,
-r. wallace, g. j. williams, l. willingale, f. n. beg, and h. chen, dynamic focusing of laser
-driven positron jets by self-generated elds, new journal of physics, 22, ).
-19. h. tang, b. k. russell, a. maksimchuk, p. t. campbell, m. j.-e. manuel, and l. willingale,
-scintillator detector characterization for laser-driven proton beam imaging, review of scientific
-instruments, 91, ).
-20. m.r.stoneking, t.sunnpedersen, p.helander, h.chen, u.hergenhahn, e.v.stenson, g.fiksel,
-j. von der linden, h. saitoh, c. m. surko, j. r. danielson, c. hugenschmidt, j. horn-stanja, a.
-mishchenko,d.kennedy,a.deller,a.card,s.nißl,m.singer,s.k¨onig,l.willingale,j.peebles,
-m. r. edwards, and k. chin, a new frontier in laboratory physics: magnetized electron-positron
-plasmas, journal of plasma physics, 86, ).
-21. m. j.-e. manuel, h. tang, b. k. russell, l. willingale, a. maksimchuk, j. s. green, n. alfonso,
-j. jaquez, l. carlson, d. neely, t. ma, enhanced spatial resolution of eljen-204 plastic scintillators
-for use in rep-rated proton diagnostics,review of scientific instruments, 91, ).
-22. p. t. campbell, c. a. walsh, b. k. russell, j. p. chittenden, a. crilly, g. fiksel, p. m. nilson, a.
+Curriculum Vitae – Louise Willingale
+netic ux suppression in high-power laser-plasma interactions, Physics of Plasmas, 29, 012701
+().
+10. I-L. Yeh, K. Tang tart hara kul H. R in der kn echt L. Willingale, A. V. Areev, Strong interplay
+between super luminosity and radiation friction during direct laser acceleration, New Journal of
+Physics, 23, ).
+11. J. von der Linden, G. Fiksel, J. Peebles, M. Edwards, L. Willingale, A. Link, D. M astro simone
+and H. Chen, Connement of Relativistic Electrons in a Magnetic Mirror en Route to a Magnetized
+Relativistic Pair Plasma, Physics of Plasmas, 28, ).
+12. B. K. Russell, P. T. Campbell, A. G. R. Thomas, L. Willingale, Multiple species laser driven
+shock-ion acceleration, Plasma Physics and Controlled Fusion, 63, ).
+13. T. Shi, D. Sun, I. Jovanovic, G. Kali nchen ko K. Kru shel nick C. Kuranz, A. Maksim ch uk J. Nees,
+A. G. R. Thomas, L. Willingale, Optimization of the Electron Beam Dump for a Ge V-class Laser
+Electron Accelerator, Applied Radiation and Isotopes, 176, ).
+14. J. L. Peebles, G. Fiksel, M. Edwards, J. von der Linden, L. Willingale, D. M astro simone Hui
+Chen, Magnetically collimated relativistic charge-neutral electron-positron beams from high-power
+lasers, Physics of Plasmas, 28, ).
+15. J. von der Linden, J. Ramos-Mendez, B. Faddegon, D. Massin, G. Fiksel, J. Holder, L. Willingale,
+J. Peebles, M. Edwards, and H. Chen, Dispersion calibration for the National Ignition Facility
+electron-positron-proton spectrometers for intense laser matter interactions, Review of Scientific
+Instruments, 92, ).
+16. A. E. Hussein, A. V. Areev, T. Batson, H. Chen, R. S. Craxton, A. S. Davies, D. H. Froula, Z.
+Gong, D. Haber berger Y. Ma, P. M. Nilson, W. Theobald, T. Wang, K. Weichman, G. J. Williams,
+and L. Willingale, Towards the Optimization of Direct Laser Acceleration, New Journal of
+Physics, 23, ).
+17. E. R. Tubman, A. S. Joglekar, A. F. A. Bott, M. Borghesi, B. Coleman, G. Cooper, C. N. Danson,
+P. Durey, J. M. Foster, P. Graham, G. Gregori, E. T. Gumbrell, M. P. Hill, T. Hodge, S. Kar, R.
+J. Kingham, M. Read, C. P. Ridgers, J. Skidmore, C. Spindloe, A. G. R. Thomas, P. Treadwell,
+S. Wilson, L. Willingale, N. C. Woolsey, Observations of pressure anisotropy eects within semi-
+collision al magnetized plasma bubbles, Nature Communications 12, 334 ().
+18. J. Kim, A. Link, D. Canning, P. Fitz simmons J. A. Fooks, S. Kerr, T. Ma, M. Manuel, D. Mariscal,
+R. Wallace, G. J. Williams, L. Willingale, F. N. Beg, and H. Chen, Dynamic focusing of laser
+driven positron jets by self-generated elds, New Journal of Physics, 22, ).
+19. H. Tang, B. K. Russell, A. Maksim ch uk P. T. Campbell, M. J.-E. Manuel, and L. Willingale,
+Scintilla tor detector characterization for laser-driven proton beam imaging, Review of Scientific
+Instruments, 91, ).
+20. M. R. Stoneking, T. Sunn Pedersen, P. Helander, H. Chen, U. He rgen hahn E. V. Stenson, G. Fiksel,
+J. von der Linden, H. Saitoh, C. M. Surko, J. R. Danielson, C. Huge n schmidt J. Horn-Stanja, A.
+Mi shche n ko D. Kennedy, A. Deller, A. Card, S. Nißl, M. Singer, S. K¨onig, L. Willingale, J. Peebles,
+M. R. Edwards, and K. Chin, A new frontier in laboratory physics: magnetized electron-positron
+plasmas, Journal of Plasma Physics, 86, ).
+21. M. J.-E. Manuel, H. Tang, B. K. Russell, L. Willingale, A. Maksim ch uk J. S. Green, N. Alfonso,
+J. Jaquez, L. Carlson, D. Neely, T. Ma, Enhanced spatial resolution of Eljen-204 plastic scintilla tors
+for use in rep-rated proton diagnostics, Review of Scientific Instruments, 91, ).
+22. P. T. Campbell, C. A. Walsh, B. K. Russell, J. P. Chit tend en A. Crilly, G. Fiksel, P. M. Nilson, A.
 8
-– louise willingale
-g. r. thomas, k. krushelnick, and l. willingale, magnetic signatures of radiation-driven double
-ablation fronts, physical review letters, 125, ).
-23. g. j. williams, a. link, m. sherlock, d. a. alessi, m. bowers, a. conder, p. di nicola, g. fiksel,
-f. fiuza, m. hamamoto, m. r. hermann, s. herriot, d. homoelle, w. hsing, e. d’humi´eres,
-d. kalantar, a. kemp, s. kerr, j. kim, k. n. lafortune, j. lawson, r. lowe-webb, t. ma,
-d. a. mariscal, d. martinez, m. j.-e. manuel, m. nakai, l. pelz, m. prantil, b. remington, r.
-sigurdsson, c. widmayer, w. williams, l. willingale, r. zachariason, k. youngblood, and hui
-chen, production of relativistic electrons at subrelativistic laser intensities, physical review e,
+Curriculum Vitae – Louise Willingale
+G. R. Thomas, K. Kru shel nick and L. Willingale, Magnetic signatures of radiation-driven double
+ablation fronts, Physical Review Letters, 125, ).
+23. G. J. Williams, A. Link, M. Sherlock, D. A. Alessi, M. Bowers, A. Conder, P. Di Nicola, G. Fiksel,
+F. Fiuza, M. Hamamoto, M. R. Hermann, S. Herriot, D. Homoelle, W. Hsing, E. d Humi ere s
+D. Kalantar, A. Kemp, S. Kerr, J. Kim, K. N. Lafortune, J. Lawson, R. Lowe-Webb, T. Ma,
+D. A. Mariscal, D. Martinez, M. J.-E. Manuel, M. Nakai, L. Pelz, M. Prantil, B. Remington, R.
+Sigurdsson, C. Widmayer, W. Williams, L. Willingale, R. Zacharias on K. Young blood and Hui
+Chen, Production of relativistic electrons at sub relativistic laser intensities, Physical Review E,
 101, ).
-24. p. t. campbell, d. canning, a. e. hussein, k. ratnayaka, a. g. r. thomas, k. krushelnick, and
-l. willingale, proton beam emittance growth in multipicosecond laser-solid interactions, new
-journal of physics, 21, ).
-25. c. a. j. palmer, p. t. campbell, y. ma, l. antonelli, a. f. a. bott, g. gregori, j. halliday, y.
-katzir, p. kordell, k. krushelnick, s. v. lebedev, e. montgomery, m. notley, d. c. carroll, c.
-p. ridgers, a. a. schekochihin, m. j. v. streeter, a. g. r. thomas, e. r. tubman, n. woolsey,
-and l. willingale, field reconstruction from proton radiography of intense laser driven magnetic
-reconnection, physics of plasmas, 26, ).
-26. a. e. hussein, n. senabulya, y. ma, m. j. v. streeter, b. kettle, s. j. d. dann, f. albert, n.
-bourgeois, s.cipiccia, j.m.cole, o.finlay, e.gerstmayr, i.gallardogonz´alez, a.higginbotham,
-d.a.jaroszynski, k.falk, k.krushelnick, n.lemos, n.c.lopes, c.lumsdon, o.lundh, s.p.d.
-mangles, z. najmudin, p. p. rajeev, c. m. schlepu¨tz, m. shahzad, m. smid, r. spesyvtsev, d. r.
-symes, g. vieux, l. willingale, j. c. wood, a. j. shahani, and a. g. r. thomas, laser-wakeeld
-accelerators for high-resolution x-ray imaging of complex microstructures, scientific reports,
+24. P. T. Campbell, D. Canning, A. E. Hussein, K. Ratnayaka, A. G. R. Thomas, K. Kru shel nick and
+L. Willingale, Proton beam emittance growth in multi picosecond laser-solid interactions, New
+Journal of Physics, 21, ).
+25. C. A. J. Palmer, P. T. Campbell, Y. Ma, L. Antonelli, A. F. A. Bott, G. Gregori, J. Halliday, Y.
+Katzir, P. Kordell, K. Kru shel nick S. V. Lebedev, E. Montgomery, M. Notley, D. C. Carroll, C.
+P. Ridgers, A. A. Sche kochi h in M. J. V. Streeter, A. G. R. Thomas, E. R. Tubman, N. Woolsey,
+and L. Willingale, Field reconstruction from proton radio graph y of intense laser driven magnetic
+re connection Physics of Plasmas, 26, ).
+26. A. E. Hussein, N. Senabulya, Y. Ma, M. J. V. Streeter, B. Kettle, S. J. D. Dann, F. Albert, N.
+Bourgeois, S. Cipiccia, J. M. Cole, O. Finlay, E. Gerstmayr, I. Gallardo Gonz´alez, A. Hig g in botham
+D. A. Jaros zy n ski K. Falk, K. Kru shel nick N. Lemos, N. C. Lopes, C. Lumsdon, O. Lundh, S. P. D.
+Mangles, Z. Najmudin, P. P. Rajeev, C. M. Schlep u tz M. Shahzad, M. Smid, R. S pes y vt s ev D. R.
+Symes, G. Vieux, L. Willingale, J. C. Wood, A. J. Shahani, and A. G. R. Thomas, Laser-wakeeld
+accelerators for high-resolution X-ray imaging of complex micro structures Scientific Reports,
 9, )
-27. a. flacco and l. willingale, summary of working group 2: ion beams from plasmas, nuclear
-instruments and methods in physics research, section a: accelerators, spectrom-
-eters, detectors and associated equipment, 909, 153 ( )
-28. yong ma, daniel seipt, stephen dann, matthew james victor streeter, charlotte palmer, louise
-willingale, and alexander thomas, angular streaking of betatron x-rays in a transverse density
-gradient laser-wakeeld accelerator, physics of plasmas 25, )
-29. a.raymond, c.f.dong, a.mckelvey, c.zulick, n.alexander, a.bhattacharjee, p. t. campbell,
-h.chen,v.chvykov,e.delrio,p.fitzsimmons,w.fox,b.hou,a.m.maksimchuk,c.mileham,
-j.nees, p.m.nilson, c.stoeckl, a.g.r.thomas, m.s.wei, v.yanovsky, k.krushelnick, andl.
-willingale,relativistic electron driven magnetic reconnection in the laboratory,physical review
-e, 98, )
-30. l. willingale, a. v. areev, g. j. williams, h. chen, f. dollar, a. u. hazi, a. maksimchuk, m.
-j.-e. manuel, e. marley, w. nazarov, t. z. zhao, and c. zulick, the unexpected role of evolv-
-ing longitudinal electric fields in generating energetic electrons in relativistically transparent
-plasmas, new journal of physics, 20, )
-31. f. dollar, c. zulick, a. raymond, v. chvykov, l. willingale, v. yanovsky, a. maksimchuk, a.
-g. r. thomas, and k. krushelnick, enhanced laser absorption from radiation pressure in intense
-laser plasma interactions, new journal of physics, 19, )
-32. c. zulick, a. raymond, a. mckelvey, v. chvykov, a. maksimchuk, a. g. r. thomas, l. will-
-ingale, v. yanovsky, and k. krushelnick, target surface area eects on hot electron dynamics from
-high intensity laser-plasma interactions, new journal of physics, 18, )
+27. A. Flacco and L. Willingale, Summary of working group 2: Ion beams from plasmas, Nuclear
+Instruments and Methods in Physics Research, Section A: Accelerators, Spectrom-
+eters, Detectors and Associated Equipment, 909, 153 ()
+28. Yong Ma, Daniel Seipt, Stephen Dann, Matthew James Victor Streeter, Charlotte Palmer, Louise
+Willingale, and Alexander Thomas, Angular streaking of betatron X-rays in a transverse density
+gradient laser-wakeeld accelerator, Physics of Plasmas 25, )
+29. A. Raymond, C. F. Dong, A. Mc Kelvey, C. Zulick, N. Alexander, A. Bhatt a char j ee P. T. Campbell,
+H. Chen, V. Chvykov, E. Del Rio, P. Fitz simmons W. Fox, B. Hou, A. M. Maksim ch uk C. Mileham,
+J. Nees, P. M. Nilson, C. Stoeckl, A. G. R. Thomas, M. S. Wei, V. Yanovsky, K. Kru shel nick and L.
+Willingale, Relativistic electron driven magnetic re connection in the laboratory, Physical Review
+E, 98, )
+30. L. Willingale, A. V. Areev, G. J. Williams, H. Chen, F. Dollar, A. U. Hazi, A. Maksim ch uk M.
+J.-E. Manuel, E. Marley, W. Nazarov, T. Z. Zhao, and C. Zulick, The Unexpected Role of Evolv-
+ing Longitudinal Electric Fields in Generating Energetic Electrons in Relativistic ally Transparent
+Plasmas, New Journal of Physics, 20, )
+31. F. Dollar, C. Zulick, A. Raymond, V. Chvykov, L. Willingale, V. Yanovsky, A. Maksim ch uk A.
+G. R. Thomas, and K. Kru shel nick Enhanced laser absorption from radiation pressure in intense
+laser plasma interactions, New Journal of Physics, 19, )
+32. C. Zulick, A. Raymond, A. Mc Kelvey, V. Chvykov, A. Maksim ch uk A. G. R. Thomas, L. Will-
+ingale, V. Yanovsky, and K. Kru shel nick Target surface area eects on hot electron dynamics from
+high intensity laser-plasma interactions, New Journal of Physics, 18, )
 9
-– louise willingale
-33. a. v. areev, v. n. khudik, a. p. l. robinson, g. shvets, l. willingale, and m. schollmeier,
-beyond the ponderomotive limit: direct laser acceleration of relativistic electrons in sub-critical
-plasmas, physics of plasmas, 23, )
-34. l. willingale, p. m. nilson, c. zulick, h. chen, r. s. craxton, j. cobble, a. maksimchuk, p.
-a. norreys, t. c. sangster, r. h. h. scott, and c. stoeckl, relativistic intensity laser interactions
-with low-density plasmas, journal of physics: conference series: 8th international
-conference of inertial fusion science and applications (ifsa ), 688, 012126
-( )
-35. a. v. areev, v. n. khudik, a. p. l. robinson, g. shvets, and l. willingale, spontaneous
+Curriculum Vitae – Louise Willingale
+33. A. V. Areev, V. N. Khudik, A. P. L. Robinson, G. Shvets, L. Willingale, and M. Scholl meier
+Beyond the ponder o motive limit: direct laser acceleration of relativistic electrons in sub-critical
+plasmas, Physics of Plasmas, 23, )
+34. L. Willingale, P. M. Nilson, C. Zulick, H. Chen, R. S. Craxton, J. Cobble, A. Maksim ch uk P.
+A. Norreys, T. C. Sangster, R. H. H. Scott, and C. Stoeckl, Relativistic intensity laser interactions
+with low-density plasmas, Journal of Physics: Conference Series: 8th International
+Conference of Inertial Fusion Science and Applications (IFSA ), 688, 012126
+()
+35. A. V. Areev, V. N. Khudik, A. P. L. Robinson, G. Shvets, and L. Willingale, Spontaneous
 emergence of non-planar electron orbits during direct laser acceleration by a linearly polarized laser
-pulse, physics of plasmas, 23, )
-36. l. willingale, s. r. nagel, a. g. r. thomas, c. bellei, r. j. clarke, a. e. dangor, r. heathcote,
-m. c. kaluza, c. kamperidis, s. kneip, k. krushelnick, n. lopes, s. p. d. mangles, w. nazarov,
-p. m. nilson, and z. najmudin, characterization of laser-driven proton beams from near-critical
-density targets using copper activation, journal of plasma physics, 81, )
-37. l. willingale, a. g. r. thomas, a. maksimchuk, a. morace, t. bartel, j. kim, r. b. stephens,
-m. s. wei, f. n. beg, and k. krushelnick, investigation of relativistic intensity laser generated
-hot electron dynamics via copper k imaging and proton acceleration, physics of plasmas, 20,
+pulse, Physics of Plasmas, 23, )
+36. L. Willingale, S. R. Nagel, A. G. R. Thomas, C. Bellei, R. J. Clarke, A. E. Dangor, R. Heathcote,
+M. C. Kaluza, C. Kam per id is S. Kneip, K. Kru shel nick N. Lopes, S. P. D. Mangles, W. Nazarov,
+P. M. Nilson, and Z. Najmudin, Characterization of laser-driven proton beams from near-critical
+density targets using copper activation, Journal of Plasma Physics, 81, )
+37. L. Willingale, A. G. R. Thomas, A. Maksim ch uk A. Morace, T. Bartel, J. Kim, R. B. Stephens,
+M. S. Wei, F. N. Beg, and K. Kru shel nick Investigation of relativistic intensity laser generated
+hot electron dynamics via copper K imaging and proton acceleration, Physics of Plasmas, 20,
 α
 )
-38. f. dollar, s. a. reed, t. matsuoka, s. s. bulanov, v. chvykov, g. kalintchenko, c. mcguey,
-p. rousseau, a. g. r. thomas, l. willingale, v. yanovsky, d. w. litzenberg, k. krushelnick,
-and a. maksimchuk, high-intensity laser-driven proton acceleration enhancement from hydrogen
-containing ultrathin targets, applied physics letters, 103, )
-39. a. morace, c. bellei, t. bartal, l. willingale, j. kim, a. maksimchuk, k. krushelnick, m. s.
-wei, p. k. patel, d. batani, n. piovella, r. b. stephens, and f. n. beg, improved laser-to-proton
-conversion eciency in isolated reduced mass targets, applied physics letters, 103, 054102
-( )
-40. a. maksimchuk, a. raymond, f. yu, g. m. petrov, f. dollar, l. willingale, c. zulick, j. davis,
-and k. krushelnick, dominant deuteron acceleration with a high-intensity laser for isotope produc-
-tion and neutron generation, applied physics letters, 102, )
-41. f.dollar,c.zulick,t.matsuoka,c.mcguey,s.s.bulanov,v.chvykov,j.davis,g.kalinchenko,
-g. m. petrov, l. willingale, v. yanovsky, a. maksimchuk, a. g. r. thomas, and k. krushel-
-nick, high contrast ion acceleration at intensities exceeding 1021 wcm 2, physics of plasmas,
+38. F. Dollar, S. A. Reed, T. Matsuoka, S. S. Bulanov, V. Chvykov, G. Ka lint chen ko C. Mc Guey,
+P. Rousseau, A. G. R. Thomas, L. Willingale, V. Yanovsky, D. W. Litz e nberg K. Kru shel nick
+and A. Maksim ch uk High-Intensity Laser-Driven Proton Acceleration Enhancement from Hydrogen
+Containing Ultrathin Targets, Applied Physics Letters, 103, )
+39. A. Morace, C. Bellei, T. Bartal, L. Willingale, J. Kim, A. Maksim ch uk K. Kru shel nick M. S.
+Wei, P. K. Patel, D. Batani, N. Piovella, R. B. Stephens, and F. N. Beg, Improved laser-to-proton
+conversion eciency in isolated reduced mass targets, Applied Physics Letters, 103, 054102
+()
+40. A. Maksim ch uk A. Raymond, F. Yu, G. M. Petrov, F. Dollar, L. Willingale, C. Zulick, J. Davis,
+and K. Kru shel nick Dominant deuteron acceleration with a high-intensity laser for isotope produc-
+tion and neutron generation, Applied Physics Letters, 102, )
+41. F. Dollar, C. Zulick, T. Matsuoka, C. Mc Guey, S. S. Bulanov, V. Chvykov, J. Davis, G. Kali nchen ko
+G. M. Petrov, L. Willingale, V. Yanovsky, A. Maksim ch uk A. G. R. Thomas, and K. Krushel-
+nick, High contrast ion acceleration at intensities exceeding 1021 Wcm 2, Physics of Plasmas,
 −
 20, )
-42. c. zulick, f. dollar, v. chvykov, j. davis, g. kalinchenko, a. maksimchuk, g. m. petrov, a.
-raymond, a. g. r. thomas, l. willingale, v. yanovsky, and k. krushelnick, ultra-intense laser
-neutron generation through ecient deuteron acceleration, proceedings of spie: laser ac-
-celeration of electrons, protons, and ions ii; and medical applications of laser-
-generated beams of particles ii; and harnessing relativistic plasma waves iii,
-8779, 87790n ( )
-43. f. dollar, p. cummings, v. chvykov, l. willingale, m. vargas, v. yanovsky, c. zulick, a.
-maksimchuk, a. g. r. thomas, and k. krushelnick, scaling high-order harmonic generation from
-laser-solid interactions to ultrahigh intensity, physical review letters, 110, )
-44. c.zulick, f.dollar, j.davis, v. chvykov, g. kalinchenko, a. maksimchuk, g.m. petrov, a. g.r.
-thomas, a. raymond, l. willingale, v, yanovsky, and k. krushelnick, energetic neutron beams
+42. C. Zulick, F. Dollar, V. Chvykov, J. Davis, G. Kali nchen ko A. Maksim ch uk G. M. Petrov, A.
+Raymond, A. G. R. Thomas, L. Willingale, V. Yanovsky, and K. Kru shel nick Ultra-intense laser
+neutron generation through ecient deuteron acceleration, Proceedings of SPIE: Laser Ac-
+celeration of Electrons, Protons, and Ions II; and Medical Applications of Laser-
+Generated Beams of Particles II; and Harnessing Relativistic Plasma Waves III,
+8779, 87790N ()
+43. F. Dollar, P. Cummings, V. Chvykov, L. Willingale, M. Vargas, V. Yanovsky, C. Zulick, A.
+Maksim ch uk A. G. R. Thomas, and K. Kru shel nick Scaling high-order harmonic generation from
+laser-solid interactions to ultrahigh intensity, Physical Review Letters, 110, )
+44. C. Zulick, F. Dollar, J. Davis, V. Chvykov, G. Kali nchen ko A. Maksim ch uk G. M. Petrov, A. G. R.
+Thomas, A. Raymond, L. Willingale, V, Yanovsky, and K. Kru shel nick Energetic neutron beams
 10
-– louise willingale
-generated from femtosecond laser plasma interactions, applied physics letters, 102, 124101
-( )
-45. l. willingale, a. g. r thomas, p. m. nilson, h. chen, j. cobble, r. s. craxton, a. maksimchuk,
-p. a. norreys, t. c. sangster, r. h. h. scott, c. stoeckl, c. zulick, k. krushelnick, surface waves
+Curriculum Vitae – Louise Willingale
+generated from femtosecond laser plasma interactions, Applied Physics Letters, 102, 124101
+()
+45. L. Willingale, A. G. R Thomas, P. M. Nilson, H. Chen, J. Cobble, R. S. Craxton, A. Maksim ch uk
+P. A. Norreys, T. C. Sangster, R. H. H. Scott, C. Stoeckl, C. Zulick, K. Kru shel nick Surface waves
 and electron acceleration from high-power, kilojoule-class laser interactions with underdense plasma,
-new journal of physics, 15, )
-46. f. dollar, c. zulick, a. g. r. thomas, v. chvykov, j. davis, g. kalinchenko, t. matsuoka, c.
-mcguey, g. m. petrov, l. willingale, v. yanovsky, a. maksimchuk, and k. krushelnick, finite
+New Journal of Physics, 15, )
+46. F. Dollar, C. Zulick, A. G. R. Thomas, V. Chvykov, J. Davis, G. Kali nchen ko T. Matsuoka, C.
+Mc Guey, G. M. Petrov, L. Willingale, V. Yanovsky, A. Maksim ch uk and K. Kru shel nick Finite
 spot eects on radiation pressure acceleration from intense high-contrast laser interactions with thin
-targets, physical review letters, 108, )
-47. l. willingale a. g. r. thomas, p. m. nilson, m. c. kaluza, s. bandyopadhyay, a. e dangor, r.
-g. evans, p. fernandes, m. g. haines, c. kamperidis, r. j. kingham, s. minardi, m. notley, c.
-p. ridgers, w. rozmus, m. sherlock, m. tatarakis, m. s. wei, z. najmudin, and k. krushelnick,
-proton probe measurement of fast advection of magnetic elds by hot electrons, plasma physics
-and controlled fusion, 53, )
-48. l. willingale, p. m. nilson, a. g. r. thomas, j. cobble, r. s. craxton, a. maksimchuk, p. a.
-norreys, t. c. sangster, r. h. h. scott, c. stoeckl, c. zulick, and k. krushelnick, proton probe
-imaging of elds within a laser-generated plasma channel, 6th triennial special issue of the
-ieee transactions on plasma science, 39, )
-49. l. willingale, g. m. petrov, a. maksimchuk, j. davis, r. r. freeman, a. joglekar, t. matsuoka,
-c.d.murphy,v.ovchinnikov,a.g.r.thomas,l.vanwoerkom,andk.krushelnick,comparison
-of bulk and pitcher-catcher targets for laser-driven neutron production, physics of plasmas, 18,
+targets, Physical Review Letters, 108, )
+47. L. Willingale A. G. R. Thomas, P. M. Nilson, M. C. Kaluza, S. Bandy op adh yay A. E Dangor, R.
+G. Evans, P. Fernandes, M. G. Haines, C. Kam per id is R. J. Kingham, S. Minardi, M. Notley, C.
+P. Ridgers, W. Rozmus, M. Sherlock, M. Tatarakis, M. S. Wei, Z. Najmudin, and K. Kru shel nick
+Proton probe measurement of fast advection of magnetic elds by hot electrons, Plasma Physics
+and Controlled Fusion, 53, )
+48. L. Willingale, P. M. Nilson, A. G. R. Thomas, J. Cobble, R. S. Craxton, A. Maksim ch uk P. A.
+Norreys, T. C. Sangster, R. H. H. Scott, C. Stoeckl, C. Zulick, and K. Kru shel nick Proton probe
+imaging of elds within a laser-generated plasma channel, 6th Triennial Special Issue of the
+IEEE Transactions on Plasma Science, 39, )
+49. L. Willingale, G. M. Petrov, A. Maksim ch uk J. Davis, R. R. Freeman, A. Joglekar, T. Matsuoka,
+C. D. Murphy, V. Ov chin niko v A. G. R. Thomas, L. Van Woerkom, and K. Kru shel nick Comparison
+of bulk and pitcher-catcher targets for laser-driven neutron production, Physics of Plasmas, 18,
 )
-50. f. j. dollar, t. matsuoka, g. m. petrov, a. g. r. thomas, s. s. bulanov, v. chvykov, j. davis,
-g. kalinchenko, c. mcguey, l. willingale, v. yanovsky, a. maksimchuk, and k. krushelnick,
-control of energy spread and dark current in proton and ion beams generated in high-contrast laser
-solid interactions, physical review letters, 107, )
-51. l. willingale, p. m. nilson, a. g. r. thomas, s. s. bulanov, a. maksimchuk, w. nazarov, t. c.
-sangster, c. stoeckl, and k. krushelnick, high-power, kilojoule laser interactions with near-critical
-density plasma, physics of plasmas 18, )
-52. l. willingale, p. m. nilson, a. g. r. thomas, j. cobble, r. s. craxton, a. maksimchuk, p. a.
-norreys, t. c. sangster, r. h. h. scott, c. stoeckl, c. zulick, and k. krushelnick, high-power,
-kilojoule class laser channeling through millimeter scale underdense plasma, physical review
-letters, 106, )
-53. l. willingale, g. m. petrov, a. maksimchuk, j. davis, r. r. freeman, t. matsuoka, c. d.
-murphy, v. m. ovchinnikov, l. van woerkom, and k. krushelnick, front versus rear side light-
-ion acceleration from high-intensity laser-solid interactions, plasma physics and controlled
-fusion, 53, )
-54. g. m. petrov, l. willingale, j. davis, tz. petrova, a. maksimchuk, and k. krushelnick, the
-impact of contaminants on laser-driven light ion acceleration, physics of plasmas, 17, 103111
-( )
-55. l. willingale, a. g. r. thomas, p. m. nilson, m. c. kaluza, s. bandyopadhyay, a. e dangor, r.
-g. evans, p. fernandes, m. g. haines, c. kamperidis, r. j. kingham, s. minardi, m. notley, c. p.
-ridgers, w. rozmus, m. sherlock, m. tatarakis, m. s. wei, z. najmudin, and k. krushelnick, fast
-advection of magnetic elds by hot electrons, physical review letters, 105, )
+50. F. J. Dollar, T. Matsuoka, G. M. Petrov, A. G. R. Thomas, S. S. Bulanov, V. Chvykov, J. Davis,
+G. Kali nchen ko C. Mc Guey, L. Willingale, V. Yanovsky, A. Maksim ch uk and K. Kru shel nick
+Control of energy spread and dark current in proton and ion beams generated in high-contrast laser
+solid interactions, Physical Review Letters, 107, )
+51. L. Willingale, P. M. Nilson, A. G. R. Thomas, S. S. Bulanov, A. Maksim ch uk W. Nazarov, T. C.
+Sangster, C. Stoeckl, and K. Kru shel nick High-power, kilojoule laser interactions with near-critical
+density plasma, Physics of Plasmas 18, )
+52. L. Willingale, P. M. Nilson, A. G. R. Thomas, J. Cobble, R. S. Craxton, A. Maksim ch uk P. A.
+Norreys, T. C. Sangster, R. H. H. Scott, C. Stoeckl, C. Zulick, and K. Kru shel nick High-power,
+kilojoule class laser channeling through millimeter scale underdense plasma, Physical Review
+Letters, 106, )
+53. L. Willingale, G. M. Petrov, A. Maksim ch uk J. Davis, R. R. Freeman, T. Matsuoka, C. D.
+Murphy, V. M. Ov chin niko v L. Van Woerkom, and K. Kru shel nick Front versus rear side light-
+ion acceleration from high-intensity laser-solid interactions, Plasma Physics and Controlled
+Fusion, 53, )
+54. G. M. Petrov, L. Willingale, J. Davis, Tz. Petrova, A. Maksim ch uk and K. Kru shel nick The
+impact of contaminants on laser-driven light ion acceleration, Physics of Plasmas, 17, 103111
+()
+55. L. Willingale, A. G. R. Thomas, P. M. Nilson, M. C. Kaluza, S. Bandy op adh yay A. E Dangor, R.
+G. Evans, P. Fernandes, M. G. Haines, C. Kam per id is R. J. Kingham, S. Minardi, M. Notley, C. P.
+Ridgers, W. Rozmus, M. Sherlock, M. Tatarakis, M. S. Wei, Z. Najmudin, and K. Kru shel nick Fast
+advection of magnetic elds by hot electrons, Physical Review Letters, 105, )
 11
-– louise willingale
-56. c. bellei, s. r. nagel, s. kar, a henig, s. kniep, c. palmer, a. s¨aevert, l. willingale, d. carroll,
-b. dromey, j. s. green, k. markey, p. simpson, r. j. clarke, h. lowe, d. neely, c. spindloe,
-m. tolley, m. c. kaluza, s. p. d. mangles, p. mckenna, p. a. norreys, j. schreiber, m. zepf, j.
-r. davies, k. krushelnick, and z. najmudin, micron-scale fast electron laments and recirculation
-determined from rear side optical emission in high intensity laser-solid interactions, new journal
-of physics, 12, )
-57. t. matsuoka, s. reed, c. mcguey, s. s. bulanov, f. dollar, l. willingale, v. chvykov, g.
-kalinchenko, a. brantov, v. yu bychenkov, p. rousseau, v. yanovsky, d. w. litzenberg, k.
-krushelnick, anda.maksimchuk, energetic electron and ion generation from interactions of intense
-laser pulses with laser machined conical targets, nuclear fusion, 50, )
-58. i. v. pogorelsky, v. yakimenko, m. polyanskiy, p. shkolnikov, m. ispiryan, d. neely, p. mckenna,
-d. carroll, z. najmudin, l. willingale, ultrafast co laser technology: application in ion ac-
+Curriculum Vitae – Louise Willingale
+56. C. Bellei, S. R. Nagel, S. Kar, A Henig, S. Kniep, C. Palmer, A. S¨aevert, L. Willingale, D. Carroll,
+B. Dromey, J. S. Green, K. Markey, P. Simpson, R. J. Clarke, H. Lowe, D. Neely, C. Spindloe,
+M. Tolley, M. C. Kaluza, S. P. D. Mangles, P. Mc Kenna, P. A. Norreys, J. Schreiber, M. Zepf, J.
+R. Davies, K. Kru shel nick and Z. Najmudin, Micron-scale fast electron laments and re circulation
+determined from rear side optical emission in high intensity laser-solid interactions, New Journal
+of Physics, 12, )
+57. T. Matsuoka, S. Reed, C. Mc Guey, S. S. Bulanov, F. Dollar, L. Willingale, V. Chvykov, G.
+Kali nchen ko A. Brantov, V. Yu Bychenkov, P. Rousseau, V. Yanovsky, D. W. Litz e nberg K.
+Kru shel nick and A. Maksim ch uk Energetic electron and ion generation from interactions of intense
+laser pulses with laser machined conical targets, Nuclear Fusion, 50, )
+58. I. V. Pogo rel sky V. Yakimenko, M. Poly an ski y P. Sh kol niko v M. Ispiryan, D. Neely, P. Mc Kenna,
+D. Carroll, Z. Najmudin, L. Willingale, Ultrafast CO laser technology: Application in ion ac-
 2
-celeration, nuclear instruments and methods in physics research a-accelerators
-spectrometers detectors and associated equipment, 620, 67 ( )
-59. p.m.nilson, s.p.d. mangles, l. willingale, m.c.kaluza, a. g.r.thomas, m. tatarakis, r. j.
-clarke, k. l. lancaster, s. karsch, j. schreiber, z. najmudin, a. e. dangor, and k. krushelnick,
-plasma cavitation in ultraintense laser interactions with underdense helium plasmas at intensities
-of i > 1020 w/cm2, new journal of physics, 12, )
-60. l. willingale, p. m. nilson, m. c. kaluza, a. e dangor, r. g. evans, p. fernandes, m. g.
-haines, c. kamperidis, r. j. kingham, c. p. ridgers, m. sherlock, a. g. r. thomas, m. s. wei,
-z. najmudin, k. krushelnick, s. bandyopadhyay, m. notley, s. minardi, m. tatarakis, and w.
-rozmus, proton deectometry of a magnetic reconnection geometry, physics of plasmas, 17,
+ce le ration Nuclear Instruments and Methods in Physics Research A-Accelerators
+Spectrometers Detectors and Associated Equipment, 620, 67 ()
+59. P. M. Nilson, S. P. D. Mangles, L. Willingale, M. C. Kaluza, A. G. R. Thomas, M. Tatarakis, R. J.
+Clarke, K. L. Lancaster, S. Karsch, J. Schreiber, Z. Najmudin, A. E. Dangor, and K. Kru shel nick
+Plasma cavitation in ultra intense laser interactions with underdense helium plasmas at intensities
+of I > 1020 W/cm2, New Journal of Physics, 12, )
+60. L. Willingale, P. M. Nilson, M. C. Kaluza, A. E Dangor, R. G. Evans, P. Fernandes, M. G.
+Haines, C. Kam per id is R. J. Kingham, C. P. Ridgers, M. Sherlock, A. G. R. Thomas, M. S. Wei,
+Z. Najmudin, K. Kru shel nick S. Bandy op adh yay M. Notley, S. Minardi, M. Tatarakis, and W.
+Rozmus, Proton de ec tome try of a magnetic re connection geometry, Physics of Plasmas, 17,
 )
-61. s. s. bulanov, v. yu. bychenkov, v. chvykov, g. kalinchenko, d. w. litzenburg, t. matsuoka,
-a. g. r. thomas, l. willingale, v. yanovsky, k. krushelnick, and a. maksimchuk, gev protons
-with 1 pw laser from a near critical density target, physics of plasmas, 17, )
-62. j. davis, g. m. petrov, tz. petrova, l. willingale, a. maksimchuk, and k. krushelnick, neutron
-production from 7li(d,n) nuclear fusion reactions driven by high-intensity laser-target interactions,
-plasma physics and controlled fusion, 52, )
-63. f. dollar, t. matsuoka, c. mcguey, s. s. bulanov, v. chvykov, j. davis, g. kalintchenko, g.
-petrov, a. g. r. thomas, l. willingale, v. yanovsky, a. maksimchuk, and k. krushelnick,
-narrow energy spread protons and ions from high-intensity, high-contrast laser solid target
-interactions, aip conference proceedings: advanced accelerator convepts: 14th
-advanced accelerator concepts workshop, 1299, 710 ( )
-64. p. m. nilson, s. p. d. mangles, l. willingale, m. c. kaluza, a. g. r. thomas, m. tatarakis,
-z. najmudin, r. j. clarkes, k. l. lancaster, s. karsch, j. schreiber, r. g. evans, a. e. dangor,
-andk.krushelnick, generation of ultrahigh-velocity ionizing shocks with petawatt-class-laser pulses,
-physical review letters, 103, )
-65. b.dromey,d.adams,s.kar,c.bellei,d.c.carroll,r.j.clarke,j.s.green,s.kneip,k.markey,
-s. r. nagel, p. t. simpson, l. willingale, p. mckenna, d. neely, z. najmudin, k. krushelnick,
-p. a. norreys, and m. zepf, high brightness kev harmonics from relativistically oscillating plasma
-surfaces, european physical journal - special topics, 175, 57 ( )
-66. b. dromey, c. bellei, d. c. carroll, r. j. clarke, j. s. green, s. kar, s. kneip, k. markey, s.
-r. nagel, l. willingale, p. mckenna, d. neely, z. najmudin, k. krushelnick, p. a. norreys,
-and m. zepf, third harmonic order imaging as a focal spot diagnostic for high intensity laser-solid
+61. S. S. Bulanov, V. Yu. Bychenkov, V. Chvykov, G. Kali nchen ko D. W. Litz enburg T. Matsuoka,
+A. G. R. Thomas, L. Willingale, V. Yanovsky, K. Kru shel nick and A. Maksim ch uk Ge V protons
+with 1 PW laser from a near critical density target, Physics of Plasmas, 17, )
+62. J. Davis, G. M. Petrov, Tz. Petrova, L. Willingale, A. Maksim ch uk and K. Kru shel nick Neutron
+production from 7Li(d, n) nuclear fusion reactions driven by high-intensity laser-target interactions,
+Plasma Physics and Controlled Fusion, 52, )
+63. F. Dollar, T. Matsuoka, C. Mc Guey, S. S. Bulanov, V. Chvykov, J. Davis, G. Ka lint chen ko G.
+Petrov, A. G. R. Thomas, L. Willingale, V. Yanovsky, A. Maksim ch uk and K. Kru shel nick
+Narrow Energy Spread Protons and Ions from High-Intensity, High-Contrast Laser Solid Target
+Interactions, AIP Conference Proceedings: Advanced Accelerator Convepts: 14th
+Advanced Accelerator Concepts Workshop, 1299, 710 ()
+64. P. M. Nilson, S. P. D. Mangles, L. Willingale, M. C. Kaluza, A. G. R. Thomas, M. Tatarakis,
+Z. Najmudin, R. J. Clarkes, K. L. Lancaster, S. Karsch, J. Schreiber, R. G. Evans, A. E. Dangor,
+and K. Kru shel nick Generation of ultrahigh-velocity ionizing shocks with petawatt-class-laser pulses,
+Physical Review Letters, 103, )
+65. B. Dromey, D. Adams, S. Kar, C. Bellei, D. C. Carroll, R. J. Clarke, J. S. Green, S. Kneip, K. Markey,
+S. R. Nagel, P. T. Simpson, L. Willingale, P. Mc Kenna, D. Neely, Z. Najmudin, K. Kru shel nick
+P. A. Norreys, and M. Zepf, High brightness ke V harmonics from relativistic ally oscillating plasma
+surfaces, European Physical Journal - Special Topics, 175, 57 ()
+66. B. Dromey, C. Bellei, D. C. Carroll, R. J. Clarke, J. S. Green, S. Kar, S. Kneip, K. Markey, S.
+R. Nagel, L. Willingale, P. Mc Kenna, D. Neely, Z. Najmudin, K. Kru shel nick P. A. Norreys,
+and M. Zepf, Third harmonic order imaging as a focal spot diagnostic for high intensity laser-solid
 12
-– louise willingale
-interactions, laser and particle beams, 27, 243 ( )
-67. l. willingale, s. r. nagel, a. g. r. thomas, c. bellei, r. j. clarke, a. e. dangor, r. heathcote,
-m. c. kaluza, c. kamperidis, s. kneip, k. krushelnick, n. lopes, s. p. d. mangles, w. nazarov,
-p. m. nilson, and z. najmudin, characterization of high-intensity laser propagation in the rela-
-tivistic transparent regime through measurements of energetic proton beams, physical review
-letters, 102, )
-68. i. pogorelsky, p. shkolnikov, m. chen, a. pukhov, v. yakimenko, p. mckenna, d. carroll, d.
-neely, z. najmudin, l. willingale, d. stolyarov, e. stolyarova, and g. flynn, proton and ion
-beams generated with picosecond co2 laser pulses, advanced accelerator concepts, 1086,
-532 ( )
-69. p.m.nilson, l. willingale, m.c.kaluza, c.kamperidis, s.minardi, m.s.wei, p.fernandes, m.
-notley, s. bandyopadhyay, m. sherlock, r. j. kingham, m. tatarakis, z. najmudin, w. rozmus,
-r. g. evans, m. g. haines, a. e. dangor and k. krushelnick, bidirectional jet formation during
-driven magnetic reconnection in two-beam laser-plasma interactions, physics of plasmas, 15,
+Curriculum Vitae – Louise Willingale
+interactions, Laser and Particle Beams, 27, 243 ()
+67. L. Willingale, S. R. Nagel, A. G. R. Thomas, C. Bellei, R. J. Clarke, A. E. Dangor, R. Heathcote,
+M. C. Kaluza, C. Kam per id is S. Kneip, K. Kru shel nick N. Lopes, S. P. D. Mangles, W. Nazarov,
+P. M. Nilson, and Z. Najmudin, Characterization of High-Intensity Laser Propagation in the Rela-
+tivistic Transparent Regime through Measurements of Energetic Proton Beams, Physical Review
+Letters, 102, )
+68. I. Pogo rel sky P. Sh kol niko v M. Chen, A. Pukhov, V. Yakimenko, P. Mc Kenna, D. Carroll, D.
+Neely, Z. Najmudin, L. Willingale, D. Stolyarov, E. Stol yar ova and G. Flynn, Proton and ion
+beams generated with picosecond CO2 laser pulses, Advanced Accelerator Concepts, 1086,
+532 ()
+69. P. M. Nilson, L. Willingale, M. C. Kaluza, C. Kam per id is S. Minardi, M. S. Wei, P. Fernandes, M.
+Notley, S. Bandy op adh yay M. Sherlock, R. J. Kingham, M. Tatarakis, Z. Najmudin, W. Rozmus,
+R. G. Evans, M. G. Haines, A. E. Dangor and K. Kru shel nick Bidirectional jet formation during
+driven magnetic re connection in two-beam laser-plasma interactions, Physics of Plasmas, 15,
 )
-70. l. willingale, s. p. d. mangles, p. m. nilson, r. j. clarke, a. e. dangor, m. c. kaluza, s.
-karsch, k.l.lancaster, w.b.mori, j.schreiber, a.g.r.thomas, m.s.wei, k.krushelnickand
-z. najmudin, longitudinal ion acceleration from high-intensity laser interactions with underdense
-plasma, ieee transactions on plasma science, 36, )
-71. s.p.d.mangles,a.g.r.thomas,c.bellei,a.e.dangor,c.kamperidis,s.kniep,s.r.nagel,l.
-willingale and z. najmudin, future prospects of self-guided laser wakeeld electron acceleration
-experiments on the astra gemini laser, ieee transactions on plasma science, 36, 1715
-( )
-72. s. kar, k. markey, p. t. simpson, c. bellei, j. s green, s. r. nagel, s. kneip, d. c. carroll, b.
-dromey, l. willingale, e. l. clark, p. mckenna, z. najmudin, k. krushelnick, p. norreys, r. j.
-clarke, d. neely, m. borghesi, a. schiavi, and m. zepf, laser driven mev proton beam focussing
-by auto-charged electrostatic lens conguration, laser driven relativistic plasmas applied
-for science, industry, and medicine: aip conference proceedings, 1024, 173 ( )
-73. s. kneip, s.r. nagel, c. bellei, n. bourgeois, a. e. dangor, a. gopal, r. heathcote, s. p. d.
-mangles, j. r. marques, a. maksimchuk, p. m. nilson, k. ta phuoc, s. reed, m. tzoufras, f.
-s. tsung, l. willingale, w. b. mori, a. rousse, k. krushelnick, and z. najumudin, observa-
+70. L. Willingale, S. P. D. Mangles, P. M. Nilson, R. J. Clarke, A. E. Dangor, M. C. Kaluza, S.
+Karsch, K. L. Lancaster, W. B. Mori, J. Schreiber, A. G. R. Thomas, M. S. Wei, K. Kru shel nick and
+Z. Najmudin, Longitudinal ion acceleration from high-intensity laser interactions with underdense
+plasma, Ieee Transactions on Plasma Science, 36, )
+71. S. P. D. Mangles, A. G. R. Thomas, C. Bellei, A. E. Dangor, C. Kam per id is S. Kniep, S. R. Nagel, L.
+Willingale and Z. Najmudin, Future prospects of self-guided laser wakeeld electron acceleration
+experiments on the Astra Gemini Laser, Ieee Transactions on Plasma Science, 36, 1715
+()
+72. S. Kar, K. Markey, P. T. Simpson, C. Bellei, J. S Green, S. R. Nagel, S. Kneip, D. C. Carroll, B.
+Dromey, L. Willingale, E. L. Clark, P. Mc Kenna, Z. Najmudin, K. Kru shel nick P. Norreys, R. J.
+Clarke, D. Neely, M. Borghesi, A. Schiavi, and M. Zepf, Laser driven Me V proton beam focussing
+by auto-charged electrostatic lens con gu ration Laser Driven Relativistic Plasmas Applied
+for Science, Industry, and Medicine: AIP Conference Proceedings, 1024, 173 ()
+73. S. Kneip, S. R. Nagel, C. Bellei, N. Bourgeois, A. E. Dangor, A. Gopal, R. Heathcote, S. P. D.
+Mangles, J. R. Marques, A. Maksim ch uk P. M. Nilson, K. Ta Phuoc, S. Reed, M. Tzoufras, F.
+S. Tsung, L. Willingale, W. B. Mori, A. Rousse, K. Kru shel nick and Z. Najumudin, Observa-
 tion of synchrotron radiation from electrons accelerated in a petawatt-laser-generated plasma cavity,
-physical review letters, 100, )
-74. s. kar, k. markey, p. t. simpson, c. bellei, j. s. green, s. r nagel, s. kneip, d. c. carroll, b.
-dromey, l. willingale, e. l. clark, p. mckenna, z. najmudin, k. krushelnick, p. norreys, r.
-j. clarke, d. neely, m. borghesi, and m. zepf, dynamic control of laser-produced proton beams,
-physical review letters, 100, )
-75. r. j. clarke, p. t. simpson, s. kar, j. s. green, c. bellei, d. c. carroll, b. dromey, s. kniep,
-k. markey, p. mckenna, w. murphy, s. nagel, l. willingale, and m. zepf, nuclear activation
-as a high dynamic range diagnostic of laser-plasma interactions, nuclear instruments and
-methods in physics research a, 585, 117 ( )
-76. m. zepf, b. dromey, s. kar, c. bellei, d. c. carroll, r. j. clarke, j. s. green, s. kneip, k.
-markey, s. r. nagel, p. t. simpson, l. willingale, p. mckenna, d. neely, z. najmudin, k.
-krushelnick, and p. a. norreys, high harmonics from relativistically oscillating plasma surfaces –
-a high brightness attosecond source at kev photon energies, plasma physics and controlled
+Physical Review Letters, 100, )
+74. S. Kar, K. Markey, P. T. Simpson, C. Bellei, J. S. Green, S. R Nagel, S. Kneip, D. C. Carroll, B.
+Dromey, L. Willingale, E. L. Clark, P. Mc Kenna, Z. Najmudin, K. Kru shel nick P. Norreys, R.
+J. Clarke, D. Neely, M. Borghesi, and M. Zepf, Dynamic control of laser-produced proton beams,
+Physical Review Letters, 100, )
+75. R. J. Clarke, P. T. Simpson, S. Kar, J. S. Green, C. Bellei, D. C. Carroll, B. Dromey, S. Kniep,
+K. Markey, P. Mc Kenna, W. Murphy, S. Nagel, L. Willingale, and M. Zepf, Nuclear Activation
+as a High Dynamic Range Diagnostic of Laser-Plasma Interactions, Nuclear Instruments and
+Methods in Physics Research A, 585, 117 ()
+76. M. Zepf, B. Dromey, S. Kar, C. Bellei, D. C. Carroll, R. J. Clarke, J. S. Green, S. Kneip, K.
+Markey, S. R. Nagel, P. T. Simpson, L. Willingale, P. Mc Kenna, D. Neely, Z. Najmudin, K.
+Kru shel nick and P. A. Norreys, High harmonics from relativistic ally oscillating plasma surfaces –
+a high brightness attosecond source at ke V photon energies, Plasma Physics and Controlled
 13
-– louise willingale
-fusion, 49, b149 ( )
-77. b. dromey, s. kar, c. bellei, d. c. carroll, r. j. clarke, j. s. green, s. kneip, k. markey, w.
-murphy, s. r. nagel, p. t. simpson, l. willingale, p. mckenna, d. neely, z. najmudin, k.
-krushelnick, p. a. norreys, and m. zepf, bright, coherent multi-kev radiation from relativistically
-oscillating plasma surfaces, physical review letters, 99, )
-78. l. willingale, s. p. d. mangles, p. m. nilson, r. j. clarke, a. e. dangor, m. c. kaluza, s.
-karsch, k. l. lancaster, w. b. mori, z. najmudin, j. schreiber, a. g. r. thomas, m. s. wei, and
-k. krushelnick, reply to comment on collimated multi-mev ion beams from high-intensity laser
-interactions with underdense plasma, physical review letters, 98, )
-79. p. m. nilson, l. willingale, m. kaluza, c. kamperides, s. minardi, m. s. wei, m. notley, s.
-bandopadhyay, m. sherlock, r. j. kingham, m. tatarakis, z. najmudin, w. rozmus, r. g. evans,
-m. g. haines, a. e. dangor, and k. krushelnick, magnetic reconnection and plasma dynamics in
-two beam laser-solid interactions, physical review letters, 97, )
-80. l. willingale, s. p. d. mangles, p. m. nilson, r. j. clarke, a. e. dangor, m. c. kaluza, s.
-karsch, k. l. lancaster, w. b. mori, z. najmudin, j. schreiber, a. g. r. thomas, m. s. wei,
-and k. krushelnick, collimated multi-mev ion beams from high-intensity laser interactions with
-underdense plasma, physical review letters, 96, )
-81. p. m. nilson, s. p. d. mangles, l. willingale, m. c. kaluza, a. g. r. thomas, z. najmudin, r.
-g.evans, a.e.dangor, k.krushelnick, m.tatarakis, r.j.clarke, k.l.lancaster, c.hernandez-
-gomez, s. karsch, and j. schreiber, optical probing of high-intensity laser interactions with un-
-derdense plasmas using the vulcan petawatt laser facility, journal de physique iv, 133,
+Curriculum Vitae – Louise Willingale
+Fusion, 49, B149 ()
+77. B. Dromey, S. Kar, C. Bellei, D. C. Carroll, R. J. Clarke, J. S. Green, S. Kneip, K. Markey, W.
+Murphy, S. R. Nagel, P. T. Simpson, L. Willingale, P. Mc Kenna, D. Neely, Z. Najmudin, K.
+Kru shel nick P. A. Norreys, and M. Zepf, Bright, coherent multi-ke V radiation from relativistic ally
+oscillating plasma surfaces, Physical Review Letters, 99, )
+78. L. Willingale, S. P. D. Mangles, P. M. Nilson, R. J. Clarke, A. E. Dangor, M. C. Kaluza, S.
+Karsch, K. L. Lancaster, W. B. Mori, Z. Najmudin, J. Schreiber, A. G. R. Thomas, M. S. Wei, and
+K. Kru shel nick Reply to comment on Collimated Multi-Me V Ion Beams from High-Intensity Laser
+Interactions with Underdense Plasma, Physical Review Letters, 98, )
+79. P. M. Nilson, L. Willingale, M. Kaluza, C. Kam per ides S. Minardi, M. S. Wei, M. Notley, S.
+Band op adh yay M. Sherlock, R. J. Kingham, M. Tatarakis, Z. Najmudin, W. Rozmus, R. G. Evans,
+M. G. Haines, A. E. Dangor, and K. Kru shel nick Magnetic Re connection and Plasma Dynamics In
+Two Beam Laser-solid Interactions, Physical Review Letters, 97, )
+80. L. Willingale, S. P. D. Mangles, P. M. Nilson, R. J. Clarke, A. E. Dangor, M. C. Kaluza, S.
+Karsch, K. L. Lancaster, W. B. Mori, Z. Najmudin, J. Schreiber, A. G. R. Thomas, M. S. Wei,
+and K. Kru shel nick Collimated Multi-Me V Ion Beams from High-Intensity Laser Interactions with
+Underdense Plasma, Physical Review Letters, 96, )
+81. P. M. Nilson, S. P. D. Mangles, L. Willingale, M. C. Kaluza, A. G. R. Thomas, Z. Najmudin, R.
+G. Evans, A. E. Dangor, K. Kru shel nick M. Tatarakis, R. J. Clarke, K. L. Lancaster, C. Hernandez-
+Gomez, S. Karsch, and J. Schreiber, Optical probing of high-intensity laser interactions with un-
+derdense plasmas using the VULCAN petawatt laser facility, Journal de Physique IV, 133,
 )
-82. m. s. wei, j. r. davis, e. l. clarke, f. n. beg, a. gopal, m. tatarakis, l. willingale, p. m.
-nilson, a. e. dangor, p. a. norreys, m. zepf, and k. krushelnick, reduction of proton acceleration
-in high-intensity laser interaction with solid two-layer targets, physics of plasmas, 13, 123101
-( )
-83. j. pasley, p. m. nilson, l. willingale, m. g. haines, m. notley, m. tolley, d. neely, w. nazarov,
-and o. willi, streaked extreme ultraviolet imaging of the motion of low-z foam buered indirectly
-driven intermediate and high-z payloads, physics of plasmas, 13, )
-government, university or industrial reports (non-refereed)
-1. a. di piazza, l. willingale, j. d. zuegel, multi-petawatt physics prioritization (mp3) workshop
-report ( )
-invited conference and workshop talks
-1. nuclear photonics , durham, nc, september 11-15,
-invited talk: multi-petawatt physics prioritization (mp3)
-2. lanl advanced diagnostics program workshop: ii. laser technology/laser/matter interactions,
-los alamos, nm, june 14,
-invited talk: the 3-pw zeus laser user facility
-invited talk: proton deectometry for measuring magnetic eld dynamics
-3. ieee international conference on plasma science (icops), santa fe, nm, may 21-25,
-invited talk: the inuence of focusing geometry on the direct laser acceleration of electrons
-4. conference on lasers and electro-optics (cleo) , san jose, california, usa, may 7-12,
-invited talk: performance and status of the zettawatt equivalent ultrashort pulse laser facility
+82. M. S. Wei, J. R. Davis, E. L. Clarke, F. N. Beg, A. Gopal, M. Tatarakis, L. Willingale, P. M.
+Nilson, A. E. Dangor, P. A. Norreys, M. Zepf, and K. Kru shel nick Reduction of proton acceleration
+in high-intensity laser interaction with solid two-layer targets, Physics of Plasmas, 13, 123101
+()
+83. J. Pasley, P. M. Nilson, L. Willingale, M. G. Haines, M. Notley, M. Tolley, D. Neely, W. Nazarov,
+and O. Willi, Streaked extreme ultraviolet imaging of the motion of low-Z foam buered indirectly
+driven intermediate and high-Z payloads, Physics of Plasmas, 13, )
+Government, university or industrial reports (non-refereed)
+1. A. Di Piazza, L. Willingale, J. D. Zuegel, Multi-Petawatt Physics Prior it iz ation (MP3) Workshop
+Report ()
+Invited Conference and Workshop Talks
+1. Nuclear Photonics , Durham, NC, September 11-15,
+Invited talk: Multi-Petawatt Physics Prior it iz ation (MP3)
+2. LANL Advanced Diagnostics program Workshop: II. Laser Technology Laser Matter Interactions,
+Los Alamos, NM, June 14,
+Invited talk: The 3-PW ZEUS laser user facility
+Invited talk: Proton de ec tome try for measuring magnetic eld dynamics
+3. IEEE International Conference on Plasma Science (ICOPS), Santa Fe, NM, May 21-25,
+Invited talk: The inuence of focusing geometry on the Direct Laser Acceleration of electrons
+4. Conference on Lasers and Electro-Optics (CLEO) , San Jose, California, USA, May 7-12,
+Invited talk: Performance and Status of the Zettawatt Equivalent Ultrashort pulse laser facility
 14
-– louise willingale
-5. spie optics + optoelectronics , prague, czech republic, april 24-27,
-plenary talk: exploring plasma physics with multi-petawatt laser pulses
-6. international conference on research infrastructures (icri) , brno, czech republic (attended
-virtually), october 19-21,
-invited talk: the high-power laser facilities research ecosystem
-7. 13th international conference on high energy density laboratory astrophysics - hedla ,
-lisbon, portugal, may 23-27,
-invited talk: bow shock formation in a asymmetric relativistic electron driven magnetic reconnec-
+Curriculum Vitae – Louise Willingale
+5. SPIE Optics + Op to electronics , Prague, Czech Republic, April 24-27,
+Plenary talk: Exploring plasma physics with multi-petawatt laser pulses
+6. International Conference on Research Infrastructures (ICRI) , Brno, Czech Republic (attended
+virtually), October 19-21,
+Invited talk: The High-Power Laser Facilities Research Ecosystem
+7. 13th International Conference on High Energy Density Laboratory Astrophysics - HEDLA ,
+Lisbon, Portugal, May 23-27,
+Invited talk: Bow shock formation in a asymmetric relativistic electron driven magnetic reconnec-
 tion geometry
-8. national academy of sciences’ thirty-second annual kavli frontiers of science symposium, irvine,
-california, april 8-10,
-invited talk: laser driven magnetic reconnection
-9. the eclipse meeting , alexandria, va, march 9-11,
-invited talk: the 3-petawatt zeus laser facility
-10. the 4thextremelyhighintensitylaserphysics conference(exhilp ), september13-17,
-invited talk: the 3pw nsf zeus user facility
-11. european conference on plasma diagnostics (ecpd, ), virtual, june 7-11,
-invited talk: proton deectometry to study magnetic eld generation, dynamics and reconnection
-12. 46th eps conference on plasma physics , milan, italy
-invited talk: magnetic eld generation, dynamics, and reconnection driven by relativistic intensity
+8. National Academy of Sciences’ thirty-second annual Kavli Frontiers of Science symposium, Irvine,
+California, April 8-10,
+Invited talk: Laser Driven Magnetic Re connection
+9. The ECLIPSE Meeting , Alexandria, VA, March 9-11,
+Invited talk: The 3-Petawatt ZEUS Laser Facility
+10. The 4th Extremely High Intensity Laser Physics Conference Ex HILP ), September13-17,
+Invited talk: The 3PW NSF ZEUS user facility
+11. European Conference on Plasma Diagnostics (ECPD, ), virtual, June 7-11,
+Invited talk: Proton de ec tome try to study magnetic eld generation, dynamics and re connection
+12. 46th EPS Conference on Plasma Physics , Milan, Italy
+Invited talk: Magnetic eld generation, dynamics, and re connection driven by relativistic intensity
 laser-plasma interactions
-13. super-intense laser-atom physics (silap) , toronto, canada
-invited talk: magnetic eld generation, dynamics, and reconnection driven by relativistic intensity
+13. Super-Intense Laser-Atom Physics (SILAP) , Toronto, Canada
+Invited talk: Magnetic eld generation, dynamics, and re connection driven by relativistic intensity
 laser-plasma interactions
-14. 60th annual meeting of the aps division of plasma physics , portland, or, usa
-invited talk: ci2.00001: magnetic eld generation, dynamics, and reconnection driven by rela-
+14. 60th Annual Meeting of the APS Division of Plasma Physics , Portland, OR, USA
+Invited talk: CI2.00001: Magnetic eld generation, dynamics, and re connection driven by rela-
 tivistic intensity laser-plasma interactions
-item spie optics and optoelectronics , prague, czech republic
-invited talk: direct laser acceleration of electrons from underdense plasma channeling using pi-
+item SPIE Optics and Op to electronics , Prague, Czech Republic
+Invited talk: Direct laser acceleration of electrons from underdense plasma channeling using pi-
 cosecond laser pulses
-15. the 3rd international conference on high energy density physics (ichedp-3, ), shenzhen,
-china
-invited talk: relativistic magnetic reconnection in the laboratory
-16. lab workshop on magnetic fields in high energy density plasmas, nov , princeton, nj, usa
-invited talk: magnetic reconnection experiments using laser generated relativistic electron
-currents
-17. us-japan workshop on fast ignition and relevant high energy-density physics, nov , austin,
-tx, usa
-invited talk: channeling and electron acceleration from underdense and near-critical density plas-
+15. The 3rd International Conference on High Energy Density Physics (ICHEDP-3, ), Shenzhen,
+China
+Invited talk: Relativistic Magnetic Re connection in the Laboratory
+16. La B workshop on Magnetic Fields in High Energy Density Plasmas, Nov , Princeton, NJ, USA
+Invited talk: Magnetic Re connection Experiments Using Laser Generated Relativistic Electron
+Currents
+17. US-Japan Workshop on fast ignition and relevant high energy-density physics, Nov , Austin,
+TX, USA
+Invited talk: Channeling and electron acceleration from underdense and near-critical density plas-
 mas
-18. nif and jlf user group meeting , llnl, ca, usa
-invited talk: the interaction of a relativistically intense laser pulse with near-critical density
+18. NIF and JLF User Group Meeting , LLNL, CA, USA
+Invited talk: The interaction of a relativistic ally intense laser pulse with near-critical density
 plasma
-19. 38th eps conference on plasma physics , strasbourg, france
+19. 38th EPS Conference on Plasma Physics , Strasbourg, France
 15
-– louise willingale
-invited talk: proton probing of laser-plasma interaction phenomena: fast advection of magnetic
+Curriculum Vitae – Louise Willingale
+Invited talk: Proton probing of laser-plasma interaction phenomena: Fast advection of magnetic
 elds and high-power laser channeling
-20. 52nd annual meeting of the aps division of plasma physics , chicago, il, usa
-invited talk: ti3.00004: high-power, kilojoule class laser channeling in millimeter scale under-
+20. 52nd Annual Meeting of the APS Division of Plasma Physics , Chicago, IL, USA
+Invited talk: TI3.00004: High-power, kilojoule class laser channeling in millimeter scale under-
 dense plasma
-21. laser and plasma accelerator workshop , kardamili, greece
-invited lightning round talk: ion acceleration from underdense targets
-22. 35th eps conference on plasma physics and the 10th international workshop on fast ignition of
-fusion targets , hersonissos, greece
-invited talk for eps ppd phd research award: laser plasma interactions in the relativistic
+21. Laser and Plasma Accelerator Workshop , Kardamili, Greece
+Invited lightning round talk: Ion Acceleration from Underdense Targets
+22. 35th EPS Conference on Plasma Physics and the 10th international Workshop on Fast Ignition of
+Fusion Targets , Her son is sos Greece
+Invited talk for EPS PPD Ph D research award: Laser plasma interactions in the relativistic
 transparent regime
-23. 35th iop annual conference on plasma physics , london, uk
-invited talk for the culham thesis prize: ion acceleration from underdense to near critical
+23. 35th Io P Annual Conference on Plasma Physics , London, UK
+Invited talk for the Culham thesis prize: Ion acceleration from underdense to near critical
 density plasmas
-contributed conference talks (as presenting author only)
-1. stewardship science academic programs (ssap) symposium, arlington, va, february 21-22,
-talk: direct laser acceleration of electrons for bright, directional radiation sources
-2. 6th european advanced accelerator concepts (eaac) , la biodola bay, isola d’elba, italy,
-17-23 september,
-contributed talk: the x-lites network
-contributed talk: the zeus laser user facility
-3. 2023stewardshipscienceacademicprogramsannualreviewsymposium, santafe, nm,february
+Contributed Conference Talks (as presenting author only)
+1. Stewardship Science Academic Programs (SSAP) Symposium, Arlington, VA, February 21-22,
+Talk: Direct Laser Acceleration of electrons for bright, directional radiation sources
+2. 6th European Advanced Accelerator Concepts (EAAC) , La Biodola Bay, Isola d’Elba, Italy,
+17-23 September,
+Contributed Talk: The X-lites Network
+Contributed Talk: The ZEUS laser user facility
+3. 2023 Stewardship Science Academic Programs Annual Review Symposium, Santa Fe, NM, February
 14-15,
-talk: direct laser acceleration of electrons for bright, directional radiation sources
-4. fourth purdue workshop on relativistic plasma astrophysics, lafayette, in, may 9-11,
-talk: relativistic laboratory astrophysics
-5. stewardship science academic programs annual review symposium, virtual
-talk: direct laser acceleration of electrons for bright, directional radiation sources
-6. 63rd annual meeting of the aps division of plasma physics, pittsburgh, pa, november 8-12,
-talk: co03.00008: measuring magnetic ux suppression in high-power laser-plasma interactions
-7. stewardship science academic programs annual review symposium, virtual
-talk: direct laser acceleration of electrons for bright, directional radiation sources
-8. stewardship science academic programs annual review symposium, washington dc, usa
-talk: direct laser acceleration of electrons for bright, directional radiation sources
-talk: the dynamics of strong magnetic elds generated by relativistic laser plasma interactions
-using omega ep
-9. 1st eli-np user workshop ( ), bucharest, romania
-contributed talk: direct laser acceleration of electrons in high-intensity laser plasma interac-
+Talk: Direct Laser Acceleration of electrons for bright, directional radiation sources
+4. Fourth Purdue Workshop on Relativistic Plasma Astrophysics, Lafayette, IN, May 9-11,
+Talk: Relativistic Laboratory Astrophysics
+5. Stewardship Science Academic Programs Annual Review Symposium, virtual
+Talk: Direct Laser Acceleration of electrons for bright, directional radiation sources
+6. 63rd Annual Meeting of the APS Division of Plasma Physics, Pittsburgh, PA, November 8-12,
+Talk: CO03.00008: Measuring magnetic ux suppression in high-power laser-plasma interactions
+7. Stewardship Science Academic Programs Annual Review Symposium, virtual
+Talk: Direct Laser Acceleration of electrons for bright, directional radiation sources
+8. Stewardship Science Academic Programs Annual Review Symposium, Washington DC, USA
+Talk: Direct Laser Acceleration of electrons for bright, directional radiation sources
+Talk: The dynamics of strong magnetic elds generated by relativistic laser plasma interactions
+using OMEGA EP
+9. 1st ELI-NP user workshop (), Bucharest, Romania
+Contributed talk: Direct Laser Acceleration of electrons in high-intensity laser plasma interac-
 tions
-10. 1stcommunityworkshopof thehedptopicalarea fortheapsdppcommunityplanningprocess,
-maryland, md ( )
-lightning talk: direct laser acceleration of electrons by high-intensity laser pulses
-11. stewardship science academic programs annual review symposium, albuquerque, nm, usa
+10. 1 st community workshop of the HE DP topical area forthe APS DPP Community Planning Process,
+Maryland, MD ()
+Lightning talk: Direct Laser Acceleration of electrons by high-intensity laser pulses
+11. Stewardship Science Academic Programs Annual Review Symposium, Albuquerque, NM, USA
 16
-– louise willingale
-talk: investigations of relativistic laser driven reconnection using omega ep
-12. 60th annual meeting of the aps division of plasma physics , portland, or, usa
-contributed talk: uo6.00004: the eect of laser pulse duration on proton radiography
-13. 18th advanced accelerator concepts workshop (aac ), breckenridge, co, usa
-contributed talk: the eect of laser pulse duration on proton radiography
-14. 17th advanced accelerator concepts workshop (aac ), national harbor, md, usa
-contributed talk: electron acceleration by high-intensity picosecond laser pulses
-15. christmas meeting of the high power laser community, abingdon, uk
-contributed talk: magnetic reconnection experiments using laser generated relativistic elec-
-tron currents
-16. 57th annual meeting of the aps division of plasma physics , savannah, ga, usa
-contributed talk: jo7.00001: electron heating mechanisms for a relativistic intensity laser pulse
+Curriculum Vitae – Louise Willingale
+Talk: Investigations of Relativistic Laser Driven Re connection using OMEGA EP
+12. 60th Annual Meeting of the APS Division of Plasma Physics , Portland, OR, USA
+Contributed talk: UO6.00004: The eect of laser pulse duration on proton radio graph y
+13. 18th Advanced Accelerator Concepts Workshop (AAC ), Bre cken ridge CO, USA
+Contributed talk: The eect of laser pulse duration on proton radio graph y
+14. 17th Advanced Accelerator Concepts Workshop (AAC ), National Harbor, MD, USA
+Contributed talk: Electron acceleration by high-intensity picosecond laser pulses
+15. Christmas Meeting of the High Power Laser Community, Abingdon, UK
+Contributed talk: Magnetic Re connection Experiments Using Laser Generated Relativistic Elec-
+tron Currents
+16. 57th Annual Meeting of the APS Division of Plasma Physics , Savannah, GA, USA
+Contributed talk: JO7.00001: Electron heating mechanisms for a relativistic intensity laser pulse
 interacting with a near-critical plasma
-17. 56th annual meeting of the aps division of plasma physics , new orleans, la, usa
-contributed talk: uo5.00011: proton probing of a relativistic laser interaction with near-critical
+17. 56th Annual Meeting of the APS Division of Plasma Physics , New Orleans, LA, USA
+Contributed talk: UO5.00011: Proton probing of a relativistic laser interaction with near-critical
 plasma
-18. 55th annual meeting of the aps division of plasma physics , denver, co, usa
-contributed talk: to7.00010: interaction of relativistic laser pulses with near-critical density
+18. 55th Annual Meeting of the APS Division of Plasma Physics , Denver, CO, USA
+Contributed talk: TO7.00010: Interaction of relativistic laser pulses with near-critical density
 plasma
-19. theeighthinternationalconferenceoninertialfusionsciencesandapplications2013,nara,japan
-contributed talk: relativistic intensity laser interactions with low-density plasmas
-20. stewardship science academic programs annual review symposium, albuquerque, nm, usa
-talk: intense laser interactions with low density plasma using omega ep
-21. 54th annual meeting of the aps division of plasma physics , providence, ri, usa
-contributed talk: no5.00011: relativistic laser interactions with near-critical density plasmas
-22. stewardship science academic alliances symposium, washington dc, usa
-talk: intense laser interactions with low density plasma using omega ep
-23. 53rd annual meeting of the aps division of plasma physics , salt lake city, ut, usa
-contributed talk: jo6.00003: high-power, kilojoule class laser channeling, surface wave genera-
+19. The Eighth International Conference on Inertial Fusion Sciences and Applications 2013 Nara, Japan
+Contributed talk: Relativistic intensity laser interactions with low-density plasmas
+20. Stewardship Science Academic Programs Annual Review Symposium, Albuquerque, NM, USA
+Talk: Intense Laser Interactions with Low Density Plasma Using OMEGA EP
+21. 54th Annual Meeting of the APS Division of Plasma Physics , Providence, RI, USA
+Contributed talk: NO5.00011: Relativistic laser interactions with near-critical density plasmas
+22. Stewardship Science Academic Alliances Symposium, Washington DC, USA
+Talk: Intense Laser Interactions with Low Density Plasma Using OMEGA EP
+23. 53rd Annual Meeting of the APS Division of Plasma Physics , Salt Lake City, UT, USA
+Contributed talk: JO6.00003: High-power, kilojoule class laser channeling, surface wave genera-
 tion and particle acceleration from underdense plasma
-24. omega laser facility users group workshop , rochester, ny, usa
-contributed talk: high-power laser interactions with underdense plasma: channeling, surface
+24. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
+Contributed talk: High-power laser interactions with underdense plasma: Channeling, surface
 waves and electron acceleration
-25. high power laser science community meeting , abingdon, uk
-contributed talk: high-power, kilojoule class laser channeling in millimeter scale underdense
+25. High Power Laser Science Community Meeting , Abingdon, UK
+Contributed talk: High-power, kilojoule class laser channeling in millimeter scale underdense
 plasma
-26. 52nd annual meeting of the aps division of plasma physics , chicago, il, usa
-contributed talk: go6.00010: fast advection of magnetic elds by hot electrons
-27. advanced accelerator concepts workshop, annapolis, md, usa
-contributed talk: ion acceleration from underdense to near-critical density plasmas using the
-omega ep laser
-28. omega laser facility users group workshop , rochester, ny, usa
+26. 52nd Annual Meeting of the APS Division of Plasma Physics , Chicago, IL, USA
+Contributed talk: GO6.00010: Fast advection of magnetic elds by hot electrons
+27. Advanced Accelerator Concepts Workshop, Annapolis, MD, USA
+Contributed talk: Ion acceleration from underdense to near-critical density plasmas using the
+Omega EP laser
+28. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
 17
-– louise willingale
-contributed talk: proton probing of a 1 kj, 10 ps laser pulse interaction with underdense to
+Curriculum Vitae – Louise Willingale
+Contributed talk: Proton probing of a 1 k J, 10 ps laser pulse interaction with underdense to
 near-critical density plasmas
-29. omega laser facility users group workshop , rochester, ny, usa
-contributed talk: laser propagation and particle acceleration from near-critical density targets
-30. laser and plasma accelerators workshop , azores, portugal
-contributed talk: ion acceleration from underdense to near critical density plasmas
-31. high power laser science community meeting , abingdon, uk
-contributed talk: measurements of magnetic elds in two beam laser-solid interactions using
-proton grid deectometry
-32. 48th annual meeting of the aps division of plasma physics , philadelphia, pa, usa
-contributed talk: jo2.00009: measurements of magnetic elds in two beam laser-solid interac-
-tions using proton grid deectometry
-33. 33rd iop annual conference on plasma physics , crei, uk
-contributed talk: ion acceleration in the forward direction from high-intensity laser interac-
-tions with underdense plasma
-34. high power laser science community meeting , abingdon, uk
-contributedtalk: collimatedmulti-mevionbeamsintheforwarddirectionfromhigh-intensity
-laser interactions with underdense plasma
-35. 47th annual meeting of the aps division of plasma physics , denver, co, usa
-contributed talk: ko1.00013: collimated multi-mev ion beams in the forward direction from
-high-intensity laser interactions with underdense plasma
-36. high power laser science community meeting , abingdon, uk
-contributed talk: ion acceleration from underdense plasma with the vulcan petawatt laser
-contributed conference poster presentations (as presenting author only)
-1. nif and jlf user group meeting , livermore, ca, january 30 - february 1,
-poster: the zeus laser user facility
-2. 65th annual meeting of the aps division of plasma physics, denver, co, october 30 - november
+29. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
+Contributed talk: Laser propagation and particle acceleration from near-critical density targets
+30. Laser and Plasma Accelerators Workshop , Azores, Portugal
+Contributed talk: Ion acceleration from underdense to near critical density plasmas
+31. High Power Laser Science Community Meeting , Abingdon, UK
+Contributed talk: Measurements of magnetic elds in two beam laser-solid interactions using
+proton grid de ec tome try
+32. 48th Annual Meeting of the APS Division of Plasma Physics , Philadelphia, PA, USA
+Contributed talk: JO2.00009: Measurements of magnetic elds in two beam laser-solid interac-
+tions using proton grid de ec tome try
+33. 33rd Io P Annual Conference on Plasma Physics , Crei, UK
+Contributed talk: Ion Acceleration in the Forward Direction From High-Intensity Laser Interac-
+tions With Underdense Plasma
+34. High Power Laser Science Community Meeting , Abingdon, UK
+Contributed talk Collimated Multi-Me VIon Beamsinthe Forward Direction from High-Intensity
+Laser Interactions with Underdense Plasma
+35. 47th Annual Meeting of the APS Division of Plasma Physics , Denver, CO, USA
+Contributed talk: KO1.00013: Collimated Multi-Me V Ion Beams in the Forward Direction from
+High-Intensity Laser Interactions With Underdense Plasma
+36. High Power Laser Science Community Meeting , Abingdon, UK
+Contributed talk: Ion Acceleration from Underdense Plasma with the Vulcan Petawatt Laser
+Contributed Conference Poster Presentations (as presenting author only)
+1. NIF and JLF User Group Meeting , Livermore, CA, January 30 - February 1,
+Poster: The ZEUS laser user facility
+2. 65th Annual Meeting of the APS Division of Plasma Physics, Denver, CO, October 30 - November
 3,
-poster: tp11.00050 : the zeus laser user facility
-3. ieee international conference on plasma science (icops), santa fe, nm, may 21-25,
-poster: status of the zeus laser user facility
-4. omega laser facility users group workshop , rochester, ny, usa
-contributed poster: intense laser interactions with low density plasma using the omega ep
+Poster: TP11.00050 : The ZEUS laser user facility
+3. IEEE International Conference on Plasma Science (ICOPS), Santa Fe, NM, May 21-25,
+Poster: Status of the ZEUS laser user facility
+4. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
+Contributed poster: Intense Laser Interactions with Low Density Plasma using the Omega EP
 laser
-5. nif and jlf user group meeting , llnl, ca, usa
-contributed poster: the interaction of a relativistically intense laser pulse with near-critical
+5. NIF and JLF User Group Meeting , LLNL, CA, USA
+Contributed poster: The interaction of a relativistic ally intense laser pulse with near-critical
 density plasma
-6. stewardship science academic programs annual review symposium, albuquerque, nm, usa
-contributed poster: intense laser interactions with low density plasma using omega ep
-7. omega laser facility users group workshop , rochester, ny, usa
-contributed poster: intense laser interactions with low density plasma using the omega ep
+6. Stewardship Science Academic Programs Annual Review Symposium, Albuquerque, NM, USA
+Contributed poster: Intense Laser Interactions with Low Density Plasma Using OMEGA EP
+7. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
+Contributed poster: Intense Laser Interactions with Low Density Plasma using the Omega EP
 laser
 18
-– louise willingale
-8. stewardship science academic alliances symposium, washington dc, usa
-contributed poster: intense laser interactions with low density plasma using omega ep
-9. omega laser facility users group workshop , rochester, ny, usa
-contributed poster: omega ep laser propagation through underdense plasma
-10. inertial fusion science and applications , san francisco, ca, usa
-contributed poster: omega ep laser propagation through near-critical density plasma
-11. 9th international fast ignition workshop , cambridge, ma, usa
-contributed poster: proton acceleration from critical density foams with the vulcan petawatt
+Curriculum Vitae – Louise Willingale
+8. Stewardship Science Academic Alliances Symposium, Washington DC, USA
+Contributed poster: Intense Laser Interactions with Low Density Plasma Using OMEGA EP
+9. OMEGA Laser Facility Users Group Workshop , Rochester, NY, USA
+Contributed poster: Omega EP laser propagation through underdense plasma
+10. Inertial Fusion Science and Applications , San Francisco, CA, USA
+Contributed poster: Omega EP laser propagation through near-critical density plasma
+11. 9th International Fast Ignition Workshop , Cambridge, MA, USA
+Contributed poster: Proton acceleration from critical density foams with the Vulcan Petawatt
 laser
-conference presentations (partial list of co-authored presentations)
-65th annual meeting of the aps division of plasma physics,
-1. i-linyeh,kavintangtartharakul,hongmei tang,louisewillingale,alexvareev,co08.00005:
-ecient backward x-ray emission in a plasma irradiated by a ps laser pulse
-2. hongmei tang, veronica contreras, robert babjak, felicie albert, hui chen, paul t campbell,
-yong ma, philip m nilson, brandon k russell, jessica shaw, kavin tangtartharakul, i-lin yeh,
-alex v areev, marija vranic, louise willingale, go08.00013: the eect of plasma density
-gradient on the direct laser acceleration of electrons
-3. robert babjak, louise willingale, alexey v areev, marija vranic, jp11.00009: generalized
-description of the ecient electron acceleration in ion channels by multi-pw lasers
-4. veronica contreras, hongmei tang, felicie albert, paul t campbell, hui chen, yutong he, yong
-ma, philip m nilson, brandon k russell, jessica shaw, kavin tangtartharakul, i-lin yeh, alexey
-v areev, louise willingale, jp11.00027: measuring coulomb explosion ions from omega ep
-interactions
-5. brendan l stassel, hongmei tang, paul t campbell, brandon k russell, alexander g thomas,
-nicholas czapla, pedro spingola, german tiscareno, ali rahimi, rebecca l daskalova, douglass
-w schumacher, louise willingale, po05.00008: simulation and experimental measurements of
-relativistic transparency in plasmas with ultrafast high intensity laser pulses
-6. anatoly m maksimchuk, john nees, bixue hou, franko bayer, milos burger, paul t campbell,
-galina kalinchenko, sallee r klein, yong ma, andrew mckelvey, elizabeth oxford, richard van
-camp, lauren weinberg, qing zhang, andre antoine, junwoo bae, mario balcazar, jason a
-cardarelli, veronica contreras, nick ernst, rebecca fitzgarrald, joshua latham, william likes,
-qian qian, igor jovanovic, carolyn c kuranz, alexander g thomas, louise willingale, karl
-krushelnick, tp11.00047: updates on the construction and commissioning of the zeus facility
-7. karl krushelnick, joshua latham, brandon k russell, paul t campbell, gennady fiksel, philip
-m nilson, louise willingale, up11.00034: magnetic eld generation mechanisms of a relativistic
+Conference Presentations (Partial list of co-authored presentations)
+65th Annual Meeting of the APS Division of Plasma Physics,
+1. I-Lin Yeh, Kavin Tang tart hara kul Hongmei Tang, Louise Willingale, Alex VAreev, CO08.00005:
+Ecient backward x-ray emission in a plasma irradiated by a ps laser pulse
+2. Hongmei Tang, Veronica Contreras, Robert Babjak, Felicie Albert, Hui Chen, Paul T Campbell,
+Yong Ma, Philip M Nilson, Brandon K Russell, Jessica Shaw, Kavin Tang tart hara kul I-Lin Yeh,
+Alex V Areev, Marija Vranic, Louise Willingale, GO08.00013: The Eect of Plasma Density
+Gradient on the Direct Laser Acceleration of Electrons
+3. Robert Babjak, Louise Willingale, Alexey V Areev, Marija Vranic, JP11.00009: Generalized
+description of the ecient electron acceleration in ion channels by multi-PW lasers
+4. Veronica Contreras, Hongmei Tang, Felicie Albert, Paul T Campbell, Hui Chen, Yutong He, Yong
+Ma, Philip M Nilson, Brandon K Russell, Jessica Shaw, Kavin Tang tart hara kul I-Lin Yeh, Alexey
+V Areev, Louise Willingale, JP11.00027: Measuring Coulomb Explosion Ions from OMEGA EP
+Interactions
+5. Brendan L Stassel, Hongmei Tang, Paul T Campbell, Brandon K Russell, Alexander G Thomas,
+Nicholas Czapla, Pedro Spingola, German Tiscareno, Ali Rahimi, Rebecca L Daskalova, Douglass
+W Schumacher, Louise Willingale, PO05.00008: Simulation and Experimental Measurements of
+Relativistic Transparency in Plasmas with Ultrafast High Intensity Laser Pulses
+6. Anatoly M Maksim ch uk John Nees, Bixue Hou, Franko Bayer, Milos Burger, Paul T Campbell,
+Galina Kali nchen ko Sallee R Klein, Yong Ma, Andrew Mc Kelvey, Elizabeth Oxford, Richard Van
+Camp, Lauren Weinberg, Qing Zhang, Andre Antoine, Junwoo Bae, Mario Balcazar, Jason A
+Card are lli Veronica Contreras, Nick Ernst, Rebecca Fitz garr a ld Joshua Latham, William Likes,
+Qian Qian, Igor Jovanovic, Carolyn C Kuranz, Alexander G Thomas, Louise Willingale, Karl
+Kru shel nick TP11.00047: Updates on the construction and commissioning of the ZEUS facility
+7. Karl Kru shel nick Joshua Latham, Brandon K Russell, Paul T Campbell, Gennady Fiksel, Philip
+M Nilson, Louise Willingale, UP11.00034: Magnetic eld generation mechanisms of a relativistic
 laser between colliding magnetized plasma plumes
-8. sahel hakimi, lieselotte obst-huebl, stepan s bulanov, kei nakamura, axel huebl, jared de
-chant, aodhan mcilvenny, kelly k swanson, elizabeth s grace, raspberry simpson, jackson g
-williams,derekmariscal,scottcwilks,brendan l stassel,louisewillingale,thomasschenkel,
-jean-lucvay, carlbschroeder, anthonyjgonsalves, jeroenvantilborg, erichesarey, cameron
-geddes, yo06.00001: experimental investigation of the magnetic vortex acceleration regime
-64th annual meeting of the aps division of plasma physics,
+8. Sahel Hakimi, Lieselotte Obst-Huebl, Stepan S Bulanov, Kei Nakamura, Axel Huebl, Jared De
+Chant, Aodhan Mc Ilvenny, Kelly K Swanson, Elizabeth S Grace, Raspberry Simpson, Jackson G
+Williams, Derek Mariscal, Scott CWilks, Brendan L Stassel, Louise Willingale, Thomas Schenkel,
+Jean-Luc Vay, Carl B Schroeder Anthony JG on salves Jeroenvan Tilborg, Eric HEsarey, Cameron
+Geddes, YO06.00001: Experimental investigation of the magnetic vortex acceleration regime
+64th Annual Meeting of the APS Division of Plasma Physics,
 19
-– louise willingale
-9. hongmei tang,paultcampbell,brandon k russell,yongma,i-linyeh,kavintangtartharakul,
-alex v areev, hui chen, felicie albert, jessica l shaw, philip m nilson, louise willingale,
-go08.00015: the eect of laser focusing geometry on the direct laser acceleration of electrons
-10. paul t campbell, brandon k russell, gennady fiksel, jason a cardarelli, qian qian, karl m
-krushelnick, louise willingale, alexander g thomas, jp11.00002: ultrafast electron probing of
+Curriculum Vitae – Louise Willingale
+9. Hongmei Tang, Paul TCampbell, Brandon K Russell, Yong Ma, I-Lin Yeh, Kavin Tang tart hara kul
+Alex V Areev, Hui Chen, Felicie Albert, Jessica L Shaw, Philip M Nilson, Louise Willingale,
+GO08.00015: The Eect of Laser Focusing Geometry on the Direct Laser Acceleration of Electrons
+10. Paul T Campbell, Brandon K Russell, Gennady Fiksel, Jason A Card are lli Qian Qian, Karl M
+Kru shel nick Louise Willingale, Alexander G Thomas, JP11.00002: Ultrafast electron probing of
 extreme magnetic elds
-11. rebecca j fitzgarrald, yong ma, jason a cardarelli, paul t campbell, mario balcazar, andre
-f antoine, nick beier, sylvain fourmaux, sallee r klein, meriame berboucha, amina e hus-
-sein, brendan kettle, karl m krushelnick, stuart p.d. mangles, qian qian, gianluca sarri, daniel
-seipt, vigneshvar senthilkumaran, rob shalloo, matthew streeter, louise willingale, alexan-
-der g thomas, jp11.00003: filter pack x-ray spectrum reconstruction for betatron streaking
-experiment
-12. i-lin yeh, louise willingale, alexey areev, jp11.00022: higher-order resonance as the main
+11. Rebecca J Fitz garr a ld Yong Ma, Jason A Card are lli Paul T Campbell, Mario Balcazar, Andre
+F Antoine, Nick Beier, Sylvain Fourmaux, Sallee R Klein, Meriame Berboucha, Amina E Hus-
+sein, Brendan Kettle, Karl M Kru shel nick Stuart P. D. Mangles, Qian Qian, Gianluca Sarri, Daniel
+Seipt, Vigneshvar Sent hil kumaran Rob Shalloo, Matthew Streeter, Louise Willingale, Alexan-
+der G Thomas, JP11.00003: Filter Pack X-ray Spectrum Reconstruction for Betatron Streaking
+Experiment
+12. I-Lin Yeh, Louise Willingale, Alexey Areev, JP11.00022: Higher-order resonance as the main
 energy gain mechanism during direct laser acceleration of electrons
-13. kavin tangtartharakul, ilin yeh, hongmei tang, tao wang, louise willingale, alexey areev,
-jp11.00026: mitigation of the detrimental role of the longitudinal laser electric eld during direct
+13. Kavin Tang tart hara kul Ilin Yeh, Hongmei Tang, Tao Wang, Louise Willingale, Alexey Areev,
+JP11.00026: Mitigation of the detrimental role of the longitudinal laser electric eld during direct
 laser acceleration of electrons
-14. jason a cardarelli, yong ma, paul t campbell, rebecca j fitzgarrald, andre f antoine, meriame
-berboucha, reed c hollinger, brendan kettle, karl m krushelnick, stuart p.d. mangles, john
-t morrison, ryan nedbailo, qian qian, jorge j rocca, gianluca sarri, daniel seipt, huanyu
-song, matthew streeter, shoujun wang, louise willingale, alexander g thomas, no08.00009:
-parametric study of the current lamentation instability using laser wakeeld accelerated electron
+14. Jason A Card are lli Yong Ma, Paul T Campbell, Rebecca J Fitz garr a ld Andre F Antoine, Meriame
+Berboucha, Reed C Hollinger, Brendan Kettle, Karl M Kru shel nick Stuart P. D. Mangles, John
+T Morrison, Ryan Nedbailo, Qian Qian, Jorge J Rocca, Gianluca Sarri, Daniel Seipt, Huanyu
+Song, Matthew Streeter, Shoujun Wang, Louise Willingale, Alexander G Thomas, NO08.00009:
+Parametric study of the current lamentation instability using laser wakeeld accelerated electron
 beams
-15. brendan l stassel, hongmei tang, paul t campbell, brandon k russell, alexander g thomas,
-nicholas czapla, pedro spingola, german tiscareno, ali rahimi, rebecca l daskalova, douglass
-w schumacher, louise willingale, no08.00014: identifying trends in self-induced relativistic
-transparency in plasmas with ultrafast high intensity laser pulses
-16. anatoly m maksimchuk, john nees, galina kalinchenko, bixue hou, yong ma, andrew mckelvey,
-tan shi, paul t campbell, andre f antoine, mario balcazar, jason a cardarelli, nicholas ernst,
-rebecca fitzgarrald, colton graham, joshua latham, qian qian, igor jovanovic, carolyn c ku-
-ranz, alexander g thomas, louise willingale, karl m krushelnick, np11.00103: construction
-and commissioning of the zeus laser system at the university of michigan
-17. john nees, anatoly m maksimchuk, andrew mckelvey, galina kalinchenko, bixue hou, paul
-t campbell, yong ma, nicholas ernst,igor jovanovic, carolyn c kuranz, louise willingale,
-alexander g thomas, karl m krushelnick, np11.00104: zetawatt-equivalent ultra-short-pulse
-laser system (zeus)
-18. robert babjak, marija vranic, louise willingale, alex v areev, po08.00014: a robust scheme
-to obtain high charge ( 100 nc) relativisitic (> gev) electron beams with pw lasers through dla
+15. Brendan L Stassel, Hongmei Tang, Paul T Campbell, Brandon K Russell, Alexander G Thomas,
+Nicholas Czapla, Pedro Spingola, German Tiscareno, Ali Rahimi, Rebecca L Daskalova, Douglass
+W Schumacher, Louise Willingale, NO08.00014: Identifying Trends in Self-Induced Relativistic
+Transparency in Plasmas with Ultrafast High Intensity Laser Pulses
+16. Anatoly M Maksim ch uk John Nees, Galina Kali nchen ko Bixue Hou, Yong Ma, Andrew Mc Kelvey,
+Tan Shi, Paul T Campbell, Andre F Antoine, Mario Balcazar, Jason A Card are lli Nicholas Ernst,
+Rebecca Fitz garr a ld Colton Graham, Joshua Latham, Qian Qian, Igor Jovanovic, Carolyn C Ku-
+ranz, Alexander G Thomas, Louise Willingale, Karl M Kru shel nick NP11.00103: Construction
+and commissioning of the ZEUS laser system at the University of Michigan
+17. John Nees, Anatoly M Maksim ch uk Andrew Mc Kelvey, Galina Kali nchen ko Bixue Hou, Paul
+T Campbell, Yong Ma, Nicholas Ernst, Igor Jovanovic, Carolyn C Kuranz, Louise Willingale,
+Alexander G Thomas, Karl M Kru shel nick NP11.00104: Zetawatt-Equivalent Ultra-short-pulse
+laser System (ZEUS)
+18. Robert Babjak, Marija Vranic, Louise Willingale, Alex V Areev, PO08.00014: A robust scheme
+to obtain high charge ( 100 n C) re lativi s it ic (> Ge V) electron beams with PW lasers through DLA
 ∼
-19. brandon k russell, paul t campbell, chuanfei dong, gennady fiksel, philip m nilson, alexander
-g thomas, christopher a walsh, karl m krushelnick, louise willingale, to06.00003: experi-
+19. Brandon K Russell, Paul T Campbell, Chuanfei Dong, Gennady Fiksel, Philip M Nilson, Alexander
+G Thomas, Christopher A Walsh, Karl M Kru shel nick Louise Willingale, TO06.00003: Experi-
 mental study of semi-relativistic quasi-perpendicular shock formation
-20. joshualatham, brandon k russell, louise willingale, paultcampbell, gennady fiksel, philip
-mnilson, karlmkrushelnick, to06.00004: relativistic laser perturbation to laser-driven magnetic
-reconnection
+20. Joshua Latham, Brandon K Russell, Louise Willingale, Paul TCampbell, Gennady Fiksel, Philip
+MNilson, Karl MK rush el nick TO06.00004: Relativistic laser perturbation to laser-driven magnetic
+re connection
 20
-– louise willingale
-21. yong ma, jason a cardarelli, paul t campbell, rebecca fitzgarrald, mario balcazar, andre
-f antoine, nicholas f beier, sylvain fourmaux, meriame berboucha, amina e hussein, brendan
-kettle, salleerklein, karlmkrushelnick, stuartp.d.mangles, qianqian, gianlucasarri, daniel
-seipt, vigneshvar senthilkumaran, rob shalloo, matthew streeter, louise willingale, alec g.r.
-thomas, to08.00013: streaking of betatron x-rays in a curved laser wakeeld accelerator
-22. brandon k russell, marija vranic, paul t campbell, alexander g thomas, kevin m. schoeer,
-dmitri a uzdensky, louise willingale, um09.00008: extreme magnetic eld generation in ultra-
+Curriculum Vitae – Louise Willingale
+21. Yong Ma, Jason A Card are lli Paul T Campbell, Rebecca Fitz garr a ld Mario Balcazar, Andre
+F Antoine, Nicholas F Beier, Sylvain Fourmaux, Meriame Berboucha, Amina E Hussein, Brendan
+Kettle, Sallee RKlein, Karl MK rush el nick Stuart P. D. Mangles, Qian Qian, Gianluca Sarri, Daniel
+Seipt, Vigneshvar Sent hil kumaran Rob Shalloo, Matthew Streeter, Louise Willingale, Alec G. R.
+Thomas, TO08.00013: Streaking of betatron X-rays in a curved laser wakeeld accelerator
+22. Brandon K Russell, Marija Vranic, Paul T Campbell, Alexander G Thomas, Kevin M. Schoeer,
+Dmitri A Uzdensky, Louise Willingale, UM09.00008: Extreme magnetic eld generation in ultra-
 intense laser solid interactions
-63rd annual meeting of the aps division of plasma physics,
-23. h. tang, a. mckelvey, p. t. campbell, b. k. russell, y. ma, a. v. areev, i-l yeh, k. tang-
-tartharakul, h. chen, f. albert, j. shaw, p. m. nilson, l. willingale, bo04.00001: high energy,
-relativistic intensity laser channeling and direct laser acceleration of electrons from an under-
-dense plasma
-24. b. k. russell, p. t. campbell, a. g. thomas, l. willingale bm10.00005: multiple species laser-
+63rd Annual Meeting of the APS Division of Plasma Physics,
+23. H. Tang, A. Mc Kelvey, P. T. Campbell, B. K. Russell, Y. Ma, A. V. Areev, I-L Yeh, K. Tang-
+tart hara kul H. Chen, F. Albert, J. Shaw, P. M. Nilson, L. Willingale, BO04.00001: High Energy,
+Relativistic Intensity Laser Channeling and Direct Laser Acceleration of Electrons from an Under-
+dense Plasma
+24. B. K. Russell, P. T. Campbell, A. G. Thomas, L. Willingale BM10.00005: Multiple species laser-
 driven ion-shock acceleration
-25. b. stassel,b. k. russell,p. t. campbell,h. tang,l. willingale,bp11.00062: investigating self-
-induced relativistic transparency in plasmas with ultrafast high intensity laser pulses
-26. a. m. maksimchuk, j. nees, g. kalinchenko, b. hou, y. ma, a. mckelvey, t. shi, p. t. campbell,
-a. f. antoine, m. balcazar, j. a. cardarelli, n. ernst, r. fitzgarrald, c. graham, q. qian, i.
-jovanovic, c. c. kuranz, a. g. thomas, l. willingale, k. krushelnick, bp11.00065: status
-report on the construction of zettawatt-equivalent ultrashort pulse laser system (zeus) at the
-university of michigan
-27. h. chen, m. r. edwards, g. fiksel, s. jiang, j. von der linden, a. longman, j. l. peebles, l.
-willingale, jo05.00005: progress on laser-driven mev electron-positron pair experiments
-28. b. k. russell, p. t. campbell, m. vranic, k. m. schoeer, d. a. uzdensky, q. qian, j. a. car-
-darelli, a. g. thomas, l. willingale, jo05.00009: generation and measurement of extreme mag-
+25. B. Stassel, B. K. Russell, P. T. Campbell, H. Tang, L. Willingale, BP11.00062: Investigating Self-
+Induced Relativistic Transparency in Plasmas with Ultrafast High Intensity Laser Pulses
+26. A. M. Maksim ch uk J. Nees, G. Kali nchen ko B. Hou, Y. Ma, A. Mc Kelvey, T. Shi, P. T. Campbell,
+A. F. Antoine, M. Balcazar, J. A. Card are lli N. Ernst, R. Fitz garr a ld C. Graham, Q. Qian, I.
+Jovanovic, C. C. Kuranz, A. G. Thomas, L. Willingale, K. Kru shel nick BP11.00065: Status
+report on the construction of Zettawatt-Equivalent Ultrashort pulse laser System (ZEUS) at the
+University of Michigan
+27. H. Chen, M. R. Edwards, G. Fiksel, S. Jiang, J. Von Der Linden, A. Longman, J. L. Peebles, L.
+Willingale, JO05.00005: Progress on Laser-Driven Me V Electron-Positron Pair Experiments
+28. B. K. Russell, P. T. Campbell, M. Vranic, K. M. Schoeer, D. A. Uzdensky, Q. Qian, J. A. Car-
+darelli, A. G. Thomas, L. Willingale, JO05.00009: Generation and measurement of extreme mag-
 netic elds
-29. j. a. cardarelli, y. ma, p. t. campbell, a. f. antoine, m. berboucha, r. fitzgarrald, r. c.
-hollinger, b. kettle, k. m. krushelnick, s. p. d. mangles, j. morrison, r. nedbailo, q. qian, j. j.
-rocca, g. sarri, d. seipt, h. song, m. j. v. streeter, s. wang, l. willingale, a. g. r. thomas,
-jo05.00014: characterizing the growth of current lamentation instability using laser wakeeld
+29. J. A. Card are lli Y. Ma, P. T. Campbell, A. F. Antoine, M. Berboucha, R. Fitz garr a ld R. C.
+Hollinger, B. Kettle, K. M. Kru shel nick S. P. D. Mangles, J. Morrison, R. Nedbailo, Q. Qian, J. J.
+Rocca, G. Sarri, D. Seipt, H. Song, M. J. V. Streeter, S. Wang, L. Willingale, A. G. R. Thomas,
+JO05.00014: Characterizing the growth of current lamentation instability using laser wakeeld
 accelerated beams
-30. m. j. manuel, h. tang, b. k. russell, l. willingale, a. m. maksimchuk, j. green, n. alfonso, l.
-carlson, t. ma, jm10.00008: progress towards rep-rated proton imaging for use at next-generation
-high-energy-density (hed) science facilities
-31. r. babjak, a. v. areev, l. willingale, m. vranic, pp11.00110: eect of density gradient on
+30. M. J. Manuel, H. Tang, B. K. Russell, L. Willingale, A. M. Maksim ch uk J. Green, N. Alfonso, L.
+Carlson, T. Ma, JM10.00008: Progress towards rep-rated proton imaging for use at next-generation
+high-energy-density (HED) science facilities
+31. R. Babjak, A. V. Areev, L. Willingale, M. Vranic, PP11.00110: Eect of density gradient on
 direct laser acceleration
-32. i-l. yin, k. tangtartharakul, h. rinderknecht, l. willingale, a. areev, pp11.00112: strong
-interplay between superluminosity and radiation friction during direct laser acceleration of electrons
+32. I-L. Yin, K. Tang tart hara kul H. R in der kn echt L. Willingale, A. Areev, PP11.00112: Strong
+interplay between super luminosity and radiation friction during direct laser acceleration of electrons
 within a magnetic lament
-62nd annual meeting of the aps division of plasma physics,
-33. vp15.00011: h. tang, a. mckelvey, p. t. campbell, b. k. russell, y. ma, a. v. areev, g. j.
+62nd Annual Meeting of the APS Division of Plasma Physics,
+33. VP15.00011: H. Tang, A. Mc Kelvey, P. T. Campbell, B. K. Russell, Y. Ma, A. V. Areev, G. J.
 21
-– louise willingale
-williams, h. chen, f. albert, j. shaw, p. m. nilson, l. willingale, high energy, relativistic
-intensity laser channeling and direct laser acceleration of electrons from an underdense plasma
-34. no08.00010: g. fiksel, h. chen, m. r. edwards, j. von der linden, t. a. link, j. peebles, l.
-willingale, laser-produced pair plasma in a magnetic mirror
-35. bo07.00004: p. t. campbell, c. a. walsh, a. crilly, j. p. chittenden, p. m. nilson, g. fiksel,
-b. k. russell, a. g. r. thomas, k. krushelnick, l. willingale, magnetic signatures of radiation-
+Curriculum Vitae – Louise Willingale
+Williams, H. Chen, F. Albert, J. Shaw, P. M. Nilson, L. Willingale, High Energy, Relativistic
+Intensity Laser Channeling and Direct Laser Acceleration of Electrons from an Underdense Plasma
+34. NO08.00010: G. Fiksel, H. Chen, M. R. Edwards, J. von der Linden, T. A. Link, J. Peebles, L.
+Willingale, Laser-produced pair plasma in a magnetic mirror
+35. BO07.00004: P. T. Campbell, C. A. Walsh, A. Crilly, J. P. Chit tend en P. M. Nilson, G. Fiksel,
+B. K. Russell, A. G. R. Thomas, K. Kru shel nick L. Willingale, Magnetic signatures of radiation-
 driven double ablation fronts
-36. bo07.00009: b. k. russell, m. vranic, p. t. campbell, a. g. r. thomas, k. krushelnick, l.
-willingale, magnetic eld generation at extreme laser intensities
-37. cp15.00004: j. von der linden, j. ramos-mendez, b. faddegon, g. fiksel, l. willingale, j.
-pebbles, j. p. holder, m. r. edwards, h. chen, calibration of the nif electron positron proton
-spectrometers (nepps) for intense laser solid interactions
-38. vp15.00002: a. maksimchuk, j. nees, g. kalinchenko, b. hou, y. ma, a. mckelvey, t. shi, i.
-jovanovic, c.kuranz, a.g.r.thomas, l. willingale, k.krushelnick, zeus: a national science
-foundation mid-scale user facility for laser-driven science in the qed regime
-39. vp15.00005: b. stassel, b. k. russell, p. t. campbell, h. tang, a. maksimchuk, l. willingale,
-investigating self-induced relativistic transparency in plasmas with ultrafast high intensity laser
-pulses
-61st annual meeting of the aps division of plasma physics,
-40. yp10.00049: a. maksimchuk, i. jovanovic, g. kalinchenko, c. kuranz, j. nees, a. g. r. thomas,
-l. willingale, k. krushelnick, zettawatt-equivalent ultrashort pulse laser system (zeus) at the
-university of michigan
-41. co8.00003: p. t. campbell, c. a. walsh, j. chittenden, p. m. nilson, a. g. r. thomas, k.
-krushelnick, l. willingale, direct observation of target material eects on high power laser-driven
+36. BO07.00009: B. K. Russell, M. Vranic, P. T. Campbell, A. G. R. Thomas, K. Kru shel nick L.
+Willingale, Magnetic eld generation at extreme laser intensities
+37. CP15.00004: J. von der Linden, J. Ramos-Mendez, B. Faddegon, G. Fiksel, L. Willingale, J.
+Pebbles, J. P. Holder, M. R. Edwards, H. Chen, Calibration of the NIF Electron Positron Proton
+Spectrometers (NEPPS) for Intense Laser Solid Interactions
+38. VP15.00002: A. Maksim ch uk J. Nees, G. Kali nchen ko B. Hou, Y. Ma, A. Mc Kelvey, T. Shi, I.
+Jovanovic, C. Kuranz, A. G. R. Thomas, L. Willingale, K. Kru shel nick ZEUS: A National Science
+Foundation Mid-Scale User Facility for Laser-Driven Science in the QED Regime
+39. VP15.00005: B. Stassel, B. K. Russell, P. T. Campbell, H. Tang, A. Maksim ch uk L. Willingale,
+Investigating Self-Induced Relativistic Transparency in Plasmas with Ultrafast High Intensity Laser
+Pulses
+61st Annual Meeting of the APS Division of Plasma Physics,
+40. YP10.00049: A. Maksim ch uk I. Jovanovic, G. Kali nchen ko C. Kuranz, J. Nees, A. G. R. Thomas,
+L. Willingale, K. Kru shel nick Zettawatt-Equivalent Ultrashort Pulse Laser System (ZEUS) at the
+University of Michigan
+41. CO8.00003: P. T. Campbell, C. A. Walsh, J. Chit tend en P. M. Nilson, A. G. R. Thomas, K.
+Kru shel nick L. Willingale, Direct observation of target material eects on high power laser-driven
 magnetic eld generation
-42. cp10.00060: b. k. russell,p. t. campbell,k.krushelnick,g.fiksel,p.m.nilson,l. willingale
-interaction of relativistic magnetized electrons with obstacles
-43. po4.00008: g. j. williams, h. chen, a. link, m. sherlock, g. fiksel, f. fiuza, e. d’humi´eres, d.
-kalantar, a. kemp, s. kerr, j. kim, t. ma, a. mackinnon, a. macphee, m. manuel, d. mariscal,
-d. martinez, b. remington, m. nakai, l. willingale, developing a high-intensity laser-plasma
-experimental capability for the pair plasma discovery science campaign on nif-arc
-44. tp10.00065: h. tang, b. k. russell, a. maksimchuk, p. t. campbell, m. j.-e. manuel, l. will-
-ingale, characterizing the spatial resolution of scintillators for imaging applictions of laser-driven
+42. CP10.00060: B. K. Russell, P. T. Campbell, K. Kru shel nick G. Fiksel, P. M. Nilson, L. Willingale
+Interaction of relativistic magnetized electrons with obstacles
+43. PO4.00008: G. J. Williams, H. Chen, A. Link, M. Sherlock, G. Fiksel, F. Fiuza, E. d Humi ere s D.
+Kalantar, A. Kemp, S. Kerr, J. Kim, T. Ma, A. Mackinnon, A. Mac Phee, M. Manuel, D. Mariscal,
+D. Martinez, B. Remington, M. Nakai, L. Willingale, Developing a high-intensity laser-plasma
+experimental capability for the Pair Plasma Discovery Science campaign on NIF-ARC
+44. TP10.00065: H. Tang, B. K. Russell, A. Maksim ch uk P. T. Campbell, M. J.-E. Manuel, L. Will-
+ingale, Characterizing the spatial resolution of scintilla tors for imaging a ppl ict ions of laser-driven
 proton beams
-60th annual meeting of the aps division of plasma physics,
-45. bo4.00006: p. t. campbell,g.fiksel,c.mileham,p.m.nilson,a.g.r.thomas,l. willingale,
-k. krushelnick, proton radiography of a highly asymmetric laser-driven magnetic reconnection ge-
+60th Annual Meeting of the APS Division of Plasma Physics,
+45. BO4.00006: P. T. Campbell, G. Fiksel, C. Mileham, P. M. Nilson, A. G. R. Thomas, L. Willingale,
+K. Kru shel nick Proton radio graph y of a highly asymmetric laser-driven magnetic re connection ge-
 ometry
-46. np11.00015: b. k. russell, p. r. kordell, a. g. r. thomas, l. willingale, multiple species laser-
+46. NP11.00015: B. K. Russell, P. R. Kordell, A. G. R. Thomas, L. Willingale, Multiple species laser-
 driven ion-shock acceleration
-47. np11.00016: a. m. maksimchuk, b. k. russell, p. r. kordell, g. fiksel, a. g. r. thomas, k.
-krushelnick, l. willingale, high-intensity laser-driven electron beam and radiation generation
+47. NP11.00016: A. M. Maksim ch uk B. K. Russell, P. R. Kordell, G. Fiksel, A. G. R. Thomas, K.
+Kru shel nick L. Willingale, High-intensity laser-driven electron beam and radiation generation
 from an underdense plasma in an axial magnetic eld
 22
-– louise willingale
-48. np11.00020: p. r. kordell, p. t. campbell, b. k. russell, a. m. maksimchuk, k. krushelnick,
-l. willingale, high intensity laser interactions with near critical density target for shock ion
+Curriculum Vitae – Louise Willingale
+48. NP11.00020: P. R. Kordell, P. T. Campbell, B. K. Russell, A. M. Maksim ch uk K. Kru shel nick
+L. Willingale, High intensity laser interactions with near critical density target for shock ion
 acceleration
-49. uo6.00009: d. kalantar, h. chen, g. j. williams, d. alessi, m. hermann, a. g. macphee, d.
-martinez, arc team, m. manuel, f. fiuza, l. willingale, j. kim, f. n. beg, m. nakai, commis-
-sioning and use of arc for pair-plasma generation on nif
-59th annual meeting of the aps division of plasma physics,
-50. bo5.00002: a. hussein, t. batson, a. v. areev, h. chen, r. s. craxton, a. davies, d. h. froula,
-d. haberberger, o. jansen, k. krushelnick, p. m. nilson, w. theobald, t. wang, g. j. williams,
-l. willingale inuence of plasma density on the generation of 100’s mev electrons via direct
-laser acceleration
-51. no6.00006: p. t. campbell,a.raymond,c.a.j.palmer,y.ma,h.chen,y.katzir,c.mileham,
-p.m.nilson,c.p.ridgers,a.g.r.thomas,e.r.tubman,m.s.wei,g.j.williams,n.woolsey,
-l. willingale, k. krushelnick, proton radiography of relativistic magnetic reconnection driven by
+49. UO6.00009: D. Kalantar, H. Chen, G. J. Williams, D. Alessi, M. Hermann, A. G. Mac Phee, D.
+Martinez, ARC team, M. Manuel, F. Fiuza, L. Willingale, J. Kim, F. N. Beg, M. Nakai, Commis-
+sioning and use of ARC for pair-plasma generation on NIF
+59th Annual Meeting of the APS Division of Plasma Physics,
+50. BO5.00002: A. Hussein, T. Batson, A. V. Areev, H. Chen, R. S. Craxton, A. Davies, D. H. Froula,
+D. Haber berger O. Jansen, K. Kru shel nick P. M. Nilson, W. Theobald, T. Wang, G. J. Williams,
+L. Willingale Inuence of plasma density on the generation of 100’s Me V electrons via Direct
+Laser Acceleration
+51. NO6.00006: P. T. Campbell, A. Raymond, C. A. J. Palmer, Y. Ma, H. Chen, Y. Katzir, C. Mileham,
+P. M. Nilson, C. P. Ridgers, A. G. R. Thomas, E. R. Tubman, M. S. Wei, G. J. Williams, N. Woolsey,
+L. Willingale, K. Kru shel nick Proton radio graph y of relativistic magnetic re connection driven by
 ultra-high intensity lasers
-52. tp11.00045: k. krushelnick, p. kordell, a. maksimchuk, a. hussein, a. g. r. thomas, l. will-
-ingale, c. zulick, p. m. nilson, c. stoeckl, r. s. craxton, ion acceleration and neutron production
-from intense laser interactions with underdense plasmas using omega ep
-53. go5.00010: p. kordell, p. t. campbell, a. maksimchuk, l. willingale, k. krushelnick, near-
+52. TP11.00045: K. Kru shel nick P. Kordell, A. Maksim ch uk A. Hussein, A. G. R. Thomas, L. Will-
+ingale, C. Zulick, P. M. Nilson, C. Stoeckl, R. S. Craxton, Ion acceleration and neutron production
+from intense laser interactions with underdense plasmas using OMEGA EP
+53. GO5.00010: P. Kordell, P. T. Campbell, A. Maksim ch uk L. Willingale, K. Kru shel nick Near-
 critical density target experiments for ion acceleration using high-intensity laser pulses
-58th annual meeting of the aps division of plasma physics,
-54. np10.00096: p. t. campbell, a. raymond, a. mckelvey, a. maksimchuk, j. nees, v. yanovsky,
-k. krushelnick, c. f. dong, w. fox, c. zulick, m. s. wei, h. chen, v. chvykov, c. mileham, p.
-m. nilson, c. stoeckl, a. g. r. thomas, l. willingale, relativistic magnetic reconnection driven
+58th Annual Meeting of the APS Division of Plasma Physics,
+54. NP10.00096: P. T. Campbell, A. Raymond, A. Mc Kelvey, A. Maksim ch uk J. Nees, V. Yanovsky,
+K. Kru shel nick C. F. Dong, W. Fox, C. Zulick, M. S. Wei, H. Chen, V. Chvykov, C. Mileham, P.
+M. Nilson, C. Stoeckl, A. G. R. Thomas, L. Willingale, Relativistic magnetic re connection driven
 by intense lasers in preformed plasma
-55. gp10.00028: a. e. hussein, t. batson, k. krushelnick, l. willingale, a. v. areev, t. wang,
-p. m. nilson, d. froula, d. haberberger, a. davies, w. theobald, j. williams, h. chen, pic
-simulations of direct laser accelerated electron from underdense plasmas using the omega ep
-laser
-56. jo6.00001: t. batson, a. raymond, a. hussein, k. krushelnick, l. willingale, p. nilson, d.
-froula, d. haberberger, a. davies, w. theobald, j. williams, h. chen, a. areev, high energy
-electron acceleration from underdense plasma channeling using the omega ep laser
-57. np10.00093: p. kordell, p. t. campbell, a. maksimchuk, l. willingale, k. krushelnick, critical
-density target design for ion acceleration on the t-cubed laser
-57th annual meeting of the aps division of plasma physics,
-58. up12.00077: p. k. campbell, p. r. kordell, m. leduc, a. maksimchuk, k. krushelnick, l. will-
-ingale, tabletop laser driven shock-ion acceleration in near-critical plasmas
-59. gp12.00009: t. batson, a. raymond, k. krushelnick, l. willingale, p. nilson, d. froula, d.
-haberberger, a. davies, w. theobald, j. williams, h. chen, a. areev, high energy electron
-acceleration from underdense plasmas with the omega ep laser
-60. gp12.00043: p. kordell, p. t. campbell, l. willingale, a. maksimchuk, k. krushelnick, e. tub-
-man, n. woolsey, proton probing using the t-cubed laser
+55. GP10.00028: A. E. Hussein, T. Batson, K. Kru shel nick L. Willingale, A. V. Areev, T. Wang,
+P. M. Nilson, D. Froula, D. Haber berger A. Davies, W. Theobald, J. Williams, H. Chen, PIC
+Simulations of direct laser accelerated electron from underdense plasmas using the OMEGA EP
+Laser
+56. JO6.00001: T. Batson, A. Raymond, A. Hussein, K. Kru shel nick L. Willingale, P. Nilson, D.
+Froula, D. Haber berger A. Davies, W. Theobald, J. Williams, H. Chen, A. Areev, High Energy
+Electron Acceleration from Underdense Plasma Channeling Using the OMEGA EP Laser
+57. NP10.00093: P. Kordell, P. T. Campbell, A. Maksim ch uk L. Willingale, K. Kru shel nick Critical
+Density Target Design for Ion Acceleration on the T-Cubed Laser
+57th Annual Meeting of the APS Division of Plasma Physics,
+58. UP12.00077: P. K. Campbell, P. R. Kordell, M. Le Duc, A. Maksim ch uk K. Kru shel nick L. Will-
+ingale, Tabletop laser driven shock-ion acceleration in near-critical plasmas
+59. GP12.00009: T. Batson, A. Raymond, K. Kru shel nick L. Willingale, P. Nilson, D. Froula, D.
+Haber berger A. Davies, W. Theobald, J. Williams, H. Chen, A. Areev, High Energy Electron
+Acceleration from Underdense Plasmas with the OMEGA EP Laser
+60. GP12.00043: P. Kordell, P. T. Campbell, L. Willingale, A. Maksim ch uk K. Kru shel nick E. Tub-
+man, N. Woolsey, Proton Probing using the T-Cubed Laser
 23
-– louise willingale
-61. jo7.00010: a. raymond, a. mckelvey, c. zulick, d. chuanfei, a. maksimchuk, a. g. r. thomas,
-v.yanovsky, k.krushelnick, l. willingale, v.chykov, p.nilson, h.chen, g.williams, a.bhat-
-tacharjee, w. fox, measurements of fast magnetic reconnection driven by relativistic electrons
-56th annual meeting of the aps division of plasma physics,
-62. cp8.00056: p. kordell, l. willingale, a. maksimchuk, k. krushelnick, e. tubman, n. woolsey,
-proton probing using a table-top-terawatt laser
-63. np8.00101: a. maksimchuk, p. belancourt, p. kordell, m. j.-e. manuel, l. willingale, a. g.
-r. thomas, r. p. drake, k. krushelnick, a. brantov, v. yu bychenkov, guiding of high-energy
+Curriculum Vitae – Louise Willingale
+61. JO7.00010: A. Raymond, A. Mc Kelvey, C. Zulick, D. Chuanfei, A. Maksim ch uk A. G. R. Thomas,
+V. Yanovsky, K. Kru shel nick L. Willingale, V. Chykov, P. Nilson, H. Chen, G. Williams, A. Bhat-
+tacharjee, W. Fox, Measurements of Fast Magnetic Re connection Driven by Relativistic Electrons
+56th Annual Meeting of the APS Division of Plasma Physics,
+62. CP8.00056: P. Kordell, L. Willingale, A. Maksim ch uk K. Kru shel nick E. Tubman, N. Woolsey,
+Proton probing using a table-top-terawatt laser
+63. NP8.00101: A. Maksim ch uk P. Bel an court P. Kordell, M. J.-E. Manuel, L. Willingale, A. G.
+R. Thomas, R. P. Drake, K. Kru shel nick A. Brantov, V. Yu Bychenkov, Guiding of high-energy
 electrons in high-intensity-laser interactions with wire targets through surface wave excitation
-64. np8.00106: c. zulick, a. raymond, a. mckelvey, l. willingale, v. chvykov, a. maksimchuk, a.
-g. r. thomas, v. yanovsky, k. krushelnick, mass limited target eects on proton acceleration
-with femtosecond laser plasma interactions
-65. np8.00111: a. raymond, a. mckelvey, c. zulick, a. maksimchuk, a. g. r. thomas, l. will-
-ingale, v. chvykov, v. yanovsky, k. krushelnick, x-ray imaging of ultrafast magnetic reconnec-
-tion driven by relativistic electrons
-55th annual meeting of the aps division of plasma physics,
-66. np8.00074: a. raymond, c. zulick, p. cummings, f. dollar, v. chvykov, l. willingale, v.
-yanovsky, a. maksimchuk, a. g. r. thomas, k. krushelnick, investigating the inuence of over-
+64. NP8.00106: C. Zulick, A. Raymond, A. Mc Kelvey, L. Willingale, V. Chvykov, A. Maksim ch uk A.
+G. R. Thomas, V. Yanovsky, K. Kru shel nick Mass Limited Target Eects on Proton Acceleration
+with Femtosecond Laser Plasma Interactions
+65. NP8.00111: A. Raymond, A. Mc Kelvey, C. Zulick, A. Maksim ch uk A. G. R. Thomas, L. Will-
+ingale, V. Chvykov, V. Yanovsky, K. Kru shel nick X-Ray Imaging of Ultrafast Magnetic Reconnec-
+tion Driven by Relativistic Electrons
+55th Annual Meeting of the APS Division of Plasma Physics,
+66. NP8.00074: A. Raymond, C. Zulick, P. Cummings, F. Dollar, V. Chvykov, L. Willingale, V.
+Yanovsky, A. Maksim ch uk A. G. R. Thomas, K. Kru shel nick Investigating the inuence of over-
 dense plasma surfaces in high harmonic generation from high-intensity laser irradiation
-67. po6.00005: a. maksimchuk, p. belancourt, m. j.-e. manuel, l. willingale, a. g. r. thomas, r.
-p. drake, k. krushelnick, a. v. brantov,v. yu bychenkov, study of surface current connement in
+67. PO6.00005: A. Maksim ch uk P. Bel an court M. J.-E. Manuel, L. Willingale, A. G. R. Thomas, R.
+P. Drake, K. Kru shel nick A. V. Brantov, V. Yu Bychenkov, Study of surface current connement in
 high-intensity laser interactions with wire targets
-68. po6.00012: c. zulick, f. dollar, a. raymond, l. willingale, v. chvykov, g. kalintchenko, a.
-maksimchuk, a. g. r. thomas, v. yanovsky, k. krushelnick, absorption in temporally clean
-ultra-intense laser plasma interactions
-54th annual meeting of the aps division of plasma physics,
-69. no7.00011: c. zulick, f. dollar, l. willingale, v. chvykov, g. kalintchenko, a. maksimchuk,
-a. g. r. thomas, v. yanovsky, k. krushelnick, neutron generation through ultra-intense laser
-plasma interactions
-70. pp8.00091: f. yu, a. raymond, c. zulick, l. willingale, k. krushelnick, a. maksimchuk, g.
-petrov, j. davis, paramount deuteron acceleration using high-intensity short laser pulses
-71. pp8.00092: a. raymond, a. maksimchuk, v. chvykov, f. dollar, l. willingale, v. yanovsky, f.
-yu, c. zulick, k. krushelnick, j. davis, g. petrov, directional, energetic neutron generation via
-high-intensity laser/plasma interactions at cuos
-53rd annual meeting of the aps division of plasma physics,
-72. bp9.00129: a. morace, t. bartal, l. willingale, j. kim, a. maksimchuk, k. krushelnick, m.
-wei, b. paradkar, d. batani, n. piovella, r. stephens, f. beg, conversion eciency enhancement
-for laser generated protons in reduced mass targets
-73. bp9.00133: a. maksimchuk, f. dollar, l. willingale, g. m. petrov, v. chvykov, g. kalinchenko,
-v. yanovsky, c. zulick, j. davis, a. g. r. thomas, k. krushelnick, directional neutron beams
-using high-intensity ultrashort laser pulses
+68. PO6.00012: C. Zulick, F. Dollar, A. Raymond, L. Willingale, V. Chvykov, G. Ka lint chen ko A.
+Maksim ch uk A. G. R. Thomas, V. Yanovsky, K. Kru shel nick Absorption in Temporally Clean
+Ultra-Intense Laser Plasma Interactions
+54th Annual Meeting of the APS Division of Plasma Physics,
+69. NO7.00011: C. Zulick, F. Dollar, L. Willingale, V. Chvykov, G. Ka lint chen ko A. Maksim ch uk
+A. G. R. Thomas, V. Yanovsky, K. Kru shel nick Neutron Generation through Ultra-Intense Laser
+Plasma Interactions
+70. PP8.00091: F. Yu, A. Raymond, C. Zulick, L. Willingale, K. Kru shel nick A. Maksim ch uk G.
+Petrov, J. Davis, Paramount Deuteron Acceleration Using High-Intensity Short Laser Pulses
+71. PP8.00092: A. Raymond, A. Maksim ch uk V. Chvykov, F. Dollar, L. Willingale, V. Yanovsky, F.
+Yu, C. Zulick, K. Kru shel nick J. Davis, G. Petrov, Directional, energetic neutron generation via
+high-intensity laser plasma interactions at CUOS
+53rd Annual Meeting of the APS Division of Plasma Physics,
+72. BP9.00129: A. Morace, T. Bartal, L. Willingale, J. Kim, A. Maksim ch uk K. Kru shel nick M.
+Wei, B. Paradkar, D. Batani, N. Piovella, R. Stephens, F. Beg, Conversion Eciency Enhancement
+for Laser Generated Protons in Reduced Mass Targets
+73. BP9.00133: A. Maksim ch uk F. Dollar, L. Willingale, G. M. Petrov, V. Chvykov, G. Kali nchen ko
+V. Yanovsky, C. Zulick, J. Davis, A. G. R. Thomas, K. Kru shel nick Directional Neutron Beams
+Using High-Intensity Ultrashort Laser Pulses
 24
-– louise willingale
-74. jo6.00002: s. ivancic, w. theobald, p. m. nilson, s. x. hu, d. d. meyerhofer, c. stoeckl, l.
-willingale, initial channeling studies of a kj-class laser in long-scale-length plasmas
-75. no7.00014: f. dollar, c. zulick, s. s. bulanov, v. chvykov, g. kalintchenko, t. matsuoka, c.
-mcguey, a. g. r. thomas, l. willingale, v. yanovsky, a. maksimchuk, k. krushelnick, g.
-petrov, j. davis, circular polarization eects in ion acceleration from high intensity, short pulse
+Curriculum Vitae – Louise Willingale
+74. JO6.00002: S. Ivancic, W. Theobald, P. M. Nilson, S. X. Hu, D. D. Meyer hofer C. Stoeckl, L.
+Willingale, Initial Channeling Studies of a k J-Class Laser in Long-Scale-Length Plasmas
+75. NO7.00014: F. Dollar, C. Zulick, S. S. Bulanov, V. Chvykov, G. Ka lint chen ko T. Matsuoka, C.
+Mc Guey, A. G. R. Thomas, L. Willingale, V. Yanovsky, A. Maksim ch uk K. Kru shel nick G.
+Petrov, J. Davis, Circular polarization eects in ion acceleration from high intensity, short pulse
 laser interactions
-52nd annual meeting of the aps division of plasma physics,
-76. gp9.00005: r. leon, s. s. bulanov, f. dollar, l. willingale, v. chvykov, g. kalinchenko, a. g.
-r. thomas, v. yanovsky, k. krushelnick, a. maksimchuk, j. davis, g. m. petrov, w. nazarov,
-ion acceleration from near-critical density aerogel and foam targets
-77. jp9.00113: g. petrov, l. willingale, j. davis, t. petrova, a. maksimchuk, k. krushelnick, the
-impact of contaminants on laser-driven ion acceleration in the tnsa regime
-78. xo6.00001: l. gao, p. m. nilson, w. theobald, c. stoeckl, c. dorrer, t. c. sangster, d. d
-meyerhofer, l. willingale, k. krushelnick, measurements of proton generation with intense,
-kilojoule laser pulses on omega ep
-79. xo6.00003: f. dollar, t. matsuoka, c. mcguey, s.s. bulanov, v. chvykov, g. kalinchenko,
-a.g.r. thomas, l. willingale, v. yanovsky, a. maksimchuk, k. krushelnick, g. petrov, j.
-davis, narrow energy spread proton and ion spectra from high-intensity laser interactions
-80. xo6.00008: a.maksimchuk, l. willingale,t.matsuoka,a.g.r.thomas,k.krushelnick,g.m.
-petrov, j. davis, v. m. ovchinnikov, r. r. freeman, a. joglekar, c. d. murphy, l. van woerkom,
-laser-driven neutron production from bulk and pitcher-catcher targets
-50th annual meeting of the aps division of plasma physics,
-81. go4.00015: s. r. nagel, c. bellei, s. kneip, s. p. d. mangles, c. palmer, l. willingale, a. e.
-dangor, z. najmudin, r. j. clarke, r. heathcote, a. henig, j. schreiber, a. saevert, m. kaluza,
-electron acceleration from the interaction of vulcan 100tw laser with au foils and its depen-
-dence on laser polarisation
-49th annual meeting of the aps division of plasma physics,
-83. jo6.00012: c. bellei, s. nagel, l. willingale, s. kneip, s. p. d. mangles, a. e. dangor, z.
-najmudin, k. krushelnick, s. kar, b. dromey, k. markey, p. simpson, m. zepf, r. j. clarke, j.
-green, d. neely, p. norreys, d. carroll, p. mckenna, studies of electron transport via transition
-radiation
-48th annual meeting of the aps division of plasma physics,
-84. co3.00012: p. nilson, l. willingale, m. kaluza, c. kamberides, m. wei, p. fernandes, r. king-
-ham, z. najmudin, m. haines, b. dangor, k. krushelnick, s. minardi, m. tatarakis, m. notley, s.
-bandyopadhyay, m. sherlock, r. evans, w. rozmus, magnetic reconnection and plasma dynamics
+52nd Annual Meeting of the APS Division of Plasma Physics,
+76. GP9.00005: R. Leon, S. S. Bulanov, F. Dollar, L. Willingale, V. Chvykov, G. Kali nchen ko A. G.
+R. Thomas, V. Yanovsky, K. Kru shel nick A. Maksim ch uk J. Davis, G. M. Petrov, W. Nazarov,
+Ion acceleration from near-critical density aerogel and foam targets
+77. JP9.00113: G. Petrov, L. Willingale, J. Davis, T. Petrova, A. Maksim ch uk K. Kru shel nick The
+impact of contaminants on laser-driven ion acceleration in the TNSA regime
+78. XO6.00001: L. Gao, P. M. Nilson, W. Theobald, C. Stoeckl, C. Dorrer, T. C. Sangster, D. D
+Meyer hofer L. Willingale, K. Kru shel nick Measurements of Proton Generation with Intense,
+Kilojoule Laser Pulses on OMEGA EP
+79. XO6.00003: F. Dollar, T. Matsuoka, C. Mc Guey, S. S. Bulanov, V. Chvykov, G. Kali nchen ko
+A. G. R. Thomas, L. Willingale, V. Yanovsky, A. Maksim ch uk K. Kru shel nick G. Petrov, J.
+Davis, Narrow energy spread proton and ion spectra from high-intensity laser interactions
+80. XO6.00008: A. Maksim ch uk L. Willingale, T. Matsuoka, A. G. R. Thomas, K. Kru shel nick G. M.
+Petrov, J. Davis, V. M. Ov chin niko v R. R. Freeman, A. Joglekar, C. D. Murphy, L. Van Woerkom,
+Laser-driven neutron production from bulk and pitcher-catcher targets
+50th Annual Meeting of the APS Division of Plasma Physics,
+81. GO4.00015: S. R. Nagel, C. Bellei, S. Kneip, S. P. D. Mangles, C. Palmer, L. Willingale, A. E.
+Dangor, Z. Najmudin, R. J. Clarke, R. Heathcote, A. Henig, J. Schreiber, A. Saevert, M. Kaluza,
+Electron Acceleration from the Interaction of VULCAN 100TW Laser with Au Foils and its Depen-
+dence on Laser Polarisation
+49th Annual Meeting of the APS Division of Plasma Physics,
+83. JO6.00012: C. Bellei, S. Nagel, L. Willingale, S. Kneip, S. P. D. Mangles, A. E. Dangor, Z.
+Najmudin, K. Kru shel nick S. Kar, B. Dromey, K. Markey, P. Simpson, M. Zepf, R. J. Clarke, J.
+Green, D. Neely, P. Norreys, D. Carroll, P. Mc Kenna, Studies of Electron Transport Via Transition
+Radiation
+48th Annual Meeting of the APS Division of Plasma Physics,
+84. CO3.00012: P. Nilson, L. Willingale, M. Kaluza, C. Kam be rides M. Wei, P. Fernandes, R. King-
+ham, Z. Najmudin, M. Haines, B. Dangor, K. Kru shel nick S. Minardi, M. Tatarakis, M. Notley, S.
+Bandy op adh yay M. Sherlock, R. Evans, W. Rozmus, Magnetic re connection and plasma dynamics
 in two beam laser-solid interactions
-47th annual meeting of the aps division of plasma physics,
-85. ko3.00008: p. nilson, l. willingale, m. kaluza, c. kamberidis, m. s. wei, z. najmudin, r. g.
-evans, a. e. dangor, k. krushelnick, self-generated magnetic eld distributions in multiple-beam
+47th Annual Meeting of the APS Division of Plasma Physics,
+85. KO3.00008: P. Nilson, L. Willingale, M. Kaluza, C. Kam be rid is M. S. Wei, Z. Najmudin, R. G.
+Evans, A. E. Dangor, K. Kru shel nick Self-generated magnetic eld distributions in multiple-beam
 produced plasmas
 25
-– louise willingale
-seminars and colloquia
-1. ultrafast from coast to coast, seminars of the canadian ultrafast community, 22nd june
-exploring extreme plasma physics with multi-petawatt laser pulses
-2. laboratory for laser energetics (lle) research review, 23rd march
-the zeus 3 pw laser facility and high field science
-3. applied physics seminar, university of michigan, ann arbor, 16th november
-high-intensity laser-plasma interactions: the relativistic regime and beyond
-4. llnl high energy density science (heds) seminar (virtual), 17th december
-magnetic signatures of radiation-driven double ablation fronts
-5. journal of plasma physics colloquium (virtual), 4th november
-magnetic signatures of radiation-driven double ablation fronts
-6. lanl colloquium (virtual), los alamos, 13th august
-magnetic signatures of radiation-driven double ablation fronts
-7. cips (center for integrated plasma studies) seminar (virtual), university of colorado, 8th may
-magnetic eld generation and dynamics driven by relativistic intensity laser-plasma interactions
-8. applied physics seminar, university of michigan, ann arbor, 2nd october
-high-intensity laser-plasma interactions: the relativistic regime and beyond
-9. technical talk kla patent celebration, milpitas, ca, 25th september
-laser-plasma wizardry: tricks to generate extreme radiation sources
-10. aaosa/osum seminar, university of michigan, ann arbor, 6th december
-using relativistic intensity laser pulses to generate huge magnetic fields and a magnetic recon-
-nection geometry
-11. atomic physics seminar, lund university, lund, sweden, 6th april
-relativistic magnetic reconnection in the laboratory
-12. plasma physics seminar, imperial college london, 7th july
-relativistic magnetic reconnection in the laboratory
-13. physics department colloquium, lancaster university, 2nd november
-electron heating and relativistic transparency in laser-driven ion acceleration
-14. applied physics seminar, university of michigan, mi, 22nd october
-relativistic-intensity laser-plasma interactions
-15. ece and ners seminar, university of michigan, mi, 31st march
-driving relativistic mega-amp currents using lasers
-16. plasma physics seminar, university of california, irvine, ca, 4th march
-relativistic laser-plasma interactions: channeling and electron heating
-17. plasma physics seminar, imperial college london, 31st january
-interaction of relativistic laser pulses with near-critical density plasma
-18. physics department seminar, university of rochester, ny, 14th december
-relativistic laser-plasma interactions and proton probing on omega ep
-19. ners colloquium, university of michigan, mi, 6th april
-experiments using the high-intensity omega ep laser system
+Curriculum Vitae – Louise Willingale
+Seminars and Colloquia
+1. Ultrafast from coast to coast, Seminars of the Canadian Ultrafast Community, 22nd June
+Exploring extreme plasma physics with multi-Petawatt laser pulses
+2. Laboratory for Laser Energetics (LLE) Research Review, 23rd March
+The ZEUS 3 PW laser facility and High Field Science
+3. Applied Physics Seminar, University of Michigan, Ann Arbor, 16th November
+High-intensity laser-plasma interactions: the relativistic regime and beyond
+4. LLNL High Energy Density Science (HEDS) seminar (virtual), 17th December
+Magnetic signatures of radiation-driven double ablation fronts
+5. Journal of Plasma Physics colloquium (virtual), 4th November
+Magnetic signatures of radiation-driven double ablation fronts
+6. LANL Colloquium (virtual), Los Alamos, 13th August
+Magnetic signatures of radiation-driven double ablation fronts
+7. CIPS (Center for Integrated Plasma Studies) seminar (virtual), University of Colorado, 8th May
+Magnetic eld generation and dynamics driven by relativistic intensity laser-plasma interactions
+8. Applied Physics Seminar, University of Michigan, Ann Arbor, 2nd October
+High-intensity laser-plasma interactions: the relativistic regime and beyond
+9. Technical talk KLA patent celebration, Milpitas, CA, 25th September
+Laser-Plasma Wizardry: Tricks to generate extreme radiation sources
+10. AAOSA/OSUM Seminar, University of Michigan, Ann Arbor, 6th December
+Using Relativistic Intensity Laser Pulses to Generate Huge Magnetic Fields and a Magnetic Recon-
+nection Geometry
+11. Atomic Physics seminar, Lund University, Lund, Sweden, 6th April
+Relativistic magnetic re connection in the laboratory
+12. Plasma Physics seminar, Imperial College London, 7th July
+Relativistic magnetic re connection in the laboratory
+13. Physics department colloquium, Lancaster University, 2nd November
+Electron Heating and Relativistic Transparency in Laser-Driven Ion Acceleration
+14. Applied Physics seminar, University of Michigan, MI, 22nd October
+Relativistic-intensity Laser-Plasma Interactions
+15. ECE and NERS seminar, University of Michigan, MI, 31st March
+Driving Relativistic Mega-Amp Currents using Lasers
+16. Plasma physics seminar, University of California, Irvine, CA, 4th March
+Relativistic laser-plasma interactions: Channeling and electron heating
+17. Plasma physics seminar, Imperial College London, 31st January
+Interaction of relativistic laser pulses with near-critical density plasma
+18. Physics department seminar, University of Rochester, NY, 14th December
+Relativistic laser-plasma interactions and proton probing on Omega EP
+19. NERS Colloquium, University of Michigan, MI, 6th April
+Experiments using the high-intensity Omega EP laser system
 26
-– louise willingale
-20. seminar, llnl, ca, 26th january
-high-intensity laser plasma interaction research at the center for ultrafast optical science
-21. plasma seminar, ucla, ca, 21st october
-ion acceleration from high-intensity laser interactions with underdense and near-critical plasma
-22. cuossymposiumonrelativisticandnon-relativisticintensitylasersandapplications,university
-of michigan, mi, 28th september
-high-power, kilojoule class laser channeling, surface wave generation and particle acceleration from
+Curriculum Vitae – Louise Willingale
+20. Seminar, LLNL, CA, 26th January
+High-intensity laser plasma interaction research at the Center for Ultrafast Optical Science
+21. Plasma seminar, UCLA, CA, 21st October
+Ion acceleration from high-intensity laser interactions with underdense and near-critical plasma
+22. CUO S Symposium on Relativistic and Non-relativistic Intensity Lasersand Applications, University
+of Michigan, MI, 28th September
+High-power, kilojoule class laser channeling, surface wave generation and particle acceleration from
 underdense and near critical density plasma
-23. cuos seminar, university of michigan, mi, 29th october
-high-power, kilojoule class laser channeling in millimeter scale underdense plasma
-24. cuos seminar, university of michigan, mi, 26th september
-ion acceleration from underdense to near-critical density plasma
-25. cuossymposiumonrelativisticandnon-relativisticintensitylasersandapplications,university
-of michigan, mi, october
-proton acceleration from relativistically transparent plasmas
-26. plasma physics group seminar, imperial college london, 10th may
-forward ion acceleration from vulcan petawatt interactions with underdense plasma
-27. seminar, ist lisbon, portugal, 13th february
-forward ion acceleration from vulcan petawatt interactions with underdense plasma
-28. plasma physics group seminar, imperial college london, 22nd june
-ion acceleration from underdense plasma with the vulcan petawatt laser
-29. plasma physics group seminar, imperial college london, 26th may
-ions from petawatt laser interactions with underdense plasma
-technical reports
-1. j. p. palastro, f. albert, b. albright, t. antonsen jr., a. areev, j. w. bates, r. l. berger, j.
-bromage, e. m. campbell, t. chapman, e. chowdhury, a. cola¨ıtis, c. dorrer, e. esarey, f. fiu´za,
-n. fisch, r. k. follett, d. h. froula, s. h. glenzer, d. gordon, d. haberberger, b. m. hegelich, t.
-jones, d. kaganovich, k. krushelnick, p. michel, h. milchberg, j. moloney, w. mori, j. f. myatt,
-p. m. nilson, s. p. obenschain, j. l. peebles, j. pen˜ano, m. richardson, h. g. rinderknecht, j.
-rocca, a. j. schmitt, c. schroeder, j. l. shaw, l. o. silva, d. strozzi, s. suckewer, a. thomas,
-f. tsung, d. turnbull, d. umstadter, j. vieira, j. weaver, m. s. wei, s. c. wilks, l. willingale,
-l. yin, and j. d. zuegel, laser-plasma interactions enabled by emerging technologies, lle
-annual report, p75, doe/na/ )
-2. k. krushelnick, p. t. campbell, l. willingale, g. fiksel, p. m. nilson, and c. mileham, proton
-radiography of a highly asymmetric magnetic-reconnection geometry on omega ep, lle
-annual report, p 222, doe/na/ )
-3. a. e. hussein, t.batson, k.krushelnick, l. willingale, a.v.areev,p.m.nilson, d.h.froula,
-r. s. craxton, a. davies, d. haberberger, h. chen, g. j. williams, inuence of plasma density on
-the generation of hundreds of mev electrons via direct laser acceleration, lle annual
-report, p 218, doe/na/ )
-4. k. krushelnick, p. campbell, l. willingale, g. fiksel, p. m. nilson, c. mileham, x-ray measure-
-ments of laser-driven relativistic magnetic reconnection using omega ep, lle annual
+23. CUOS seminar, University of Michigan, MI, 29th October
+High-power, kilojoule class laser channeling in millimeter scale underdense plasma
+24. CUOS seminar, University of Michigan, MI, 26th September
+Ion acceleration from underdense to near-critical density plasma
+25. CUO S Symposium on Relativistic and Non-relativistic Intensity Lasersand Applications, University
+of Michigan, MI, October
+Proton acceleration from relativistic ally transparent plasmas
+26. Plasma Physics Group seminar, Imperial College London, 10th May
+Forward ion acceleration from VULCAN Petawatt interactions with underdense plasma
+27. Seminar, IST Lisbon, Portugal, 13th February
+Forward ion acceleration from VULCAN Petawatt interactions with underdense plasma
+28. Plasma Physics Group seminar, Imperial College London, 22nd June
+Ion acceleration from underdense plasma with the VULCAN Petawatt laser
+29. Plasma Physics Group seminar, Imperial College London, 26th May
+Ions from Petawatt laser interactions with underdense plasma
+Technical Reports
+1. J. P. Palastro, F. Albert, B. Albright, T. Antonsen Jr., A. Areev, J. W. Bates, R. L. Berger, J.
+Bromage, E. M. Campbell, T. Chapman, E. Chowdhury, A. Cola¨ıtis, C. Dorrer, E. Esarey, F. Fiu´za,
+N. Fisch, R. K. Follett, D. H. Froula, S. H. Glenzer, D. Gordon, D. Haber berger B. M. Hegelich, T.
+Jones, D. Kaganovich, K. Kru shel nick P. Michel, H. Milchberg, J. Moloney, W. Mori, J. F. Myatt,
+P. M. Nilson, S. P. Obe ns chain J. L. Peebles, J. Pen˜ano, M. Richardson, H. G. R in der kn echt J.
+Rocca, A. J. Schmitt, C. Schroeder, J. L. Shaw, L. O. Silva, D. Strozzi, S. Suckewer, A. Thomas,
+F. Tsung, D. Turnbull, D. Umstadter, J. Vieira, J. Weaver, M. S. Wei, S. C. Wilks, L. Willingale,
+L. Yin, and J. D. Zuegel, Laser-Plasma Interactions Enabled by Emerging Technologies, LLE
+Annual Report, p75, DOE/NA/ )
+2. K. Kru shel nick P. T. Campbell, L. Willingale, G. Fiksel, P. M. Nilson, and C. Mileham, Proton
+Radio graph y of a Highly Asymmetric Magnetic-Reconnection Geometry on OMEGA EP, LLE
+Annual Report, p 222, DOE/NA/ )
+3. A. E. Hussein, T. Batson, K. Kru shel nick L. Willingale, A. V. Areev, P. M. Nilson, D. H. Froula,
+R. S. Craxton, A. Davies, D. Haber berger H. Chen, G. J. Williams, Inuence of Plasma Density on
+the Generation of Hundreds of Me V Electrons via Direct Laser Acceleration, LLE Annual
+Report, p 218, DOE/NA/ )
+4. K. Kru shel nick P. Campbell, L. Willingale, G. Fiksel, P. M. Nilson, C. Mileham, X-Ray Measure-
+ments of Laser-Driven Relativistic Magnetic Re connection Using OMEGA EP, LLE Annual
 27
-– louise willingale
-report, p 222, doe/na/ )
-5. l.willingale,t.batson,a.raymond,k.krushelnick,p.m.nilson,d.h.froula,d.haberberger,
-a. davies, w. theobald, j. g. williams, h. chen and a. v. areev, high-energy electron beam
-acceleration from underdense plasmas using omega ep, lle annual report, p 223,
-doe/na/ )
-6. k. krushelnick, a. raymond, l. willingale, a. thomas, t. batson, p. m. nilson, c. mileham,
-g. j. williams, h. chen, and w. fox, x-ray measurements of laser-driven relativistic magnetic
-reconnection using omega ep, lle annual report, p 213, doe/na/ )
-7. c. a. j. palmer, y. ma, m. j. v. streeter, p. t. campbell, p. kordell, k. krushelnick, a. g. r.
-thomas, l. willingale, l. antonelli, c. r. ridgers, n. woolsey, j. halliday, e. r. tubman, s.
-lebedev, y. katzir, e. montgomery, m. notley, proton probing of the reconnecting magnetic elds
-surrounding two adjacent, high-intensity laser interactions, central laser facility annual
-report -17, article 18 ( )
-8. l.willingale,t.batson,a.raymond,k.krushelnick,p.m.nilson,d.h.froula,d.haberberger,
-a. davies, w. theobald, j. g. williams, h. chen and a. v. areev, high-energy electron beam
-acceleration from underdense plasmas using omega ep, lle annual report, p 229,
-doe/na/ )
-9. k. krushelnick, a. raymond, l. willingale, a. thomas, t. batson, p. m. nilson, c. mileham,
-g. j. williams, h. chen, and w. fox, x-ray measurements of laser-driven relativistic magnetic
-reconnection using omega ep, lle annual report, p 223, doe/na/ )
-10. l. willingale, and k. krushelnick, high-intensity laser interactions with low-density plasmas,
-nnsa stewardship science academic programs annual, p 17, doe/na- )
-11. l. willingale, c. zulick, a. maksimchuk, k. krushelnick, p. m. nilson, r. s. craxton, c. stoeckl,
-t. c. sangster, h. chen, j. cobble, p. norreys, and r. h. h. scott, intense laser interactions with
-low-density plasma using omega ep, lle annual report, p 243, doe/na/28302-
+Curriculum Vitae – Louise Willingale
+Report, p 222, DOE/NA/ )
+5. L. Willingale, T. Batson, A. Raymond, K. Kru shel nick P. M. Nilson, D. H. Froula, D. Haber berger
+A. Davies, W. Theobald, J. G. Williams, H. Chen and A. V. Areev, High-Energy Electron Beam
+Acceleration from Underdense Plasmas Using OMEGA EP, LLE Annual Report, p 223,
+DOE/NA/ )
+6. K. Kru shel nick A. Raymond, L. Willingale, A. Thomas, T. Batson, P. M. Nilson, C. Mileham,
+G. J. Williams, H. Chen, and W. Fox, X-Ray Measurements of Laser-Driven Relativistic Magnetic
+Re connection Using OMEGA EP, LLE Annual Report, p 213, DOE/NA/ )
+7. C. A. J. Palmer, Y. Ma, M. J. V. Streeter, P. T. Campbell, P. Kordell, K. Kru shel nick A. G. R.
+Thomas, L. Willingale, L. Antonelli, C. R. Ridgers, N. Woolsey, J. Halliday, E. R. Tubman, S.
+Lebedev, Y. Katzir, E. Montgomery, M. Notley, Proton probing of the reconnecting magnetic elds
+surrounding two adjacent, high-intensity laser interactions, Central Laser Facility Annual
+Report -17, article 18 ()
+8. L. Willingale, T. Batson, A. Raymond, K. Kru shel nick P. M. Nilson, D. H. Froula, D. Haber berger
+A. Davies, W. Theobald, J. G. Williams, H. Chen and A. V. Areev, High-Energy Electron Beam
+Acceleration from Underdense Plasmas Using OMEGA EP, LLE Annual Report, p 229,
+DOE/NA/ )
+9. K. Kru shel nick A. Raymond, L. Willingale, A. Thomas, T. Batson, P. M. Nilson, C. Mileham,
+G. J. Williams, H. Chen, and W. Fox, X-Ray Measurements of Laser-Driven Relativistic Magnetic
+Re connection Using OMEGA EP, LLE Annual Report, p 223, DOE/NA/ )
+10. L. Willingale, and K. Kru shel nick High-Intensity Laser Interactions with Low-Density Plasmas,
+NNSA Stewardship Science Academic Programs Annual, p 17, DOE/NA- )
+11. L. Willingale, C. Zulick, A. Maksim ch uk K. Kru shel nick P. M. Nilson, R. S. Craxton, C. Stoeckl,
+T. C. Sangster, H. Chen, J. Cobble, P. Norreys, and R. H. H. Scott, Intense Laser Interactions with
+Low-Density Plasma Using OMEGA EP, LLE Annual Report, p 243, DOE/NA/28302-
 )
-12. l. willingale, c. zulick, a. maksimchuk, k. krushelnick, p. m. nilson, r. s. craxton, c. stoeckl,
-t.c.sangster,h.chen,j.cobble,p.norreys,andr.h.h.scott,low density plasma interactions,
-lle annual report, p 184, doe/na/ )
-13. l.willingale,a.maksimchuk,k.krushelnick,p.m.nilson,r.s.craxton,c.stoeckl,t.c.sang-
-ster,j.cobble,p.norreys,andr.h.h.scott,intenselaserinteractionswithlow-densityplasmas
-using omega ep, lle annual report, p 243, doe/na/ )
-14. f. dollar, t. matsuoka, c. mcguey, s. s. bulanov, v. chvykov, j. davis, g. kalintchenko,
-g. petrov, a. g. r. thomas, l. willingale, v. yanovsky, a. maksimchuk, and k. krushelnick,
-narrow energy spread protons and ions from high-intensity, high-contrast laser solid target
-interactions, aip conference proceedings volume 1299, advanced accelerator con-
-cepts: 14th advanced accelerator concepts workshop, 710 ( )
-15. l. willingale, k. krushelnick, a. maksimchuk, p. m. nilson, c. stoeckl, t. c. sangster, and w.
-nazarov, low-density plasma interactions, lle annual report, p120, doe/na/28302-
-923 ( )
-16. k. markey, s. kar, p. simpson, b. dromey, m. zepf, c. bellei, s. nagel, s. kneip, z. najmudin, l.
-willingale, k. krushelnick, j. s. greem, p. a. norreys, r. j. clarke, d, neely, d. c. carroll, p.
-mckenna, and e. l. clarke, divergence control of multi-mev laser accelerated proton beams using
-curved foil targets, central laser facility annual report / , p42
+12. L. Willingale, C. Zulick, A. Maksim ch uk K. Kru shel nick P. M. Nilson, R. S. Craxton, C. Stoeckl,
+T. C. Sangster, H. Chen, J. Cobble, P. Norreys, and R. H. H. Scott, Low density plasma interactions,
+LLE Annual Report, p 184, DOE/NA/ )
+13. L. Willingale, A. Maksim ch uk K. Kru shel nick P. M. Nilson, R. S. Craxton, C. Stoeckl, T. C. Sang-
+ster, J. Cobble, P. Norreys, and R. H. H. Scott, Intense Laser Interactions with Low-Density Plasmas
+Using OMEGA EP, LLE Annual Report, p 243, DOE/NA/ )
+14. F. Dollar, T. Matsuoka, C. Mc Guey, S. S. Bulanov, V. Chvykov, J. Davis, G. Ka lint chen ko
+G. Petrov, A. G. R. Thomas, L. Willingale, V. Yanovsky, A. Maksim ch uk and K. Kru shel nick
+Narrow Energy Spread Protons and Ions from High-Intensity, High-Contrast Laser Solid Target
+Interactions, AIP Conference Proceedings Volume 1299, Advanced Accelerator Con-
+cepts: 14th Advanced Accelerator Concepts Workshop, 710 ()
+15. L. Willingale, K. Kru shel nick A. Maksim ch uk P. M. Nilson, C. Stoeckl, T. C. Sangster, and W.
+Nazarov, Low-Density Plasma Interactions, LLE Annual Report, p120, DOE/NA/28302-
+923 ()
+16. K. Markey, S. Kar, P. Simpson, B. Dromey, M. Zepf, C. Bellei, S. Nagel, S. Kneip, Z. Najmudin, L.
+Willingale, K. Kru shel nick J. S. Greem, P. A. Norreys, R. J. Clarke, D, Neely, D. C. Carroll, P.
+Mc Kenna, and E. L. Clarke, Divergence control of multi-Me V laser accelerated proton beams using
+curved foil targets, Central Laser Facility Annual Report /, p42
 28
-– louise willingale
-17. s. r. nagel, c. bellei, s. kneip, s. p. d. mangles, c. palmer, l. willingale, a. e. dangor, z.
-najmudin, r. j. clarke, r. heathcote, b. dromey, s. kar, k. markey, p. simpson, m. zepf, m.
-kaluza, a. savert, a. henig, and j. schreiber, electron acceleration from the interaction of vulcan
-100tw laser with au foils and its dependence on laser polarisation, central laser facility
-annual report / , p45
-18. c. palmer, c. bellei, a. e. dangor, s. kneip, s. p. d. mangles, s. r. nagel, z. najmudin, l.
-willingale, r. j. clarke, r. heathcote, a. henig, j. schreiber, m. c. kaluza, and a. savart,
-proton energy spectra from ultra-intense laser interactions with lm targets of varying thickness,
-central laser facility annual report / , p52
-19. s. kneip, s. r. nagel, c. bellei, l. willingale, p. m. nilson, s. p. d. mangels, a. e. dangor,
-z. najmudin, s. reed, a. maksimchuk, k. krushelnick, k. ta phuoc, n. bourgeois, a. rousse,
-j. r. marques, a. gopal, and m. tatarakis, petawatt laser synchrotron source, central laser
-facility annual report / , p25
-20. k. markey, s. kar, p. t. simpson, b. dromey, m. zepf, c. bellei, s. r. nagel, s. kneip, z.
-najmudin, l. willingale, j. s. green, p. a. norreys, r. j. clarke, d. neely, d. c. carroll, p.
-mckenna, e. l. clarke, k. krushelnick, and a. schiavi, divergence reduction of laser accelerated
-proton beams, central laser facility annual report / , p29
-21. s. r. nagel, s. p. d. mangles, s. kneip, c. bellei, l. willingale, a. e. dangor, z. najmudin,
-r. j. clarke, r. heathcote, k. l. lancaster, a. gopal, m. tatarakis, a. maksimchuk, s. a. reed,
-and k. krushelnick, electron acceleration from underdense plasma with the vulcan petawatt laser,
-central laser facility annual report / , p41
-22. c. bellei, s. r. nagel, l. willingale, s. kneip, a. e. dangor, z. najmudin, k. krushelnick, s.
-kar, p. t. simpson, b. dromey, k. markey, m. zepf, j. s. green, p. a. norreys, r. j. clarke, d.
-neely, d. c. carroll, p. mckenna, and w. murphy, optical emission from the rear side of solid
-targets irradiated with the vulcan petawatt laser, central laser facility annual report
-/ , p11
-23. s. kneip, s. r. nagel, s. p. d. mangles, l. willingale, p. m. nilson, a. e. dangor, z. naj-
-mudin, k. krushelnick, k. ta phuoc, n. bourgeois, a. rousse, and j. r. marques, x-ray radiation
-measurement from electron accelerated in low-density plasma petawatt laser interaction, central
-laser facility annual report / , p34
-24. s. r. nagel, s. p. d. mangles, p. m. nilson, m. c. kaluza, a. g. r. thomas, l. willingale, z. na-
-jmudin, k. krushelnick, r. j. clarke, n. lopes, k. marsh, and c. joshi, electron acceleration from
-underdense plasma with the vulcan petawatt laser, central laser facility annual report
-/ , p44
-25. p.m.nilson,l. willingale,m.c.kaluza,c.kamberidis,m.s.wei,p.fernandes,r.j.kingham,
-z. najmudin, m. g. haines, a. e. dangor, k. krushelnick, m. notley, s. bandyopadhyay, m.
-sherlock, r. g. evans, s. minardi, m. tatarakis, and w. rozmus, magnetic reconnection and
-plasma dynamics in two beam laser-solid interactions,central laser facility annual report
-/ , p47
-26. l. willingale,s.p.d.mangles,s.r.nagel,c.bellei,a.e.dangor,m.c.kaluza,c.kamberidis,
-s. kneip, z. najmudin, p. m. nilson, a. g. r. thomas, k. krushelnick, r. j. clarke, r. heathcote,
-w. nazarov, n. lopes, and k. marsh, proton acceleration from near critical density foam targets
-using the vulcan petawatt laser, central laser facility annual report / , p61
-27. l. willingale, s. p. d. mangles, p. m. nilson, z. najmudin, m. s. wei, a. g. r. thomas, m.
-c. kaluza, a. e. dangor, k. krushelnick, k. lancaster, r. j. clarke, c. hernandez-gomez, s.
+Curriculum Vitae – Louise Willingale
+17. S. R. Nagel, C. Bellei, S. Kneip, S. P. D. Mangles, C. Palmer, L. Willingale, A. E. Dangor, Z.
+Najmudin, R. J. Clarke, R. Heathcote, B. Dromey, S. Kar, K. Markey, P. Simpson, M. Zepf, M.
+Kaluza, A. Savert, A. Henig, and J. Schreiber, Electron acceleration from the interaction of Vulcan
+100TW laser with Au foils and its dependence on laser polarisation, Central Laser Facility
+Annual Report /, p45
+18. C. Palmer, C. Bellei, A. E. Dangor, S. Kneip, S. P. D. Mangles, S. R. Nagel, Z. Najmudin, L.
+Willingale, R. J. Clarke, R. Heathcote, A. Henig, J. Schreiber, M. C. Kaluza, and A. Savart,
+Proton energy spectra from ultra-intense laser interactions with lm targets of varying thickness,
+Central Laser Facility Annual Report /, p52
+19. S. Kneip, S. R. Nagel, C. Bellei, L. Willingale, P. M. Nilson, S. P. D. Mangels, A. E. Dangor,
+Z. Najmudin, S. Reed, A. Maksim ch uk K. Kru shel nick K. Ta Phuoc, N. Bourgeois, A. Rousse,
+J. R. Marques, A. Gopal, and M. Tatarakis, Petawatt laser synchrotron source, Central Laser
+Facility Annual Report /, p25
+20. K. Markey, S. Kar, P. T. Simpson, B. Dromey, M. Zepf, C. Bellei, S. R. Nagel, S. Kneip, Z.
+Najmudin, L. Willingale, J. S. Green, P. A. Norreys, R. J. Clarke, D. Neely, D. C. Carroll, P.
+Mc Kenna, E. L. Clarke, K. Kru shel nick and A. Schiavi, Divergence reduction of laser accelerated
+proton beams, Central Laser Facility Annual Report /, p29
+21. S. R. Nagel, S. P. D. Mangles, S. Kneip, C. Bellei, L. Willingale, A. E. Dangor, Z. Najmudin,
+R. J. Clarke, R. Heathcote, K. L. Lancaster, A. Gopal, M. Tatarakis, A. Maksim ch uk S. A. Reed,
+and K. Kru shel nick Electron acceleration from underdense plasma with the Vulcan Petawatt laser,
+Central Laser Facility Annual Report /, p41
+22. C. Bellei, S. R. Nagel, L. Willingale, S. Kneip, A. E. Dangor, Z. Najmudin, K. Kru shel nick S.
+Kar, P. T. Simpson, B. Dromey, K. Markey, M. Zepf, J. S. Green, P. A. Norreys, R. J. Clarke, D.
+Neely, D. C. Carroll, P. Mc Kenna, and W. Murphy, Optical emission from the rear side of solid
+targets irradiated with the Vulcan Petawatt laser, Central Laser Facility Annual Report
+/, p11
+23. S. Kneip, S. R. Nagel, S. P. D. Mangles, L. Willingale, P. M. Nilson, A. E. Dangor, Z. Naj-
+mudin, K. Kru shel nick K. Ta Phuoc, N. Bourgeois, A. Rousse, and J. R. Marques, X-ray radiation
+measurement from electron accelerated in low-density plasma Petawatt laser interaction, Central
+Laser Facility Annual Report /, p34
+24. S. R. Nagel, S. P. D. Mangles, P. M. Nilson, M. C. Kaluza, A. G. R. Thomas, L. Willingale, Z. Na-
+jmudin, K. Kru shel nick R. J. Clarke, N. Lopes, K. Marsh, and C. Joshi, Electron acceleration from
+underdense plasma with the Vulcan Petawatt laser, Central Laser Facility Annual Report
+/, p44
+25. P. M. Nilson, L. Willingale, M. C. Kaluza, C. Kam be rid is M. S. Wei, P. Fernandes, R. J. Kingham,
+Z. Najmudin, M. G. Haines, A. E. Dangor, K. Kru shel nick M. Notley, S. Bandy op adh yay M.
+Sherlock, R. G. Evans, S. Minardi, M. Tatarakis, and W. Rozmus, Magnetic re connection and
+plasma dynamics in two beam laser-solid interactions, Central Laser Facility Annual Report
+/, p47
+26. L. Willingale, S. P. D. Mangles, S. R. Nagel, C. Bellei, A. E. Dangor, M. C. Kaluza, C. Kam be rid is
+S. Kneip, Z. Najmudin, P. M. Nilson, A. G. R. Thomas, K. Kru shel nick R. J. Clarke, R. Heathcote,
+W. Nazarov, N. Lopes, and K. Marsh, Proton acceleration from near critical density foam targets
+using the Vulcan Petawatt laser, Central Laser Facility Annual Report /, p61
+27. L. Willingale, S. P. D. Mangles, P. M. Nilson, Z. Najmudin, M. S. Wei, A. G. R. Thomas, M.
+C. Kaluza, A. E. Dangor, K. Kru shel nick K. Lancaster, R. J. Clarke, C. Hernandez-Gomez, S.
 29
-– louise willingale
-j. hawkes, p. a. norreys, s. karsch, j. schreiber, and m. tatarakis, initial observations of the
+Curriculum Vitae – Louise Willingale
+J. Hawkes, P. A. Norreys, S. Karsch, J. Schreiber, and M. Tatarakis, Initial observations of the
 eect on the transverse acceleration of ions and production of neutrons from underdense plasma
-in controlled two pulse experiments with the vulcan petawatt laser, central laser facility
-annual report / , p5
-28. l. willingale, s. p. d. mangles, p. m. nilson, z. najmudin, m. s. wei, a. g. r. thomas, m.
-c. kaluza, a. e. dangor, k. krushelnick, k. lancaster, r. j. clarke, s. karsch, j. schreiber, and
-m. tatarakis, forward acceleration of ions from underdense plasma interactions with the vulcan
-petawatt laser, central laser facility annual report / , p8
-29. p. m. nilson, s. p. d. mangles, l. willingale, m. c. kaluza, a. g. r. thomas, m. tatarakis, z.
-najmudin, r. g. evans, a. e. dangor, k. krushelnick, r. j. clarke, k. l. lancaster, s. karsch,
-and j. schreiber, experimental observations of blast wave formation driven by high-intensity laser
-interactions with underdense plasma, central laser facility annual report / ,
+in controlled two pulse experiments with the Vulcan Petawatt laser, Central Laser Facility
+Annual Report /, p5
+28. L. Willingale, S. P. D. Mangles, P. M. Nilson, Z. Najmudin, M. S. Wei, A. G. R. Thomas, M.
+C. Kaluza, A. E. Dangor, K. Kru shel nick K. Lancaster, R. J. Clarke, S. Karsch, J. Schreiber, and
+M. Tatarakis, Forward acceleration of ions from underdense plasma interactions with the Vulcan
+Petawatt laser, Central Laser Facility Annual Report /, p8
+29. P. M. Nilson, S. P. D. Mangles, L. Willingale, M. C. Kaluza, A. G. R. Thomas, M. Tatarakis, Z.
+Najmudin, R. G. Evans, A. E. Dangor, K. Kru shel nick R. J. Clarke, K. L. Lancaster, S. Karsch,
+and J. Schreiber, Experimental observations of blast wave formation driven by high-intensity laser
+interactions with underdense plasma, Central Laser Facility Annual Report /,
 p11
-30. p. m. nilson, l. willingale, m. c. kaluza, m. s. wei, c. kamberidis, z. najmudin, w. rozmus,
-r. g. evans, m. g. haines, a. e. dangor, k. krushelnick, r. heathcote, and s. bandyopadhyay,
-plasma dynamics and self-generated magnetic eld distributions in multi-beam produced plasmas,
-central laser facility annual report / , p46
+30. P. M. Nilson, L. Willingale, M. C. Kaluza, M. S. Wei, C. Kam be rid is Z. Najmudin, W. Rozmus,
+R. G. Evans, M. G. Haines, A. E. Dangor, K. Kru shel nick R. Heathcote, and S. Bandy op adh yay
+Plasma dynamics and self-generated magnetic eld distributions in multi-beam produced plasmas,
+Central Laser Facility Annual Report /, p46
 30

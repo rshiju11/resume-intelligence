@@ -1,654 +1,654 @@
-julia kempe
-curriculumvitæ
-contactinformation:
-email:
-web: https://cims.nyu.edu/˜kempe/
-employment:
-◦03/23– : silverprofessorofcomputerscience,mathematicsanddatascience,courantinstitute
-andcenterfordatascience,newyorkuniversity
-◦06/24– : metafairparis,seniorresearcher
-◦09/18–08/23: director,centerfordatascience,nyu,memberofthenyuseniorleadershipteam
-◦09/18–03/23: professorofcomputerscienceandmathematics,courantinstitute,newyorkuniv.
-◦ – : quantitativeresearcher(principal)infinance
-◦10/10– : cnrsseniorresearcher(directeurderecherche,tenured,roughlyequivalenttofull
-professor),affiliatedwithirif,univ. ofparis7,france,onleave
-◦11/09–08/14: associateprofessorwithtenure,schoolofcomputerscience,tel-avivuniversity
-◦04/07–10/09: seniorlecturer(assistantprofessor),schoolofcomputerscience,tel-avivuniversity
-◦10/01–10/10: cnrs-researcher(tenured),affiliatedwithlri,computersciencedepartment,
-universite´ deparis-sud,france;cr2,promotedcr1from10/05
-◦08/03–08/04: onleaveattheuniversityofcalifornia,berkeley(postdoctoralfellow)
-◦09/02–12/02 : postdoctoralscientist,msri,berkeley
-◦01/02–01/03: postdoctoralfellow,ucberkeley,computersciencedivisionanddept. ofchemistry
-education:
-◦8/97–12/01: universityofcalifornia,berkeley
-departmentofmathematics,ph.d.,advisors: elwynberlekampandk.birgittawhaley
-thesis: “universalnoiselessquantumcomputation: theoryandapplications”
-awardedthebernardfriedmanmemorialprizeinappliedmathematicsand
-themorreyawardinmathematics
-◦10/97–4/01: ecolenationalesuperieuretelecom
-de´partementinformatiqueetre´seaux,ph.d.incomputerscience,advisor: ge´rardcohen
-thesis: ”quantumcomputing: randomwalksandentanglement”
-highestdistinction(tre`shonorableavecfe´licitationsdujury)
-◦10/96–7/97: ecolenormalesupe`rieure,paris,france
-departmentofphysics,dea(masters)intheoreticalphysics,advisor: bernardderrida
-◦10/95–10/96: universite´ deparis6,“pie`rreetmariecurie”,paris,france
-departmentofmathematics,dea(masters)inalgebra,advisor: marcgiusti
-◦7/94–2/95: universityoftechnology,sydney,australia
-departmentofphysics,exchangestudentinthegraduateprogramintheoreticalphysics
-◦ –95: universityofvienna,austria
-departmentofmathematics,undergraduatedegreeinmathematics
-departmentofphysics,undergraduatedegreeinphysics
+JULIA KEMPE
+Curriculum Vitæ
+Contact information
+Email:
+Web:
+Employment:
+◦03/23– : Silver Professor of Computer Science, Mathematics and Data Science, Courant Institute
+and Centerfor Data Science, New York University
+◦06/24– : Meta FAIRParis, Senior Researcher
+09 18 08 23 Director, Centerfor Data Science, NYU, Member of the NYUSenior Leadership Team
+09 18 03 23 Professor of Computer Scienceand Mathematics, Courant Institute, New York Univ.
+◦– : Quantitative Researcher Principal in Finance
+◦10/10– : CNRSSenior Researcher Directeur de Recherche, tenured, roughly equivalent to Full
+Professor), affiliated with IRIF, Univ. of Paris7, France, onleave
+11 09 08 14 Associate Professor with tenure Schoolof Computer Science, Tel-Aviv University
+04 07 10 09 Senior lecturer Assistant Professor), Schoolof Computer Science, Tel-Aviv University
+10 01 10 10 CNRS-Researcher(tenured), affiliated with LRI, Computer Science Department,
+Universit e de Paris-Sud, France CR 2 promoted CR 1 from 10 05
+08 03 08 04 on leave at the University of California, Berkeley Postdoctoral Fellow)
+09 02 12 02 : Postdoctoral Scientist, MSRI, Berkeley
+01 02 01 03 Postdoctoral Fellow, UC Berkeley Computer Science Division and Dept. of Chemistry
+Education:
+8 97 12 01 University of California, Berkeley
+Department of Mathematics, Ph. D., Advisors: Elwyn Berlekamp and K. Birgitta Whaley
+Thesis: “Universal Noiseless Quantum Computation: Theoryand Applications”
+Awardedthe Bernard Friedman Memorial Prizein Applied Mathematics and
+the Morrey Awardin Mathematics
+10 97 4 01 Ecole Nationale Superieure TELECOM
+De partement Informatique et Re´seaux, Ph. D. in Computer Science, Advisor: Ge´rard Cohen
+Thesis: ”Quantum Computing: Random Walksand Entanglement”
+Highest distinction tre s honorable avec fe li citations du jury
+10 96 7 97 Ecole Normale Sup e rieure Paris, France
+Department of Physics, DE A Masters in Theoretical Physics, Advisor: Bernard Derrida
+10 95 10 96 Universit e de Paris 6 Pie rr eet Marie Curie”, Paris, France
+Department of Mathematics, DE A Masters in Algebra, Advisor: Marc Giusti
+7 94 2 95 University of Technology, Sydney, Australia
+Department of Physics, Exchange student in the graduate program in Theoretical Physics
+◦–95: University of Vienna, Austria
+Department of Mathematics, Undergraduate degree in Mathematics
+Department of Physics, Undergraduate degree in Physics
 1
-awardsandhonors:
-◦ : juliussilver,roslyns.silver,andenidsilverwinslowprofessorship,nyu
-◦ : fellowofasia-pacificartificialintelligenceassociation,elected
-◦ : academiaeuropaea,electedmember
-◦ : knight(chevalier)inthenationalorderofmerit(ordredemerite),france
-orderofstateawardedbythepresidentofthefrenchrepublic
-◦ : femmeenordelarecherche,france
-awardedyearlytoonewomanineachof9areaslikesports,media,artsetc.,oneinscience
-◦ : raymondandbeverlysacklercareerdevelopmentchair,telavivuniversity
-awardedfortheyear2009,awardedyearlytotwofacultyintheexactsciences
-◦ : krillprizeforexcellenceinscientificresearch
-awardedyearlybythewolffoundationto6israeliyoungscientistsacrossallsciences
-◦ : rankedfirstineuropeforercstartingindependentresearchgrant
-5-yeargrantgiventoabout250researchersineuropeacrossallfields(∼ 9500applicants)
-chosentorepresentercgranteesatfirstercconference,oct. 7,2008andinercbrochure
-◦ : prixire`nejoliot-curiedelajeunefemmescientifique
-(outstandingjuniorfemaleresearcheroftheyear,awardedbythefrenchministryofscience
-toonefemaleresearcherchosenfromallthesciencesinalloffrance)
-◦ : alonfellowship,highercouncilforacademicstudiesinisrael
-(prestigiousgrantgiventoafewleadingnewfacultyrecruits,awardedfor3years2007-10)
-◦ : me´dailledebronzeducnrs
-(outstandingyoungresearcheroftheyear,awardedtoonejuniorresearcherperscienceinall
-offrance)
-◦ : daad-icsiberkeleyfellowship(nottakeninfavorofmsripostdoc)
-◦ : bernardfriedmanmemorialprize,departmentofmathematics,ucberkeley
-(awardforbestthesisinappliedscience)
-◦ : ladydaviesfellowship(nottaken,hiredbycnrs)
-◦ : thesiswith“fe´licitationsdujury”(highestdistinction),enst,paris
-◦ : charlesb.morrey,jr. prize,departmentofmathematics,ucberkeley
-(awardedtoagraduatestudentforoutstandingresearch)
-◦ –98: fellowofthestudienstiftungdesdeutschenvolkes(germannationalmeritfoundation)
+Awardsand Honors:
+◦: Julius Silver, Roslyn S. Silver, and Enid Silver Winslow Professorship, NYU
+◦: Fellowof Asia-Pacific Artificial Intelligence Association, elected
+◦: Academia Europaea, elected member
+◦: Knight Chevalier in the National Orderof Merit Ordre de Merite), France
+Orderof State awarded by the President of the French Republic
+◦: Femmeen Ordela Recherche, France
+awarded yearly to one woman in each of 9 areas like Sports, Media, Artsetc., onein Science
+◦: Raymondand Beverly Sackler Career Development Chair, Tel Aviv University
+awarded for the year 2009 awarded yearly to two faculty in the Exact Sciences
+◦: Krill Prizefor Excellence in Scientific Research
+awarded yearly by the Wolf foundation to 6 Israeli young scientists across all sciences
+◦: Ranked first in Europefor ER C Starting Independent Research Grant
+5-yeargrantgiventoabout250researchersin Europe across all fields 9500 applicants
+chosen to represent ER C grant ees at first ER C conference Oct. 7 2008 and in ER C brochure
+◦: Prix Ire`ne Joliot-Curiedelajeunefemmescientifique
+outstanding junior female researcher of the year awarded by the French Ministryof Science
+to one female researcher chosen from all the sciences in all of France)
+◦: Alon Fellowship, Higher Councilfor Academic Studiesin Israel
+prestigious grant given to a few leading new faculty recruits awardedfor3years2007-10)
+◦: Me daille de Bronzedu CNRS
+outstanding young researcher of the year awarded to one junior researcher per science in all
+of France)
+◦: DAAD-ICSIBerkeley Fellowship not taken in favor of M SRI postdoc
+◦: Bernard Friedman Memorial Prize, Department of Mathematics, UCBerkeley
+award for best thesis in applied science
+◦: Lady Davies Fellowship not taken hiredby CNRS)
+◦: Thesis with fe li citations du jury highest distinction ENST, Paris
+◦: Charles B. Morrey, Jr. Prize, Department of Mathematics, UCBerkeley
+awarded to a graduate student for outstanding research
+◦–98: Fellow of the Studien stiftung des Deutschen Volk es German National Merit Foundation)
 (awardedtoapprox. 0.5%ofstudentsacrossallfields)
-◦ –97: fellowofthefrenchgovernment,france
-◦ : chancellor’sawardforundergraduateworkinphysics,universityofvienna,austria
-◦ : chancellor’sawardforundergraduateworkinmathematics,universityofvienna,austria
-◦ : firstprize,bundeswettbewerbfu¨rmathematik(nationalcontest),westgermany
-◦ : firstplace,eastgermanmathematicsolympiade(nationalcontest),eastgermany
-memberoftheinternationalimoteam(couldnotcompeteduetorelocationtoaustria1990/
-dissolutionoftheeastgermanstate)
-◦ –92: variousfirstprizesinregionalmathematics,physicsandchemistryolympiads
-germany( -89)andaustria( -92)
+◦–97: Fellow of the French Government, France
+◦: Chancellor s Awardfor Undergraduate Workin Physics, University of Vienna, Austria
+◦: Chancellor s Awardfor Undergraduate Workin Mathematics, University of Vienna, Austria
+◦: First Prize, Bund es wet t be we rb fu r Ma them a tik national contest West Germany
+◦: First Place, East German Mathematics Olympia de national contest East Germany
+member of the international IMO team could not compete due to relocation to Austria 1990
+dissolution of the East German State)
+◦–92: Various first prizes in regional mathematics physics and chemistry Olympiads
+Germany(-89)and Austria(-92)
 2
-grants:
-◦ co-i(withurosseljak,olivierdoreandshirleyho)onanasatcangrant, -
-◦ pi,nsfnrt”future”(traininggrantforcdsphdprogram), - ,$3million
-◦ co-pi (together with oded regev), grant of the wolfson family charitable trust, - , 125k
-britishpounds
-◦ principalinvestigator(single),ercstartingindependentresearchergrant, - ,744keuro
-◦ principalinvestigator(single),israelisciencefoundationgrant, -
-◦ co-pi,qap(qubitapplications,integratedprojectoftheeuropeanunion), -
-◦ principal investigator, grant of the ministry of science, france, “information security: quantum
-networks”,lriandinria, -06
-– sponsoredthroughthisgrant: jeremieroland(postdoc2004-05)
-thomascamara(phd-student2003-06)
-◦ co-pi(until4/07), grantoftheministryofscience, france, ”algorithmsandcomplexity: quantum
-andprobabilistic”, -
-◦ partnerinthefollowinggrants:
-– resq (resources for quantum information, integrated project of the european union, -
+Grants:
+◦ co-I(with Uros Seljak, Olivier Doreand Shirley Ho)ona NASATCANgrant,-
+◦ PI, NSF NRT Future Training Grantfor CDSPh DProgram),-,$3Million
+◦ co-PI (together with Oded Regev), Grant of the Wolfson Family Charitable Trust, -, 125K
+British Pounds
+◦ Principal Investigator single ER C Starting Independent Researchergrant,-,744KEuro
+◦ Principal Investigator single Israeli Science Foundationgrant,-
+◦ co-PI, QAP(Qubit Applications, Integrated Project of the European Union),-
+◦ Principal Investigator, Grant of the Ministry of Science, France, “Information Security: Quantum
+Networks”, LRIand INRIA,-06
+– sponsored through this grant Jeremie Roland(postdoc2004-05)
+Thomas Camara(Ph D-student2003-06)
+◦ co-PI(until4/07), Grantofthe Ministryof Science, France, Algorithms and Complexity: Quantum
+and Probabilistic”,-
+◦ Partner in the following grants
+– RESQ (Resources for Quantum Information, Integrated Project of the European Union, -
 )
-– aci cryptologie (”cryptographie quantique”, grant of the french ministry of science, -
+– ACI Crypto logie Crypto graph ie Qu antique Grant of the French Ministry of Science, -
 )
-– acijeuneequipe(grantofthefrenchministryofscience, - )
-service:
-nyu-wideserviceandcommittees:
-◦ memberofthenyubudgettaskforce( - )
-◦ memberofthefacultyofartsandsciencedeansearchcommittee( )
-◦ memberofnyuhighperformancecomputingfacultyadvisoryboard( - )
-◦ memberofnyuresearchleadership( -)
-◦ memberoftheseniorleadershipteamofpresidentandrewhamilton( - )
-boardmemberships:
-◦ erwinschroedingerinstitute,vienna: memberofthescientificadvisoryboard( -)
-◦ ai4idfparisscientificadvisoryboard( -)
+– ACIJeune Equip e Grant of the French Ministryof Science,-)
+SERVICE:
+NYU-wide Serviceand Committees:
+◦ Member of the NYUBudget Task Force(-)
+◦ Member of the Facultyof Artsand Science Dean Search Committee()
+◦ Memberof NYUHigh Performance Computing Faculty Advisory Board(-)
+◦ Memberof NYU Research Leadership(-)
+◦ Member of the Senior Leadership Teamof President Andrew Hamilton(-)
+Board Memberships:
+◦ Erwin Schroedinger Institute, Vienna: Member of the Scientific Advisory Board(-)
+◦ AI4IDFParisscientificadvisoryboard(-)
 3
-◦ nyu-moi data science for social determinants training program: member of the advisory board
-( -)
-◦ academicdatasciencealliance(adsa):memberoftheadvisoryboard( - )
-◦ center for advanced imaging innovation and research (cai2r), nyu langone medical school:
-memberofthescientificadvisoryboard( -)
-◦ institute for computational and experimental research in mathematics (icerm): member of the
-boardoftrustees( - )
-◦ nationalmuseumofmathematics(momath),newyork:
-– memberoftheadvisorycouncil( -may10, )
-– chairoftheadvisorycouncil( - )
-programandsteeringcommittees:
-◦ - : memberofthesteeringcommitteeofqip,theleadingconferenceinquantuminforma-
+◦ NYU-Moi Data Science for Social Determinants Training Program: Member of the Advisory Board
+(-)
+◦ Academic Data Science Alliance ADS A Member of the Advisory Board(-)
+◦ Center for Advanced Imaging Innovation and Research (CAI2R), NYU Langone Medical School:
+Member of the Scientific Advisory Board(-)
+◦ Institute for Computational and Experimental Research in Mathematics (ICERM): Member of the
+Boardof Trustees(-)
+◦ National Museumof Mathematics Mo Math), New York:
+– Member of the Advisory Council(-May10,)
+– Chairofthe Advisory Council(-)
+Programand Steering Committees:
+◦ -: Member of the Steering Committee of QIP, theleadingconferenceinquantuminforma-
 tion
-◦ memberofthescientificcommitteeofqipc’09(internationalconferenceonquantuminformation
-processingandcommunication,rome,italy)
-◦ member of the program committee of fods’20, tqc’13, tpnc’12, ccc’12, aqis’10, qip’10,
-uc’09,qip’09,aqis’07,cie’07,qip’06
-◦ member ( - ) of the steering committee of the gdr “information et communication quan-
-tique”(assemblesseveralresearchgroupsinquantuminformationinfrance,oneyearlyworkshop)
-conference,workshopandseminarorganizationandchairing:
-◦ co-organiserofipamworkshop“theoryandpracticeofdeeplearning”,ipam,ucla,oct.
-◦ co-organiserof”cosmicconnections: amlxastrophysicssymposium”,simonsfoundation,new
-york,may2023
-◦ co-organiserof”machinelearningxphysicsworkshop”,flatironinstitute,newyork,april2019
-◦ organizerandchairofthetopicalsession”quantuminformation”,qmath’10,hradeckralove,czech
-republic,
-◦ co-organiseroftheadvancedschoolinquantuminformationprocessing,montreal,canada,
-◦ organizer and chair of wocs’08: tau women in computer science workshop, tel aviv, israel,
-march2008
-◦ co-organiserofthe9thconference”quantuminformationprocessing(qip’06),paris,jan.
-◦ organizer of the berkeley seminar for quantum computation and information ( - ), orga-
-nizer of the algo-seminar at lri ( - ), organizer of the tel aviv theory seminar ( -
-),organiserofthedepartmentalcolloquium,telavivschoolofcomputerscience( - )
+◦ Member of the Scientific Committee of QI PC 09 International Conference on Quantum Information
+Processing and Communication, Rome, Italy)
+◦ Member of the Program Committee of FODS’20, TQC’13, TPNC’12, CCC’12, AQIS’10, QIP’10,
+UC’09, QIP’09, AQIS’07, Ci E’07, QIP’06
+◦ Member (-) of the steering committee of the GDR “Information et Communication Quan-
+ti que assembles several research groups in quantum information in France, one yearly workshop
+Conference, Workshop and Seminar Organization and Chairing:
+◦ Co-organiserof I PAM workshop Theory and Practiceof Deep Learning”, IPAM, UCLA, Oct.
+◦ Co-organiserof”Cosmic Connections: A ML X Astrophysics Symposium”, Simons Foundation, New
+York, May2023
+◦ Co-organiserof”Machine Learning X Physics workshop Flatiron Institute, New York, April2019
+◦ Organizer and chair of the topical session Quantum Information”, QMath’10, Hradec Kralove, Czech
+Republic,
+◦ Co-organiserofthe Advanced Schoolin Quantum Information Processing, Montreal, Canada,
+◦ Organizer and chair of WOCS’08: TAU Women in Computer Science Workshop, Tel Aviv, Israel,
+March2008
+◦ Co-organiserofthe9th Conference Quantum Information Processing Q IP 06 Paris, Jan.
+◦ Organizer of the Berkeley Seminar for Quantum Computation and Information (-), Orga-
+nizer of the Algo-Seminar at LRI (-), Organizer of the Tel Aviv Theory Seminar (-
+), Organiser of the Departmental Colloquium, Tel Aviv Schoolof Computer Science(-)
 4
-organizationofgraduateprograms:
-◦ leadpionnsfnrtgranttoexpandcdsdatasciencephdprogram, -
-◦ designedandimplementedthemedicalphdtrackindatascience,launchedfall2020,nyucds
-◦ co-founder and manager of the tel aviv university ”graduate program in foundations of comput-
-ing”,fall2008-fall2010: securedfundingforandbuiltupacompetitivegraduateprogram
-organizationofundergraduateprograms:
-◦ founderofthecdsundergraduateresearchprogram(curp),nyu:since2021,recurringsemester
-orsummerprogramofresearchmentorshipforunderrepresentedstudents,securedfunding(fundrais-
+Organization of Graduate Programs:
+◦ Lead PIon NSF NRT grant to expand CDSData Science Ph Dprogram,-
+◦ Designed and implemented the Medical Ph DTrackin Data Science, launched Fall2020, NYUCDS
+◦ Co-founder and manager of the Tel Aviv University ”Graduate Program in Foundations of Comput-
+ing”, Fall2008-Fall2010: Secured funding for and built up a competitive graduate program
+Organization of Undergraduate Programs:
+◦ Founder of the CDS Undergraduate Research Program CUR P NYU since 2021 recurring semester
+or summer program of research mentorship for underrepresented students securedfunding(fundrais-
 ing)
-◦ designed and implemented the undergraduate major and minor in data science (launched in fall
-)andwellasthejointcs-dsandmath-dsmajors,nyucdsandcollegeofartsandsciences
-(asofmay2023over900declaredmajorsandminors,over300graduates)
-evaluation,grantreviews,externalhiringcommittees,refereeing:
-◦ ensparisml+statisticalphysicshiringcommittee,
-◦ choosefrancefacultyhiringcommittee,
-◦ mathgrandparispostdocevaluationcommittee,
-◦ memberoftheexpertevaluationcommitteeofinria,frenchnationalcomputerscienceinstitute
-( )
-◦ evaluatorfordepartmentofenergy’sprograminadvancedscientificcomputingresearch( )
-◦ memberofthejuryfor”mathematicsand...”,viennascienceandtechnologyfund( )
-◦ panelmemberfornationalsciencefoundation,usa( )
-◦ evaluator for erwin-schroedinger-institute, vienna ( ), us-israel binational science founda-
-tion( ),europeancommission( ),canadianresearchfoundation( ),nationalscience
-foundationusa( ),israelisciencefoundation( ),ministryofscience,france( , ,
+◦ Designed and implemented the undergraduate Major and Minor in Data Science (launched in Fall
+and well as the joint CS-DSand Math-DSMajors, NYUCDSand Collegeof Artsand Sciences
+(asof May 2023 over 900 declared majors and minors over 300 graduates
+Evaluation, Grant Reviews, External Hiring Committees, Refereeing:
+◦ ENSParis ML Statistical Physics Hiring Committee,
+◦ Choose France Faculty Hiring Committee,
+◦ Math Grand Paris postdoc evaluation committee
+◦ Member of the Expert Evaluation Committee of INRIA, French National Computer Science Institute
+()
+◦ Eva lu at or for Department of Energy s program in Advanced Scientific Computing Research()
+◦ Member of the Juryfor”Mathematicsand...”, Vienna Scienceand Technology Fund()
+◦ Panel member for National Science Foundation, USA()
+◦ Evaluator for Erwin-Schroedinger-Institute, Vienna (), US-Israel Binational Science Founda-
+tion(), European Commission(), Canadian Research Foundation(), National Science
+Foundation USA(), Israeli Science Foundation(), Ministryof Science, France(,,
 )
-◦ referee for pnas, stoc, focs, nature, science, journal of the acm (jacm), siam jour-
-nalofcomputing(sicomp),ccc,icalp,random,stacs,tamc,ics,ieeetransactionson
-computing, tcs, eqis, itw, asplos, sofsem, applied and computational harmonic analy-
-sis, physical review a, physical review letters, physical review e, communications math. phys.,
-journal of statistical physics, quantum information and computation (qic), quantum information
-processing(qip),ijqi
-outreach,miscellaneous:
-◦ memberofpanelonquantumcomputing,worldsciencefestival,newyork( )
+◦ Referee for PNAS, STOC, FOCS, NATURE, SCIENCE, Journal of the ACM (JACM), SIAM Jour-
+nalof Computing SI COMP CCC, ICALP, RANDOM, STACS, TAMC, ICS, IEEE Transactions on
+Computing, TCS, EQIS, ITW, ASPLOS, SOFSEM, Applied and Computational Harmonic Analy-
+sis, Physical Review A, Physical Review Letters, Physical Review E, Communications Math. Phys.,
+Journal of Statistical Physics, Quantum Information and Computation (QIC), Quantum Information
+Processing Q IP IJQI
+Outreach, Miscellaneous:
+◦ Memberof Panelon Quantum Computing, World Science Festival, New York()
 5
-◦ participationinoutreachevents,inparticulartargetedatyoungwomen: panelistatmuseumofmath-
-ematics ”the limit does not exist”: a program for teen and tween girls who like math ( ),
-speakeratwomenintheory( ),pariswomeninscience( ),tauwomenincomputersci-
-ence (which i organised and secured funding for, ), participation in several radio emissions on
-scienceandwomeninscience(france, - )
-mentorship:
-postdoc:
-◦ jeremieroland(lri) -
-phdstudents:
-◦ yunchenfeng,nyucds, -
-◦ jingtongsu,nyucds, -
-◦ nikolaostsilivis,nyucds2021-
-◦ artemvysogorets,nyucds, -
-◦ orsattath,computerscience,tau(jointwithdoritaharonov,huji),fall2008-
-◦ mateusoliveira,computerscience,tau,march2009-november2010
-mastersstudentsthesisadvisor:
-◦ roykasher(tau) -
-◦ thomasvidick(ens)-
-◦ kimthangnguyen(ecolepolytechnique)-
-mastersstudentprojects/independentstudyadvisor:
-◦ haowenguan,zhiyangli,zishiwang,xuanzhao,nyucdscapstoneproject,
-◦ grahammurphy,sammiekim,antoniorobayo,nyucdscapstoneproject,
-◦ dhrupadbhardwaj,nyucds,independentstudyproject, -
-◦ dhrupadbhardwaj,evaristusezekwem,amberteng,nyucdscapstoneproject,
-◦ andreikapustin,nyucds,researchproject,
-undergraduatestudents:
-◦ yashizhang,courantmathandcshonors,mentoringresearchproject,fall2022-fall2023
+◦ Participation in outreach events in particular targeted at young women panelistat Museumof Math-
+ematics ”The Limit Does Not Exist”: a Program for Teen and Tween Girls Who Like Math (),
+speakerat Womenin Theory(), Paris Womenin Science(), TAUWomenin Computer Sci-
+ence (which I organised and secured funding for, ), participation in several radio emissions on
+scienceandwomeninscience(France,-)
+MENTORSHIP:
+Postdoc:
+◦ Jeremie Roland(LRI)-
+Ph Dstudents:
+◦ Yunchen Feng, NYUCDS,-
+◦ Jingtong Su, NYUCDS,-
+◦ Nikolaos Tsilivis, NYUCDS2021-
+◦ Artem Vyso gore ts NYUCDS,-
+◦ Or Sattath, Computer Science, TAU joint with Dorit Aharonov, HUJI), Fall2008-
+◦ Mateus Oliveira, Computer Science, TAU, March2009-November2010
+Masters students thesis advisor
+◦ Roy Kasher(TAU)-
+◦ Thomas Vidick(ENS)-
+◦ Kim Thang Nguyen Ecole Polytechnique)-
+Masters student projects independent study advisor
+◦ Haowen Guan, Zhiyang Li, Zishi Wang, Xuan Zhao, NYU CDS Capstone Project,
+◦ Graham Murphy, Sammie Kim, Antonio Robayo, NYU CDS Capstone Project,
+◦ Dhrupad Bhardwaj, NYUCDS, Independentstudyproject,-
+◦ Dhrupad Bhardwaj, Evaristus Ezekwem, Amber Teng, NYU CDS Capstone Project,
+◦ Andrei Kapustin, NYUCDS, Research project
+Undergraduate students
+◦ Ya Shi Zhang, Courant Mathand CSHonors, mentoring research project Fall2022-Fall2023
 6
-◦ kaidongwangandshiqiyang,mentoringresearchproject,summer2021
-◦ isaac robinson and aldo polanco, spring , mentor in the framework of the curp program for
-underrepresentedstudents
-co-advisingofphdstudents(usuallytemporary):
-◦ sevaggharibian, - ,computerscience,universityofwaterloo(togetherwithr.cleve)
-◦ juliendegorre, ,computerscience,lri,france(togetherwithm.santha)
-◦ joshuavonkorff, - ,physics,ucberkeley(togetherwithk.b.whaley)
-◦ neilshenvi, - ,chemistry,ucberkeley(togetherwithk.b.whaley)
-◦ jessefern, - ,mathematics,ucberkeley(togetherwithk.b.whaley)
-thesiscommittees:
-◦ memberofthephdyearlyreviewcommittee
-– sanaelotfi,nyu, ,
-– xiangpan,nyu,
-◦ chairofthephdcommitteeofmariazameshina,computerscience,universitegustaveeiffel,paris,
-◦ memberofthephdcommitteeofmarkfinzi,computerscience,nyu,
-◦ memberofthedqe(depthqualifyingexam)committeeofsanaelotfi,datascience,nyu2022
-◦ memberofthephdthesiscommitteeofavinatanhassidim,hebrewuniversity,december2008
-◦ memberofthemaster’sthesiscommitteeoflironschiff,telavivuniversity,june2008
-◦ memberofthemaster’sthesiscommitteeoflioreldar,telavivuniversity,january2008
-◦ memberofthemaster’sthesiscommitteeofalexrapaport,telavivuniversity,may2007
-teaching:
-◦ : fall,msdscapstonecourse
-nyucdsgraduateprogram
-◦ : fall,introductiontodatascienceforphdstudents(co-teaching)
-nyucdsphdprogram
-◦ : fall,msdscapstonecourse
-nyucdsgraduateprogram
-◦ : fall,introductiontodatascienceforphdstudents(inauguralcourse)
-nyucdsphdprogram
-◦ : spring,machinelearning
+◦ Kaidong Wangand Shiqi Yang, mentoring research project Summer2021
+◦ Isaac Robinson and Aldo Polanco, Spring , mentor in the framework of the CURP program for
+underrepresented students
+Co-advisingof Ph D students usually temporary
+◦ Sevag Gharibian,-, Computer Science, University of Waterloo together with R. Cleve)
+◦ Julien Degorre,, Computer Science, LRI, France together with M. Santha)
+◦ Joshuavon Korff,-, Physics, UC Berkeley together with K. B. Whaley)
+◦ Neil Shenvi,-, Chemistry, UC Berkeley together with K. B. Whaley)
+◦ Jesse Fern,-, Mathematics, UC Berkeley together with K. B. Whaley)
+Thesis Committees:
+◦ Member of the Ph DYearly Review Committee
+– Sanae Lotfi, NYU,,
+– Xiang Pan, NYU,
+◦ Chairofthe Ph D Committee of Maria Zameshina, Computer Science, Universite Gustave Eiffel, Paris,
+◦ Member of the Ph D Committee of Mark Finzi, Computer Science, NYU,
+◦ Member of the DQE(Depth Qualifying Exam Committee of Sanae Lotfi, Data Science, NYU2022
+◦ Member of the Ph DThesis Committee of Avinatan Hassidim, Hebrew University, December 2008
+◦ Member of the Master’s Thesis Committee of Liron Schiff, Tel Aviv University, June2008
+◦ Member of the Master’s Thesis Committee of Lior Eldar, Tel Aviv University, January 2008
+◦ Member of the Master’s Thesis Committee of Alex Rapaport, Tel Aviv University, May2007
+Teaching:
+◦: Fall, MSDS Capstone course
+NYU CDS graduate program
+◦: Fall, Introduction to Data Sciencefor Ph DStudents(co-teaching)
+NYUCDSPh Dprogram
+◦: Fall, MSDS Capstone course
+NYU CDS graduate program
+◦: Fall, Introduction to Data Sciencefor Ph D Students inaugural course
+NYUCDSPh Dprogram
+◦: Spring, Machine Learning
 7
-nyucdsgraduateprogram
-◦ : fall,co-teachingmsdscapstonecourse
-nyucdsgraduateprogram
-◦ : co-teachingthecourseinquantumcomputation,paris-mastersprogram,fall2010,
-paris,france
-◦ : spring,teachingthegraduatecourse”quantumcomputing”
-telavivuniversity
-◦ : fall,teachingtherequiredundergraduatecourse”computationalmodels”
-telavivuniversity
-◦ : spring,teachingtheundergraduatecourse”fundamentalideasincomputerscience”
-telavivuniversity
-◦ : spring,teachingthegraduateseminar”milestonesintheoreticalcomputerscience”
-telavivuniversity
-◦ : fall,teachingthegraduatecourse”quantumcomputing”
-telavivuniversity
-◦ : spring,teachingthegraduatecourse”quantumcomputing”
-telavivuniversity
-◦ : spring,teachingthegraduateseminar”computationallensinthesciences”
-telavivuniversity
-◦ : spring,teachingthegraduatecourse”quantumcomputing”
-telavivuniversity
-◦ : co-teachingandco-organisingthecourseinquantumcomputation,
-paris-mastersprogram,fall2005,paris,france
-◦ : co-teachingthecourseinquantumcomputation,paris-mastersprogram,fall2004,
-paris,france
-◦ : lecturer,summer2003,universityofcaliforniaberkeley
-cs61b:“datastructures,algorithmsandintroductiontojava”
-◦ : co-teachingthecourseinquantumcomputation,mastersprogram,spring2003,
-ecolenormalesuperieure,paris,france
-◦ : headteachingassistant,math16b:calculus,ucberkeley
-◦ : teachingassistant,math16a:calculus,ucberkeley
-dissemination:
-patent:
-◦ “universal quantum computation with the exchange interaction” (with d. bacon, d. lidar, k.b.
-whaley),uspatentnumber7,184,555;27. february2007
-preprints:
-◦ n.tsilivis,n.frank,n.srebro,andj.kempe,thepriceofimplicitbiasinadversariallyrobust
-generalization,submitted, ,preprintarxiv:2406.04981
+NYU CDS graduate program
+◦: Fall, Co-teaching MSDS Capstone course
+NYU CDS graduate program
+◦: Co-teachingthecoursein Quantum Computation, Paris-Mastersprogram, Fall2010,
+Paris, France
+◦: Spring, Teaching the Graduate Course Quantum Computing”
+Tel Aviv University
+◦: Fall, Teaching the required Undergraduate Course Computational Models”
+Tel Aviv University
+◦: Spring, Teaching the Undergraduate Course Fundamental Ideasin Computer Science”
+Tel Aviv University
+◦: Spring, Teaching the Graduate Seminar Milestones in Theoretical Computer Science”
+Tel Aviv University
+◦: Fall, Teaching the Graduate Course Quantum Computing”
+Tel Aviv University
+◦: Spring, Teaching the Graduate Course Quantum Computing”
+Tel Aviv University
+◦: Spring, Teaching the Graduate Seminar Computational Lensinthe Sciences”
+Tel Aviv University
+◦: Spring, Teaching the Graduate Course Quantum Computing”
+Tel Aviv University
+◦: Co-teachingandco-organisingthecoursein Quantum Computation,
+Paris-Mastersprogram, Fall2005, Paris, France
+◦: Co-teachingthecoursein Quantum Computation, Paris-Mastersprogram, Fall2004,
+Paris, France
+◦: Lecturer, Summer 2003 University of California Berkeley
+CS 61 B Data Structures, Algorithms and Introduction to Java”
+◦: Co-teachingthecoursein Quantum Computation, Masters program Spring 2003
+Ecole Normale Superieure, Paris, France
+◦: Head Teaching Assistant, Math 16 B Calculus UCBerkeley
+◦: Teaching Assistant, Math 16 A Calculus UCBerkeley
+DISSEMINATION:
+Patent:
+◦ “Universal Quantum Computation with the Exchange Interaction” (with D. Bacon, D. Lidar, K. B.
+Whaley), USPatent Number7,184,555;27. February 2007
+Preprints:
+◦ N. Tsilivis, N. Frank, N. Srebro, and J. Kempe, The Priceof Implicit Biasin Adversarial ly Robust
+Generalization, submitted,, preprintar Xiv:2406.04981
 8
-◦ y. feng, e. dohmatob, p. yang, f. charton and j. kempe, beyond model collapse: scaling up
-withsynthesizeddatarequiresreinforcement,submitted, ,preprintarxiv:2406.07515
-◦ j.su,j.kempe∗,k.ullrich∗,missionimpossible: astatisticalperspectiveonjailbreakingllms,
-submitted2024,preprintarxiv:2408.01420
-◦ v. cabannes, c. arnal, w. bouaziz, a. yang, f. charton, j. kempe, “iteration head: a mecha-
-nisticstudyofchain-of-thought”,submitted, ,preprintarxiv:2406.02128
-◦ a.vysogorets,k.ahuja,j.kempe,“robustdatapruning: uncoveringandovercomingclassifi-
-cationbias”,submitted,preprintarxiv:2404.05579
-◦ edohmatob,yfengandjkempe,modelcollapsedemystified: thecaseofregression,submit-
-ted, ,preprintarxiv:2402.07712
-◦ n. tsilivis, j. su and j. kempe: “can we achieve robustness from data alone?”, submitted, ,
-preprintarxiv:2207.11727
-◦ dbhardwaj,jkempe,amvysogorets,ateng,eezekwem“impresslearn: continuallearning
-viacombinedtaskimpressions”,submitted,preprintarxiv:2210.01987
-publicationsinreversechronologicalorder(conferences,journalsandbookchapters)1:
-note: myworkindatascienceinindustry( - )ledtointernalpublicationsonly.
-83. y.feng,t.g.j.rudner,n.tsilivisandj.kempe,“attackingbayes: ontheadversarialrobust-
-ness of bayesian neural networks”, transactions on machine learning research, issn 2835-
-8856,awardedthereproducibilitycertification,
-82. j.su,j.kempe∗,k.ullrich∗,missionimpossible: astatisticalperspectiveonjailbreakingllms,
-icmlworkshopontheoreticalfoundationsoffoundationmodels(tf2m),
-81. y. feng, e. dohmatob, p. yang, f. charton and j. kempe, beyond model collapse: scaling up
-with synthesized data requires reinforcement, icml workshop on theoretical foundations of
-foundationmodels(tf2m),
-80. v. cabannes, c. arnal, w. bouaziz, a. yang, f. charton, j. kempe, “iteration head: a mecha-
-nisticstudyofchain-of-thought”,icmlmechanisticinterpretabilityworkshop,
-79. e dohmatob, y feng, p yang, f charton and j kempe, a tale of tails: model collapse as a
-changeofscalinglaws,icml, ,preprintarxiv:2402.07043
-78. a. vysogorets, a. dawid and j. kempe, deconstructing the goldilocks zone of neural network
-initialization,icml, ,preprintarxiv:2402.03579
-77. a. vysogorets, j. kempe, “towards robust data pruning”, iclr workshop on datacentric ma-
-chinelearningresearch(dmlr)( )
-1noteforpublicationsintheoreticalcomputerscience:manypapersarefirstpublishedinconferenceproceedings(conference
-acceptanceispeerreviewedandverycompetitive). later,journalversions,rewrittenandoftensubstantiallyexpanded,containing
-additionalresults,aresubmittedtopeerreviewedjournals.tcspaperauthorsappearalphabetically,whereasphysicsandmachine
-learningpublicationshaveanorderingreflectingcontribution,withtheseniorauthorgenerallylast.
+◦ Y. Feng, E. Dohmatob, P. Yang, F. Charton and J. Kempe, Beyond Model Collapse: Scaling Up
+with Synthesized Data Requires Reinforcement, submitted,, preprintar Xiv:2406.07515
+◦ J. Su, J. Kempe∗, K. Ullrich∗, Mission Impossible: A Statistical Perspective on Jail breaking LLMs,
+submitted 2024 preprintar Xiv:2408.01420
+◦ V. Cabannes, C. Arnal, W. Bouaziz, A. Yang, F. Charton, J. Kempe, “Iteration Head: A Mecha-
+nistic Studyof Chain-of-Thought”, submitted,, preprintar Xiv:2406.02128
+◦ A. Vyso gore ts K. Ahuja, J. Kempe Robust Data Pruning: Uncovering and Overcoming Classifi-
+cation Bias”, submitted, preprintar Xiv:2404.05579
+◦ EDohmatob, YFengand JKempe, Model Collapse De mystified The Caseof Regression, submit-
+ted,, preprintar Xiv:2402.07712
+◦ N. Tsilivis, J. Su and J. Kempe: “Can we achieve robustness from data alone?”, submitted, ,
+preprintar Xiv:2207.11727
+◦ DBhardwaj, JKempe, AM Vyso gore ts ATeng, EEz ek wem Impress Learn: Continual Learning
+via Combined Task Impressions”, submitted, preprintar Xiv:2210.01987
+Publications in reverse chronological order conferences journals and book chapters 1
+Note: Myworkindatascienceinindustry(-)ledtointernalpublicationsonly.
+83. Y. Feng, T. G. J. Rudner, N. Tsi liv is and J. Kempe Attacking Bayes: Onthe Adversarial Robust-
+ness of Bayesian Neural Networks”, Transactions on Machine Learning Research, ISSN 2835-
+8856, awardedthe Reproducibility Certification,
+82. J. Su, J. Kempe∗, K. Ullrich∗, Mission Impossible: A Statistical Perspective on Jail breaking LLMs,
+IC ML Workshop on Theoretical Foundations of Foundation Models T F 2 M
+81. Y. Feng, E. Dohmatob, P. Yang, F. Charton and J. Kempe, Beyond Model Collapse: Scaling Up
+with Synthesized Data Requires Reinforcement, ICML Workshop on Theoretical Foundations of
+Foundation Models T F 2 M
+80. V. Cabannes, C. Arnal, W. Bouaziz, A. Yang, F. Charton, J. Kempe, “Iteration Head: A Mecha-
+nistic Studyof Chain-of-Thought”, IC ML Mechanistic Interpret ability Workshop,
+79. E Dohmatob, Y Feng, P Yang, F Charton and J Kempe, A Tale of Tails: Model Collapse as a
+Changeof Scaling Laws, ICML,, preprintar Xiv:2402.07043
+78. A. Vyso gore ts A. Dawid and J. Kempe, De constructing the Goldilocks Zone of Neural Network
+Initialization, ICML,, preprintar Xiv:2402.03579
+77. A. Vyso gore ts J. Kempe, “Towards Robust Data Pruning”, ICLR Workshop on Data centric Ma-
+chine Learning Research DML R
+1 Note for publications in Theoretical Computer Science Many papers are first published in conference proceedings conference
+acceptanceispeerreviewedandverycompetitive). Later, journal versions rewritten and often substantially expanded containing
+additional results aresubmittedtopeerreviewedjournals. TC S paper authors appear alphabetically whereas Physicsand Machine
+Learning publications have an ordering reflecting contribution withtheseniorauthorgenerallylast.
 9
-76. e.dohmatob,y.fengandj.kempe,“towardsatheoreticalunderstandingofmodelcollapse”,
-iclr workshop on bridging the gap between practice and theory in deep learning (bgpt)
-( )
-75. n. tsilivis, n. frankand j kempe, “the best algorithmfor adversarial training”, iclr work-
-shoponbridgingthegapbetweenpracticeandtheoryindeeplearning(bgpt)( )
-74. e dohmatob, y feng, p yang, f charton and j kempe, “a tale of tails: model collapse as
-a change of scaling laws”, iclr workshop on navigating and addressing data problems for
-foundationmodels(dpfm)( )
-73. y.feng,r.vedantam,j.kempe,“embarrassinglysimpledatasetdistillation”,iclr( )and
-neuripsworkshoponadvancingneuralnetworktraining,
-72. t.rudner,y.zhang,a.wilsonandj.kempe,“mindthegap:improvingrobustnesstosubpop-
-ulationshiftswithgroup-awarepriors”,aistatsnotablepaper,oral( )
-71. f. cagnetta, d. oliveira, m. sabanayagam, n. tsilivis, j. kempe, “kernels, data & physics”, to
-appearinj.stat. mech. lecturenotes,
-70. h. guan, x. zhao, z. wang, z. li, j. kempe, “galaxy dataset distillation by self-adaptive tra-
-jectorymatching”,neuripsworkshoponmachinelearningandthephysicalsciences( )
-69. j. su, y. zhang., n. tsilivis, j. kempe, “on the robustness of neural collapse and the neural
-collapse of robustness”, transactions on machine learning research (tmlr’24) and neurips
-workshoponunifyingrepresentationsinneuralmodels,
-68. y. feng, t. g. j. rudner, n. tsilivis and j. kempe, “attacking bayes: are bayesian neural net-
-works inherently robust?”, 5th symposium on advances in approximate bayesian inference,
-67. a.vysogoretsandj.kempe: “connectivitymatters: neuralnetworkpruningthroughthelensofef-
-fectivesparsity”,journalofmachinelearningresearch(jmlr) ,preprintarxiv:2107.02306
-66. j.suandj.kempe: “waveletsbeatmonkeysatadversarialrobustness”,neuripsworkshopon
-machinelearningandthephysicalsciences( )
-65. j. su, j. kempe. d. fielding, n. tsilivis, m. cranmer, s. ho “adversarial noise injection for
-learned turbulence simulations”, neurips workshop on machine learning and the physical sci-
-ences( )
-64. n.tsilivisandj.kempe: “whatcantheneuraltangentkerneltellusaboutadversarialrobust-
-ness?”neurips( )
-63. n.tsilivis,j.su,andj.kempe: “canweachieverobustnessfromdataalone”,icmlworkshop
-onnewfrontiersinadversarialmachinelearning( )
-62. s. gharibian and j. kempe: “hardness of approximation for quantum problems”, icalp (1), p.
-),alsoacceptedasshortcontributedtalktoqip’12
-61. r. kasher and j. kempe:“two-source extractors secure against quantum adversaries”, theory
-ofcomputing,vol. 8,p. )(journalversionof56.)
+76. E. Dohmatob, Y. Fengand J. Kempe Towards a Theoretical Understanding of Model Collapse”,
+ICLR Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BGPT)
+()
+75. N. Tsilivis, N. Frankand J Kempe, “The Best Algorithm for Adversarial Training”, ICLR Work-
+shopon Bridging the Gap Between Practice and Theoryin Deep Learning BGP T
+74. E Dohmatob, Y Feng, P Yang, F Charton and J Kempe, “A Tale of Tails: Model Collapse as
+a Change of Scaling Laws”, ICLR Workshop on Navigating and Addressing Data Problems for
+Foundation Models DP FM
+73. Y. Feng, R. Vedantam, J. Kempe Embarrassingly Simple Dataset Distillation”, ICLR()and
+Neur IPS workshop on Advancing Neural Network Training,
+72. T. Rudner, Y. Zhang, A. Wilsonand J. Kempe Mind the GAP Improving Robustness to Subpop-
+ulation Shiftswith Group-Aware Priors”, A IS TATS Notable Paper, Oral()
+71. F. Cagnetta, D. Oliveira, M. Sabana ya gam N. Tsilivis, J. Kempe, “Kernels, Data & Physics”, to
+appearin J. Stat. Mech. Lecture Notes,
+70. H. Guan, X. Zhao, Z. Wang, Z. Li, J. Kempe, “Galaxy Dataset Distillation by Self-Adaptive Tra-
+jectory Matching”, Neur IPS workshop on Machine Learning and the Physical Sciences()
+69. J. Su, Y. Zhang., N. Tsilivis, J. Kempe, “On the Robustness of Neural Collapse and the Neural
+Collapse of Robustness”, Transactions on Machine Learning Research (TMLR’24) and Neurips
+Workshopon Unifying Representations in Neural Models,
+68. Y. Feng, T. G. J. Rudner, N. Tsilivis and J. Kempe, “Attacking Bayes: Are Bayesian Neural Net-
+works Inherently Robust?”, 5th Symposium on Advances in Approximate Bayesian Inference,
+67. A. Vyso gore ts and J. Kempe: Connectivity matters Neuralnetworkpruningthroughthelensofef-
+fec ti ve sparsity Journalof Machine Learning Research J ML R preprintar Xiv:2107.02306
+66. J. Suand J. Kempe: Wavelets beat Monkeysat Adversarial Robustness”, Neur IPS workshop on
+Machine Learning and the Physical Sciences()
+65. J. Su, J. Kempe. D. Fielding, N. Tsilivis, M. Cranmer, S. Ho “Adversarial Noise Injection for
+Learned Turbulence Simulations”, Neur IPS workshop on Machine Learning and the Physical Sci-
+ences()
+64. N. Tsi liv is and J. Kempe: “What Can The Neural Tangent Kernel Tell Us About Adversarial Robust-
+ness?”Neur IPS()
+63. N. Tsilivis, J. Su, and J. Kempe: “Can We Achieve Robustness from Data Alone”, IC ML workshop
+on New Frontiers in Adversarial Machine Learning()
+62. S. Gharibian and J. Kempe: “Hardness of approximation for quantum problems”, ICALP (1), p.
+), also accepted as short contributed talk to QIP’12
+61. R. Kasher and J. Kempe:“Two-source Extractors Secure Against Quantum Adversaries”, Theory
+of Computing, Vol. 8, p. )(journalversionof56.)
 10
-60. s. gharibian and j. kempe: “approximation algorithms for qma-complete problems”, siam j
-comp,vol. 41,no. 4,p. )(journalversionof59.)
-59. s. gharibian and j. kempe: “approximation algorithms for qma-complete problems”, ccc’11
-( ),p. ),alsowonbestposterawardatqip’11
-58. a. ambainis, j. kempe and o. sattath:“a quantum lovasz local lemma”, jacm, vol. 59(5),
-art. no. 24( )(journalversionof54.)
-57. j. kempe and t. vidick:“parallel repetition of entangled games”, stoc’11, p. ),
-alsofeaturedtalkatqip’11( )
-56. r.kasherandj.kempe:“two-sourceextractorssecureagainstquantumadversaries”,approx-
-random’10,p. )
-55. j. kempe, o. regev and b. toner:“unique games with entangled provers are easy”, siam j.
-comp.,vol. 39(17)p. )(journalversionof44.)
-54. a.ambainis,j.kempeando.sattath:“aquantumlovaszlocallemma”,proc. 42ndstoc’10,
-p. ),invitedtalkatqip’10.
-53. j.kempeando.regev:“nostrongparallelrepetitionwithentangledandnon-signalingprovers”,
-proc. 25thccc’10,p. 7-15( ),acceptedascontributedshorttalktoqip’10.
-52. j. kempe, h. kobayashi, k. matsumoto, b. toner and t. vidick:“entangled games are hard to
-approximate”, siam j. comp., vol. 40(3), p. ), invited to special issue dedicated to
-selectedfocs’08papers(journalversionof43.)
-51. j.kempe,o.regev,f.unger,r.dewolf:“upperboundsonthenoisethresholdforfault-tolerant
-quantumcomputing”,qic,vol. 10(5-6),p. 361–3176( )(journalversionof46.)
-50. j.kempe,h.kobayashi,k.matsumoto,t.vidick:“usingentanglementinquantummulti-prover
-interactive proofs”, computational complexity, vol. 18(2), p. ) (journal version of
+60. S. Gharibian and J. Kempe: “Approximation Algorithms for QMA-complete problems”, SIAM J
+COMP, Vol. 41, No. 4, p. )(journalversionof59.)
+59. S. Gharibian and J. Kempe: “Approximation Algorithms for QMA-complete problems”, CCC’11
+(), p. ), also won best poster award at QIP’11
+58. A. Ambainis, J. Kempe and O. Sattath:“A Quantum Lovasz Local Lemma”, JACM, Vol. 59(5),
+Art. No. 24()(journalversionof54.)
+57. J. Kempe and T. Vi dick Parallel Repetition of Entangled Games”, STOC’11, p. ),
+also featured talk at QIP’11()
+56. R. Kasherand J. Kempe:“Two-source Extractors Secure Against Quantum Adversaries”, APPROX-
+RANDOM’10, p. )
+55. J. Kempe, O. Regev and B. Toner Unique Games with Entangled Provers are Easy”, SIAM J.
+Comp., Vol. 39(17)p. )(journalversionof44.)
+54. A. Ambainis, J. Kempeand O. S atta th A Quantum Lovasz Local Lemma”, Proc. 42nd STOC’10,
+p. ), invited talk at QIP’10.
+53. J. Kempeand O. Regev:“No Strong Parallel Repetition with Entangled and Non-signaling Provers”,
+Proc. 25th CCC’10, p. 7-15(), accepted as contributed short talk to QIP’10.
+52. J. Kempe, H. Kobayashi, K. Matsumoto, B. Toner and T. Vi dick Entangled games are hard to
+approximate”, SIAM J. Comp., Vol. 40(3), p. ), invited to special issue dedicated to
+selected FOCS’08papers(journalversionof43.)
+51. J. Kempe, O. Regev, F. Unger, R. de Wolf Upper Bounds on the Noise Threshold for Fault-tolerant
+Quantum Computing”, QIC, Vol. 10(5-6), p. 361–3176()(journalversionof46.)
+50. J. Kempe, H. Kobayashi, K. Matsumoto, T. Vi dick Using Entanglement in Quantum Multi-Prover
+Interactive Proofs”, Computational Complexity, Vol. 18(2), p. ) (journal version of
 45.)
-49. d.aharonov,d.gottesman,s.iraniandj.kempe:“thepowerofquantumsystemsontheline”,
-comm. math. phys.,vol. 287(1),p. )(journalversionof42.)
-48. d.aharonov,w.vandam,j.kempe,z.landau,s.lloyd,o.regev,”adiabaticquantumcom-
-putationisequivalenttostandardquantumcomputation”,siamreview,issue50-4,p. 755–787,
-december2008(firstjournalversionin34).
-47. d. gavinsky, j. kempe, i. kerenidis, r. raz and r. de wolf:“exponential separations for one-
-wayquantumcommunicationcomplexity,withapplicationstocryptography”,sicomp,vol. 38(5),
+49. D. Aharonov, D. Gottesman, S. Iraniand J. Kempe The power of quantum systems on the line
+Comm. Math. Phys., Vol. 287(1), p. )(journalversionof42.)
+48. D. Aharonov, W. van Dam, J. Kempe, Z. Landau, S. Lloyd, O. Re gev Adiabatic Quantum Com-
+putationis Equivalent to Standard Quantum Computation”, SIAM Review issue50-4, p. 755–787,
+December2008(firstjournalversionin34).
+47. D. Gavinsky, J. Kempe, I. Kerenidis, R. Raz and R. de Wolf Exponential separations for one-
+way quantum communication complexity with applications to cryptography SICOMP, Vol. 38(5),
 p. )(journalversionof40.)
-46. j.kempe,o.regev,f.unger,r.dewolf:“upperboundsonthenoisethresholdforfault-tolerant
-quantumcomputing”,proc. 35thicalp,p. 845–856( ),invitedtalkatqip’08
-45. j.kempe,h.kobayashi,k.matsumoto,t.vidick:“usingentanglementinquantummulti-prover
-interactive proofs”, proc. 23rd ccc’08 (complexity), p. ), invited to special issue
-of computational complexity dedicated to selected ccc’08 papers, also accepted as contributed
-longtalktoqip’08
+46. J. Kempe, O. Regev, F. Unger, R. de Wolf Upper Bounds on the Noise Threshold for Fault-tolerant
+Quantum Computing”, Proc. 35th ICALP, p. 845–856(), invited talk at QIP’08
+45. J. Kempe, H. Kobayashi, K. Matsumoto, T. Vi dick Using Entanglement in Quantum Multi-Prover
+Interactive Proofs”, Proc. 23rd CCC’08 (Complexity), p. ), invited to special issue
+of Computational Complexity dedicated to selected CCC’08 papers, also accepted as contributed
+longtalkto QIP’08
 11
-44. j. kempe, o. regev and b. toner:“unique games with entangled provers are easy”, proc. 49th
-focs’08,p. ),acceptedascontributedlongtalktoqip’08
-43. j. kempe, h. kobayashi, k. matsumoto, b. toner and t. vidick:“entangled games are hard
-to approximate”, proc. 49th focs’08, p. ), invited to special issue of sicomp
-dedicated to selected focs’08 papers, also accepted as contributed short talk to qip’08, subsumes
-j. kempe and t. vidick:“on the power of entangled quantum provers”, technical report quant-
+44. J. Kempe, O. Regev and B. Toner Unique Games with Entangled Provers are Easy”, Proc. 49th
+FOCS’08, p. ), accepted as contributed long talk to QIP’08
+43. J. Kempe, H. Kobayashi, K. Matsumoto, B. Toner and T. Vi dick Entangled games are hard
+to approximate”, Proc. 49th FOCS’08, p. ), invited to special issue of SICOMP
+dedicated to selected FOCS’08 papers, also accepted as contributed short talk to QIP’08, subsumes
+J. Kempe and T. Vidick:“On the power of entangled quantum provers”, Technical Report quant-
 ph/ ).
-42. d.aharonov,d.gottesman,s.iraniandj.kempe:“thepowerofquantumsystemsontheline”,
-proc. 48th focs, p. ), subsumes previous version by d. aharonov, d. gottesman
-andj.kempewithsametitle,whichwasacceptedascontributedlongtalktoqip’07.
-41. j. kempe and t. vidick:“quantum algorithms”, book chapter in “quantum information, compu-
-tation and cryptography”, springer lecture notes in physics series volume 808/ , p. 309-342
-( )
-40. d. gavinsky, j. kempe, i. kerenidis, r. raz and r. de wolf:“exponential separations for one-
-way quantum communication complexity, with applications to cryptography”, proc. 39th stoc,
-p. ), also accepted as contributed long talk at qip’07, supersedes d. gavinsky, j.
-kempe,andr.dewolf: ”exponentialseparationofquantumandclassicalone-waycommunica-
-tioncomplexityforabooleanfunction”,technicalreportsquant-ph/0607174andeccctr06-086
-( )
-39. j. kempe, l. pyber, and a. shalev: “permutation groups, minimal degrees and quantum comput-
-ing”,groups,geometry,anddynamics,vol. 1(4),p. )
-38. d. gavinsky, j. kempe, o. regev, and r. de wolf: ”bounded-error quantum state identification
-and exponential separations in communication complexity”, siam journal of computing, vol.
-39(1),p.1-24( )(journalversionof32.)
-37. d.gavinsky,j.kempe,andr.dewolf: ”strengthsandweaknessesofquantumfingerprinting”,
-proc. of21stccc,p. )
-36. j. kempe: ”approaches to quantum error correction”, book chapter in quantum decoherence,
-poincare´ seminar2005, b.duplantier, j.-m.raimondandv.rivasseaueditors, progressinmathe-
-maticalphysicsseries,birha¨user,p. 85–123,
-35. j. kempe: ”quantum algorithms”, book chapter in lecture notes on quantum information, d.
-brussandg.leuchs,editors,physicstextbook,whiley-vch,p. 87–102( )
-34. d. aharonov, w. van dam, j. kempe, z. landau, s. lloyd, o. regev: “adiabatic quantum
-computationisequivalenttostandardquantumcomputation”,siamjournalofcomputing,vol.
-37,issue1,p. ),alsoselectedforthesigestsectionofsicomp,siamreview(see
+42. D. Aharonov, D. Gottesman, S. Iraniand J. Kempe The power of quantum systems on the line
+Proc. 48th FOCS, p. ), subsumes previous version by D. Aharonov, D. Gottesman
+and J. Kempe with same title which was accepted as contributed long talk to QIP’07.
+41. J. Kempe and T. Vi dick Quantum Algorithms”, book chapter in “Quantum Information, Compu-
+tation and Cryptography”, Springer Lecture Notes in Physics series Volume 808/, p. 309-342
+()
+40. D. Gavinsky, J. Kempe, I. Kerenidis, R. Raz and R. de Wolf Exponential separations for one-
+way quantum communication complexity, with applications to cryptography”, Proc. 39th STOC,
+p. ), also accepted as contributed long talk at QIP’07, supersedes D. Gavinsky, J.
+Kempe, and R. de Wolf: ”Exponential Separation of Quantumand Classical One-Way Communica-
+tion Complexity for a Boolean Function”, Technical Reportsquant-ph/0607174and ECCCTR06-086
+()
+39. J. Kempe, L. Pyber, and A. Shalev: “Permutation groups, minimal degrees and quantum comput-
+ing”, Groups, Geometry, and Dynamics, Vol. 1(4), p. )
+38. D. Gavinsky, J. Kempe, O. Regev, and R. de Wolf: ”Bounded-Error Quantum State Identification
+and Exponential Separations in Communication Complexity”, SIAM Journal of Computing, Vol.
+39(1), p.1-24()(journalversionof32.)
+37. D. Gavinsky, J. Kempe, and R. de Wolf: Strengths and Weaknesses of Quantum Fingerprinting”,
+Proc. of21st CCC, p. )
+36. J. Kempe: ”Approaches to Quantum Error Correction”, book chapter in Quantum De coherence
+Poincare´ Seminar 2005 B. Dupl an tier J.-M. Raimondand V. Rivasseau Editors, Progressin Mathe-
+matical Physics series Bir ha user p. 85–123,
+35. J. Kempe: ”Quantum Algorithms”, book chapter in Lecture Notes on Quantum Information, D.
+Brussand G. Leuchs, Editors, Physics Textbook, Whiley-VCH, p. 87–102()
+34. D. Aharonov, W. van Dam, J. Kempe, Z. Landau, S. Lloyd, O. Regev: “Adiabatic Quantum
+Computation is Equivalent to Standard Quantum Computation”, SIAM Journal of Computing, Vol.
+37, Issue1, p. ), also selected for the SIG EST section of SICOMP, SIAM Review see
 48.) (journalversionof22.)
-33. j. kempe, f. magniez, s. laplante:, ”comment calculer quantique”, la recherche, vol. 398
-(june),p. )
+33. J. Kempe, F. Magniez, S. Laplante:, ”Comment calculer qu antique La Recherche, Vol. 398
+(June), p. )
 12
-32. d. gavinsky, j. kempe, o. regev, and r. de wolf: ”bounded-error quantum state identification
-andexponentialseparationsincommunicationcomplexity”,proc. 38thstoc,p. ),
-invited to special issue of sicomp dedicated to selected stoc’06 papers, also accepted as long
-contributedtalkatqip’06
-31. j. kempe, a. kitaev and o. regev: ”the complexity of the local hamiltonian problem”, siam
-journalofcomputing,vol. 35(5),p. )(journalversionof24.)
-30. j.fern,j.kempe,s.simic,s.shastry: “fault-tolerantquantumcomputation-adynamicalsystems
-approach”,ieeetransactionsonautomatedcontrol,vol. 51(3),p. )
-29. p. zoller et al.: (39 authors) ”quantum information processing and communication”, eur. phys.
-jour. d,vol. 36,p. )
-28. j. kempe: ”discrete quantum walks hit exponentially faster”, probability theory and related
-fields,vol. 133(2),p. )(journalversionof18.)
-27. m. storcz, f.k. wilhelm, k. brown, j. kempe, j. vala, k.b. whaley: “full protection of super-
-conductingqubitsystemsfromcouplingerrors”,phys. rev. b,vol. 72,064511-1–5( )
-26. a.ambainis,j.kempe,a.rivosh: “coinsmakequantumwalksfaster”,proc. 16thacm-siam
-soda,p. 1099-1108,( )
-25. j. kempe and a. shalev: “the hidden subgroup problem and permutation group theory”, proc.
-16thacm-siamsoda,p. 1118-1125,( )
-24. j. kempe, a. kitaev and o. regev: ”the complexity of the local hamiltonian problem”, proc.
-24thfound. softwaretech. andtheoreticalcomputerscience(fsttcs),p. )
-23. j. von korff and j. kempe: ”quantum advantage in transmitting a permutation”, phys. rev.
-lett.,vol. 93(26), ),oldtitle“quantumcolorcodingisbetter”
-22. d. aharonov, w. van dam, j. kempe, z. landau, s. lloyd, o. regev: “adiabatic quantum
-computationisequivalenttostandardquantumcomputation”,proc. 45thfocs,p. ),
-invitedtospecialissueofsicompdedicatedtoselectedfocs’04papers
-21. m.hsieh, j.kempe, s.myrgren, k.b.whaley: ”anexplicituniversalgate-setforexchange-only
-quantumcomputation”,quantuminformationprocessing,vol. 2(4),p. )
-20. j. kempe: “quantum random walks - an introductory overview”, contemporary physics, vol.
-44(4),p. )
-19. j. kempe and o. regev: “3-local hamiltonian is qma-complete”, quantum information and
-computation,vol. 3(3),p. )
-18. j. kempe: ”discrete quantum walks hit exponentially faster”, proceedings of random’03, p.
+32. D. Gavinsky, J. Kempe, O. Regev, and R. de Wolf: ”Bounded-Error Quantum State Identification
+and Exponential Separations in Communication Complexity”, Proc. 38th STOC, p. ),
+invited to special issue of SICOMP dedicated to selected STOC’06 papers, also accepted as long
+contributed talk at QIP’06
+31. J. Kempe, A. Kitaev and O. Regev: ”The Complexity of the Local Hamiltonian Problem”, SIAM
+Journalof Computing, Vol. 35(5), p. )(journalversionof24.)
+30. J. Fern, J. Kempe, S. Simic, S. Shastry: “Fault-tolerantquantumcomputation-adynamicalsystems
+approach”, IEEE Transactions on Automated Control, Vol. 51(3), p. )
+29. P. Zoller et al.: (39 authors) ”Quantum information processing and communication”, Eur. Phys.
+Jour. D, Vol. 36, p. )
+28. J. Kempe: ”Discrete Quantum Walks Hit Exponentially Faster”, Probability Theory and Related
+Fields, Vol. 133(2), p. )(journalversionof18.)
+27. M. Storcz, F. K. Wilhelm, K. Brown, J. Kempe, J. Vala, K. B. Whaley: “Full protection of super-
+conducting qu bit systems from coupling errors Phys. Rev. B, Vol. 72,064511-1–5()
+26. A. Ambainis, J. Kempe, A. Rivosh: “Coins Make Quantum Walks Faster”, Proc. 16th ACM-SIAM
+SODA, p. 1099-1108,()
+25. J. Kempe and A. Shalev: “The hidden subgroup problem and permutation group theory”, Proc.
+16th ACM-SIAMSODA, p. 1118-1125,()
+24. J. Kempe, A. Kitaev and O. Regev: ”The Complexity of the Local Hamiltonian Problem”, Proc.
+24th Found. Software Tech. and Theoretical Computer Science FS TTC S p. )
+23. J. von Korff and J. Kempe: ”Quantum Advantage in Transmitting a Permutation”, Phys. Rev.
+Lett., Vol. 93(26), ), old title Quantum Color Codingis Better”
+22. D. Aharonov, W. van Dam, J. Kempe, Z. Landau, S. Lloyd, O. Regev: “Adiabatic Quantum
+Computation is Equivalent to Standard Quantum Computation”, Proc. 45th FOCS, p. ),
+invited to special issue of SI COMP dedicated to selected FOC S 04 papers
+21. M. Hsieh, J. Kempe, S. Myrgren, K. B. Whaley: ”Anexplicituniversalgate-setforexchange-only
+quantum computation Quantum Information Processing, Vol. 2(4), p. )
+20. J. Kempe: “Quantum random walks - an introductory overview”, Contemporary Physics, Vol.
+44(4), p. )
+19. J. Kempe and O. Regev: “3-local Hamiltonian is QMA-complete”, Quantum Information and
+Computation, Vol. 3(3), p. )
+18. J. Kempe: ”Discrete Quantum Walks Hit Exponentially Faster”, Proceedings of RANDOM’03, p.
 )
-17. n.shenvi, j.kempe, k.b.whaley: “aquantumrandomwalksearchalgorithm”, phys. rev. a,
-vol. 67(5),052307-1–11( )
+17. N. Shenvi, J. Kempe, K. B. Whaley: “AQuantum Random Walk Search Algorithm”, Phys. Rev. A,
+Vol. 67(5),052307-1–11()
 13
-16. j. kempe and k.b. whaley: ”exact gate-sequences for universal quantum computation using the
-xy-interactionalone”,phys. rev. a,vol. 65(5),052330-1–6( )
-15. c. simon and j.kempe: ”robustness of multiparty entanglement”, phys. rev. a, vol. 65 (5),
-052327-1–4( )
-14. j.kempe,d.bacon,d.p.divincenzo,k.b.whaley: ”encodeduniversalityfromasinglephysical
-interaction”,inspecialissueofquantuminformationandcomputation,editedbyr.clarketal.
-(rintonpress,newjersey),p. )
-13. d.bacon,j.kempe,d.p.divincenzo,d.lidar,k.b.whaley: “encodeduniversalityinphysical
-implementationsofaquantumcomputer”,proc. oftheinternationalconferenceonexperimen-
-talimplementationofquantumcomputation(iqc01),sydney,australia,p.257( )
-12. m. nielsen and j. kempe: “separable states are more mixed locally than globally”, phys. rev.
-lett.,vol. 86, )
-11. d.aharonov,a.ambainis,j.kempe,u.vazirani: “quantumwalksongraphs”,proceedingsof
-33rdacmsymposiumontheoryofcomputation(stoc),p. )
-10. d.bacon,a.childs,i.chuang,d.leung,j.kempe,x.zhou: “universalsimulationofmarko-
-vianquantumdynamics”,phys. rev. a,vol. 64, )
-9. d. lidar, d. bacon, j. kempe, k.b. whaley: “decoherence free subspaces for multiple-qubit
-errors: (ii) universal, fault-tolerant quantum computation”, phys. rev. a, vol. 63 (2), 022307-
-1–18( )
-8. d.lidar,d.bacon,j.kempe,andk.b.whaley: ”decoherencefreesubspacesformultiplequbit
-errors: (i)characterization”,phys. rev. a,vol. 63(2),022306-1–13( )
-7. j.kempe,d.bacon,d.lidar,k.b.whaley: “theoryofdecoherence-freefault-tolerantuniver-
-salquantumcomputation”,phys. rev. a,vol. 63(4),042307-1–29( )
-6. d.p. divincenzo, d. bacon, j. kempe, g. burkard, k.b. whaley: “universal quantum compu-
-tationwiththeexchangeinteraction”,naturevol. 408,p. )
-5. j. kempe, ch. simon, g. weihs: “lambda’s, v’s and optimal cloning with stimulated emission” ,
-phys. rev. avol. 62(3),032302-1–8( )
-4. d.bacon,j.kempe,d.lidar,k.b.whaley: ”universalfaulttolerantquantumcomputationon
-decoherence-freesubspaces”,phys. rev. lett. vol. 85(8),p. )
-3. d.lidar,d.bacon,j.kempe,k.b.whaley: ”protectingquantuminformationencodedindeco-
-herencefreestatesagainstexchangeerrors”,phys. rev. avol. 60(5),p. 52307-1–5( )
-2. j.kempe: ”multiparticleentanglementanditsapplicationstocryptography”,phys. rev. avol. 60
-(2),p. )
-1. j.kempe, a.radchik, g.b.smith: “new transform techniques applied to anomalous absorption
-inthedensechainofmetalcylinders”,proc. roy. soc. a,vol. )
-theses:
+16. J. Kempe and K. B. Whaley: ”Exact gate-sequences for universal quantum computation using the
+XY-interactionalone”, Phys. Rev. A, Vol. 65(5),052330-1–6()
+15. C. Simon and J. Kempe: ”Robustness of Multiparty Entanglement”, Phys. Rev. A, Vol. 65 (5),
+052327-1–4()
+14. J. Kempe, D. Bacon, D. P. Di Vincenzo, K. B. Whaley: ”Encoded Universality from a Single Physical
+Interaction”, in Special Issueof Quantum Information and Computation, editedby R. Clarketal.
+(Rinton Press, New Jersey), p. )
+13. D. Bacon, J. Kempe, D. P. Di Vincenzo, D. Lidar, K. B. Whaley: “Encoded Universality in Physical
+Implementations of a Quantum Computer”, Proc. ofthe International Conference on Experimen-
+tal Implementation of Quantum Computation I QC 01 Sydney, Australia, p.257()
+12. M. Nielsen and J. Kempe: “Separable States are more Mixed Locally than Globally”, Phys. Rev.
+Lett., Vol. 86, )
+11. D. Aharonov, A. Ambainis, J. Kempe, U. Vazirani: “Quantum Walkson Graphs”, Proceedings of
+33rd ACM Symposium on Theoryof Computation S TO C p. )
+10. D. Bacon, A. Childs, I. Chuang, D. Leung, J. Kempe, X. Zhou: “Universal Simulation of Marko-
+vian Quantum Dynamics”, Phys. Rev. A, Vol. 64, )
+9. D. Lidar, D. Bacon, J. Kempe, K. B. Whaley: De coherence Free Subspaces for Multiple-Qubit
+Errors: (II) Universal, Fault-Tolerant Quantum Computation”, Phys. Rev. A, Vol. 63 (2), 022307-
+1–18()
+8. D. Lidar, D. Bacon, J. Kempe, and K. B. Whaley: De coherence Free Subspace s for Multiple Qubit
+Errors: I Characterization Phys. Rev. A, Vol. 63(2),022306-1–13()
+7. J. Kempe, D. Bacon, D. Lidar, K. B. Whaley: “Theoryof Decoherence-Free Fault-Tolerant Univer-
+sal Quantum Computation”, Phys. Rev. A, Vol. 63(4),042307-1–29()
+6. D. P. Di Vincenzo, D. Bacon, J. Kempe, G. Burkard, K. B. Whaley: “Universal Quantum Compu-
+t ation with the Exchange Interaction”, NATUREVol. 408, p. )
+5. J. Kempe, Ch. Simon, G. Weihs: “Lambda’s, V’s and optimal cloning with stimulated emission” ,
+Phys. Rev. AVol. 62(3),032302-1–8()
+4. D. Bacon, J. Kempe, D. Lidar, K. B. Whaley: ”Universal Fault Tolerant Quantum Computation on
+Decoherence-Free Subspace s Phys. Rev. Lett. Vol. 85(8), p. )
+3. D. Lidar, D. Bacon, J. Kempe, K. B. Whaley: ”Protecting Quantum Information Encodedin Deco-
+herence Free States Against Exchange Errors”, Phys. Rev. AVol. 60(5), p. 52307-1–5()
+2. J. Kempe: Multi particle entanglement and its applications to cryptography Phys. Rev. AVol. 60
+(2), p. )
+1. J. Kempe, A. Radchik, G. B. Smith: “New Transform Techniques Applied to Anomalous Absorption
+inthe Dense Chainof Metal Cylinders”, Proc. Roy. Soc. A, Vol. )
+Theses:
 14
-4. j. kempe: ”quantum computation”, habilitation-thesis, computer science, university of paris-
-sud,september2010
-3. j. kempe: ”universal noiseless quantum computation: theory and applications”, phd-thesis,
-mathematics,ucberkeley,december2001
-2. j. kempe: ”calcul quantique: marches ale´atoires et etude d’enchevetrement”, the`se presente´e
-pourobtenirlegradededocteurinsciencesdel’ecolenationalesuperieuredestelecommunications
-(phdincomputerscience),april2001
-1. k. gerdes and j. kempe: “vers une de´composition e´quidimensionelle des varie´te´s alge´briques”,
-mastersthesisinalgebra,e´colepolytechnique,france( )
-selectedinvitedtalks:
-75. ihesworkshopon“mathematicsforandbyllms”,05/24
-74. deepmindseminar,london,04/24
-73. prairieworkshop,paris04/24
-72. ens-datasciencecolloquium,ensparis,10/23
-71. statisticalphysicsandmachinelearningbacktogetheragain,cargese,08/23
-70. cosmicconnections: amlxastrophysicssymposium,simonsfoundation,newyork,05/23
-69. physicsforneuralnetworks,princetoncenterfortheoreticalscience,04/23
-68. theoreticalphysicsformachinelearning,aspencenterforphysicsconference,02/23
-67. les houches summer school, lecturer in the summer school on statistical physics of machine
-learning,07/22
-66. icml’20,panelist,”quantummachinelearning”,07/20
-65. qstar’19,puertomadryn,argentina,10/19
-64. womenintheory’18,harvarduniversity,boston,06/18
-63. manipulationofsimplequantumsystems,saclay,france,06/17
-62. quantuminformationinparis,paris,france,05/11
-61. saclaytheoreticalphysicslectures,saclay,france,04-06/11
-60. weizmanninstitutefoundationsofcsseminar-walmartseriesspeaker,rehovot,israel02/11
-59. lrialgorithmsandcomplexityseminar,orsay,france,06/10
-58. ictp’10,trieste,italy,06/10
-57. qip’10,zurich,swizerland,01/10
+4. J. Kempe: ”Quantum Computation”, Habilitation-thesis, Computer Science, University of Paris-
+Sud, September 2010
+3. J. Kempe: ”Universal Noiseless Quantum Computation: Theory and Applications”, Ph D-thesis,
+Mathematics, UC Berkeley December 2001
+2. J. Kempe: ”Calcul Quantique: Marches Ale a to i res et Etude d Enc he ve tre ment the`se presente´e
+pour ob ten irl e graded ed oct eur in sciences del Ecole Nationale Superieure des Telecommunications
+(Ph Din Computer Science), April2001
+1. K. Gerdes and J. Kempe: “Vers une de composition e qui dimension elle des varie´te´s a lge b rique s
+Masters Thesisin Algebra, E´cole Polytechnique, France()
+Selected Invited Talks:
+75. I HE S workshop on Mathematics for and by LL Ms 05 24
+74. Deep Mind Seminar, London 04 24
+73. PRAIRIE workshop Paris04/24
+72. ENS-Data Science Colloquium, ENS Paris 10 23
+71. Statistical physics and machine learning back together again Car ges e 08 23
+70. Cosmic Connections: A ML X Astrophysics Symposium, Simons Foundation, New York,05/23
+69. Physicsfor Neural Networks, Princeton Centerfor Theoretical Science 04 23
+68. Theoretical Physicsfor Machine Learning, Aspen Centerfor Physics Conference 02 23
+67. Les Houches Summer School, Lecturer in the Summer School on Statistical Physics of Machine
+Learning 07 22
+66. ICML’20, Panelist Quantum Machine Learning 07 20
+65. QSTar’19, Puerto Madryn, Argentina 10 19
+64. Womenin Theory’18, Harvard University, Boston 06 18
+63. Manipulation of Simple Quantum Systems, Saclay, France 06 17
+62. Quantum Information in Paris, Paris, France 05 11
+61. Saclay Theoretical Physics Lectures, Saclay, France,04-06/11
+60. Weizmann Institute Foundations of CSSeminar-Walmart Series Speaker, Rehovot, Israel 02 11
+59. LR I Algorithms and Complexity Seminar, Orsay, France 06 10
+58. ICTP’10, Trieste, Italy 06 10
+57. QIP’10, Zurich, Swizerland 01 10
 15
-56. quantuminformationinparis,paris,france,10/09
-55. atourinquantumstatistics,orsay,france,09/09
-54. scalasummerschool,invitedlecturer,cargese,corsica08/09
-53. giambiagiwinterschool,invitedtutorialspeaker,universityofbuenosaires,argentina,08/09
-52. computersciencecolloquium,telavivuniversity,israel,06/09
-51. quantumcomputation: theoryandfeasibilityworkshopjst-cnrs,ihp,paris,france,09/08
-50. physicscolloquium,universityofbuenosaires,buenosaires,argentina,08/08
-49. mcgillworkshopinquantumcryptography-mainspeaker,barbados,03/08
-48. physicscolloquium,telavivuniversity,israel,03/08
-47. gdrinformationquantique,institutepoincare´,01/08
-46. theoryseminar,technion,israel,11/07
-45. physicsseminar,universityofvienna,austria,11/07
-44. internationalconferenceonquantuminformationprocessingandcommunication,barcelona,
+56. Quantum Information in Paris, Paris, France 10 09
+55. A tour in quantum statistics Orsay, France 09 09
+54. SCALA Summer School, invited lecturer Cargese, Corsica 08 09
+53. Giambiagi Winter School, invited tutorial speaker University of Buenos Aires, Argentina 08 09
+52. Computer Science Colloquium, Tel Aviv University, Israel 06 09
+51. Quantum Computation: Theoryand Feasibility Workshop JST-CNRS, IHP, Paris, France 09 08
+50. Physics Colloquium, University of Buenos Aires, Buenos Aires, Argentina 08 08
+49. Mc Gill Workshopin Quantum Cryptography-mainspeaker, Barbados 03 08
+48. Physics Colloquium, Tel Aviv University, Israel 03 08
+47. GDR Information Quantique, Institute Poincar e 01 08
+46. Theory Seminar, Technion, Israel 11 07
+45. Physics Seminar, University of Vienna, Austria 11 07
+44. International Conference on Quantum Information Processing and Communication, Barcelona,
 10/07
-43. dagstuhlworkshoponalgebraicmethodsincomplexity,schloßdagstuhl,germany,10/07
-42. lrialgebraandcomplexityseminar,lri,orsay,france,09/07
-41. giambiagiwinterschool,invitedtutorialspeaker,universityofbuenosaires,argentina,08/07
-40. computational complexity of quantum hamiltonian systems, workshop, leiden, netherlands,
+43. Dagstuhl Workshopon Algebraic Methodsin Complexity, Schlo Dag stu hl Germany 10 07
+42. LR I Algebra and Complexity Seminar, LRI, Orsay, France 09 07
+41. Giambiagi Winter School, invited tutorial speaker University of Buenos Aires, Argentina 08 07
+40. Computational Complexity of Quantum Hamiltonian Systems, Workshop, Leiden, Netherlands,
 07/07
-39. goldenjubileeconference,universityofwaterloo,canada,06/07
-38. mathematicalphysicsseminar,technion,israel,05/07
-37. seminaroftheperimeterinstitute,waterloo,canada,08/06
-36. physicscolloquium,universityofbuenosaires,buenosaires,argentina,08/06
-35. internationalcongressonmathematicalphysics,riodejaneiro,brasil,08/06
-34. cie’06,computabilityineurope,invitedtutorialspeaker,swansea,uk,06/06
-33. triestesummerschool,invitedtutorialspeaker,italy,06/06
-32. gordonconference,barga,italy,05/06
-31. theweizmanninstitutecscolloquium,rehovot,israel,01/06
-30. poincare”bourbaphy”seminar,poincareinstitute,paris,france,11/05
+39. Golden Jubilee Conference, University of Waterloo, Canada 06 07
+38. Mathematical Physics Seminar, Technion, Israel 05 07
+37. Seminar of the Perimeter Institute, Waterloo, Canada 08 06
+36. Physics Colloquium, University of Buenos Aires, Buenos Aires, Argentina 08 06
+35. International Congresson Mathematical Physics, Riode Janeiro, Brasil 08 06
+34. Ci E’06, Computability in Europe, invited tutorial speaker Swansea, UK,06/06
+33. Trieste Summer School, invited tutorial speaker Italy 06 06
+32. Gordon Conference, Barga, Italy 05 06
+31. The Weizmann Institute CS Colloquium Rehovot, Israel 01 06
+30. Poincar e B our bap hy Seminar Poincare Institute, Paris, France 11 05
 16
-29. ipnoseminar,orsay,france,06/05
-28. hebrewuniversitymathematicscolloquium,jerusalem,israel,12/04
-27. colloque: “informationquantique”,orsay,france,12/04
-26. quantum information theory: present status and future directions, qis-workshop, newton
-institute,cambridge,uk,08/04
-25. leidenworkshoponquantuminformationprocessing,leiden,netherlands,05/04
-24. ucdavisstatisticscolloquium,davis,05/04
-23. berkeleymathematicsdepartmentcolloquium,berkeley,04/04
-22. mitspecialeecsseminar,mit,boston,03/04
-21. seventhworkshoponquantuminformationprocessing,instituteofquantumcomputation,wa-
-terloo,canada,01/04
-20. resqworkshop,technicaluniversityofbarcelona,spain,01/04
-19. resqworkshop,max-planck-institute,munich,germany,05/03
-18. seminaroftheperimeterinstitute,waterloo,canada,04/03
-17. cambridge-mitseminar,mit,boston,04/03
-16. inhomogeneousrandomsystems2003,cergy-pontoise,france,01/03
-15. workshoponrandomgraphs&structures,isaac-newtoninstitute,cambridge,uk,09/02
-14. internationalconferenceonquantuminformation: conceptualfoundations, developmentsand
-perspectives,oviedo,spain,07/02
-13. workshopondecoherenceinquantuminformationprocessing,durham,uk,04/02
-12. rand-apx’02workshop,paris,france,04/02
-11. squintmeeting,boulder,colorado,03/02
-10. erato-seminar,tokyo,japan,12/01
-9. colloque: “informationquantique”,ihp,paris,france,11/01
-8. caltechiqi-seminar,pasadena,03/01
-7. program“quantummeasurementtheoryandquantuminformation”,erwin-schro¨dinger-institut,
-vienna,austria,12/00
-6. workshoponquantuminformation,benasque,spain,07/00
-5. think-tankoncomputerscienceaspects,torino,italy,06/00
-4. colloque: “informationquantique”,orsay,france,05/00
+29. IP NO Seminar Orsay, France 06 05
+28. Hebrew University Mathematics Colloquium, Jerusalem, Israel 12 04
+27. Colloque: “Information Qu antique Orsay, France 12 04
+26. Quantum Information Theory: Present Status and Future Directions, QIS-Workshop, Newton
+Institute, Cambridge, UK,08/04
+25. Leiden Workshopon Quantum Information Processing, Leiden, Netherlands 05 04
+24. UCDavis Statistics Colloquium, Davis 05 04
+23. Berkeley Mathematics Department Colloquium, Berkeley 04 04
+22. MITSpecial EEC S Seminar MIT, Boston 03 04
+21. Seventh Workshopon Quantum Information Processing, Institute of Quantum Computation, Wa-
+terloo, Canada 01 04
+20. RE SQ Workshop Technical University of Barcelona, Spain 01 04
+19. RE SQ Workshop Max-Planck-Institute, Munich, Germany 05 03
+18. Seminar of the Perimeter Institute, Waterloo, Canada 04 03
+17. Cambridge-MITSeminar, MIT, Boston 04 03
+16. In homogeneous Random Systems 2003 Cergy-Pontoise, France 01 03
+15. Workshopon Random Graphs Structures Isaac-Newton Institute, Cambridge, UK,09/02
+14. International Conference on Quantum Information: Conceptual Foundations, Developments and
+Perspectives, Oviedo, Spain 07 02
+13. Workshopon De coherence in Quantum Information Processing, Durham, UK,04/02
+12. RAND-APX’02Workshop, Paris, France 04 02
+11. SQUINT Meeting Boulder, Colorado 03 02
+10. ERATO-Seminar, Tokyo, Japan 12 01
+9. Colloque: “Information Qu antique IHP, Paris, France 11 01
+8. Caltech IQI-Seminar, Pasadena 03 01
+7. Program Quantum Measurement Theoryand Quantum Information”, Erwin-Schro¨dinger-Institut,
+Vienna, Austria 12 00
+6. Workshopon Quantum Information, Benasque, Spain 07 00
+5. Think-tankon Computer Science Aspects, Torino, Italy 06 00
+4. Colloque: “Information Qu antique Orsay, France 05 00
 17
-3. ams,sectionalmeeting,lowell,ma,04/00
-2. workshoponquantuminformation,technion,haifa,israel,02/00
-1. uc berkeley: quantum computation and information seminar, 12/03, 4/02, 9/01, 3/01, 11/00,
-10/00, 12/99, 10/99, 4/99, 2/99; analysis seminar, 11/02; undergraduate applied mathematics
-seminar, 11/03; mathematics graduate student seminar, 4/01, 5/99; msri-seminar, 10/02,
-03/05bioengineering143/243,4/04
-researchvisits:
-◦9/23-6/24invitedprofessor,csd,ecolenormalesuperieure,paris,france
-◦07/09-10/07,1-2/08,9-10/08,02/09,06-07/09,09-10/09,01-02/10: lri,orsay
-visitingthealgorithmsgroup
-◦09/09: erwin-schro¨dingerinstitut,vienna,austria
-program“entanglementandcorrelationsinmany-bodyquantummechanics”
-◦1-4/06: poincareinstitute,paris
-visitingresearcherinthetrimesteronquantumcomputing
-◦8/05: cwi,universityofamsterdam,thenetherlands
-collaborativevisit
-◦1-4/05: msri&icsi,berkeley
-participationinthesemesteronrandomizedalgorithmsatmsriandvisitoraticsi
-◦5/04,12/04&8-9/05: hebrewuniversityanduniversityoftelaviv,israel
-collaborativevisits
-◦3/04: iqicaltech,caltech
-visittothequantuminformationgroup
-◦5/03&8/06: perimeterinstitute,waterloo,canada
-visittothequantuminformationgroup
-◦5/03: mit,boston
-visittoquantuminformationgroups
-◦2-3/03: nationaluniversityofsingapore
-collaborationwiththequantuminformationgroup
-◦12/01: eratoproject,tokyo,japan
-◦5/01&4/02: universityofoxford,clarendonlab,uk
-collaborationwiththegroupofa.ekert
-◦12/00: erwin-schro¨dingerinstitut,vienna,austria
-program“quantummeasurementtheoryandquantuminformation”
-◦8/00: universityofqueensland,brisbane,australia
-collaborationwiththecentreforquantumcomputation
-◦3/00: universityofvienna,austria
-collaborationwiththegroupofa.zeilinger
-◦8/99: ibm-sanjose
-collaborationwiththegroupofi.chuang
-◦12/99: ibm-watsonresearchcentre,yorktown
-collaborationwiththegroupofch. bennett
-◦11/98-1/99&03/01: californiainstituteoftechnology
-collaborationwiththegroupofj.preskill
+3. AMS, Sectional Meeting, Lowell, MA,04/00
+2. Workshopon Quantum Information, Technion, Haifa, Israel 02 00
+1. UC Berkeley: Quantum Computation and Information Seminar, 12/03, 4/02, 9/01, 3/01, 11/00,
+10/00, 12/99, 10/99, 4/99, 2/99; Analysis Seminar, 11/02; Undergraduate Applied Mathematics
+Seminar, 11/03; Mathematics Graduate Student Seminar, 4/01, 5/99; MSRI-Seminar, 10/02,
+03 05 Bioengineering 143 243 4 04
+Research Visits:
+◦9/23-6/24Invited Professor, CSD, Ecole Normale Superieure, Paris, France
+◦07/09-10/07,1-2/08,9-10/08,02/09,06-07/09,09-10/09,01-02/10: LRI, Orsay
+Visiting the Algorithms group
+◦09/09: Erwin-Schro¨dinger Institut, Vienna, Austria
+Program“Entanglementandcorrelationsinmany-bodyquantummechanics”
+◦1-4/06: Poincare Institute, Paris
+Visiting Researcher in the trimester on Quantum Computing
+◦8/05: CWI, University of Amsterdam, The Netherlands
+collaborative visit
+◦1-4/05: MSRI&ICSI, Berkeley
+participation in the semester on Randomized Algorithms at M SRI and visitor at ICSI
+◦5/04,12/04&8-9/05: Hebrew University and University of Tel Aviv, Israel
+collaborative visits
+◦3/04: IQ I Caltech Caltech
+visittothe Quantum Information group
+5 03 8 06 Perimeter Institute, Waterloo, Canada
+visittothe Quantum Information group
+◦5/03: MIT, Boston
+visitto Quantum Information groups
+◦2-3/03: National University of Singapore
+Collaboration with the Quantum Information group
+◦12/01: ERA TO Project Tokyo, Japan
+5 01 4 02 University of Oxford, Clarendon Lab, UK
+Collaboration with the group of A. Ekert
+◦12/00: Erwin-Schro¨dinger Institut, Vienna, Austria
+Program Quantum Measurement Theoryand Quantum Information”
+◦8/00: University of Queensland, Brisbane, Australia
+Collaboration with the Centrefor Quantum Computation
+◦3/00: University of Vienna, Austria
+Collaboration with the group of A. Zeilinger
+◦8/99: IBM-San Jose
+Collaboration with the group of I. Chuang
+◦12/99: IBM-Watson Research Centre, Yorktown
+Collaboration with the group of Ch. Bennett
+◦11/98-1/99&03/01: California Institute of Technology
+Collaboration with the group of J. Preskill
 18
-internships:
-◦ : mckinseyconsulting,germanyandrussia
-summer-associate
-–consultinginfinance(investmentbanking)inrussia,3months
-◦ : ibm-germany,science-centre,heidelberg
-departmentforstatisticsandoptimization,summer-intern,2months
-–touroptimizationandapplications
-◦ : aeg-daimlerbenz,konstanz,germany
-development,summer-intern,2months
-–developedbar-codestandardforlettersinthesouth-pacificusingerror-correctingcodes
-languages:
-◦ russian (native), german (native), english (fluent), french (fluent), hebrew (sufficient for teaching
-undergraduatecourses),spanish(conversational)
+Internships:
+◦: Mc Kinsey Consulting, Germanyand Russia
+Summer-Associate
+Consulting in Finance Investment Banking)in Russia 3 months
+◦: IBM-Germany, Science-Centre, Heidelberg
+Department for Statistics and Optimization, Summer-Intern,2months
+Tour optimization and applications
+◦: AEG-Daimler Benz, Konstanz, Germany
+Development, Summer-Intern,2months
+–developedbar-codestandardforlettersinthe South-Pacificusingerror-correctingcodes
+Languages:
+◦ Russian (native), German (native), English (fluent), French (fluent), Hebrew (sufficient for teaching
+undergraduate courses Spanish conversational
 19

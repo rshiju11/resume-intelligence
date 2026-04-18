@@ -1,131 +1,188 @@
 """
 evaluate_clusters.py
 
-evaluates cluster quality using:
-- Noise ratio
-- Cluster size distribution
-- Intra-cluster similarity
-- Inter-cluster similarity
+This file evaluates the quality of clusters generated from resume embeddings.
+
+It computes:
+1. Internal evaluation metrics (no labels required):
+   - Silhouette Score (higher is better)
+   - Davies-Bouldin Index (lower is better)
+   - Calinski-Harabasz Score (higher is better)
+
+2. External evaluation metrics (requires true labels):
+   - Adjusted Rand Index (ARI)
+   - Normalized Mutual Information (NMI)
+
+Important Notes:
+- HDBSCAN assigns noise points as label = -1
+- These noise points are removed before evaluation
+- Evaluation is performed for multiple pipelines:
+    RAW, PCA, UMAP, PCA+UMAP
+
+Outputs:
+- Prints evaluation scores for each pipeline
+- Helps compare which pipeline produces better clustering
 """
 
 import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.metrics import davies_bouldin_score
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import normalize
-from sklearn.metrics import silhouette_score
-import umap
 import os
 
+from sklearn.metrics import (
+    silhouette_score,
+    davies_bouldin_score,
+    calinski_harabasz_score,
+    adjusted_rand_score,
+    normalized_mutual_info_score
+)
 
-# load data
+
+# -------------------------------
+# INTERNAL CLUSTER EVALUATION
+# -------------------------------
+def evaluate_internal(data, labels):
+    """
+    Evaluates clustering using internal metrics.
+
+    Parameters:
+    - data: feature matrix used for clustering
+    - labels: cluster labels from HDBSCAN
+
+    Returns:
+    - dictionary of evaluation scores
+    """
+
+    # Remove noise points (label = -1)
+    mask = labels != -1
+    data_clean = data[mask]
+    labels_clean = labels[mask]
+
+    # Ensure at least 2 clusters exist
+    if len(set(labels_clean)) < 2:
+        print("Not enough clusters for evaluation.")
+        return None
+
+    # Compute metrics
+    silhouette = silhouette_score(data_clean, labels_clean)
+    db_index = davies_bouldin_score(data_clean, labels_clean)
+    ch_score = calinski_harabasz_score(data_clean, labels_clean)
+
+    return {
+        "Silhouette Score": silhouette,
+        "Davies-Bouldin Index": db_index,
+        "Calinski-Harabasz Score": ch_score
+    }
+
+
+# -------------------------------
+# EXTERNAL CLUSTER EVALUATION
+# -------------------------------
+def evaluate_external(true_labels, cluster_labels):
+    """
+    Evaluates clustering using ground truth labels.
+
+    Parameters:
+    - true_labels: actual resume categories
+    - cluster_labels: predicted cluster labels
+
+    Returns:
+    - dictionary of evaluation scores
+    """
+
+    # Remove noise points
+    mask = cluster_labels != -1
+    true_clean = true_labels[mask]
+    cluster_clean = cluster_labels[mask]
+
+    # Compute metrics
+    ari = adjusted_rand_score(true_clean, cluster_clean)
+    nmi = normalized_mutual_info_score(true_clean, cluster_clean)
+
+    return {
+        "Adjusted Rand Index (ARI)": ari,
+        "Normalized Mutual Info (NMI)": nmi
+    }
+
+
+# -------------------------------
+# LOAD DATA
+# -------------------------------
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+
+# Load embeddings (same as clustering step)
 EMB_PATH = os.path.join(BASE_DIR, "results", "embeddings", "resume_embeddings.npy")
-LABEL_PATH = os.path.join(BASE_DIR, "results", "clusters", "cluster_labels.npy")
-
 embeddings = np.load(EMB_PATH)
-labels = np.load(LABEL_PATH)
 
-print("Loaded embeddings:", embeddings.shape)
-print("Loaded labels:", labels.shape)
+# Load cluster labels (you should have saved these)
+labels_raw = np.load(os.path.join(BASE_DIR, "results", "clusters", "raw_labels.npy"))
+labels_pca = np.load(os.path.join(BASE_DIR, "results", "clusters", "pca_labels.npy"))
+labels_umap = np.load(os.path.join(BASE_DIR, "results", "clusters", "umap_labels.npy"))
+labels_pca_umap = np.load(os.path.join(BASE_DIR, "results", "clusters", "pca_umap_labels.npy"))
 
-# PCA (for similarity metrics)
-pca = PCA(n_components=50)
-embeddings_pca =pca.fit_transform(embeddings)
-embeddings_pca = normalize(embeddings_pca)
+# OPTIONAL: Load true labels if available
+# Example: true_labels = np.load("true_labels.npy")
+# If you don't have labels, skip external evaluation
+true_labels_path = os.path.join(BASE_DIR, "data", "processed", "true_labels.npy")
 
-# UMAP space (for clustering evaluation: DB index)
-reducer = umap.UMAP(n_neighbors=5,n_components=20,min_dist=0.0,metric="cosine",random_state=42)
-embeddings_umap = reducer.fit_transform(embeddings_pca)
-
-print("Transformed embeddings for evaluation:")
-print("PCA shape ", embeddings_pca.shape)
-print("UMAP shape ", embeddings_umap.shape)
-
-# noise ratio
-num_noise = np.sum(labels == -1)
-noise_ratio =num_noise/len(labels)
-
-print("\nNoise points:",num_noise)
-print("Noise ratio:",round(noise_ratio, 3))
-
-
-# cluster sizes
-
-cluster_ids = sorted([c for c in set(labels) if c != -1])
-print("\nCluster size distribution:")
-
-for cid in cluster_ids:
-    size = np.sum(labels==cid)
-    print(f"Cluster {cid}: {size} resumes")
-
-
-# intra cluster similarity
-
-print("\nIntra-cluster similarity:")
-intra_values = []
-
-for cid in cluster_ids:
-    cluster_points = embeddings_pca[labels == cid]
-    if len(cluster_points) > 1:
-        sim_matrix = cosine_similarity(cluster_points)
-        np.fill_diagonal(sim_matrix, 0)
-
-        n = sim_matrix.shape[0]
-        mean_sim = np.sum(sim_matrix) / (n*n - n)
-
-        intra_values.append(mean_sim)
-        print(f"Cluster {cid}: {round(mean_sim,3)}")
-
-# inter cluster similarity 
-print("\nInter-cluster centroid similarity:")
-centroids =[]
-for cid in cluster_ids:
-    centroid =np.mean(embeddings_pca[labels == cid],axis=0)
-    centroid =centroid/np.linalg.norm(centroid)
-    centroids.append(centroid)
-
-centroids =np.array(centroids)
-
-if len(centroids)>1:
-    centroid_sim =cosine_similarity(centroids)
-    print(np.round(centroid_sim,3))
-
-    mean_intra = np.mean(intra_values) if intra_values else 0
-
-    print("\nMean intra-cluster similarity:",round(mean_intra,3))
-
-    mean_inter = np.mean(centroid_sim[np.triu_indices_from(centroid_sim, k=1)])
-    print("Mean inter-cluster similarity:",round(mean_inter,3))
-    print("Separation gap (intra - inter):",round(mean_intra-mean_inter,3))
-
-"""
-Davies Bouldin index
-
-Interpretation:
-- lower is better
-< 1.0  : strong clustering
-1 to 2  : moderate structure
-> 2    : weak separation
-"""
-
-
-# DB index cannot handle noise (-1), so removing noise points
-valid_mask= labels != -1
-
-if len(set(labels[valid_mask]))> 1:
-    db_score =davies_bouldin_score(embeddings_umap[valid_mask],labels[valid_mask])
-    print("\nDavies-Bouldin Index:",round(db_score,3))
-    print()
+if os.path.exists(true_labels_path):
+    true_labels = np.load(true_labels_path)
 else:
-    print("\nDavies-Bouldin cannot be computed (only one cluster).")
+    true_labels = None
 
-if len(set(labels[valid_mask])) > 1:
-    sil_score = silhouette_score(
-        embeddings_umap[valid_mask],
-        labels[valid_mask]
-    )
-    print("Silhouette Score:", round(sil_score, 3))
 
-  
+# -------------------------------
+# EVALUATION FOR EACH PIPELINE
+# -------------------------------
 
+print("\n===== INTERNAL EVALUATION =====\n")
+
+print("RAW:")
+print(evaluate_internal(embeddings, labels_raw), "\n")
+
+print("PCA:")
+print(evaluate_internal(embeddings, labels_pca), "\n")
+
+print("UMAP:")
+print(evaluate_internal(embeddings, labels_umap), "\n")
+
+print("PCA + UMAP:")
+print(evaluate_internal(embeddings, labels_pca_umap), "\n")
+
+
+# -------------------------------
+# EXTERNAL EVALUATION (OPTIONAL)
+# -------------------------------
+
+if true_labels is not None:
+    print("\n===== EXTERNAL EVALUATION =====\n")
+
+    print("RAW:")
+    print(evaluate_external(true_labels, labels_raw), "\n")
+
+    print("PCA:")
+    print(evaluate_external(true_labels, labels_pca), "\n")
+
+    print("UMAP:")
+    print(evaluate_external(true_labels, labels_umap), "\n")
+
+    print("PCA + UMAP:")
+    print(evaluate_external(true_labels, labels_pca_umap), "\n")
+
+else:
+    print("\n(No ground truth labels found — skipping external evaluation)\n")
+
+
+# -------------------------------
+# END OF FILE
+# -------------------------------
+"""
+This script completes the evaluation phase of the resume clustering pipeline.
+
+Key Takeaways:
+- Internal metrics evaluate structure of clusters
+- External metrics evaluate alignment with real-world categories
+- Combined, these provide a strong justification for clustering quality
+
+This step is essential to transform the project from a simple pipeline
+into a research-quality analysis.
+"""

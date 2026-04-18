@@ -1,3 +1,5 @@
+#interpret_clusters.py
+
 import os
 import re
 import numpy as np
@@ -6,7 +8,7 @@ from collections import Counter
 # paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 TEXT_DIR = os.path.join(BASE_DIR, "data", "extracted_text")
-LABEL_PATH = os.path.join(BASE_DIR, "results", "clusters", "cluster_labels.npy")
+LABEL_PATH = os.path.join(BASE_DIR, "results", "clusters", "pca_umap_labels.npy")
 
 # load labels
 labels = np.load(LABEL_PATH)

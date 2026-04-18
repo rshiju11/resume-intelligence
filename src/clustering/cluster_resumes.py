@@ -2,7 +2,7 @@
 cluster_resumes.py
 
 - load embeddings
-- reduce dimensionaity using UMAP
+- reduce dimensionality using UMAP
 - form clusters using HDBSCAN algorithm
 - save cluster labels
 - visualize 2d structure
@@ -14,6 +14,16 @@ import hdbscan
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import os
+
+# -------------------------------
+# FIXED PLOT FUNCTION (MOVED UP)
+# -------------------------------
+def plot_clusters(data_2d, labels, title):
+    plt.figure(figsize=(6,5))
+    plt.scatter(data_2d[:,0], data_2d[:,1], c=labels, cmap="tab10")
+    plt.title(title)
+    plt.show()
+
 
 # load embeddings
 
@@ -34,17 +44,34 @@ data_raw = embeddings_raw
 pca = PCA(n_components=50)
 data_pca = pca.fit_transform(embeddings_raw)
 
-# UMAP only
-umap_only = umap.UMAP(n_neighbors=5,n_components=20,min_dist=0.0, metric="cosine",random_state=42)
+# UMAP only (UPDATED PARAMS)
+umap_only = umap.UMAP(
+    n_neighbors=8,
+    n_components=20,
+    min_dist=0.05,
+    metric="cosine",
+    random_state=42
+)
 data_umap = umap_only.fit_transform(embeddings_raw)
 
-# PCA + UMAP
-umap_after_pca = umap.UMAP(n_neighbors=5,n_components=20,min_dist=0.0, metric="cosine",random_state=42)
+# PCA + UMAP (UPDATED PARAMS)
+umap_after_pca = umap.UMAP(
+    n_neighbors=8,
+    n_components=20,
+    min_dist=0.05,
+    metric="cosine",
+    random_state=42
+)
 data_pca_umap = umap_after_pca.fit_transform(data_pca)
 
 # Clustering function
 def cluster_data(data):
-    clusterer = hdbscan.HDBSCAN( min_cluster_size=6,min_samples=2, cluster_selection_method='leaf', metric="euclidean")
+    clusterer = hdbscan.HDBSCAN(
+        min_cluster_size=4,
+        min_samples=2,
+        cluster_selection_method='leaf',
+        metric="euclidean"
+    )
     labels = clusterer.fit_predict(data)
 
     num_clusters = len(set(labels)) - (1 if -1 in labels else 0)
@@ -53,30 +80,38 @@ def cluster_data(data):
     return labels, num_clusters, num_noise
 
 
-datasets = {"raw": data_raw,"pca": data_pca,"umap": data_umap,"pca_umap": data_pca_umap}
+datasets = {
+    "raw": data_raw,
+    "pca": data_pca,
+    "umap": data_umap,
+    "pca_umap": data_pca_umap
+}
+
 results = {}
 
+# -------------------------------
+# MAIN LOOP
+# -------------------------------
 for name, data in datasets.items():
+
     print("\n" + "="*50)
     print(f"\nRunning: {name}")
     print("\n" + "="*50)
+
+    # 1. CLUSTER FIRST
     labels, num_clusters, num_noise = cluster_data(data)
     results[name] = labels
+
     print("Clusters:", num_clusters)
     print("Noise points:", num_noise)
 
+    # 2. SAVE LABELS
     save_path = os.path.join(BASE_DIR, "results", "clusters", f"{name}_labels.npy")
     np.save(save_path, labels)
-    
-reducer_2d = umap.UMAP(n_components=2, random_state=42)
-data_2d = reducer_2d.fit_transform(data)
 
-def plot_clusters(data, labels, title):
-    plt.figure(figsize=(6,5))
-    plt.scatter(data_2d[:,0], data_2d[:,1], c=labels, cmap="tab10")
-    plt.title(title)
-    plt.show()
+    # 3. REDUCE TO 2D FOR VISUALIZATION
+    reducer_2d = umap.UMAP(n_components=2, random_state=42)
+    data_2d = reducer_2d.fit_transform(data)
 
-
-for name, data in datasets.items():
-    plot_clusters(data, results[name], f"{name} clustering")
+    # 4. PLOT
+    plot_clusters(data_2d, labels, f"{name} clustering")

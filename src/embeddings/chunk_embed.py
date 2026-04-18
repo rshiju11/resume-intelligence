@@ -14,16 +14,18 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 model = SentenceTransformer("BAAI/bge-large-en-v1.5")
 
-INSTRUCTION = "Represent this resume for clustering based on research focus, technical expertise, and career domain."
+INSTRUCTION = "Represent this resume for clustering based on career stage, academic rank, research vs industry orientation, and professional role."
 
 ANCHORS = [
-    "machine learning, artificial intelligence, deep learning, neural networks",
-    "data science, statistics, data analysis, predictive modeling",
-    "software engineering, backend development, distributed systems",
-    "computer vision, NLP, natural language processing",
-    "academic research, publications, conferences, PhD research"
+    "senior academic professor tenured faculty research leadership publications grants",
+    "assistant professor early career academic teaching research experience post phd",
+    "research scientist postdoctoral researcher academic research lab publications",
+    "industry research leader principal scientist applied research corporate leadership",
+    "industry professional software engineer data scientist applied industry experience",
+    "teaching focused academic lecturer instructor curriculum teaching university",
+    "mid level academic associate professor research teaching balance",
+    "hybrid academic industry collaboration startup entrepreneur research commercialization"
 ]
-
 
 
 def chunk_text(text, chunk_size=500):

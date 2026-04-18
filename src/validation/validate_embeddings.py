@@ -91,7 +91,7 @@ plt.scatter(reduced[:,0],reduced[:,1])
 plt.title("PCA Projection of Resume Embeddings")
 plt.show()
 
-# need to change
+
 
 
 

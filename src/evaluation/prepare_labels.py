@@ -109,10 +109,7 @@ for orig_name, clean_name in zip(embedding_filenames, embedding_clean):
 
 true_labels = np.array(true_labels)
 
-
-# -------------------------------
 # SAVE OUTPUT
-# -------------------------------
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 np.save(OUT_PATH, true_labels)
 
@@ -120,9 +117,7 @@ print("\nSaved true_labels.npy")
 print("Shape:", true_labels.shape)
 
 
-# -------------------------------
 # DEBUG OUTPUT
-# -------------------------------
 if missing:
     print("\n⚠️ Missing matches:")
     for m in missing:

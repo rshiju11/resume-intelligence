@@ -76,10 +76,7 @@ def semantic_similarity_analysis(embeddings, labels):
     print("Avg within-cluster similarity:", np.mean(within))
     print("Avg between-cluster similarity:", np.mean(between))
 
-
-# -------------------------------
 # CLUSTER vs TRUE LABEL TABLE
-# -------------------------------
 def cluster_label_distribution(true_labels, cluster_labels):
 
     mask = cluster_labels != -1

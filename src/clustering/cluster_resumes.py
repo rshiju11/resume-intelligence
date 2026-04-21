@@ -34,10 +34,7 @@ EMB_PATH = os.path.join(BASE_DIR, "results","embeddings", "resume_embeddings.npy
 embeddings = np.load(EMB_PATH)
 print("embedding size:", embeddings.shape)
 
-
-# -------------------------------
 # DATA PREPARATION
-# -------------------------------
 
 # RAW
 data_raw = embeddings
@@ -46,37 +43,18 @@ data_raw = embeddings
 pca = PCA(n_components=50, random_state=42)
 data_pca = pca.fit_transform(embeddings)
 
+# UMAP
 
-# -------------------------------
-# UMAP (FINAL BEST SETTINGS)
-# -------------------------------
-
-umap_only = umap.UMAP(
-    n_neighbors=10,
-    n_components=10,
-    min_dist=0.1,
-    metric="cosine",
-    random_state=42
-)
+umap_only = umap.UMAP(n_neighbors=10,n_components=10,min_dist=0.1, metric="cosine",random_state=42)
 data_umap = umap_only.fit_transform(embeddings)
 
 
-umap_after_pca = umap.UMAP(
-    n_neighbors=10,
-    n_components=10,
-    min_dist=0.1,
-    metric="cosine",
-    random_state=42
-)
+umap_after_pca = umap.UMAP( n_neighbors=10,n_components=10,min_dist=0.1,metric="cosine", random_state=42)
 data_pca_umap = umap_after_pca.fit_transform(data_pca)
 
 # HDBSCAN (FINAL SETTINGS)
 def cluster_data(data):
-    clusterer = hdbscan.HDBSCAN(
-        min_cluster_size=3,
-        min_samples=1,
-        metric="euclidean"
-    )
+    clusterer = hdbscan.HDBSCAN(min_cluster_size=3, min_samples=1, metric="euclidean" )
 
     labels = clusterer.fit_predict(data)
 

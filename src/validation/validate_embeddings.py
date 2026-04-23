@@ -84,12 +84,12 @@ structure check: for a visible data spread
 - tight dot: collapsed embeddings 
 
 """
-pca = PCA(n_components=2)
-reduced = pca.fit_transform(embeddings)
+#pca = PCA(n_components=2)
+#reduced = pca.fit_transform(embeddings)
 
-plt.scatter(reduced[:,0],reduced[:,1])
-plt.title("PCA Projection of Resume Embeddings")
-plt.show()
+#plt.scatter(reduced[:,0],reduced[:,1])
+#plt.title("PCA Projection of Resume Embeddings")
+#plt.show()
 
 
 

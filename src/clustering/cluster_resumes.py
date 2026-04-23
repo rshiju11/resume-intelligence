@@ -15,9 +15,7 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import os
 
-# -------------------------------
 # PLOT FUNCTION
-# -------------------------------
 def plot_clusters(data_2d, labels, title):
     plt.figure(figsize=(6,5))
     plt.scatter(data_2d[:,0], data_2d[:,1], c=labels, cmap="tab20", s=20)
@@ -65,12 +63,7 @@ def cluster_data(data):
 
 
 # DATASETS
-datasets = {
-    "raw": data_raw,
-    "pca": data_pca,
-    "umap": data_umap,
-    "pca_umap": data_pca_umap
-}
+datasets = {"raw": data_raw, "pca": data_pca, "umap": data_umap, "pca_umap": data_pca_umap }
 
 results = {}
 

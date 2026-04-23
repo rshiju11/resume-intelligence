@@ -1,0 +1,97 @@
+
+Noise (4 resumes):
+  Chakraborty_CV2025.txt
+  Subbarao Kambhampati.txt
+  Flavio_Calmon_CV.txt
+  texas-tech.txt
+
+Cluster 0 (7 resumes):
+  DiekhoffLadelle _ Ball State University.txt
+  Jennifer Coy _ Ball State University.txt
+  Travis Faas _ Ball State University.txt
+  Benjamin Diekhoff _ Ball State University.txt
+  Huseyin Ergin _ Ball State University.txt
+  Kunwarjay Bagga _ Ball State University.txt
+  Andrew Harris _ Ball State University.txt
+
+Cluster 1 (5 resumes):
+  Umit Ogras _ ASU Search.txt
+  Jennifer Kitchen _ ASU Search.txt
+  Sandeep Gupta _ ASU Search.txt
+  Hugh Barnaby _ ASU Search.txt
+  Mariana Bertoni _ ASU Search.txt
+
+Cluster 2 (6 resumes):
+  Luis_von_Ahn.txt
+  nikolabanovic_cv.txt
+  Arthur_CV.txt
+  Paul Gestwicki _ Ball State University.txt
+  ScottDexterCV.txt
+  Amos Bloomberg.txt
+
+Cluster 3 (5 resumes):
+  CV - Adeline Paiement.txt
+  Daniele  Panozzo.txt
+  Denis Zorin.txt
+  David Fouhey.txt
+  CV-Jun_Gao.txt
+
+Cluster 4 (3 resumes):
+  Abhishek Gupta.txt
+  Resume_main.txt
+  Zak Kassas.txt
+
+Cluster 5 (5 resumes):
+  Dartmouth.txt
+  Debdipta Goswami.txt
+  CV_TeYenWu.txt
+  Robert Gregg CV - rdgregg-CV_web.txt
+  penn.txt
+
+Cluster 6 (3 resumes):
+  Roberto Myers.txt
+  CurriculumVitae.txt
+  buffalo.txt
+
+Cluster 7 (16 resumes):
+  mosharaf_cv.txt
+  hviettung_CV.txt
+  vitae.txt
+  CV_MikeVDBurmester.txt
+  CV-Mahdi-Cheraghchi.txt
+  Nir Bitansky.txt
+  Ohio-State.txt
+  Mohamed Zahran.txt
+  Resume - Jiasi Chen - JiasiChen_CV.txt
+  Carole-Jean Wu.txt
+  cv-rachit.txt
+  24-11-21-CV.txt
+  CV_GrigoryFedyukovich.txt
+  cv (2).txt
+  cv_abdelfattah.txt
+  cv_An-IAWng.txt
+
+Cluster 8 (4 resumes):
+  Philip Schniter.txt
+  SWicker_CV.txt
+  Lee Potter.txt
+  Aylin Yener.txt
+
+Cluster 9 (7 resumes):
+  Julia Kempe.txt
+  Harvard-cv.txt
+  resume.txt
+  Joan Bruna.txt
+  LAURA BALZANO - Balzano_CV_June_2020.txt
+  Ohio.txt
+  Shayok Chakraborty CV.txt
+
+Cluster 10 (3 resumes):
+  purdue.txt
+  CV_XianFMallory.txt
+  MG_CV_2026_02.txt
+
+Cluster 11 (3 resumes):
+  Academic_CV.txt
+  cv.txt
+  Tanya Berger-Wolf.txt

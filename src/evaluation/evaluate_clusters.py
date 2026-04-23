@@ -76,22 +76,6 @@ def semantic_similarity_analysis(embeddings, labels):
     print("Avg within-cluster similarity:", np.mean(within))
     print("Avg between-cluster similarity:", np.mean(between))
 
-# CLUSTER vs TRUE LABEL TABLE
-def cluster_label_distribution(true_labels, cluster_labels):
-
-    mask = cluster_labels != -1
-    true_clean = true_labels[mask]
-    cluster_clean = cluster_labels[mask]
-
-    df = pd.DataFrame({
-        "Cluster": cluster_clean,
-        "True Label": true_clean
-    })
-
-    table = pd.crosstab(df["Cluster"], df["True Label"])
-
-    print("\n===== CLUSTER vs LABEL DISTRIBUTION =====")
-    print(table)
 
 # LOAD DATA
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
@@ -145,7 +129,6 @@ if os.path.exists(true_labels_path):
     print("PCA + UMAP:")
     print(evaluate_external(true_labels, labels_pca_umap), "\n")
 
-    cluster_label_distribution(true_labels, labels_pca_umap)
 
 else:
     print("\n(No ground truth labels found — skipping external evaluation)\n")

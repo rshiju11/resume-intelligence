@@ -1,0 +1,101 @@
+
+Noise (8 resumes):
+  Philip Schniter.txt
+  CV_XianFMallory.txt
+  Subbarao Kambhampati.txt
+  Flavio_Calmon_CV.txt
+  texas-tech.txt
+  MG_CV_2026_02.txt
+  Lee Potter.txt
+  Shayok Chakraborty CV.txt
+
+Cluster 0 (7 resumes):
+  DiekhoffLadelle _ Ball State University.txt
+  Jennifer Coy _ Ball State University.txt
+  Travis Faas _ Ball State University.txt
+  Benjamin Diekhoff _ Ball State University.txt
+  Huseyin Ergin _ Ball State University.txt
+  Kunwarjay Bagga _ Ball State University.txt
+  Andrew Harris _ Ball State University.txt
+
+Cluster 1 (8 resumes):
+  mosharaf_cv.txt
+  vitae.txt
+  Ohio-State.txt
+  CV_TeYenWu.txt
+  Resume - Jiasi Chen - JiasiChen_CV.txt
+  cv-rachit.txt
+  CV_GrigoryFedyukovich.txt
+  cv_An-IAWng.txt
+
+Cluster 2 (4 resumes):
+  hviettung_CV.txt
+  CV_MikeVDBurmester.txt
+  CV-Mahdi-Cheraghchi.txt
+  Nir Bitansky.txt
+
+Cluster 3 (5 resumes):
+  Dartmouth.txt
+  Arthur_CV.txt
+  Debdipta Goswami.txt
+  Robert Gregg CV - rdgregg-CV_web.txt
+  penn.txt
+
+Cluster 4 (5 resumes):
+  Mohamed Zahran.txt
+  Carole-Jean Wu.txt
+  24-11-21-CV.txt
+  cv (2).txt
+  cv_abdelfattah.txt
+
+Cluster 5 (5 resumes):
+  Luis_von_Ahn.txt
+  nikolabanovic_cv.txt
+  Paul Gestwicki _ Ball State University.txt
+  ScottDexterCV.txt
+  Amos Bloomberg.txt
+
+Cluster 6 (3 resumes):
+  Roberto Myers.txt
+  CurriculumVitae.txt
+  buffalo.txt
+
+Cluster 7 (5 resumes):
+  Umit Ogras _ ASU Search.txt
+  Jennifer Kitchen _ ASU Search.txt
+  Sandeep Gupta _ ASU Search.txt
+  Hugh Barnaby _ ASU Search.txt
+  Mariana Bertoni _ ASU Search.txt
+
+Cluster 8 (3 resumes):
+  Abhishek Gupta.txt
+  Chakraborty_CV2025.txt
+  Resume_main.txt
+
+Cluster 9 (3 resumes):
+  SWicker_CV.txt
+  Aylin Yener.txt
+  Zak Kassas.txt
+
+Cluster 10 (3 resumes):
+  Academic_CV.txt
+  cv.txt
+  Tanya Berger-Wolf.txt
+
+Cluster 11 (3 resumes):
+  Julia Kempe.txt
+  CV - Adeline Paiement.txt
+  Joan Bruna.txt
+
+Cluster 12 (3 resumes):
+  purdue.txt
+  Harvard-cv.txt
+  LAURA BALZANO - Balzano_CV_June_2020.txt
+
+Cluster 13 (6 resumes):
+  Daniele  Panozzo.txt
+  Denis Zorin.txt
+  resume.txt
+  Ohio.txt
+  David Fouhey.txt
+  CV-Jun_Gao.txt

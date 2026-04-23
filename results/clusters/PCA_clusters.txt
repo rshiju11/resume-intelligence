@@ -1,0 +1,77 @@
+
+Noise (30 resumes):
+  Umit Ogras _ ASU Search.txt
+  DiekhoffLadelle _ Ball State University.txt
+  CV - Adeline Paiement.txt
+  Daniele  Panozzo.txt
+  CV_XianFMallory.txt
+  Denis Zorin.txt
+  Jennifer Coy _ Ball State University.txt
+  texas-tech.txt
+  Travis Faas _ Ball State University.txt
+  Benjamin Diekhoff _ Ball State University.txt
+  Arthur_CV.txt
+  Ohio-State.txt
+  Debdipta Goswami.txt
+  Huseyin Ergin _ Ball State University.txt
+  Kunwarjay Bagga _ Ball State University.txt
+  CV_TeYenWu.txt
+  Carole-Jean Wu.txt
+  Roberto Myers.txt
+  Jennifer Kitchen _ ASU Search.txt
+  CurriculumVitae.txt
+  Andrew Harris _ Ball State University.txt
+  CV_GrigoryFedyukovich.txt
+  Sandeep Gupta _ ASU Search.txt
+  Hugh Barnaby _ ASU Search.txt
+  cv.txt
+  Paul Gestwicki _ Ball State University.txt
+  ScottDexterCV.txt
+  Ohio.txt
+  Amos Bloomberg.txt
+  Mariana Bertoni _ ASU Search.txt
+
+Cluster 0 (3 resumes):
+  Dartmouth.txt
+  Robert Gregg CV - rdgregg-CV_web.txt
+  penn.txt
+
+Cluster 1 (38 resumes):
+  Julia Kempe.txt
+  Abhishek Gupta.txt
+  mosharaf_cv.txt
+  hviettung_CV.txt
+  Luis_von_Ahn.txt
+  Philip Schniter.txt
+  purdue.txt
+  vitae.txt
+  SWicker_CV.txt
+  CV_MikeVDBurmester.txt
+  Harvard-cv.txt
+  Chakraborty_CV2025.txt
+  Subbarao Kambhampati.txt
+  CV-Mahdi-Cheraghchi.txt
+  Flavio_Calmon_CV.txt
+  resume.txt
+  nikolabanovic_cv.txt
+  Nir Bitansky.txt
+  MG_CV_2026_02.txt
+  Lee Potter.txt
+  Mohamed Zahran.txt
+  Resume - Jiasi Chen - JiasiChen_CV.txt
+  cv-rachit.txt
+  24-11-21-CV.txt
+  Aylin Yener.txt
+  Joan Bruna.txt
+  cv (2).txt
+  Academic_CV.txt
+  Resume_main.txt
+  Tanya Berger-Wolf.txt
+  LAURA BALZANO - Balzano_CV_June_2020.txt
+  cv_abdelfattah.txt
+  David Fouhey.txt
+  CV-Jun_Gao.txt
+  cv_An-IAWng.txt
+  Zak Kassas.txt
+  Shayok Chakraborty CV.txt
+  buffalo.txt

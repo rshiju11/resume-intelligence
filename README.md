@@ -7,16 +7,16 @@ Rshijuta Pokharel
 MS Data Science, Wright State University
 
 ## Dataset
-Total resumes: 73
-Format: PDF files
-Location: data/raw/
+1. Total resumes: 73
+2. Format: PDF files
+3. Location: data/raw/
 
 ## Pipeline Steps
-Text Extraction: Extracts and cleans text from PDF resumes.
-Embedding Generation: Generates semantic embeddings using BAAI (BGE model).
-Dimensionality Reduction: Applies PCA and UMAP.
-Clustering: Uses HDBSCAN to form clusters.
-Evaluation: Uses internal and external metrics.
+1. Text Extraction: Extracts and cleans text from PDF resumes.
+2. Embedding Generation: Generates semantic embeddings using BAAI (BGE model).
+3. Dimensionality Reduction: Applies PCA and UMAP.
+4. Clustering: Uses HDBSCAN to form clusters.
+5. Evaluation: Uses internal and external metrics.
 
 ## Requirements
 pip install -r requirements.txt
@@ -30,6 +30,6 @@ pip install -r requirements.txt
 6. Evaluate Clusters: python src/evaluation/evaluate_clusters.py
  
 ## Results
-Embeddings: results/embeddings/resume_embeddings.npy
-Cluster labels: results/clusters/
-Evaluation results: Printed in terminal
+1. Embeddings: results/embeddings/resume_embeddings.npy
+2. Cluster labels: results/clusters/
+3. Evaluation results: Printed in terminal

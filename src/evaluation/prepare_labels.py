@@ -16,19 +16,13 @@ import os
 import numpy as np
 import pandas as pd
 
-# -------------------------------
-# PATHS
-# -------------------------------
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 
 EXCEL_PATH = os.path.join(BASE_DIR, "data", "resume_groups.xlsx")
 FILENAMES_PATH = os.path.join(BASE_DIR, "results", "embeddings", "filenames.txt")
 OUT_PATH = os.path.join(BASE_DIR, "data", "processed", "true_labels.npy")
 
-
-# -------------------------------
-# HELPER: NORMALIZE FILENAMES
-# -------------------------------
+# normalize filenames
 def normalize_name(name):
     name = name.lower()
     name = name.replace(".pdf", "").replace(".txt", "")
@@ -37,13 +31,10 @@ def normalize_name(name):
     name = " ".join(name.split())
     return name
 
-
-# -------------------------------
-# LOAD EXCEL
-# -------------------------------
+# load excel file
 df = pd.read_excel(EXCEL_PATH)
 
-# clean column names (VERY IMPORTANT FIX)
+# clean column names
 df.columns = df.columns.str.strip().str.lower()
 
 file_col = "resume"
@@ -56,27 +47,20 @@ df = df.dropna(subset=[label_col])
 df["clean_name"] = df[file_col].apply(normalize_name)
 
 
-# -------------------------------
-# LOAD EMBEDDING FILENAMES
-# -------------------------------
 with open(FILENAMES_PATH, "r") as f:
     embedding_filenames = [line.strip() for line in f.readlines()]
 
 embedding_clean = [normalize_name(f) for f in embedding_filenames]
 
 
-# -------------------------------
-# MANUAL FIXES (EDGE CASES)
-# -------------------------------
+# manually matching a wrong naming
 manual_map = {
     normalize_name("Hugh Barnaby _ ASU Search.txt"):
     normalize_name("Hugh Barnaby _ Ball State University.pdf")
 }
 
 
-# -------------------------------
-# CREATE LABEL MAPPING
-# -------------------------------
+# label mapping
 label_map = {label: idx for idx, label in enumerate(df[label_col].unique())}
 
 print("Label Mapping:")
@@ -84,15 +68,12 @@ for k, v in label_map.items():
     print(f"{v} → {k}")
 
 
-# -------------------------------
-# MATCH FILENAMES
-# -------------------------------
+# matching filenames
 true_labels = []
 missing = []
 
 for orig_name, clean_name in zip(embedding_filenames, embedding_clean):
 
-    # apply manual mapping if needed
     if clean_name in manual_map:
         target_name = manual_map[clean_name]
         row = df[df["clean_name"] == target_name]
@@ -109,15 +90,12 @@ for orig_name, clean_name in zip(embedding_filenames, embedding_clean):
 
 true_labels = np.array(true_labels)
 
-# SAVE OUTPUT
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 np.save(OUT_PATH, true_labels)
 
 print("\nSaved true_labels.npy")
 print("Shape:", true_labels.shape)
 
-
-# DEBUG OUTPUT
 if missing:
     print("\n⚠️ Missing matches:")
     for m in missing:

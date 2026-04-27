@@ -1,3 +1,20 @@
-papers.txt
+
+*.pptx
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+venv/
+env/
+.venv/
+
+.DS_Store
 
 *.docx
+~$*.docx
+*.pptx
+*.pdf
+
+papers.txt

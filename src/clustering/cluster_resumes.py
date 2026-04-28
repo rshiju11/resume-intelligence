@@ -124,4 +124,45 @@ for name, data in datasets.items():
     data_2d = reducer_2d.fit_transform(data)
     plot_clusters(data_2d, labels, f"{name} Clusters Plot")
 
-    
+from collections import Counter
+
+clusterer = hdbscan.HDBSCAN(min_cluster_size=3, min_samples=1)
+labels = clusterer.fit_predict(data)
+
+# Cluster Size Distribution 
+
+cluster_counts = Counter(labels)
+
+# separate noise and clusters
+clusters = [k for k in cluster_counts.keys() if k != -1]
+counts = [cluster_counts[k] for k in clusters]
+
+# sort by cluster id
+clusters, counts = zip(*sorted(zip(clusters, counts)))
+
+plt.figure(figsize=(8,5))
+plt.bar(clusters, counts)
+
+plt.xlabel("Cluster ID")
+plt.ylabel("Number of Resumes")
+plt.title("Cluster Size Distribution")
+
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.show()
+
+# print noise info
+print("Noise points:", cluster_counts.get(-1, 0))
+
+# include noise in visualization
+all_labels = list(cluster_counts.keys())
+all_counts = list(cluster_counts.values())
+
+plt.figure(figsize=(8,5))
+plt.bar(all_labels, all_counts)
+plt.axvline(x=-1, color='r', linestyle='--', label='Noise (-1)')
+plt.legend()
+
+plt.xlabel("Cluster ID")
+plt.ylabel("Count")
+plt.title("Cluster Distribution (Including Noise)")
+plt.show()

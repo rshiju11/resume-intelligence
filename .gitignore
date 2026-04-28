@@ -1,3 +1,4 @@
+data/
 
 *.pptx
 __pycache__/
@@ -15,6 +16,9 @@ env/
 *.docx
 ~$*.docx
 *.pptx
-*.pdf
 
 papers.txt
+*.txt
+
+*.npy
+

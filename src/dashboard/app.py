@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from sklearn.decomposition import PCA
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_harabasz_score
 
 st.set_page_config(
     page_title="Resume Clustering Dashboard",
@@ -176,4 +177,29 @@ neighbor_df = pd.DataFrame(neighbors)
 st.dataframe(
     neighbor_df,
     use_container_width=True
+)
+
+valid_mask = labels != -1
+valid_labels = labels[valid_mask]
+valid_embeddings = embeddings[valid_mask]
+
+if len(set(valid_labels)) > 1:
+    sil = silhouette_score(valid_embeddings, valid_labels)
+    dbi = davies_bouldin_score(valid_embeddings, valid_labels)
+    ch = calinski_harabasz_score(valid_embeddings, valid_labels)
+
+    m1, m2, m3 = st.columns(3)
+    m1.metric("Silhouette Score", round(sil, 4))
+    m2.metric("Davies-Bouldin Index", round(dbi, 4))
+    m3.metric("Calinski-Harabasz Score", round(ch, 4))
+else:
+    st.warning("Not enough valid clusters to calculate evaluation metrics.")
+
+csv = df.to_csv(index=False).encode("utf-8")
+
+st.download_button(
+    label="Download Cluster Results as CSV",
+    data=csv,
+    file_name="cluster_results.csv",
+    mime="text/csv"
 )
